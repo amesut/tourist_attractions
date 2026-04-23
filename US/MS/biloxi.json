@@ -1,0 +1,231 @@
+{
+    "city_metadata": {
+        "city_name": "Biloxi",
+        "state_code": "MS",
+        "state_full": "Mississippi",
+        "city_summary": "Biloxi (  bih-LUK-see; French: [bilusi]) is a city in Harrison County, Mississippi, United States. It lies on the Gulf Coast in southern Mississippi, bordering the city of Gulfport to its west. The adjacent cities are both designated as seats of Harrison County.",
+        "city_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/BiloxiLightHouseandVisitorsCenter.jpg/1280px-BiloxiLightHouseandVisitorsCenter.jpg",
+        "city_lat": 30.41194444,
+        "city_lon": -88.92777778,
+        "source": "wikipedia_verified_engine"
+    },
+    "attractions": [
+        {
+            "type": "way",
+            "id": 165920606,
+            "lat": 30.3938216,
+            "lon": -88.8721874,
+            "tags": {
+                "addr:city": "Biloxi",
+                "addr:postcode": "39501",
+                "addr:street": "Highway 90",
+                "building": "yes",
+                "name": "City of Biloxi Center For Ceramics",
+                "source": "MGC",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d0/PleasantReedDrawing.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 165926889,
+            "lat": 30.3933482,
+            "lon": -88.8591118,
+            "tags": {
+                "addr:city": "Biloxi",
+                "addr:street": "Cadet Street",
+                "building": "yes",
+                "name": "Maritime and Seafood Industry Museuem",
+                "source": "MGC",
+                "tourism": "museum",
+                "website": "https://maritimemuseum.org/new/",
+                "wikidata": "Q6765771"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Biloxi_-_Margaritaville_Resort_-_Parking_View_to_Palace_Casino_%26_Golden_Nugget.jpg/1280px-Biloxi_-_Margaritaville_Resort_-_Parking_View_to_Palace_Casino_%26_Golden_Nugget.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 561871349,
+            "lat": 30.393924,
+            "lon": -88.871748,
+            "tags": {
+                "building": "yes",
+                "name": "Pleasant Reed Interpretive Center",
+                "tourism": "museum",
+                "wikidata": "Q7203931"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d0/PleasantReedDrawing.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 12074057,
+            "lat": 30.39081,
+            "lon": -88.862094,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Margaritaville_Resort_Biloxi.jpg",
+            "description": "Margaritaville Resort Biloxi is a resort hotel in Biloxi on the Mississippi Gulf Coast.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Margaritaville Resort Biloxi",
+                "wikipedia": "en:Margaritaville Resort Biloxi",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 122283,
+            "lat": 30.40166667,
+            "lon": -89.07611111,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/FightingSeabee_NavalConstructionBattalionCenter_Gulfport%2CMS.jpg/1280px-FightingSeabee_NavalConstructionBattalionCenter_Gulfport%2CMS.jpg",
+            "description": "Gulfport ( GUHLF-port) is a port city in Harrison County, Mississippi, United States, and its co-county seat.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Gulfport, Mississippi",
+                "wikipedia": "en:Gulfport, Mississippi",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 6205550,
+            "lat": 30.4125,
+            "lon": -88.89083333,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/FEMA_-_16968_-_Photograph_by_John_Fleck_taken_on_10-04-2005_in_Mississippi.jpg/1280px-FEMA_-_16968_-_Photograph_by_John_Fleck_taken_on_10-04-2005_in_Mississippi.jpg",
+            "description": "The IP Casino Resort Spa is a resort located in Biloxi, Mississippi.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "IP Casino Resort Spa",
+                "wikipedia": "en:IP Casino Resort Spa",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 65279663,
+            "lat": 30.36777778,
+            "lon": -89.08833333,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Mississippi_Aquarium_sign.jpg/1280px-Mississippi_Aquarium_sign.jpg",
+            "description": "Mississippi Aquarium is a nonprofit public aquarium located in Gulfport, Mississippi; it opened August 29, 2020, on the 15th anniversary of Hurricane Katrina, replacing the Marine Life Oceanarium, which was destroyed by the hurricane.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Mississippi Aquarium",
+                "wikipedia": "en:Mississippi Aquarium",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 8543451,
+            "lat": 30.363614,
+            "lon": -89.102244,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/IslandViewCasinoResortSign.jpg/1280px-IslandViewCasinoResortSign.jpg",
+            "description": "The Island View Casino is a casino and hotel located in Gulfport, Mississippi.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Island View Casino",
+                "wikipedia": "en:Island View Casino",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 16949861,
+            "lat": 33,
+            "lon": -90,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Flag_of_Mississippi.svg/1280px-Flag_of_Mississippi.svg.png",
+            "description": "Mississippi (  MISS-iss-IP-ee) is a state in the Southeastern and Deep South regions of the United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Mississippi",
+                "wikipedia": "en:Mississippi",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 129294,
+            "lat": 31.31583333,
+            "lon": -89.30861111,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Hattiesburg_Flags.jpg/1280px-Hattiesburg_Flags.jpg",
+            "description": "Hattiesburg is a city in the U.S. state of Mississippi, located primarily in Forrest County (where it is the county seat and most populous city) and extending west into Lamar County.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Hattiesburg, Mississippi",
+                "wikipedia": "en:Hattiesburg, Mississippi",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 7857095,
+            "lat": 30.2391,
+            "lon": -89.42547,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Silver_Slipper_Casino.jpg/1280px-Silver_Slipper_Casino.jpg",
+            "description": "Silver Slipper Casino is a beachfront casino and hotel in Hancock County, Mississippi, owned and operated by Full House Resorts.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Silver Slipper Casino (Waveland)",
+                "wikipedia": "en:Silver Slipper Casino (Waveland)",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 192309,
+            "lat": 30.18888889,
+            "lon": -90.10138889,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Lake_Pontchartrain_by_Sentinel-2.jpg/1280px-Lake_Pontchartrain_by_Sentinel-2.jpg",
+            "description": "Lake Pontchartrain ( PON-chə-trayn; French: Lac Pontchartrain, pronounced [lak pɔ̃ʃaʁtrɛ̃] ) is an estuary located in southeastern Louisiana in the United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Lake Pontchartrain",
+                "wikipedia": "en:Lake Pontchartrain",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 2203833,
+            "lat": 30.36444444,
+            "lon": -86.9675,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Gulf_Islands_NS.jpg",
+            "description": "Gulf Islands National Seashore is an American national seashore that offers recreation opportunities and preserves natural and historic resources along the Gulf of Mexico barrier islands of Florida, Alabama, and Mississippi.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Gulf Islands National Seashore",
+                "wikipedia": "en:Gulf Islands National Seashore",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 690479,
+            "lat": 30.36276667,
+            "lon": -89.6002,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/NASA_logo.svg/1280px-NASA_logo.svg.png",
+            "description": "The John C. Stennis Space Center (SSC) is a NASA rocket testing facility in Hancock County, Mississippi, United States, on the banks of the Pearl River at the Mississippi–Louisiana border.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Stennis Space Center",
+                "wikipedia": "en:Stennis Space Center",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 24809451,
+            "lat": 32.37472222,
+            "lon": -86.30916667,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Old_Montgomery_Greyhound_Station_May2009.jpg/1280px-Old_Montgomery_Greyhound_Station_May2009.jpg",
+            "description": "The Freedom Rides Museum is located at 210 South Court Street in Montgomery, Alabama, in the building which was until 1995 the Montgomery Greyhound Bus Station.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Freedom Rides Museum",
+                "wikipedia": "en:Freedom Rides Museum",
+                "tourism": "attraction"
+            }
+        }
+    ]
+}

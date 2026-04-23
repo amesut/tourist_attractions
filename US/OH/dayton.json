@@ -1,0 +1,415 @@
+{
+    "city_metadata": {
+        "city_name": "Dayton",
+        "state_code": "OH",
+        "state_full": "Ohio",
+        "city_summary": "Dayton ( ) is a city in Montgomery County, Ohio, United States, and its county seat. It is the sixth-most populous city in Ohio, with a population of 137,644 at the 2020 census. The Dayton metropolitan area has an estimated 822,000 residents and is the state's fourth-largest metropolitan area.",
+        "city_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Dayton_Skyline_-_Sunset_September_2022_%28cropped%29.jpg/1280px-Dayton_Skyline_-_Sunset_September_2022_%28cropped%29.jpg",
+        "city_lat": 39.75944444,
+        "city_lon": -84.19166667,
+        "source": "wikipedia_verified_engine"
+    },
+    "attractions": [
+        {
+            "type": "node",
+            "id": 4869946721,
+            "lat": 39.7822614,
+            "lon": -84.1966265,
+            "tags": {
+                "addr:housenumber": "1345",
+                "addr:postcode": "45404",
+                "addr:street": "Stanley Avenue",
+                "email": "info@paradigmindustrial.com",
+                "name": "Paradigm Industrial",
+                "opening_hours": "Mo-Fr 07:00-16:00",
+                "phone": "+1-937-224-4415",
+                "tourism": "attraction",
+                "website": "https://paradigmindustrial.com/"
+            }
+        },
+        {
+            "type": "node",
+            "id": 5625501245,
+            "lat": 39.2379038,
+            "lon": -119.5926292,
+            "tags": {
+                "addr:city": "Dayton",
+                "addr:housenumber": "35",
+                "addr:postcode": "89403-6604",
+                "addr:state": "NV",
+                "addr:street": "Shady Lane",
+                "name": "Dayton Museum",
+                "tourism": "museum"
+            }
+        },
+        {
+            "type": "node",
+            "id": 6298371446,
+            "lat": 39.9054234,
+            "lon": -84.205822,
+            "tags": {
+                "name": "Dayton Air Show Entrance Arch",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 6498356887,
+            "lat": 39.7618924,
+            "lon": -84.1902536,
+            "tags": {
+                "addr:housenumber": "118",
+                "addr:postcode": "45420",
+                "addr:street": "North Jefferson Street",
+                "museum": "art",
+                "name": "The Contemporary Dayton Visual Arts Center",
+                "opening_hours": "Tu-Sa 10:00-16:00",
+                "tourism": "museum",
+                "website": "https://codayton.org/"
+            }
+        },
+        {
+            "type": "node",
+            "id": 6498356888,
+            "lat": 39.7614877,
+            "lon": -84.1901981,
+            "tags": {
+                "addr:housenumber": "101",
+                "addr:street": "East 2nd Street",
+                "name": "White House Event Center",
+                "phone": "+1-937-802-4220",
+                "tourism": "attraction",
+                "website": "http://whitehouseeventcenterdayton.com"
+            }
+        },
+        {
+            "type": "node",
+            "id": 6725116427,
+            "lat": 35.4949346,
+            "lon": -85.0128155,
+            "tags": {
+                "alt_name": "Scopes Trial Museum",
+                "comment": "located in basement",
+                "name": "Rhea County Museum",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/56/Rhea_county_courthouse_usda.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 9956166621,
+            "lat": 39.7598639,
+            "lon": -84.1933935,
+            "tags": {
+                "addr:city": "Dayton",
+                "addr:housenumber": "10",
+                "addr:postcode": "45402",
+                "addr:state": "OH",
+                "addr:street": "North Ludlow Street",
+                "check_date": "2026-02-21",
+                "museum": "history",
+                "name": "The International Peace Museum",
+                "old_name": "Dayton International Peace Museum",
+                "tourism": "museum",
+                "website": "https://peace.museum/",
+                "wikidata": "Q5243547",
+                "wikipedia": "en:The International Peace Museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/The_International_Peace_Museum_Logo.png/1280px-The_International_Peace_Museum_Logo.png",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 13181269616,
+            "lat": 39.7560791,
+            "lon": -84.2116004,
+            "tags": {
+                "addr:city": "Dayton",
+                "addr:housenumber": "16",
+                "addr:postcode": "45402",
+                "addr:state": "OH",
+                "addr:street": "South Williams Street",
+                "museum": "aerospace",
+                "name": "Aviation Trail Parachute Museum",
+                "opening_hours": "We-Su 09:00-16:00",
+                "tourism": "museum"
+            }
+        },
+        {
+            "type": "way",
+            "id": 97511337,
+            "lat": 39.7884999,
+            "lon": -84.2017281,
+            "tags": {
+                "addr:housenumber": "2600",
+                "addr:street": "Deweese Parkway",
+                "building": "yes",
+                "fee": "yes",
+                "museum": "science",
+                "name": "Boonshoft Museum of Discovery",
+                "opening_hours": "Mo-Sa 09:00-17:00; Su 12:00-17:00",
+                "tourism": "museum",
+                "website": "http://www.boonshoftmuseum.org/"
+            }
+        },
+        {
+            "type": "way",
+            "id": 147834932,
+            "lat": 39.7626326,
+            "lon": -84.1807326,
+            "tags": {
+                "alt_name": "2nd Street Market",
+                "amenity": "marketplace",
+                "building": "yes",
+                "name": "Second Street Market",
+                "operator": "Five Rivers MetroParks",
+                "tourism": "attraction",
+                "wikipedia": "en:PNC Second Street Market"
+            }
+        },
+        {
+            "type": "way",
+            "id": 165522445,
+            "lat": 39.7161335,
+            "lon": -84.2322996,
+            "tags": {
+                "historic": "archaeological_site",
+                "name": "SunWatch Indian Village/Archaeological Park",
+                "tourism": "attraction",
+                "website": "http://www.sunwatch.org/",
+                "wikidata": "Q1626263"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/SunWatchVillage.jpg/1280px-SunWatchVillage.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 166757781,
+            "lat": 39.1136499,
+            "lon": -84.4706138,
+            "tags": {
+                "building": "yes",
+                "building:levels": "1",
+                "email": "TharpDaytonHeritageMuseum@gmail.com",
+                "fee": "yes",
+                "name": "Tharp Dayton Heritage Museum",
+                "opening_hours:covid19": "closed",
+                "operator": "City Of Dayton",
+                "tourism": "museum",
+                "website": "www.TharpDaytonHeritageMuseum.com"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Campbell_County_Kentucky_Incorporated_and_Unincorporated_areas_Dayton_Highlighted_2120350.svg/1280px-Campbell_County_Kentucky_Incorporated_and_Unincorporated_areas_Dayton_Highlighted_2120350.svg.png",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 190562622,
+            "lat": 39.7277757,
+            "lon": -84.2014447,
+            "tags": {
+                "building": "yes",
+                "museum": "history",
+                "name": "John W. Berry Sr. Wright Brothers National Museum",
+                "operator": "Dayton History",
+                "operator:type": "private",
+                "tourism": "museum",
+                "website": "https://www.daytonhistory.org/visit/things-to-see-do/wright-brothers-national-museum/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/10/Ohio_quarter%2C_reverse_side%2C_2002.png",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 195524012,
+            "lat": 39.753645,
+            "lon": -84.1917725,
+            "tags": {
+                "addr:housenumber": "420",
+                "addr:street": "South Ludlow Street",
+                "building": "retail",
+                "museum": "transport",
+                "name": "America's Packard Museum",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Cars_at_America%27s_Packard_Museum.jpg/1280px-Cars_at_America%27s_Packard_Museum.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 200407518,
+            "lat": 39.734627,
+            "lon": -84.182132,
+            "tags": {
+                "building": "house",
+                "name": "Patterson Homestead",
+                "tourism": "museum",
+                "wikidata": "Q7148445",
+                "wikipedia": "en:Patterson Homestead"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/RubiconFarm.jpg/1280px-RubiconFarm.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 589090866,
+            "lat": 39.237856,
+            "lon": -119.5927448,
+            "tags": {
+                "addr:city": "Dayton",
+                "addr:housenumber": "35",
+                "addr:postcode": "89403-6604",
+                "addr:state": "NV",
+                "addr:street": "Shady Lane",
+                "building": "yes",
+                "name": "Dayton Museum",
+                "tourism": "museum",
+                "website": "https://daytonnvhistory.org/"
+            }
+        },
+        {
+            "type": "way",
+            "id": 601096436,
+            "lat": 46.316718,
+            "lon": -117.9929743,
+            "tags": {
+                "name": "Columbia County Fair Grounds",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Historic_Courthouse_Dayton_Washington.JPG/1280px-Historic_Courthouse_Dayton_Washington.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 663247344,
+            "lat": 39.7564138,
+            "lon": -84.1817974,
+            "tags": {
+                "addr:city": "Dayton",
+                "addr:postcode": "45402",
+                "addr:state": "OH",
+                "addr:street": "Wayne Avenue",
+                "building": "yes",
+                "name": "Columbia Care",
+                "shop": "cannabis",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Vigil_for_the_2019_Dayton_shooting_victims_%2848464965257%29.jpg/1280px-Vigil_for_the_2019_Dayton_shooting_victims_%2848464965257%29.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 708334021,
+            "lat": 39.7555878,
+            "lon": -84.2118047,
+            "tags": {
+                "addr:state": "OH",
+                "building": "yes",
+                "ele": "225",
+                "fee": "no",
+                "gnis:feature_id": "1965484",
+                "museum": "local",
+                "name": "The Wright Cycle Company Building",
+                "source": "USGS Geonames",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Wright_Cycle_Company_Offices.jpg/1280px-Wright_Cycle_Company_Offices.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 728127039,
+            "lat": 39.7428405,
+            "lon": -84.2581298,
+            "tags": {
+                "building": "yes",
+                "description": "Building 120\n\nThe former facility library and current archive and research facility of the The artifact and archival storage facility for the National VA History Center.\n\n\nartifact and archival storage facility for the National VA History Center.",
+                "museum": "military",
+                "name": "AVHC/Military Museum",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Soldiers_monument_Dayton_Natl_Cemetery.jpg/1280px-Soldiers_monument_Dayton_Natl_Cemetery.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 863404937,
+            "lat": 39.7669651,
+            "lon": -84.1883777,
+            "tags": {
+                "amenity": "fountain",
+                "drinking_water": "no",
+                "fountain": "jet_water",
+                "height": "200'",
+                "lit": "yes",
+                "name": "Five Rivers Fountain of Lights",
+                "operator": "Five Rivers MetroParks",
+                "operator:wikidata": "Q5456114",
+                "tourism": "attraction",
+                "website": "https://www.metroparks.org/fountain-of-lights/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/en/thumb/0/08/Image-Mad_River.jpg/1280px-Image-Mad_River.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 1028373417,
+            "lat": 30.043222,
+            "lon": -94.8883345,
+            "tags": {
+                "addr:city": "Dayton",
+                "addr:housenumber": "111",
+                "addr:postcode": "77535",
+                "addr:state": "TX",
+                "addr:street": "West Houston Street",
+                "building": "yes",
+                "name": "Old School Museum",
+                "operator": "Dayton Historical Society",
+                "source": "esri_USDOT_LibertyCountyTX;microsoft/BuildingFootprints",
+                "tourism": "museum"
+            }
+        },
+        {
+            "type": "way",
+            "id": 1093669064,
+            "lat": 39.7576764,
+            "lon": -84.2190141,
+            "tags": {
+                "building": "yes",
+                "name": "Paul Laurence Dunbar House",
+                "operator": "National Park Service",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/78/Dunbar_Home.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 8253,
+            "lat": 39.75944444,
+            "lon": -84.19166667,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Dayton_Skyline_-_Sunset_September_2022_%28cropped%29.jpg/1280px-Dayton_Skyline_-_Sunset_September_2022_%28cropped%29.jpg",
+            "description": "Dayton ( ) is a city in Montgomery County, Ohio, United States, and its county seat.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Dayton, Ohio",
+                "wikipedia": "en:Dayton, Ohio",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 571462,
+            "lat": 39.78138889,
+            "lon": -84.11055556,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/ca/National_Museum_of_the_United_States_Air_Force.png",
+            "description": "The National Museum of the United States Air Force (formerly the United States Air Force Museum) is the official museum of the United States Air Force located at Wright-Patterson Air Force Base, six miles (9.7 km) northeast of Dayton, Ohio.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "National Museum of the United States Air Force",
+                "wikipedia": "en:National Museum of the United States Air Force",
+                "tourism": "attraction"
+            }
+        }
+    ]
+}

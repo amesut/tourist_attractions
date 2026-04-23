@@ -1,0 +1,364 @@
+{
+    "city_metadata": {
+        "city_name": "Las Vegas",
+        "state_code": "NV",
+        "state_full": "Nevada",
+        "city_summary": "Las Vegas, colloquially referred to as Vegas, is the most populous city in the U.S. state of Nevada and the seat of Clark County. It is the 24th-most populous city in the United States, with 641,903 residents at the 2020 census. The Las Vegas metropolitan area has an estimated 2.4 million residents and is the 29th-largest metropolitan area in the country.",
+        "city_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Las_Vegas_from_above_%2840064746644%29.jpg/1280px-Las_Vegas_from_above_%2840064746644%29.jpg",
+        "city_lat": 36.1672,
+        "city_lon": -115.1486,
+        "source": "wikipedia_verified_engine"
+    },
+    "attractions": [
+        {
+            "type": "wikipedia_node",
+            "id": 1617143,
+            "lat": 36.17083333,
+            "lon": -115.14416667,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/LasVegas-FremontStreet.jpg/1280px-LasVegas-FremontStreet.jpg",
+            "description": "The Fremont Street Experience (FSE) is a pedestrian mall and attraction in downtown Las Vegas, Nevada.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Fremont Street Experience",
+                "wikipedia": "en:Fremont Street Experience",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 124384,
+            "lat": 36.08194444,
+            "lon": -115.12472222,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Las_Vegas%2C_Planet_Hollywood.jpg/1280px-Las_Vegas%2C_Planet_Hollywood.jpg",
+            "description": "Paradise is an unincorporated town and census-designated place (CDP) in Clark County, Nevada, United States, adjacent to the city of Las Vegas.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Paradise, Nevada",
+                "wikipedia": "en:Paradise, Nevada",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 1015361,
+            "lat": 36.12138889,
+            "lon": -115.16888889,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/11_The_Venetian_Las_Vegas_-_luxury_hotel_and_casino_in_Las_Vegas_Strip.jpg/1280px-11_The_Venetian_Las_Vegas_-_luxury_hotel_and_casino_in_Las_Vegas_Strip.jpg",
+            "description": "The Venetian Las Vegas is a luxury hotel and casino resort located on the Las Vegas Strip in Paradise, Nevada, United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "The Venetian Las Vegas",
+                "wikipedia": "en:The Venetian Las Vegas",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 724762,
+            "lat": 36.0956,
+            "lon": -115.1758,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Luxor_%28870133356%29.jpg",
+            "description": "Luxor Las Vegas is a casino hotel on the southern end of the Las Vegas Strip in Paradise, Nevada.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Luxor Las Vegas",
+                "wikipedia": "en:Luxor Las Vegas",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 47737,
+            "lat": 36.1672,
+            "lon": -115.1486,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Las_Vegas_from_above_%2840064746644%29.jpg/1280px-Las_Vegas_from_above_%2840064746644%29.jpg",
+            "description": "Las Vegas, colloquially referred to as Vegas, is the most populous city in the U.S. state of Nevada and the seat of Clark County.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Las Vegas",
+                "wikipedia": "en:Las Vegas",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 705273,
+            "lat": 36.09972222,
+            "lon": -115.17138889,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/The_Tropicana_-_Paradise_Tower_at_night_2022-04-01.jpg/1280px-The_Tropicana_-_Paradise_Tower_at_night_2022-04-01.jpg",
+            "description": "The Tropicana Las Vegas was a casino hotel on the Las Vegas Strip in Paradise, Nevada.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Tropicana Las Vegas",
+                "wikipedia": "en:Tropicana Las Vegas",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 60032060,
+            "lat": 36.1478,
+            "lon": -115.1554,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Stratosphere_Las_Vegas_6_2013-06-25.jpg/1280px-Stratosphere_Las_Vegas_6_2013-06-25.jpg",
+            "description": "Insanity is an inactive thrill ride located 900 ft (270m) above ground at the top of The Strat in Las Vegas, Nevada that opened in 2005.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Insanity (ride)",
+                "wikipedia": "en:Insanity (ride)",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 2095158,
+            "lat": 36.17169,
+            "lon": -115.14382,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Las_Vegas_from_above_%2840064746644%29.jpg/1280px-Las_Vegas_from_above_%2840064746644%29.jpg",
+            "description": "Downtown Las Vegas (commonly abbreviated as DTLV) is the central business district and historic center of Las Vegas, Nevada, United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Downtown Las Vegas",
+                "wikipedia": "en:Downtown Las Vegas",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 2237980,
+            "lat": 36.102,
+            "lon": -114.9295,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Lake_Las_Vegas_aerial_view.jpg/1280px-Lake_Las_Vegas_aerial_view.jpg",
+            "description": "Lake Las Vegas is a 320-acre (130 ha) reservoir in Henderson, Nevada, with a 3,592-acre (1,454 ha) developed area around it.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Lake Las Vegas",
+                "wikipedia": "en:Lake Las Vegas",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 10434797,
+            "lat": 36.17194,
+            "lon": -115.14528,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Las_vegas_club-edit1.jpg/1280px-Las_vegas_club-edit1.jpg",
+            "description": "Las Vegas Club was a hotel and casino located on the Fremont Street Experience in downtown Las Vegas, Nevada.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Las Vegas Club",
+                "wikipedia": "en:Las Vegas Club",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 1976132,
+            "lat": 36.1175,
+            "lon": -115.17277778,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Linq_hotel.jpg/1280px-Linq_hotel.jpg",
+            "description": "The Linq (formerly Flamingo Capri, Imperial Palace and The Quad) is a casino hotel on the Las Vegas Strip in Paradise, Nevada.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "The Linq",
+                "wikipedia": "en:The Linq",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 124364,
+            "lat": 36.03333333,
+            "lon": -114.98333333,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Lake_Las_Vegas_aerial_view.jpg/1280px-Lake_Las_Vegas_aerial_view.jpg",
+            "description": "Henderson is a city in Clark County, Nevada, United States, about 16 miles (26 km) southeast of  Las Vegas.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Henderson, Nevada",
+                "wikipedia": "en:Henderson, Nevada",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 742340,
+            "lat": 36.13361111,
+            "lon": -115.16583333,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Stardust_Hotel_And_Casino.jpg/1280px-Stardust_Hotel_And_Casino.jpg",
+            "description": "The Stardust Resort and Casino was a casino resort located on 60 acres (24 ha) along the Las Vegas Strip in Winchester, Nevada.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Stardust Resort and Casino",
+                "wikipedia": "en:Stardust Resort and Casino",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 1513620,
+            "lat": 36.12861111,
+            "lon": -115.16638889,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/53/Las_Vegas%2C_Nevada_1989_05.jpg",
+            "description": "The Desert Inn, also known as the D.I., was a hotel and casino on the Las Vegas Strip in Paradise, Nevada, which operated from April 24, 1950, to August 28, 2000.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Desert Inn",
+                "wikipedia": "en:Desert Inn",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 14308,
+            "lat": 36.01555556,
+            "lon": -114.73777778,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Ansel_Adams_-_National_Archives_79-AAB-01.jpg/1280px-Ansel_Adams_-_National_Archives_79-AAB-01.jpg",
+            "description": "The Hoover Dam is a concrete arch-gravity dam in the Black Canyon of the Colorado River, on the boundary between the U.S. states of Nevada and Arizona.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Hoover Dam",
+                "wikipedia": "en:Hoover Dam",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 1724573,
+            "lat": 36.11416,
+            "lon": -115.1486,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/fb/ATOMIC_TESTING_MUSEUM_01.JPG",
+            "description": "The National Atomic Testing Museum in Las Vegas, Nevada, documents the history of nuclear testing at the Nevada Test Site (NTS) in the Mojave Desert about 65 miles (105 km) northwest of Las Vegas.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "National Atomic Testing Museum",
+                "wikipedia": "en:National Atomic Testing Museum",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 162759,
+            "lat": 37.11666667,
+            "lon": -116.05,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Nevada_National_Security_Site_%28January_2026%29.svg/1280px-Nevada_National_Security_Site_%28January_2026%29.svg.png",
+            "description": "The Nevada National Security Sites (NNSS; N2S2)  initially named the Nevada Proving Ground (1951–1955), and later the Nevada Test Site (NTS; 1955–2010)) is a reservation of the United States Department of Energy located in the southeastern portion of Nye County, Nevada, approximately 65 mi (105 km) northwest of Las Vegas.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Nevada Test Site",
+                "wikipedia": "en:Nevada Test Site",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 2094397,
+            "lat": 35.78,
+            "lon": -115.33,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/2010-0615-JeanNV.jpg/1280px-2010-0615-JeanNV.jpg",
+            "description": "Jean is a small commercial town in Clark County, Nevada, United States, located approximately 20 miles (32 km) south of the Las Vegas hotel-casino corridor along Interstate 15, and 12 mi (19 km) north of Primm, Nevada located by the state line of California.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Jean, Nevada",
+                "wikipedia": "en:Jean, Nevada",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 34690361,
+            "lat": 36.059405,
+            "lon": -115.454048,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Bonnie_Springs_Ranch_1.jpg/1280px-Bonnie_Springs_Ranch_1.jpg",
+            "description": "Bonnie Springs Ranch was an attraction near Blue Diamond, Nevada that included an 1880s Western town replica and a zoo.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Bonnie Springs Ranch",
+                "wikipedia": "en:Bonnie Springs Ranch",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 25251400,
+            "lat": 36.10805556,
+            "lon": -115.17444444,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Las_Vegas-07.jpg/1280px-Las_Vegas-07.jpg",
+            "description": "The Shops at Crystals is an upscale shopping mall in the CityCenter complex on the Las Vegas Strip in Paradise, Nevada.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "The Shops at Crystals",
+                "wikipedia": "en:The Shops at Crystals",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 357074,
+            "lat": 36.25,
+            "lon": -114.39,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Lake_Mead_in_July_2022_by_Landsat.jpg/1280px-Lake_Mead_in_July_2022_by_Landsat.jpg",
+            "description": "Lake Mead is a reservoir formed by the Hoover Dam on the Colorado River in the Southwestern United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Lake Mead",
+                "wikipedia": "en:Lake Mead",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 1773866,
+            "lat": 36.135,
+            "lon": -115.162,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/29/Riviera_Hotel_%26_Casino%2C_Las_Vagas.jpg",
+            "description": "The Riviera (colloquially, \"the Riv\") was a hotel and casino on the northern Las Vegas Strip in Winchester, Nevada.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Riviera (hotel and casino)",
+                "wikipedia": "en:Riviera (hotel and casino)",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 3294066,
+            "lat": 36.01222222,
+            "lon": -113.81111111,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f9/SkywalkFromOutsideLedge.jpg",
+            "description": "The Grand Canyon Skywalk is a horseshoe-shaped cantilever bridge with a glass walkway at Eagle Point in Arizona near the Colorado River, on the edge of a side canyon in the Grand Canyon West area of the main canyon.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Grand Canyon Skywalk",
+                "wikipedia": "en:Grand Canyon Skywalk",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 3612525,
+            "lat": 36.17138889,
+            "lon": -115.14444444,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Binionslasvegassign.jpg",
+            "description": "Binion's Gambling Hall & Hotel, formerly Binion's Horseshoe, is a casino on Fremont Street along the Fremont Street Experience pedestrian mall in Downtown Las Vegas, Nevada, United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Binion's Gambling Hall and Hotel",
+                "wikipedia": "en:Binion's Gambling Hall and Hotel",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 74758368,
+            "lat": 35.7819,
+            "lon": -115.3322,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Terrible%27s_Road_House_-_March_2022_-_Sarah_Stierch_08.jpg/1280px-Terrible%27s_Road_House_-_March_2022_-_Sarah_Stierch_08.jpg",
+            "description": "Terrible's Road House is a gas station in Jean, Nevada off Nevada State Route 161.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Terrible's Road House",
+                "wikipedia": "en:Terrible's Road House",
+                "tourism": "attraction"
+            }
+        }
+    ]
+}

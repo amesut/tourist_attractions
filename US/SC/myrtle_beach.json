@@ -1,0 +1,641 @@
+{
+    "city_metadata": {
+        "city_name": "Myrtle Beach",
+        "state_code": "SC",
+        "state_full": "South Carolina",
+        "city_summary": "Myrtle Beach is a resort city in Horry County, South Carolina, United States. It is located in the center of a long and continuous 60-mile (97 km) stretch of beach known as the \"Grand Strand” in the northeastern part of the state, on the East Coast of the United States. Its year-round population was 35,682 as of the 2020 census, making it the 13th-most populous city in South Carolina.",
+        "city_image": "https://upload.wikimedia.org/wikipedia/commons/2/29/BroadwayAtTheBeach1.jpg",
+        "city_lat": 33.73027778,
+        "city_lon": -78.86972222,
+        "source": "wikipedia_verified_engine"
+    },
+    "attractions": [
+        {
+            "type": "node",
+            "id": 367807833,
+            "lat": 33.7049958,
+            "lon": -78.8715006,
+            "tags": {
+                "addr:state": "SC",
+                "ele": "7",
+                "gnis:feature_id": "2490434",
+                "name": "Childrens Museum of South Carolina",
+                "source": "USGS Geonames",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Mb_convention_center0325.JPG/1280px-Mb_convention_center0325.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 2625018057,
+            "lat": 33.7644396,
+            "lon": -78.8086107,
+            "tags": {
+                "name": "Pirates Voyage",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 2625018060,
+            "lat": 33.7639402,
+            "lon": -78.807452,
+            "tags": {
+                "name": "The Carolina Opry",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 2722760434,
+            "lat": 33.6923818,
+            "lon": -78.8793472,
+            "tags": {
+                "name": "Fun Plaza",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 2722760438,
+            "lat": 33.6927862,
+            "lon": -78.8789165,
+            "tags": {
+                "name": "Arcade",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/34/Myrtle_Beach_South_Carolina_100420-F-4155R-026.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 2722767207,
+            "lat": 33.6923415,
+            "lon": -78.8798102,
+            "tags": {
+                "name": "Ripley's Believe It or Not Museum",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 2722767214,
+            "lat": 33.6932683,
+            "lon": -78.8787899,
+            "tags": {
+                "name": "Ripley's Haunted Adventure",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Gay_Dolphin_Gift_Cove%2C_Myrtle_Beach.jpg/1280px-Gay_Dolphin_Gift_Cove%2C_Myrtle_Beach.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 2722767216,
+            "lat": 33.6936258,
+            "lon": -78.8783818,
+            "tags": {
+                "name": "Nightmare Haunted House",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 3600986805,
+            "lat": 33.6809513,
+            "lon": -78.8920667,
+            "tags": {
+                "attraction": "go_karts",
+                "name": "Go Karts (Figure 8 Track)",
+                "operator": "Family Kingdom Amusement Park",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/54/Family_Kingdom_Amusement_Park_3.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 3600986839,
+            "lat": 33.6819902,
+            "lon": -78.8922263,
+            "tags": {
+                "attraction": "go_karts",
+                "name": "Go Karts (Oval Track)",
+                "operator": "Family Kingdom Amusement Park",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Swamp_Fox_at_Family_Kingdom%2C_Myrtle_Beach%2C_SC.jpg/1280px-Swamp_Fox_at_Family_Kingdom%2C_Myrtle_Beach%2C_SC.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 5746112417,
+            "lat": 33.7184267,
+            "lon": -78.891077,
+            "tags": {
+                "name": "Slick Track",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Hollywood_Wax_Museum_-_Myrtle_Beach_SC.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 5746112418,
+            "lat": 33.7181511,
+            "lon": -78.8905533,
+            "tags": {
+                "name": "Speed Racer",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Hollywood_Wax_Museum_-_Myrtle_Beach_SC.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 5746112419,
+            "lat": 33.718108,
+            "lon": -78.8902349,
+            "tags": {
+                "name": "High Bank Oval",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Hollywood_Wax_Museum_-_Myrtle_Beach_SC.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 5746112420,
+            "lat": 33.7183412,
+            "lon": -78.8900549,
+            "tags": {
+                "name": "Grand Prix Express",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Hollywood_Wax_Museum_-_Myrtle_Beach_SC.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 5746112421,
+            "lat": 33.7184677,
+            "lon": -78.8896015,
+            "tags": {
+                "name": "Grand Prix Pro",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Hollywood_Wax_Museum_-_Myrtle_Beach_SC.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 5746112424,
+            "lat": 33.7190307,
+            "lon": -78.8913772,
+            "tags": {
+                "name": "Kidz Track",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Hollywood_Wax_Museum_-_Myrtle_Beach_SC.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 5746112425,
+            "lat": 33.7194169,
+            "lon": -78.8911589,
+            "tags": {
+                "name": "Junior Racer",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Hollywood_Wax_Museum_-_Myrtle_Beach_SC.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 5746112426,
+            "lat": 33.7194342,
+            "lon": -78.8909359,
+            "tags": {
+                "name": "Family Track",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Hollywood_Wax_Museum_-_Myrtle_Beach_SC.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 5746112427,
+            "lat": 33.7182616,
+            "lon": -78.8898409,
+            "tags": {
+                "name": "Tot Rods",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Hollywood_Wax_Museum_-_Myrtle_Beach_SC.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 5746112428,
+            "lat": 33.7182081,
+            "lon": -78.8898842,
+            "tags": {
+                "name": "Pro Tow",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Hollywood_Wax_Museum_-_Myrtle_Beach_SC.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 11515035077,
+            "lat": 33.669406,
+            "lon": -78.9390694,
+            "tags": {
+                "name": "Trust Thy Barber",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Myr-marketcommon-commerce.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 43532299,
+            "lat": 33.7168629,
+            "lon": -78.8843273,
+            "tags": {
+                "addr:city": "Myrtle Beach",
+                "addr:housenumber": "1313",
+                "addr:postcode": "29577",
+                "addr:state": "SC",
+                "addr:street": "Celebrity Circle",
+                "building": "yes",
+                "building:levels": "4",
+                "name": "WonderWorks",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Broadway%40The_Beach.jpg/1280px-Broadway%40The_Beach.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 43793562,
+            "lat": 33.7172668,
+            "lon": -78.8912892,
+            "tags": {
+                "addr:city": "Myrtle Beach",
+                "addr:housenumber": "1808",
+                "addr:postcode": "29577",
+                "addr:state": "SC",
+                "addr:street": "21st Avenue North",
+                "building": "yes",
+                "name": "Hollywood Wax Museum",
+                "tourism": "attraction",
+                "wikidata": "Q24534724"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Hollywood_Wax_Museum_-_Myrtle_Beach_SC.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 44813289,
+            "lat": 33.698833,
+            "lon": -78.8844664,
+            "tags": {
+                "addr:city": "Myrtle Beach",
+                "addr:housenumber": "900",
+                "addr:postcode": "29577",
+                "addr:state": "SC",
+                "addr:street": "Dunbar Street",
+                "building": "yes",
+                "contact:facebook": "historicmbcoloredschoolmuseum",
+                "name": "Myrtle Beach Colored School Museum and Education Center",
+                "opening_hours": "Mo, We, Fr 10:00-12:00",
+                "phone": "+1-843-918-4905",
+                "tourism": "museum",
+                "website": "https://www.cityofmyrtlebeach.com/i_want_to/find/historic_myrtle_beach_colored_school_museum_and_education_center.php"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Myrtle_Beach_Atlantic_Coast_Line_Railroad_Station_Jun_10.JPG/1280px-Myrtle_Beach_Atlantic_Coast_Line_Railroad_Station_Jun_10.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 256878102,
+            "lat": 33.7234559,
+            "lon": -78.8474365,
+            "tags": {
+                "leisure": "miniature_golf",
+                "name": "Treasure Island Miniature Golf",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "way",
+            "id": 256878103,
+            "lat": 33.7160639,
+            "lon": -78.8564774,
+            "tags": {
+                "leisure": "miniature_golf",
+                "name": "Spyglass Adventure Golf",
+                "tourism": "attraction",
+                "wheelchair": "limited"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Myrtle_Heights-Oak_Park_Historic_District_3701_N._Ocean_Blvd._Jun_10.JPG/1280px-Myrtle_Heights-Oak_Park_Historic_District_3701_N._Ocean_Blvd._Jun_10.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 266763047,
+            "lat": 33.6963951,
+            "lon": -78.8755122,
+            "tags": {
+                "addr:city": "Myrtle Beach",
+                "addr:housenumber": "1405",
+                "addr:postcode": "29577",
+                "addr:state": "SC",
+                "addr:street": "North Ocean Boulevard",
+                "name": "The Funplex",
+                "tourism": "theme_park",
+                "website": "https://thefunplex.com/myrtle-beach/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Pier_14.jpg/1280px-Pier_14.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 354364572,
+            "lat": 33.6816687,
+            "lon": -78.8911521,
+            "tags": {
+                "attraction": "pirate_ship",
+                "name": "Galleon",
+                "operator": "Family Kingdom Amusement Park",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Swamp_Fox_at_Family_Kingdom%2C_Myrtle_Beach%2C_SC.jpg/1280px-Swamp_Fox_at_Family_Kingdom%2C_Myrtle_Beach%2C_SC.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 354366028,
+            "lat": 33.6813991,
+            "lon": -78.8912283,
+            "tags": {
+                "attraction": "big_wheel",
+                "name": "Ferris Wheel",
+                "operator": "Family Kingdom Amusement Park",
+                "tourism": "attraction",
+                "website": "https://www.familykingdomfun.com/amusement-park/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Swamp_Fox_at_Family_Kingdom%2C_Myrtle_Beach%2C_SC.jpg/1280px-Swamp_Fox_at_Family_Kingdom%2C_Myrtle_Beach%2C_SC.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 354366584,
+            "lat": 33.6814428,
+            "lon": -78.8909596,
+            "tags": {
+                "attraction": "amusement_ride",
+                "name": "Scrambler",
+                "operator": "Family Kingdom Amusement Park",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Swamp_Fox_at_Family_Kingdom%2C_Myrtle_Beach%2C_SC.jpg/1280px-Swamp_Fox_at_Family_Kingdom%2C_Myrtle_Beach%2C_SC.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 354371257,
+            "lat": 33.682542,
+            "lon": -78.89184,
+            "tags": {
+                "attraction": "roller_coaster",
+                "building": "yes",
+                "name": "Swamp Fox",
+                "operator": "Family Kingdom Amusement Park",
+                "rcdb_url": "http://rcdb.com/337.htm",
+                "roller_coaster": "station",
+                "tourism": "attraction",
+                "wikidata": "Q7653328"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Swamp_Fox_at_Family_Kingdom%2C_Myrtle_Beach%2C_SC.jpg/1280px-Swamp_Fox_at_Family_Kingdom%2C_Myrtle_Beach%2C_SC.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 354372467,
+            "lat": 33.6821398,
+            "lon": -78.8920094,
+            "tags": {
+                "addr:city": "Myrtle Beach",
+                "addr:housenumber": "300",
+                "addr:postcode": "29577",
+                "addr:state": "SC",
+                "addr:street": "South Ocean Boulevard",
+                "name": "Family Kingdom Amusement Park",
+                "phone": "+1-843-626-3447",
+                "tourism": "theme_park",
+                "website": "https://www.familykingdomfun.com/",
+                "wikidata": "Q5433160",
+                "wikipedia": "en:Family Kingdom Amusement Park"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/54/Family_Kingdom_Amusement_Park_3.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 354415069,
+            "lat": 33.7147893,
+            "lon": -78.8824086,
+            "tags": {
+                "name": "Pavilion Park Action Park",
+                "operator": "Pavilion Park",
+                "tourism": "theme_park"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Broadway%40The_Beach.jpg/1280px-Broadway%40The_Beach.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 354415138,
+            "lat": 33.7163172,
+            "lon": -78.8846767,
+            "tags": {
+                "name": "Pavilion Park Fun Park",
+                "operator": "Pavilion Park",
+                "tourism": "theme_park"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Broadway%40The_Beach.jpg/1280px-Broadway%40The_Beach.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 354417561,
+            "lat": 33.6833373,
+            "lon": -78.8929033,
+            "tags": {
+                "attraction": "carousel",
+                "name": "Carousel",
+                "operator": "Family Kingdom Amusement Park",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Swamp_Fox_at_Family_Kingdom%2C_Myrtle_Beach%2C_SC.jpg/1280px-Swamp_Fox_at_Family_Kingdom%2C_Myrtle_Beach%2C_SC.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 354417585,
+            "lat": 33.6817116,
+            "lon": -78.8917211,
+            "tags": {
+                "attraction": "amusement_ride",
+                "name": "Yo-Yo",
+                "operator": "Family Kingdom Amusement Park",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Swamp_Fox_at_Family_Kingdom%2C_Myrtle_Beach%2C_SC.jpg/1280px-Swamp_Fox_at_Family_Kingdom%2C_Myrtle_Beach%2C_SC.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 354418164,
+            "lat": 33.6818792,
+            "lon": -78.8918686,
+            "tags": {
+                "attraction": "amusement_ride",
+                "name": "Tilt-A-Whirl",
+                "operator": "Family Kingdom Amusement Park",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Swamp_Fox_at_Family_Kingdom%2C_Myrtle_Beach%2C_SC.jpg/1280px-Swamp_Fox_at_Family_Kingdom%2C_Myrtle_Beach%2C_SC.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 354423616,
+            "lat": 33.6807483,
+            "lon": -78.8925056,
+            "tags": {
+                "attraction": "bumper_boat",
+                "name": "Bumper Boats",
+                "natural": "water",
+                "tourism": "attraction",
+                "website": "https://www.familykingdomfun.com/family-rides/bumper-boats-water-ride/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/54/Family_Kingdom_Amusement_Park_3.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 753698991,
+            "lat": 33.7191249,
+            "lon": -78.8907425,
+            "tags": {
+                "name": "Broadway Grand Prix",
+                "tourism": "theme_park"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Hollywood_Wax_Museum_-_Myrtle_Beach_SC.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 909391178,
+            "lat": 33.6587284,
+            "lon": -78.9197731,
+            "tags": {
+                "addr:city": "Myrtle Beach",
+                "addr:housenumber": "3100",
+                "addr:postcode": "29577",
+                "addr:state": "SC",
+                "addr:street": "South Ocean Boulevard",
+                "building": "yes",
+                "contact:facebook": "mbartmuseum",
+                "contact:instagram": "mbartmuseum",
+                "contact:twitter": "MBArtMuseum",
+                "email": "info@MyrtleBeachArtMuseum.org",
+                "name": "Franklin G. Burroughs - Simeon B. Chapin Art Museum",
+                "opening_hours": "Tu-Sa 10:00-17:00; Su 13:00-17:00",
+                "phone": "+1-843-238-2510",
+                "tourism": "museum",
+                "website": "https://myrtlebeachartmuseum.org/"
+            }
+        },
+        {
+            "type": "way",
+            "id": 909393995,
+            "lat": 33.7198063,
+            "lon": -78.8948496,
+            "tags": {
+                "addr:city": "Myrtle Beach",
+                "addr:housenumber": "1860",
+                "addr:postcode": "29577",
+                "addr:state": "SC",
+                "addr:street": "21st Avenue North",
+                "area": "yes",
+                "name": "Helicopter Adventures",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "way",
+            "id": 909400512,
+            "lat": 33.6933972,
+            "lon": -78.8787747,
+            "tags": {
+                "area": "yes",
+                "name": "Ripley's 5D Moving Theater, Marvalous Mirror Maze & Believe It or Not",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Gay_Dolphin_Gift_Cove%2C_Myrtle_Beach.jpg/1280px-Gay_Dolphin_Gift_Cove%2C_Myrtle_Beach.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 909403017,
+            "lat": 33.6938514,
+            "lon": -78.8773534,
+            "tags": {
+                "area": "yes",
+                "name": "SkyWheel",
+                "tourism": "attraction",
+                "wikidata": "Q6948606",
+                "wikipedia": "en:Myrtle Beach SkyWheel"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Myrtle_Beach_SkyWheel.jpg/1280px-Myrtle_Beach_SkyWheel.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 1192499243,
+            "lat": 33.6946856,
+            "lon": -78.8773995,
+            "tags": {
+                "addr:city": "Myrtle Beach",
+                "addr:housenumber": "1201",
+                "addr:postcode": "29577",
+                "addr:state": "SC",
+                "addr:street": "North Ocean Boulevard",
+                "name": "Free Fall Thrill Park",
+                "tourism": "theme_park",
+                "website": "https://freefallpark.com/"
+            }
+        },
+        {
+            "type": "way",
+            "id": 1198130139,
+            "lat": 33.7188958,
+            "lon": -78.8912523,
+            "tags": {
+                "area": "yes",
+                "attraction": "kiddie_ride",
+                "name": "Kiddie Speedway",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Hollywood_Wax_Museum_-_Myrtle_Beach_SC.jpg",
+            "image_source": "wikipedia_verified"
+        }
+    ]
+}

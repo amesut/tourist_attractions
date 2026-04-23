@@ -1,0 +1,398 @@
+{
+    "city_metadata": {
+        "city_name": "Cary",
+        "state_code": "NC",
+        "state_full": "North Carolina",
+        "city_summary": "Cary is a town in Wake, Chatham, and Durham counties in the U.S. state of North Carolina and is part of the Raleigh-Cary, NC Metropolitan Statistical Area. According to the 2020 census, its population was 174,721, making it the seventh-most populous municipality in North Carolina, and the 146th-most populous in the United States. In 2023, the town's population had increased to 180,010.",
+        "city_image": "https://upload.wikimedia.org/wikipedia/commons/7/78/Cary%2C_North_Carolina._Cary%2C_NC.jpg",
+        "city_lat": 35.78194444,
+        "city_lon": -78.82,
+        "source": "wikipedia_verified_engine"
+    },
+    "attractions": [
+        {
+            "type": "node",
+            "id": 253427773,
+            "lat": 55.2017849,
+            "lon": -6.5207306,
+            "tags": {
+                "addr:housenumber": "2",
+                "addr:postcode": "BT57 8XH",
+                "addr:street": "Distillery Road",
+                "craft": "distillery",
+                "distillery": "whiskey",
+                "fhrs:id": "836029",
+                "name": "Old Bushmills Distillery",
+                "source:addr": "FHRS Open Data",
+                "toilets:wheelchair": "yes",
+                "tourism": "attraction",
+                "url": "http://www.bushmills.com/",
+                "wheelchair": "limited",
+                "wikidata": "Q268267"
+            }
+        },
+        {
+            "type": "node",
+            "id": 692182593,
+            "lat": 55.2399052,
+            "lon": -6.5082777,
+            "tags": {
+                "name": "Giant's Boot",
+                "natural": "stone",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Causeway-code_poet-4.jpg/1280px-Causeway-code_poet-4.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 1891610260,
+            "lat": 35.7235456,
+            "lon": -78.7826926,
+            "tags": {
+                "name": "Chimney Swift Tower",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1891610268,
+            "lat": 35.7235318,
+            "lon": -78.7824635,
+            "tags": {
+                "name": "Rocket Box Bat House",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 3040619011,
+            "lat": 55.1763219,
+            "lon": -6.1280313,
+            "tags": {
+                "name": "Watertop Farm",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 6660648939,
+            "lat": 55.2414236,
+            "lon": -6.5038151,
+            "tags": {
+                "name": "The Organ",
+                "natural": "stone",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 7924126352,
+            "lat": 55.2399979,
+            "lon": -6.5108084,
+            "tags": {
+                "name": "Giant's Gate",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Causeway-code_poet-4.jpg/1280px-Causeway-code_poet-4.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 11256191437,
+            "lat": 35.8280305,
+            "lon": -78.8717854,
+            "tags": {
+                "addr:housenumber": "6701",
+                "addr:postcode": "27519",
+                "addr:street": "Good Hope Church Road",
+                "name": "Phillips Farms",
+                "tourism": "attraction",
+                "website": "https://www.phillipsfarmsofcary.com/"
+            }
+        },
+        {
+            "type": "node",
+            "id": 12551282310,
+            "lat": 55.2003959,
+            "lon": -6.2515466,
+            "tags": {
+                "addr:city": "Ballycastle",
+                "addr:housenumber": "59",
+                "addr:postcode": "BT54 6AS",
+                "addr:street": "Castle Street",
+                "name": "Ballycastle Museum",
+                "tourism": "museum",
+                "wikidata": "Q17860241"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Lammas_Fair_Office%2C_Ballycastle_%28geograph_4630804%29.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 28524490,
+            "lat": 55.2395381,
+            "lon": -6.3324234,
+            "tags": {
+                "bicycle": "no",
+                "bridge": "yes",
+                "bridge:structure": "simple-suspension",
+                "dog": "no",
+                "foot": "customers",
+                "handrail": "yes",
+                "highway": "footway",
+                "horse": "no",
+                "layer": "1",
+                "lit": "no",
+                "name": "Carrick-a-rede Rope Bridge",
+                "name:ru": "Веревочный мост Carrick-a-rede",
+                "smoothness": "bad",
+                "surface": "wood",
+                "tourism": "attraction",
+                "wikidata": "Q473467",
+                "wikipedia": "en:Carrick-a-Rede Rope Bridge"
+            }
+        },
+        {
+            "type": "way",
+            "id": 37257081,
+            "lat": 35.7847815,
+            "lon": -78.8281699,
+            "tags": {
+                "name": "Compost Education Center",
+                "operator": "Town of Cary",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "way",
+            "id": 177043247,
+            "lat": 55.2407783,
+            "lon": -6.5115475,
+            "tags": {
+                "alt_name:ga": "Clochán na bhFomhórach",
+                "description": "ATTENTION: Only the Visitor center requires an entry fee. The walks and rock formations can be visited for free.",
+                "geological": "columnar_jointing",
+                "heritage": "1",
+                "heritage:operator": "whc",
+                "image": "https://commons.wikimedia.org/wiki/File:Giant%27s_Causeway_-_Bushmills,_Northern_Ireland,_UK_-_August_17,_2017_22.jpg",
+                "name": "Giant's Causeway",
+                "name:eu": "Erraldoien Galtzada",
+                "name:fr": "Chaussée des Géants",
+                "name:ga": "Clochán an Aifir",
+                "name:lt": "Milžinų kelias",
+                "name:pl": "Grobla Olbrzyma",
+                "name:ru": "Дорога Гигантов",
+                "name:uk": "Дорога Гігантів",
+                "name:zh": "巨人之路",
+                "natural": "bare_rock",
+                "operator": "National Trust",
+                "ref:whc": "369",
+                "tourism": "attraction",
+                "website": "https://www.nationaltrust.org.uk/giants-causeway/",
+                "whc:criteria": "(vii)(viii)",
+                "whc:inscription_date": "1986",
+                "wikidata": "Q106187",
+                "wikimedia_commons": "Category:Giant's Causeway",
+                "wikipedia": "en:Giant's Causeway"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Causeway-code_poet-4.jpg/1280px-Causeway-code_poet-4.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 225572974,
+            "lat": 55.2910437,
+            "lon": -6.1925944,
+            "tags": {
+                "building": "yes",
+                "name": "Boathouse Visitor Centre & Museum",
+                "tourism": "museum",
+                "wikidata": "Q56744828"
+            }
+        },
+        {
+            "type": "way",
+            "id": 298761019,
+            "lat": 55.233311,
+            "lon": -6.5167174,
+            "tags": {
+                "addr:city": "Bushmills",
+                "addr:housenumber": "44",
+                "addr:postcode": "BT57 8SU",
+                "addr:street": "Causeway Road",
+                "building": "yes",
+                "email": "giantscauseway@nationaltrust.org.uk",
+                "fhrs:id": "836150",
+                "layer": "1",
+                "name": "Giant's Causeway Visitor Experience",
+                "name:zh": "巨人之路游客中心",
+                "operator": "National Trust",
+                "phone": "+44 28 2073 1855",
+                "source:addr": "FHRS Open Data",
+                "toilets:wheelchair": "yes",
+                "tourism": "attraction",
+                "website": "https://www.nationaltrust.org.uk/giants-causeway",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "way",
+            "id": 299809975,
+            "lat": 55.1347331,
+            "lon": -6.3107493,
+            "tags": {
+                "building": "tower",
+                "historic": "tower",
+                "man_made": "tower",
+                "name": "Round Tower",
+                "tourism": "attraction",
+                "tower:construction": "freestanding",
+                "tower:type": "round_tower",
+                "wheelchair": "no"
+            }
+        },
+        {
+            "type": "way",
+            "id": 1219902586,
+            "lat": 35.7833563,
+            "lon": -78.8284654,
+            "tags": {
+                "area": "yes",
+                "description": "The Bond Park Challenge Course is an outdoor learning facility that is more than a recreational experience. Our guests engage in a facilitated experience that focuses on teamwork.  Our Challenge Course, is often called a \"ropes course”.",
+                "name": "Bond Park Challenge Course",
+                "operator": "Town of Cary",
+                "tourism": "attraction",
+                "website": "https://www.carync.gov/recreation-enjoyment/parks-greenways-environment/parks/fred-g-bond-metro-park/challenge-ropes-course"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Bond_Park_waterfront.jpg/1280px-Bond_Park_waterfront.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 2780877,
+            "lat": 35.78616389,
+            "lon": -78.75510556,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/SASSoccerPark2.jpg/1280px-SASSoccerPark2.jpg",
+            "description": "WakeMed Soccer Park is a soccer complex in Cary, North Carolina, United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "WakeMed Soccer Park",
+                "wikipedia": "en:WakeMed Soccer Park",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 8865407,
+            "lat": 35.773153,
+            "lon": -78.759087,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Cary_Towne_Center_Logo%2C_October_2014.svg/1280px-Cary_Towne_Center_Logo%2C_October_2014.svg.png",
+            "description": "Cary Towne Center was an indoor shopping mall in Cary, North Carolina.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Cary Towne Center",
+                "wikipedia": "en:Cary Towne Center",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 128298,
+            "lat": 35.59194444,
+            "lon": -78.78861111,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Fuquay-Varina_town_hall.jpg",
+            "description": "Fuquay-Varina ( FYOO-kway vuh-REE-nuh) is a town in southern Wake County, North Carolina, United States, lying south of Holly Springs and southwest of Garner.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Fuquay-Varina, North Carolina",
+                "wikipedia": "en:Fuquay-Varina, North Carolina",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 128089,
+            "lat": 34.21,
+            "lon": -77.88666667,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Wilmington%2C_North_Carolina_along_the_Cape_Fear_River_-_panoramio.jpg/1280px-Wilmington%2C_North_Carolina_along_the_Cape_Fear_River_-_panoramio.jpg",
+            "description": "Wilmington is a port city in New Hanover County, North Carolina, United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Wilmington, North Carolina",
+                "wikipedia": "en:Wilmington, North Carolina",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 21650,
+            "lat": 36,
+            "lon": -80,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Flag_of_North_Carolina.svg/1280px-Flag_of_North_Carolina.svg.png",
+            "description": "North Carolina (  KAYR-ə-LIE-nə) is a state in the Southeastern and South Atlantic regions of the United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "North Carolina",
+                "wikipedia": "en:North Carolina",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 30865160,
+            "lat": 35.23,
+            "lon": -80.84,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Uptown_Charlotte_2018_taking_by_DJI_Phantom_4_pro.jpg/1280px-Uptown_Charlotte_2018_taking_by_DJI_Phantom_4_pro.jpg",
+            "description": "The Charlotte metropolitan area (also referred to informally as Metrolina and to a lesser extent as Greater Charlotte) is a metropolitan area of the U.S. states of North and South Carolina, containing the city of Charlotte, North Carolina.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Charlotte metropolitan area",
+                "wikipedia": "en:Charlotte metropolitan area",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 150834,
+            "lat": 35.97861111,
+            "lon": -78.9,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Carolina_Theatre_%28Durham_Auditorium_1924%29.jpg/1280px-Carolina_Theatre_%28Durham_Auditorium_1924%29.jpg",
+            "description": "Durham ( DURR-əm) is a city in the U.S. state of North Carolina.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Durham, North Carolina",
+                "wikipedia": "en:Durham, North Carolina",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 15606414,
+            "lat": 35.760983,
+            "lon": -78.738102,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Crossroads_Plaza_Cary_Sign.jpg/1280px-Crossroads_Plaza_Cary_Sign.jpg",
+            "description": "Crossroads Plaza is an outdoor shopping center located in Cary, North Carolina, United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Crossroads Plaza (North Carolina)",
+                "wikipedia": "en:Crossroads Plaza (North Carolina)",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 7715554,
+            "lat": 39.91649,
+            "lon": -80.742368,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/West_Virginia_State_Penitentiary%2C_Moundsville%2C_WV.jpg/1280px-West_Virginia_State_Penitentiary%2C_Moundsville%2C_WV.jpg",
+            "description": "The West Virginia Penitentiary, located in Moundsville, West Virginia is now a withdrawn and retired gothic-style prison that operated from 1866 to 1995.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "West Virginia Penitentiary",
+                "wikipedia": "en:West Virginia Penitentiary",
+                "tourism": "attraction"
+            }
+        }
+    ]
+}

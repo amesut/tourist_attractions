@@ -1,0 +1,550 @@
+{
+    "city_metadata": {
+        "city_name": "Augusta",
+        "state_code": "GA",
+        "state_full": "Georgia",
+        "city_summary": "Augusta is a city on the central eastern border of the U.S. state of Georgia and the county seat of Richmond County. The city lies directly across the Savannah River from North Augusta, South Carolina at the head of its navigable portion. Augusta, the third most populous city in Georgia (following Atlanta and Columbus), is situated in the Fall Line region of the state.",
+        "city_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Augusta%2C_GA_Downtown_Skyline_2017.jpg/1280px-Augusta%2C_GA_Downtown_Skyline_2017.jpg",
+        "city_lat": 33.47,
+        "city_lon": -81.975,
+        "source": "wikipedia_verified_engine"
+    },
+    "attractions": [
+        {
+            "type": "node",
+            "id": 1750010266,
+            "lat": 44.711057,
+            "lon": -75.5246971,
+            "tags": {
+                "addr:city": "Prescott",
+                "addr:housenumber": "820",
+                "addr:street": "St Lawrence Street",
+                "museum": "railway",
+                "name": "Prescott Railway Station",
+                "source": "usgs",
+                "tourism": "museum",
+                "website": "https://www.pc.gc.ca/apps/dfhd/page_nhs_eng.aspx?id=498",
+                "wikidata": "Q5004648",
+                "wikipedia": "en:Bytown and Prescott Railway"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1822578248,
+            "lat": -34.3140004,
+            "lon": 115.1590558,
+            "tags": {
+                "name": "Augusta Historical Museum",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Blackwood_Avenue%2C_Augusta%2C_2015_%2805%29.JPG/1280px-Blackwood_Avenue%2C_Augusta%2C_2015_%2805%29.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 2557798473,
+            "lat": 37.6784887,
+            "lon": -96.9782971,
+            "tags": {
+                "name": "old Frisco Augusta Depot",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Loomis-Parry_Residence_NRHP_09000495_Butler_County%2C_KS.jpg/1280px-Loomis-Parry_Residence_NRHP_09000495_Butler_County%2C_KS.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 3725053229,
+            "lat": 44.6561205,
+            "lon": -75.5885284,
+            "tags": {
+                "addr:housenumber": "1372",
+                "addr:street": "County Road 2",
+                "name": "Homewood Museum",
+                "tourism": "museum",
+                "website": "https://www.heritagetrust.on.ca/properties/homewood-museum"
+            }
+        },
+        {
+            "type": "node",
+            "id": 4571349030,
+            "lat": 33.4749318,
+            "lon": -81.9608801,
+            "tags": {
+                "addr:city": "Augusta",
+                "addr:housenumber": "56",
+                "addr:postcode": "30901",
+                "addr:state": "GA",
+                "addr:street": "Reynolds Street",
+                "fee": "yes",
+                "museum": "history",
+                "name": "Augusta Museum of History",
+                "opening_hours": "Th-Sa 10:00-17:00; Su 13:00-17:00",
+                "phone": "+1-706-722-8454",
+                "tourism": "museum",
+                "website": "https://www.augustamuseum.org/",
+                "wikidata": "Q4820950"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Augusta_Museum_of_History.jpg/1280px-Augusta_Museum_of_History.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 4571366179,
+            "lat": 33.3846921,
+            "lon": -81.9685609,
+            "tags": {
+                "addr:city": "Augusta",
+                "addr:housenumber": "1858",
+                "addr:state": "GA",
+                "addr:street": "Lock and Dam Road",
+                "name": "Phinizy Swamp Nature Park",
+                "tourism": "attraction",
+                "website": "https://phinizycenter.org/"
+            }
+        },
+        {
+            "type": "node",
+            "id": 6546816614,
+            "lat": 44.3159791,
+            "lon": -69.7710239,
+            "tags": {
+                "heritage": "yes",
+                "historic": "yes",
+                "name": "Old Fort Western",
+                "tourism": "museum",
+                "website": "https://www.facebook.com/oldfortwestern/",
+                "wikidata": "Q4492009",
+                "wikipedia": "en:Fort Western"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/20/Fort_Western%2C_Main_Building%2C_Bowman_Street%2C_Augusta_%28Kennebec_County%2C_Maine%29.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 7320007940,
+            "lat": 37.2028767,
+            "lon": 15.1814384,
+            "tags": {
+                "name": "Porta sud",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Megara_Hyblaea_001.jpg/1280px-Megara_Hyblaea_001.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 7320070498,
+            "lat": 37.2043519,
+            "lon": 15.1817343,
+            "tags": {
+                "name": "Tempio",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Megara_Hyblaea_001.jpg/1280px-Megara_Hyblaea_001.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 7320070499,
+            "lat": 37.2041119,
+            "lon": 15.1815059,
+            "tags": {
+                "name": "Heeron",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Megara_Hyblaea_001.jpg/1280px-Megara_Hyblaea_001.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 7320070500,
+            "lat": 37.2042044,
+            "lon": 15.1809953,
+            "tags": {
+                "name": "Porta ovest",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Megara_Hyblaea_001.jpg/1280px-Megara_Hyblaea_001.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 7320070501,
+            "lat": 37.2038448,
+            "lon": 15.1816857,
+            "tags": {
+                "name": "Terme ellenistiche",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Megara_Hyblaea_001.jpg/1280px-Megara_Hyblaea_001.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 7320070502,
+            "lat": 37.2040219,
+            "lon": 15.1818449,
+            "tags": {
+                "name": "Portico",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Megara_Hyblaea_001.jpg/1280px-Megara_Hyblaea_001.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 7320070503,
+            "lat": 37.2035641,
+            "lon": 15.1813479,
+            "tags": {
+                "name": "Pritaneo",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Megara_Hyblaea_001.jpg/1280px-Megara_Hyblaea_001.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 7320070510,
+            "lat": 37.2048466,
+            "lon": 15.1763998,
+            "tags": {
+                "name": "Templi arcaici",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Megara_Hyblaea_001.jpg/1280px-Megara_Hyblaea_001.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 7321219636,
+            "lat": 37.2047781,
+            "lon": 15.1734588,
+            "tags": {
+                "name": "Necropoli",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 7836256785,
+            "lat": 33.4767615,
+            "lon": -81.9643711,
+            "tags": {
+                "addr:city": "Augusta",
+                "addr:housenumber": "32",
+                "addr:postcode": "30901",
+                "addr:state": "GA",
+                "addr:street": "8th Street",
+                "name": "Augusta Cotton Exchange Building",
+                "tourism": "attraction",
+                "website": "https://www.nps.gov/nr/travel/Augusta/augustacottonex.html"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Augusta_Cotton_Exchange_Building_3.JPG/1280px-Augusta_Cotton_Exchange_Building_3.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 9641783163,
+            "lat": 33.4945586,
+            "lon": -82.0234212,
+            "tags": {
+                "name": "Amen Corner",
+                "tourism": "attraction",
+                "wikipedia": "en:Augusta National Golf Club#Amen Corner"
+            }
+        },
+        {
+            "type": "node",
+            "id": 12017407939,
+            "lat": 37.2302803,
+            "lon": 15.2200197,
+            "tags": {
+                "fee": "no",
+                "name": "Museo della Piazzaforte",
+                "tourism": "museum",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 13095180530,
+            "lat": 33.4793739,
+            "lon": -81.9684374,
+            "tags": {
+                "addr:city": "Augusta",
+                "addr:housenumber": "1",
+                "addr:state": "GA",
+                "addr:street": "10th Street",
+                "contact:facebook": "https://www.facebook.com/MorrisMuseumofArt",
+                "fee": "yes",
+                "level": "1-3",
+                "loc_name": "The Morris",
+                "museum": "art",
+                "museum_type": "municipal",
+                "name": "Morris Museum of Art",
+                "opening_hours": "Tu-Sa 10:00-17:00; Su 12:00-17:00",
+                "phone": "+1-706-724-7501",
+                "tourism": "museum",
+                "website": "https://www.themorris.org/",
+                "wheelchair": "yes",
+                "wikidata": "Q6913830",
+                "wikipedia": "en:Morris Museum of Art"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Savannah_River_at_Riverwalk.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 13447354667,
+            "lat": 44.3077136,
+            "lon": -69.7820584,
+            "tags": {
+                "name": "Liberty Bell",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/BlaineHouse1.JPG/1280px-BlaineHouse1.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 113054522,
+            "lat": 44.3058555,
+            "lon": -69.7827396,
+            "tags": {
+                "addr:city": "Augusta",
+                "addr:housenumber": "230",
+                "addr:postcode": "04330",
+                "addr:state": "ME",
+                "addr:street": "State Street",
+                "building": "yes",
+                "long_name": "Maine State Library, Museum, and Archives Cultural",
+                "museum": "history",
+                "name": "Maine State Museum",
+                "tourism": "museum",
+                "website": "https://mainestatemuseum.org/",
+                "wikidata": "Q6736479",
+                "wikipedia": "en:Maine State Museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/39/Maine_State_Museum_Augusta.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 163652021,
+            "lat": 37.2445601,
+            "lon": 15.1993023,
+            "tags": {
+                "building": "hangar",
+                "disused": "yes",
+                "height": "37",
+                "name": "Hangar per dirigibili",
+                "tourism": "attraction",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "way",
+            "id": 246749803,
+            "lat": 37.2357529,
+            "lon": 15.2201255,
+            "tags": {
+                "alt_name": "Porta Spagnola",
+                "building": "yes",
+                "building:levels": "2",
+                "historic": "city_gate",
+                "name": "Porta Santo Stefano",
+                "roof:levels": "0",
+                "roof:shape": "double_saltbox",
+                "tourism": "attraction",
+                "wheelchair": "no",
+                "wikidata": "Q3908847"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Porta_Spagnolo_-_panoramio.jpg/1280px-Porta_Spagnolo_-_panoramio.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 382262908,
+            "lat": 33.4607841,
+            "lon": -81.9605647,
+            "tags": {
+                "amenity": "social_facility",
+                "name": "Augusta Exchange Club Fairgrounds",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "way",
+            "id": 385926547,
+            "lat": 33.4699057,
+            "lon": -81.9623823,
+            "tags": {
+                "barrier": "wall",
+                "historic": "school",
+                "leisure": "park",
+                "name": "Old Academy of Richmond County Park",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Old_Medical_College_%28Augusta%2C_Georgia%29.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 385926550,
+            "lat": 33.469582,
+            "lon": -81.9609501,
+            "tags": {
+                "addr:state": "GA",
+                "amenity": "arts_centre",
+                "ele": "44",
+                "gnis:feature_id": "357862",
+                "name": "Gertrude Herbert Memorial Institute of Art",
+                "source": "USGS Geonames",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Gertrude_Herbert_Art_Institute%2C_view_from_NW.JPG/1280px-Gertrude_Herbert_Art_Institute%2C_view_from_NW.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 385943808,
+            "lat": 33.4718513,
+            "lon": -81.9650778,
+            "tags": {
+                "amenity": "social_centre",
+                "name": "Woodrow Wilson's Boyhood Home",
+                "operator": "Historic Augusta",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Augusta_Georgia_Broad_Street_Lamar_Building.jpg/1280px-Augusta_Georgia_Broad_Street_Lamar_Building.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 655748336,
+            "lat": 44.6799855,
+            "lon": -75.5605909,
+            "tags": {
+                "building": "church",
+                "historic": "yes",
+                "name": "The Blue Church",
+                "source": "NRCan-CanVec-10.0",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "way",
+            "id": 706806260,
+            "lat": 44.3087485,
+            "lon": -69.7807847,
+            "tags": {
+                "addr:city": "Augusta",
+                "addr:housenumber": "184",
+                "addr:postcode": "04330",
+                "addr:state": "ME",
+                "addr:street": "State Street",
+                "building": "yes",
+                "name": "First Amendment Museum at the Gannett House",
+                "short_name": "Gannett House Museum",
+                "tourism": "museum",
+                "wikidata": "Q24693601",
+                "wikipedia": "en:Guy P. Gannett House"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Guy_P_Gannett_House.jpg/1280px-Guy_P_Gannett_House.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 1006988336,
+            "lat": 33.467114,
+            "lon": -81.9812425,
+            "tags": {
+                "addr:city": "Augusta",
+                "addr:housenumber": "1116",
+                "addr:postcode": "30901",
+                "addr:state": "GA",
+                "addr:street": "Phillips Street",
+                "building": "yes",
+                "museum": "history",
+                "name": "Lucy Craft Laney Museum",
+                "name:en": "Lucy Craft Laney Museum",
+                "opening_hours": "Tu-Sa 09:30 - 16:00",
+                "phone": "+1-706-724-3576",
+                "tourism": "museum",
+                "website": "https://lucycraftlaneymuseum.com/"
+            }
+        },
+        {
+            "type": "way",
+            "id": 1196011806,
+            "lat": 37.6738241,
+            "lon": -96.9792781,
+            "tags": {
+                "addr:city": "Augusta",
+                "addr:housenumber": "303",
+                "addr:postcode": "67010",
+                "addr:state": "KS",
+                "addr:street": "State Street",
+                "building": "yes",
+                "name": "Augusta Historical Museum",
+                "tourism": "museum"
+            }
+        },
+        {
+            "type": "way",
+            "id": 1196012022,
+            "lat": 37.6780485,
+            "lon": -96.9854433,
+            "tags": {
+                "addr:city": "Augusta",
+                "addr:housenumber": "527",
+                "addr:postcode": "67010",
+                "addr:state": "KS",
+                "addr:street": "West 7th Avenue",
+                "building": "yes",
+                "name": "Twisted Oz Motorcycle Museum",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Augusta_Theater_NRHP_90001577_Butler_County%2C_KS.jpg/1280px-Augusta_Theater_NRHP_90001577_Butler_County%2C_KS.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 1301854817,
+            "lat": 44.3380149,
+            "lon": -69.7955768,
+            "tags": {
+                "addr:city": "Augusta",
+                "addr:housenumber": "20",
+                "addr:postcode": "04330",
+                "addr:state": "ME",
+                "addr:street": "Jewett Drive",
+                "building": "yes",
+                "name": "Klahr Center",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/49/University_of_Maine_at_Augusta_Seal.png",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 1466295721,
+            "lat": 44.316476,
+            "lon": -69.7831938,
+            "tags": {
+                "addr:city": "Augusta",
+                "addr:housenumber": "107",
+                "addr:postcode": "04330",
+                "addr:state": "ME",
+                "addr:street": "North Chestnut Street",
+                "building": "yes",
+                "name": "Kennebec Historical Society",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/113_Winthrop_Street%2C_Augusta_ME.jpg/1280px-113_Winthrop_Street%2C_Augusta_ME.jpg",
+            "image_source": "wikipedia_verified"
+        }
+    ]
+}

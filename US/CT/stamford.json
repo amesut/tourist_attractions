@@ -1,0 +1,357 @@
+{
+    "city_metadata": {
+        "city_name": "Stamford",
+        "state_code": "CT",
+        "state_full": "Connecticut",
+        "city_summary": "Stamford () is a city in Fairfield County, Connecticut, United States, 34 miles (55 kilometers) outside of New York City. It is the sixth-most populous city in New England. Stamford is also the largest city in the Western Connecticut Planning Region, and Connecticut's second-most populous city, behind Bridgeport.",
+        "city_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Stamford%2C_CT_%28cropped%29.jpg/1280px-Stamford%2C_CT_%28cropped%29.jpg",
+        "city_lat": 41.05277778,
+        "city_lon": -73.53888889,
+        "source": "wikipedia_verified_engine"
+    },
+    "attractions": [
+        {
+            "type": "node",
+            "id": 367140298,
+            "lat": 41.1233642,
+            "lon": -73.5457852,
+            "tags": {
+                "addr:state": "CT",
+                "ele": "57",
+                "gnis:feature_id": "1942987",
+                "name": "Stamford Historical Society Museum",
+                "source": "USGS Geonames",
+                "tourism": "museum",
+                "website": "http://stamfordhistory.org/"
+            }
+        },
+        {
+            "type": "node",
+            "id": 368165764,
+            "lat": 32.9453874,
+            "lon": -99.8020375,
+            "tags": {
+                "addr:state": "TX",
+                "ele": "492",
+                "gnis:feature_id": "2032367",
+                "name": "Cowboy Country Museum",
+                "source": "USGS Geonames",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Stamford_First_Baptist_Church.jpg/1280px-Stamford_First_Baptist_Church.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 7823171869,
+            "lat": 52.642091,
+            "lon": -0.4953422,
+            "tags": {
+                "description": "Former source of mineralised water. Round stone basin with stone lid. A good history is \"Stamford Spa\" (2017). YouTube video, added by erasedculture [Online]. Available at www.youtube.com/watch?v=qaSI-DhD4Fc (Accessed 2020-10-26)",
+                "name": "The Stamford Spa",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 13713327401,
+            "lat": 41.1570708,
+            "lon": -73.5982026,
+            "tags": {
+                "addr:housenumber": "2810",
+                "addr:postcode": "06903",
+                "addr:street": "Long Ridge Road",
+                "name": "A Place Like Hlme",
+                "tourism": "zoo"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/28/StamfordCT_LongRidgeVillage_StFrancisEpiscopalChurch.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 295712569,
+            "lat": 41.1260642,
+            "lon": -73.5455364,
+            "tags": {
+                "building": "yes",
+                "name": "Bendel Mansion and Museum Galleries",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/13/Bendel_Pond.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 1275339849,
+            "lat": 41.0534326,
+            "lon": -73.5440247,
+            "tags": {
+                "addr:city": "Stamford",
+                "addr:housenumber": "1040",
+                "addr:postcode": "06901",
+                "addr:state": "CT",
+                "addr:street": "Washington Boulevard",
+                "building": "yes",
+                "name": "Whittingham Discovery Center",
+                "opening_hours": "Mo-Th 17:00-20:00, Fr 17:00-21:00, Sa 10:00-21:00, Su 10:00-20:00",
+                "operator": "Mill River Park Collaborative",
+                "tourism": "museum",
+                "website": "https://millriverpark.org/the-park/whittingham/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/9a/StamfordCT_MainStreetBridge.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 6466,
+            "lat": 41.6,
+            "lon": -72.7,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Flag_of_Connecticut.svg/1280px-Flag_of_Connecticut.svg.png",
+            "description": "Connecticut (  kə-NET-ih-kət) is a state in the New England region of the Northeastern United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Connecticut",
+                "wikipedia": "en:Connecticut",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 1931856,
+            "lat": 41.047,
+            "lon": -73.5013,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/EastBeachCoveIslandPark.jpg/1280px-EastBeachCoveIslandPark.jpg",
+            "description": "Cove Island Park is an 83-acre park, beach and recreation area in the Cove section of Stamford, Connecticut, located on Long Island Sound.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Cove Island Park",
+                "wikipedia": "en:Cove Island Park",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 2791448,
+            "lat": 41.101,
+            "lon": -73.4164,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Maritime_Aquarium_at_Norwalk_%2854412835630%29.jpg/1280px-Maritime_Aquarium_at_Norwalk_%2854412835630%29.jpg",
+            "description": "The Maritime Aquarium at Norwalk (formerly Maritime Center) is an aquarium located in the South Norwalk (or \"SoNo\") section of Norwalk, Connecticut.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Maritime Aquarium at Norwalk",
+                "wikipedia": "en:Maritime Aquarium at Norwalk",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 35866108,
+            "lat": 41.126,
+            "lon": -73.547,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/13/Bendel_Pond.JPG",
+            "description": "The Stamford Museum & Nature Center, located in Stamford, Connecticut, is an art, history, nature, and agricultural sciences museum.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Stamford Museum & Nature Center",
+                "wikipedia": "en:Stamford Museum & Nature Center",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 4469218,
+            "lat": 41.1088,
+            "lon": -73.4171,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/NorwalkCTLockwoodMansionSoSide09032007.JPG/1280px-NorwalkCTLockwoodMansionSoSide09032007.JPG",
+            "description": "The Lockwood–Mathews Mansion is a Second Empire style country house in Norwalk, Connecticut.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Lockwood–Mathews Mansion",
+                "wikipedia": "en:Lockwood–Mathews Mansion",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 2219768,
+            "lat": 41.303043,
+            "lon": -72.919942,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Sally%27s_Apizza_%2872128%29.jpg/1280px-Sally%27s_Apizza_%2872128%29.jpg",
+            "description": "Sally's Apizza is a New Haven style pizzeria chain based in Connecticut, established in April 1938.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Sally's Apizza",
+                "wikipedia": "en:Sally's Apizza",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 152159,
+            "lat": 41.22416667,
+            "lon": -73.05972222,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Milfordluft_2.jpg/1280px-Milfordluft_2.jpg",
+            "description": "Milford is a coastal city in New Haven County, Connecticut, United States, between New Haven and Bridgeport.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Milford, Connecticut",
+                "wikipedia": "en:Milford, Connecticut",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 9935584,
+            "lat": 41.9,
+            "lon": -71.86666667,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Quietcorner.png",
+            "description": "Northeastern Connecticut, dubbed the Quiet Corner in 1985, is a historic region of the state of Connecticut, located in the northeastern corner of the state.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Quiet Corner",
+                "wikipedia": "en:Quiet Corner",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 256965,
+            "lat": 41.55611111,
+            "lon": -73.04138889,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Waterbury%2C_Connecticut_3.jpg/1280px-Waterbury%2C_Connecticut_3.jpg",
+            "description": "Waterbury is a city in the U.S. state of Connecticut.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Waterbury, Connecticut",
+                "wikipedia": "en:Waterbury, Connecticut",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 2219861,
+            "lat": 41.302907,
+            "lon": -72.916933,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Frank_Pepe_%2820663%29.jpg/1280px-Frank_Pepe_%2820663%29.jpg",
+            "description": "Frank Pepe Pizzeria Napoletana, commonly known as Frank Pepe's or simply Pepe's (), is a New Haven style pizzeria chain based in Connecticut, with their flagship restaurant in the Wooster Square neighborhood of New Haven, Connecticut, at 163 Wooster Street and originator of New Haven-style pizza.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Frank Pepe Pizzeria Napoletana",
+                "wikipedia": "en:Frank Pepe Pizzeria Napoletana",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 8288855,
+            "lat": 41.72277778,
+            "lon": -72.76333333,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Westfarms_Entrance.jpg/1280px-Westfarms_Entrance.jpg",
+            "description": "Westfarms is a shopping mall on the West Hartford–Farmington town line in the U.S. state of Connecticut.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Westfarms",
+                "wikipedia": "en:Westfarms",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 380061,
+            "lat": 41.20444444,
+            "lon": -73.12972222,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/MMDA-Photos_-_2021-05-03_-_Town_Hall%2C_Stratford%2C_Connecticut%2C_USA.jpg/1280px-MMDA-Photos_-_2021-05-03_-_Town_Hall%2C_Stratford%2C_Connecticut%2C_USA.jpg",
+            "description": "Stratford is a town in Fairfield County, Connecticut, United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Stratford, Connecticut",
+                "wikipedia": "en:Stratford, Connecticut",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 28412608,
+            "lat": 51.5302,
+            "lon": -0.095,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/38/Parasol_unit_exterior.jpg",
+            "description": "The Parasol Unit Foundation for Contemporary Art is a not-for-profit arts organisation established in 2004.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Parasol Unit Foundation for Contemporary Art",
+                "wikipedia": "en:Parasol Unit Foundation for Contemporary Art",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 1754468,
+            "lat": 41.76833333,
+            "lon": -72.67694444,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/PBA112425.jpg/1280px-PBA112425.jpg",
+            "description": "The PeoplesBank Arena (originally known as the Hartford Civic Center and formerly as the XL Center) is a multi-purpose arena and convention center located in downtown Hartford, Connecticut.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "PeoplesBank Arena",
+                "wikipedia": "en:PeoplesBank Arena",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 2069319,
+            "lat": 40.9825,
+            "lon": -73.62333333,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/50/GreatCaptainIslandLight.jpg",
+            "description": "Great Captain Island, also known more familiarly as \"Great Captain's Island,\" is an island off the coast of Greenwich, Connecticut.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Great Captain Island",
+                "wikipedia": "en:Great Captain Island",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 17568438,
+            "lat": 41.7625,
+            "lon": -72.68027778,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/The_Bushnell_outside_high_res_photo.jpg/1280px-The_Bushnell_outside_high_res_photo.jpg",
+            "description": "The Bushnell Center for the Performing Arts (formerly known as Bushnell Memorial Hall or simply The Bushnell ) is a performing arts venue at 166 Capitol Street in Hartford, Connecticut.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "The Bushnell Center for the Performing Arts",
+                "wikipedia": "en:The Bushnell Center for the Performing Arts",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 7124643,
+            "lat": 41.26324444,
+            "lon": -72.34277778,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Saybrook_breakwater_light.jpg/1280px-Saybrook_breakwater_light.jpg",
+            "description": "Saybrook Breakwater Lighthouse is a sparkplug lighthouse in Connecticut,\nUnited States, at Fenwick Point at the mouth of the Connecticut River near Old Saybrook, Connecticut.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Saybrook Breakwater Light",
+                "wikipedia": "en:Saybrook Breakwater Light",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 2742393,
+            "lat": 41.34361111,
+            "lon": -72.09305556,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/FortTrumbullShore.JPG/1280px-FortTrumbullShore.JPG",
+            "description": "Fort Trumbull is a massive granite fort near the mouth of the Thames River in New London, Connecticut, managed as Fort Trumbull State Park by the Connecticut Department of Energy and Environmental Protection.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Fort Trumbull",
+                "wikipedia": "en:Fort Trumbull",
+                "tourism": "attraction"
+            }
+        }
+    ]
+}

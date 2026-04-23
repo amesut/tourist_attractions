@@ -1,0 +1,366 @@
+{
+    "city_metadata": {
+        "city_name": "Youngstown",
+        "state_code": "OH",
+        "state_full": "Ohio",
+        "city_summary": "Youngstown is a city in Mahoning County, Ohio, United States, and the county seat (however, a small portion of the city is in Trumbull County). It lies along the Mahoning River in Northeast Ohio. The population was 60,068 at the 2020 census (estimated at 59,123 in 2024), making it the eleventh-most populous city in Ohio.",
+        "city_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Mill_Creek_Park_Lanterman%27s_Mill.jpg/1280px-Mill_Creek_Park_Lanterman%27s_Mill.jpg",
+        "city_lat": 41.099095,
+        "city_lon": -80.645902,
+        "source": "wikipedia_verified_engine"
+    },
+    "attractions": [
+        {
+            "type": "node",
+            "id": 5168314719,
+            "lat": 41.100163,
+            "lon": -80.6501295,
+            "tags": {
+                "check_date:opening_hours": "2024-06-01",
+                "fee": "yes",
+                "fee:conditional": "no @ members",
+                "name": "OH WOW! Childen's Museum",
+                "opening_hours": "We-Sa 10:00-17:00; Su 12:00-17:00",
+                "opening_hours:signed": "no",
+                "tourism": "museum",
+                "website": "https://ohwowkids.org/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Downtown_Youngstown_2019.jpg/1280px-Downtown_Youngstown_2019.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 7098905834,
+            "lat": 41.0960122,
+            "lon": -80.650772,
+            "tags": {
+                "name": "Youngstown Sign",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9841693938,
+            "lat": 41.0993666,
+            "lon": -80.6764526,
+            "tags": {
+                "alt_name": "The John C. Melnick Mill Creek Park Museum",
+                "museum": "history",
+                "name": "Mill Creek Park Museum",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Kidston_Pavilion.jpg/1280px-Kidston_Pavilion.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 255957034,
+            "lat": 41.10562,
+            "lon": -80.646113,
+            "tags": {
+                "addr:state": "OH",
+                "building": "yes",
+                "ele": "281",
+                "fee": "no",
+                "gnis:feature_id": "1069673",
+                "museum": "art",
+                "name": "Butler Institute of American Art",
+                "source": "USGS Geonames",
+                "tourism": "museum",
+                "website": "https://butlerart.com/",
+                "wikidata": "Q5002627",
+                "wikipedia": "en:Butler Institute of American Art"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/1a/YWCA_Youngstown_5.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 290936127,
+            "lat": 41.1072401,
+            "lon": -80.6444428,
+            "tags": {
+                "building": "yes",
+                "name": "Arms Family Museum",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Ursuline_high_school_5.jpg/1280px-Ursuline_high_school_5.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 304607396,
+            "lat": 41.1049577,
+            "lon": -80.6449536,
+            "tags": {
+                "addr:state": "OH",
+                "building": "yes",
+                "ele": "279",
+                "gnis:feature_id": "1079647",
+                "name": "McDonough Museum of Art",
+                "source": "USGS Geonames",
+                "tourism": "museum",
+                "website": "http://mcdonoughmuseum.ysu.edu/index2.php",
+                "wikidata": "Q6800980",
+                "wikipedia": "en:McDonough Museum of Art"
+            }
+        },
+        {
+            "type": "way",
+            "id": 554533729,
+            "lat": 41.1026162,
+            "lon": -80.6513585,
+            "tags": {
+                "building": "yes",
+                "name": "Youngstown Historical Center of Industry & Labor",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Youngstownlaborindustry.gif",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 865206513,
+            "lat": 41.1020051,
+            "lon": -80.6546835,
+            "tags": {
+                "building": "yes",
+                "fee": "yes",
+                "name": "Tyler History Center",
+                "opening_hours": "Tu-Su 12:00-16:00",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Powers_Auditorium_in_Youngstown.jpg/1280px-Powers_Auditorium_in_Youngstown.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 1065518084,
+            "lat": 41.1298617,
+            "lon": -80.6253383,
+            "tags": {
+                "addr:city": "Youngstown",
+                "addr:housenumber": "2261",
+                "addr:postcode": "44505",
+                "addr:state": "OH",
+                "addr:street": "Hubbard Road",
+                "building": "yes",
+                "name": "Youngstown Steel Heritage",
+                "tourism": "museum",
+                "website": "http://www.todengine.org/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Aerial_photo_of_Lansdowne_Airport_%2804G%29%2C_20250323_%284%29.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 3529090,
+            "lat": 41.096145,
+            "lon": -80.647943,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Covelli_day.jpg/1280px-Covelli_day.jpg",
+            "description": "The Covelli Centre is a multi-purpose arena in Youngstown, Ohio, United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Covelli Centre",
+                "wikipedia": "en:Covelli Centre",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 3162925,
+            "lat": 41.10946,
+            "lon": -80.649298,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Stambaugh_Stadium_looking_Northeast.jpg",
+            "description": "Stambaugh Stadium, officially Arnold D. Stambaugh Stadium, is a stadium in Youngstown, Ohio, United States, sited on the campus of Youngstown State University.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Stambaugh Stadium",
+                "wikipedia": "en:Stambaugh Stadium",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 22199,
+            "lat": 40,
+            "lon": -83,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Flag_of_Ohio.svg/1280px-Flag_of_Ohio.svg.png",
+            "description": "Ohio (  oh-HY-oh) is a state in the Midwestern region of the United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Ohio",
+                "wikipedia": "en:Ohio",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 129842,
+            "lat": 41.08055556,
+            "lon": -81.52222222,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Stan_Hywet_Hall_2.jpg/1280px-Stan_Hywet_Hall_2.jpg",
+            "description": "Akron () is a city in Summit County, Ohio, United States, and its county seat.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Akron, Ohio",
+                "wikipedia": "en:Akron, Ohio",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 2887528,
+            "lat": 41.0213889,
+            "lon": -80.6588889,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Southern_Park_Mall_Center_Court%3B_Boardman_OH.jpg/1280px-Southern_Park_Mall_Center_Court%3B_Boardman_OH.jpg",
+            "description": "Southern Park is a shopping mall in Boardman, Ohio, United States, serving the Youngstown–Warren metropolitan area.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Southern Park Mall",
+                "wikipedia": "en:Southern Park Mall",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 1474292,
+            "lat": 41.2184525,
+            "lon": -80.7552409,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Eastwood_Field.jpg/1280px-Eastwood_Field.jpg",
+            "description": "7 17 Credit Union Field at Eastwood is a baseball stadium in Niles, Ohio, United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "7 17 Credit Union Field at Eastwood",
+                "wikipedia": "en:7 17 Credit Union Field at Eastwood",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 8253,
+            "lat": 39.75944444,
+            "lon": -84.19166667,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Dayton_Skyline_-_Sunset_September_2022_%28cropped%29.jpg/1280px-Dayton_Skyline_-_Sunset_September_2022_%28cropped%29.jpg",
+            "description": "Dayton ( ) is a city in Montgomery County, Ohio, United States, and its county seat.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Dayton, Ohio",
+                "wikipedia": "en:Dayton, Ohio",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 128902,
+            "lat": 41.857753,
+            "lon": -80.946372,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Geneva_On_The_Lake_Downtown_-_panoramio_%281%29.jpg/1280px-Geneva_On_The_Lake_Downtown_-_panoramio_%281%29.jpg",
+            "description": "Geneva-on-the-Lake is a village in Geneva Township, Ashtabula County, Ohio, United States, along the southern shore of Lake Erie.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Geneva-on-the-Lake, Ohio",
+                "wikipedia": "en:Geneva-on-the-Lake, Ohio",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 129801,
+            "lat": 38.73944444,
+            "lon": -82.94444444,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Portsmouth%2C_Ohio.jpg/1280px-Portsmouth%2C_Ohio.jpg",
+            "description": "Portsmouth is a city in Scioto County, Ohio, United States, and its county seat.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Portsmouth, Ohio",
+                "wikipedia": "en:Portsmouth, Ohio",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 11086047,
+            "lat": 40.0628,
+            "lon": -80.7322,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Grand_Stand_entrance%2C_Wheeling_Downs%2C_Wheeling%2C_W._Va_%2880152%29.jpg/1280px-Grand_Stand_entrance%2C_Wheeling_Downs%2C_Wheeling%2C_W._Va_%2880152%29.jpg",
+            "description": "Wheeling Island Hotel-Casino-Racetrack (formerly Wheeling Downs) is a greyhound racino located on Wheeling Island in the middle of the Ohio River, which is a part of the city of Wheeling, West Virginia.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Wheeling Island Hotel-Casino-Racetrack",
+                "wikipedia": "en:Wheeling Island Hotel-Casino-Racetrack",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 53353,
+            "lat": 38.6246,
+            "lon": -90.185,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/St_Louis_night_expblend_cropped.jpg/1280px-St_Louis_night_expblend_cropped.jpg",
+            "description": "The Gateway Arch is a 630-foot-tall (192 m) monument in St.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Gateway Arch",
+                "wikipedia": "en:Gateway Arch",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 12569847,
+            "lat": 41.072347,
+            "lon": -81.508019,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/UAkron_Summa_Field.jpg/1280px-UAkron_Summa_Field.jpg",
+            "description": "InfoCision Stadium–Summa Field is a college American football stadium in Akron, Ohio and the home field of the Akron Zips football team at the University of Akron.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "InfoCision Stadium–Summa Field",
+                "wikipedia": "en:InfoCision Stadium–Summa Field",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 32432,
+            "lat": 38,
+            "lon": -79,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Flag_of_Virginia.svg/1280px-Flag_of_Virginia.svg.png",
+            "description": "Virginia, officially the Commonwealth of Virginia, is a state in the Southeastern and Mid-Atlantic regions of the United States between the Atlantic Coast and the Appalachian Mountains.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Virginia",
+                "wikipedia": "en:Virginia",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 3854384,
+            "lat": 39.32111111,
+            "lon": -82.10277778,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Peden_Stadium_Interior.jpg/1280px-Peden_Stadium_Interior.jpg",
+            "description": "Peden Stadium, also known as Frank Solich Field at Peden Stadium since August 2022, is an American football stadium on the campus of Ohio University in Athens, Ohio.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Peden Stadium",
+                "wikipedia": "en:Peden Stadium",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 24809451,
+            "lat": 32.37472222,
+            "lon": -86.30916667,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Old_Montgomery_Greyhound_Station_May2009.jpg/1280px-Old_Montgomery_Greyhound_Station_May2009.jpg",
+            "description": "The Freedom Rides Museum is located at 210 South Court Street in Montgomery, Alabama, in the building which was until 1995 the Montgomery Greyhound Bus Station.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Freedom Rides Museum",
+                "wikipedia": "en:Freedom Rides Museum",
+                "tourism": "attraction"
+            }
+        }
+    ]
+}

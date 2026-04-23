@@ -1,0 +1,101 @@
+{
+    "city_metadata": {
+        "city_name": "Moab",
+        "state_code": "UT",
+        "state_full": "Utah",
+        "city_summary": "Moab ( ) is the largest city in and the county seat of Grand County in eastern Utah in the western United States, known for its dramatic scenery. The population was 5,366 at the 2020 census. Moab attracts many tourists annually, mostly visitors to the nearby Arches and Canyonlands National Parks.",
+        "city_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Moab%2C_Utah_downtown.jpg/1280px-Moab%2C_Utah_downtown.jpg",
+        "city_lat": 38.5725,
+        "city_lon": -109.54972222,
+        "source": "wikipedia_verified_engine"
+    },
+    "attractions": [
+        {
+            "type": "way",
+            "id": 421119291,
+            "lat": 38.5730349,
+            "lon": -109.5483474,
+            "tags": {
+                "addr:state": "UT",
+                "building": "yes",
+                "ele": "1229",
+                "gnis:feature_id": "2055923",
+                "name": "Moab Museum",
+                "tourism": "museum",
+                "website": "https://moabmuseum.org/about/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Moab%2C_Utah_downtown.jpg/1280px-Moab%2C_Utah_downtown.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 31716,
+            "lat": 39,
+            "lon": -111,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Flag_of_Utah.svg/1280px-Flag_of_Utah.svg.png",
+            "description": "Utah is a landlocked state in the Mountain West subregion of the  Western United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Utah",
+                "wikipedia": "en:Utah",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 15794363,
+            "lat": 39.0703,
+            "lon": -108.5709,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/MUTCD_M10-1.svg/1280px-MUTCD_M10-1.svg.png",
+            "description": "The Dinosaur Diamond is a 486-mile (782 km) scenic and historic byway loop through the dinosaur fossil laden Uinta Basin of the U.S. states of Utah and Colorado.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Dinosaur Diamond",
+                "wikipedia": "en:Dinosaur Diamond",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 137107,
+            "lat": 38.51083333,
+            "lon": -111.8825,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/af/Koosharem_Utah.jpg",
+            "description": "Koosharem is a town in Sevier County, Utah, United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Koosharem, Utah",
+                "wikipedia": "en:Koosharem, Utah",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 19031590,
+            "lat": 41.9688,
+            "lon": -121.5681,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/aa/CCC_Camp_Tule_Lake.jpg",
+            "description": "Camp Tulelake was a federal work facility and War Relocation Authority isolation center located in Siskiyou County, five miles (8 km) west of Tulelake, California.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Camp Tulelake",
+                "wikipedia": "en:Camp Tulelake",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 46989,
+            "lat": 36.3,
+            "lon": -112.75,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Canyon_River_Tree_%28165872763%29.jpeg/1280px-Canyon_River_Tree_%28165872763%29.jpeg",
+            "description": "The Grand Canyon is a steep-sided canyon carved by the Colorado River in Arizona, United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Grand Canyon",
+                "wikipedia": "en:Grand Canyon",
+                "tourism": "attraction"
+            }
+        }
+    ]
+}

@@ -1,0 +1,909 @@
+{
+    "city_metadata": {
+        "city_name": "Huntsville",
+        "state_code": "AL",
+        "state_full": "Alabama",
+        "city_summary": "Huntsville is the most populous city in the U.S. state of Alabama. The population was 215,006 at the 2020 census, making it the 100th-most populous city in the U.S., while the Huntsville metropolitan area has an estimated 542,000 residents and is the second-most populous metropolitan area in the state. As of July 1, 2025, the city's population was estimated to be 249,102 – a 15.9% increase since the 2020 Census.",
+        "city_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Huntsville_Art_Museum_-_front_fa%C3%A7ade_and_stairs_2023.jpg/1280px-Huntsville_Art_Museum_-_front_fa%C3%A7ade_and_stairs_2023.jpg",
+        "city_lat": 34.69333333,
+        "city_lon": -86.56083333,
+        "source": "wikipedia_verified_engine"
+    },
+    "attractions": [
+        {
+            "type": "node",
+            "id": 304277997,
+            "lat": 45.3268306,
+            "lon": -79.2074049,
+            "tags": {
+                "name": "Lions Lookout",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 368165051,
+            "lat": 30.7240199,
+            "lon": -95.5527105,
+            "tags": {
+                "addr:state": "TX",
+                "ele": "115",
+                "gnis:feature_id": "2014419",
+                "name": "Gibbs-Powell House Museum",
+                "source": "USGS Geonames",
+                "tourism": "museum",
+                "website": "https://easttexashistory.org/items/show/209"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Downtown_Huntsville_Texas_1_Wiki_%281_of_1%29.jpg/1280px-Downtown_Huntsville_Texas_1_Wiki_%281_of_1%29.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 443691306,
+            "lat": 34.7105648,
+            "lon": -86.6544806,
+            "tags": {
+                "name": "V 1",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Space_Camp_Hab_and_entry_gate.jpg/1280px-Space_Camp_Hab_and_entry_gate.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 443691308,
+            "lat": 34.7107835,
+            "lon": -86.6543948,
+            "tags": {
+                "aircraft:type": "rocket",
+                "historic": "aircraft",
+                "model:wikidata": "Q521076",
+                "name": "Saturn I",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Space_Camp_Hab_and_entry_gate.jpg/1280px-Space_Camp_Hab_and_entry_gate.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 443692065,
+            "lat": 34.7111912,
+            "lon": -86.6576321,
+            "tags": {
+                "historic": "aircraft",
+                "manufacturer": "Lockheed Aircraft Corporation",
+                "model": "A-12 Blackbird",
+                "model:wikidata": "Q959030",
+                "name": "Lockheed A-12 'Oxcart'",
+                "note": "Temporarily moved to west end of parking lot while being refurbished",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/S-IC-D_positioning_for_shake_test.jpg/1280px-S-IC-D_positioning_for_shake_test.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 939316970,
+            "lat": 34.7823805,
+            "lon": -86.5378441,
+            "tags": {
+                "ele": "226.2",
+                "name": "Alabama A&M Agribition Center",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 939338157,
+            "lat": 34.7834668,
+            "lon": -86.5458829,
+            "tags": {
+                "FIXME": "check name (Alabma)",
+                "museum": "railway",
+                "name": "North Alabama Railroad Museum",
+                "tourism": "museum",
+                "website": "https://narm.info/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/23/Chase%2C_Alabama_%281915%29.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 3091286888,
+            "lat": 34.7110991,
+            "lon": -86.655912,
+            "tags": {
+                "aircraft:type": "rocket",
+                "historic": "aircraft",
+                "model": "Saturn V",
+                "model:wikidata": "Q54363",
+                "name": "Saturn V Rocket",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/S-IC-D_positioning_for_shake_test.jpg/1280px-S-IC-D_positioning_for_shake_test.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 5154657688,
+            "lat": 34.7103302,
+            "lon": -86.655139,
+            "tags": {
+                "name": "Apollo 11",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Space_Camp_Hab_and_entry_gate.jpg/1280px-Space_Camp_Hab_and_entry_gate.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 5582915763,
+            "lat": 30.7358948,
+            "lon": -95.5830449,
+            "tags": {
+                "addr:city": "Huntsville",
+                "addr:country": "US",
+                "addr:housenumber": "463",
+                "addr:postcode": "77320",
+                "addr:state": "TX",
+                "addr:street": "State Highway 75 North",
+                "fee": "yes",
+                "name": "H.E.A.R.T.S. Veterans Museum of Texas",
+                "opening_hours": "Mo-Su 10:00-17:00",
+                "phone": "+1 936 295 5959",
+                "tourism": "museum",
+                "website": "https://heartsmuseum.com/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/TexasPrisonMuseum.JPG/1280px-TexasPrisonMuseum.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 5800662878,
+            "lat": 34.7107655,
+            "lon": -86.6528588,
+            "tags": {
+                "aircraft:type": "spacecraft",
+                "historic": "aircraft",
+                "name": "Space Shuttle",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c2/MPTA-098.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 6439952675,
+            "lat": 36.0874529,
+            "lon": -93.7416162,
+            "tags": {
+                "name": "Madison County Historical Society",
+                "tourism": "museum",
+                "website": "https://www.mcghs.info"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Madison_County_Courthouse_in_Huntsville%2C_AR.jpg/1280px-Madison_County_Courthouse_in_Huntsville%2C_AR.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 8812659325,
+            "lat": 34.7852709,
+            "lon": -86.5694085,
+            "tags": {
+                "name": "State Black Archives Research Center and Museum",
+                "tourism": "museum",
+                "website": "https://www.aamu.edu/academics/library-learning-resources-center/state-black-archives-museum/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/AAMU_James_H._Wilson_Hall_Dec10_01.jpg/1280px-AAMU_James_H._Wilson_Hall_Dec10_01.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 10014144005,
+            "lat": 34.7102403,
+            "lon": -86.6553417,
+            "tags": {
+                "name": "U.S. Army Lance",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Space_Camp_Hab_and_entry_gate.jpg/1280px-Space_Camp_Hab_and_entry_gate.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 10014144006,
+            "lat": 34.7101576,
+            "lon": -86.6553887,
+            "tags": {
+                "name": "U.S. Army Hawk",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/S-IC-D_positioning_for_shake_test.jpg/1280px-S-IC-D_positioning_for_shake_test.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 10014144007,
+            "lat": 34.7102348,
+            "lon": -86.6554798,
+            "tags": {
+                "name": "U.S. Army UH-1 Iroquois",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/S-IC-D_positioning_for_shake_test.jpg/1280px-S-IC-D_positioning_for_shake_test.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 10014144009,
+            "lat": 34.7101466,
+            "lon": -86.6556461,
+            "tags": {
+                "name": "U.S. Army Sergeant",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/S-IC-D_positioning_for_shake_test.jpg/1280px-S-IC-D_positioning_for_shake_test.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 10014144010,
+            "lat": 34.7099625,
+            "lon": -86.6557776,
+            "tags": {
+                "name": "Skylab Vehicle Cluster",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/S-IC-D_positioning_for_shake_test.jpg/1280px-S-IC-D_positioning_for_shake_test.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 10014144011,
+            "lat": 34.7101617,
+            "lon": -86.6557669,
+            "tags": {
+                "name": "U.S. Army FAAR",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/S-IC-D_positioning_for_shake_test.jpg/1280px-S-IC-D_positioning_for_shake_test.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 10014144012,
+            "lat": 34.7100805,
+            "lon": -86.6558185,
+            "tags": {
+                "name": "U.S. Army Missile Recovery Submarine Perry PC-3A1",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/S-IC-D_positioning_for_shake_test.jpg/1280px-S-IC-D_positioning_for_shake_test.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 10014144013,
+            "lat": 34.7100707,
+            "lon": -86.6558739,
+            "tags": {
+                "name": "U.S. Army Nike Hercules",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/S-IC-D_positioning_for_shake_test.jpg/1280px-S-IC-D_positioning_for_shake_test.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 10014144014,
+            "lat": 34.7100843,
+            "lon": -86.6559301,
+            "tags": {
+                "name": "U.S. Army Roland",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/S-IC-D_positioning_for_shake_test.jpg/1280px-S-IC-D_positioning_for_shake_test.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 10014144015,
+            "lat": 34.7101321,
+            "lon": -86.6559891,
+            "tags": {
+                "name": "U.S. Army Corporal",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/S-IC-D_positioning_for_shake_test.jpg/1280px-S-IC-D_positioning_for_shake_test.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 10014144016,
+            "lat": 34.7102132,
+            "lon": -86.6559513,
+            "tags": {
+                "name": "U.S. Army Nike Zeus",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/S-IC-D_positioning_for_shake_test.jpg/1280px-S-IC-D_positioning_for_shake_test.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 10014166717,
+            "lat": 34.7102693,
+            "lon": -86.6559181,
+            "tags": {
+                "name": "U.S. Army Little John",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/S-IC-D_positioning_for_shake_test.jpg/1280px-S-IC-D_positioning_for_shake_test.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 10014166718,
+            "lat": 34.7103338,
+            "lon": -86.6559273,
+            "tags": {
+                "name": "U.S. Army Honest John",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/S-IC-D_positioning_for_shake_test.jpg/1280px-S-IC-D_positioning_for_shake_test.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 10014166719,
+            "lat": 34.7104536,
+            "lon": -86.6559596,
+            "tags": {
+                "name": "U.S. Army Spartan",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/S-IC-D_positioning_for_shake_test.jpg/1280px-S-IC-D_positioning_for_shake_test.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 10014166720,
+            "lat": 34.7105021,
+            "lon": -86.6558194,
+            "tags": {
+                "name": "Hermes A1 Experimental Surface-to-Air Missile",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/S-IC-D_positioning_for_shake_test.jpg/1280px-S-IC-D_positioning_for_shake_test.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 10014166721,
+            "lat": 34.7105605,
+            "lon": -86.6557078,
+            "tags": {
+                "name": "U.S. Army Multiple Launch Rocket System (MLRS)",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/S-IC-D_positioning_for_shake_test.jpg/1280px-S-IC-D_positioning_for_shake_test.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 10014166722,
+            "lat": 34.7105302,
+            "lon": -86.6555529,
+            "tags": {
+                "name": "U.S. Army Chaparral",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/S-IC-D_positioning_for_shake_test.jpg/1280px-S-IC-D_positioning_for_shake_test.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 10014166723,
+            "lat": 34.7107,
+            "lon": -86.6555483,
+            "tags": {
+                "name": "U.S. Army Avenger",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/S-IC-D_positioning_for_shake_test.jpg/1280px-S-IC-D_positioning_for_shake_test.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 10014166724,
+            "lat": 34.7106151,
+            "lon": -86.6553361,
+            "tags": {
+                "name": "Tandem-Compound Turbine Rotor",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Space_Camp_Hab_and_entry_gate.jpg/1280px-Space_Camp_Hab_and_entry_gate.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 10882314429,
+            "lat": 45.3622534,
+            "lon": -79.1308073,
+            "tags": {
+                "name": "Bush Poker Axe Throwing",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10882314430,
+            "lat": 45.3624995,
+            "lon": -79.1312128,
+            "tags": {
+                "name": "Archery @ Find Your Wild",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11834303509,
+            "lat": 34.7102029,
+            "lon": -86.651999,
+            "tags": {
+                "description": "A testbed for the United States shuttle program.",
+                "name": "Main Propulsion Test Article 098",
+                "short_name": "MPTA-098",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Space_Shuttle_Pathfinder_Highsmith.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 11977670033,
+            "lat": 34.7112937,
+            "lon": -86.6559717,
+            "tags": {
+                "name": "NASA Saturn F-1 Engine",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/S-IC-D_positioning_for_shake_test.jpg/1280px-S-IC-D_positioning_for_shake_test.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 11977670048,
+            "lat": 34.7106138,
+            "lon": -86.6521468,
+            "tags": {
+                "aircraft:type": "jet",
+                "historic": "aircraft",
+                "manufacturer": "Grumman",
+                "model": "Gulfstream II",
+                "name": "Shuttle Training Aircraft",
+                "tourism": "attraction",
+                "wikidata": "Q694340",
+                "wikipedia": "en:Shuttle Training Aircraft"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Space_Shuttle_Pathfinder_Highsmith.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 13626122999,
+            "lat": 34.7354435,
+            "lon": -86.6952601,
+            "tags": {
+                "name": "BE-4 Engine",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 13644537106,
+            "lat": 34.710018,
+            "lon": -86.654188,
+            "tags": {
+                "name": "SLS Core Stage Pathfinder",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c2/MPTA-098.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 37833694,
+            "lat": 34.7105102,
+            "lon": -86.653984,
+            "tags": {
+                "area": "yes",
+                "name": "Rocket Garden",
+                "tourism": "theme_park"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Space_Camp_Hab_and_entry_gate.jpg/1280px-Space_Camp_Hab_and_entry_gate.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 59531339,
+            "lat": 34.7277762,
+            "lon": -86.5885531,
+            "tags": {
+                "bridge": "yes",
+                "foot": "designated",
+                "highway": "footway",
+                "lit": "no",
+                "name": "Japanese Red Bridge",
+                "surface": "concrete",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Panoply_2022.jpg/1280px-Panoply_2022.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 59531354,
+            "lat": 34.7271014,
+            "lon": -86.5872382,
+            "tags": {
+                "addr:housenumber": "300",
+                "addr:street": "Church Street Southwest",
+                "building": "yes",
+                "ele": "199.3",
+                "fee": "yes",
+                "membership": "yes",
+                "name": "Huntsville Museum of Art",
+                "opening_hours": "Tu,We,Fr,Sa 10:00-17:00; Th 10:00-20:00; Su 12:00-17:00",
+                "tourism": "museum",
+                "wikidata": "Q1638259"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Panoply_2022.jpg/1280px-Panoply_2022.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 220273660,
+            "lat": 34.7340136,
+            "lon": -86.5892169,
+            "tags": {
+                "addr:housenumber": "398",
+                "addr:street": "Monroe Street Northwest",
+                "building": "yes",
+                "disused:railway": "roundhouse",
+                "layer": "1",
+                "name": "Huntsville Roundhouse and Turntable",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Lombardo_Building_Dec2009_01.jpg/1280px-Lombardo_Building_Dec2009_01.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 229921279,
+            "lat": 34.728178,
+            "lon": -86.584615,
+            "tags": {
+                "addr:housenumber": "404",
+                "addr:street": "Madison Street",
+                "building": "yes",
+                "ele": "191.2",
+                "fee": "yes",
+                "museum": "children",
+                "name": "Early Works Museum",
+                "source": "Bing",
+                "tourism": "museum",
+                "website": "https://earlyworks.com/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Hundley_House_July_2010_02.jpg/1280px-Hundley_House_July_2010_02.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 251578692,
+            "lat": 34.7345319,
+            "lon": -86.5907893,
+            "tags": {
+                "addr:city": "Huntsville",
+                "addr:housenumber": "330",
+                "addr:postcode": "35801",
+                "addr:state": "AL",
+                "addr:street": "Church Street Northwest",
+                "building": "train_station",
+                "heritage": "2",
+                "heritage:operator": "nrhp",
+                "historic": "railway_station",
+                "name": "Huntsville Depot",
+                "old_name": "Southern Railway System Depot",
+                "ref:nrhp": "71000101",
+                "start_date": "1860",
+                "tourism": "attraction",
+                "wikidata": "Q14679183",
+                "wikipedia": "en:Huntsville Depot"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Huntsville_Depot_July_2010_03.jpg/1280px-Huntsville_Depot_July_2010_03.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 289928124,
+            "lat": 34.7292267,
+            "lon": -86.5842988,
+            "tags": {
+                "ele": "197",
+                "fee": "no",
+                "gnis:feature_id": "146818",
+                "leisure": "park",
+                "name": "Constitution Hall Park",
+                "name_1": "Alabama Constitution Village",
+                "tourism": "museum",
+                "wikidata": "Q4705209"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Hundley_Rental_Houses_July_2010.jpg/1280px-Hundley_Rental_Houses_July_2010.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 289928126,
+            "lat": 34.7297292,
+            "lon": -86.5822804,
+            "tags": {
+                "addr:city": "Huntsville",
+                "addr:housenumber": "300",
+                "addr:postcode": "35801",
+                "addr:state": "AL",
+                "addr:street": "Gates Avenue Southeast",
+                "building": "yes",
+                "fee": "yes",
+                "name": "Weeden House",
+                "opening_hours:url": "https://www.weedenhousemuseum.com/",
+                "phone": "+1-256-536-7718",
+                "source:geometry": "Bing 2011",
+                "tourism": "museum",
+                "website": "https://www.weedenhousemuseum.com/",
+                "wikidata": "Q65043489"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Weeden_House_July_2010_02.jpg/1280px-Weeden_House_July_2010_02.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 405661368,
+            "lat": 34.6920718,
+            "lon": -86.5862365,
+            "tags": {
+                "addr:city": "Huntsville",
+                "addr:housenumber": "2060",
+                "addr:postcode": "35801",
+                "addr:state": "AL",
+                "addr:street": "Airport Road Southwest",
+                "building": "yes",
+                "name": "U.S. Veterans Memorial Museum",
+                "tourism": "museum"
+            }
+        },
+        {
+            "type": "way",
+            "id": 475098337,
+            "lat": 34.7172773,
+            "lon": -86.6725901,
+            "tags": {
+                "attraction": "carousel",
+                "name": "Bridge Street Carousel",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/BridgeStreetTownCentre.jpg/1280px-BridgeStreetTownCentre.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 477340414,
+            "lat": 34.7113537,
+            "lon": -86.6541136,
+            "tags": {
+                "addr:city": "Huntsville",
+                "addr:country": "US",
+                "addr:housenumber": "1",
+                "addr:postcode": "35805",
+                "addr:state": "AL",
+                "addr:street": "Tranquility Base",
+                "building": "yes",
+                "height": "12",
+                "museum": "aerospace",
+                "name": "U.S. Space & Rocket Center",
+                "tourism": "museum",
+                "website": "http://www.ussrc.com/",
+                "wikidata": "Q4347952",
+                "wikipedia": "en:U.S. Space & Rocket Center"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Ussrc_logo.png",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 479647526,
+            "lat": 34.7159609,
+            "lon": -86.539689,
+            "tags": {
+                "addr:state": "AL",
+                "building": "yes",
+                "ele": "472",
+                "gnis:feature_id": "115277",
+                "museum": "history",
+                "museum_type": "municipal",
+                "name": "Burritt Museum",
+                "opening_hours": "Apr-Oct Tu-Sa 09:00-17:00; Nov-Mar Tu-Sa 10:00-16:00; Apr-Oct Su 12:00-17:00; Nov-Mar Su 12:00-16:00",
+                "source": "USGS Geonames",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Smith-Williams_House_Burritt_Museum_01.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 479781751,
+            "lat": 34.7285094,
+            "lon": -86.553846,
+            "tags": {
+                "area": "yes",
+                "name": "Three Caves",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "way",
+            "id": 583999136,
+            "lat": 30.7357598,
+            "lon": -95.5843263,
+            "tags": {
+                "addr:city": "Huntsville",
+                "addr:country": "US",
+                "addr:housenumber": "491",
+                "addr:postcode": "77320",
+                "addr:state": "TX",
+                "addr:street": "State Highway 75 North",
+                "check_date:opening_hours": "2023-03-27",
+                "ele": "113",
+                "fee": "yes",
+                "fee:conditional": "no @ (age < 6)",
+                "gnis:feature_id": "2014366",
+                "name": "Texas Prison Museum",
+                "opening_hours": "Mo-Sa 10:00-17:00; Su 12:00-17:00; Mo[1] 12:00-17:00; Jan 01 off; Nov Th[4] off; Nov Fr[4] off; Dec 25-26 off; easter -1 day off",
+                "phone": "+1 936 295 2155",
+                "source": "USGS Geonames",
+                "tourism": "museum",
+                "website": "https://www.txprisonmuseum.org/",
+                "wikidata": "Q7707914"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/TexasPrisonMuseum.JPG/1280px-TexasPrisonMuseum.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 605679435,
+            "lat": 45.3474707,
+            "lon": -79.1342394,
+            "tags": {
+                "name": "Zig Zag Escape Cabins",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Deerhurst_Resort.JPG/1280px-Deerhurst_Resort.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 605701077,
+            "lat": 45.3217849,
+            "lon": -79.2107605,
+            "tags": {
+                "name": "Muskoka Heritage Place",
+                "tourism": "museum",
+                "website": "https://www.muskokaheritageplace.ca/en/index.aspx"
+            }
+        },
+        {
+            "type": "way",
+            "id": 605701082,
+            "lat": 45.3243887,
+            "lon": -79.2089814,
+            "tags": {
+                "historic": "memorial",
+                "name": "war",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "way",
+            "id": 658849852,
+            "lat": 45.323857,
+            "lon": -79.210617,
+            "tags": {
+                "building": "yes",
+                "museum": "railway",
+                "name": "Heritage Place Train Station",
+                "tourism": "museum",
+                "website": "https://www.muskokaheritageplace.ca/en/ride-the-train/ride-the-train.aspx"
+            }
+        },
+        {
+            "type": "way",
+            "id": 960727775,
+            "lat": 30.7155829,
+            "lon": -95.5520871,
+            "tags": {
+                "addr:state": "TX",
+                "building": "yes",
+                "ele": "119",
+                "gnis:feature_id": "2014365",
+                "name": "Sam Houston Memorial Museum",
+                "source": "USGS Geonames",
+                "tourism": "museum",
+                "website": "http://samhoustonmemorialmuseum.com/",
+                "wikidata": "Q68078694",
+                "wikipedia": "fr:Sam Houston Memorial Museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Woodland_%28Sam_Houston%27s_Home%29_in_Huntsville%2C_Texas.JPG/1280px-Woodland_%28Sam_Houston%27s_Home%29_in_Huntsville%2C_Texas.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 1192589642,
+            "lat": 34.7517136,
+            "lon": -86.5979646,
+            "tags": {
+                "addr:city": "Huntsvile",
+                "addr:housenumber": "2007",
+                "addr:postcode": "35810",
+                "addr:state": "AL",
+                "addr:street": "North Memorial Parkway Suite O",
+                "building": "yes",
+                "name": "H.C. Blake Art & History Center",
+                "tourism": "museum"
+            }
+        },
+        {
+            "type": "way",
+            "id": 1192613813,
+            "lat": 36.4077202,
+            "lon": -84.5314838,
+            "tags": {
+                "building": "yes",
+                "name": "Museum of Scott County",
+                "tourism": "museum"
+            }
+        },
+        {
+            "type": "way",
+            "id": 1408151885,
+            "lat": 34.7412476,
+            "lon": -86.5965462,
+            "tags": {
+                "addr:city": "Huntsville",
+                "addr:housenumber": "1806",
+                "addr:postcode": "35801",
+                "addr:state": "AL",
+                "addr:street": "University Drive Northwest",
+                "building": "yes",
+                "name": "SIGNALS Museum of Information Explosion",
+                "opening_hours": "We-Fr 09:00-16:00; Sa 10:00-17:00; Su 13:00-17:00",
+                "phone": "+1-256-857-1294",
+                "tourism": "museum",
+                "website": "https://signals-museum.org/"
+            }
+        },
+        {
+            "type": "way",
+            "id": 1413279505,
+            "lat": 34.7475992,
+            "lon": -86.5111078,
+            "tags": {
+                "building": "yes",
+                "museum": "history",
+                "name": "Civilian Conservation Corps Museum & Memorial",
+                "operator": "Monte Sano State Park",
+                "operator:type": "public",
+                "tourism": "museum"
+            }
+        }
+    ]
+}

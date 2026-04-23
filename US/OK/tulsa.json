@@ -1,0 +1,549 @@
+{
+    "city_metadata": {
+        "city_name": "Tulsa",
+        "state_code": "OK",
+        "state_full": "Oklahoma",
+        "city_summary": "Tulsa (  TUL-sə) is the second-most-populous city in the U.S. state of Oklahoma and the 48th-most populous city in the United States.  The population was 413,066 as of the 2020 census. It is the principal municipality of the Tulsa metropolitan area, a region with 1.06 million residents.",
+        "city_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Tulsa_skyline_aerial%2C_April_2023.jpg/1280px-Tulsa_skyline_aerial%2C_April_2023.jpg",
+        "city_lat": 36.13138889,
+        "city_lon": -95.93722222,
+        "source": "wikipedia_verified_engine"
+    },
+    "attractions": [
+        {
+            "type": "node",
+            "id": 3308411661,
+            "lat": 36.15659,
+            "lon": -95.9907087,
+            "tags": {
+                "addr:city": "Tulsa",
+                "addr:housenumber": "5",
+                "addr:postcode": "74103",
+                "addr:state": "OK",
+                "addr:street": "South Boston Avenue East",
+                "name": "Oklahoma Jazz Hall of Fame",
+                "tourism": "museum",
+                "website": "https://jazzdepotlive.com/halloffame/",
+                "wikidata": "Q7082256"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/78/Tulsa_union_Depot_Modern_pict_2009.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 11483096349,
+            "lat": 36.2134582,
+            "lon": -95.9050756,
+            "tags": {
+                "name": "Tulsa Zoo",
+                "tourism": "zoo"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11741393870,
+            "lat": 36.1517061,
+            "lon": -96.0111309,
+            "tags": {
+                "addr:housenumber": "1623",
+                "addr:postcode": "74127",
+                "addr:street": "West Bowen Place",
+                "name": "The Cave House",
+                "phone": "+1-918-378-1952",
+                "tourism": "attraction",
+                "website": "https://cavehousetulsa.com/"
+            }
+        },
+        {
+            "type": "node",
+            "id": 12697424867,
+            "lat": 36.1226885,
+            "lon": -95.984875,
+            "tags": {
+                "name": "Cabinet of Wonder by Mark Dion",
+                "operator": "The Gathering Place",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/The_Gathering_place.png/1280px-The_Gathering_place.png",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 12828824102,
+            "lat": 36.0280816,
+            "lon": -95.9667498,
+            "tags": {
+                "name": "Flycatcher Trail",
+                "tourism": "attraction",
+                "website": "https://www.tulsaaudubon.org/flycatchertrail"
+            }
+        },
+        {
+            "type": "node",
+            "id": 13719806084,
+            "lat": 36.0819843,
+            "lon": -96.0479307,
+            "tags": {
+                "addr:city": "Tulsa",
+                "addr:country": "US",
+                "addr:housenumber": "5610",
+                "addr:postcode": "74107",
+                "addr:state": "OK",
+                "addr:street": "West Skelly Drive South",
+                "addr:unit": "D",
+                "description": "Haunted house.",
+                "name": "Hex House",
+                "opening_hours": "\"Tickets required. See website for ticketing information.\"",
+                "tourism": "attraction",
+                "website": "https://hexhouse.com/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Creek_County_Oklahoma_incorporated_and_unincorporated_areas_Oakhurst_highlighted.svg/1280px-Creek_County_Oklahoma_incorporated_and_unincorporated_areas_Oakhurst_highlighted.svg.png",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 60965751,
+            "lat": 36.1610168,
+            "lon": -95.9947203,
+            "tags": {
+                "addr:city": "Tulsa",
+                "addr:country": "US",
+                "addr:housenumber": "419",
+                "addr:postcode": "74103",
+                "addr:state": "OK",
+                "addr:street": "North Main Street East",
+                "building": "yes",
+                "name": "Cain's Ballroom",
+                "tourism": "attraction",
+                "wikidata": "Q5017561"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Cains_Ballroom_Sign_Tulsa_Oklahoma.jpg/1280px-Cains_Ballroom_Sign_Tulsa_Oklahoma.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 71580312,
+            "lat": 36.1237842,
+            "lon": -95.969908,
+            "tags": {
+                "addr:city": "Tulsa",
+                "addr:country": "US",
+                "addr:housenumber": "2727",
+                "addr:postcode": "74114",
+                "addr:state": "OK",
+                "addr:street": "South Rockford Road",
+                "building": "yes",
+                "name": "Philbrook Museum of Art",
+                "phone": "+1-800-324-7941",
+                "tourism": "museum",
+                "website": "https://www.philbrook.org/",
+                "wikidata": "Q2997830",
+                "wikipedia": "en:Philbrook Museum of Art"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Philbrook_Museum_of_Art_Public_Entrance.jpg/1280px-Philbrook_Museum_of_Art_Public_Entrance.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 97318420,
+            "lat": 36.1568902,
+            "lon": -95.9915314,
+            "tags": {
+                "area": "yes",
+                "bridge": "yes",
+                "highway": "pedestrian",
+                "landuse": "recreation_ground",
+                "layer": "1",
+                "name": "Center of the Universe",
+                "oneway": "no",
+                "surface": "concrete",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/78/Tulsa_union_Depot_Modern_pict_2009.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 201712265,
+            "lat": 36.134357,
+            "lon": -95.9242778,
+            "tags": {
+                "addr:housenumber": "4707",
+                "addr:street": "East 21st Street South",
+                "check_date": "2023-12-06",
+                "contact:facebook": "https://www.facebook.com/paradisebeachwaterpark",
+                "leisure": "water_park",
+                "name": "Paradise Beach Water Park",
+                "payment:cash": "yes",
+                "payment:credit_cards": "yes",
+                "payment:debit_cards": "yes",
+                "phone": "+1 918-749-7385",
+                "tourism": "theme_park",
+                "website": "https://www.paradisebeach.com/",
+                "wheelchair": "limited"
+            }
+        },
+        {
+            "type": "way",
+            "id": 220670675,
+            "lat": 36.1287841,
+            "lon": -95.9739975,
+            "tags": {
+                "addr:city": "Tulsa",
+                "addr:country": "US",
+                "addr:housenumber": "2445",
+                "addr:postcode": "74114",
+                "addr:state": "OK",
+                "addr:street": "South Peoria Avenue East",
+                "building": "yes",
+                "name": "Tulsa Historical Society",
+                "operator": "Tulsa Historical Society",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Fall_in_Woodward_Park%2C_Tulsa%2C_OK.jpg/1280px-Fall_in_Woodward_Park%2C_Tulsa%2C_OK.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 250423642,
+            "lat": 36.3678556,
+            "lon": -95.9985731,
+            "tags": {
+                "addr:city": "Skiatook",
+                "addr:housenumber": "115",
+                "addr:postcode": "74070",
+                "addr:state": "OK",
+                "addr:street": "South Broadway Street",
+                "building": "yes",
+                "name": "Skiatook Museum",
+                "opening_hours": "Fr,Sa 10:00-13:00",
+                "tourism": "museum"
+            }
+        },
+        {
+            "type": "way",
+            "id": 250496654,
+            "lat": 36.1585373,
+            "lon": -95.9919785,
+            "tags": {
+                "addr:city": "Tulsa",
+                "addr:housenumber": "102",
+                "addr:postcode": "74103",
+                "addr:state": "OK",
+                "addr:street": "East Reconciliation Way North",
+                "building": "yes",
+                "fee": "yes",
+                "name": "Woody Guthrie Center",
+                "phone": "+1 918 574 2710",
+                "tourism": "museum",
+                "website": "https://woodyguthriecenter.org/visit/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Bob_Dylan_Center_exterior_Tulsa_OK_2024-03-01_18-41-05.jpg/1280px-Bob_Dylan_Center_exterior_Tulsa_OK_2024-03-01_18-41-05.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 250496656,
+            "lat": 36.1587161,
+            "lon": -95.9915926,
+            "tags": {
+                "addr:city": "Tulsa",
+                "addr:housenumber": "116",
+                "addr:postcode": "74103",
+                "addr:state": "OK",
+                "addr:street": "East Reconciliation Way North",
+                "building": "yes",
+                "contact:facebook": "https://www.facebook.com/bobdylancenter",
+                "email": "info@bobdylancenter.com",
+                "museum": "art",
+                "name": "Bob Dylan Center",
+                "opening_hours": "We-Su 10:00-18:00",
+                "operator": "George Kaiser Family Foundation",
+                "operator:type": "private_non_profit",
+                "phone": "+1-918-392-3353",
+                "tourism": "museum",
+                "website": "https://bobdylancenter.com/",
+                "wikidata": "Q112118939",
+                "wikipedia": "en:Bob Dylan Center"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Bob_Dylan_Center_exterior_Tulsa_OK_2024-03-01_18-41-05.jpg/1280px-Bob_Dylan_Center_exterior_Tulsa_OK_2024-03-01_18-41-05.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 395867756,
+            "lat": 36.1746822,
+            "lon": -96.0212724,
+            "tags": {
+                "addr:city": "Tulsa",
+                "addr:state": "OK",
+                "building": "yes",
+                "name": "Gilcrease Museum",
+                "phone": "+1-918-596-2700",
+                "tourism": "museum",
+                "website": "https://gilcrease.org",
+                "wikidata": "Q14708424",
+                "wikipedia": "en:Gilcrease Museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/en/1/15/Museumphoto_wiki.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 544951562,
+            "lat": 36.1399195,
+            "lon": -96.1099062,
+            "tags": {
+                "addr:city": "Sand Springs",
+                "addr:housenumber": "9",
+                "addr:postcode": "74063",
+                "addr:state": "OK",
+                "addr:street": "East Broadway Street",
+                "building": "yes",
+                "name": "Sand Springs Cultural & Historical Museum",
+                "tourism": "museum",
+                "website": "http://www.sandspringsok.org/Index.aspx?NID=178"
+            }
+        },
+        {
+            "type": "way",
+            "id": 546877007,
+            "lat": 36.0492029,
+            "lon": -95.7910845,
+            "tags": {
+                "addr:city": "Broken Arrow",
+                "addr:housenumber": "400",
+                "addr:postcode": "74012",
+                "addr:state": "OK",
+                "addr:street": "South Main Street",
+                "building": "yes",
+                "name": "Broken Arrow Historical Museum",
+                "opening_hours": "Tu-We 10:00-16:00; Th 16:00-20:00; Fr 10:00-16:00; Sa 10:00-14:00",
+                "operator": "Broken Arrow Historical Society",
+                "phone": "+1 918 258 2616",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Building_in_Broken_Arrow_Oklahoma.jpg/1280px-Building_in_Broken_Arrow_Oklahoma.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 546925259,
+            "lat": 36.0529542,
+            "lon": -95.7911876,
+            "tags": {
+                "addr:housenumber": "112",
+                "addr:postcode": "74012",
+                "addr:street": "North Main Street",
+                "building": "yes",
+                "museum": "history",
+                "name": "Military History Museum",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Building_in_Broken_Arrow_Oklahoma.jpg/1280px-Building_in_Broken_Arrow_Oklahoma.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 548888482,
+            "lat": 36.1607323,
+            "lon": -95.9953527,
+            "tags": {
+                "addr:city": "Tulsa",
+                "addr:country": "US",
+                "addr:housenumber": "422",
+                "addr:postcode": "74103",
+                "addr:state": "OK",
+                "addr:street": "North Main Street West",
+                "building": "yes",
+                "contact:facebook": "https://www.facebook.com/OKPOPTulsa",
+                "layer": "1",
+                "museum": "history",
+                "name": "OKPOP",
+                "note": "As of March, 2025, not open to the public.",
+                "opening_hours": "closed",
+                "phone": "+19182953970",
+                "tourism": "museum",
+                "website": "https://www.okpop.org/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Cains_Ballroom_Sign_Tulsa_Oklahoma.jpg/1280px-Cains_Ballroom_Sign_Tulsa_Oklahoma.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 636973400,
+            "lat": 36.1733629,
+            "lon": -96.021428,
+            "tags": {
+                "building": "yes",
+                "name": "Helmerich Center for American Research",
+                "operator": "Gilcrease Museum",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/en/1/15/Museumphoto_wiki.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 744212554,
+            "lat": 36.1477342,
+            "lon": -95.9747143,
+            "tags": {
+                "building": "roof",
+                "name": "Meadow Gold Sign",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Meadow_Gold_Neon_Sign_Route_66_Tulsa_Oklahoma.jpg/1280px-Meadow_Gold_Neon_Sign_Route_66_Tulsa_Oklahoma.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 826311656,
+            "lat": 36.0620835,
+            "lon": -95.963699,
+            "tags": {
+                "addr:city": "Tulsa",
+                "addr:housenumber": "2021",
+                "addr:postcode": "74136",
+                "addr:state": "OK",
+                "addr:street": "East 71st Street South",
+                "building": "yes",
+                "museum": "art",
+                "name": "Sherwin Miller Museum of Jewish Art",
+                "tourism": "museum",
+                "website": "https://jewishmuseumtulsa.org/",
+                "wikidata": "Q7495470",
+                "wikipedia": "en:Sherwin Miller Museum of Jewish Art"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Jewish_Art_Museum_in_Tulsa_3.jpg/1280px-Jewish_Art_Museum_in_Tulsa_3.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 1038065767,
+            "lat": 36.1177682,
+            "lon": -95.9842187,
+            "tags": {
+                "addr:city": "Tulsa",
+                "addr:housenumber": "3123",
+                "addr:postcode": "74105",
+                "addr:state": "OK",
+                "addr:street": "Riverside Drive",
+                "air_conditioning": "yes",
+                "building": "yes",
+                "charge": "14 USD",
+                "fee": "yes",
+                "museum": "children",
+                "name": "Discovery Lab",
+                "opening_hours": "Mo 10:30-14:00; Tu-Sa 09:30-17:00; Su 11:30-17:00",
+                "phone": "+1-918-295-8144",
+                "start_date": "2022-01-24",
+                "tourism": "museum",
+                "website": "https://www.discoverylab.org/",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "way",
+            "id": 1117263307,
+            "lat": 36.1597535,
+            "lon": -95.98555,
+            "tags": {
+                "addr:city": "Tulsa",
+                "addr:housenumber": "23",
+                "addr:postcode": "74120",
+                "addr:state": "OK",
+                "addr:street": "North Greenwood Avenue East",
+                "building": "yes",
+                "name": "Greenwood Rising History Center",
+                "opening_hours": "Su-Sa 9:00-20:00; Tu off",
+                "tourism": "museum",
+                "website": "https://www.greenwoodrising.org/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Tulsa_Aftermath.jpg/1280px-Tulsa_Aftermath.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 1124045703,
+            "lat": 36.0836265,
+            "lon": -95.9761164,
+            "tags": {
+                "addr:city": "Tulsa",
+                "addr:housenumber": "5528",
+                "addr:postcode": "74105",
+                "addr:state": "OK",
+                "addr:street": "South Peoria Avenue East",
+                "building": "yes",
+                "name": "Vintage Sewing Machine Museum",
+                "tourism": "museum"
+            }
+        },
+        {
+            "type": "way",
+            "id": 1149769086,
+            "lat": 36.1477268,
+            "lon": -96.0371169,
+            "tags": {
+                "building": "yes",
+                "museum": "history",
+                "name": "Fire Station Number 13",
+                "source": "microsoft/BuildingFootprints",
+                "tourism": "museum"
+            }
+        },
+        {
+            "type": "way",
+            "id": 1151642248,
+            "lat": 36.1654766,
+            "lon": -95.9703214,
+            "tags": {
+                "addr:city": "Tulsa",
+                "addr:country": "US",
+                "addr:housenumber": "731",
+                "addr:postcode": "74106",
+                "addr:state": "OK",
+                "addr:street": "North Saint Louis Avenue East",
+                "building": "detached",
+                "description": "This house is a museum and tribute to The Outsiders, and is the actual house from the book and movie The Outsiders.",
+                "fee": "yes",
+                "name": "The Outsider's House",
+                "opening_hours": "Fr-Su 11:00-16:00",
+                "tourism": "museum",
+                "website": "https://www.theoutsidershouse.com/",
+                "wikidata": "Q30644095",
+                "wikipedia": "en:The Outsiders House Museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/The_Outsiders_House.jpg/1280px-The_Outsiders_House.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 1196208268,
+            "lat": 36.2654769,
+            "lon": -95.8552629,
+            "tags": {
+                "building": "yes",
+                "name": "Owasso Museum",
+                "tourism": "museum"
+            }
+        },
+        {
+            "type": "way",
+            "id": 1466879267,
+            "lat": 36.2070933,
+            "lon": -95.8957977,
+            "tags": {
+                "addr:city": "Tulsa",
+                "addr:housenumber": "3624",
+                "addr:state": "OK",
+                "addr:street": "North 74th East Avenue",
+                "fee": "yes",
+                "name": "Tulsa Air & Space Museum & Planetarium",
+                "tourism": "museum",
+                "website": "http://www.tulsaairandspacemuseum.com",
+                "wikidata": "Q7852321"
+            }
+        }
+    ]
+}

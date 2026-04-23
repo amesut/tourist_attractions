@@ -1,0 +1,418 @@
+{
+    "city_metadata": {
+        "city_name": "Newport News",
+        "state_code": "VA",
+        "state_full": "Virginia",
+        "city_summary": "Newport News () is an independent city in southeastern Virginia, United States. At the 2020 census, the population was 186,247. Located in the Hampton Roads region, it is the fifth-most populous city in Virginia and 140th-most populous city in the United States.",
+        "city_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Victory_Arch%2C_Newport_News-2.jpg/1280px-Victory_Arch%2C_Newport_News-2.jpg",
+        "city_lat": 37.07083333,
+        "city_lon": -76.48444444,
+        "source": "wikipedia_verified_engine"
+    },
+    "attractions": [
+        {
+            "type": "way",
+            "id": 173689670,
+            "lat": 37.055333,
+            "lon": -76.4865535,
+            "tags": {
+                "addr:city": "Newport News",
+                "addr:housenumber": "100",
+                "addr:postcode": "23606",
+                "addr:state": "VA",
+                "addr:street": "Museum Drive",
+                "building": "ship",
+                "description": "replica",
+                "historic": "ship",
+                "name": "USS Monitor",
+                "ship:type": "monitor",
+                "tourism": "attraction",
+                "wikipedia": "en:USS Monitor"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/The_Mariners%27_Museum_-_Newport_News%2C_Virginia.jpg/1280px-The_Mariners%27_Museum_-_Newport_News%2C_Virginia.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 304316983,
+            "lat": 37.0723018,
+            "lon": -76.4796475,
+            "tags": {
+                "name": "Peninsula SPCA Petting Zoo",
+                "tourism": "zoo",
+                "zoo": "petting_zoo"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Outdoor_Exhibits_at_the_Virginia_Living_Museum_%283673782856%29.jpg/1280px-Outdoor_Exhibits_at_the_Virginia_Living_Museum_%283673782856%29.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 332975765,
+            "lat": 37.0699418,
+            "lon": -76.4794868,
+            "tags": {
+                "addr:city": "Newport News",
+                "addr:housenumber": "524",
+                "addr:postcode": "23601",
+                "addr:state": "VA",
+                "addr:street": "J. Clyde Morris Boulevard",
+                "building": "yes",
+                "check_date:opening_hours": "2024-10-25",
+                "fee": "yes",
+                "fee:conditional": "no @ age < 3",
+                "name": "Virginia Living Museum",
+                "opening_hours": "09:00-17:00; Nov Th[4] off; Dec 24-25 off",
+                "phone": "+1-757-595-1900",
+                "tourism": "museum",
+                "website": "https://thevlm.org/",
+                "wheelchair": "yes"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Outdoor_Exhibits_at_the_Virginia_Living_Museum_%283673782856%29.jpg/1280px-Outdoor_Exhibits_at_the_Virginia_Living_Museum_%283673782856%29.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 333001785,
+            "lat": 37.0194058,
+            "lon": -76.4536621,
+            "tags": {
+                "addr:city": "Newport News",
+                "addr:housenumber": "9285",
+                "addr:postcode": "23607",
+                "addr:street": "Warwick Boulevard",
+                "building": "yes",
+                "check_date:opening_hours": "2024-10-25",
+                "fee": "yes",
+                "name": "Virginia War Museum",
+                "opening_hours": "We-Su 09:00-16:30",
+                "phone": "+1-757-247-8523",
+                "tourism": "museum",
+                "website": "https://newportnewshistory.org/virginia-war-museum/",
+                "wikidata": "Q7934656"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Virginiawarmuseumfront.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 333184837,
+            "lat": 37.2109909,
+            "lon": -76.5691537,
+            "tags": {
+                "building": "yes",
+                "name": "Endview Plantation",
+                "phone": "+1-757-887-1862",
+                "tourism": "museum",
+                "website": "http://www.endview.org"
+            }
+        },
+        {
+            "type": "way",
+            "id": 333185723,
+            "lat": 37.199755,
+            "lon": -76.575598,
+            "tags": {
+                "addr:city": "Newport News",
+                "addr:housenumber": "163",
+                "addr:postcode": "23603",
+                "addr:state": "VA",
+                "addr:street": "Yorktown Road",
+                "building": "yes",
+                "name": "Lee Hall Mansion",
+                "phone": "+1-757-888-3371",
+                "tourism": "museum",
+                "website": "http://www.leehall.org"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Lee_Hall.jpg/1280px-Lee_Hall.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 333185724,
+            "lat": 37.1943435,
+            "lon": -76.5726337,
+            "tags": {
+                "addr:city": "Newport News",
+                "addr:housenumber": "9",
+                "addr:postcode": "23603",
+                "addr:state": "VA",
+                "addr:street": "Elmhurst Street",
+                "building": "commercial",
+                "name": "Lee Hall Train Depot",
+                "phone": "+1-757-888-3371",
+                "tourism": "museum",
+                "website": "http://www.leehalldepot.org",
+                "wikidata": "Q16894038"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Lee_Hall_station%2C_July_18%2C_1983.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 333186864,
+            "lat": 37.1816801,
+            "lon": -76.5371956,
+            "tags": {
+                "addr:city": "Newport News",
+                "addr:housenumber": "13560",
+                "addr:postcode": "23608",
+                "addr:state": "VA",
+                "addr:street": "Jefferson Ave",
+                "building": "yes",
+                "name": "Discovery Center",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Battle_of_Yorktown%2C_Pursuit_sketch.png/1280px-Battle_of_Yorktown%2C_Pursuit_sketch.png",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 333247760,
+            "lat": 36.990348,
+            "lon": -76.4052262,
+            "tags": {
+                "addr:city": "Newport News",
+                "addr:housenumber": "2803",
+                "addr:postcode": "23607",
+                "addr:state": "VA",
+                "addr:street": "Oak Avenue",
+                "building": "yes",
+                "name": "Newsome House Museum & Cultural Center",
+                "phone": "+1-757-247-2360",
+                "tourism": "museum",
+                "website": "http://www.newsomehouse.org",
+                "wikidata": "Q16895849"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/J.T._Newsome_House_%28Front%29.jpg/1280px-J.T._Newsome_House_%28Front%29.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 1350779656,
+            "lat": 37.1653955,
+            "lon": -76.5754582,
+            "tags": {
+                "addr:city": "Newport News",
+                "addr:housenumber": "230;250",
+                "addr:postcode": "23603",
+                "addr:state": "VA",
+                "addr:street": "Dozier Road",
+                "name": "United States Army Transportation Museum",
+                "tourism": "museum",
+                "wikidata": "Q7863067"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Skycrane001.jpg/1280px-Skycrane001.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 2369844,
+            "lat": 36.97691667,
+            "lon": -76.43238889,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Newport_News_Victory_Arch%2C_25th_St._and_West_Ave.%2C_Newport_News%2C_VA_%28April_2006%29.jpg",
+            "description": "The Newport News Victory Arch (or simply Victory Arch) is a monument in Newport News, Virginia, erected first in 1919 and then rebuilt in 1962.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Newport News Victory Arch",
+                "wikipedia": "en:Newport News Victory Arch",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 193371,
+            "lat": 36.95,
+            "lon": -76.4,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Core_of_Hampton_Roads_by_Sentinel-2.jpg/1280px-Core_of_Hampton_Roads_by_Sentinel-2.jpg",
+            "description": "Hampton Roads is a body of water in the United States that serves as a wide channel for the James, Nansemond, and Elizabeth rivers between Old Point Comfort and Sewell's Point near the point at which Chesapeake Bay flows into the Atlantic Ocean.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Hampton Roads",
+                "wikipedia": "en:Hampton Roads",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 1418441,
+            "lat": 37.12963889,
+            "lon": -76.54216667,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Lost_Counties_of_Virginia_on_the_mouth_of_the_James_River.jpg/1280px-Lost_Counties_of_Virginia_on_the_mouth_of_the_James_River.jpg",
+            "description": "Warwick County was a county in Southeast Virginia that was created from Warwick River Shire, one of eight created in the Virginia Colony in 1634.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Warwick County, Virginia",
+                "wikipedia": "en:Warwick County, Virginia",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 91234,
+            "lat": 37.27083333,
+            "lon": -76.70694444,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/The_Governor%27s_Palace_--_Williamsburg_%28VA%29_September_2012.jpg/1280px-The_Governor%27s_Palace_--_Williamsburg_%28VA%29_September_2012.jpg",
+            "description": "Williamsburg is an independent city in the U.S. state of Virginia.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Williamsburg, Virginia",
+                "wikipedia": "en:Williamsburg, Virginia",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 13495890,
+            "lat": 37.11236111,
+            "lon": -76.49552778,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Red_Robin_%26_Borders_Night_Photo.JPG",
+            "description": "Patrick Henry Mall is a shopping mall in Newport News, Virginia.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Patrick Henry Mall",
+                "wikipedia": "en:Patrick Henry Mall",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 91239,
+            "lat": 36.85,
+            "lon": -75.97777778,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/VB_Oceanfront.jpg/1280px-VB_Oceanfront.jpg",
+            "description": "Virginia Beach (colloquially VB) is the most populous city in the U.S. commonwealth of Virginia.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Virginia Beach, Virginia",
+                "wikipedia": "en:Virginia Beach, Virginia",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 76286,
+            "lat": 48.86861111,
+            "lon": 2.78166667,
+            "image_url": "https://upload.wikimedia.org/wikipedia/en/thumb/8/88/Sleeping_Beauty_Castle%2C_Disneyland%2C_Paris.jpg/1280px-Sleeping_Beauty_Castle%2C_Disneyland%2C_Paris.jpg",
+            "description": "Disneyland Paris is an entertainment resort in Marne-la-Vallée, France, located about 32 kilometres (20 miles) east of the city centre of Paris.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Disneyland Paris",
+                "wikipedia": "en:Disneyland Paris",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 91303,
+            "lat": 37.31,
+            "lon": -76.77,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/JCC_and_Williamsburg_Courthouse.JPG/1280px-JCC_and_Williamsburg_Courthouse.JPG",
+            "description": "James City County is a county located in the Commonwealth of Virginia.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "James City County, Virginia",
+                "wikipedia": "en:James City County, Virginia",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 91266,
+            "lat": 37.133153,
+            "lon": -76.373881,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/40/PoquosonWaterfront.jpg",
+            "description": "Poquoson (), informally known as Bull Island, is an independent city in the Commonwealth of Virginia, United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Poquoson, Virginia",
+                "wikipedia": "en:Poquoson, Virginia",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 2860061,
+            "lat": 37.23,
+            "lon": -76.63,
+            "image_url": "https://upload.wikimedia.org/wikipedia/en/c/c7/James_City_County_Virginia_1895.jpg",
+            "description": "Grove is an unincorporated community in the southeastern portion of James City County in the Virginia Peninsula subregion of Virginia, United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Grove, Virginia",
+                "wikipedia": "en:Grove, Virginia",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 32432,
+            "lat": 38,
+            "lon": -79,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Flag_of_Virginia.svg/1280px-Flag_of_Virginia.svg.png",
+            "description": "Virginia, officially the Commonwealth of Virginia, is a state in the Southeastern and Mid-Atlantic regions of the United States between the Atlantic Coast and the Appalachian Mountains.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Virginia",
+                "wikipedia": "en:Virginia",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 19801602,
+            "lat": 37.32916667,
+            "lon": -76.74222222,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Ewell_Depot_2021-2.jpg/1280px-Ewell_Depot_2021-2.jpg",
+            "description": "Ewell was an unincorporated town in James City County west of Williamsburg, in the U.S. state of Virginia.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Ewell, Virginia",
+                "wikipedia": "en:Ewell, Virginia",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 57898,
+            "lat": 36.84694444,
+            "lon": -76.28527778,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/The_Wisconsin_Battleship_in_Norfolk%2C_VA.jpg/1280px-The_Wisconsin_Battleship_in_Norfolk%2C_VA.jpg",
+            "description": "Norfolk (locally   NOR-fək) is an independent city in the U.S. commonwealth of Virginia.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Norfolk, Virginia",
+                "wikipedia": "en:Norfolk, Virginia",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 75804,
+            "lat": 37.20916667,
+            "lon": -76.7775,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/1639_Jamestown_Church_%282883847775%29.jpg/1280px-1639_Jamestown_Church_%282883847775%29.jpg",
+            "description": "The Jamestown settlement in the Colony of Virginia was the first permanent English settlement in the Americas.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Jamestown, Virginia",
+                "wikipedia": "en:Jamestown, Virginia",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 418979,
+            "lat": 37.7854,
+            "lon": -80.3083,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Greenbrier1.jpg",
+            "description": "The Greenbrier is a luxury resort located in the Allegheny Mountains near White Sulphur Springs in Greenbrier County, West Virginia, United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "The Greenbrier",
+                "wikipedia": "en:The Greenbrier",
+                "tourism": "attraction"
+            }
+        }
+    ]
+}

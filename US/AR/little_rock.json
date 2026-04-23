@@ -1,0 +1,466 @@
+{
+    "city_metadata": {
+        "city_name": "Little Rock",
+        "state_code": "AR",
+        "state_full": "Arkansas",
+        "city_summary": "Little Rock is the capital and most populous city of the U.S. state of Arkansas. The population was 202,591 at the 2020 census, while the Little Rock metropolitan area with an estimated 770,000 residents is the 81st-most populous metropolitan area in the United States. The city lies on the south bank of the Arkansas River close to the state's geographic center in central Arkansas.",
+        "city_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/William_J._Clinton_Presidential_Library%2C_Little_Rock%2C_Arkansas_LCCN2011633870.tif/lossy-page1-1280px-William_J._Clinton_Presidential_Library%2C_Little_Rock%2C_Arkansas_LCCN2011633870.tif.jpg",
+        "city_lat": 34.7444,
+        "city_lon": -92.2881,
+        "source": "wikipedia_verified_engine"
+    },
+    "attractions": [
+        {
+            "type": "node",
+            "id": 10578242726,
+            "lat": 34.7370859,
+            "lon": -92.2649964,
+            "tags": {
+                "description": "This is a sign placed in MacArthur Park (once called City Park) honoring President MacArthur's visit to cental Arkansas.  The sign has additional details.",
+                "name": "MacArthur Visits City Park",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Memorial_to_Company_A%2C_Capitol_Guards.JPG/1280px-Memorial_to_Company_A%2C_Capitol_Guards.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 12636328930,
+            "lat": 34.7490729,
+            "lon": -92.2666109,
+            "tags": {
+                "description": "A portion of the adjacent \"The Little Rock\" stone outcrop with a plaque recording the landmark's history. The memorial itself was previously located on the grounds of the Little Rock City Hall.",
+                "historic": "memorial",
+                "memorial": "stone",
+                "name": "The Little Rock",
+                "start_date": "1932",
+                "subject:wikidata": "Q22058739",
+                "subject:wikipedia": "en:The Little Rock",
+                "tourism": "attraction",
+                "website": "https://encyclopediaofarkansas.net/media/the-little-rock-14283/",
+                "wikimedia_commons": "File:The_Little_Rock.jpg"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/ca/The_Little_Rock.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 12636328931,
+            "lat": 34.7491974,
+            "lon": -92.2667619,
+            "tags": {
+                "description": "Originally a navigational landmark, today \"The Little Rock\" stone outcrop supports a pier of the Junction Bridge crossing the Arkansas River.",
+                "gnis:feature_id": "68370",
+                "heritage": "2",
+                "heritage:operator": "nrhp",
+                "historic": "heritage",
+                "landmark": "yes",
+                "name": "The Little Rock",
+                "natural": "rock",
+                "ref:nrhp": "70000124",
+                "tourism": "attraction",
+                "website": "https://encyclopediaofarkansas.net/entries/little-rock-geological-formation-5251/",
+                "wikidata": "Q22058739",
+                "wikipedia": "en:The Little Rock"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/ca/The_Little_Rock.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 37954690,
+            "lat": 34.7461708,
+            "lon": -92.2583177,
+            "tags": {
+                "addr:city": "Little Rock",
+                "addr:housenumber": "1200",
+                "addr:postcode": "72201",
+                "addr:state": "AR",
+                "addr:street": "President Clinton Avenue",
+                "alt_name": "Clinton Presidential Center",
+                "building": "yes",
+                "ele": "84",
+                "gnis:feature_id": "2055085",
+                "name": "William J Clinton Presidential Library",
+                "source": "USGS Geonames",
+                "tourism": "museum",
+                "website": "https://www.clintonlibrary.gov/",
+                "wikidata": "Q2301926",
+                "wikipedia": "en:Clinton Presidential Center"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Clinton_Presidential_Center%2C_Airport%2C_and_School_of_Public_Service%2C_aerial.jpg/1280px-Clinton_Presidential_Center%2C_Airport%2C_and_School_of_Public_Service%2C_aerial.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 37962022,
+            "lat": 34.7511907,
+            "lon": -92.2663869,
+            "tags": {
+                "abandoned:railway": "rail",
+                "bridge": "yes",
+                "bridge:name": "Junction Bridge",
+                "highway": "footway",
+                "horse": "no",
+                "layer": "1",
+                "name": "Junction Bridge",
+                "note:old_railway_operator": "SLIM&S",
+                "old_railway_operator": "MP",
+                "railway": "abandoned",
+                "surface": "concrete",
+                "tiger:cfcc": "B11",
+                "tiger:county": "Pulaski, AR",
+                "tiger:name_base": "Union Pacific Railroad",
+                "tiger:reviewed": "no",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c4/USS_Razorback%3B0839412.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 72492780,
+            "lat": 34.7465369,
+            "lon": -92.3319494,
+            "tags": {
+                "addr:city": "Little Rock",
+                "addr:housenumber": "1",
+                "addr:postcode": "72205",
+                "addr:state": "AR",
+                "addr:street": "Zoo Drive",
+                "charge": "12.95 USD",
+                "fee": "yes",
+                "name": "Little Rock Zoo",
+                "opening_hours": "09:00-16:00",
+                "phone": "+15016617200",
+                "tourism": "zoo",
+                "website": "https://www.littlerockzoo.com/",
+                "wikidata": "Q6651776",
+                "wikipedia": "en:Little Rock Zoo"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/MuleriderOnTheRoad_LittleRock_Zoo_7636_%282%29_%2812293347083%29.jpg/1280px-MuleriderOnTheRoad_LittleRock_Zoo_7636_%282%29_%2812293347083%29.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 130061600,
+            "lat": 34.7490557,
+            "lon": -92.2725927,
+            "tags": {
+                "addr:city": "Little Rock",
+                "addr:housenumber": "300",
+                "addr:postcode": "72201",
+                "addr:state": "AR",
+                "addr:street": "West Markham Street",
+                "building": "yes",
+                "heritage": "2",
+                "heritage:operator": "nrhp",
+                "museum": "history",
+                "name": "Old State House",
+                "nrhp:criteria": "(A),(C)",
+                "nrhp:inscription_date": "December 9, 1997",
+                "nrhp:nhl": "yes",
+                "opening_hours": "Tu-Sa 09:00-17:00; Su 13:00-17:00",
+                "protection_title": "protected_site",
+                "ref:nrhp": "69000037",
+                "tourism": "museum",
+                "wikidata": "Q7085085",
+                "wikipedia": "en:Old State House (Little Rock, Arkansas)"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Exterior_of_the_Old_State_House%2C_Little_Rock%2C_Arkansas_%E2%80%94_Roman_Eugeniusz.jpg/1280px-Exterior_of_the_Old_State_House%2C_Little_Rock%2C_Arkansas_%E2%80%94_Roman_Eugeniusz.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 130061632,
+            "lat": 34.7479775,
+            "lon": -92.2640554,
+            "tags": {
+                "building": "yes",
+                "layer": "1",
+                "name": "The Witt Stephens Jr. Central Arkansas Nature Center",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "way",
+            "id": 130061658,
+            "lat": 34.7383793,
+            "lon": -92.2653388,
+            "tags": {
+                "addr:city": "Little Rock",
+                "addr:housenumber": "503",
+                "addr:postcode": "72202",
+                "addr:state": "AR",
+                "addr:street": "East 9th Street",
+                "building": "yes",
+                "check_date:opening_hours": "2023-05-10",
+                "description": "https://en.wikipedia.org/wiki/Camden_Expedition_Sites_National_Historic_Landmark",
+                "email": "macarthur@littlerock.gov",
+                "fee": "donation",
+                "heritage": "2",
+                "heritage:operator": "nrhp",
+                "name": "MacArthur Museum of Arkansas Military History",
+                "nrhp:criteria": "(A),(B)",
+                "nrhp:inscription_date": "April 19, 1994",
+                "nrhp:nhl": "yes",
+                "opening_hours": "Tu-Sa 10:00-17:00; Su 13:00-17:00; Nov Th[4] closed; Dec 25,31 closed; Jan 1 closed",
+                "phone": "+1 501 376 4602",
+                "protection_title": "protected_site",
+                "ref:nrhp": "94001182",
+                "tourism": "museum",
+                "website": "https://www.littlerock.gov/residents/parks-and-recreation/park-facility-trail-information/macarthur-museum-of-arkansas-military-history/",
+                "wikidata": "Q7829641",
+                "wikipedia": "en:Tower Building of the Little Rock Arsenal"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/63/Tower_Building_of_the_Little_Rock_Arsenal.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 130061664,
+            "lat": 34.7464183,
+            "lon": -92.269035,
+            "tags": {
+                "addr:city": "Little Rock",
+                "addr:housenumber": "200",
+                "addr:postcode": "72201",
+                "addr:state": "AR",
+                "addr:street": "East 3rd Street",
+                "building": "yes",
+                "fee": "no",
+                "museum": "local_history",
+                "name": "Historic Arkansas Museum",
+                "source": "Bing",
+                "tourism": "museum",
+                "website": "http://www.historicarkansas.org/",
+                "wikidata": "Q5773382",
+                "wikipedia": "en:Historic Arkansas Museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/HISTORIC_ARKANSAS_MUSEUM.jpg/1280px-HISTORIC_ARKANSAS_MUSEUM.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 439768553,
+            "lat": 34.74071,
+            "lon": -92.2770816,
+            "tags": {
+                "addr:city": "Little Rock",
+                "addr:housenumber": "501",
+                "addr:postcode": "72201",
+                "addr:state": "AR",
+                "addr:street": "West 9th Street",
+                "building": "yes",
+                "name": "Mosaic Templars Cultural Center",
+                "tourism": "museum",
+                "website": "https://www.arkansasheritage.com/mosaic-templars-cultural-center/mtcc-home"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/AR_LittleRock_MosaicCenter.jpg/1280px-AR_LittleRock_MosaicCenter.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 499994559,
+            "lat": 34.6698198,
+            "lon": -92.4049753,
+            "tags": {
+                "addr:city": "Little Rock",
+                "addr:housenumber": "11411",
+                "addr:postcode": "72209",
+                "addr:state": "AR",
+                "addr:street": "West Baseline Road",
+                "name": "Big Rock Mini Golf & Fun Park",
+                "tourism": "theme_park"
+            }
+        },
+        {
+            "type": "way",
+            "id": 510352493,
+            "lat": 34.7469004,
+            "lon": -92.3294917,
+            "tags": {
+                "heritage": "2",
+                "heritage:operator": "nrhp",
+                "historic": "yes",
+                "name": "Over-the-Jumps Carousel",
+                "ref:nrhp": "89002065",
+                "tourism": "attraction",
+                "wikidata": "Q22058704",
+                "wikipedia": "en:Over-the-Jumps Carousel"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Herschell-Spillman_Carousel.jpg/1280px-Herschell-Spillman_Carousel.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 549355824,
+            "lat": 34.747602,
+            "lon": -92.2647096,
+            "tags": {
+                "building": "yes",
+                "name": "Musuem of Discovery",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Terminal_Warehouse_Building.JPG/1280px-Terminal_Warehouse_Building.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 597790250,
+            "lat": 34.7340386,
+            "lon": -92.2735067,
+            "tags": {
+                "building": "yes",
+                "name": "Esse Purse Museum & Store",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Esse_Purse_Museum_front_cropped.jpg/1280px-Esse_Purse_Museum_front_cropped.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 597790381,
+            "lat": 34.7373042,
+            "lon": -92.2741075,
+            "tags": {
+                "building": "yes",
+                "name": "Museum of Black Arkansans and Performing Arts",
+                "tourism": "museum",
+                "wikidata": "Q5452405",
+                "wikipedia": "en:Museum of Black Arkansans and Performing Arts Center"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/First_Baptist_Church%2C_Little_Rock%2C_AR.JPG/1280px-First_Baptist_Church%2C_Little_Rock%2C_AR.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 721040030,
+            "lat": 34.7216148,
+            "lon": -92.2882442,
+            "tags": {
+                "addr:city": "Little Rock",
+                "addr:housenumber": "1207",
+                "addr:state": "AR",
+                "addr:street": "West 28th Street",
+                "building": "yes",
+                "heritage": "2",
+                "heritage:operator": "nrhp",
+                "name": "Daisy Bates House",
+                "nrhp:criteria": "(A),(B)",
+                "nrhp:inscription_date": "January 3, 2001",
+                "nrhp:nhl": "yes",
+                "protection_title": "protected_site",
+                "ref:nrhp": "01000072",
+                "tourism": "museum",
+                "wikidata": "Q5209689",
+                "wikipedia": "en:Daisy Bates House"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Daisy_Bates_House.JPG/1280px-Daisy_Bates_House.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 721040530,
+            "lat": 34.7278948,
+            "lon": -92.2790234,
+            "tags": {
+                "building": "yes",
+                "heritage": "2",
+                "heritage:operator": "nrhp",
+                "name": "Joseph Taylor Robinson House",
+                "nrhp:criteria": "(B)",
+                "nrhp:inscription_date": "October 12, 1992",
+                "nrhp:nhl": "yes",
+                "protection_title": "protected_site",
+                "ref:nrhp": "75000411",
+                "tourism": "museum",
+                "wikidata": "Q6287376",
+                "wikipedia": "en:Joseph Taylor Robinson House"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Joseph_Taylor_Robinson_House.JPG/1280px-Joseph_Taylor_Robinson_House.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 917893328,
+            "lat": 34.7249865,
+            "lon": -92.2979079,
+            "tags": {
+                "building": "commercial",
+                "name": "Arkansas State Fairgrounds",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 30875763,
+            "lat": 34.74916667,
+            "lon": -92.27444444,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/dc/RobinsonCenter.jpg",
+            "description": "The Robinson Center is a performance, convention, and exhibition space at Statehouse Plaza in downtown Little Rock, Arkansas.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Robinson Center (Little Rock)",
+                "wikipedia": "en:Robinson Center (Little Rock)",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 13723131,
+            "lat": 34.755215,
+            "lon": -92.272582,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Dickey_stephens_field_and_grandstand.JPG/1280px-Dickey_stephens_field_and_grandstand.JPG",
+            "description": "Dickey–Stephens Park is a baseball park in North Little Rock, Arkansas, United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Dickey–Stephens Park",
+                "wikipedia": "en:Dickey–Stephens Park",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 2771242,
+            "lat": 34.74986111,
+            "lon": -92.33,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/ULM_at_Arkansas%2C_2012_005.jpg/1280px-ULM_at_Arkansas%2C_2012_005.jpg",
+            "description": "War Memorial Stadium is a multi-purpose stadium in Little Rock, Arkansas.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "War Memorial Stadium (Arkansas)",
+                "wikipedia": "en:War Memorial Stadium (Arkansas)",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 27994056,
+            "lat": 34.79704,
+            "lon": -92.31043,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Arkansas_River_Trail_in_Burns_Park..jpg/1280px-Arkansas_River_Trail_in_Burns_Park..jpg",
+            "description": "Burns Park is a 1,700-acre (690 ha) park in North Little Rock, Arkansas.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Burns Park (North Little Rock, Arkansas)",
+                "wikipedia": "en:Burns Park (North Little Rock, Arkansas)",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 1813037,
+            "lat": 34.74666667,
+            "lon": -92.28916667,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Arkansas_State_Capitol.jpg/1280px-Arkansas_State_Capitol.jpg",
+            "description": "The Arkansas State Capitol, often called the Capitol Building, is the home of the Arkansas General Assembly, and the seat of the Arkansas state government that sits atop Capitol Hill at the eastern end of the Capitol Mall in Little Rock, Arkansas.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Arkansas State Capitol",
+                "wikipedia": "en:Arkansas State Capitol",
+                "tourism": "attraction"
+            }
+        }
+    ]
+}

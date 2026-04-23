@@ -1,0 +1,263 @@
+{
+    "city_metadata": {
+        "city_name": "Waterbury",
+        "state_code": "CT",
+        "state_full": "Connecticut",
+        "city_summary": "Waterbury is a city in the U.S. state of Connecticut. Waterbury had a population of 114,403 as of the 2020 Census. The city is 33 miles (53 km) southwest of Hartford and 77 miles (124 km) northeast of New York City.",
+        "city_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Waterbury%2C_Connecticut_3.jpg/1280px-Waterbury%2C_Connecticut_3.jpg",
+        "city_lat": 41.55611111,
+        "city_lon": -73.04138889,
+        "source": "wikipedia_verified_engine"
+    },
+    "attractions": [
+        {
+            "type": "node",
+            "id": 13121762025,
+            "lat": 44.3527333,
+            "lon": -72.7400397,
+            "tags": {
+                "name": "Ben & Jerry's Factory Tour",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/41/WaterburyVT_ColbyMansion.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 467492386,
+            "lat": 41.5574089,
+            "lon": -73.0431489,
+            "tags": {
+                "addr:city": "Waterbury",
+                "addr:housenumber": "144",
+                "addr:postcode": "06702",
+                "addr:state": "CT",
+                "addr:street": "West Main Street",
+                "amenity": "library",
+                "building": "yes",
+                "ele": "92",
+                "gnis:feature_id": "1932356;1932355",
+                "name": "Mattatuck Museum",
+                "ref:isil": "US-ctwmhi",
+                "source": "USGS Geonames",
+                "tourism": "museum",
+                "wikidata": "Q6789613"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Mattatuck_Museum_Exterior.jpg/1280px-Mattatuck_Museum_Exterior.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 1153374867,
+            "lat": 44.3516491,
+            "lon": -72.7420326,
+            "tags": {
+                "area": "yes",
+                "contact:website": "https://www.benjerry.com/flavors/flavor-graveyard",
+                "contact:youtube": "https://www.youtube.com/watch?v=qFY6tdbS9Mg",
+                "description": "Ice cream flavors, like everything else, have a beginning & an end. Here we pay tribute to our dearly de-pinted.",
+                "name": "Flavor Graveyard",
+                "operator": "Ben & Jerry's Homemade, Inc.",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/41/WaterburyVT_ColbyMansion.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 256965,
+            "lat": 41.55611111,
+            "lon": -73.04138889,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Waterbury%2C_Connecticut_3.jpg/1280px-Waterbury%2C_Connecticut_3.jpg",
+            "description": "Waterbury is a city in the U.S. state of Connecticut.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Waterbury, Connecticut",
+                "wikipedia": "en:Waterbury, Connecticut",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 6466,
+            "lat": 41.6,
+            "lon": -72.7,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Flag_of_Connecticut.svg/1280px-Flag_of_Connecticut.svg.png",
+            "description": "Connecticut (  kə-NET-ih-kət) is a state in the New England region of the Northeastern United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Connecticut",
+                "wikipedia": "en:Connecticut",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 58746387,
+            "lat": 41.55527778,
+            "lon": -73.03972222,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c6/PalaceTheater-WaterburyCT-1.jpg",
+            "description": "The Palace Theater is a 2,900-seat auditorium at 100 East Main Street in downtown Waterbury, Connecticut.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Palace Theater (Waterbury, Connecticut)",
+                "wikipedia": "en:Palace Theater (Waterbury, Connecticut)",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 20589104,
+            "lat": 41.547,
+            "lon": -73.03,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/86/Holy_Land_postcard.jpg",
+            "description": "Holy Land USA is an 18-acre (7.3 ha) Catholic theme park in Waterbury, Connecticut, inspired by selected passages from the Bible.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Holy Land USA",
+                "wikipedia": "en:Holy Land USA",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 5368142,
+            "lat": 41.549251,
+            "lon": -73.024986,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Brass_Mill_Center_Waterbury%2C_CT_April_2018_%2840991514074%29.jpg/1280px-Brass_Mill_Center_Waterbury%2C_CT_April_2018_%2840991514074%29.jpg",
+            "description": "Brass Mill Center is a shopping mall in Waterbury, Connecticut.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Brass Mill Center",
+                "wikipedia": "en:Brass Mill Center",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 2219861,
+            "lat": 41.302907,
+            "lon": -72.916933,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Frank_Pepe_%2820663%29.jpg/1280px-Frank_Pepe_%2820663%29.jpg",
+            "description": "Frank Pepe Pizzeria Napoletana, commonly known as Frank Pepe's or simply Pepe's (), is a New Haven style pizzeria chain based in Connecticut, with their flagship restaurant in the Wooster Square neighborhood of New Haven, Connecticut, at 163 Wooster Street and originator of New Haven-style pizza.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Frank Pepe Pizzeria Napoletana",
+                "wikipedia": "en:Frank Pepe Pizzeria Napoletana",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 32578,
+            "lat": 44,
+            "lon": -72.7,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Vermont.svg/1280px-Flag_of_Vermont.svg.png",
+            "description": "Vermont ( ) is a landlocked state in the New England region of the Northeastern United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Vermont",
+                "wikipedia": "en:Vermont",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 9935584,
+            "lat": 41.9,
+            "lon": -71.86666667,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Quietcorner.png",
+            "description": "Northeastern Connecticut, dubbed the Quiet Corner in 1985, is a historic region of the state of Connecticut, located in the northeastern corner of the state.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Quiet Corner",
+                "wikipedia": "en:Quiet Corner",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 152159,
+            "lat": 41.22416667,
+            "lon": -73.05972222,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Milfordluft_2.jpg/1280px-Milfordluft_2.jpg",
+            "description": "Milford is a coastal city in New Haven County, Connecticut, United States, between New Haven and Bridgeport.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Milford, Connecticut",
+                "wikipedia": "en:Milford, Connecticut",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 84749,
+            "lat": 41.4009,
+            "lon": -73.4448,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Western_Connecticut_State_University_logo.svg/1280px-Western_Connecticut_State_University_logo.svg.png",
+            "description": "Western Connecticut State University (WCSU and WestConn) is a public university in Danbury, Connecticut, United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Western Connecticut State University",
+                "wikipedia": "en:Western Connecticut State University",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 380061,
+            "lat": 41.20444444,
+            "lon": -73.12972222,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/MMDA-Photos_-_2021-05-03_-_Town_Hall%2C_Stratford%2C_Connecticut%2C_USA.jpg/1280px-MMDA-Photos_-_2021-05-03_-_Town_Hall%2C_Stratford%2C_Connecticut%2C_USA.jpg",
+            "description": "Stratford is a town in Fairfield County, Connecticut, United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Stratford, Connecticut",
+                "wikipedia": "en:Stratford, Connecticut",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 1754468,
+            "lat": 41.76833333,
+            "lon": -72.67694444,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/PBA112425.jpg/1280px-PBA112425.jpg",
+            "description": "The PeoplesBank Arena (originally known as the Hartford Civic Center and formerly as the XL Center) is a multi-purpose arena and convention center located in downtown Hartford, Connecticut.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "PeoplesBank Arena",
+                "wikipedia": "en:PeoplesBank Arena",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 18315,
+            "lat": 40.8,
+            "lon": -73.3,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Montauk_01.jpg/1280px-Montauk_01.jpg",
+            "description": "Long Island (abbreviated as LINY) is a densely populated continental island in southeastern New York state, extending into the Atlantic Ocean.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Long Island",
+                "wikipedia": "en:Long Island",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 927064,
+            "lat": 40.4361,
+            "lon": -74.875,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Driscoll-Viesser-Edison_Bridges_-_August_30%2C_2020.jpg/1280px-Driscoll-Viesser-Edison_Bridges_-_August_30%2C_2020.jpg",
+            "description": "Central Jersey, or Central New Jersey, is the middle region of the U.S. state of New Jersey.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Central Jersey",
+                "wikipedia": "en:Central Jersey",
+                "tourism": "attraction"
+            }
+        }
+    ]
+}

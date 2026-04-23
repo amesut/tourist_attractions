@@ -1,0 +1,115 @@
+{
+    "city_metadata": {
+        "city_name": "Edmond",
+        "state_code": "OK",
+        "state_full": "Oklahoma",
+        "city_summary": "Edmond is a city in Oklahoma County, Oklahoma, United States. It is a part of the Oklahoma City metropolitan area, in Central Oklahoma. Its population was 94,428 at the 2020 United States census, a 16% increase from 2010, making it the 5th most populous city in Oklahoma.",
+        "city_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Oklahoma_County_Oklahoma_Incorporated_and_Unincorporated_areas_Edmond_highlighted.svg/1280px-Oklahoma_County_Oklahoma_Incorporated_and_Unincorporated_areas_Edmond_highlighted.svg.png",
+        "city_lat": 35.65,
+        "city_lon": -97.46666667,
+        "source": "wikipedia_verified_engine"
+    },
+    "attractions": [
+        {
+            "type": "node",
+            "id": 4973745021,
+            "lat": 35.65181,
+            "lon": -97.4813119,
+            "tags": {
+                "name": "Mural de Edmond",
+                "name:es": "Mural de Edmond",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/American_Legion_Hut_2012-09-26_15-03-51.jpg/1280px-American_Legion_Hut_2012-09-26_15-03-51.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 1196132095,
+            "lat": 35.6500695,
+            "lon": -97.478651,
+            "tags": {
+                "addr:city": "Edmond",
+                "addr:housenumber": "431",
+                "addr:postcode": "73034",
+                "addr:state": "OK",
+                "addr:street": "South Boulevard",
+                "building": "yes",
+                "name": "Edmond History Museum",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/American_Legion_Hut_2012-09-26_15-03-51.jpg/1280px-American_Legion_Hut_2012-09-26_15-03-51.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 22489,
+            "lat": 35,
+            "lon": -98,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Flag_of_Oklahoma.svg/1280px-Flag_of_Oklahoma.svg.png",
+            "description": "Oklahoma (  OH-klə-HOH-mə; Choctaw: Oklahumma, pronounced [oklahómma]) is a landlocked state in the South Central and Southwestern region of the United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Oklahoma",
+                "wikipedia": "en:Oklahoma",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 130056,
+            "lat": 33.99972222,
+            "lon": -96.38472222,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Durant_June_2018_14_%28W_Main_Street%29.jpg/1280px-Durant_June_2018_14_%28W_Main_Street%29.jpg",
+            "description": "Durant () is a city in and the county seat of Bryan County, Oklahoma, United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Durant, Oklahoma",
+                "wikipedia": "en:Durant, Oklahoma",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 1660962,
+            "lat": 35.49222222,
+            "lon": -97.50305556,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/North_fa%C3%A7ade_of_the_Oklahoma_State_Capitol.jpg/1280px-North_fa%C3%A7ade_of_the_Oklahoma_State_Capitol.jpg",
+            "description": "The Oklahoma State Capitol is the house of government of the U.S. state of Oklahoma.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Oklahoma State Capitol",
+                "wikipedia": "en:Oklahoma State Capitol",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 13015878,
+            "lat": 47,
+            "lon": -120,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Flag_of_Washington.svg/1280px-Flag_of_Washington.svg.png",
+            "description": "Washington is a state in the Pacific Northwest region of the United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Washington (state)",
+                "wikipedia": "en:Washington (state)",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 693711,
+            "lat": 36.147386,
+            "lon": -115.155389,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/17/Aerial_view_Casino_Stratosphere_LAS_09_2017_4912.jpg",
+            "description": "The Strat (formerly the Stratosphere) is a hotel and casino in Las Vegas, Nevada, United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "The Strat",
+                "wikipedia": "en:The Strat",
+                "tourism": "attraction"
+            }
+        }
+    ]
+}

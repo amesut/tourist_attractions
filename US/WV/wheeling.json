@@ -1,0 +1,377 @@
+{
+    "city_metadata": {
+        "city_name": "Wheeling",
+        "state_code": "WV",
+        "state_full": "West Virginia",
+        "city_summary": "Wheeling is a city in Ohio and Marshall counties in the U.S. state of West Virginia. The county seat of Ohio County, it lies along the Ohio River in the foothills of the Appalachian Mountains within the state's northern panhandle. It is the fifth-most populous city in West Virginia and the most populous city in the northern panhandle with a population of 27,062 at the 2020 census.",
+        "city_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/West_Virginia_Independence_Hall.jpg/1280px-West_Virginia_Independence_Hall.jpg",
+        "city_lat": 40.07027778,
+        "city_lon": -80.69861111,
+        "source": "wikipedia_verified_engine"
+    },
+    "attractions": [
+        {
+            "type": "node",
+            "id": 367808330,
+            "lat": 40.0612787,
+            "lon": -80.7229952,
+            "tags": {
+                "addr:state": "WV",
+                "ele": "206",
+                "gnis:feature_id": "1716953",
+                "name": "Bennett Memorial Museum",
+                "source": "USGS Geonames",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Wheeling_Warehouse_HD%2C_Main_and_22nd.jpg/1280px-Wheeling_Warehouse_HD%2C_Main_and_22nd.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 336948577,
+            "lat": 40.0624478,
+            "lon": -80.7324577,
+            "tags": {
+                "landuse": "retail",
+                "name": "Wheeling Island Hotel-Casino-Racetrack",
+                "old_name": "Wheeling Downs",
+                "operator": "Delaware North",
+                "tourism": "attraction",
+                "website": "https://www.wheelingisland.com/",
+                "wikipedia": "en:Wheeling Island Hotel-Casino-Racetrack"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Grand_Stand_entrance%2C_Wheeling_Downs%2C_Wheeling%2C_W._Va_%2880152%29.jpg/1280px-Grand_Stand_entrance%2C_Wheeling_Downs%2C_Wheeling%2C_W._Va_%2880152%29.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 721034149,
+            "lat": 40.0642179,
+            "lon": -80.721767,
+            "tags": {
+                "addr:city": "Wheeling",
+                "addr:housenumber": "1528",
+                "addr:state": "WV",
+                "addr:street": "Market Street",
+                "alt_name": "Wheeling Custom House",
+                "architect": "Ammi B. Young",
+                "building": "civic",
+                "description": "Governor Pierpont used this building as his office during the time of the “Restored Government of Virginia.”",
+                "heritage": "2",
+                "heritage:operator": "nrhp",
+                "name": "West Virginia Independence Hall",
+                "nrhp:criteria": "(A),(C)",
+                "nrhp:inscription_date": "June 20, 1988",
+                "nrhp:nhl": "yes",
+                "operator": "West Virginia",
+                "operator:type": "government",
+                "protection_title": "protected_site",
+                "ref:nrhp": "70000660",
+                "source_ref": "https://catalog.archives.gov/id/86535911",
+                "tourism": "museum",
+                "website": "https://wvculture.org/explore/wv-independence-hall/",
+                "wikidata": "Q7986856",
+                "wikipedia": "en:West Virginia Independence Hall"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b9/IndependenceHallWheelingWV.jpg/1280px-IndependenceHallWheelingWV.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 1194683750,
+            "lat": 42.1431059,
+            "lon": -87.9155367,
+            "tags": {
+                "addr:city": "Wheeling",
+                "addr:housenumber": "223",
+                "addr:postcode": "60090",
+                "addr:state": "IL",
+                "addr:street": "North Wolf Road",
+                "building": "yes",
+                "museum": "local",
+                "name": "Wheeling Historical Society",
+                "tourism": "museum"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 431859,
+            "lat": 40.0731,
+            "lon": -80.6895,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/73/DonahueHall_WJU.jpg",
+            "description": "Wheeling University (WU, formerly Wheeling Jesuit University) is a private Catholic university in Wheeling, West Virginia, United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Wheeling University",
+                "wikipedia": "en:Wheeling University",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 32905,
+            "lat": 39,
+            "lon": -80,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Flag_of_West_Virginia.svg/1280px-Flag_of_West_Virginia.svg.png",
+            "description": "West Virginia is a mountainous, landlocked state in the Southern and Mid-Atlantic regions of the United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "West Virginia",
+                "wikipedia": "en:West Virginia",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 22911798,
+            "lat": 40.06659,
+            "lon": -80.72222,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/The_Victoria_Theater_in_Wheeling%2C_West_Virginia._Opened_in_1904%2C_Victoria_Theater_is%2C_as_of_2015%2C_the_the_oldest_operating_theater_in_West_Virginia_LCCN2015632080.tif/lossy-page1-1280px-thumbnail.tif.jpg",
+            "description": "First opening its doors in 1904, Victoria Theater is the oldest operating theater in West Virginia.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Victoria Theater (Wheeling, West Virginia)",
+                "wikipedia": "en:Victoria Theater (Wheeling, West Virginia)",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 2290811,
+            "lat": 40.10194444,
+            "lon": -80.66888889,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Oglebaymansion2.JPG/1280px-Oglebaymansion2.JPG",
+            "description": "Oglebay Park is a self-supporting public municipal park, the only one of its kind, located on the outskirts of Wheeling, West Virginia, on 1,650 acres (670 ha).",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Oglebay Park",
+                "wikipedia": "en:Oglebay Park",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 91033,
+            "lat": 39.87,
+            "lon": -80.67,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Marshall_County_Courthouse_West_Virginia.jpg/1280px-Marshall_County_Courthouse_West_Virginia.jpg",
+            "description": "Marshall County is a county in the U.S. state of West Virginia.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Marshall County, West Virginia",
+                "wikipedia": "en:Marshall County, West Virginia",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 22910844,
+            "lat": 40.07006,
+            "lon": -80.72442,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Capitol_Theatre_%28Wheeling%2C_West_Virginia%29_-_01.png/1280px-Capitol_Theatre_%28Wheeling%2C_West_Virginia%29_-_01.png",
+            "description": "The Capitol Theatre (formerly the Capitol Music Hall) is the largest theatre in West Virginia and a landmark building in the national historic district of downtown Wheeling.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Capitol Theatre (Wheeling, West Virginia)",
+                "wikipedia": "en:Capitol Theatre (Wheeling, West Virginia)",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 10974179,
+            "lat": 40.064329,
+            "lon": -80.730141,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Wheelingstad.jpg/1280px-Wheelingstad.jpg",
+            "description": "Wheeling Island Stadium is a stadium used mostly for American football and soccer located on Wheeling Island in Wheeling, West Virginia.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Wheeling Island Stadium",
+                "wikipedia": "en:Wheeling Island Stadium",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 2794920,
+            "lat": 39.678573,
+            "lon": -78.807077,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/26/WMSR_Fireball_Logo.webp",
+            "description": "The Western Maryland Scenic Railroad (reporting mark WMSR) is a heritage railroad based in Cumberland, Maryland, that operates passenger excursion trains and occasional freight trains using both steam and diesel locomotives over ex-Western Maryland Railway (WM) tracks between Cumberland and Frostburg.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Western Maryland Scenic Railroad",
+                "wikipedia": "en:Western Maryland Scenic Railroad",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 11085936,
+            "lat": 38.42055556,
+            "lon": -81.81,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Greyhounds2023mardigras.jpg/1280px-Greyhounds2023mardigras.jpg",
+            "description": "Mardi Gras Casino and Resort is a casino and greyhound racing venue located in the city of Nitro, West Virginia.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Mardi Gras Casino and Resort",
+                "wikipedia": "en:Mardi Gras Casino and Resort",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 4597561,
+            "lat": 42.51701,
+            "lon": -90.644208,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Mystique_Casino_-_panoramio.jpg/1280px-Mystique_Casino_-_panoramio.jpg",
+            "description": "Q Casino (formerly Mystique and Dubuque Greyhound Park & Casino) is a casino located in Dubuque, Iowa.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Q Casino",
+                "wikipedia": "en:Q Casino",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 5184527,
+            "lat": 39.96472222,
+            "lon": -80.60638889,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c6/PalaceofGoldsideview2007.jpg",
+            "description": "New Vrindaban is an unincorporated area and an ISKCON (Hare Krishna) intentional community located in Marshall County, West Virginia, United States, near Moundsville.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "New Vrindaban",
+                "wikipedia": "en:New Vrindaban",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 9642517,
+            "lat": 39.03861111,
+            "lon": -80.47138889,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Weston_State_Hospital.jpg/1280px-Weston_State_Hospital.jpg",
+            "description": "The Trans-Allegheny Lunatic Asylum was a psychiatric hospital located in Weston, West Virginia, and known by other names, such as West Virginia Hospital for the Insane and Weston State Hospital.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Trans-Allegheny Lunatic Asylum",
+                "wikipedia": "en:Trans-Allegheny Lunatic Asylum",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 6072856,
+            "lat": 38.344048,
+            "lon": -81.615158,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/0c/UCstadiumlaidley.jpg",
+            "description": "The University of Charleston Stadium at Laidley Field is an 18,500-capacity stadium located in downtown Charleston, West Virginia, near the West Virginia State Capitol complex.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "University of Charleston Stadium at Laidley Field",
+                "wikipedia": "en:University of Charleston Stadium at Laidley Field",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 138610,
+            "lat": 39.34166667,
+            "lon": -80.01972222,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Overlooking_what_what_were_once_bustling_rail_lines_of_the_Baltimore_%26_Ohio_Railroad_in_Grafton%2C_West_Virginia%2C_which_was_an_early_B%26O_hub_LCCN2015631657.jpg/1280px-Overlooking_what_what_were_once_bustling_rail_lines_of_the_Baltimore_%26_Ohio_Railroad_in_Grafton%2C_West_Virginia%2C_which_was_an_early_B%26O_hub_LCCN2015631657.jpg",
+            "description": "Grafton is a city in Taylor County, West Virginia, United States, and its county seat.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Grafton, West Virginia",
+                "wikipedia": "en:Grafton, West Virginia",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 7280083,
+            "lat": 38.42055556,
+            "lon": -82.44277778,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Keith-Albee_Performing_Arts_Center_at_Night_2015.jpg/1280px-Keith-Albee_Performing_Arts_Center_at_Night_2015.jpg",
+            "description": "The Keith-Albee Theatre is a performing arts center, located across the street from the Frederick Building in downtown Huntington, West Virginia, United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Keith-Albee Theatre",
+                "wikipedia": "en:Keith-Albee Theatre",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 24381079,
+            "lat": 41.239954,
+            "lon": -95.885363,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/02/Horseshoe_Council_Bluffs_logo.png",
+            "description": "Horseshoe Council Bluffs is a casino and former greyhound racing track in Council Bluffs, Iowa.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Horseshoe Council Bluffs",
+                "wikipedia": "en:Horseshoe Council Bluffs",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 1283748,
+            "lat": 39.32378889,
+            "lon": -77.73541389,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/35/Storer_college_postcard.jpg",
+            "description": "Storer College was a historically Black college in Harpers Ferry, West Virginia, United States, that operated from 1867 to 1955.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Storer College",
+                "wikipedia": "en:Storer College",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 7690665,
+            "lat": 39.434111,
+            "lon": -77.805884,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c9/RamStadium.jpg",
+            "description": "Ram Stadium is a 5,000-seat stadium in Shepherdstown, West Virginia.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Ram Stadium",
+                "wikipedia": "en:Ram Stadium",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 37581790,
+            "lat": 41.88833333,
+            "lon": -71.44861111,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Bally%27s_Lincoln_logo.png",
+            "description": "Bally's Twin River Lincoln Casino Resort, previously Twin River Casino Hotel, is a casino, hotel, and former race track in Lincoln, Rhode Island, owned and operated by Bally's Corporation.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Bally's Twin River Lincoln",
+                "wikipedia": "en:Bally's Twin River Lincoln",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 560365,
+            "lat": 38.42508,
+            "lon": -82.42046,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Marshall_University_logo.svg/1280px-Marshall_University_logo.svg.png",
+            "description": "Marshall University is a public research university in Huntington, West Virginia, United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Marshall University",
+                "wikipedia": "en:Marshall University",
+                "tourism": "attraction"
+            }
+        }
+    ]
+}

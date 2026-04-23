@@ -1,0 +1,2309 @@
+{
+    "city_metadata": {
+        "city_name": "Kansas City",
+        "state_code": "KS",
+        "state_full": "Kansas",
+        "city_summary": "Kansas City (commonly known as KCK) is the third-most populous city in the U.S. state of Kansas and the county seat of Wyandotte County. It is an inner suburb of the older and more populous Kansas City, Missouri, after which it is named. As of the 2020 census, the population of the city was 156,607, making it one of four principal cities in the Kansas City metropolitan area.",
+        "city_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Quality-i70.jpg/1280px-Quality-i70.jpg",
+        "city_lat": 39.10666667,
+        "city_lon": -94.67638889,
+        "source": "wikipedia_verified_engine"
+    },
+    "attractions": [
+        {
+            "type": "node",
+            "id": 191019996,
+            "lat": 39.068528,
+            "lon": -94.566805,
+            "tags": {
+                "name": "Pedestal Mounted Traffic Light",
+                "tourism": "attraction",
+                "traffic_calming": "island"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/East_Sphinx_at_the_Scottish_Rite_Temple.JPG/1280px-East_Sphinx_at_the_Scottish_Rite_Temple.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 367087451,
+            "lat": 39.1094408,
+            "lon": -94.5814477,
+            "tags": {
+                "addr:city": "Kansas City",
+                "addr:country": "US",
+                "addr:housenumber": "400",
+                "addr:postcode": "64106",
+                "addr:state": "MO",
+                "addr:street": "Grand Boulevard",
+                "ele": "244",
+                "fee": "yes",
+                "fee:conditional": "no @ age < 3",
+                "gnis:feature_id": "2476949",
+                "name": "Arabia Steamboat Museum",
+                "name:en": "Steamboat Arabia Museum",
+                "opening_hours": "Mo-Sa 10:00-17:00; Su 12:00-17:00; PH off",
+                "source": "USGS Geonames",
+                "tourism": "museum",
+                "website": "https://www.1856.com/",
+                "wheelchair": "yes",
+                "wikidata": "Q4068368",
+                "wikipedia": "en:Arabia (steamboat)"
+            }
+        },
+        {
+            "type": "node",
+            "id": 626288870,
+            "lat": 39.0814224,
+            "lon": -94.5813013,
+            "tags": {
+                "name": "Hallmark Visitors Center",
+                "tourism": "attraction",
+                "wheelchair": "yes"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Crown_Center_3_Kansas_City_MO.jpg/1280px-Crown_Center_3_Kansas_City_MO.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 869810347,
+            "lat": 39.0072595,
+            "lon": -94.5265226,
+            "tags": {
+                "attraction": "animal",
+                "name": "Billy Goats",
+                "species": "Capra hircus",
+                "tourism": "attraction",
+                "zoo": "enclosure"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/KCMO_Zoo_Nima_09.JPG/1280px-KCMO_Zoo_Nima_09.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 869828572,
+            "lat": 38.999702,
+            "lon": -94.5210867,
+            "tags": {
+                "name": "Fennec Fox",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 869828583,
+            "lat": 38.9997449,
+            "lon": -94.5207521,
+            "tags": {
+                "name": "Black-footed Cats",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 869828676,
+            "lat": 38.9998552,
+            "lon": -94.5212124,
+            "tags": {
+                "name": "Caracal",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 869828686,
+            "lat": 39.0000558,
+            "lon": -94.5211323,
+            "tags": {
+                "attraction": "animal",
+                "name": "Lions",
+                "species": "Panthera leo",
+                "species:wikidata": "Q140",
+                "species:wikipedia": "en:Lion",
+                "tourism": "attraction",
+                "wikidata": "Q140",
+                "wikipedia": "en:Lion",
+                "zoo": "enclosure"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1458132670,
+            "lat": 39.0914359,
+            "lon": -94.5625125,
+            "tags": {
+                "addr:housenumber": "1616",
+                "addr:postcode": "64108",
+                "addr:street": "East 18th Street",
+                "fax": "+18162218424",
+                "name": "Negro Leagues Baseball Museum",
+                "phone": "+18162211920",
+                "tourism": "museum",
+                "website": "https://www.nlbm.com/",
+                "wikidata": "Q6987602"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/68/Nlbmandjazz.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 1458132824,
+            "lat": 39.0806754,
+            "lon": -94.5860757,
+            "tags": {
+                "addr:city": "Kansas City",
+                "addr:housenumber": "2",
+                "addr:postcode": "64108",
+                "addr:state": "MO",
+                "addr:street": "Memorial Drive",
+                "air_conditioning": "yes",
+                "changing_table": "yes",
+                "contact:facebook": "https://www.facebook.com/theworldwar",
+                "description": "America's leading institution dedicated to remembering, interpreting and understanding the Great War and its enduring impact on the global community.",
+                "email": "info@theworldwar.org",
+                "internet_access": "wlan",
+                "museum": "history",
+                "name": "National WWI Museum and Memorial",
+                "opening_hours": "We-Mo 10:00-17:00; May Mo[-1]-Sep Mo[1]: Su-Sa 10:00-17:00; Jan 01 off; Sep 21 off; Nov 11 10:00-17:00; Nov Th[4] off; Dec 24-25,31 off; Mar 06-22: Su-Sa 10:00-17:00",
+                "phone": "+18168888100",
+                "toilets": "yes",
+                "tourism": "museum",
+                "website": "https://www.theworldwar.org/",
+                "wheelchair": "limited",
+                "wikidata": "Q6303624",
+                "wikipedia": "en:National World War I Museum and Memorial"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/The_National_WWI_Museum_and_Memorial_2017_logo_%28black%29.svg/1280px-The_National_WWI_Museum_and_Memorial_2017_logo_%28black%29.svg.png",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 1916518832,
+            "lat": 39.091392,
+            "lon": -94.562865,
+            "tags": {
+                "addr:postcode": "64108",
+                "addr:street": "East 18th Street",
+                "fax": "+18164740074",
+                "fee": "yes",
+                "name": "American Jazz Museum",
+                "opening_hours:url": "https://www.americanjazzmuseum.org/visit",
+                "phone": "+18164748463",
+                "tourism": "museum",
+                "website": "https://www.americanjazzmuseum.com/",
+                "wheelchair": "yes"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/96/The_American_Jazz_Museum_in_Kansas_City.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 4625212873,
+            "lat": 39.0751393,
+            "lon": -94.5857204,
+            "tags": {
+                "addr:city": "Kansas City",
+                "addr:housenumber": "1",
+                "addr:state": "MO",
+                "addr:street": "Memorial Drive",
+                "name": "Money Museum",
+                "opening_hours": "Mo-Fr 09:30-16:00",
+                "tourism": "museum",
+                "website": "https://www.kansascityfed.org/moneymuseum/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/bd/New_Federal_Reserve_Bank_Kansas_City_MO.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 4825904121,
+            "lat": 39.0854339,
+            "lon": -94.5860053,
+            "tags": {
+                "addr:city": "Kansas City",
+                "addr:housenumber": "30",
+                "addr:postcode": "64108",
+                "addr:state": "MO",
+                "addr:street": "West Pershing Road",
+                "fee": "yes",
+                "name": "Science City",
+                "tourism": "museum",
+                "website": "https://sciencecity.unionstation.org/",
+                "wikidata": "Q7433498"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Science_City_at_Union_Station.jpg/1280px-Science_City_at_Union_Station.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 4880585971,
+            "lat": 39.0031844,
+            "lon": -94.529106,
+            "tags": {
+                "animal": "African elephant",
+                "attraction": "animal",
+                "name": "Elephants",
+                "tourism": "attraction",
+                "zoo": "enclosure"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/KCMO_Zoo_Nima_09.JPG/1280px-KCMO_Zoo_Nima_09.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 4880585972,
+            "lat": 39.0074286,
+            "lon": -94.5281652,
+            "tags": {
+                "animal": "Polar bear",
+                "attraction": "animal",
+                "name": "Polar Bears",
+                "species": "Ursus maritimus",
+                "species:wikidata": "Q33609",
+                "species:wikipedia": "en:Polar bear",
+                "tourism": "attraction",
+                "wikidata": "Q33609",
+                "wikipedia": "en:Polar bear",
+                "zoo": "enclosure"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/KCMO_Zoo_Nima_09.JPG/1280px-KCMO_Zoo_Nima_09.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 4880585973,
+            "lat": 39.0070979,
+            "lon": -94.5286897,
+            "tags": {
+                "animal": "North American river otter",
+                "attraction": "animal",
+                "name": "North American River Otters",
+                "species": "Lontra canadensis",
+                "tourism": "attraction",
+                "wikidata": "Q327028",
+                "wikipedia": "en:North American river otter",
+                "zoo": "enclosure"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/KCMO_Zoo_Nima_09.JPG/1280px-KCMO_Zoo_Nima_09.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 4880738169,
+            "lat": 39.0027955,
+            "lon": -94.5220485,
+            "tags": {
+                "name": "Addax",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 4880738170,
+            "lat": 39.0023599,
+            "lon": -94.5224616,
+            "tags": {
+                "name": "Springbok",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 4880738171,
+            "lat": 39.0021827,
+            "lon": -94.5220458,
+            "tags": {
+                "name": "Oryx",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 4880738172,
+            "lat": 39.0016178,
+            "lon": -94.5216891,
+            "tags": {
+                "name": "Eland",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 4880738173,
+            "lat": 39.002938,
+            "lon": -94.5256285,
+            "tags": {
+                "attraction": "animal",
+                "name": "Kudu",
+                "species": "Tragelaphus imberbis australis",
+                "species:wikidata": "Q622882",
+                "species:wikipedia": "en:Lesser kudu",
+                "tourism": "attraction",
+                "zoo": "enclosure"
+            }
+        },
+        {
+            "type": "node",
+            "id": 4880738174,
+            "lat": 39.0008966,
+            "lon": -94.5204553,
+            "tags": {
+                "name": "Zebra",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 4880738175,
+            "lat": 39.001301,
+            "lon": -94.5199805,
+            "tags": {
+                "name": "Ostrich",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 4880738176,
+            "lat": 39.0014802,
+            "lon": -94.520415,
+            "tags": {
+                "name": "Giraffe",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 4880738177,
+            "lat": 39.0003686,
+            "lon": -94.5201662,
+            "tags": {
+                "animal": "black rhinoceros",
+                "attraction": "animal",
+                "name": "Rhinoceros",
+                "species": "Diceros bicornis",
+                "species:wikidata": "Q95036",
+                "species:wikipedia": "en:Black rhinoceros",
+                "tourism": "attraction",
+                "zoo": "enclosure"
+            }
+        },
+        {
+            "type": "node",
+            "id": 4880738231,
+            "lat": 39.0028784,
+            "lon": -94.523184,
+            "tags": {
+                "attraction": "animal",
+                "name": "Cheetah",
+                "species": "Acinonyx jubatus",
+                "species:wikidata": "Q23907",
+                "species:wikipedia": "en:Cheetah",
+                "tourism": "attraction",
+                "zoo": "enclosure"
+            }
+        },
+        {
+            "type": "node",
+            "id": 4880738232,
+            "lat": 39.0024573,
+            "lon": -94.5233373,
+            "tags": {
+                "name": "Warthog",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 4880771249,
+            "lat": 39.0037331,
+            "lon": -94.5199139,
+            "tags": {
+                "attraction": "animal",
+                "name": "Baboon",
+                "species": "Papio papio",
+                "species:wikidata": "Q748929",
+                "species:wikipedia": "en:Guinea baboon",
+                "tourism": "attraction",
+                "zoo": "enclosure"
+            }
+        },
+        {
+            "type": "node",
+            "id": 4886518218,
+            "lat": 39.008942,
+            "lon": -94.5257128,
+            "tags": {
+                "name": "Snakes",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/KCMO_Zoo_Nima_09.JPG/1280px-KCMO_Zoo_Nima_09.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 4886557178,
+            "lat": 39.0092234,
+            "lon": -94.5264461,
+            "tags": {
+                "animal": "Sumatran tiger",
+                "attraction": "animal",
+                "name": "Sumatran Tiger",
+                "species": "Panthera tigris",
+                "species:wikidata": "Q191129",
+                "species:wikipedia": "en:Sumatran tiger",
+                "tourism": "attraction",
+                "zoo": "enclosure"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/KCMO_Zoo_Nima_09.JPG/1280px-KCMO_Zoo_Nima_09.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 4886557188,
+            "lat": 39.0092182,
+            "lon": -94.5267965,
+            "tags": {
+                "animal": "Rhinoceros Hornbill",
+                "attraction": "animal",
+                "name": "Rhinoceros Hornbill",
+                "species": "Buceros rhinoceros",
+                "species:wikidata": "Q751036",
+                "species:wikipedia": "en:Rhinoceros hornbill",
+                "tourism": "attraction",
+                "zoo": "enclosure"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/KCMO_Zoo_Nima_09.JPG/1280px-KCMO_Zoo_Nima_09.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 4886557189,
+            "lat": 39.008883,
+            "lon": -94.5269957,
+            "tags": {
+                "animal": "lion-tailed macaque",
+                "attraction": "animal",
+                "name": "Lion-Tailed Macaque",
+                "species": "Macaca silenus",
+                "species:wikidata": "Q506518",
+                "species:wikipedia": "en:Lion-tailed macaque",
+                "tourism": "attraction",
+                "wikidata": "Q506518",
+                "wikipedia": "en:Lion-tailed macaque",
+                "zoo": "enclosure"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/KCMO_Zoo_Nima_09.JPG/1280px-KCMO_Zoo_Nima_09.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 4886557197,
+            "lat": 39.0090623,
+            "lon": -94.5263189,
+            "tags": {
+                "animal": "François' langur",
+                "attraction": "animal",
+                "name": "François' Langur",
+                "species": "Trachypithecus francoisi",
+                "species:wikidata": "Q545897",
+                "species:wikipedia": "en:François' langur",
+                "tourism": "attraction",
+                "zoo": "enclosure"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/KCMO_Zoo_Nima_09.JPG/1280px-KCMO_Zoo_Nima_09.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 4886557198,
+            "lat": 39.0088921,
+            "lon": -94.5266247,
+            "tags": {
+                "animal": "red panda",
+                "attraction": "animal",
+                "name": "Red Panda",
+                "species": "Ailurus fulgens",
+                "species:wikidata": "Q41960",
+                "species:wikipedia": "en:Red panda",
+                "tourism": "attraction",
+                "wikidata": "Q41960",
+                "wikipedia": "en:Red panda",
+                "zoo": "enclosure"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/KCMO_Zoo_Nima_09.JPG/1280px-KCMO_Zoo_Nima_09.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 4886573224,
+            "lat": 39.0068522,
+            "lon": -94.5276778,
+            "tags": {
+                "attraction": "animal",
+                "name": "Llamas",
+                "species": "Lama glama",
+                "tourism": "attraction",
+                "zoo": "enclosure"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/KCMO_Zoo_Nima_09.JPG/1280px-KCMO_Zoo_Nima_09.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 4886573233,
+            "lat": 39.0071123,
+            "lon": -94.526378,
+            "tags": {
+                "attraction": "animal",
+                "name": "Donkeys",
+                "tourism": "attraction",
+                "zoo": "enclosure"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/KCMO_Zoo_Nima_09.JPG/1280px-KCMO_Zoo_Nima_09.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 4886573521,
+            "lat": 39.0074859,
+            "lon": -94.5270378,
+            "tags": {
+                "name": "Koi",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/KCMO_Zoo_Nima_09.JPG/1280px-KCMO_Zoo_Nima_09.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 4886573523,
+            "lat": 39.0082533,
+            "lon": -94.5264474,
+            "tags": {
+                "animal": "red-crowned crane",
+                "attraction": "animal",
+                "name": "Asian Waterfowl",
+                "species": "Grus japonensis",
+                "species:wikidata": "Q232906",
+                "species:wikipedia": "en:Red-crowned crane",
+                "tourism": "attraction",
+                "zoo": "enclosure"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/KCMO_Zoo_Nima_09.JPG/1280px-KCMO_Zoo_Nima_09.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 4886573536,
+            "lat": 39.0078403,
+            "lon": -94.5259981,
+            "tags": {
+                "animal": "Dromedary camels",
+                "attraction": "animal",
+                "name": "Dromedary Camels",
+                "species": "Camelus dromedarius",
+                "species:wikidata": "Q71516",
+                "species:wikipedia": "en:Dromedary",
+                "tourism": "attraction",
+                "wikidata": "Q71516",
+                "wikipedia": "en:Dromedary",
+                "zoo": "enclosure"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/KCMO_Zoo_Nima_09.JPG/1280px-KCMO_Zoo_Nima_09.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 4886573548,
+            "lat": 39.0077487,
+            "lon": -94.5254878,
+            "tags": {
+                "attraction": "animal",
+                "name": "Merino sheep",
+                "species": "Ovis aries",
+                "species:wikidata": "Q29350771",
+                "tourism": "attraction",
+                "wikidata": "Q651765",
+                "wikipedia": "en:Merino",
+                "zoo": "enclosure"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/KCMO_Zoo_Nima_09.JPG/1280px-KCMO_Zoo_Nima_09.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 4886573549,
+            "lat": 39.0083928,
+            "lon": -94.5247119,
+            "tags": {
+                "name": "Tree Kangaroo",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/KCMO_Zoo_Nima_09.JPG/1280px-KCMO_Zoo_Nima_09.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 4886573550,
+            "lat": 39.0088375,
+            "lon": -94.5250184,
+            "tags": {
+                "animal": "red kangaroo",
+                "attraction": "animal",
+                "name": "Red Kangaroo",
+                "species": "Osphranter rufus",
+                "species:wikidata": "Q104831614",
+                "tourism": "attraction",
+                "wikidata": "Q53462",
+                "wikipedia": "en:Red kangaroo",
+                "zoo": "enclosure"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/KCMO_Zoo_Nima_09.JPG/1280px-KCMO_Zoo_Nima_09.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 4886573591,
+            "lat": 39.0095732,
+            "lon": -94.5248699,
+            "tags": {
+                "animal": "emu",
+                "attraction": "animal",
+                "name": "Emus",
+                "species": "Dromaius novaehollandiae",
+                "species:wikidata": "Q93208",
+                "species:wikipedia": "en:Emu",
+                "tourism": "attraction",
+                "wikidata": "Q93208",
+                "wikipedia": "en:Emu",
+                "zoo": "enclosure"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/KCMO_Zoo_Nima_09.JPG/1280px-KCMO_Zoo_Nima_09.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 4886573592,
+            "lat": 39.009321,
+            "lon": -94.5246217,
+            "tags": {
+                "animal": "dingos",
+                "attraction": "animal",
+                "name": "Dingos",
+                "tourism": "attraction",
+                "zoo": "enclosure"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/KCMO_Zoo_Nima_09.JPG/1280px-KCMO_Zoo_Nima_09.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 4886573593,
+            "lat": 39.0091457,
+            "lon": -94.5245168,
+            "tags": {
+                "animal": "Bennett's wallaby",
+                "attraction": "animal",
+                "name": "Wallabies",
+                "species": "Notamacropus rufogriseus",
+                "species:wikidata": "Q109262323",
+                "tourism": "attraction",
+                "wikidata": "Q249024",
+                "wikipedia": "en:Red-necked wallaby",
+                "zoo": "enclosure"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/KCMO_Zoo_Nima_09.JPG/1280px-KCMO_Zoo_Nima_09.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 4886778504,
+            "lat": 39.004305,
+            "lon": -94.5290634,
+            "tags": {
+                "animal": "Chilean flamingo",
+                "attraction": "animal",
+                "name": "Chilean Flamingos",
+                "species": "Phoenicopterus chilensis",
+                "species:wikidata": "Q317220",
+                "species:wikipedia": "en:Chilean flamingo",
+                "tourism": "attraction",
+                "zoo": "enclosure"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/KCMO_Zoo_Nima_09.JPG/1280px-KCMO_Zoo_Nima_09.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 4886782870,
+            "lat": 39.0025011,
+            "lon": -94.5261181,
+            "tags": {
+                "attraction": "animal",
+                "name": "Lowland Gorillas",
+                "species": "Gorilla gorilla gorilla",
+                "species:wikidata": "Q876500",
+                "species:wikipedia": "en:Western lowland gorilla",
+                "tourism": "attraction",
+                "zoo": "enclosure"
+            }
+        },
+        {
+            "type": "node",
+            "id": 4886782872,
+            "lat": 39.0028801,
+            "lon": -94.5258735,
+            "tags": {
+                "attraction": "animal",
+                "name": "Crowned Cranes",
+                "tourism": "attraction",
+                "zoo": "enclosure"
+            }
+        },
+        {
+            "type": "node",
+            "id": 4886782873,
+            "lat": 39.003049,
+            "lon": -94.5258594,
+            "tags": {
+                "attraction": "animal",
+                "name": "Red River Hogs",
+                "species": "Potamochoerus porcus",
+                "species:wikidata": "Q654370",
+                "species:wikipedia": "en:Red river hog",
+                "tourism": "attraction",
+                "zoo": "enclosure"
+            }
+        },
+        {
+            "type": "node",
+            "id": 4886782875,
+            "lat": 39.0031378,
+            "lon": -94.5255697,
+            "tags": {
+                "attraction": "animal",
+                "name": "Red-capped Mangabeys",
+                "species": "Cercocebus torquatus",
+                "species:wikidata": "Q301038",
+                "species:wikipedia": "en:Collared mangabey",
+                "tourism": "attraction",
+                "zoo": "enclosure"
+            }
+        },
+        {
+            "type": "node",
+            "id": 4886782877,
+            "lat": 39.0022743,
+            "lon": -94.5252152,
+            "tags": {
+                "attraction": "animal",
+                "name": "Amur Leopards",
+                "species": "Panthera pardus orientalis",
+                "species:wikidata": "Q192967",
+                "species:wikipedia": "en:Amur leopard",
+                "tourism": "attraction",
+                "zoo": "enclosure"
+            }
+        },
+        {
+            "type": "node",
+            "id": 4886782878,
+            "lat": 39.0019875,
+            "lon": -94.5252346,
+            "tags": {
+                "attraction": "animal",
+                "name": "Black Mangabeys",
+                "species": "Lophocebus aterrimus",
+                "species:wikidata": "Q179225",
+                "species:wikipedia": "en:Black crested mangabey",
+                "tourism": "attraction",
+                "zoo": "enclosure"
+            }
+        },
+        {
+            "type": "node",
+            "id": 4886782879,
+            "lat": 39.000931,
+            "lon": -94.5221296,
+            "tags": {
+                "attraction": "animal",
+                "name": "African Aviary",
+                "tourism": "attraction",
+                "zoo": "aviary"
+            }
+        },
+        {
+            "type": "node",
+            "id": 4886782880,
+            "lat": 39.0009965,
+            "lon": -94.5222083,
+            "tags": {
+                "attraction": "animal",
+                "name": "Red-ruffed Lemurs",
+                "species": "Varecia rubra",
+                "species:wikidata": "Q516703",
+                "species:wikipedia": "en:Red ruffed lemur",
+                "tourism": "attraction",
+                "zoo": "enclosure"
+            }
+        },
+        {
+            "type": "node",
+            "id": 4886782882,
+            "lat": 39.0015695,
+            "lon": -94.5225102,
+            "tags": {
+                "attraction": "animal",
+                "name": "Tortoises",
+                "tourism": "attraction",
+                "zoo": "enclosure"
+            }
+        },
+        {
+            "type": "node",
+            "id": 4886782883,
+            "lat": 39.0012504,
+            "lon": -94.5225198,
+            "tags": {
+                "attraction": "animal",
+                "name": "Bateleur Eagle",
+                "species": "Terathopius ecaudatus",
+                "species:wikidata": "Q726387",
+                "species:wikipedia": "en:Bateleur",
+                "tourism": "attraction",
+                "zoo": "enclosure"
+            }
+        },
+        {
+            "type": "node",
+            "id": 4886782884,
+            "lat": 39.0016307,
+            "lon": -94.5226867,
+            "tags": {
+                "attraction": "animal",
+                "name": "Hooded Vulture",
+                "species": "Necrosyrtes monachus",
+                "species:wikidata": "Q177386",
+                "species:wikipedia": "en:Hooded vulture",
+                "tourism": "attraction",
+                "zoo": "enclosure"
+            }
+        },
+        {
+            "type": "node",
+            "id": 4886782886,
+            "lat": 39.0019195,
+            "lon": -94.5232397,
+            "tags": {
+                "attraction": "animal",
+                "name": "Saddle-billed Stork",
+                "species": "Ephippiorhynchus senegalensis",
+                "species:wikidata": "Q1219291",
+                "species:wikipedia": "en:Saddle-billed stork",
+                "tourism": "attraction",
+                "zoo": "enclosure"
+            }
+        },
+        {
+            "type": "node",
+            "id": 4886783826,
+            "lat": 39.0013693,
+            "lon": -94.5192408,
+            "tags": {
+                "attraction": "animal",
+                "name": "Hippopotomus",
+                "species": "Hippopotamus amphibius",
+                "species:wikidata": "Q34505",
+                "species:wikipedia": "en:Hippopotamus",
+                "tourism": "attraction",
+                "zoo": "enclosure"
+            }
+        },
+        {
+            "type": "node",
+            "id": 4886783827,
+            "lat": 39.0010607,
+            "lon": -94.5191854,
+            "tags": {
+                "name": "Crocodile",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 4886783828,
+            "lat": 39.0008731,
+            "lon": -94.519278,
+            "tags": {
+                "name": "Leopard Tortoise",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 4886783829,
+            "lat": 39.000797,
+            "lon": -94.5194671,
+            "tags": {
+                "name": "Yellow-billed Stork",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 4886783917,
+            "lat": 39.0000114,
+            "lon": -94.5189391,
+            "tags": {
+                "attraction": "animal",
+                "name": "Chimpanzees",
+                "tourism": "attraction",
+                "zoo": "enclosure"
+            }
+        },
+        {
+            "type": "node",
+            "id": 4886796441,
+            "lat": 39.0032736,
+            "lon": -94.519933,
+            "tags": {
+                "attraction": "animal",
+                "name": "Painted Dogs",
+                "species": "Lycaon pictus",
+                "species:wikidata": "Q173651",
+                "species:wikipedia": "en:African wild dog",
+                "tourism": "attraction",
+                "zoo": "enclosure"
+            }
+        },
+        {
+            "type": "node",
+            "id": 5178727150,
+            "lat": 39.1097362,
+            "lon": -94.5855564,
+            "tags": {
+                "addr:housenumber": "114",
+                "addr:street": "West 3rd Street",
+                "addr:unit": "102",
+                "name": "Breakout KC",
+                "phone": "+1 816-945-2633",
+                "tourism": "attraction",
+                "website": "https://breakoutkc.com/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/07/Kansas_City_Water_Department_Building.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 6171269243,
+            "lat": 39.0821582,
+            "lon": -94.5815999,
+            "tags": {
+                "addr:city": "Kansas City",
+                "addr:housenumber": "2475",
+                "addr:postcode": "64108",
+                "addr:state": "MO",
+                "addr:street": "Grand Boulevard",
+                "email": "sealifekansascity@sealifeus.com",
+                "name": "Sea Life Aquarium Kansas City",
+                "opening_hours:url": "https://www.visitsealife.com/kansas-city/find/opening-times/",
+                "phone": "+1-816-471-4386",
+                "tourism": "zoo",
+                "website": "https://www.visitsealife.com/kansas-city/"
+            }
+        },
+        {
+            "type": "node",
+            "id": 7821131129,
+            "lat": 39.1719984,
+            "lon": -94.485149,
+            "tags": {
+                "attraction": "river_rafting",
+                "minimum_height_requirement": "46in (117cm)",
+                "name": "Fury Of The Nile",
+                "tourism": "attraction",
+                "website": "https://www.worldsoffun.com/play/rides/fury-of-the-nile"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Zambezi_Zinger_first_drop_%28September_2023%29.png/1280px-Zambezi_Zinger_first_drop_%28September_2023%29.png",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 9561160332,
+            "lat": 39.084829,
+            "lon": -94.5856488,
+            "tags": {
+                "name": "Museum of Illusions",
+                "tourism": "museum",
+                "website": "https://moikansascity.com/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Science_City_at_Union_Station.jpg/1280px-Science_City_at_Union_Station.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 9922764580,
+            "lat": 39.1020836,
+            "lon": -94.5826508,
+            "tags": {
+                "addr:city": "Kansas City",
+                "addr:housenumber": "1000",
+                "addr:postcode": "64106",
+                "addr:state": "MO",
+                "addr:street": "Walnut Street",
+                "addr:unit": "211",
+                "museum": "art",
+                "name": "The Box Gallery",
+                "tourism": "museum",
+                "website": "https://www.theboxgallery.org/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/17/Chambers_Building_%28Kansas_City%2C_Missouri%29.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 9923272520,
+            "lat": 39.1869513,
+            "lon": -94.5095187,
+            "tags": {
+                "historic": "cannon",
+                "name": "155 mm gun M1",
+                "subject:wikidata": "Q2297239",
+                "subject:wikipedia": "en:155 mm gun M1",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10686656006,
+            "lat": 39.2986384,
+            "lon": -94.7209227,
+            "tags": {
+                "fee": "no",
+                "level": "2",
+                "museum": "history",
+                "name": "Observation Area/History Area",
+                "opening_hours": "24/7",
+                "tourism": "museum"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11731626785,
+            "lat": 39.0198315,
+            "lon": -94.6007883,
+            "tags": {
+                "name": "Concorde Nose",
+                "tourism": "attraction",
+                "website": "https://www.atlasobscura.com/places/concorde-nose-kansas-city"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/1917_Map_of_the_Country_Club_District.jpg/1280px-1917_Map_of_the_Country_Club_District.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 11870014034,
+            "lat": 39.1155161,
+            "lon": -94.5912801,
+            "tags": {
+                "check_date": "2024-04-30",
+                "name": "TWA Museum",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Kc-broadway-bridge.jpg/1280px-Kc-broadway-bridge.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 12879458585,
+            "lat": 39.0060483,
+            "lon": -94.5284518,
+            "tags": {
+                "animal": "California sea lion",
+                "attraction": "animal",
+                "name": "Sea Lion Exhibit",
+                "species": "Zalophus californianus",
+                "tourism": "attraction",
+                "wikidata": "Q379732",
+                "wikipedia": "en:California sea lion",
+                "zoo": "enclosure"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/KCMO_Zoo_Nima_09.JPG/1280px-KCMO_Zoo_Nima_09.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 12879737395,
+            "lat": 39.0070418,
+            "lon": -94.5288868,
+            "tags": {
+                "animal": "trumpeter swan",
+                "attraction": "animal",
+                "name": "Trumpeter Swans",
+                "species": "Cygnus buccinator",
+                "tourism": "attraction",
+                "wikidata": "Q733375",
+                "zoo": "enclosure"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/KCMO_Zoo_Nima_09.JPG/1280px-KCMO_Zoo_Nima_09.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 12889466951,
+            "lat": 39.007331,
+            "lon": -94.5271751,
+            "tags": {
+                "animal": "American alligators",
+                "attraction": "animal",
+                "name": "Alligators",
+                "species": "Alligator mississippiensis",
+                "tourism": "attraction",
+                "zoo": "enclosure"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/KCMO_Zoo_Nima_09.JPG/1280px-KCMO_Zoo_Nima_09.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 12889677376,
+            "lat": 39.0085216,
+            "lon": -94.5272466,
+            "tags": {
+                "animal": "Bornean orangutan",
+                "attraction": "animal",
+                "name": "Bornean Orangutans",
+                "species": "Pongo pygmaeus",
+                "species:wikidata": "Q599672",
+                "species:wikipedia": "en:Bornean orangutan",
+                "tourism": "attraction",
+                "wikidata": "Q599672",
+                "wikipedia": "en:Bornean orangutan",
+                "zoo": "enclosure"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/KCMO_Zoo_Nima_09.JPG/1280px-KCMO_Zoo_Nima_09.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 12890247109,
+            "lat": 39.0074907,
+            "lon": -94.5254352,
+            "tags": {
+                "animal": "laughing_kookaburra",
+                "attraction": "animal",
+                "name": "Laughing Kookaburras",
+                "species": "Dacelo novaeguineae",
+                "species:wikidata": "Q824974",
+                "species:wikipedia": "en:Laughing kookaburra",
+                "tourism": "attraction",
+                "zoo": "enclosure"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/KCMO_Zoo_Nima_09.JPG/1280px-KCMO_Zoo_Nima_09.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 12894086683,
+            "lat": 39.0068145,
+            "lon": -94.5274263,
+            "tags": {
+                "attraction": "animal",
+                "name": "Swamp Monkey",
+                "tourism": "attraction",
+                "zoo": "enclosure"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/KCMO_Zoo_Nima_09.JPG/1280px-KCMO_Zoo_Nima_09.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 12895909479,
+            "lat": 39.0014305,
+            "lon": -94.5224599,
+            "tags": {
+                "attraction": "animal",
+                "name": "Blue Duiker",
+                "species": "Philantomba monticola",
+                "species:wikidata": "Q748880",
+                "species:wikipedia": "en:Blue duiker",
+                "tourism": "attraction",
+                "zoo": "enclosure"
+            }
+        },
+        {
+            "type": "node",
+            "id": 12895909507,
+            "lat": 39.0011803,
+            "lon": -94.5223472,
+            "tags": {
+                "attraction": "animal",
+                "name": "Kirk's Dik-Dik",
+                "species": "Madoqua kirkii",
+                "species:wikidata": "Q833607",
+                "species:wikipedia": "en:Kirk's dik-dik",
+                "tourism": "attraction",
+                "zoo": "enclosure"
+            }
+        },
+        {
+            "type": "node",
+            "id": 12895987328,
+            "lat": 39.0007448,
+            "lon": -94.5220604,
+            "tags": {
+                "attraction": "animal",
+                "name": "Southern Ground Hornbill",
+                "species": "Bucorvus leadbeateri",
+                "species:wikidata": "Q685074",
+                "species:wikipedia": "en:Southern ground hornbill",
+                "tourism": "attraction",
+                "zoo": "enclosure"
+            }
+        },
+        {
+            "type": "node",
+            "id": 13156659017,
+            "lat": 38.9252874,
+            "lon": -94.5712922,
+            "tags": {
+                "access": "yes",
+                "name": "Old Red Bridge Love Locks",
+                "opening_hours": "Mo-Su 05:00-24:00",
+                "tourism": "attraction",
+                "website": "https://kcparks.org/places/old-red-bridge-love-locks/"
+            }
+        },
+        {
+            "type": "node",
+            "id": 13179157701,
+            "lat": 39.1175637,
+            "lon": -94.8046763,
+            "tags": {
+                "addr:city": "Kansas City",
+                "addr:country": "US",
+                "addr:housenumber": "1100",
+                "addr:postcode": "66111",
+                "addr:street": "North 98th Street",
+                "contact:facebook": "atlas9kc",
+                "contact:instagram": "atlas9.kc",
+                "name": "Atlas 9",
+                "opening_hours": "Tu-Th 14:00-22:00; Fr-Sa 12:00-23:00; Su 12:00-20:00",
+                "phone": "+1 913-708-8081",
+                "tourism": "attraction",
+                "website": "https://atlas9.com/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Schlitterbahn_Kansas_City_%2844619756661%29.jpg/1280px-Schlitterbahn_Kansas_City_%2844619756661%29.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 13501125667,
+            "lat": 39.0819547,
+            "lon": -94.5825599,
+            "tags": {
+                "addr:city": "Kansas City",
+                "addr:housenumber": "2450",
+                "addr:postcode": "64108",
+                "addr:state": "MO",
+                "addr:street": "Grand Boulevard",
+                "addr:unit": "231",
+                "charge": "10 USD",
+                "contact:facebook": "https://www.facebook.com/profile.php?id=100068438491042",
+                "contact:instagram": "https://www.instagram.com/museumofbbq/",
+                "contact:tiktok": "https://www.tiktok.com/@museumofbbq",
+                "email": "hello@museumofbbq.co",
+                "fee": "yes",
+                "name": "Museum of BBQ",
+                "toilets": "no",
+                "tourism": "museum",
+                "website": "https://museumofbbq.co",
+                "wheelchair": "yes"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Halls_Logo.svg/1280px-Halls_Logo.svg.png",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 13699871149,
+            "lat": 39.0821014,
+            "lon": -94.5813456,
+            "tags": {
+                "brand": "LEGOLAND Discovery Center",
+                "brand:wikidata": "Q303439",
+                "name": "LEGOLAND Discovery Center Kansas City",
+                "operator": "Merlin Entertainments",
+                "operator:wikidata": "Q573278",
+                "tourism": "theme_park"
+            }
+        },
+        {
+            "type": "way",
+            "id": 23733370,
+            "lat": 39.1187147,
+            "lon": -94.6004339,
+            "tags": {
+                "addr:city": "Kansas City",
+                "addr:housenumber": "201",
+                "addr:postcode": "64116",
+                "addr:state": "MO",
+                "addr:street": "Northwest Lou Holland Drive",
+                "building": "hangar",
+                "fee": "yes",
+                "gnis:feature_id": "2476946",
+                "name": "Airline History Museum",
+                "opening_hours": "We-Sa 10:00-16:00",
+                "operator": "City of Kansas City, Missouri",
+                "tourism": "museum",
+                "website": "https://www.airlinehistory.org/",
+                "wikidata": "Q6970252"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Airline_History_Museum_Kansas_City.jpg/1280px-Airline_History_Museum_Kansas_City.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 38501487,
+            "lat": 39.0983149,
+            "lon": -94.5803998,
+            "tags": {
+                "alt_name": "College Basketball Experience",
+                "building": "yes",
+                "building:colour": "#2E4157",
+                "height": "12",
+                "name": "National Collegiate Basketball Hall of Fame",
+                "not:brand:wikidata": "Q1424142",
+                "roof:colour": "#C1C6C8",
+                "tourism": "museum"
+            }
+        },
+        {
+            "type": "way",
+            "id": 132574831,
+            "lat": 39.0463201,
+            "lon": -94.5850358,
+            "tags": {
+                "addr:city": "Kansas City",
+                "addr:housenumber": "4420",
+                "addr:postcode": "64111",
+                "addr:state": "MO",
+                "addr:street": "East 45th Street",
+                "building": "yes",
+                "fee": "no",
+                "museum": "art",
+                "name": "Kemper Museum of Contemporary Art",
+                "opening_hours": "We 10:00-16:00; Th 10:00-21:00; Fr-Su 10:00-16:00",
+                "phone": "+1 816 753 5784",
+                "toilets": "yes",
+                "tourism": "museum",
+                "website": "https://www.kemperart.org/",
+                "wheelchair": "yes",
+                "wikidata": "Q14704420"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Kemper_Museum_of_Contemporary_Art.jpg/1280px-Kemper_Museum_of_Contemporary_Art.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 178551379,
+            "lat": 39.0923664,
+            "lon": -94.56142,
+            "tags": {
+                "building": "yes",
+                "historic": "building",
+                "name": "Black Archives Of Mid-America",
+                "old_name": "Parade Park Maintenance Building",
+                "tourism": "museum",
+                "website": "http://blackarchives.org/",
+                "wikipedia": "en:Parade Park Maintenance Building"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/02/Parade_Park_Maintenance_Building.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 290457653,
+            "lat": 39.1714605,
+            "lon": -94.4853876,
+            "tags": {
+                "attraction": "roller_coaster",
+                "building": "yes",
+                "minimum_height_requirement": "48in (122cm)",
+                "name": "Mamba",
+                "roller_coaster": "station",
+                "tourism": "attraction",
+                "website": "https://www.worldsoffun.com/play/rides/mamba"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/MambaLiftHillWOF.jpg/1280px-MambaLiftHillWOF.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 290457655,
+            "lat": 39.1742404,
+            "lon": -94.4841002,
+            "tags": {
+                "attraction": "roller_coaster",
+                "building": "yes",
+                "minheight": "48\"",
+                "name": "Prowler",
+                "roller_coaster": "station",
+                "tourism": "attraction",
+                "website": "https://www.worldsoffun.com/play/rides/prowler"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/WOF-Prowler2.JPG/1280px-WOF-Prowler2.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 290457659,
+            "lat": 39.1732612,
+            "lon": -94.4851835,
+            "tags": {
+                "attraction": "roller_coaster",
+                "building": "yes",
+                "minimum_height_requirement": "48in (122cm)",
+                "name": "Boomerang",
+                "rcdb_URL": "http://rcdb.com/653.htm",
+                "roller_coaster": "station",
+                "tourism": "attraction",
+                "website": "https://www.worldsoffun.com/play/rides/boomerang"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Zambezi_Zinger_first_drop_%28September_2023%29.png/1280px-Zambezi_Zinger_first_drop_%28September_2023%29.png",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 290457664,
+            "lat": 39.1727697,
+            "lon": -94.4891463,
+            "tags": {
+                "attraction": "roller_coaster",
+                "building": "yes",
+                "minimum_height_requirement": "48in (122cm)",
+                "name": "Timberwolf",
+                "roller_coaster": "station",
+                "tourism": "attraction",
+                "website": "https://www.worldsoffun.com/play/rides/timber-wolf"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/89/Timber_Wolf_Worlds_Of_Fun.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 290457666,
+            "lat": 39.1751785,
+            "lon": -94.4889502,
+            "tags": {
+                "attraction": "roller_coaster",
+                "building": "yes",
+                "minimum_height_requirement": "54in (137cm)",
+                "name": "Patriot",
+                "roller_coaster": "station",
+                "tourism": "attraction",
+                "website": "https://www.worldsoffun.com/play/rides/patriot"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/PatriotWOF23.jpg/1280px-PatriotWOF23.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 290457674,
+            "lat": 39.1730631,
+            "lon": -94.4886085,
+            "tags": {
+                "building": "yes",
+                "minimum_height_requirement": "48in (122cm)",
+                "name": "Cyclone Sams",
+                "tourism": "attraction",
+                "website": "https://www.worldsoffun.com/play/rides/cyclone-sams"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Cyclone_Sams_exterior.jpg/1280px-Cyclone_Sams_exterior.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 317980811,
+            "lat": 39.1734827,
+            "lon": -94.4865985,
+            "tags": {
+                "attraction": "amusement_ride",
+                "building": "yes",
+                "building:levels": "1",
+                "minimum_height_requirement": "48in (122cm)",
+                "name": "Le Taxi Tours",
+                "tourism": "attraction",
+                "website": "https://www.worldsoffun.com/play/rides/le-taxitour"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Cyclone_Sams_exterior.jpg/1280px-Cyclone_Sams_exterior.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 318010150,
+            "lat": 39.1717821,
+            "lon": -94.4877471,
+            "tags": {
+                "attraction": "petting_zoo",
+                "building": "yes",
+                "name": "Pigpen's Petting Farm",
+                "opening_hours": "12:00-18:00",
+                "tourism": "attraction",
+                "website": "https://www.worldsoffun.com/play/rides/pigpens-petting-farm"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/CosmicCoasterWorldsofFun.jpg/1280px-CosmicCoasterWorldsofFun.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 318010151,
+            "lat": 39.1721815,
+            "lon": -94.4881472,
+            "tags": {
+                "attraction": "train",
+                "building": "yes",
+                "building:levels": "2",
+                "name": "Snoopy's Rocket Express",
+                "tourism": "attraction",
+                "website": "https://www.worldsoffun.com/rides/Planet-Snoopy/Snoopys-Rocket-Express"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/CosmicCoasterWorldsofFun.jpg/1280px-CosmicCoasterWorldsofFun.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 318022387,
+            "lat": 39.1746636,
+            "lon": -94.4859919,
+            "tags": {
+                "area": "yes",
+                "attraction": "amusement_ride",
+                "minimum_height_requirement": "48in (122cm)",
+                "name": "Sea Dragon",
+                "tourism": "attraction",
+                "website": "https://www.worldsoffun.com/play/rides/sea-dragon"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Viking_Voyager_first_hill.jpg/1280px-Viking_Voyager_first_hill.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 318137752,
+            "lat": 39.1743212,
+            "lon": -94.4848058,
+            "tags": {
+                "area": "yes",
+                "attraction": "amusement_ride",
+                "minimum_height_requirement": "54in (137cm)",
+                "name": "Zulu",
+                "tourism": "attraction",
+                "website": "https://www.worldsoffun.com/play/rides/zulu"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Zambezi_Zinger_first_drop_%28September_2023%29.png/1280px-Zambezi_Zinger_first_drop_%28September_2023%29.png",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 318137755,
+            "lat": 39.1754893,
+            "lon": -94.4860633,
+            "tags": {
+                "attraction": "amusement_ride",
+                "minimum_height_requirement": "46in (117cm)",
+                "name": "Fjörd Fjärlane",
+                "tourism": "attraction",
+                "website": "https://www.worldsoffun.com/rides/Family-Rides/Fjord-Fjarlane",
+                "wheelchair": "yes"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Viking_Voyager_first_hill.jpg/1280px-Viking_Voyager_first_hill.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 318144384,
+            "lat": 39.1736475,
+            "lon": -94.4876518,
+            "tags": {
+                "attraction": "train_ride",
+                "building": "yes",
+                "building:levels": "1",
+                "name": "Worlds of Fun Railroad Station",
+                "railway": "station",
+                "tourism": "attraction",
+                "website": "https://www.worldsoffun.com/play/rides/worlds-of-fun-railroad"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Cyclone_Sams_exterior.jpg/1280px-Cyclone_Sams_exterior.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 318146784,
+            "lat": 39.1735679,
+            "lon": -94.4870203,
+            "tags": {
+                "area": "yes",
+                "attraction": "amusement_ride",
+                "minimum_height_requirement": "46in (117cm)",
+                "name": "Flying Dutchman",
+                "tourism": "attraction",
+                "website": "https://www.worldsoffun.com/play/rides/flying-dutchman"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Cyclone_Sams_exterior.jpg/1280px-Cyclone_Sams_exterior.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 318152481,
+            "lat": 39.1727236,
+            "lon": -94.4882978,
+            "tags": {
+                "attraction": "amusement_ride",
+                "maxheight": "54\"",
+                "minheight": "36\"",
+                "name": "Snoopy vs. Red Baron",
+                "tourism": "attraction",
+                "website": "https://www.worldsoffun.com/play/rides/snoopy-vs-red-baron"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Cyclone_Sams_exterior.jpg/1280px-Cyclone_Sams_exterior.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 318163132,
+            "lat": 39.1749767,
+            "lon": -94.4875556,
+            "tags": {
+                "area": "yes",
+                "attraction": "amusement_ride",
+                "minimum_height_requirement": "46in (117cm)",
+                "name": "Bamboozler",
+                "tourism": "attraction",
+                "website": "https://www.worldsoffun.com/play/rides/bamboozler"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Spinning_Dragons.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 318163134,
+            "lat": 39.1729006,
+            "lon": -94.48787,
+            "tags": {
+                "attraction": "amusement_ride",
+                "building": "yes",
+                "height": "45.72",
+                "minimum_height_requirement": "48in (122cm)",
+                "name": "Detonator",
+                "tourism": "attraction",
+                "website": "https://www.worldsoffun.com/play/rides/detonator"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Cyclone_Sams_exterior.jpg/1280px-Cyclone_Sams_exterior.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 318163258,
+            "lat": 39.1747893,
+            "lon": -94.4849889,
+            "tags": {
+                "alt_name": "Scrambler",
+                "area": "yes",
+                "attraction": "amusement_ride",
+                "minimum_height_requirement": "36in (91cm)",
+                "name": "Scandi Scrambler",
+                "tourism": "attraction",
+                "website": "https://www.worldsoffun.com/play/rides/scrambler"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Viking_Voyager_first_hill.jpg/1280px-Viking_Voyager_first_hill.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 318167930,
+            "lat": 39.1720277,
+            "lon": -94.4880588,
+            "tags": {
+                "area": "yes",
+                "attraction": "amusement_ride",
+                "minimum_height_requirement": "none",
+                "name": "PEANUTS 500",
+                "tourism": "attraction",
+                "website": "https://www.worldsoffun.com/play/rides/peanuts-500"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/CosmicCoasterWorldsofFun.jpg/1280px-CosmicCoasterWorldsofFun.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 318224808,
+            "lat": 39.1755459,
+            "lon": -94.4879457,
+            "tags": {
+                "attraction": "roller_coaster",
+                "building": "yes",
+                "minimum_height_requirement": "43in (109cm)",
+                "name": "Spinning Dragons",
+                "rcdb_URL": "http://rcdb.com/2572.htm",
+                "roller_coaster": "station",
+                "tourism": "attraction",
+                "website": "https://www.worldsoffun.com/play/rides/spinning-dragons",
+                "wikipedia": "en:Spinning Dragons"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Spinning_Dragons.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 318263624,
+            "lat": 39.1753218,
+            "lon": -94.4885135,
+            "tags": {
+                "attraction": "big_wheel",
+                "building": "yes",
+                "minimum_height_requirement": "36in (91cm)",
+                "name": "Skyliner",
+                "tourism": "attraction",
+                "website": "https://www.worldsoffun.com/play/rides/skyliner"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/PatriotWOF23.jpg/1280px-PatriotWOF23.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 318292935,
+            "lat": 39.1723413,
+            "lon": -94.4876989,
+            "tags": {
+                "area": "yes",
+                "attraction": "teacup",
+                "minimum_height_requirement": "none",
+                "name": "Woodstock Whirlybirds",
+                "tourism": "attraction",
+                "website": "https://www.worldsoffun.com/play/rides/woodstock-whirlybirds"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Cyclone_Sams_exterior.jpg/1280px-Cyclone_Sams_exterior.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 318292938,
+            "lat": 39.1721983,
+            "lon": -94.487633,
+            "tags": {
+                "attraction": "chair_swing",
+                "maxheight": "54\"",
+                "minheight": "36\"",
+                "name": "Charlie Brown's Windup",
+                "tourism": "attraction",
+                "website": "https://www.worldsoffun.com/play/rides/charlie-browns-windup"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Cyclone_Sams_exterior.jpg/1280px-Cyclone_Sams_exterior.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 318305972,
+            "lat": 39.1718403,
+            "lon": -94.488011,
+            "tags": {
+                "area": "yes",
+                "attraction": "amusement_ride",
+                "minimum_height_requirement": "none",
+                "name": "Flying Ace Ballon Race",
+                "tourism": "attraction",
+                "website": "https://www.worldsoffun.com/play/rides/flying-ace-balloon-race"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/CosmicCoasterWorldsofFun.jpg/1280px-CosmicCoasterWorldsofFun.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 318306472,
+            "lat": 39.1718831,
+            "lon": -94.4874611,
+            "tags": {
+                "attraction": "amusement_ride",
+                "minimum_height_requirement": "none",
+                "name": "Lucy's Tugboat",
+                "tourism": "attraction",
+                "website": "https://www.worldsoffun.com/play/rides/lucys-tugboat"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/CosmicCoasterWorldsofFun.jpg/1280px-CosmicCoasterWorldsofFun.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 318306473,
+            "lat": 39.1724387,
+            "lon": -94.4874551,
+            "tags": {
+                "area": "yes",
+                "attraction": "amusement_ride",
+                "maximum_height_requirement": "54in (137cm)",
+                "name": "Snoopy's Yacht Club",
+                "tourism": "attraction",
+                "website": "https://www.worldsoffun.com/play/rides/snoopys-yacht-club"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Cyclone_Sams_exterior.jpg/1280px-Cyclone_Sams_exterior.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 318306474,
+            "lat": 39.1723547,
+            "lon": -94.4874327,
+            "tags": {
+                "area": "yes",
+                "attraction": "amusement_ride",
+                "maximum_height_requirement": "54in (137cm)",
+                "name": "Linus' Beetle Bugs",
+                "tourism": "attraction",
+                "website": "https://www.worldsoffun.com/play/rides/linus-beetle-bugs"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Cyclone_Sams_exterior.jpg/1280px-Cyclone_Sams_exterior.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 318306475,
+            "lat": 39.1722818,
+            "lon": -94.4874729,
+            "tags": {
+                "area": "yes",
+                "attraction": "amusement_ride",
+                "maxheight": "54\"",
+                "minheight": "36\"",
+                "name": "PEANUTS Turn Tyke",
+                "tourism": "attraction",
+                "website": "https://www.worldsoffun.com/play/rides/peanuts-turn-tyke"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Cyclone_Sams_exterior.jpg/1280px-Cyclone_Sams_exterior.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 322304549,
+            "lat": 39.1742418,
+            "lon": -94.4892646,
+            "tags": {
+                "area": "yes",
+                "attraction": "amusement_ride",
+                "minimum_height_requirement": "52in (132cm)",
+                "name": "SteelHawk",
+                "tourism": "attraction",
+                "website": "https://www.worldsoffun.com/play/rides/steelhawk"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/PatriotWOF23.jpg/1280px-PatriotWOF23.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 356362237,
+            "lat": 39.0313337,
+            "lon": -94.5731555,
+            "tags": {
+                "building": "yes",
+                "name": "Greenlease Gallery",
+                "operator": "Rockhurst University",
+                "tourism": "museum"
+            }
+        },
+        {
+            "type": "way",
+            "id": 398449786,
+            "lat": 39.0540534,
+            "lon": -94.5878261,
+            "tags": {
+                "addr:city": "Kansas City",
+                "addr:housenumber": "4000",
+                "addr:postcode": "64111",
+                "addr:state": "MO",
+                "addr:street": "Baltimore Avenue",
+                "building": "yes",
+                "name": "Harris-Kearney House",
+                "tourism": "museum",
+                "wikidata": "Q18348521"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/HarrisKearneyHouse.jpg/1280px-HarrisKearneyHouse.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 496256212,
+            "lat": 39.0066467,
+            "lon": -94.5406804,
+            "tags": {
+                "building": "yes",
+                "layer": "1",
+                "name": "Battle of Westport Visitor Center",
+                "tourism": "museum"
+            }
+        },
+        {
+            "type": "way",
+            "id": 499028053,
+            "lat": 39.1158513,
+            "lon": -94.542394,
+            "tags": {
+                "addr:city": "Kansas City",
+                "addr:housenumber": "3218",
+                "addr:postcode": "64123",
+                "addr:state": "MO",
+                "addr:street": "Gladstone Boulevard",
+                "building": "yes",
+                "fee": "no",
+                "name": "Kansas City Museum",
+                "opening_hours": "Th 10:00-20:00; Fr,Sa 10:00-17:00; Su 12:00-17:00",
+                "tourism": "museum",
+                "wheelchair": "yes",
+                "wikidata": "Q16998098"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Kansas_City_Museum_of_History_and_Science.jpg/1280px-Kansas_City_Museum_of_History_and_Science.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 502838784,
+            "lat": 39.0031951,
+            "lon": -94.5252069,
+            "tags": {
+                "addr:city": "Kansas City",
+                "addr:housenumber": "6800",
+                "addr:postcode": "64132",
+                "addr:state": "MO",
+                "addr:street": "Zoo Drive",
+                "name": "Kansas City Zoo & Aquarium",
+                "name:zh": "堪萨斯市动物园",
+                "phone": "+1-816-595-1234",
+                "tourism": "zoo",
+                "website": "https://kansascityzoo.org",
+                "wikidata": "Q6364924",
+                "wikipedia": "en:Kansas City Zoo & Aquarium"
+            }
+        },
+        {
+            "type": "way",
+            "id": 512690806,
+            "lat": 39.1133643,
+            "lon": -94.6191535,
+            "tags": {
+                "addr:city": "Kansas City",
+                "addr:housenumber": "720",
+                "addr:postcode": "66101",
+                "addr:state": "KS",
+                "addr:street": "North 4th Street",
+                "building": "yes",
+                "name": "Strawberry Hill Museum & Center",
+                "tourism": "museum"
+            }
+        },
+        {
+            "type": "way",
+            "id": 514735305,
+            "lat": 39.0307755,
+            "lon": -94.5820507,
+            "tags": {
+                "addr:city": "Kansas City",
+                "addr:housenumber": "5235",
+                "addr:postcode": "64112",
+                "addr:state": "MO",
+                "addr:street": "Oak Street",
+                "building": "yes",
+                "check_date": "2026-03-16",
+                "fee": "yes",
+                "name": "The National Museum of Toys and Miniatures",
+                "opening_hours": "Mo,We-Su 10:00-16:00; Tu off",
+                "opening_hours:url": "https://toyandminiaturemuseum.org/visit/tickets/",
+                "phone": "+1-816-235-8000",
+                "tourism": "museum",
+                "website": "https://toyandminiaturemuseum.org/",
+                "wheelchair": "yes",
+                "wikidata": "Q14704454"
+            }
+        },
+        {
+            "type": "way",
+            "id": 532842611,
+            "lat": 39.0168259,
+            "lon": -94.5924854,
+            "tags": {
+                "building": "yes",
+                "name": "John Wornall House Museum",
+                "tourism": "museum",
+                "website": "https://www.wornallmajors.org/explore/the-john-wornall-house/",
+                "wikidata": "Q6264895"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/JohnWornallHouse.JPG/1280px-JohnWornallHouse.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 834323095,
+            "lat": 39.172484,
+            "lon": -94.4878932,
+            "tags": {
+                "attraction": "amusement_ride",
+                "minimum_height_requirement": "36in (91cm)",
+                "name": "Woodstock Gliders",
+                "tourism": "attraction",
+                "website": "https://www.worldsoffun.com/play/rides/woodstock-gliders"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Cyclone_Sams_exterior.jpg/1280px-Cyclone_Sams_exterior.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 834565246,
+            "lat": 39.1731869,
+            "lon": -94.4878835,
+            "tags": {
+                "barrier": "fence",
+                "minimum_height_requirement": "42in (107cm)",
+                "name": "Mustang Runner",
+                "tourism": "attraction",
+                "website": "https://www.worldsoffun.com/play/rides/mustang-runner"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Cyclone_Sams_exterior.jpg/1280px-Cyclone_Sams_exterior.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 834568358,
+            "lat": 39.173766,
+            "lon": -94.4874341,
+            "tags": {
+                "minimum_height_requirement": "42in (107cm)",
+                "name": "Falcon's Flight",
+                "tourism": "attraction",
+                "website": "https://www.worldsoffun.com/play/rides/falcons-flight"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Cyclone_Sams_exterior.jpg/1280px-Cyclone_Sams_exterior.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 834586216,
+            "lat": 39.1750189,
+            "lon": -94.4851797,
+            "tags": {
+                "minimum_height_requirement": "40in (102in)",
+                "name": "Nordic Chaser",
+                "tourism": "attraction",
+                "website": "https://www.worldsoffun.com/play/rides/nordic-chaser"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Viking_Voyager_first_hill.jpg/1280px-Viking_Voyager_first_hill.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 835952463,
+            "lat": 39.1725922,
+            "lon": -94.487555,
+            "tags": {
+                "minimum_height_requirement": "none",
+                "name": "Beagle Brigade Airfield",
+                "tourism": "attraction",
+                "website": "https://www.worldsoffun.com/play/rides/beagle-brigade-airfield"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Cyclone_Sams_exterior.jpg/1280px-Cyclone_Sams_exterior.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 836969664,
+            "lat": 39.1750075,
+            "lon": -94.4859469,
+            "tags": {
+                "attraction": "log_ride",
+                "building": "yes",
+                "minimum_height_requirement": "36in (91cm)",
+                "name": "Viking Voyager",
+                "tourism": "attraction",
+                "website": "https://www.worldsoffun.com/play/rides/viking-voyager"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Viking_Voyager_first_hill.jpg/1280px-Viking_Voyager_first_hill.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 836987824,
+            "lat": 39.1721622,
+            "lon": -94.4873716,
+            "tags": {
+                "attraction": "miniture_drop_tower",
+                "minimum_height_requirement": "36in (91cm)",
+                "name": "Kite Eating Tree",
+                "tourism": "attraction",
+                "website": "https://www.worldsoffun.com/play/rides/kite-eating-tree"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Cyclone_Sams_exterior.jpg/1280px-Cyclone_Sams_exterior.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 836988510,
+            "lat": 39.1720469,
+            "lon": -94.4873674,
+            "tags": {
+                "minimum_height_requirement": "none",
+                "name": "Camp Bus",
+                "tourism": "attraction",
+                "website": "https://www.worldsoffun.com/play/rides/camp-bus"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Cyclone_Sams_exterior.jpg/1280px-Cyclone_Sams_exterior.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 836989602,
+            "lat": 39.1720878,
+            "lon": -94.487557,
+            "tags": {
+                "maxheight": "73\"",
+                "minheight": "36\"",
+                "name": "Sally's Swing Set",
+                "tourism": "attraction",
+                "website": "https://www.worldsoffun.com/play/rides/sallys-swing-set"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Cyclone_Sams_exterior.jpg/1280px-Cyclone_Sams_exterior.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 836989750,
+            "lat": 39.1720539,
+            "lon": -94.4877216,
+            "tags": {
+                "minimum_height_requirement": "none",
+                "name": "PEANUTS Road Rally",
+                "tourism": "attraction",
+                "website": "https://www.worldsoffun.com/play/rides/peanuts-road-rally"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/CosmicCoasterWorldsofFun.jpg/1280px-CosmicCoasterWorldsofFun.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 836990136,
+            "lat": 39.1723858,
+            "lon": -94.4890945,
+            "tags": {
+                "minimum_height_requirement": "36in (91cm)",
+                "name": "Linus' Launcher",
+                "tourism": "attraction",
+                "website": "https://www.worldsoffun.com/play/rides/linus-launcher"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/CosmicCoasterWorldsofFun.jpg/1280px-CosmicCoasterWorldsofFun.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 836990306,
+            "lat": 39.1724605,
+            "lon": -94.4889134,
+            "tags": {
+                "minimum_height_requirement": "none",
+                "name": "Snoopy's Space Buggies",
+                "tourism": "attraction",
+                "website": "https://www.worldsoffun.com/play/rides/snoopys-space-buggies"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/CosmicCoasterWorldsofFun.jpg/1280px-CosmicCoasterWorldsofFun.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 836996263,
+            "lat": 39.1723542,
+            "lon": -94.4887686,
+            "tags": {
+                "building": "yes",
+                "minimum_height_requirement": "none",
+                "name": "Snoopy's Junction",
+                "tourism": "attraction",
+                "website": "https://www.worldsoffun.com/play/rides/snoopys-junction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/CosmicCoasterWorldsofFun.jpg/1280px-CosmicCoasterWorldsofFun.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 839197575,
+            "lat": 39.1726641,
+            "lon": -94.4886418,
+            "tags": {
+                "attraction": "roller_coaster",
+                "minimum_height_requirement": "none",
+                "name": "Cosmic Coaster",
+                "tourism": "attraction",
+                "website": "https://www.worldsoffun.com/play/rides/cosmic-coaster",
+                "wikidata": "Q5174059"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/CosmicCoasterWorldsofFun.jpg/1280px-CosmicCoasterWorldsofFun.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 1229502901,
+            "lat": 39.073416,
+            "lon": -94.7598613,
+            "tags": {
+                "addr:city": "Kansas City",
+                "addr:housenumber": "1420",
+                "addr:postcode": "66111",
+                "addr:state": "KS",
+                "addr:street": "South 78th Street",
+                "area": "yes",
+                "ele": "257",
+                "gnis:feature_id": "2510499",
+                "historic": "yes",
+                "name": "Grinter Place State Historic Site",
+                "operator": "Kansas Historical Society",
+                "ref:nrhp": "71000338",
+                "source": "USGS Geonames",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/0b/GrinterHouse1857.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 1271569173,
+            "lat": 39.1740738,
+            "lon": -94.4861995,
+            "tags": {
+                "addr:city": "Kansas City",
+                "addr:housenumber": "4545",
+                "addr:postcode": "64161",
+                "addr:state": "MO",
+                "addr:street": "Worlds of Fun Avenue",
+                "name": "Worlds of Fun",
+                "operator": "Enchanted Parks",
+                "operator:wikidata": "Q138698068",
+                "owner": "EPR Properties",
+                "owner:wikidata": "Q48977470",
+                "tourism": "theme_park",
+                "website": "https://worldsoffun.enchantedparks.com"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/PatriotWOF23.jpg/1280px-PatriotWOF23.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 1360448680,
+            "lat": 39.2523617,
+            "lon": -94.5013464,
+            "tags": {
+                "addr:city": "Kansas City",
+                "addr:housenumber": "7000",
+                "addr:postcode": "64156",
+                "addr:state": "MO",
+                "addr:street": "Northeast Barry Road",
+                "area": "yes",
+                "name": "Shoal Creek Living History Museum",
+                "operator": "Kansas City Parks and Recreation",
+                "tourism": "theme_park",
+                "website": "https://www.shoalcreeklivinghistorymuseum.com/h"
+            }
+        }
+    ]
+}

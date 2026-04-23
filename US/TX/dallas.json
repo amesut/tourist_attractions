@@ -1,0 +1,900 @@
+{
+    "city_metadata": {
+        "city_name": "Dallas",
+        "state_code": "TX",
+        "state_full": "Texas",
+        "city_summary": "Dallas is a city in the U.S. state of Texas. Located in the state's northern region, it is the ninth-most populous city in the United States and third-most populous city in Texas, with a population of 1.3 million at the 2020 census. Along with the city of Fort Worth, Dallas anchors the Dallas–Fort Worth metroplex, the fourth-most populous metropolitan area in the U.S. and the most populous metropolitan area in Texas, at 8.5 million people.",
+        "city_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/View_of_Dallas_from_Reunion_Tower_August_2015_05.jpg/1280px-View_of_Dallas_from_Reunion_Tower_August_2015_05.jpg",
+        "city_lat": 32.77916667,
+        "city_lon": -96.80888889,
+        "source": "wikipedia_verified_engine"
+    },
+    "attractions": [
+        {
+            "type": "node",
+            "id": 368164974,
+            "lat": 32.7770736,
+            "lon": -96.7625002,
+            "tags": {
+                "addr:state": "TX",
+                "ele": "136",
+                "fixme": "Is this closed now?",
+                "gnis:feature_id": "2014205",
+                "museum": "nature",
+                "name": "Dallas Museum of Natural History",
+                "source": "USGS Geonames",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Fair_Park_August_2016_70_%28Children%27s_Aquarium%29.jpg/1280px-Fair_Park_August_2016_70_%28Children%27s_Aquarium%29.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 368164983,
+            "lat": 32.7797097,
+            "lon": -96.8084399,
+            "tags": {
+                "addr:city": "Dallas",
+                "addr:housenumber": "411",
+                "addr:postcode": "75202",
+                "addr:state": "TX",
+                "addr:street": "Elm Street",
+                "ele": "128",
+                "gnis:feature_id": "2014216",
+                "museum": "history",
+                "name": "The Sixth Floor Museum at Dealey Plaza",
+                "opening_hours": "We-Su 10:00-17:00",
+                "phone": "+1 214-747-6660",
+                "source": "USGS Geonames",
+                "tourism": "museum",
+                "url": "https://www.jfk.org/",
+                "website": "https://www.jfk.org/",
+                "wikidata": "Q3498048",
+                "wikipedia": "en:Sixth Floor Museum at Dealey Plaza"
+            }
+        },
+        {
+            "type": "node",
+            "id": 4502533028,
+            "lat": 32.7817419,
+            "lon": -96.806614,
+            "tags": {
+                "addr:city": "Dallas",
+                "addr:housenumber": "701",
+                "addr:postcode": "75202",
+                "addr:state": "TX",
+                "addr:street": "Ross Avenue",
+                "fee": "yes",
+                "fee:conditional": "no @ (age < 5)",
+                "name": "Museum of Illusions",
+                "opening_hours": "Su-Th 10:00-20:00; Fr-Sa 10:00-21:00",
+                "phone": "+1-214-432-1582",
+                "tourism": "museum",
+                "website": "https://moidallas.com/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/West_End_Station_September_2015_5.jpg/1280px-West_End_Station_September_2015_5.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 4894832922,
+            "lat": 32.8577406,
+            "lon": -96.8930969,
+            "tags": {
+                "name": "gas monkey live",
+                "name:en": "gas monkey live",
+                "tourism": "attraction",
+                "wikidata": "Q54871216"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Gas_Monkey_Live_3.jpg/1280px-Gas_Monkey_Live_3.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 4898668423,
+            "lat": 32.8092992,
+            "lon": -96.8087647,
+            "tags": {
+                "addr:street": "Oak Lawn Avenue",
+                "name": "Legacy of Love Monument",
+                "name:en": "Legacy of Love Monument",
+                "opening_hours": "24/7",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Hookandladder1_%281_of_1%29.jpg/1280px-Hookandladder1_%281_of_1%29.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 4898716821,
+            "lat": 32.8094692,
+            "lon": -96.8085989,
+            "tags": {
+                "addr:street": "Oak Lawn Avenue",
+                "name": "Frank H. Caven Memorial Garden",
+                "name:en": "Frank H. Caven Memorial Garden",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Hookandladder1_%281_of_1%29.jpg/1280px-Hookandladder1_%281_of_1%29.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 5205613509,
+            "lat": 32.7767789,
+            "lon": -96.7592667,
+            "tags": {
+                "attraction": "big_wheel",
+                "height": "64.6",
+                "name": "Texas Star",
+                "start_date": "1985",
+                "tourism": "attraction",
+                "wikidata": "Q1318837",
+                "wikipedia": "en:Texas Star"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/79/Texas_Star.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 5844828385,
+            "lat": 32.7812515,
+            "lon": -96.7982575,
+            "tags": {
+                "name": "Giant Eye",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Praetorian_Building%2C_Dallas%2C_TX.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 6548497364,
+            "lat": 32.7463733,
+            "lon": -96.8004206,
+            "tags": {
+                "man_made": "geoglyph",
+                "name": "Fiji Senior Sign",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/8th_%26_Corinth_%28DART_station%29.JPG/1280px-8th_%26_Corinth_%28DART_station%29.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 11075348395,
+            "lat": 32.7961217,
+            "lon": -96.83359,
+            "tags": {
+                "name": "concrete hamburger",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11784591300,
+            "lat": 32.8761508,
+            "lon": -96.7334849,
+            "tags": {
+                "addr:city": "Dallas",
+                "addr:housenumber": "7130",
+                "addr:postcode": "75231",
+                "addr:state": "TX",
+                "addr:street": "Skillman Street",
+                "addr:unit": "150",
+                "fee": "yes",
+                "museum": "children",
+                "name": "Play Street Museum",
+                "operator": "Play Street",
+                "operator:type": "private",
+                "phone": "+1 214-414-2819",
+                "reservation": "required",
+                "tourism": "museum",
+                "website": "https://lakehighlands.playstreetmuseum.com/plan-your-visit"
+            }
+        },
+        {
+            "type": "node",
+            "id": 12213158640,
+            "lat": 32.8012424,
+            "lon": -96.8073098,
+            "tags": {
+                "name": "Katy Trail Caboose",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 12503349415,
+            "lat": 32.7918428,
+            "lon": -96.806671,
+            "tags": {
+                "addr:city": "Dallas",
+                "addr:housenumber": "2501",
+                "addr:postcode": "75201",
+                "addr:state": "TX",
+                "addr:street": "North Harwood Street",
+                "alt_name": "The Ann & Gabriel Barbier-Mueller Museum",
+                "level": "1",
+                "name": "The Samurai Collection",
+                "opening_hours": "We-Su 11:00-17:00",
+                "phone": "+1-214-965-1032",
+                "tourism": "museum",
+                "website": "https://samuraicollection.org/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Armor_and_hand_warmer_display_-_The_Ann_and_Gabriel_Barbier-Mueller_Museum_-_DSC05626.jpg/1280px-Armor_and_hand_warmer_display_-_The_Ann_and_Gabriel_Barbier-Mueller_Museum_-_DSC05626.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 13163084339,
+            "lat": 32.8229214,
+            "lon": -96.7191394,
+            "tags": {
+                "name": "Lakeside Exhibit Area",
+                "operator": "Dallas Arboretum and Botanical Garden",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Dallas_Arboretum_and_Botanical_Garden_September_2017_02_%28DeGolyer_House%29.jpg/1280px-Dallas_Arboretum_and_Botanical_Garden_September_2017_02_%28DeGolyer_House%29.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 13163084342,
+            "lat": 32.8228976,
+            "lon": -96.7178405,
+            "tags": {
+                "name": "DeGolyer Pergola",
+                "operator": "Dallas Arboretum and Botanical Garden",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Dallas_Arboretum_and_Botanical_Garden_September_2017_02_%28DeGolyer_House%29.jpg/1280px-Dallas_Arboretum_and_Botanical_Garden_September_2017_02_%28DeGolyer_House%29.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 13163084345,
+            "lat": 32.8248844,
+            "lon": -96.715317,
+            "tags": {
+                "name": "Alex Camp House Lawn",
+                "operator": "Dallas Arboretum and Botanical Garden",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Dallas_Arboretum_and_Botanical_Garden_September_2017_02_%28DeGolyer_House%29.jpg/1280px-Dallas_Arboretum_and_Botanical_Garden_September_2017_02_%28DeGolyer_House%29.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 13163084354,
+            "lat": 32.8207466,
+            "lon": -96.7196436,
+            "tags": {
+                "name": "The Barbara and Bob Bigham Scenic Overlook",
+                "operator": "Dallas Arboretum and Botanical Garden",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Dallas_Arboretum_and_Botanical_Garden_September_2017_02_%28DeGolyer_House%29.jpg/1280px-Dallas_Arboretum_and_Botanical_Garden_September_2017_02_%28DeGolyer_House%29.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 13163084365,
+            "lat": 32.8234059,
+            "lon": -96.716736,
+            "tags": {
+                "name": "DeGolyer Commons",
+                "operator": "Dallas Arboretum and Botanical Garden",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Dallas_Arboretum_and_Botanical_Garden_September_2017_02_%28DeGolyer_House%29.jpg/1280px-Dallas_Arboretum_and_Botanical_Garden_September_2017_02_%28DeGolyer_House%29.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 13163084376,
+            "lat": 32.8246894,
+            "lon": -96.7142045,
+            "tags": {
+                "name": "Water Walls",
+                "operator": "Dallas Arboretum and Botanical Garden",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Dallas_Arboretum_and_Botanical_Garden_September_2017_02_%28DeGolyer_House%29.jpg/1280px-Dallas_Arboretum_and_Botanical_Garden_September_2017_02_%28DeGolyer_House%29.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 13163091301,
+            "lat": 32.8256013,
+            "lon": -96.7142836,
+            "tags": {
+                "name": "Children's Adventure Garden Entry Plaza",
+                "operator": "Dallas Arboretum and Botanical Garden",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 13163091302,
+            "lat": 32.8259249,
+            "lon": -96.7148567,
+            "tags": {
+                "name": "The Moody Oasis",
+                "operator": "Dallas Arboretum and Botanical Garden",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 13163091304,
+            "lat": 32.8255857,
+            "lon": -96.7152172,
+            "tags": {
+                "name": "Petroglyph Walk",
+                "operator": "Dallas Arboretum and Botanical Garden",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 13163091426,
+            "lat": 32.8259407,
+            "lon": -96.7152461,
+            "tags": {
+                "name": "Walk in the Clouds",
+                "operator": "Dallas Arboretum and Botanical Garden",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 13163107726,
+            "lat": 32.8212697,
+            "lon": -96.7182459,
+            "tags": {
+                "name": "Cissy Thomsen Welcoming Water Wall",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Dallas_Arboretum_and_Botanical_Garden_September_2017_02_%28DeGolyer_House%29.jpg/1280px-Dallas_Arboretum_and_Botanical_Garden_September_2017_02_%28DeGolyer_House%29.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 13163107728,
+            "lat": 32.8233157,
+            "lon": -96.7175001,
+            "tags": {
+                "name": "DeGolyer Loggia",
+                "operator": "Dallas Arboretum and Botanical Garden",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Dallas_Arboretum_and_Botanical_Garden_September_2017_02_%28DeGolyer_House%29.jpg/1280px-Dallas_Arboretum_and_Botanical_Garden_September_2017_02_%28DeGolyer_House%29.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 13163125067,
+            "lat": 32.8261092,
+            "lon": -96.7151716,
+            "tags": {
+                "name": "Texas Skywalk",
+                "operator": "Dallas Arboretum and Botanical Garden",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 13173747570,
+            "lat": 32.738928,
+            "lon": -96.8141804,
+            "tags": {
+                "name": "Giraffe Feeding Station",
+                "operator": "Dallas Zoo",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/DallasZooEntrance.jpg/1280px-DallasZooEntrance.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 13173747575,
+            "lat": 32.73859,
+            "lon": -96.8145462,
+            "tags": {
+                "name": "Predator Encounter",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/DallasZooEntrance.jpg/1280px-DallasZooEntrance.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 13272406843,
+            "lat": 32.7914047,
+            "lon": -96.8007293,
+            "tags": {
+                "fixme": "This node needs to be placed where it goes within this building",
+                "museum": "history;money",
+                "name": "Economy in Action",
+                "opening_hours": "Mo-Fr 10:00-16:00; PH off",
+                "operator": "Federal Reserve Bank of Dallas",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Federal_Reserve_Bank_of_Dallas_2.jpg/1280px-Federal_Reserve_Bank_of_Dallas_2.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 27113100,
+            "lat": 32.7790597,
+            "lon": -96.7644394,
+            "tags": {
+                "addr:city": "Dallas",
+                "addr:housenumber": "3536",
+                "addr:postcode": "75210",
+                "addr:state": "TX",
+                "addr:street": "Grand Avenue",
+                "building": "yes",
+                "email": "info@aamdallas.org",
+                "fee": "no",
+                "museum": "art,history",
+                "name": "African American Museum",
+                "opening_hours": "Su-Mo off; Tu-Fr 11:00-17:00; Sa 10:00-17:00",
+                "opening_hours:url": "https://aamdallas.org/plan-your-visit/",
+                "phone": "+1-214-565-9026",
+                "tourism": "museum",
+                "website": "https://aamdallas.org/",
+                "wheelchair": "yes",
+                "wikidata": "Q4689666"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/African_American_Museum_August_2016_03.jpg/1280px-African_American_Museum_August_2016_03.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 27113148,
+            "lat": 32.7757417,
+            "lon": -96.7602802,
+            "tags": {
+                "addr:city": "Dallas",
+                "addr:housenumber": "3601",
+                "addr:postcode": "75210",
+                "addr:state": "TX",
+                "addr:street": "Martin Luther King Junior Boulevard",
+                "building": "yes",
+                "fee": "yes",
+                "name": "Texas Discovery Gardens",
+                "opening_hours": "10:00-17:00",
+                "phone": "+1 214-428-7476",
+                "tourism": "zoo",
+                "website": "https://txdg.org/",
+                "zoo": "butterfly"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Fair_Park_August_2016_70_%28Children%27s_Aquarium%29.jpg/1280px-Fair_Park_August_2016_70_%28Children%27s_Aquarium%29.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 28544595,
+            "lat": 32.7998477,
+            "lon": -96.8232885,
+            "tags": {
+                "addr:city": "Dallas",
+                "addr:housenumber": "2021",
+                "addr:postcode": "75207",
+                "addr:state": "TX",
+                "addr:street": "North Stemmons Freeway",
+                "building": "commercial",
+                "name": "Medieval Times Dinner & Tournament",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "way",
+            "id": 31265439,
+            "lat": 32.7882374,
+            "lon": -96.8001498,
+            "tags": {
+                "addr:city": "Dallas",
+                "addr:housenumber": "2001",
+                "addr:postcode": "75201",
+                "addr:state": "TX",
+                "addr:street": "Flora Street",
+                "building": "public",
+                "fee": "yes",
+                "height": "7",
+                "museum": "art",
+                "name": "Nasher Sculpture Center",
+                "opening_hours": "We-Su 11:00-17:00",
+                "phone": "+1-214-242-5100",
+                "tourism": "museum",
+                "website": "https://www.nashersculpturecenter.org/",
+                "wikidata": "Q921055",
+                "wikipedia": "en:Nasher Sculpture Center"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Nasher_Sculpture_Garden_Dallas.jpg/1280px-Nasher_Sculpture_Garden_Dallas.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 61732534,
+            "lat": 32.8423187,
+            "lon": -96.8354705,
+            "tags": {
+                "addr:city": "Dallas",
+                "addr:housenumber": "6911",
+                "addr:state": "TX",
+                "addr:street": "Lemmon Avenue",
+                "building": "museum",
+                "ele": "144",
+                "fee": "yes",
+                "museum": "aerospace",
+                "name": "Frontiers of Flight Museum",
+                "opening_hours": "Mo-Sa 10:00-17:00; Su 13:00-17:00",
+                "phone": "+1-214-350-3600",
+                "tourism": "museum",
+                "website": "https://www.flightmuseum.com",
+                "wheelchair": "yes",
+                "wikidata": "Q5506066",
+                "wikipedia": "en:Frontiers of Flight Museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Frontiers_of_Flight_Museum_December_2015_003.jpg/1280px-Frontiers_of_Flight_Museum_December_2015_003.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 219613587,
+            "lat": 32.8231519,
+            "lon": -96.7164959,
+            "tags": {
+                "addr:city": "Dallas",
+                "addr:housenumber": "8525",
+                "addr:postcode": "75218",
+                "addr:state": "TX",
+                "addr:street": "Garland Road",
+                "ele": "153",
+                "gnis:feature_id": "2014199",
+                "leisure": "park",
+                "name": "Dallas Arboretum and Botanical Garden",
+                "phone": "+1 214 515 6615",
+                "source": "USGS Geonames",
+                "tourism": "attraction",
+                "website": "http://www.dallasarboretum.org/",
+                "wheelchair": "yes",
+                "wikidata": "Q5211266",
+                "wikipedia": "en:Dallas Arboretum and Botanical Garden"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Dallas_Arboretum_and_Botanical_Garden_September_2017_02_%28DeGolyer_House%29.jpg/1280px-Dallas_Arboretum_and_Botanical_Garden_September_2017_02_%28DeGolyer_House%29.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 288392615,
+            "lat": 32.7831004,
+            "lon": -96.7661299,
+            "tags": {
+                "addr:city": "Dallas",
+                "addr:housenumber": "3801",
+                "addr:postcode": "75226",
+                "addr:state": "TX",
+                "addr:street": "Parry Avenue",
+                "building": "yes",
+                "ele": "140",
+                "fee": "yes",
+                "gnis:feature_id": "2014200",
+                "museum": "history",
+                "name": "The Dallas Firefighter's Museum",
+                "opening_hours": "We-Sa 09:00-16:00",
+                "phone": "+1 214-821-1500",
+                "source": "USGS Geonames",
+                "tourism": "museum",
+                "website": "https://www.dallasfiremuseum.com"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Dallas_Womens_Museum_exterior_1.jpg/1280px-Dallas_Womens_Museum_exterior_1.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 297311469,
+            "lat": 32.9912533,
+            "lon": -96.7691206,
+            "tags": {
+                "addr:city": "Dallas",
+                "addr:housenumber": "17717",
+                "addr:postcode": "75252",
+                "addr:state": "TX",
+                "addr:street": "Coit Road",
+                "branch": "Dallas",
+                "brand": "Adventure Landing",
+                "brand:wikidata": "Q4686512",
+                "check_date": "2025-09-19",
+                "contact:fax": "+1 972-931-1599",
+                "contact:phone": "+1 972-248-4653",
+                "contact:website": "https://dallas.adventurelanding.com/",
+                "name": "Adventure Landing",
+                "opening_hours": "Mo-Th 14:00-20:00; Fr 14:00-22:00; Sa 11:00-22:00; Su 11:00-20:00",
+                "payment:american_express": "yes",
+                "payment:cash": "yes",
+                "payment:discover_card": "yes",
+                "payment:mastercard": "yes",
+                "payment:visa": "yes",
+                "tourism": "theme_park"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Renner.png",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 450893357,
+            "lat": 32.7879102,
+            "lon": -96.7996372,
+            "tags": {
+                "addr:city": "Dallas",
+                "addr:housenumber": "2010",
+                "addr:postcode": "75201",
+                "addr:state": "TX",
+                "addr:street": "Flora Street",
+                "alt_name": "Crow Museum of Asian Art",
+                "building": "yes",
+                "fee": "no",
+                "museum": "art",
+                "name": "Trammell & Margaret Crow Collection of Asian Art",
+                "opening_hours": "Tu-Su 11:00-17:00; PH off",
+                "phone": "+1-972-883-6059",
+                "tourism": "museum",
+                "website": "https://crowmuseum.org",
+                "wikidata": "Q7833157",
+                "wikipedia": "en:Crow Museum of Asian Art"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Crow_Museum_of_Asian_Art.jpg/1280px-Crow_Museum_of_Asian_Art.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 465293821,
+            "lat": 32.7558159,
+            "lon": -96.8225762,
+            "tags": {
+                "addr:city": "Dallas",
+                "addr:housenumber": "1026",
+                "addr:postcode": "75208",
+                "addr:state": "TX",
+                "addr:street": "North Beckley Avenue",
+                "building": "residential",
+                "museum": "history",
+                "name": "Oswald Rooming House Museum",
+                "opening_hours": "\"by appointment\"",
+                "tourism": "museum",
+                "website": "https://www.oswaldroominghousemuseum.com/",
+                "wikidata": "Q22019871",
+                "wikipedia": "en:Lee_Harvey_Oswald_Rooming_House"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Dallas_downtown_skyline_seen_from_Lake_Cliff.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 467263970,
+            "lat": 32.6771641,
+            "lon": -96.8607153,
+            "tags": {
+                "building": "commercial",
+                "name": "Fred and Barbara Clark Telling Restoration Hangar",
+                "tourism": "museum"
+            }
+        },
+        {
+            "type": "way",
+            "id": 468090761,
+            "lat": 32.8408349,
+            "lon": -96.7154041,
+            "tags": {
+                "addr:city": "Dallas",
+                "addr:housenumber": "521",
+                "addr:postcode": "75218",
+                "addr:state": "TX",
+                "addr:street": "East Lawther Drive",
+                "building": "yes",
+                "museum": "history",
+                "name": "White Rock Bath House Cultural Center",
+                "opening_hours": "Tu-Sa 12:00-18:00",
+                "operator": "City of Dallas Office of Arts & Culture",
+                "operator:type": "public",
+                "phone": "+1 214-670-8723",
+                "source": "Local Knowledge",
+                "tourism": "museum",
+                "website": "https://bathhouse.dallasculture.org/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/fd/BathHouseCenterNight.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 618964796,
+            "lat": 32.7869244,
+            "lon": -96.8063719,
+            "tags": {
+                "addr:city": "Dallas",
+                "addr:housenumber": "2201",
+                "addr:postcode": "75201",
+                "addr:state": "TX",
+                "addr:street": "North Field Street",
+                "building": "yes",
+                "fee": "yes",
+                "height": "14",
+                "layer": "1",
+                "museum": "science",
+                "name": "Perot Museum of Nature and Science",
+                "opening_hours": "Mo 10:00-17:00; We-Sa 10:00-17:00; Su 11:00-17:00",
+                "phone": "+1-214-428-5555",
+                "tourism": "museum",
+                "website": "https://www.perotmuseum.org/",
+                "wikidata": "Q7169478"
+            }
+        },
+        {
+            "type": "way",
+            "id": 626288338,
+            "lat": 32.778481,
+            "lon": -96.760076,
+            "tags": {
+                "building": "roof",
+                "name": "Love Bugs",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/View_from_Top_o%27_Texas_Tower_September_2019_10_%28Cotton_Bowl%29.jpg/1280px-View_from_Top_o%27_Texas_Tower_September_2019_10_%28Cotton_Bowl%29.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 727595365,
+            "lat": 32.780773,
+            "lon": -96.8079359,
+            "tags": {
+                "addr:city": "Dallas",
+                "addr:housenumber": "300",
+                "addr:postcode": "75202",
+                "addr:state": "TX",
+                "addr:street": "North Houston Street",
+                "air_conditioning": "yes",
+                "building": "yes",
+                "building:levels": "3",
+                "fee": "yes",
+                "museum": "history",
+                "name": "Dallas Holocaust and Human Rights Museum",
+                "old_name": "Dallas Holocaust Museum",
+                "opening_hours": "Su-Mo 10:00-17:00",
+                "phone": "+1 214-741-7500",
+                "tourism": "museum",
+                "website": "https://www.dhhrm.org/",
+                "wikipedia": "en:Dallas Holocaust and Human Rights Museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/56/Dallas_Holocaust_and_Human_Rights_Museum_Logo.png",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 966333091,
+            "lat": 35.3152704,
+            "lon": -81.1769924,
+            "tags": {
+                "addr:city": "Dallas",
+                "addr:housenumber": "131",
+                "addr:postcode": "28034",
+                "addr:state": "NC",
+                "addr:street": "West Main Street",
+                "building": "yes",
+                "name": "Gaston County Museum",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Gaston_County_Jail_-_Ca._1848.jpg/1280px-Gaston_County_Jail_-_Ca._1848.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 1023155601,
+            "lat": 32.8694558,
+            "lon": -96.7458823,
+            "tags": {
+                "addr:postcode": "75231",
+                "brand": "Topgolf",
+                "brand:wikidata": "Q7824379",
+                "leisure": "sports_centre",
+                "name": "Topgolf",
+                "opening_hours": "Su-Th 09:00-23:00; Fr-Sa 09:00-01:00",
+                "phone": "+1-214-341-9600",
+                "sport": "golf",
+                "tourism": "attraction",
+                "website": "https://topgolf.com/us/dallas/"
+            }
+        },
+        {
+            "type": "way",
+            "id": 1082802775,
+            "lat": 32.8951356,
+            "lon": -96.9174518,
+            "tags": {
+                "addr:city": "Dallas",
+                "addr:housenumber": "1830",
+                "addr:postcode": "75229",
+                "addr:state": "TX",
+                "addr:street": "Royal Lane",
+                "building": "yes",
+                "building:levels": "1.5",
+                "charge": "18 USD",
+                "fee": "yes",
+                "museum": "history",
+                "name": "Exhibit Hall",
+                "opening_hours": "Tu-Sa 10:00-17:00",
+                "operator": "Institute for Creation Research",
+                "start_date": "2019-09-03",
+                "tourism": "museum"
+            }
+        },
+        {
+            "type": "way",
+            "id": 1283818609,
+            "lat": 32.6774067,
+            "lon": -96.8598051,
+            "tags": {
+                "building": "yes",
+                "name": "Henry B. Tippie National Aviation Education Center",
+                "tourism": "museum"
+            }
+        },
+        {
+            "type": "way",
+            "id": 1295494951,
+            "lat": 32.6776253,
+            "lon": -96.8602829,
+            "tags": {
+                "name": "Commemorative Air Force Headquarters",
+                "tourism": "museum"
+            }
+        },
+        {
+            "type": "way",
+            "id": 1428779225,
+            "lat": 32.7753578,
+            "lon": -96.8089444,
+            "tags": {
+                "addr:city": "Dallas",
+                "addr:housenumber": "300",
+                "addr:postcode": "75207",
+                "addr:state": "TX",
+                "addr:street": "Reunion Boulevard",
+                "architect": "Welton Becket & Associates",
+                "building": "tower",
+                "height": "170",
+                "layer": "1",
+                "min_height": "137",
+                "name": "Reunion Tower",
+                "name:en": "Reunion Tower",
+                "start_date": "1978-04-15",
+                "toilets:wheelchair": "yes",
+                "tourism": "attraction",
+                "website": "https://reuniontower.com/",
+                "wheelchair": "yes",
+                "wikidata": "Q1248619",
+                "wikipedia": "en:Reunion Tower"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Reunion-Tower-0262.jpg/1280px-Reunion-Tower-0262.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 1469221709,
+            "lat": 32.9030577,
+            "lon": -96.819754,
+            "tags": {
+                "landuse": "recreation_ground",
+                "leisure": "park",
+                "name": "Northaven Trail",
+                "operator": "City of Dallas Parks & Recreation",
+                "park:type": "linear",
+                "tourism": "attraction"
+            }
+        }
+    ]
+}

@@ -1,0 +1,385 @@
+{
+    "city_metadata": {
+        "city_name": "Tuscaloosa",
+        "state_code": "AL",
+        "state_full": "Alabama",
+        "city_summary": "Tuscaloosa ( TUS-kə-LOO-sə) is a city in and the county seat of Tuscaloosa County in west-central Alabama, United States, on the Black Warrior River where the Gulf Coastal and Piedmont plains meet. Alabama's fifth-most populous city, the population was 99,600 at the 2020 census, and was estimated to be 114,288 in 2025. It was known as Tuskaloosa until the early 20th century.",
+        "city_image": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Downtown_Tuscaloosa_Alabama.png",
+        "city_lat": 33.27638889,
+        "city_lon": -87.46944444,
+        "source": "wikipedia_verified_engine"
+    },
+    "attractions": [
+        {
+            "type": "node",
+            "id": 2665481258,
+            "lat": 33.2118855,
+            "lon": -87.5439801,
+            "tags": {
+                "check_date:opening_hours": "2023-02-09",
+                "fee": "yes",
+                "name": "Alabama Museum of Natural History",
+                "opening_hours": "Mo-Sa 10:00-16:30",
+                "tourism": "museum",
+                "website": "https://almnh.museums.ua.edu/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/SmithHallGallery.JPG/1280px-SmithHallGallery.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 3378186793,
+            "lat": 33.208292,
+            "lon": -87.573891,
+            "tags": {
+                "addr:city": "Tuscaloosa",
+                "addr:street": "28th Avenue",
+                "name": "Old Tavern",
+                "tourism": "museum",
+                "website": "https://www.historictuscaloosa.org/the-old-tavern"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Old_Alabama_Capitol_Tuscaloosa.jpg/1280px-Old_Alabama_Capitol_Tuscaloosa.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 4977953631,
+            "lat": 33.2142091,
+            "lon": -87.5718497,
+            "tags": {
+                "name": "Bama Belle",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/92/Hugh_R_Thomas_Bridge%2C_Tuscaloosa%2C_Alabama_-_20030426.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 130599178,
+            "lat": 33.2100785,
+            "lon": -87.5661434,
+            "tags": {
+                "addr:city": "Tuscaloosa",
+                "addr:housenumber": "2213",
+                "addr:postcode": "35401",
+                "addr:state": "AL",
+                "addr:street": "University Blvd",
+                "building": "yes",
+                "name": "Children's Hands-On Museum",
+                "tourism": "museum",
+                "website": "https://www.chomonline.org/"
+            }
+        },
+        {
+            "type": "way",
+            "id": 235762941,
+            "lat": 33.2118779,
+            "lon": -87.5439031,
+            "tags": {
+                "building": "yes",
+                "building:levels": "3",
+                "fee": "yes",
+                "name": "Smith Hall",
+                "opening_hours": "Mo-Sa 10:00-16:30",
+                "operator": "The University of Alabama",
+                "tourism": "museum",
+                "wheelchair": "yes"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/SmithHallGallery.JPG/1280px-SmithHallGallery.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 262717856,
+            "lat": 33.2066441,
+            "lon": -87.5396432,
+            "tags": {
+                "building": "yes",
+                "name": "Paul W. Bryant Museum",
+                "opening_hours": "09:00-16:00",
+                "tourism": "museum",
+                "wheelchair": "yes",
+                "wikidata": "Q7154180"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Bryant_Museum.JPG/1280px-Bryant_Museum.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 615041069,
+            "lat": 33.2094174,
+            "lon": -87.5669405,
+            "tags": {
+                "addr:city": "Tuscaloosa",
+                "addr:housenumber": "2308",
+                "addr:postcode": "35401",
+                "addr:state": "AL",
+                "addr:street": "6th Street",
+                "building": "yes",
+                "name": "Paul R. Jones Museum",
+                "opening_hours": "Mo-Th,Fr[2-5] 09:00-17:00; Fr[1] 12:00-20:00",
+                "operator": "University of Alabama College of Arts & Sciences",
+                "tourism": "museum",
+                "website": "https://paulrjonescollection.as.ua.edu/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/62/Tuscaloosa_Greensboro_Avenue.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 1013958202,
+            "lat": 33.2039979,
+            "lon": -87.5692644,
+            "tags": {
+                "addr:city": "Tuscaloosa",
+                "addr:housenumber": "2601",
+                "addr:postcode": "35401",
+                "addr:state": "AL",
+                "addr:street": "Paul W Bryant Dr",
+                "building": "yes",
+                "name": "Murphy-Collins House",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/First_African_Baptist_Church_-_Front_%28Tuscaloosa%2C_Alabama%29.jpg/1280px-First_African_Baptist_Church_-_Front_%28Tuscaloosa%2C_Alabama%29.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 31035717,
+            "lat": 33.21219444,
+            "lon": -87.57476944,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/44/Tuscaloosa_Amphitheater.jpg",
+            "description": "The Mercedes-Benz Amphitheater is an outdoor amphitheater in Tuscaloosa, Alabama that sits beautifully on 15 acres amidst the banks of the Black Warrior River.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Mercedes-Benz Amphitheater",
+                "wikipedia": "en:Mercedes-Benz Amphitheater",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 2026021,
+            "lat": 34.707,
+            "lon": -86.633,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Huntsville_Botanical_Garden_Guest_Center_2019.jpg/1280px-Huntsville_Botanical_Garden_Guest_Center_2019.jpg",
+            "description": "The Huntsville Botanical Garden is a 118 acres (480,000 m2) botanical garden located at 4747 Bob Wallace Avenue, Huntsville, Alabama, near the U.S. Space & Rocket Center.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Huntsville Botanical Garden",
+                "wikipedia": "en:Huntsville Botanical Garden",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 5995393,
+            "lat": 33.1948,
+            "lon": -87.5229,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/University_Mall_Tuscaloosa%2C_AL_%2815247278708%29.jpg/1280px-University_Mall_Tuscaloosa%2C_AL_%2815247278708%29.jpg",
+            "description": "University Mall is the largest mall in western Alabama.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "University Mall (Alabama)",
+                "wikipedia": "en:University Mall (Alabama)",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 4441006,
+            "lat": 34.09305556,
+            "lon": -87.61472222,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Natural_Bridge_Park_%28Alabama%29_10.jpg/1280px-Natural_Bridge_Park_%28Alabama%29_10.jpg",
+            "description": "Natural Bridge Park, near the town of Natural Bridge, Alabama, is a privately owned park in Winston County that has been open since 1954.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Natural Bridge Park",
+                "wikipedia": "en:Natural Bridge Park",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 8360443,
+            "lat": 37.5147,
+            "lon": -119.59494,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Wawona_tree1.jpg/1280px-Wawona_tree1.jpg",
+            "description": "The Wawona Tree, also known as the Wawona Tunnel Tree, was a famous giant sequoia that stood in Mariposa Grove, Yosemite National Park, California, United States, until February 1969.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Wawona Tree",
+                "wikipedia": "en:Wawona Tree",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 988975,
+            "lat": 34.71138889,
+            "lon": -86.65416667,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Ussrc_logo.png",
+            "description": "The U.S. Space & Rocket Center in Huntsville, Alabama is a museum operated by the government of Alabama, showcasing rockets, achievements, and artifacts of the U.S. space program.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "U.S. Space & Rocket Center",
+                "wikipedia": "en:U.S. Space & Rocket Center",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 25262223,
+            "lat": 33.21222222,
+            "lon": -87.54583333,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Ua_clark_hall.jpg",
+            "description": "The Gorgas–Manly Historic District is a historic district that includes 12 acres (4.9 ha) and eight buildings on the campus of the University of Alabama in Tuscaloosa, Alabama.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Gorgas–Manly Historic District",
+                "wikipedia": "en:Gorgas–Manly Historic District",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 303,
+            "lat": 33,
+            "lon": -87,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Alabama.svg/1280px-Flag_of_Alabama.svg.png",
+            "description": "Alabama ( , AL-ə-BAM-ə) is a state in the Southeastern and Deep Southern regions of the United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Alabama",
+                "wikipedia": "en:Alabama",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 22997103,
+            "lat": 33.17071389,
+            "lon": -87.52085556,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/McFarland_Mall_Tuscaloosa%2C_AL_%2815433273382%29.jpg/1280px-McFarland_Mall_Tuscaloosa%2C_AL_%2815433273382%29.jpg",
+            "description": "McFarland Mall was a regional 497,000-square-foot (46,200 m2) L-shaped shopping mall on Skyland Boulevard (U.S. Route 11) in Tuscaloosa, Alabama.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "McFarland Mall",
+                "wikipedia": "en:McFarland Mall",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 23956501,
+            "lat": 34,
+            "lon": -83,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Raleigh_Skyline.jpg/1280px-Raleigh_Skyline.jpg",
+            "description": "The Piedmont Atlantic megaregion, or Southeast Megalopolis, is a neologism created by the Regional Plan Association for an area of the Southeastern United States that contains parts of the states of Alabama, Georgia, Tennessee, South Carolina, and North Carolina.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Piedmont Atlantic megaregion",
+                "wikipedia": "en:Piedmont Atlantic megaregion",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 50248019,
+            "lat": 38.6222,
+            "lon": -84.5923,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/11/Noah%27s_Ark_Encounter.jpg",
+            "description": "Ark Encounter is a Christian theme park that opened in Williamstown, Kentucky, United States, in 2016.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Ark Encounter",
+                "wikipedia": "en:Ark Encounter",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 1956212,
+            "lat": 34.68,
+            "lon": -83.68083333,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/SAUTEE_VALLEY_HISTORIC_DISTRICT%2C_WHITE_COUNTY%2C_GA.jpg/1280px-SAUTEE_VALLEY_HISTORIC_DISTRICT%2C_WHITE_COUNTY%2C_GA.jpg",
+            "description": "Sautee Nacoochee (or Sautee-Nacoochee) is an unincorporated community and  census-designated place in White County, Georgia, United States, near Sautee Creek in the Appalachian foothills of northeast Georgia, approximately 95 miles (153 km) north of Atlanta.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Sautee Nacoochee, Georgia",
+                "wikipedia": "en:Sautee Nacoochee, Georgia",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 949411,
+            "lat": 36.10678,
+            "lon": -93.13221,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/05/Dogpatch_USA%27s_old_entrance_sign_%28November_2008%29.jpg",
+            "description": "Dogpatch USA was a theme park located in northwest Arkansas along State Highway 7 between the cities of Harrison and Jasper, an area known today as Marble Falls.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Dogpatch USA",
+                "wikipedia": "en:Dogpatch USA",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 3565457,
+            "lat": 10.6,
+            "lon": -61.1,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Flag_of_Trinidad_and_Tobago.svg/1280px-Flag_of_Trinidad_and_Tobago.svg.png",
+            "description": "Trinidad and Tobago, officially the Republic of Trinidad and Tobago, is the southernmost island country in the Caribbean, comprising the main islands of Trinidad and Tobago, along with several smaller islets.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Trinidad and Tobago",
+                "wikipedia": "en:Trinidad and Tobago",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 26046009,
+            "lat": 33.52388889,
+            "lon": -86.81194444,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/32/KamiconSeason10Logo.png",
+            "description": "Kami-Con is an annual three-day anime convention held during January or February in Birmingham, Alabama at the Birmingham–Jefferson Convention Complex by the Bama SOS Brigade, a student organization from the University of Alabama.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Kami-Con",
+                "wikipedia": "en:Kami-Con",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 104587,
+            "lat": 34.75833333,
+            "lon": -87.63611111,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Colbert_County_Alabama_Incorporated_and_Unincorporated_areas_Muscle_Shoals_Highlighted_0153016.svg/1280px-Colbert_County_Alabama_Incorporated_and_Unincorporated_areas_Muscle_Shoals_Highlighted_0153016.svg.png",
+            "description": "Muscle Shoals is the largest city in Colbert County, Alabama, United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Muscle Shoals, Alabama",
+                "wikipedia": "en:Muscle Shoals, Alabama",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 100803,
+            "lat": 31.88916667,
+            "lon": -85.15638889,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/MacMonnie%27s_Fountain_Eufaula_Alabama.JPG/1280px-MacMonnie%27s_Fountain_Eufaula_Alabama.JPG",
+            "description": "Eufaula  is the largest city in Barbour County, Alabama, United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Eufaula, Alabama",
+                "wikipedia": "en:Eufaula, Alabama",
+                "tourism": "attraction"
+            }
+        }
+    ]
+}

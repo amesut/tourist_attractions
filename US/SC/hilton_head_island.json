@@ -1,0 +1,361 @@
+{
+    "city_metadata": {
+        "city_name": "Hilton Head Island",
+        "state_code": "SC",
+        "state_full": "South Carolina",
+        "city_summary": "Hilton Head Island (sometimes referred to as simply Hilton Head) is a resort town in Beaufort County, South Carolina, United States. It is a barrier island within the South Carolina Lowcountry, located 20 miles (32 km) northeast of Savannah, Georgia, and 95 miles (153 km) southwest of Charleston. The year-round population was 37,661 at the 2020 census, although during the peak of summer vacation season the population can swell to 150,000.",
+        "city_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Harbour_Town_July_2007.jpg/1280px-Harbour_Town_July_2007.jpg",
+        "city_lat": 32.17888889,
+        "city_lon": -80.75694444,
+        "source": "wikipedia_verified_engine"
+    },
+    "attractions": [
+        {
+            "type": "node",
+            "id": 6418740688,
+            "lat": 32.1769253,
+            "lon": -80.7302247,
+            "tags": {
+                "leisure": "miniature_golf",
+                "name": "Pirate’s Island Adventure Golf",
+                "tourism": "attraction",
+                "website": "https://www.piratesislandgolf.com/"
+            }
+        },
+        {
+            "type": "node",
+            "id": 6419611386,
+            "lat": 32.138433,
+            "lon": -80.8112954,
+            "tags": {
+                "name": "Liberty Oak Tree",
+                "tourism": "attraction",
+                "wheelchair": "limited"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Harbour_Town_July_2007.jpg/1280px-Harbour_Town_July_2007.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 488786843,
+            "lat": 32.2353797,
+            "lon": -80.677521,
+            "tags": {
+                "name": "Fort Walker Steamgun",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "way",
+            "id": 973210481,
+            "lat": 32.2270336,
+            "lon": -80.7416813,
+            "tags": {
+                "addr:city": "Hilton Head Island",
+                "addr:housenumber": "12",
+                "addr:postcode": "29926",
+                "addr:state": "SC",
+                "addr:street": "Georgianna Drive",
+                "building": "yes",
+                "name": "Gullah Museum of Hilton Head Island",
+                "tourism": "museum"
+            }
+        },
+        {
+            "type": "way",
+            "id": 981872700,
+            "lat": 32.2113192,
+            "lon": -80.743989,
+            "tags": {
+                "building": "yes",
+                "fee": "yes",
+                "name": "Coastal Discovery Museum",
+                "opening_hours": "Mo-Sa 09:00-16:30; Su 11:00-15:00",
+                "tourism": "museum",
+                "website": "https://www.coastaldiscovery.org/"
+            }
+        },
+        {
+            "type": "way",
+            "id": 1080448805,
+            "lat": 32.1676824,
+            "lon": -80.7415908,
+            "tags": {
+                "leisure": "miniature_golf",
+                "name": "Legendary Golf",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "way",
+            "id": 1119571161,
+            "lat": 32.1441813,
+            "lon": -80.7550174,
+            "tags": {
+                "addr:city": "Hilton Head Island",
+                "addr:housenumber": "80",
+                "addr:postcode": "29928",
+                "addr:state": "SC",
+                "addr:street": "Nassau Street",
+                "building": "yes",
+                "museum": "children",
+                "name": "The Sandbox",
+                "opening_hours": "Mo-Sa 10:00-17:00",
+                "phone": "+1-843-842-7645",
+                "tourism": "museum"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 134404,
+            "lat": 32.17888889,
+            "lon": -80.75694444,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Harbour_Town_July_2007.jpg/1280px-Harbour_Town_July_2007.jpg",
+            "description": "Hilton Head Island (sometimes referred to as simply Hilton Head) is a resort town in Beaufort County, South Carolina, United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Hilton Head Island, South Carolina",
+                "wikipedia": "en:Hilton Head Island, South Carolina",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 2200574,
+            "lat": 32.136,
+            "lon": -80.81,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Harbour_Town_Golf%2C_Hilton_Head%2C_South_Carolina_-_5111121625.jpg/1280px-Harbour_Town_Golf%2C_Hilton_Head%2C_South_Carolina_-_5111121625.jpg",
+            "description": "Harbour Town Golf Links is a public golf course in the eastern United States, located in South Carolina in Sea Pines Plantation on Hilton Head Island in Beaufort County.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Harbour Town Golf Links",
+                "wikipedia": "en:Harbour Town Golf Links",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 18802540,
+            "lat": 32.13861111,
+            "lon": -80.81277778,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Harbour_Town_July_2007.jpg/1280px-Harbour_Town_July_2007.jpg",
+            "description": "The Harbour Town Lighthouse is a lighthouse at the Harbour Town Marina at Hilton Head Island, South Carolina built between 1969 and 1970.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Harbour Town Light",
+                "wikipedia": "en:Harbour Town Light",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 134402,
+            "lat": 32.23055556,
+            "lon": -80.93055556,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Bluffton_Montage_2012.png",
+            "description": "Bluffton is a town in southern Beaufort County, South Carolina, United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Bluffton, South Carolina",
+                "wikipedia": "en:Bluffton, South Carolina",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 91882,
+            "lat": 32.43,
+            "lon": -81.02,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Jasper_County_Courthouse%2C_Ridgeland%2C_SC.jpg/1280px-Jasper_County_Courthouse%2C_Ridgeland%2C_SC.jpg",
+            "description": "Jasper County is the southernmost county in the U.S. state of South Carolina.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Jasper County, South Carolina",
+                "wikipedia": "en:Jasper County, South Carolina",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 91903,
+            "lat": 32.36,
+            "lon": -80.69,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/The_Arsenal_-_Beaufort%2C_SC.jpg/1280px-The_Arsenal_-_Beaufort%2C_SC.jpg",
+            "description": "Beaufort County ( BEW-fərt) is a county in the U.S. state of South Carolina.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Beaufort County, South Carolina",
+                "wikipedia": "en:Beaufort County, South Carolina",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 4741339,
+            "lat": 32.15277778,
+            "lon": -80.7675,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Harbour_Town_July_2007.jpg/1280px-Harbour_Town_July_2007.jpg",
+            "description": "The Sea Pines Resort or Sea Pines is located in Sea Pines Plantation, a 5,200-acre private residential gated community located on the southern tip of the island which comprises the town of Hilton Head Island, South Carolina.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Sea Pines Resort",
+                "wikipedia": "en:Sea Pines Resort",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 134401,
+            "lat": 32.43333333,
+            "lon": -80.68333333,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Bay_Street_Downtown_Beaufort.JPG/1280px-Bay_Street_Downtown_Beaufort.JPG",
+            "description": "Beaufort ( BEW-fərt) is a city in Beaufort County, South Carolina, United States, and its county seat.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Beaufort, South Carolina",
+                "wikipedia": "en:Beaufort, South Carolina",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 134539,
+            "lat": 32.28944444,
+            "lon": -81.02861111,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/20/Hardeeville-US17.jpg",
+            "description": "Hardeeville is a city in Jasper and Beaufort counties in the U.S. state of South Carolina.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Hardeeville, South Carolina",
+                "wikipedia": "en:Hardeeville, South Carolina",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 11166710,
+            "lat": 34.0187,
+            "lon": -77.9061,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/New_Hanover_County_North_Carolina_incorporated_and_unincorporated_areas_Carolina_Beach_highlighted.svg/1280px-New_Hanover_County_North_Carolina_incorporated_and_unincorporated_areas_Carolina_Beach_highlighted.svg.png",
+            "description": "Pleasure Island is a coastal barrier island in Southeastern North Carolina, United States, just south of the City of Wilmington.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Pleasure Island (North Carolina)",
+                "wikipedia": "en:Pleasure Island (North Carolina)",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 1592621,
+            "lat": 32.31805556,
+            "lon": -80.48888889,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Fripp_Island_and_Harbor_Island%2C_South_Carolina.jpg",
+            "description": "Fripp Island is a 6.546 sq mi (16.954 km2) barrier island and census-designated place (CDP) located along the Atlantic coast of the lowcountry part of South Carolina.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Fripp Island, South Carolina",
+                "wikipedia": "en:Fripp Island, South Carolina",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 27956,
+            "lat": 34,
+            "lon": -81,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Flag_of_South_Carolina.svg/1280px-Flag_of_South_Carolina.svg.png",
+            "description": "South Carolina (  KARR-ə-LY-nə) is a state in the Southeastern, South Atlantic and Deep South regions of the United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "South Carolina",
+                "wikipedia": "en:South Carolina",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 61024,
+            "lat": 32.81388889,
+            "lon": -79.93194444,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/East_Battery_Street_Charleston_Aug2010.jpg/1280px-East_Battery_Street_Charleston_Aug2010.jpg",
+            "description": "Charleston is the most populous city in the U.S. state of South Carolina.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Charleston, South Carolina",
+                "wikipedia": "en:Charleston, South Carolina",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 84493,
+            "lat": 32.08111111,
+            "lon": -81.09111111,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Savannah.tif/lossy-page1-1280px-Savannah.tif.jpg",
+            "description": "Savannah ( sə-VAN-ə) is a city in, and county seat of, Chatham County, Georgia, United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Savannah, Georgia",
+                "wikipedia": "en:Savannah, Georgia",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 1352895,
+            "lat": 28.54,
+            "lon": -81.38055556,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Church_Street_Station_Orlando_-_54118164034.jpg/1280px-Church_Street_Station_Orlando_-_54118164034.jpg",
+            "description": "Church Street Station, also called the Old Orlando Railroad Depot, is a historic train station and commercial development in Orlando, Florida.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Church Street Station",
+                "wikipedia": "en:Church Street Station",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 1151139,
+            "lat": 33.1260618,
+            "lon": -80.0087746,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Hunting_Island_2.jpg/1280px-Hunting_Island_2.jpg",
+            "description": "The Lowcountry (sometimes Low Country or just low country) is a geographic and cultural region along South Carolina's coast, including the Sea Islands.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "South Carolina Lowcountry",
+                "wikipedia": "en:South Carolina Lowcountry",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 57851,
+            "lat": 34.00055556,
+            "lon": -81.03472222,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Fall_skyline_of_Columbia_SC_from_Arsenal_Hill.jpg/1280px-Fall_skyline_of_Columbia_SC_from_Arsenal_Hill.jpg",
+            "description": "Columbia is the capital city of the U.S. state of South Carolina.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Columbia, South Carolina",
+                "wikipedia": "en:Columbia, South Carolina",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 14891851,
+            "lat": 34.033,
+            "lon": -81.092,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Dutch_Square_Mall_Columbia%2C_SC_December_2017_%2825756068277%29.jpg/1280px-Dutch_Square_Mall_Columbia%2C_SC_December_2017_%2825756068277%29.jpg",
+            "description": "Dutch Square is an enclosed shopping mall located in the city of Columbia, South Carolina.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Dutch Square",
+                "wikipedia": "en:Dutch Square",
+                "tourism": "attraction"
+            }
+        }
+    ]
+}

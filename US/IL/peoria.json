@@ -1,0 +1,416 @@
+{
+    "city_metadata": {
+        "city_name": "Peoria",
+        "state_code": "IL",
+        "state_full": "Illinois",
+        "city_summary": "Peoria ( pee-OR-ee-ə) is a city in Peoria County, Illinois, United States, and its county seat. Located on the Illinois River, the city had a population of 113,150 as of the 2020 census, making it the eighth-most populous city in Illinois. It is the principal city of the Peoria metropolitan area in Central Illinois, consisting of Fulton, Marshall, Peoria, Stark, Tazewell, and Woodford counties and had a combined population of 402,391 in 2020.",
+        "city_image": "https://upload.wikimedia.org/wikipedia/commons/8/89/Peoria_City_Hall.JPG",
+        "city_lat": 40.69277778,
+        "city_lon": -89.59055556,
+        "source": "wikipedia_verified_engine"
+    },
+    "attractions": [
+        {
+            "type": "node",
+            "id": 9596391950,
+            "lat": 40.7146501,
+            "lon": -89.5733561,
+            "tags": {
+                "addr:city": "Peoria",
+                "addr:housenumber": "2218",
+                "addr:postcode": "61603",
+                "addr:state": "IL",
+                "addr:street": "North Prospect Road",
+                "fee": "yes",
+                "museum": "children",
+                "name": "Peoria PlayHouse Children's Museum",
+                "official_name": "Peoria PlayHouse Children's Museum",
+                "opening_hours": "We-Sa 09:00-16:00 open; Su 12:00-17:00 open; Tu 09:00-12:00 open \"members\"",
+                "phone": "+1 309-323-6900",
+                "short_name": "Peoria PlayHouse",
+                "smoking": "no",
+                "tourism": "museum",
+                "website": "https://peoriaplayhouse.org/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Peoria_Zoo_20241016_0037.jpg/1280px-Peoria_Zoo_20241016_0037.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 64373148,
+            "lat": 40.7045188,
+            "lon": -89.5854851,
+            "tags": {
+                "addr:city": "Peoria",
+                "addr:housenumber": "942",
+                "addr:postcode": "61603",
+                "addr:state": "IL",
+                "addr:street": "Northeast Glen Oak Avenue",
+                "alt_name": "Judge John C. Flanagan Residence",
+                "building": "house",
+                "heritage": "2",
+                "historic": "heritage",
+                "museum": "local",
+                "name": "John C. Flanagan House Museum",
+                "operator": "Peoria Historical Society",
+                "operator:type": "private_non_profit",
+                "ref:nrhp": "75000670",
+                "start_date": "1837",
+                "tourism": "museum",
+                "website": "https://www.peoriahistoricalsociety.com/houses",
+                "wikidata": "Q6224409"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/John_C._Flanagan_House.JPG/1280px-John_C._Flanagan_House.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 64373635,
+            "lat": 40.7185312,
+            "lon": -89.5751838,
+            "tags": {
+                "addr:city": "Peoria",
+                "addr:housenumber": "2520",
+                "addr:postcode": "61603",
+                "addr:state": "IL",
+                "addr:street": "North Prospect Road",
+                "building": "greenhouse",
+                "leisure": "garden",
+                "name": "Luthy Botanical Gardens greenhouse",
+                "phone": "+1 309-686-3362",
+                "tourism": "attraction",
+                "website": "https://peoriaparks.org/facility/luthy/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Luthy_Botanic_Gardens_Peoria.jpg/1280px-Luthy_Botanic_Gardens_Peoria.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 64504778,
+            "lat": 40.6854172,
+            "lon": -89.6162119,
+            "tags": {
+                "addr:city": "Peoria",
+                "addr:housenumber": "309",
+                "addr:postcode": "61605",
+                "addr:state": "IL",
+                "addr:street": "South DuSable Street",
+                "building": "school",
+                "layer": "1",
+                "name": "African American Hall of Fame",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/John_C_Proctor_Recreation_Center_Peoria.JPG/1280px-John_C_Proctor_Recreation_Center_Peoria.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 64507703,
+            "lat": 40.6939896,
+            "lon": -89.6118522,
+            "tags": {
+                "addr:city": "Peoria",
+                "addr:housenumber": "1212",
+                "addr:postcode": "61606",
+                "addr:state": "IL",
+                "addr:street": "West Moss Avenue",
+                "building": "house",
+                "building:levels": "3",
+                "museum": "local",
+                "name": "Pettingill-Morron House",
+                "opening_hours": "Th 10:00-14:00",
+                "operator": "Peoria Historical Society",
+                "ref:nrhp": "76000724",
+                "start_date": "1868",
+                "tourism": "museum",
+                "website": "https://www.peoriahistoricalsociety.com/houses",
+                "wikidata": "Q7179347",
+                "wikimedia_commons": "File:Pettingill-Morron House.JPG"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Pettingill-Morron_House.JPG/1280px-Pettingill-Morron_House.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 283675658,
+            "lat": 40.7174813,
+            "lon": -89.5737857,
+            "tags": {
+                "ele": "198",
+                "gnis:feature_id": "1839998",
+                "name": "Peoria Zoo",
+                "old_name": "Glen Oak Zoo",
+                "operator": "Peoria Park District",
+                "toilets:wheelchair": "yes",
+                "tourism": "zoo",
+                "wheelchair": "yes",
+                "wikidata": "Q7166157",
+                "wikipedia": "en:Peoria Zoo"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Peoria_Zoo_20241016_0037.jpg/1280px-Peoria_Zoo_20241016_0037.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 283687152,
+            "lat": 40.6900517,
+            "lon": -89.5886317,
+            "tags": {
+                "addr:city": "Peoria",
+                "addr:housenumber": "110",
+                "addr:postcode": "61602",
+                "addr:state": "IL",
+                "addr:street": "Southwest Washington Street",
+                "building": "commercial",
+                "description": "Ticket sales end at 15:30.",
+                "email": "caterpillarvisitorscenter@cat.com",
+                "name": "The Doug Oberhelman Caterpillar Visitors Center",
+                "opening_hours": "Mo-Sa 10:00-17:00",
+                "operator": "Caterpillar, Inc.",
+                "phone": "+1-309-675-0606",
+                "tourism": "attraction",
+                "website": "https://www.caterpillar.com/en/company/visitors-center.html"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/9a/SprtPeoriaGrandExcursion06282004.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 3361008,
+            "lat": 40.70222222,
+            "lon": -89.55444444,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Peoria_Lake_Cooper_Park_South_20231027_0037.jpg/1280px-Peoria_Lake_Cooper_Park_South_20231027_0037.jpg",
+            "description": "Peoria Lake, sometimes called Lower Peoria Lake, is a section of the Illinois River between Peoria in Peoria County, Illinois and East Peoria in Tazewell County, Illinois.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Peoria Lake",
+                "wikipedia": "en:Peoria Lake",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 1937019,
+            "lat": 40.6875,
+            "lon": -89.5975,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e6/OBrienFieldPeoria.jpg",
+            "description": "Dozer Park, originally O'Brien Field and then Chiefs Stadium, is a baseball stadium located in downtown Peoria, Illinois.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Dozer Park",
+                "wikipedia": "en:Dozer Park",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 112098,
+            "lat": 40.715,
+            "lon": -89.2775,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Eureka_College_Main_Building_flickr.jpg/1280px-Eureka_College_Main_Building_flickr.jpg",
+            "description": "Eureka is a city in and the county seat of Woodford County, Illinois, United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Eureka, Illinois",
+                "wikipedia": "en:Eureka, Illinois",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 10688481,
+            "lat": 40.69444444,
+            "lon": -89.61222222,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Pettingill-Morron_House.JPG/1280px-Pettingill-Morron_House.JPG",
+            "description": "The Pettengill–Morron House, or simply Morron House, is a historic mansion located in the  city of Peoria, Illinois, United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Pettengill–Morron House",
+                "wikipedia": "en:Pettengill–Morron House",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 13961748,
+            "lat": 41.89102778,
+            "lon": -87.63288889,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/61/Michael_jordans_restaurant.jpg",
+            "description": "Michael Jordan's Restaurant was a multi-level restaurant and sports bar located at 500 N. LaSalle Street in Chicago, Illinois, United States of America.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Michael Jordan's Restaurant",
+                "wikipedia": "en:Michael Jordan's Restaurant",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 15370350,
+            "lat": 40.89305556,
+            "lon": -89.50277778,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Summer_Camp_Music_Festival_Logo.png/1280px-Summer_Camp_Music_Festival_Logo.png",
+            "description": "The Summer Camp Music Festival is a multi-day music festival created by Jay Goldberg Events & Entertainment and held annually on Memorial Day Weekend at Three Sisters Park in Chillicothe, Illinois.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Summer Camp Music Festival",
+                "wikipedia": "en:Summer Camp Music Festival",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 6886,
+            "lat": 41.88194444,
+            "lon": -87.62777778,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Chicago_River_ferry_b.jpg/1280px-Chicago_River_ferry_b.jpg",
+            "description": "Chicago is the most populous city in the U.S. state of Illinois and in the Midwestern United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Chicago",
+                "wikipedia": "en:Chicago",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 111206,
+            "lat": 40.39694444,
+            "lon": -90.15555556,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/US24_East_-_IL100_North_with_IL97_North_Signs_%2841149630870%29.jpg/1280px-US24_East_-_IL100_North_with_IL97_North_Signs_%2841149630870%29.jpg",
+            "description": "Lewistown is a city and the county seat of Fulton County, Illinois, United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Lewistown, Illinois",
+                "wikipedia": "en:Lewistown, Illinois",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 132982,
+            "lat": 40.60166667,
+            "lon": -75.47722222,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/2018_-_Center_Square_-_Looking_Northeast_-_12_Oct_-_Allentown_PA.jpg/1280px-2018_-_Center_Square_-_Looking_Northeast_-_12_Oct_-_Allentown_PA.jpg",
+            "description": "Allentown is a city in eastern Pennsylvania, United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Allentown, Pennsylvania",
+                "wikipedia": "en:Allentown, Pennsylvania",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 57706,
+            "lat": 39.7975,
+            "lon": -89.645,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Dana-Thomas_House%2C_Lawrence_Avenue_and_4th_Street%2C_Springfield%2C_IL_-_53322374502.jpg/1280px-Dana-Thomas_House%2C_Lawrence_Avenue_and_4th_Street%2C_Springfield%2C_IL_-_53322374502.jpg",
+            "description": "Springfield is the capital city of the U.S. state of Illinois.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Springfield, Illinois",
+                "wikipedia": "en:Springfield, Illinois",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 577356,
+            "lat": 40.1,
+            "lon": -88.25,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Champaign-Night.jpg",
+            "description": "The Champaign–Urbana metropolitan area, also known as Champaign–Urbana and Urbana–Champaign as well as Chambana (colloquially), is a metropolitan area in east-central Illinois.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Champaign–Urbana",
+                "wikipedia": "en:Champaign–Urbana",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 111430,
+            "lat": 41.36388889,
+            "lon": -89.10833333,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Downtown_La_Salle.jpg/1280px-Downtown_La_Salle.jpg",
+            "description": "La Salle or LaSalle is a city in LaSalle County, Illinois, United States, located at the intersection of Interstates 39 and 80.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "La Salle, Illinois",
+                "wikipedia": "en:La Salle, Illinois",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 1823994,
+            "lat": 41.88388889,
+            "lon": -87.625,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Chicago_Cultural_Center_%2851574888388%29.jpg/1280px-Chicago_Cultural_Center_%2851574888388%29.jpg",
+            "description": "The Chicago Cultural Center, opened in 1897, is a national landmark operated by Chicago's Department of Cultural Affairs and Special Events.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Chicago Cultural Center",
+                "wikipedia": "en:Chicago Cultural Center",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 30713414,
+            "lat": 41.123,
+            "lon": -88.8245,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Streator_Station.jpg/1280px-Streator_Station.jpg",
+            "description": "Streator station was a train station located in Streator, Illinois, United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Streator station",
+                "wikipedia": "en:Streator station",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 8932480,
+            "lat": 41.7363,
+            "lon": -88.2948,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Phillips_Park_Zoo_Entrance_-_September_2018.jpg/1280px-Phillips_Park_Zoo_Entrance_-_September_2018.jpg",
+            "description": "Phillips Park Zoo is located on the grounds of Phillips Park, in Aurora, Illinois, United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Phillips Park Zoo",
+                "wikipedia": "en:Phillips Park Zoo",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 529750,
+            "lat": 44.64166667,
+            "lon": -72.67111111,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/59/Johnson_state_college_textlogo.png",
+            "description": "Johnson State College was a public liberal arts college in Johnson, Vermont, United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Johnson State College",
+                "wikipedia": "en:Johnson State College",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 4195899,
+            "lat": 41.08777778,
+            "lon": -84.93722222,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/NKP_765.jpg/1280px-NKP_765.jpg",
+            "description": "Nickel Plate Road 765 is a preserved S-2 class 2-8-4 \"Berkshire\" type steam locomotive, built in September 1944 by the Lima Locomotive Works (LLW) for the New York, Chicago & St.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Nickel Plate Road 765",
+                "wikipedia": "en:Nickel Plate Road 765",
+                "tourism": "attraction"
+            }
+        }
+    ]
+}

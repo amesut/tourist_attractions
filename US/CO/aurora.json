@@ -1,0 +1,739 @@
+{
+    "city_metadata": {
+        "city_name": "Aurora",
+        "state_code": "CO",
+        "state_full": "Colorado",
+        "city_summary": "Aurora () is a home rule city located in Arapahoe, Adams, and Douglas counties, Colorado, United States. The city's population was 386,261 at the 2020 census, with 336,035 in Arapahoe County, 47,720 in Adams County, and 2,506 in Douglas County. It is the third-most-populous city in the state of Colorado and the 51st-most-populous city in the United States.",
+        "city_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Aurora%2C_CO%2C_USA_-_panoramio_%281%29.jpg/1280px-Aurora%2C_CO%2C_USA_-_panoramio_%281%29.jpg",
+        "city_lat": 39.7294,
+        "city_lon": -104.8319,
+        "source": "wikipedia_verified_engine"
+    },
+    "attractions": [
+        {
+            "type": "node",
+            "id": 310526581,
+            "lat": 15.7697129,
+            "lon": 121.4770282,
+            "tags": {
+                "genus": "Ficus",
+                "leaf_type": "broadleaved",
+                "name": "Asia's Largest Balete Tree",
+                "natural": "tree",
+                "species": "Stipulosa",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 366492354,
+            "lat": 40.858901,
+            "lon": -97.9961653,
+            "tags": {
+                "addr:city": "Aurora",
+                "addr:state": "NE",
+                "ele": "545",
+                "gnis:feature_id": "1881664",
+                "is_in:state": "Nebraska",
+                "is_in:state_code": "NE",
+                "name": "Plainsman Museum",
+                "source": "USGS Geonames",
+                "tourism": "museum",
+                "website": "https://www.plainsmanmuseum.org/",
+                "wikidata": "Q7757359"
+            }
+        },
+        {
+            "type": "node",
+            "id": 367912251,
+            "lat": 35.3046136,
+            "lon": -76.7877096,
+            "tags": {
+                "addr:state": "NC",
+                "ele": "2",
+                "gnis:feature_id": "1024965",
+                "name": "Aurora Fossil Museum",
+                "source": "USGS Geonames",
+                "tourism": "museum",
+                "website": "https://aurorafossilmuseum.org/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Aurora_Fossil_Museum.jpg/1280px-Aurora_Fossil_Museum.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 528142622,
+            "lat": 45.2315409,
+            "lon": -122.7539846,
+            "tags": {
+                "check_date:opening_hours": "2023-05-05",
+                "fee": "yes",
+                "name": "Old Aurora Colony Museum",
+                "opening_hours": "Th-Sa 11:00-16:00",
+                "tourism": "museum",
+                "url": "http://auroracolony.org"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Old_Aurora_Colony_Museum_Oregon.JPG/1280px-Old_Aurora_Colony_Museum_Oregon.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 2090589313,
+            "lat": 15.674615,
+            "lon": 121.4775578,
+            "tags": {
+                "alt_name": "Ditumabo Falls",
+                "name": "Mother Falls",
+                "tourism": "attraction",
+                "waterway": "waterfall"
+            }
+        },
+        {
+            "type": "node",
+            "id": 2547382585,
+            "lat": 44.0027947,
+            "lon": -79.4686998,
+            "tags": {
+                "name": "Hillary House and Koffler Museum of Medicine",
+                "tourism": "attraction",
+                "wikidata": "Q5762560",
+                "wikipedia": "en:Hillary House and Koffler Museum of Medicine"
+            }
+        },
+        {
+            "type": "node",
+            "id": 2803741309,
+            "lat": 15.7600652,
+            "lon": 121.5619504,
+            "tags": {
+                "name": "Douglas McArthur Vehicle",
+                "source": "Schadow1 Expeditions",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Museo_De_Baler.JPG/1280px-Museo_De_Baler.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 2803741310,
+            "lat": 15.758593,
+            "lon": 121.5625014,
+            "tags": {
+                "name": "Manuel Quezon Vehicle",
+                "source": "Schadow1 Expeditions",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Dicasalarin_Cove_%28Baler%29.jpg/1280px-Dicasalarin_Cove_%28Baler%29.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 2804092338,
+            "lat": 15.7551724,
+            "lon": 121.5808391,
+            "tags": {
+                "name": "Ermita Hill",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 2969741585,
+            "lat": 39.7450623,
+            "lon": -104.8373344,
+            "tags": {
+                "name": "Eisenhower's Room",
+                "source": "tour",
+                "tourism": "museum",
+                "website": "https://www.ucdenver.edu/academics/colleges/medicalschool/administration/history/Pages/Eisenhower-Suite.aspx"
+            }
+        },
+        {
+            "type": "node",
+            "id": 4067344493,
+            "lat": 45.0790069,
+            "lon": 7.696453,
+            "tags": {
+                "addr:city": "Torino",
+                "addr:housenumber": "15c",
+                "addr:postcode": "10152",
+                "addr:street": "Corso Verona",
+                "name": "Temporary Museum",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/en/thumb/1/15/Lavazza_Centro_Direzionale.jpg/1280px-Lavazza_Centro_Direzionale.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 4697519789,
+            "lat": 15.3716812,
+            "lon": 121.4250791,
+            "tags": {
+                "name": "Aurora White Beach",
+                "name:en": "Aurora White Beach",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 5121237221,
+            "lat": 15.7092968,
+            "lon": 121.4830877,
+            "tags": {
+                "addr:place": "Sitio Hacienda",
+                "addr:postcode": "3201",
+                "addr:village": "Nonong Senior",
+                "email": "rvcacao2015@gmail.com",
+                "name": "RV cacao farm",
+                "phone": "+639202521975",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 5259101121,
+            "lat": 15.7537773,
+            "lon": 121.5770467,
+            "tags": {
+                "name": "Castillo - Ancient escape tunnel",
+                "natural": "cave_entrance",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 5259101122,
+            "lat": 15.752255,
+            "lon": 121.5819842,
+            "tags": {
+                "name": "White cross",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 5274415521,
+            "lat": 16.3403889,
+            "lon": 122.199287,
+            "tags": {
+                "name": "Canaware Beach",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 5274415621,
+            "lat": 16.296003,
+            "lon": 122.1832599,
+            "tags": {
+                "name": "Capsapsapan Beach",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 5530674248,
+            "lat": 15.7408537,
+            "lon": 121.638466,
+            "tags": {
+                "name": "Low tide Cave",
+                "name:de": "Höhle bei Ebbe",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 5626175124,
+            "lat": 16.3620366,
+            "lon": 122.2260246,
+            "tags": {
+                "name": "Parang Hills",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 5667797450,
+            "lat": 15.680263,
+            "lon": 121.4953166,
+            "tags": {
+                "name": "Caunayan Falls",
+                "tourism": "attraction",
+                "waterway": "waterfall"
+            }
+        },
+        {
+            "type": "node",
+            "id": 6142197886,
+            "lat": 15.9016466,
+            "lon": 121.558908,
+            "tags": {
+                "name": "Rock Formation",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 6273574485,
+            "lat": 15.3433636,
+            "lon": 121.379081,
+            "tags": {
+                "addr:street": "Matawe, Dingalan, Aurora",
+                "name": "Matawe Rock Formation",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 6273574486,
+            "lat": 15.3573411,
+            "lon": 121.385155,
+            "tags": {
+                "name": "Matawe Bay Resort",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 6553050589,
+            "lat": 16.3628012,
+            "lon": 122.2260194,
+            "tags": {
+                "name": "Parang Hills Natural Rock Formation",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 7051889388,
+            "lat": 15.7709081,
+            "lon": 121.5607389,
+            "tags": {
+                "name": "Fishermen’s point",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9273584017,
+            "lat": 15.3041051,
+            "lon": 121.3679988,
+            "tags": {
+                "name": "Zen Tierras Farm",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9757285250,
+            "lat": 45.0812921,
+            "lon": 7.6767651,
+            "tags": {
+                "check_date": "2025-11-28",
+                "fee": "no",
+                "name": "Museo Casa Don Bosco",
+                "name:etymology:wikidata": "Q146183",
+                "opening_hours": "Tu-Th 09:30-12:30, We-Fr 14:30-17:30, Sa,Su 09:30-12:30",
+                "payment:cards": "no",
+                "payment:cash": "yes",
+                "payment:credit_cards": "no",
+                "payment:debit_cards": "no",
+                "tourism": "museum",
+                "website": "https://museocasadonbosco.org/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Facciata_delle_chiesa_di_Santa_Maria_Ausiliatrice_-_Torino.jpg/1280px-Facciata_delle_chiesa_di_Santa_Maria_Ausiliatrice_-_Torino.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 9813086825,
+            "lat": 41.3129661,
+            "lon": -81.3440971,
+            "tags": {
+                "addr:housenumber": "115",
+                "addr:street": "E Pioneer Trail",
+                "fee": "no",
+                "name": "Aurora Historical Society",
+                "opening_hours": "Mo,We,Fr 11:00-16:00; Sa 12:00-14:00",
+                "phone": "+1-330-995-3336",
+                "tourism": "museum",
+                "website": "https://aurorahistorical.org/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Church_and_town_hall_in_Aurora.jpg/1280px-Church_and_town_hall_in_Aurora.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 10956333442,
+            "lat": 16.434421,
+            "lon": 122.1685084,
+            "tags": {
+                "name": "Singep Water Fall",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10956458138,
+            "lat": 15.7542694,
+            "lon": 121.5810019,
+            "tags": {
+                "name": "Ermita Hall Sign",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10956474280,
+            "lat": 15.7545108,
+            "lon": 121.5806419,
+            "tags": {
+                "name": "Baler surfboard sign",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10956604836,
+            "lat": 15.754297,
+            "lon": 121.5811963,
+            "tags": {
+                "name": "Arboterum of Aurora",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 13137274504,
+            "lat": 15.6792693,
+            "lon": 121.5951787,
+            "tags": {
+                "name": "Pamokasan",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 13137274581,
+            "lat": 15.7535092,
+            "lon": 121.5410972,
+            "tags": {
+                "name": "Baler Welcome Arch",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 13624272102,
+            "lat": 15.7713849,
+            "lon": 121.5626887,
+            "tags": {
+                "name": "Birthplace of Philippine Surfing Marker",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "way",
+            "id": 25298271,
+            "lat": 45.0811161,
+            "lon": 7.676037,
+            "tags": {
+                "addr:city": "Torino",
+                "addr:housenumber": "32",
+                "addr:postcode": "10152",
+                "addr:street": "Via Maria Ausiliatrice",
+                "amenity": "place_of_worship",
+                "basilica": "minor",
+                "building": "church",
+                "check_date": "2025-11-28",
+                "denomination": "roman_catholic",
+                "height": "21",
+                "mass_times": "Mo-Fr 07:00,08:00,09:00,10:00,17:00,18:30; Sa 07:00,08:00,09:00,10:00,18:00; Su,PH 08:00,09:30,11:00,12:30,17:00,18:30,21:00",
+                "name": "Basilica di Maria Ausiliatrice",
+                "name:ar": "كنيسة السيدة العذراء مساعدة المسيحيين",
+                "name:de": "Basilika Unserer Lieben Frau Hilfe der Christen",
+                "name:en": "Basilica of Our Lady Help of Christians",
+                "name:es": "Basílica de María Auxiliadora",
+                "name:fr": "Basilique Notre-Dame Auxiliatrice",
+                "name:it": "Basilica di Maria Ausiliatrice",
+                "name:pt": "Basílica Nossa Senhora Auxiliadora",
+                "name:ru": "Базилика Богоматери Помощи Христианам",
+                "name:zh": "基督之佑圣母大殿",
+                "phone": "+39 01152241",
+                "religion": "christian",
+                "start_date": "1868",
+                "tourism": "attraction",
+                "website": "https://basilicamariaausiliatrice.it/",
+                "wikidata": "Q1895577",
+                "wikipedia": "en:Basilica of Our Lady Help of Christians, Turin"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Facciata_delle_chiesa_di_Santa_Maria_Ausiliatrice_-_Torino.jpg/1280px-Facciata_delle_chiesa_di_Santa_Maria_Ausiliatrice_-_Torino.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 60133980,
+            "lat": 53.1991103,
+            "lon": -6.2921617,
+            "tags": {
+                "name": "Glencree Centre for Peace and Reconciliation",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Logo_homepage.svg/1280px-Logo_homepage.svg.png",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 175005172,
+            "lat": 41.7362318,
+            "lon": -88.2942545,
+            "tags": {
+                "ele": "211",
+                "gnis:feature_id": "2355420",
+                "name": "Phillips Park Zoo",
+                "tourism": "zoo",
+                "wikidata": "Q7185928"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Phillips_Park_Zoo_Entrance_-_September_2018.jpg/1280px-Phillips_Park_Zoo_Entrance_-_September_2018.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 198922767,
+            "lat": 15.7601092,
+            "lon": 121.561766,
+            "tags": {
+                "building": "yes",
+                "name": "Museo de Baler",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Museo_De_Baler.JPG/1280px-Museo_De_Baler.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 238792546,
+            "lat": 41.7562167,
+            "lon": -88.3182421,
+            "tags": {
+                "addr:city": "Aurora",
+                "addr:country": "US",
+                "addr:housenumber": "18",
+                "addr:postcode": "60506",
+                "addr:state": "IL",
+                "addr:street": "West Benton Street",
+                "building": "commercial",
+                "email": "director@goscitech.org",
+                "museum": "science",
+                "name": "SciTech Hands on Museum",
+                "phone": "+1 630-859-3434",
+                "tourism": "museum",
+                "website": "https://www.goscitech.org/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Elks_Lodge_1.jpg/1280px-Elks_Lodge_1.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 275707515,
+            "lat": 15.7585697,
+            "lon": 121.562579,
+            "tags": {
+                "addr:city": "Baler",
+                "addr:postcode": "3200",
+                "addr:street": "Rizal Street",
+                "building": "house",
+                "name": "Maria Aurora Quezon Ancestral House",
+                "source": "Schadow1 Expeditions",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Dicasalarin_Cove_%28Baler%29.jpg/1280px-Dicasalarin_Cove_%28Baler%29.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 288124998,
+            "lat": 41.7581945,
+            "lon": -88.3114442,
+            "tags": {
+                "addr:city": "Aurora",
+                "addr:housenumber": "53",
+                "addr:postcode": "60506",
+                "addr:state": "IL",
+                "addr:street": "North Broadway",
+                "building": "fire_station",
+                "check_date:opening_hours": "2023-03-10",
+                "fee": "yes",
+                "museum": "history",
+                "name": "Aurora Regional Fire Museum",
+                "opening_hours": "We-Sa 10:00-16:00",
+                "tourism": "museum",
+                "website": "https://www.auroraregionalfiremuseum.org/",
+                "wikidata": "Q4822599"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/28/Hotel_Arthur.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 544462978,
+            "lat": 41.7636541,
+            "lon": -88.3182767,
+            "tags": {
+                "building": "yes",
+                "name": "William Tanner House Museum",
+                "tourism": "museum",
+                "wikidata": "Q4822556",
+                "wikipedia": "en:William Tanner House Museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Tanner_House_Aurora.JPG/1280px-Tanner_House_Aurora.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 557198086,
+            "lat": 41.7653602,
+            "lon": -88.3909483,
+            "tags": {
+                "building": "yes",
+                "name": "Farm Museum",
+                "tourism": "museum"
+            }
+        },
+        {
+            "type": "way",
+            "id": 557198088,
+            "lat": 41.7649303,
+            "lon": -88.3909857,
+            "tags": {
+                "building": "yes",
+                "museum": "history",
+                "name": "Early Streets Museum",
+                "tourism": "museum"
+            }
+        },
+        {
+            "type": "way",
+            "id": 668173825,
+            "lat": 39.7114472,
+            "lon": -104.8133065,
+            "tags": {
+                "addr:city": "Aurora",
+                "addr:housenumber": "15051",
+                "addr:postcode": "80012",
+                "addr:state": "CO",
+                "addr:street": "East Alameda Parkway",
+                "building": "yes",
+                "layer": "-1",
+                "name": "Aurora History Museum",
+                "opening_hours": "Tu-Fr 09:00-16:00; Sa,Su 11:00-16:00; Mo closed",
+                "operator": "City of Aurora",
+                "phone": "+1-303-739-6660",
+                "tourism": "museum",
+                "website": "https://www.auroragov.org/things_to_do/aurora_history_museum/visit_us"
+            }
+        },
+        {
+            "type": "way",
+            "id": 671008510,
+            "lat": 39.6562294,
+            "lon": -104.7373652,
+            "tags": {
+                "name": "Raptor Education",
+                "source": "Bing",
+                "tourism": "zoo"
+            }
+        },
+        {
+            "type": "way",
+            "id": 671008511,
+            "lat": 39.6565861,
+            "lon": -104.7363449,
+            "tags": {
+                "building": "yes",
+                "building:levels": "1",
+                "name": "Colorado Grange Museum",
+                "source": "Bing",
+                "tourism": "museum"
+            }
+        },
+        {
+            "type": "way",
+            "id": 761582364,
+            "lat": 45.0805197,
+            "lon": 7.6917962,
+            "tags": {
+                "addr:city": "Torino",
+                "addr:housenumber": "32",
+                "addr:postcode": "10152",
+                "addr:street": "Via Bologna",
+                "building": "public",
+                "fee": "yes",
+                "name": "Museo Lavazza",
+                "name:etymology:wikidata": "Q543750",
+                "operator": "Lavazza S.p.A",
+                "tourism": "museum",
+                "wikidata": "Q60840190",
+                "wikipedia": "it:Museo Lavazza"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/en/thumb/1/15/Lavazza_Centro_Direzionale.jpg/1280px-Lavazza_Centro_Direzionale.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 1148149269,
+            "lat": 15.7500785,
+            "lon": 121.5694159,
+            "tags": {
+                "bridge:structure": "suspension",
+                "layer": "1",
+                "man_made": "bridge",
+                "name": "Baler Hanging Bridge",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "way",
+            "id": 1285748654,
+            "lat": 41.7639511,
+            "lon": -88.3885872,
+            "tags": {
+                "name": "Blackberry Farm",
+                "tourism": "theme_park",
+                "website": "https://www.blackberryfarm.info/"
+            }
+        },
+        {
+            "type": "way",
+            "id": 1285748674,
+            "lat": 41.7651472,
+            "lon": -88.3894381,
+            "tags": {
+                "area": "yes",
+                "name": "Blackberry Carousel",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "way",
+            "id": 1396643090,
+            "lat": 43.9974459,
+            "lon": -79.4660138,
+            "tags": {
+                "addr:city": "Aurora",
+                "addr:housenumber": "50",
+                "addr:postcode": "L4G 1R3",
+                "addr:province": "ON",
+                "addr:street": "Victoria Street",
+                "area": "yes",
+                "name": "Aurora Town Square",
+                "operator": "Town of Aurora",
+                "tourism": "attraction",
+                "wikidata": "Q134984191"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Aurora_Public_Library_2025.jpg/1280px-Aurora_Public_Library_2025.jpg",
+            "image_source": "wikipedia_verified"
+        }
+    ]
+}

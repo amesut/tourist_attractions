@@ -1,0 +1,272 @@
+{
+    "city_metadata": {
+        "city_name": "Las Cruces",
+        "state_code": "NM",
+        "state_full": "New Mexico",
+        "city_summary": "Las Cruces (; Spanish: [las 'kruses]; lit. 'the crosses') is a city in Doña Ana County, New Mexico, United States, and its county seat. The population was 111,385 at the 2020 census, making it the second-most populous city in New Mexico, and the largest in both Doña Ana County and southern New Mexico.",
+        "city_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/NMSU_BransonLibrary.jpg/1280px-NMSU_BransonLibrary.jpg",
+        "city_lat": 32.31444444,
+        "city_lon": -106.77888889,
+        "source": "wikipedia_verified_engine"
+    },
+    "attractions": [
+        {
+            "type": "node",
+            "id": 4757267498,
+            "lat": 32.3118578,
+            "lon": -106.8076188,
+            "tags": {
+                "name": "World's Largest Chili Pepper",
+                "source": "Bing",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 4771829104,
+            "lat": 32.3012032,
+            "lon": -106.7854585,
+            "tags": {
+                "name": "Pat Garrett's Grave",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 7181756992,
+            "lat": 16.6406194,
+            "lon": -90.3372266,
+            "tags": {
+                "name": "Crater Azul",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "way",
+            "id": 51460241,
+            "lat": 32.2983239,
+            "lon": -106.7204837,
+            "tags": {
+                "addr:housenumber": "4100",
+                "addr:postcode": "88003",
+                "addr:state": "NM",
+                "addr:street": "Dripping Springs Road",
+                "name": "New Mexico Farm & Ranch Heritage Museum",
+                "opening_hours": "Mo-Sa 09:00-17:00; Su 12:00-17:00",
+                "phone": "+1-575-522-4100",
+                "tourism": "museum",
+                "website": "http://www.frhm.org/",
+                "wikidata": "Q7010182"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Historic_Green_Bridge_Las_Cruces_New_Mexico.JPG/1280px-Historic_Green_Bridge_Las_Cruces_New_Mexico.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 83888064,
+            "lat": 32.3085704,
+            "lon": -106.7869462,
+            "tags": {
+                "addr:housenumber": "800",
+                "addr:state": "NM",
+                "addr:street": "Mesilla Street",
+                "building": "yes",
+                "name": "Las Cruces Railroad Museum",
+                "opening_hours": "Sa 09:00-16:30; Tu-Fr 10:00-16:30",
+                "phone": "+1-575-528-3444",
+                "tourism": "museum",
+                "website": "https://lascruces.gov/arts-and-leisure/museums/railroad-museum/"
+            }
+        },
+        {
+            "type": "way",
+            "id": 171733257,
+            "lat": 32.313096,
+            "lon": -106.7799156,
+            "tags": {
+                "addr:housenumber": "501",
+                "addr:state": "NM",
+                "addr:street": "North Water Street",
+                "amenity": "arts_centre",
+                "building": "yes",
+                "ele": "1191",
+                "gnis:feature_id": "933166",
+                "name": "Branigan Cultural Center",
+                "source": "Bing",
+                "tourism": "museum",
+                "wikidata": "Q110955736",
+                "wikipedia": "fr:Branigan Cultural Center"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Branigan_Library_Las_Cruces.jpg/1280px-Branigan_Library_Las_Cruces.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 171851520,
+            "lat": 32.3127827,
+            "lon": -106.7798541,
+            "tags": {
+                "addr:housenumber": "491",
+                "addr:state": "NM",
+                "addr:street": "North Water Street",
+                "building": "yes",
+                "name": "Art Museum",
+                "source": "Bing",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Do%C3%B1a_Ana_County%2C_New_Mexico%2C_Government_Center_2014.jpg/1280px-Do%C3%B1a_Ana_County%2C_New_Mexico%2C_Government_Center_2014.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 601147366,
+            "lat": 32.3126254,
+            "lon": -106.7796412,
+            "tags": {
+                "building": "commercial",
+                "name": "Museum of Nature & Science",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Do%C3%B1a_Ana_County%2C_New_Mexico%2C_Government_Center_2014.jpg/1280px-Do%C3%B1a_Ana_County%2C_New_Mexico%2C_Government_Center_2014.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 1272044174,
+            "lat": 10.0051015,
+            "lon": -84.0764108,
+            "tags": {
+                "addr:city": "San Pablo",
+                "addr:street": "Calle Las Cruces",
+                "name": "Mini Autódromo Las Cruces",
+                "tourism": "theme_park"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 19382628,
+            "lat": 32.31055556,
+            "lon": -106.77833333,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Rio_Grande_Theatre_Las_Cruces_New_Mexico.jpg/1280px-Rio_Grande_Theatre_Las_Cruces_New_Mexico.jpg",
+            "description": "The Rio Grande Theatre in Las Cruces, New Mexico was opened on July 29, 1926.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Rio Grande Theatre",
+                "wikipedia": "en:Rio Grande Theatre",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 51278,
+            "lat": 35.0844,
+            "lon": -106.6503,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Albuquerque%2C_New_Mexico_skyline.jpg/1280px-Albuquerque%2C_New_Mexico_skyline.jpg",
+            "description": "Albuquerque, also known as ABQ, Burque, Duke City, is the most populous city in the U.S. state of New Mexico, and the county seat of Bernalillo County.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Albuquerque, New Mexico",
+                "wikipedia": "en:Albuquerque, New Mexico",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 21649,
+            "lat": 34,
+            "lon": -106,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Flag_of_New_Mexico.svg/1280px-Flag_of_New_Mexico.svg.png",
+            "description": "New Mexico is a landlocked state in the Southwestern region of the United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "New Mexico",
+                "wikipedia": "en:New Mexico",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 330027,
+            "lat": 32.77916667,
+            "lon": -106.17194444,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/cf/White_Sands_National_Park_visitor_center_and_native_plant_garden%2C_New_Mexico%2C_United_States.jpg",
+            "description": "White Sands National Park is a national park of the United States located in New Mexico and completely surrounded by White Sands Missile Range.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "White Sands National Park",
+                "wikipedia": "en:White Sands National Park",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 135823,
+            "lat": 31.75916667,
+            "lon": -106.48861111,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/El_Paso_Cityscape_%28cropped%29.jpg/1280px-El_Paso_Cityscape_%28cropped%29.jpg",
+            "description": "El Paso (English:  ; Spanish: [el ˈpaso] , lit. 'the route' or 'the pass') is a city in and the county seat of El Paso County, Texas, United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "El Paso, Texas",
+                "wikipedia": "en:El Paso, Texas",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 8065116,
+            "lat": 35.08291667,
+            "lon": -106.57475,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a7/New_Mexico_State_Fair_2010.jpg",
+            "description": "The New Mexico State Fair is an annual state fair held in September at Expo New Mexico (formerly the New Mexico State Fairgrounds) in the city of Albuquerque, New Mexico.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "New Mexico State Fair",
+                "wikipedia": "en:New Mexico State Fair",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 17361623,
+            "lat": 32.9015,
+            "lon": -105.961,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Alameda_park_zoo_sign.jpg/1280px-Alameda_park_zoo_sign.jpg",
+            "description": "Alameda Park Zoo, located in Alamogordo, New Mexico, was founded in 1898 and claims to be the oldest zoo in the Southwestern United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Alameda Park Zoo",
+                "wikipedia": "en:Alameda Park Zoo",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 4961385,
+            "lat": 32.834,
+            "lon": -105.697,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Lincoln_National_Forest_along_Crest_Trail-Terrain.jpg/1280px-Lincoln_National_Forest_along_Crest_Trail-Terrain.jpg",
+            "description": "Lincoln National Forest is a unit of the U.S. Forest Service located in southern New Mexico.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Lincoln National Forest",
+                "wikipedia": "en:Lincoln National Forest",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 17523179,
+            "lat": 32.89905278,
+            "lon": -105.94453611,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/APL_Logo_Sign_10th.jpg/1280px-APL_Logo_Sign_10th.jpg",
+            "description": "The Alamogordo Public Library is the public library serving Alamogordo, New Mexico and Otero County, New Mexico.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Alamogordo Public Library",
+                "wikipedia": "en:Alamogordo Public Library",
+                "tourism": "attraction"
+            }
+        }
+    ]
+}

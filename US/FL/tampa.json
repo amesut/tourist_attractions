@@ -1,0 +1,1021 @@
+{
+    "city_metadata": {
+        "city_name": "Tampa",
+        "state_code": "FL",
+        "state_full": "Florida",
+        "city_summary": "Tampa (  TAM-pə) is a major city on the Gulf Coast of the U.S. state of Florida and the county seat of Hillsborough County. Tampa's borders include the north shore of Tampa Bay and the east shore of Old Tampa Bay. It is the third-most populous city in Florida (after Jacksonville and Miami), thirteenth-most populous in the Southeast, and 49th-most populous city in the country, with a population of 403,364 at the 2020 census.",
+        "city_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Downtown_Tampa%2C_Florida.jpg/1280px-Downtown_Tampa%2C_Florida.jpg",
+        "city_lat": 27.9475,
+        "city_lon": -82.45861111,
+        "source": "wikipedia_verified_engine"
+    },
+    "attractions": [
+        {
+            "type": "node",
+            "id": 282685801,
+            "lat": 27.9462133,
+            "lon": -82.4641818,
+            "tags": {
+                "addr:city": "Tampa",
+                "addr:country": "US",
+                "addr:postcode": "33606",
+                "addr:state": "FL",
+                "addr:street": "West North B Street",
+                "check_date:opening_hours": "2023-07-05",
+                "fee": "yes",
+                "museum": "history",
+                "name": "Henry B. Plant Museum",
+                "opening_hours": "Mo off; Tu-Sa 10:00-17:00; Su 12:00-17:00; Dec off; Jul 04 off",
+                "tourism": "museum",
+                "website": "https://www.plantmuseum.com/",
+                "wheelchair": "yes",
+                "wikidata": "Q3132598"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Tampa_Bay_Hotel--7022-1.jpg/1280px-Tampa_Bay_Hotel--7022-1.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 358699618,
+            "lat": 28.0142673,
+            "lon": -82.4700304,
+            "tags": {
+                "ele": "5",
+                "gnis:feature_id": "286182",
+                "name": "Tampa's Lowry Park Zoo",
+                "tourism": "zoo"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Lowry_Park_Zoo_Sign_in_Tampa.jpg/1280px-Lowry_Park_Zoo_Sign_in_Tampa.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 2209942623,
+            "lat": 28.0143959,
+            "lon": -82.4704575,
+            "tags": {
+                "name": "Jungle Carousel",
+                "tourism": "theme_park"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Lowry_Park_Zoo_Sign_in_Tampa.jpg/1280px-Lowry_Park_Zoo_Sign_in_Tampa.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 2209951830,
+            "lat": 28.014847,
+            "lon": -82.470141,
+            "tags": {
+                "name": "Tiger coaster",
+                "tourism": "theme_park"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Lowry_Park_Zoo_Sign_in_Tampa.jpg/1280px-Lowry_Park_Zoo_Sign_in_Tampa.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 2209952146,
+            "lat": 28.014712,
+            "lon": -82.469867,
+            "tags": {
+                "name": "Petting zoo",
+                "tourism": "zoo"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Lowry_Park_Zoo_Sign_in_Tampa.jpg/1280px-Lowry_Park_Zoo_Sign_in_Tampa.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 2209956792,
+            "lat": 28.014361,
+            "lon": -82.469427,
+            "tags": {
+                "name": "Bumper boats and flyin bananas",
+                "tourism": "theme_park"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Lowry_Park_Zoo_Sign_in_Tampa.jpg/1280px-Lowry_Park_Zoo_Sign_in_Tampa.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 2209960309,
+            "lat": 28.014885,
+            "lon": -82.469486,
+            "tags": {
+                "name": "Pony ride",
+                "tourism": "theme_park"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Lowry_Park_Zoo_Sign_in_Tampa.jpg/1280px-Lowry_Park_Zoo_Sign_in_Tampa.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 2209965513,
+            "lat": 28.014482,
+            "lon": -82.469677,
+            "tags": {
+                "name": "Train",
+                "tourism": "theme_park"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Lowry_Park_Zoo_Sign_in_Tampa.jpg/1280px-Lowry_Park_Zoo_Sign_in_Tampa.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 2210009492,
+            "lat": 28.012569,
+            "lon": -82.471464,
+            "tags": {
+                "name": "Science Discovery Center",
+                "tourism": "museum",
+                "website": "https://zootampa.org"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Lowry_Park_Zoo_Sign_in_Tampa.jpg/1280px-Lowry_Park_Zoo_Sign_in_Tampa.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 2641006503,
+            "lat": 27.960871,
+            "lon": -82.442115,
+            "tags": {
+                "name": "Centro Ybor Museum",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Centro_Espa%C3%B1ol_de_Tampa.jpg/1280px-Centro_Espa%C3%B1ol_de_Tampa.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 4583124690,
+            "lat": 27.9672515,
+            "lon": -82.3898268,
+            "tags": {
+                "addr:housenumber": "4800",
+                "addr:postcode": "33610",
+                "addr:street": "us Highway 301",
+                "name": "Florida State Fairgrounds",
+                "name:en": "Florida State Fairgrounds",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 4921360121,
+            "lat": 28.0359218,
+            "lon": -82.4250362,
+            "tags": {
+                "name": "Busch Garden",
+                "name:en": "Busch Garden",
+                "name:it": "Busch Garden",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/34/Edge-of-africa-giraffes.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 5851701863,
+            "lat": 28.0351963,
+            "lon": -82.4256908,
+            "tags": {
+                "name": "Treehouse trek",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/SheiKra_%28Busch_Gardens_Africa%29_05.JPG/1280px-SheiKra_%28Busch_Gardens_Africa%29_05.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 12871417501,
+            "lat": 27.9500216,
+            "lon": -82.4438277,
+            "tags": {
+                "name": "Margaritsville at Sea Port",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Port_of_Tampa.JPG/1280px-Port_of_Tampa.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 12871424602,
+            "lat": 27.9431258,
+            "lon": -82.4458949,
+            "tags": {
+                "addr:housenumber": "651",
+                "addr:street": "Channelside Drive",
+                "name": "Royal Caribbean cruise port",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Florida_Aquarium_Channelside.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 12871426601,
+            "lat": 27.9457063,
+            "lon": -82.444141,
+            "tags": {
+                "addr:housenumber": "815",
+                "addr:street": "Channelside Drive",
+                "name": "Carnival cruise port",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 13470922412,
+            "lat": 27.9603908,
+            "lon": -82.4407195,
+            "tags": {
+                "addr:city": "Tampa",
+                "addr:housenumber": "1630",
+                "addr:postcode": "33605",
+                "addr:state": "FL",
+                "addr:street": "East 7th Avenue",
+                "museum": "art",
+                "name": "Florida Museum of Photographic Arts",
+                "phone": "+1-813-221-2222",
+                "tourism": "museum",
+                "website": "https://www.fmopa.org/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Centro_Ybor_station_at_ground_level.gk.jpg/1280px-Centro_Ybor_station_at_ground_level.gk.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 26216188,
+            "lat": 27.9619192,
+            "lon": -82.4383459,
+            "tags": {
+                "addr:city": "Tampa",
+                "addr:housenumber": "1818",
+                "addr:postcode": "33605",
+                "addr:state": "FL",
+                "addr:street": "East 9th Avenue",
+                "atm": "no",
+                "building": "yes",
+                "height": "13.87",
+                "internet_access": "no",
+                "name": "Ybor City Museum",
+                "tourism": "museum",
+                "wheelchair": "no"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Ybor_City_Museum_State_Park%2C_Tampa%2C_Florida.jpg/1280px-Ybor_City_Museum_State_Park%2C_Tampa%2C_Florida.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 43097398,
+            "lat": 28.0634958,
+            "lon": -82.4155503,
+            "tags": {
+                "addr:city": "Tampa",
+                "addr:housenumber": "3821",
+                "addr:postcode": "33620",
+                "addr:state": "FL",
+                "addr:street": "USF Holly Drive",
+                "building": "yes",
+                "ele": "13",
+                "gnis:feature_id": "2481331",
+                "height": "10",
+                "name": "University Of South Florida Contemporary Art Museum;Contemporary Art Museum",
+                "short_name": "CAM",
+                "source": "USGS Geonames",
+                "tourism": "museum"
+            }
+        },
+        {
+            "type": "way",
+            "id": 52035847,
+            "lat": 27.9422446,
+            "lon": -82.4499013,
+            "tags": {
+                "addr:city": "Tampa",
+                "addr:country": "US",
+                "addr:housenumber": "801",
+                "addr:postcode": "33602",
+                "addr:state": "FL",
+                "addr:street": "Water Street",
+                "building": "yes",
+                "check_date:opening_hours": "2025-02-14",
+                "email": "info@tampabayhistorycenter.org",
+                "fee": "yes",
+                "fee:conditional": "no @ age < 7",
+                "height": "30.58",
+                "name": "Tampa Bay History Center",
+                "opening_hours": "Mo-Su 10:00-17:00; Nov Th[4] off; Dec 25 off; Dec 24, Dec 31 10:00-15:00",
+                "opening_hours:url": "https://tampabayhistorycenter.org/contact/",
+                "phone": "+1-813 228 0097",
+                "tourism": "museum",
+                "website": "https://tampabayhistorycenter.org/",
+                "wheelchair": "yes",
+                "wikidata": "Q14686435"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/St_Pete_Times_Forum_with_Garrison_Channel.jpg/1280px-St_Pete_Times_Forum_with_Garrison_Channel.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 99652087,
+            "lat": 28.0517584,
+            "lon": -82.4085009,
+            "tags": {
+                "barrier": "fence",
+                "name": "Renaissance Fairground",
+                "tourism": "theme_park"
+            }
+        },
+        {
+            "type": "way",
+            "id": 107769981,
+            "lat": 27.9514908,
+            "lon": -82.4550605,
+            "tags": {
+                "building": "yes",
+                "check_date:opening_hours": "2023-03-13",
+                "height": "13.38",
+                "name": "Tampa Fire Fighters Museum",
+                "opening_hours": "Mo-Fr 10:00-14:00",
+                "tourism": "museum",
+                "website": "https://tampafirefightersmuseum.org/"
+            }
+        },
+        {
+            "type": "way",
+            "id": 117147475,
+            "lat": 28.0343606,
+            "lon": -82.4175724,
+            "tags": {
+                "name": "Montu",
+                "roller_coaster": "track",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Montu_%28Busch_Gardens_Africa%29_01.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 117147477,
+            "lat": 28.0348046,
+            "lon": -82.4174114,
+            "tags": {
+                "name": "Montu",
+                "roller_coaster": "track",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Montu_%28Busch_Gardens_Africa%29_01.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 117147479,
+            "lat": 28.036581,
+            "lon": -82.4247082,
+            "tags": {
+                "name": "Sheikra",
+                "roller_coaster": "track",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/SheiKra_%28Busch_Gardens_Africa%29_05.JPG/1280px-SheiKra_%28Busch_Gardens_Africa%29_05.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 117147481,
+            "lat": 28.0346111,
+            "lon": -82.4174826,
+            "tags": {
+                "name": "Montu",
+                "roller_coaster": "track",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Montu_%28Busch_Gardens_Africa%29_01.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 117147482,
+            "lat": 28.039555,
+            "lon": -82.4227388,
+            "tags": {
+                "name": "Kumba",
+                "oneway": "yes",
+                "roller_coaster": "track",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Kumbas_vertical_loop_3.jpg/1280px-Kumbas_vertical_loop_3.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 117147484,
+            "lat": 28.034926,
+            "lon": -82.417455,
+            "tags": {
+                "name": "Montu",
+                "roller_coaster": "track",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Montu_%28Busch_Gardens_Africa%29_01.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 172645009,
+            "lat": 27.9436838,
+            "lon": -82.4441252,
+            "tags": {
+                "addr:city": "Tampa",
+                "addr:country": "US",
+                "addr:housenumber": "705",
+                "addr:postcode": "33602",
+                "addr:state": "FL",
+                "addr:street": "Channelside Drive",
+                "building": "ship",
+                "historic": "ship",
+                "name": "SS American Victory;American Victory Museum",
+                "ref:nrhp": "01001533",
+                "ship:type": "liberty_ship",
+                "source": "Victory Ship Inc.;Victory SHip Inc.",
+                "tourism": "museum",
+                "wikidata": "Q7393152",
+                "wikipedia": "en:SS American Victory"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d4/SS_American_Victory_Ship_Summer_2022.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 174786516,
+            "lat": 27.9768172,
+            "lon": -82.5031638,
+            "tags": {
+                "building": "yes",
+                "man_made": "ship",
+                "name": "Pirate Ship",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Raymond_James_Stadium_Aerial_%282%29.jpg/1280px-Raymond_James_Stadium_Aerial_%282%29.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 211153135,
+            "lat": 28.0128165,
+            "lon": -82.4710712,
+            "tags": {
+                "name": "Stingray Bay",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Lowry_Park_Zoo_Sign_in_Tampa.jpg/1280px-Lowry_Park_Zoo_Sign_in_Tampa.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 211158660,
+            "lat": 28.0139772,
+            "lon": -82.469928,
+            "tags": {
+                "addr:city": "Tampa",
+                "addr:housenumber": "1101",
+                "addr:postcode": "33767",
+                "addr:state": "FL",
+                "addr:street": "West Sligh Avenue",
+                "name": "ZooTampa at Lowry Park",
+                "tourism": "zoo"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Lowry_Park_Zoo_Sign_in_Tampa.jpg/1280px-Lowry_Park_Zoo_Sign_in_Tampa.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 212390514,
+            "lat": 28.0131181,
+            "lon": -82.47044,
+            "tags": {
+                "name": "Asian Gardens",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Lowry_Park_Zoo_Sign_in_Tampa.jpg/1280px-Lowry_Park_Zoo_Sign_in_Tampa.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 212390517,
+            "lat": 28.013805,
+            "lon": -82.4706617,
+            "tags": {
+                "name": "Primate World",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Lowry_Park_Zoo_Sign_in_Tampa.jpg/1280px-Lowry_Park_Zoo_Sign_in_Tampa.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 212390520,
+            "lat": 28.0139014,
+            "lon": -82.47003,
+            "tags": {
+                "name": "Free-Flight Aviary",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Lowry_Park_Zoo_Sign_in_Tampa.jpg/1280px-Lowry_Park_Zoo_Sign_in_Tampa.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 212392947,
+            "lat": 28.0145966,
+            "lon": -82.4697352,
+            "tags": {
+                "name": "Wallaroo Station Children's Zoo",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Lowry_Park_Zoo_Sign_in_Tampa.jpg/1280px-Lowry_Park_Zoo_Sign_in_Tampa.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 212395202,
+            "lat": 28.0158965,
+            "lon": -82.4700276,
+            "tags": {
+                "name": "Safari Africa",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Lowry_Park_Zoo_Sign_in_Tampa.jpg/1280px-Lowry_Park_Zoo_Sign_in_Tampa.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 212395203,
+            "lat": 28.012948,
+            "lon": -82.471241,
+            "tags": {
+                "name": "Manatee & Aquatic Center",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Lowry_Park_Zoo_Sign_in_Tampa.jpg/1280px-Lowry_Park_Zoo_Sign_in_Tampa.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 212471316,
+            "lat": 28.012953,
+            "lon": -82.4717304,
+            "tags": {
+                "name": "Manatee Hospital",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Lowry_Park_Zoo_Sign_in_Tampa.jpg/1280px-Lowry_Park_Zoo_Sign_in_Tampa.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 212472225,
+            "lat": 28.0140325,
+            "lon": -82.4711861,
+            "tags": {
+                "name": "Florida Boardwalk & Wildlife Center",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Lowry_Park_Zoo_Sign_in_Tampa.jpg/1280px-Lowry_Park_Zoo_Sign_in_Tampa.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 287655498,
+            "lat": 28.0381069,
+            "lon": -82.4212596,
+            "tags": {
+                "addr:city": "Tampa",
+                "addr:housename": "10165",
+                "addr:postcode": "33612",
+                "addr:state": "FL",
+                "addr:street": "North McKinley Drive",
+                "alt_name": "Busch Gardens",
+                "name": "Busch Gardens Tampa",
+                "operator": "United Parks & Resorts",
+                "phone": "+1-813-884-4386",
+                "tourism": "theme_park",
+                "website": "https://buschgardens.com/tampa/",
+                "wheelchair": "yes",
+                "wikidata": "Q2743812",
+                "wikipedia": "en:Busch Gardens Tampa Bay"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/34/Edge-of-africa-giraffes.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 287681249,
+            "lat": 28.041912,
+            "lon": -82.4131039,
+            "tags": {
+                "addr:city": "Tampa",
+                "addr:country": "US",
+                "addr:housenumber": "10001",
+                "addr:postcode": "33612",
+                "addr:state": "FL",
+                "addr:street": "North McKinley Drive",
+                "leisure": "water_park",
+                "name": "Adventure Island",
+                "opening_hours": "Mo-Fr 10:00-17:00; Sa-Su 10:00-18:00",
+                "operator": "United Parks & Resorts",
+                "phone": "+1-888-800-5447",
+                "tourism": "theme_park",
+                "website": "https://adventureisland.com/",
+                "wikidata": "Q379952"
+            }
+        },
+        {
+            "type": "way",
+            "id": 364580058,
+            "lat": 28.0402195,
+            "lon": -82.4229411,
+            "tags": {
+                "name": "Kumba",
+                "oneway": "yes",
+                "roller_coaster": "track",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Kumbas_vertical_loop_3.jpg/1280px-Kumbas_vertical_loop_3.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 364580059,
+            "lat": 28.0394646,
+            "lon": -82.4239935,
+            "tags": {
+                "name": "Kumba",
+                "oneway": "yes",
+                "roller_coaster": "track",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Kumbas_vertical_loop_3.jpg/1280px-Kumbas_vertical_loop_3.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 364580060,
+            "lat": 28.0400646,
+            "lon": -82.4239304,
+            "tags": {
+                "building": "roof",
+                "name": "Congo River Rapids",
+                "ref": "37",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Kumbas_vertical_loop_3.jpg/1280px-Kumbas_vertical_loop_3.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 365184641,
+            "lat": 28.0359229,
+            "lon": -82.4204487,
+            "tags": {
+                "name": "Cheetah Hunt",
+                "oneway": "yes",
+                "roller_coaster": "track",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Cheetah_Hunt_overview.jpg/1280px-Cheetah_Hunt_overview.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 524038828,
+            "lat": 28.0389891,
+            "lon": -82.4234953,
+            "tags": {
+                "building": "yes",
+                "height": "18.86",
+                "name": "Ubanga-Banga Bumper Cars",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Kumbas_vertical_loop_3.jpg/1280px-Kumbas_vertical_loop_3.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 524038840,
+            "lat": 28.0339842,
+            "lon": -82.4230853,
+            "tags": {
+                "attraction": "roller_coaster",
+                "building": "yes",
+                "height": "17.75",
+                "name": "Iron Gwazi",
+                "roller_coaster": "station",
+                "tourism": "attraction",
+                "website": "https://buschgardens.com/tampa/roller-coasters/iron-gwazi/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Iron_Gwazi_%2811%29.jpg/1280px-Iron_Gwazi_%2811%29.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 524527015,
+            "lat": 27.9619946,
+            "lon": -82.4377933,
+            "tags": {
+                "building": "yes",
+                "height": "11.37",
+                "name": "Tampa Baseball Museum",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Tampa_Baseball_Museum.jpg/1280px-Tampa_Baseball_Museum.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 524527203,
+            "lat": 27.960054,
+            "lon": -82.4357007,
+            "tags": {
+                "building": "yes",
+                "building:levels": "2",
+                "height": "13.1",
+                "name": "Columbia Centennial Museum",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Columbia%2C_Ybor_City.jpg/1280px-Columbia%2C_Ybor_City.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 616127932,
+            "lat": 28.0346066,
+            "lon": -82.4253128,
+            "tags": {
+                "name": "Air Grover",
+                "oneway": "yes",
+                "roller_coaster": "track",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Iron_Gwazi_%2811%29.jpg/1280px-Iron_Gwazi_%2811%29.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 616177057,
+            "lat": 28.0377917,
+            "lon": -82.4240872,
+            "tags": {
+                "name": "Stanleyville Falls",
+                "roller_coaster": "water_track",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Scorpion_%28Busch_Gardens_Afrika%29.JPG/1280px-Scorpion_%28Busch_Gardens_Afrika%29.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 619197401,
+            "lat": 28.0329907,
+            "lon": -82.4257582,
+            "tags": {
+                "name": "Kangaroo Petting zoo",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Iron_Gwazi_%2811%29.jpg/1280px-Iron_Gwazi_%2811%29.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 619441296,
+            "lat": 28.0352156,
+            "lon": -82.4203471,
+            "tags": {
+                "name": "Hippopotamus",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Cheetah_Hunt_overview.jpg/1280px-Cheetah_Hunt_overview.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 651204424,
+            "lat": 28.0366574,
+            "lon": -82.4245674,
+            "tags": {
+                "name": "Sheikra",
+                "roller_coaster": "track",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/SheiKra_%28Busch_Gardens_Africa%29_05.JPG/1280px-SheiKra_%28Busch_Gardens_Africa%29_05.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 651204425,
+            "lat": 28.0366108,
+            "lon": -82.4251431,
+            "tags": {
+                "name": "Sheikra",
+                "roller_coaster": "track",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/SheiKra_%28Busch_Gardens_Africa%29_05.JPG/1280px-SheiKra_%28Busch_Gardens_Africa%29_05.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 656050723,
+            "lat": 28.0340121,
+            "lon": -82.4202546,
+            "tags": {
+                "name": "Cheetah Hunt",
+                "oneway": "yes",
+                "roller_coaster": "track",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Cheetah_Hunt_overview.jpg/1280px-Cheetah_Hunt_overview.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 656050724,
+            "lat": 28.0354995,
+            "lon": -82.4204208,
+            "tags": {
+                "name": "Cheetah Hunt",
+                "oneway": "yes",
+                "roller_coaster": "track",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Cheetah_Hunt_overview.jpg/1280px-Cheetah_Hunt_overview.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 656573179,
+            "lat": 28.0400856,
+            "lon": -82.423065,
+            "tags": {
+                "name": "Kumba",
+                "oneway": "yes",
+                "roller_coaster": "track",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Kumbas_vertical_loop_3.jpg/1280px-Kumbas_vertical_loop_3.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 657717217,
+            "lat": 28.0396165,
+            "lon": -82.4226704,
+            "tags": {
+                "name": "Kumba",
+                "oneway": "yes",
+                "roller_coaster": "track",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Kumbas_vertical_loop_3.jpg/1280px-Kumbas_vertical_loop_3.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 657717218,
+            "lat": 28.0397998,
+            "lon": -82.4230948,
+            "tags": {
+                "name": "Kumba",
+                "oneway": "yes",
+                "roller_coaster": "track",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Kumbas_vertical_loop_3.jpg/1280px-Kumbas_vertical_loop_3.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 657717219,
+            "lat": 28.0396918,
+            "lon": -82.4236288,
+            "tags": {
+                "name": "Kumba",
+                "oneway": "yes",
+                "roller_coaster": "track",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Kumbas_vertical_loop_3.jpg/1280px-Kumbas_vertical_loop_3.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 958225638,
+            "lat": 28.0341812,
+            "lon": -82.417996,
+            "tags": {
+                "name": "Montu",
+                "roller_coaster": "station",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Montu_%28Busch_Gardens_Africa%29_01.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 958225640,
+            "lat": 28.0340576,
+            "lon": -82.4200021,
+            "tags": {
+                "name": "Cheetah Hunt",
+                "oneway": "yes",
+                "roller_coaster": "track",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Cheetah_Hunt_overview.jpg/1280px-Cheetah_Hunt_overview.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 958228532,
+            "lat": 28.0367693,
+            "lon": -82.4244231,
+            "tags": {
+                "name": "Sheikra",
+                "roller_coaster": "station",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/SheiKra_%28Busch_Gardens_Africa%29_05.JPG/1280px-SheiKra_%28Busch_Gardens_Africa%29_05.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 958229525,
+            "lat": 28.0347164,
+            "lon": -82.425351,
+            "tags": {
+                "name": "Air Grover",
+                "oneway": "yes",
+                "roller_coaster": "station",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/SheiKra_%28Busch_Gardens_Africa%29_05.JPG/1280px-SheiKra_%28Busch_Gardens_Africa%29_05.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 958234059,
+            "lat": 28.0347653,
+            "lon": -82.4185157,
+            "tags": {
+                "name": "Cobra's Curse",
+                "roller_coaster": "track",
+                "tourism": "attraction",
+                "wikidata": "Q23831274"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Montu_%28Busch_Gardens_Africa%29_01.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 958234060,
+            "lat": 28.034615,
+            "lon": -82.4187221,
+            "tags": {
+                "name": "Cobra's Curse",
+                "roller_coaster": "station",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Montu_%28Busch_Gardens_Africa%29_01.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 958249644,
+            "lat": 28.0396694,
+            "lon": -82.4233119,
+            "tags": {
+                "name": "Kumba",
+                "oneway": "yes",
+                "roller_coaster": "track",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Kumbas_vertical_loop_3.jpg/1280px-Kumbas_vertical_loop_3.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 1251873355,
+            "lat": 28.0379233,
+            "lon": -82.4240679,
+            "tags": {
+                "layer": "-1",
+                "name": "Stanleyville Falls",
+                "roller_coaster": "water_track",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Scorpion_%28Busch_Gardens_Afrika%29.JPG/1280px-Scorpion_%28Busch_Gardens_Afrika%29.JPG",
+            "image_source": "wikipedia_verified"
+        }
+    ]
+}

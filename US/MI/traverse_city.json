@@ -1,0 +1,375 @@
+{
+    "city_metadata": {
+        "city_name": "Traverse City",
+        "state_code": "MI",
+        "state_full": "Michigan",
+        "city_summary": "Traverse City ( TRAV-ərss) is a city in the U.S. state of Michigan. It is the county seat of Grand Traverse County, although it partly extends into Leelanau County. The city's population was 15,678 at the 2020 census, while the four-county Traverse City metropolitan area had  153,448 residents.",
+        "city_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Grand_Traverse_County_Courthouse.jpg/1280px-Grand_Traverse_County_Courthouse.jpg",
+        "city_lat": 44.76805556,
+        "city_lon": -85.62222222,
+        "source": "wikipedia_verified_engine"
+    },
+    "attractions": [
+        {
+            "type": "way",
+            "id": 124545326,
+            "lat": 44.7646973,
+            "lon": -85.5876919,
+            "tags": {
+                "addr:city": "Traverse City",
+                "addr:housenumber": "1701",
+                "addr:postcode": "49686",
+                "addr:state": "MI",
+                "addr:street": "East Front Street",
+                "building": "yes",
+                "fee": "yes",
+                "gnis:feature_id": "2497243",
+                "museum": "art",
+                "name": "Dennos Museum Center",
+                "opening_hours": "11:00-16:00",
+                "phone": "+1-231-995-1055",
+                "tourism": "museum",
+                "website": "https://www.dennosmuseum.org/",
+                "wikidata": "Q5259136"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Dennos_Museum_sign.jpg/1280px-Dennos_Museum_sign.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 135007,
+            "lat": 45.6625,
+            "lon": -97.04527778,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Welcometosisseton.JPG/1280px-Welcometosisseton.JPG",
+            "description": "Sisseton is a city in Roberts County, South Dakota, United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Sisseton, South Dakota",
+                "wikipedia": "en:Sisseton, South Dakota",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 43705195,
+            "lat": 44.72305556,
+            "lon": -85.75777778,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Long_Lake_Traverse_City.jpg/1280px-Long_Lake_Traverse_City.jpg",
+            "description": "Long Lake is a large lake in the Lower Peninsula of the U.S. state of Michigan.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Long Lake (Grand Traverse County, Michigan)",
+                "wikipedia": "en:Long Lake (Grand Traverse County, Michigan)",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 38165698,
+            "lat": 10.702015,
+            "lon": 122.544905,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Iloilo_River_Esplanade_I.jpg/1280px-Iloilo_River_Esplanade_I.jpg",
+            "description": "The Iloilo River Esplanade is a 9.29-kilometre-long (5.77 mi) urban esplanade and linear park along the Iloilo River in Iloilo City, Philippines.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Iloilo River Esplanade",
+                "wikipedia": "en:Iloilo River Esplanade",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 65890635,
+            "lat": 14.53472222,
+            "lon": 120.97972222,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/db/SM_by_the_bay.JPG",
+            "description": "SM By The Bay is a 1.5-kilometer (0.93 mi) seaside esplanade and amusement park located within the SM Mall of Asia Complex in Bay City, Pasay, Philippines.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "SM By The Bay",
+                "wikipedia": "en:SM By The Bay",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 179902,
+            "lat": 10.52761111,
+            "lon": 76.21438889,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/JJP_112.jpg/1280px-JJP_112.jpg",
+            "description": "Thrissur (Malayalam: തൃശൂർ, pronounced [triˈʃ(ː)uːr] ), formerly Trichur, also known by its historical name Thrissivaperur, is a city and the headquarters of the Thrissur district in Kerala, India.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Thrissur",
+                "wikipedia": "en:Thrissur",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 56115952,
+            "lat": 44.865618,
+            "lon": -85.57693,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/18/Power_Island.jpg",
+            "description": "Power Island (formerly Marion Island) is an island in Lake Michigan in the U.S. state of Michigan.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Power Island",
+                "wikipedia": "en:Power Island",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 50020237,
+            "lat": 50.000115,
+            "lon": 19.409078,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Energylandia_-_Entrance_%282018%29.jpg/1280px-Energylandia_-_Entrance_%282018%29.jpg",
+            "description": "Energylandia is an amusement park located in Zator, Lesser Poland, in southern Poland.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Energylandia",
+                "wikipedia": "en:Energylandia",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 16964600,
+            "lat": 46.36666667,
+            "lon": 23.2,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/LupsaAB2013_%2835%29.JPG/1280px-LupsaAB2013_%2835%29.JPG",
+            "description": "Lupșa (German: Wolfsdorf; Hungarian: Nagylupsa) is a commune located in Alba County, Transylvania, Romania.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Lupșa",
+                "wikipedia": "en:Lupșa",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 16565696,
+            "lat": 8.50502,
+            "lon": 124.65753,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/60/CDOkayak-raft.JPG",
+            "description": "The Cagayan River, also known as the Cagayan de Oro River, is one of the rivers draining the northern central part of the island of Mindanao in the Philippines.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Cagayan River (Mindanao)",
+                "wikipedia": "en:Cagayan River (Mindanao)",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 21474276,
+            "lat": 30.6,
+            "lon": 105.23333333,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Location_of_Daying_within_Sichuan_%28China%29.png",
+            "description": "Daying County (simplified Chinese: 大英县; traditional Chinese: 大英縣; pinyin: Dàyīng Xiàn) is a county of Sichuan province, China, under the administration of Suining City and in the central part of the Sichuan Basin.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Daying County",
+                "wikipedia": "en:Daying County",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 117927,
+            "lat": 45.13083333,
+            "lon": -85.61666667,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Northport_Michigan_Looking_North_M-201.jpg/1280px-Northport_Michigan_Looking_North_M-201.jpg",
+            "description": "Northport is a village in Leelanau County in the U.S. state of Michigan.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Northport, Michigan",
+                "wikipedia": "en:Northport, Michigan",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 1582911,
+            "lat": 44.75,
+            "lon": -84.75,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Sleeping_Bear_Dunes%2C_North_Bar_Lake_%288741875482%29.jpg/1280px-Sleeping_Bear_Dunes%2C_North_Bar_Lake_%288741875482%29.jpg",
+            "description": "Northern Michigan (also known as Northern Lower Michigan and colloquially within Michigan as \"Up North\") is a region of the U.S. state of Michigan.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Northern Michigan",
+                "wikipedia": "en:Northern Michigan",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 505606,
+            "lat": 48.83166667,
+            "lon": -64.48666667,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Gasp%C3%A9%2C_Quebec%2C_Canada.jpg/1280px-Gasp%C3%A9%2C_Quebec%2C_Canada.jpg",
+            "description": "Gaspé (French pronunciation: [ɡaspe]) is a city at the tip of the Gaspé Peninsula in the Gaspésie–Îles-de-la-Madeleine region of eastern Quebec in Canada.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Gaspé, Quebec",
+                "wikipedia": "en:Gaspé, Quebec",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 3947054,
+            "lat": 10.1599,
+            "lon": -83.974425,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a3/BraulioCarrillo1.jpg",
+            "description": "Braulio Carrillo National Park is a national park in Heredia Province, Cartago Province, Limón Province  and San José Province, in central Costa Rica.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Braulio Carrillo National Park",
+                "wikipedia": "en:Braulio Carrillo National Park",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 1173738,
+            "lat": -22.46888889,
+            "lon": -44.44694444,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/A_cidade_de_Resende_RJ%2C_aos_p%C3%A9s_da_Serra_da_Mantiqueira.jpg/1280px-A_cidade_de_Resende_RJ%2C_aos_p%C3%A9s_da_Serra_da_Mantiqueira.jpg",
+            "description": "Resende (Brazilian Portuguese pronunciation: [ʁeˈzẽdʒi]) is a municipality located in the Brazilian state of Rio de Janeiro.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Resende, Rio de Janeiro",
+                "wikipedia": "en:Resende, Rio de Janeiro",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 17454,
+            "lat": 39.09972222,
+            "lon": -94.57833333,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Kansas_City_-_Downtown_-_panoramio_%2815%29.jpg/1280px-Kansas_City_-_Downtown_-_panoramio_%2815%29.jpg",
+            "description": "Kansas City, abbreviated KC or KCMO, is the largest city in the U.S. state of Missouri by both population and area.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Kansas City, Missouri",
+                "wikipedia": "en:Kansas City, Missouri",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 6051947,
+            "lat": 60.13318,
+            "lon": 6.75472,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Trolltunga_2017.jpg/1280px-Trolltunga_2017.jpg",
+            "description": "Trolltunga (lit. 'the troll tongue') is a rock formation situated at an elevaton of 1,126 metres (3,694 ft) above sea level in Ullensvang Municipality in Vestland county, Norway.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Trolltunga",
+                "wikipedia": "en:Trolltunga",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 1820279,
+            "lat": 10.61666667,
+            "lon": 104.05,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Kampot_Cambodia.jpg/1280px-Kampot_Cambodia.jpg",
+            "description": "The Dâmrei Mountains (literally the \"Elephant Mountains\", Khmer: ភ្នំដំរី, Chuŏr Phnum Dâmrei),  refer to a mountain range situated in south-western Cambodia, traversing around 110 km (68 mi) north-south as a succession of the Cardamom Mountains, dropping abruptly to the sea near the town of Kampot.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Dâmrei Mountains",
+                "wikipedia": "en:Dâmrei Mountains",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 441776,
+            "lat": 53.33083333,
+            "lon": -6.28555556,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/24/Grand_Canal_Dublin_2006.jpg",
+            "description": "The Grand Canal (Irish: An Chanáil Mhór) is the southernmost of a pair of canals that connect Dublin, in the east of Ireland, with the River Shannon in the west, via Tullamore and a number of other villages and towns, the two canals nearly encircling Dublin's inner city.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Grand Canal (Ireland)",
+                "wikipedia": "en:Grand Canal (Ireland)",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 269223,
+            "lat": 28.26861111,
+            "lon": -16.60555556,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Tenerife%2C_Canary_Islands_ESA23970088.jpeg/1280px-Tenerife%2C_Canary_Islands_ESA23970088.jpeg",
+            "description": "Tenerife ( TEN-ə-REEF-(ay); Spanish: [teneˈɾife] ; formerly spelled Teneriffe) is the largest and most-populous island of the Canary Islands, an autonomous community of Spain.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Tenerife",
+                "wikipedia": "en:Tenerife",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 53837,
+            "lat": 40.76083333,
+            "lon": -111.89111111,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Salt_Lake_Union_Pacific_Railroad_Station%2C_South_Temple_at_400_West%2C_Central_City_West%2C_Salt_Lake_City%2C_UT%2C_USA.jpg/1280px-Salt_Lake_Union_Pacific_Railroad_Station%2C_South_Temple_at_400_West%2C_Central_City_West%2C_Salt_Lake_City%2C_UT%2C_USA.jpg",
+            "description": "Salt Lake City, often shortened to Salt Lake or SLC, is the capital and most populous city of the U.S. state of Utah.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Salt Lake City",
+                "wikipedia": "en:Salt Lake City",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 12562775,
+            "lat": -43.53091667,
+            "lon": 172.63444444,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Christchurch_Tram.jpg/1280px-Christchurch_Tram.jpg",
+            "description": "The Christchurch tramway system is a small tramway network serving the inner city of Christchurch, New Zealand.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Christchurch tramway system",
+                "wikipedia": "en:Christchurch tramway system",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 2120234,
+            "lat": 32.76638889,
+            "lon": 21.74166667,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Neighborhood_of_Al_Akhdar_%28Bayda%2C_Libya%2C2011-08-23%29.jpg",
+            "description": "Bayda or Elbeida (Arabic: البيضاء, romanized: al-Bayḍāʾ, pronounced [al.bajˈdˤaːʔ] ), known as Beda Littoria under Italian colonial rule, is a commercial and industrial city in northern Cyrenaica, eastern Libya.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Bayda, Libya",
+                "wikipedia": "en:Bayda, Libya",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 75416987,
+            "lat": -33.92138889,
+            "lon": 18.42027778,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Cape_Town_City_%28cropped%29.jpg/1280px-Cape_Town_City_%28cropped%29.jpg",
+            "description": "Cape Town CBD (sometimes referred to as Cape Town Central City or City Centre) is the central business district of Cape Town, and the economic centre of the city.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Cape Town CBD",
+                "wikipedia": "en:Cape Town CBD",
+                "tourism": "attraction"
+            }
+        }
+    ]
+}

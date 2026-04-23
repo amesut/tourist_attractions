@@ -1,0 +1,365 @@
+{
+    "city_metadata": {
+        "city_name": "Royal Oak",
+        "state_code": "MI",
+        "state_full": "Michigan",
+        "city_summary": "Royal Oak is a city in Oakland County in the U.S. state of Michigan. An inner-ring suburb of Detroit, Royal Oak is located roughly 10 miles (16.1 km) north of downtown Detroit. As of the 2020 census, the city had a population of 58,211.",
+        "city_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Downtown_Royal_Oak_%282020%29.jpg/1280px-Downtown_Royal_Oak_%282020%29.jpg",
+        "city_lat": 42.48888889,
+        "city_lon": -83.14277778,
+        "source": "wikipedia_verified_engine"
+    },
+    "attractions": [
+        {
+            "type": "node",
+            "id": 7539178284,
+            "lat": 42.4766807,
+            "lon": -83.1530453,
+            "tags": {
+                "name": "Cotton Family Wetlands Boardwalk",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Rackham_Fountain-Det_Zoo.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 205297811,
+            "lat": 42.4770484,
+            "lon": -83.1532602,
+            "tags": {
+                "attraction": "animal",
+                "barrier": "wall",
+                "name": "Jane and Frank Warchol Beaver Habitat",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Rackham_Fountain-Det_Zoo.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 358980020,
+            "lat": 42.5110781,
+            "lon": -83.1612812,
+            "tags": {
+                "addr:city": "Royal Oak",
+                "addr:housenumber": "1411",
+                "addr:postcode": "48073",
+                "addr:state": "MI",
+                "addr:street": "West Webster Road",
+                "building": "yes",
+                "name": "Royal Oak Historical Society",
+                "tourism": "museum"
+            }
+        },
+        {
+            "type": "way",
+            "id": 414207897,
+            "lat": 42.4773598,
+            "lon": -83.1503281,
+            "tags": {
+                "building": "yes",
+                "building:levels": "1",
+                "name": "Polk Penguin Conservation Center",
+                "tourism": "attraction",
+                "website": "https://penguins.detroitzoo.org/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Rackham_Fountain-Det_Zoo.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 118790,
+            "lat": 42.48888889,
+            "lon": -83.14277778,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Downtown_Royal_Oak_%282020%29.jpg/1280px-Downtown_Royal_Oak_%282020%29.jpg",
+            "description": "Royal Oak is a city in Oakland County in the U.S. state of Michigan.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Royal Oak, Michigan",
+                "wikipedia": "en:Royal Oak, Michigan",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 1173060,
+            "lat": 44.70888889,
+            "lon": 26.17138889,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Flickr_-_fusion-of-horizons_-_Snagov_%2834%29.jpg/1280px-Flickr_-_fusion-of-horizons_-_Snagov_%2834%29.jpg",
+            "description": "Snagov is a commune, located 40 km (25 mi) north of Bucharest, in Ilfov County, Muntenia, Romania.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Snagov",
+                "wikipedia": "en:Snagov",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 57833775,
+            "lat": -30.6978,
+            "lon": 151.4686,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Thunderbolts_Rocks.JPG/1280px-Thunderbolts_Rocks.JPG",
+            "description": "Thunderbolt's Rock is a heritage-listed rock and now picnic site and tourist attraction located adjacent to the New England Highway in Uralla, a town in the New England region of New South Wales, Australia.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Captain Thunderbolt's Rock",
+                "wikipedia": "en:Captain Thunderbolt's Rock",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 372958,
+            "lat": 51.75,
+            "lon": -9.552,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Blue_Pool%2C_Glengariff_%282%29.jpg/1280px-Blue_Pool%2C_Glengariff_%282%29.jpg",
+            "description": "Glengarriff (Irish: An Gleann Garbh, meaning 'the rough glen') is a village of approximately 200 people on the N71 national secondary road in the Beara Peninsula  of County Cork, Ireland.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Glengarriff",
+                "wikipedia": "en:Glengarriff",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 46926359,
+            "lat": 42.4877,
+            "lon": -83.142,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Comedy_Castle_at_night.jpg",
+            "description": "Mark Ridley’s Comedy Castle is a comedy club located in Metro Detroit, at 310 S. Troy St., Royal Oak, Michigan 48067.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Mark Ridley's Comedy Castle",
+                "wikipedia": "en:Mark Ridley's Comedy Castle",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 213749,
+            "lat": 52.75,
+            "lon": 23.95,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bialowieza_National_Park_in_Poland0029.JPG/1280px-Bialowieza_National_Park_in_Poland0029.JPG",
+            "description": "Białowieża Forest is a large forest complex and World Heritage Area straddling the border between Poland and Belarus.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Białowieża Forest",
+                "wikipedia": "en:Białowieża Forest",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 44204519,
+            "lat": 42.47685,
+            "lon": -83.15601,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Rackham_Fountain-Det_Zoo.jpg",
+            "description": "The Horace Rackham Memorial Fountain (1939), also known as the Bear Fountain, is a fountain located in the Detroit Zoo, Royal Oak, Michigan.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Horace H. Rackham Memorial Fountain",
+                "wikipedia": "en:Horace H. Rackham Memorial Fountain",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 284084,
+            "lat": 44.51666667,
+            "lon": 20.58333333,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Sopot%2C_centar%2C_spomenik_Djuri_Prokicu.jpg/1280px-Sopot%2C_centar%2C_spomenik_Djuri_Prokicu.jpg",
+            "description": "Sopot (Serbian Cyrillic: Сопот, pronounced [sɔ̂pɔːt]) is a municipality of the city of Belgrade.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Sopot, Belgrade",
+                "wikipedia": "en:Sopot, Belgrade",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 33636038,
+            "lat": 29.381,
+            "lon": 79.469,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Bear_in_G_B_Pant_High_Altitude_Zoo%2CNainital.jpg/1280px-Bear_in_G_B_Pant_High_Altitude_Zoo%2CNainital.jpg",
+            "description": "Pt.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "G. B. Pant High Altitude Zoo",
+                "wikipedia": "en:G. B. Pant High Altitude Zoo",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 3397093,
+            "lat": 51.62666667,
+            "lon": 6.19666667,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/31/Schloss_Kalbeck_mit_Garten.jpg",
+            "description": "Weeze (German pronunciation: [ˈveːtsə]) is a municipality in the Lower Rhine (Niederrhein) region, located in the northwestern part of North Rhine-Westphalia, specifically in the district of Kleve and the Düsseldorf region.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Weeze",
+                "wikipedia": "en:Weeze",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 858144,
+            "lat": 42.47694444,
+            "lon": -83.15694444,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Detroit_Zoo.jpg/1280px-Detroit_Zoo.jpg",
+            "description": "The Detroit Zoo is a zoo located in the cities of Huntington Woods and Royal Oak in the U.S. state of Michigan.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Detroit Zoo",
+                "wikipedia": "en:Detroit Zoo",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 5346938,
+            "lat": 42.63333333,
+            "lon": 18.11666667,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Isla_de_Lokrum%2C_Croacia%2C_2014-04-14%2C_DD_01.JPG/1280px-Isla_de_Lokrum%2C_Croacia%2C_2014-04-14%2C_DD_01.JPG",
+            "description": "Lokrum (pronounced [lɔ̌krum], Italian: Lacroma) is an island in the Adriatic Sea 600 metres (1,969 feet) from the city of Dubrovnik, Croatia.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Lokrum",
+                "wikipedia": "en:Lokrum",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 32388,
+            "lat": 48.42833333,
+            "lon": -123.36472222,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Victoria_BC_Downtown_skyline.jpg/1280px-Victoria_BC_Downtown_skyline.jpg",
+            "description": "Victoria is the capital city of the Canadian province of British Columbia, located on the southern tip of Vancouver Island off Canada's Pacific coast.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Victoria, British Columbia",
+                "wikipedia": "en:Victoria, British Columbia",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 302674,
+            "lat": 40.59361111,
+            "lon": -4.14277778,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Las_vistas_desde_la_silla_de_Felipe_II_%2814870577465%29.jpg/1280px-Las_vistas_desde_la_silla_de_Felipe_II_%2814870577465%29.jpg",
+            "description": "San Lorenzo de El Escorial, also known as El Escorial de Arriba, is a town and municipality in the Community of Madrid, Spain, located to the northwest of the region in the southeastern side of the Sierra de Guadarrama, at the foot of Mount Abantos and Las Machotas, 47 kilometres (29 mi) from Madrid.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "San Lorenzo de El Escorial",
+                "wikipedia": "en:San Lorenzo de El Escorial",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 1791425,
+            "lat": 51.43916667,
+            "lon": -0.62472222,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Windsor_Great_Park.jpg/1280px-Windsor_Great_Park.jpg",
+            "description": "Windsor Great Park is a royal park of 2,020 hectares (5,000 acres) to the south of the town of Windsor on the border of Berkshire and Surrey in England.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Windsor Great Park",
+                "wikipedia": "en:Windsor Great Park",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 19193425,
+            "lat": 49.24585,
+            "lon": 2.57097,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Panneau_-_For%C3%AAt_d%27Halatte.jpg",
+            "description": "The Forest of Halatte (Forêt d'Halatte, French pronunciation: [fɔʁɛ dalat]) in Picardy is one of the largest remaining blocks of natural old-growth forest in France.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Forest of Halatte",
+                "wikipedia": "en:Forest of Halatte",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 490908,
+            "lat": 42.4467,
+            "lon": -83.125,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Detroit_Skyline_%28Nov2021%29.jpg/1280px-Detroit_Skyline_%28Nov2021%29.jpg",
+            "description": "Metro Detroit is a major metropolitan area in the U.S. state of Michigan, consisting of the city of Detroit and over 200 municipalities in the surrounding area.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Metro Detroit",
+                "wikipedia": "en:Metro Detroit",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 79590971,
+            "lat": 62.7375,
+            "lon": 7.1591,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Downtown_Molde_%282023-10-26_11-31-23%29.jpg/1280px-Downtown_Molde_%282023-10-26_11-31-23%29.jpg",
+            "description": "Molde (Norwegian pronunciation: [ˈmɔ̂ɫdə] ) is a town, an Urban Area, and the seat of Molde Municipality in Møre og Romsdal county, Norway.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Molde",
+                "wikipedia": "en:Molde",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 12593994,
+            "lat": -31.942727,
+            "lon": 115.910351,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Tranby_House1.jpg/1280px-Tranby_House1.jpg",
+            "description": "Tranby (Peninsula Farm) is a historic farmers cottage located on Johnson Road in Maylands overlooking the Swan River opposite Kuljak Island, and is one of the oldest surviving buildings from the early settlement of the Swan River Colony.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Tranby House",
+                "wikipedia": "en:Tranby House",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 27644,
+            "lat": 29.5,
+            "lon": 33.8,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/76/Sinai-peninsula-map.jpg",
+            "description": "The Sinai Peninsula, or simply Sinai ( SY-ny; Arabic: سيناء, romanized: Sīnāʾ), is a peninsula in Egypt, and the only part of the country located in West Asia.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Sinai Peninsula",
+                "wikipedia": "en:Sinai Peninsula",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 198030,
+            "lat": 43.94722222,
+            "lon": 4.53555556,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Pont_du_Gard_BLS.jpg/1280px-Pont_du_Gard_BLS.jpg",
+            "description": "The Pont du Gard is an ancient Roman aqueduct bridge built in the first century AD to carry water over 50 km (31 mi) to the Roman colony of Nemausus (Nîmes).",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Pont du Gard",
+                "wikipedia": "en:Pont du Gard",
+                "tourism": "attraction"
+            }
+        }
+    ]
+}

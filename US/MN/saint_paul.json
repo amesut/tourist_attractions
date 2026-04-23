@@ -1,0 +1,623 @@
+{
+    "city_metadata": {
+        "city_name": "Saint Paul",
+        "state_code": "MN",
+        "state_full": "Minnesota",
+        "city_summary": "Saint Paul (often abbreviated to St. Paul) is the capital city of the U.S. state of Minnesota and the county seat of Ramsey County. As of the 2020 census, the city had a population of 311,527, making it Minnesota's second-most populous city and the 63rd-most populous in the United States.",
+        "city_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/James_J._Hill_House_2013.jpg/1280px-James_J._Hill_House_2013.jpg",
+        "city_lat": 44.94777778,
+        "city_lon": -93.10388889,
+        "source": "wikipedia_verified_engine"
+    },
+    "attractions": [
+        {
+            "type": "node",
+            "id": 366489738,
+            "lat": 41.215527,
+            "lon": -98.4566015,
+            "tags": {
+                "addr:city": "Saint Paul",
+                "building": "yes",
+                "gnis:feature_id": "1874786",
+                "name": "Gruber House",
+                "tourism": "museum",
+                "website": "http://www.historichc.org/gruber/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Howard_County%2C_Nebraska_courthouse_from_SE_2.JPG/1280px-Howard_County%2C_Nebraska_courthouse_from_SE_2.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 366492389,
+            "lat": 41.2131801,
+            "lon": -98.4577843,
+            "tags": {
+                "addr:city": "Saint Paul",
+                "addr:housenumber": "619",
+                "addr:postcode": "68873",
+                "addr:state": "NE",
+                "addr:street": "Howard Avenue",
+                "gnis:feature_id": "1874785",
+                "import_uuid": "gnis.57871b70-0100-4405-bb30-88b2e001a944",
+                "is_in:city": "Saint Paul",
+                "is_in:state": "Nebraska",
+                "is_in:state_code": "NE",
+                "name": "Museum of Nebraska Major League Baseball",
+                "source": "USGS Geonames",
+                "tourism": "museum",
+                "website": "http://www.nebraskabaseballmuseum.com/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Saint_Paul%2C_Nebraska_water_tower_2.JPG/1280px-Saint_Paul%2C_Nebraska_water_tower_2.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 546885175,
+            "lat": 44.9477142,
+            "lon": -93.0969043,
+            "tags": {
+                "fee": "yes",
+                "name": "Minnesota Children's Museum",
+                "tourism": "museum",
+                "website": "https://mcm.org/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Minnesota_Children%27s_Museum_01.jpg/1280px-Minnesota_Children%27s_Museum_01.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 754633499,
+            "lat": 17.0041889,
+            "lon": -61.7628323,
+            "tags": {
+                "historic": "fort",
+                "name": "Fort Berkeley",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Nelson%27s_Dockyard.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 754633507,
+            "lat": 17.0010911,
+            "lon": -61.7611727,
+            "tags": {
+                "name": "Pillars of Hercules",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 754633545,
+            "lat": 17.0022859,
+            "lon": -61.7549845,
+            "tags": {
+                "email": "info@shirleyheightslookout.com",
+                "name": "Shirley Heights",
+                "phone": "+1-268-728-0636",
+                "tourism": "attraction",
+                "website": "https://www.shirleyheightslookout.com/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/English_Harbour.jpg/1280px-English_Harbour.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 4258761089,
+            "lat": 17.0494454,
+            "lon": -61.7510542,
+            "tags": {
+                "name": "Antigua Donkey Sanctuary",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Bethesda_in_2023.jpg/1280px-Bethesda_in_2023.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 4441264388,
+            "lat": 41.2148151,
+            "lon": -98.4563618,
+            "tags": {
+                "name": "Howard County Historical Village",
+                "tourism": "museum",
+                "website": "http://www.historichc.org/village/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Howard_County%2C_Nebraska_courthouse_from_SE_2.JPG/1280px-Howard_County%2C_Nebraska_courthouse_from_SE_2.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 5435642860,
+            "lat": 17.0054752,
+            "lon": -61.7674598,
+            "tags": {
+                "historic": "cannon",
+                "name": "Keene's (Gun emplacement)",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Nelson%27s_Dockyard.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 5435642862,
+            "lat": 17.0049096,
+            "lon": -61.7686638,
+            "tags": {
+                "name": "Middle Ground Fort",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Antigua_-_View_from_Shirley_Heights_-_English_Harbor_-_Falmouth_Harbor_-_Galleon_Beach_-_panoramio.jpg/1280px-Antigua_-_View_from_Shirley_Heights_-_English_Harbor_-_Falmouth_Harbor_-_Galleon_Beach_-_panoramio.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 6229056915,
+            "lat": 17.0101734,
+            "lon": -61.7686969,
+            "tags": {
+                "historic": "tank",
+                "name": "Water Cistern",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Antigua_-_View_from_Shirley_Heights_-_English_Harbor_-_Falmouth_Harbor_-_Galleon_Beach_-_panoramio.jpg/1280px-Antigua_-_View_from_Shirley_Heights_-_English_Harbor_-_Falmouth_Harbor_-_Galleon_Beach_-_panoramio.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 7192306902,
+            "lat": 44.9608348,
+            "lon": -93.185557,
+            "tags": {
+                "addr:city": "55114",
+                "addr:housenumber": "668",
+                "addr:state": "MN",
+                "addr:street": "Transfer Road",
+                "addr:unit": "#8",
+                "fee": "yes",
+                "museum": "model railroad",
+                "name": "Twin City Model Railroad Museum",
+                "opening_hours": "Mo 10:00-15:00; Fr 10:00-15:00; Sa 10:00-17:00, 18:00-21:00; Su 12:00-17:00",
+                "phone": "+1-651-647-9628",
+                "tourism": "museum",
+                "website": "https://www.tcmrm.org/",
+                "wikidata": "Q22073678",
+                "wikipedia": "en:Twin City Model Railroad Museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Twin_City_Model_Railroad_Museum.jpg/1280px-Twin_City_Model_Railroad_Museum.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 10964384505,
+            "lat": 17.0176189,
+            "lon": -61.7692657,
+            "tags": {
+                "name": "Dive Carib Antigua",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/94/View_from_Cobbs_Cross.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 11875134169,
+            "lat": 17.0487547,
+            "lon": -61.7604999,
+            "tags": {
+                "name": "Donkey sanctuary",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Table_Hill_Gardens_in_Saint_Paul.svg/1280px-Table_Hill_Gardens_in_Saint_Paul.svg.png",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 11959212744,
+            "lat": 44.9470505,
+            "lon": -93.0902963,
+            "tags": {
+                "addr:housenumber": "350",
+                "addr:street": "Robert Street North",
+                "check_date": "2024-06-05",
+                "museum": "art",
+                "name": "Minnesota Museum Of American Art",
+                "opening_hours": "Mo-We off; Th-Su 10:00-16:00",
+                "source": "survey",
+                "tourism": "museum",
+                "website": "https://mmaa.org/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Pioneer-endicott2.jpg/1280px-Pioneer-endicott2.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 39662492,
+            "lat": 44.9495358,
+            "lon": -93.1052792,
+            "tags": {
+                "addr:city": "St. Paul",
+                "addr:housenumber": "345",
+                "addr:postcode": "55102",
+                "addr:state": "MN",
+                "addr:street": "West Kellogg Blvd",
+                "building": "yes",
+                "check_date:opening_hours": "2023-05-03",
+                "ele": "257",
+                "fee": "yes",
+                "fee:conditional": "no @ (age < 5)",
+                "gnis:feature_id": "2478007",
+                "museum": "history",
+                "name": "Minnesota History Center",
+                "opening_hours": "We-Sa 10:00-16:00; Th 10:00-20:00; Su 11:00-16:00; Dec 26-29 10:00-16:00; Dec 31 11:00-16:00; PH off",
+                "source": "USGS Geonames",
+                "tourism": "museum",
+                "wheelchair": "yes",
+                "wikidata": "Q6868300"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/84/MN_History_Center01.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 39662664,
+            "lat": 44.9823734,
+            "lon": -93.1739985,
+            "tags": {
+                "area": "yes",
+                "landuse": "fairground",
+                "name": "Minnesota State Fairgrounds",
+                "tourism": "attraction",
+                "wikidata": "Q1937367",
+                "wikipedia": "en:Minnesota State Fair"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Fairchild.JPG/1280px-Fairchild.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 41107198,
+            "lat": 44.982478,
+            "lon": -93.1538936,
+            "tags": {
+                "addr:city": "Saint Paul",
+                "addr:housenumber": "1225",
+                "addr:postcode": "55103",
+                "addr:state": "MN",
+                "addr:street": "Estabrook Drive",
+                "name": "Como Park Zoo",
+                "tourism": "zoo",
+                "website": "https://comozooconservatory.org/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Como_Park_Zoo_and_Conservatory-2006.jpg/1280px-Como_Park_Zoo_and_Conservatory-2006.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 41107199,
+            "lat": 44.9813939,
+            "lon": -93.1542233,
+            "tags": {
+                "name": "Como Town",
+                "tourism": "theme_park"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/1936ComoZoo.JPG/1280px-1936ComoZoo.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 43401939,
+            "lat": 44.9477285,
+            "lon": -93.0971018,
+            "tags": {
+                "addr:city": "Saint Paul",
+                "addr:housenumber": "10",
+                "addr:postcode": "55102",
+                "addr:state": "MN",
+                "addr:street": "7th Street West",
+                "building": "yes",
+                "fee": "yes",
+                "name": "Minnesota Children's Museum",
+                "tourism": "museum",
+                "website": "https://mcm.org/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Minnesota_Children%27s_Museum_01.jpg/1280px-Minnesota_Children%27s_Museum_01.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 54581755,
+            "lat": 44.9425363,
+            "lon": -93.098831,
+            "tags": {
+                "addr:city": "Saint Paul",
+                "addr:housenumber": "120",
+                "addr:postcode": "55102",
+                "addr:state": "MN",
+                "addr:street": "West Kellogg Boulevard",
+                "building": "yes",
+                "check_date:opening_hours": "2023-05-03",
+                "ele": "220",
+                "fee": "yes",
+                "fee:conditional": "no @ (age < 4)",
+                "gnis:feature_id": "2478061",
+                "layer": "1",
+                "name": "Science Museum of Minnesota",
+                "opening_hours": "Mo-Su 10:00-17:00; Fr,Sa 10:00-20:00",
+                "source": "USGS Geonames",
+                "tourism": "museum",
+                "website": "https://new.smm.org/",
+                "wheelchair": "yes",
+                "wikidata": "Q3777245",
+                "wikipedia": "en:Science Museum of Minnesota"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Science_Museum_of_Minnesota_front.jpg/1280px-Science_Museum_of_Minnesota_front.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 85851224,
+            "lat": 44.9830062,
+            "lon": -93.153912,
+            "tags": {
+                "attraction": "animal",
+                "name": "Bison",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/1936ComoZoo.JPG/1280px-1936ComoZoo.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 85851225,
+            "lat": 44.9829254,
+            "lon": -93.1545273,
+            "tags": {
+                "attraction": "animal",
+                "name": "Arctic Fox",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/1936ComoZoo.JPG/1280px-1936ComoZoo.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 85851226,
+            "lat": 44.9830865,
+            "lon": -93.1544803,
+            "tags": {
+                "attraction": "animal",
+                "name": "Reindeer",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/1936ComoZoo.JPG/1280px-1936ComoZoo.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 85852648,
+            "lat": 44.9823225,
+            "lon": -93.1532418,
+            "tags": {
+                "attraction": "animal",
+                "barrier": "fence",
+                "name": "Seals",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/1936ComoZoo.JPG/1280px-1936ComoZoo.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 85859924,
+            "lat": 44.9807009,
+            "lon": -93.1526966,
+            "tags": {
+                "attraction": "carousel",
+                "building": "yes",
+                "name": "Cafesjian's Carousel",
+                "tourism": "attraction",
+                "website": "https://www.ourfaircarousel.org/",
+                "wheelchair": "yes"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Como_Park_Zoo_and_Conservatory-2006.jpg/1280px-Como_Park_Zoo_and_Conservatory-2006.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 86014020,
+            "lat": 44.98284,
+            "lon": -93.1551046,
+            "tags": {
+                "attraction": "animal",
+                "name": "Tiger",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/1936ComoZoo.JPG/1280px-1936ComoZoo.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 86014046,
+            "lat": 44.9822958,
+            "lon": -93.1541174,
+            "tags": {
+                "attraction": "animal",
+                "name": "Zebra",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/1936ComoZoo.JPG/1280px-1936ComoZoo.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 86014076,
+            "lat": 44.9832006,
+            "lon": -93.1549419,
+            "tags": {
+                "attraction": "animal",
+                "name": "Lion",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/1936ComoZoo.JPG/1280px-1936ComoZoo.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 86072713,
+            "lat": 44.9819514,
+            "lon": -93.1526592,
+            "tags": {
+                "attraction": "animal",
+                "name": "Flamingo",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/1936ComoZoo.JPG/1280px-1936ComoZoo.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 86072716,
+            "lat": 44.9818432,
+            "lon": -93.1530892,
+            "tags": {
+                "attraction": "animal",
+                "name": "Sumatran Orangutan",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/1936ComoZoo.JPG/1280px-1936ComoZoo.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 86094175,
+            "lat": 44.9824759,
+            "lon": -93.1547407,
+            "tags": {
+                "attraction": "animal",
+                "name": "Giraffe",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/1936ComoZoo.JPG/1280px-1936ComoZoo.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 86094176,
+            "lat": 44.9831469,
+            "lon": -93.1542307,
+            "tags": {
+                "attraction": "animal",
+                "name": "Dall's Sheep",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/1936ComoZoo.JPG/1280px-1936ComoZoo.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 92433706,
+            "lat": 44.9415628,
+            "lon": -93.1042933,
+            "tags": {
+                "addr:housenumber": "265",
+                "addr:postcode": "55102",
+                "addr:street": "Exchange Street South",
+                "building": "yes",
+                "name": "Alexander Ramsey House",
+                "operator": "Minnesota Historical Society",
+                "phone": "+1 651 296 8760",
+                "tourism": "museum",
+                "website": "https://www.mnhs.org/ramseyhouse",
+                "wikidata": "Q4719914"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Alexander_Ramsey_House_2015.jpg/1280px-Alexander_Ramsey_House_2015.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 144002537,
+            "lat": 17.0109674,
+            "lon": -61.7575487,
+            "tags": {
+                "building": "yes",
+                "name": "Dow's hill interpretation center",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/English_Harbour_%2813166934884%29.jpg/1280px-English_Harbour_%2813166934884%29.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 220179650,
+            "lat": 17.0078852,
+            "lon": -61.7653471,
+            "tags": {
+                "building": "yes",
+                "name": "Dockyard Museum",
+                "source": "bing",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Dockyard_Museum.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 248773802,
+            "lat": 44.9627126,
+            "lon": -93.0967462,
+            "tags": {
+                "addr:city": "Saint Paul",
+                "addr:housenumber": "193",
+                "addr:postcode": "55130",
+                "addr:state": "MN",
+                "addr:street": "Pennsylvania Avenue",
+                "check_date:opening_hours": "2023-05-03",
+                "ele": "258",
+                "fee": "yes",
+                "gnis:feature_id": "2478011",
+                "name": "Minnesota Transportation Museum",
+                "opening_hours": "We 10:00-16:00; Sa 10:00-16:00",
+                "source": "USGS Geonames",
+                "tourism": "museum",
+                "website": "https://transportationmuseum.org/",
+                "wikidata": "Q6868587"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Foyer%2C_Minnesota_Transportation_Museum-02.jpg/1280px-Foyer%2C_Minnesota_Transportation_Museum-02.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 267077709,
+            "lat": 44.982498,
+            "lon": -93.1557399,
+            "tags": {
+                "attraction": "animal",
+                "name": "Wolf  Woods",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/1936ComoZoo.JPG/1280px-1936ComoZoo.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 410678391,
+            "lat": 44.9393025,
+            "lon": -93.1285324,
+            "tags": {
+                "addr:city": "Saint Paul",
+                "addr:housenumber": "66",
+                "addr:postcode": "55105",
+                "addr:state": "MN",
+                "addr:street": "Saint Albans Street",
+                "building": "yes",
+                "name": "Julian H Sleeper House",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Frank_B._Kellogg_House.jpg/1280px-Frank_B._Kellogg_House.jpg",
+            "image_source": "wikipedia_verified"
+        }
+    ]
+}

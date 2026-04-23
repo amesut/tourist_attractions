@@ -1,0 +1,310 @@
+{
+    "city_metadata": {
+        "city_name": "Stillwater",
+        "state_code": "OK",
+        "state_full": "Oklahoma",
+        "city_summary": "Stillwater is the tenth-largest city in the U.S. state of Oklahoma, and the county seat of Payne County. It is located in north-central Oklahoma at the intersection of U.S. Route 177 and State Highway 51. As of the 2020 census, the city population was 48,394.",
+        "city_image": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Downtown_Stillwater.JPG",
+        "city_lat": 36.116,
+        "city_lon": -97.059,
+        "source": "wikipedia_verified_engine"
+    },
+    "attractions": [
+        {
+            "type": "node",
+            "id": 367068133,
+            "lat": 45.039043,
+            "lon": -92.8215216,
+            "tags": {
+                "addr:city": "Stillwater",
+                "addr:housenumber": "1862",
+                "addr:state": "MN",
+                "addr:street": "Greeley Street South",
+                "ele": "778",
+                "gnis:feature_id": "2097928",
+                "name": "Washington County Historical Society Museum",
+                "source": "Washington County Historical Society",
+                "tourism": "museum",
+                "website": "https://www.wchsmn.org/"
+            }
+        },
+        {
+            "type": "way",
+            "id": 209322797,
+            "lat": 36.1265227,
+            "lon": -97.0633085,
+            "tags": {
+                "building": "yes",
+                "name": "Wrestling Hall of Fame",
+                "operator": "Oklahoma State University",
+                "tourism": "museum",
+                "wheelchair": "yes"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/9a/National-Wrestling-Hall-of-Fame-Entrance.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 232843102,
+            "lat": 36.1139366,
+            "lon": -97.0603789,
+            "tags": {
+                "addr:city": "Stillwater",
+                "addr:housename": "OSU Museum of Art",
+                "addr:housenumber": "720",
+                "addr:postcode": "74074",
+                "addr:state": "OK",
+                "addr:street": "South Husband Street",
+                "building": "yes",
+                "name": "OSU Museum of Art",
+                "opening_hours": "Tu-Sa 11:00-16:00; Th 11:00-19:00",
+                "operator": "Oklahoma State University",
+                "tourism": "museum",
+                "website": "https://museum.okstate.edu/",
+                "wheelchair": "yes"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Hoke_Building_2.jpg/1280px-Hoke_Building_2.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 368087833,
+            "lat": 36.1143102,
+            "lon": -97.0617015,
+            "tags": {
+                "addr:housenumber": "702",
+                "addr:street": "South Duncan Street",
+                "building": "yes",
+                "name": "Sheerar Museum",
+                "phone": "+1-405-377-0359",
+                "tourism": "museum",
+                "website": "https://www.sheerarmuseum.org/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Payne_County_Courthouse_%28cropped%29.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 820227891,
+            "lat": 36.1143653,
+            "lon": -97.0617182,
+            "tags": {
+                "name": "Stillwater History Museum at the Sheerar",
+                "operator": "Stillwater Museum Association",
+                "tourism": "museum",
+                "website": "https://www.sheerarmuseum.org/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Payne_County_Courthouse_%28cropped%29.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 1185636447,
+            "lat": 45.0616431,
+            "lon": -92.8076278,
+            "tags": {
+                "building": "yes",
+                "name": "Warden's House Museum",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Warden%27s_House_Museum.jpg/1280px-Warden%27s_House_Museum.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 323078,
+            "lat": 36.1224,
+            "lon": -97.0698,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Oklahoma_State_University_system_logo.svg/1280px-Oklahoma_State_University_system_logo.svg.png",
+            "description": "Oklahoma State University (informally Oklahoma State or OSU) is a public land-grant research university in Stillwater, Oklahoma, United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Oklahoma State University",
+                "wikipedia": "en:Oklahoma State University",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 33527488,
+            "lat": 36.14361111,
+            "lon": -97.06555556,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Trail_around_Boomer_Lake.jpg",
+            "description": "Boomer Lake is located in the city of Stillwater, Oklahoma, United States, and was completed in 1925.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Boomer Lake",
+                "wikipedia": "en:Boomer Lake",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 1417884,
+            "lat": 36.1265,
+            "lon": -97.06334,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/9a/National-Wrestling-Hall-of-Fame-Entrance.jpg",
+            "description": "The National Wrestling Hall of Fame and Museum is a museum and hall of fame for amateur wrestling, headquartered in Stillwater, Oklahoma.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "National Wrestling Hall of Fame and Museum",
+                "wikipedia": "en:National Wrestling Hall of Fame and Museum",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 22489,
+            "lat": 35,
+            "lon": -98,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Flag_of_Oklahoma.svg/1280px-Flag_of_Oklahoma.svg.png",
+            "description": "Oklahoma (  OH-klə-HOH-mə; Choctaw: Oklahumma, pronounced [oklahómma]) is a landlocked state in the South Central and Southwestern region of the United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Oklahoma",
+                "wikipedia": "en:Oklahoma",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 1417929,
+            "lat": 36.12583333,
+            "lon": -97.06638889,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Boone_Pickens_Stadium_-_Night.jpg",
+            "description": "Boone Pickens Stadium (previously known as Lewis Field) has been home to the Oklahoma State University Cowboys football team in rudimentary form since 1919, and as a complete stadium since 1920.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Boone Pickens Stadium",
+                "wikipedia": "en:Boone Pickens Stadium",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 19978,
+            "lat": 47,
+            "lon": -110,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Flag_of_Montana.svg/1280px-Flag_of_Montana.svg.png",
+            "description": "Montana (  mon-TAN-ə) is a landlocked state in the Mountain West subregion of the Western United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Montana",
+                "wikipedia": "en:Montana",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 3705057,
+            "lat": 36.12082983,
+            "lon": -97.06663883,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Old_Central_-_Oklahoma_State_University.jpg",
+            "description": "Old Central, historically known as the College Building, is the oldest building on the Oklahoma State University campus in Stillwater, Oklahoma.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Old Central",
+                "wikipedia": "en:Old Central",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 1660962,
+            "lat": 35.49222222,
+            "lon": -97.50305556,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/North_fa%C3%A7ade_of_the_Oklahoma_State_Capitol.jpg/1280px-North_fa%C3%A7ade_of_the_Oklahoma_State_Capitol.jpg",
+            "description": "The Oklahoma State Capitol is the house of government of the U.S. state of Oklahoma.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Oklahoma State Capitol",
+                "wikipedia": "en:Oklahoma State Capitol",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 130143,
+            "lat": 35.83361111,
+            "lon": -96.39416667,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Bristow_street_scene.jpg/1280px-Bristow_street_scene.jpg",
+            "description": "Bristow is a city in Creek County, Oklahoma, United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Bristow, Oklahoma",
+                "wikipedia": "en:Bristow, Oklahoma",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 31924254,
+            "lat": 47.74472222,
+            "lon": -107.77583333,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/American_Prairie_Reserve_2021_03.jpg/1280px-American_Prairie_Reserve_2021_03.jpg",
+            "description": "American Prairie (formerly known as American Prairie Reserve or APR) is a prairie-based nature reserve in Central Montana, United States, on a shortgrass prairie ecosystem with migration corridors and native wildlife.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "American Prairie (nature reserve)",
+                "wikipedia": "en:American Prairie (nature reserve)",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 22910587,
+            "lat": 38.01,
+            "lon": -80.97055556,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/90/Clifftopstage.jpg",
+            "description": "The Appalachian String Band Music Festival (often referred to simply as \"Clifftop\") is a weeklong gathering of thousands of string band musicians and their friends from across the country and around the world, who each year since 1990 have assembled near the New River Gorge in West Virginia in late July/early August to celebrate the evolving tradition of old-time music and the community of people who keep it thriving by preserving and contributing to that tradition.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Appalachian String Band Music Festival",
+                "wikipedia": "en:Appalachian String Band Music Festival",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 14308,
+            "lat": 36.01555556,
+            "lon": -114.73777778,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Ansel_Adams_-_National_Archives_79-AAB-01.jpg/1280px-Ansel_Adams_-_National_Archives_79-AAB-01.jpg",
+            "description": "The Hoover Dam is a concrete arch-gravity dam in the Black Canyon of the Colorado River, on the boundary between the U.S. states of Nevada and Arizona.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Hoover Dam",
+                "wikipedia": "en:Hoover Dam",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 34340,
+            "lat": 44.6,
+            "lon": -110.5,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/73/Grand_Canyon_of_yellowstone.jpg",
+            "description": "Yellowstone National Park is a national park of the United States located in the northwest corner of the state of Wyoming, with small portions extending into Montana and Idaho.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Yellowstone National Park",
+                "wikipedia": "en:Yellowstone National Park",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 123354,
+            "lat": 47.49166667,
+            "lon": -111.28916667,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Central_Ave_and_Civic_Center_2.JPG/1280px-Central_Ave_and_Civic_Center_2.JPG",
+            "description": "Great Falls is the third most populous city in the U.S. state of Montana and the county seat of Cascade County.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Great Falls, Montana",
+                "wikipedia": "en:Great Falls, Montana",
+                "tourism": "attraction"
+            }
+        }
+    ]
+}

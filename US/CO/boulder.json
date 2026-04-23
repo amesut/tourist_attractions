@@ -1,0 +1,476 @@
+{
+    "city_metadata": {
+        "city_name": "Boulder",
+        "state_code": "CO",
+        "state_full": "Colorado",
+        "city_summary": "Boulder is a home rule city that is the county seat of, and the most populous municipality in, Boulder County, Colorado, United States. With a population of 108,250 at the 2020 census, it is the 12th-most populous city in Colorado. Boulder is the primary city of the Boulder, CO Metropolitan Statistical Area, which had 330,758 residents in 2020, and is part of the Front Range Urban Corridor.",
+        "city_image": "https://upload.wikimedia.org/wikipedia/commons/7/72/Pearl_Street_Mall.jpg",
+        "city_lat": 40.015,
+        "city_lon": -105.2705,
+        "source": "wikipedia_verified_engine"
+    },
+    "attractions": [
+        {
+            "type": "node",
+            "id": 429921570,
+            "lat": 39.9840994,
+            "lon": -105.249716,
+            "tags": {
+                "addr:city": "Boulder",
+                "addr:housenumber": "633",
+                "addr:postcode": "80305",
+                "addr:state": "CO",
+                "addr:street": "South Broadway",
+                "addr:unit": "A",
+                "name": "Neptune Mountaineering",
+                "opening_hours": "Mo-Su 08:00-19:00",
+                "phone": "+1-303-499-8866",
+                "shop": "outdoor",
+                "tourism": "museum",
+                "website": "https://www.neptunemountaineering.com/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/King_Soopers_%28Table_Mesa_Dr%2C_Boulder%2C_CO%29.jpg/1280px-King_Soopers_%28Table_Mesa_Dr%2C_Boulder%2C_CO%29.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 907051284,
+            "lat": 37.9108608,
+            "lon": -111.4236185,
+            "tags": {
+                "name": "Anasazi State Park Museum",
+                "opening_hours": "08:00-16:00",
+                "phone": "+1 435-335-7308",
+                "tourism": "museum",
+                "website": "https://stateparks.utah.gov/parks/anasazi/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Anasazi_Indian_State_Park.jpg/1280px-Anasazi_Indian_State_Park.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 2071818182,
+            "lat": 40.0658058,
+            "lon": -105.2024775,
+            "tags": {
+                "email": "info@shelbyamericancollection.org",
+                "fax": "+1-303-447-1380",
+                "name": "Shelby American Car Museum",
+                "opening_hours": "Sa 10:00-16:00",
+                "phone": "+1-303-516-9565",
+                "tourism": "museum",
+                "website": "https://shelbyamericancollection.org/"
+            }
+        },
+        {
+            "type": "node",
+            "id": 3855190491,
+            "lat": -30.7833251,
+            "lon": 121.4914039,
+            "tags": {
+                "name": "Eastern Goldfields Historical Society",
+                "opening_hours": "Mo,We 09:00-12:00; Jan off",
+                "phone": "+61 8 9093 3360",
+                "tourism": "museum",
+                "website": "https://kalgoorliehistory.org.au/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Boulder_railway_station%2C_2016_%2802%29.jpg/1280px-Boulder_railway_station%2C_2016_%2802%29.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 3889737512,
+            "lat": 39.9780564,
+            "lon": -105.275298,
+            "tags": {
+                "fee": "no",
+                "museum": "aerospace",
+                "name": "NCAR Exhibits",
+                "opening_hours": "Mo-Fr 08:00-17:00, Sa-Su 08:00-16:00, PH 08:00-16:00",
+                "operator": "National Center for Atmospheric Research",
+                "tourism": "museum",
+                "website": "https://scied.ucar.edu/exhibits/exhibits-national-center-atmospheric-research",
+                "wheelchair": "yes"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/National_Center_for_Atmospheric_Research_-_Boulder%2C_Colorado.jpg/1280px-National_Center_for_Atmospheric_Research_-_Boulder%2C_Colorado.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 6709144967,
+            "lat": 40.0587011,
+            "lon": -105.219444,
+            "tags": {
+                "fee": "no",
+                "name": "Celestial Seasonings Tasting Room",
+                "opening_hours": "Mo-Sa 10:00-17:00; Su 11:00-16:00",
+                "tourism": "attraction",
+                "website": "https://celestialseasonings.com/visit-us/tea-tour"
+            }
+        },
+        {
+            "type": "node",
+            "id": 6709144968,
+            "lat": 40.0586863,
+            "lon": -105.2194704,
+            "tags": {
+                "fee": "no",
+                "name": "Celestial Seasonings Tour",
+                "opening_hours": "Mo-Sa 10:00-16:00; Su 11:00-15:00",
+                "tourism": "attraction",
+                "website": "https://celestialseasonings.com/visit-us/tea-tour"
+            }
+        },
+        {
+            "type": "node",
+            "id": 12542720787,
+            "lat": 39.9841019,
+            "lon": -105.2497831,
+            "tags": {
+                "addr:city": "Boulder",
+                "addr:housenumber": "633",
+                "addr:postcode": "80305",
+                "addr:state": "CO",
+                "addr:street": "South Broadway",
+                "addr:unit": "A",
+                "museum": "history",
+                "name": "Neptune Museum",
+                "opening_hours": "Mo-Su 08:00-19:00",
+                "phone": "+1-303-499-8866",
+                "tourism": "museum",
+                "website": "https://www.neptunemountaineering.com/blogs/news/neptune-museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/King_Soopers_%28Table_Mesa_Dr%2C_Boulder%2C_CO%29.jpg/1280px-King_Soopers_%28Table_Mesa_Dr%2C_Boulder%2C_CO%29.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 12599805201,
+            "lat": 40.0113917,
+            "lon": -105.2754469,
+            "tags": {
+                "contact:bluesky": "mediaarchaeology.bsky.social",
+                "contact:mastodon": "@mediaarchaeologylab@post.lurk.org",
+                "email": "mediaarchaeologylab@colorado.edu",
+                "internet_access": "wlan",
+                "name": "Media Archaeology Lab",
+                "opening_hours": "Mo-Tu, Th-Sa 13:30-17:00",
+                "short_name": "MAL",
+                "tourism": "museum",
+                "website": "https://mediaarchaeologylab.com",
+                "wikidata": "Q138468477"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Andrews_Arboretum_-_Boulder%2C_Colorado.JPG/1280px-Andrews_Arboretum_-_Boulder%2C_Colorado.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 46198370,
+            "lat": 40.0074897,
+            "lon": -105.2742105,
+            "tags": {
+                "addr:city": "Boulder",
+                "addr:housenumber": "1440",
+                "addr:state": "CO",
+                "addr:street": "Central Campus Mall",
+                "building": "university",
+                "building:levels": "3",
+                "building:material": "sandstone",
+                "description": "Newly renovated collections, research, and teaching facility.",
+                "ele": "1657",
+                "gnis:feature_id": "2095631",
+                "name": "Museum Collections - Bruce Curtis Building",
+                "operator": "University of Colorado Boulder",
+                "roof:material": "roof_tiles",
+                "short_name": "MCOL",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/14/CUP-005_COShakespeareFestival_BMA_Black%26Color_RGB-01.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 46200737,
+            "lat": 40.007244,
+            "lon": -105.2727667,
+            "tags": {
+                "amenity": "theatre",
+                "name": "Mary Rippon Outdoor Theatre",
+                "short_name": "W-MR",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/14/CUP-005_COShakespeareFestival_BMA_Black%26Color_RGB-01.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 46202571,
+            "lat": 40.0068806,
+            "lon": -105.2727761,
+            "tags": {
+                "addr:city": "Boulder",
+                "addr:housenumber": "1030",
+                "addr:state": "CO",
+                "addr:street": "Broadway",
+                "building": "university",
+                "building:material": "sandstone",
+                "description": "Henderson Building. The largest natural history collection in the Rocky Mountains.",
+                "ele": "1654",
+                "gnis:feature_id": "2095625",
+                "museum": "nature",
+                "name": "Museum of Natural History - Henderson Building",
+                "operator": "University of Colorado Boulder",
+                "roof:material": "roof_tiles",
+                "short_name": "HEND",
+                "tourism": "museum",
+                "wikidata": "Q4306263",
+                "wikipedia": "en:University of Colorado Museum of Natural History"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/University_of_Colorado_Museum_of_Natural_History_from_Broadway.jpg/1280px-University_of_Colorado_Museum_of_Natural_History_from_Broadway.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 46938901,
+            "lat": 40.0035956,
+            "lon": -105.263492,
+            "tags": {
+                "addr:city": "Boulder",
+                "addr:housenumber": "2414",
+                "addr:state": "CO",
+                "addr:street": "Regent Drive",
+                "amenity": "planetarium",
+                "building": "university",
+                "description": "Star theatre and teaching facility, the largest of its kind between Chicago and Los Angeles.",
+                "ele": "1647",
+                "name": "Fiske Planetarium",
+                "operator": "University of Colorado Boulder",
+                "short_name": "FISK",
+                "tourism": "museum",
+                "website": "https://www.colorado.edu/fiske/",
+                "wikidata": "Q28401497"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Sommers-Bausch_Observatory.jpg/1280px-Sommers-Bausch_Observatory.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 200692621,
+            "lat": 40.011815,
+            "lon": -105.2023765,
+            "tags": {
+                "addr:city": "Boulder",
+                "addr:housenumber": "1466",
+                "addr:postcode": "80303",
+                "addr:state": "CO",
+                "addr:street": "63rd Street",
+                "building": "school",
+                "name": "Sombrero Marsh Environmental Center",
+                "operator": "Boulder Valley School District and Thorne Nature Experience",
+                "tourism": "museum",
+                "website": "https://www.thornenature.org/"
+            }
+        },
+        {
+            "type": "way",
+            "id": 207394086,
+            "lat": 40.0151569,
+            "lon": -105.2772986,
+            "tags": {
+                "addr:city": "Boulder",
+                "addr:housenumber": "1750",
+                "addr:postcode": "80302",
+                "addr:state": "CO",
+                "addr:street": "13th Street",
+                "building": "yes",
+                "check_date:opening_hours": "2023-03-14",
+                "fee": "yes",
+                "fee:conditional": "no @ Sa",
+                "name": "Boulder Museum of Contemporary Art",
+                "opening_hours": "Tu-Su 11:00-17:00",
+                "source": "esri_USDOT_ColoradoOITGIS",
+                "tourism": "museum",
+                "website": "https://bmoca.org/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Boulder_Dushanbe_table.JPG/1280px-Boulder_Dushanbe_table.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 223101311,
+            "lat": -30.7826794,
+            "lon": 121.4922854,
+            "tags": {
+                "building": "yes",
+                "email": "station@loopline.com.au",
+                "name": "Loopline Railway Museum",
+                "opening_hours": "Mo-Su 09:00-16:00",
+                "phone": "+61 8 9093 3055",
+                "tourism": "museum",
+                "website": "http://www.loopline.com.au/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Boulder_railway_station%2C_2016_%2802%29.jpg/1280px-Boulder_railway_station%2C_2016_%2802%29.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 242114182,
+            "lat": 40.0201046,
+            "lon": -105.281171,
+            "tags": {
+                "addr:city": "Boulder",
+                "addr:housenumber": "2205",
+                "addr:postcode": "80302",
+                "addr:state": "CO",
+                "addr:street": "Broadway",
+                "amenity": "social_facility",
+                "building": "yes",
+                "denomination": "lutheran",
+                "ele": "1644",
+                "gnis:feature_id": "1795230",
+                "name": "Museum of Boulder at Tebo Center",
+                "note": "Former Masonic Lodge building",
+                "social_facility": "food_bank",
+                "tourism": "museum",
+                "website": "https://museumofboulder.org/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Carnegie_Library_Boulder_CO.jpg/1280px-Carnegie_Library_Boulder_CO.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 242292184,
+            "lat": 40.0213715,
+            "lon": -105.2749884,
+            "tags": {
+                "addr:city": "Boulder",
+                "addr:housenumber": "1619",
+                "addr:postcode": "80302",
+                "addr:state": "CO",
+                "addr:street": "Pine Street",
+                "building": "yes",
+                "name": "Mork & Mindy Show House",
+                "source": "local_knowledge",
+                "subject:wikidata": "Q988037",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/CoTour-07152009-227.JPG/1280px-CoTour-07152009-227.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 293930527,
+            "lat": 40.0072605,
+            "lon": -105.2699287,
+            "tags": {
+                "addr:city": "Boulder",
+                "addr:housenumber": "1085",
+                "addr:state": "CO",
+                "addr:street": "18th Street",
+                "building": "university",
+                "building:levels": "4",
+                "name": "CU Art Museum",
+                "operator": "University of Colorado Boulder",
+                "short_name": "CUAM",
+                "tourism": "museum",
+                "wikidata": "Q18325682"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/JILA.jpg/1280px-JILA.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 575157353,
+            "lat": 37.9108558,
+            "lon": -111.4236408,
+            "tags": {
+                "addr:city": "Boulder",
+                "addr:housenumber": "460",
+                "addr:postcode": "84716",
+                "addr:state": "UT",
+                "addr:street": "Utah State Highway 12",
+                "building": "yes",
+                "name": "Anasazi State Park Museum",
+                "opening_hours": "Mo-Su 09:00-17:00",
+                "operator:wikidata": "Q109292618",
+                "phone": "+1 435-335-7308",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Anasazi_Indian_State_Park.jpg/1280px-Anasazi_Indian_State_Park.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 991921830,
+            "lat": 46.2378604,
+            "lon": -112.1183988,
+            "tags": {
+                "addr:city": "Boulder",
+                "addr:housenumber": "210",
+                "addr:postcode": "59632",
+                "addr:state": "MT",
+                "addr:street": "North Main Street",
+                "building": "yes",
+                "name": "The Heritage Center",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Jefferson_County_Courthouse_%282013%29_-_Jefferson_County%2C_Montana.png/1280px-Jefferson_County_Courthouse_%282013%29_-_Jefferson_County%2C_Montana.png",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 1447000088,
+            "lat": 37.910264,
+            "lon": -111.4229093,
+            "tags": {
+                "historic": "archaeological_site",
+                "name": "Pithouse",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Anasazi_Indian_State_Park.jpg/1280px-Anasazi_Indian_State_Park.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 289672,
+            "lat": 40.0073,
+            "lon": -105.2678,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Seal_of_the_University_of_Colorado.svg/1280px-Seal_of_the_University_of_Colorado.svg.png",
+            "description": "The University of Colorado Boulder (CU Boulder, CU, or Colorado) is a public research university in Boulder, Colorado, United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "University of Colorado Boulder",
+                "wikipedia": "en:University of Colorado Boulder",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 7158818,
+            "lat": 40.008035,
+            "lon": -105.276479,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Fox_Theater%2C_Boulder_CO.JPG/1280px-Fox_Theater%2C_Boulder_CO.JPG",
+            "description": "The Fox Theatre is a live music venue in Boulder, Colorado.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Fox Theatre (Boulder, Colorado)",
+                "wikipedia": "en:Fox Theatre (Boulder, Colorado)",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 34544774,
+            "lat": -35.3747,
+            "lon": 173.5963,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Wairere_boulders2.jpg",
+            "description": "Wairere Boulders is a privately owned nature reserve and tourist attraction at Horeke in the south Hokianga region of Northland, New Zealand.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Wairere Boulders",
+                "wikipedia": "en:Wairere Boulders",
+                "tourism": "attraction"
+            }
+        }
+    ]
+}

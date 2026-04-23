@@ -1,0 +1,351 @@
+{
+    "city_metadata": {
+        "city_name": "The Woodlands",
+        "state_code": "TX",
+        "state_full": "Texas",
+        "city_summary": "The Woodlands is a special-purpose district and census-designated place in the U.S. state of Texas. The Woodlands is primarily located in Montgomery County, with portions extending into Harris County, within the Greater Houston metropolitan area. The population was 114,436 at the 2020 census.",
+        "city_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Anadarko%2C_The_Woodlands%2C_Texas.jpg/1280px-Anadarko%2C_The_Woodlands%2C_Texas.jpg",
+        "city_lat": 30.1775,
+        "city_lon": -95.50388889,
+        "source": "wikipedia_verified_engine"
+    },
+    "attractions": [
+        {
+            "type": "node",
+            "id": 5129213016,
+            "lat": 30.1678459,
+            "lon": -95.5027546,
+            "tags": {
+                "addr:city": "The Woodlands",
+                "addr:housenumber": "4775",
+                "addr:postcode": "77381",
+                "addr:state": "TX",
+                "addr:street": "West Panther Creek Drive",
+                "addr:unit": "280",
+                "name": "The Woodlands Children's Museum",
+                "tourism": "museum",
+                "website": "https://woodlandschildrensmuseum.org/"
+            }
+        },
+        {
+            "type": "node",
+            "id": 5235821782,
+            "lat": 30.1638516,
+            "lon": -95.4554626,
+            "tags": {
+                "attraction": "carousel",
+                "name": "Carousel",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/The_Woodlands_Mall_entrance_sign_%282025%29.jpg/1280px-The_Woodlands_Mall_entrance_sign_%282025%29.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 10802778376,
+            "lat": 30.1602479,
+            "lon": -95.4654061,
+            "tags": {
+                "name": "Hippie Hollow",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/CynthiaWoodsMitchell.JPG/1280px-CynthiaWoodsMitchell.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 32122035,
+            "lat": 39.9456925,
+            "lon": -75.2037357,
+            "tags": {
+                "building": "yes",
+                "historic": "house",
+                "name": "Hamilton Mansion",
+                "tourism": "museum",
+                "website": "https://www.woodlandsphila.org/hamilton-mansion"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/37/Shakespeare_in_Clark_Park.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 13774,
+            "lat": 29.75666667,
+            "lon": -95.36527778,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Texas_medical_center.jpg/1280px-Texas_medical_center.jpg",
+            "description": "Houston (  HEW-stən) is the most populous city in the U.S. state of Texas and the Southern United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Houston",
+                "wikipedia": "en:Houston",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 53838,
+            "lat": 32.77916667,
+            "lon": -96.80888889,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/View_of_Dallas_from_Reunion_Tower_August_2015_05.jpg/1280px-View_of_Dallas_from_Reunion_Tower_August_2015_05.jpg",
+            "description": "Dallas is a city in the U.S. state of Texas.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Dallas",
+                "wikipedia": "en:Dallas",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 11235565,
+            "lat": 29.425,
+            "lon": -98.49388889,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/SATX_Downtown.jpg/1280px-SATX_Downtown.jpg",
+            "description": "Greater San Antonio, officially designated San Antonio–New Braunfels, is an eight-county metropolitan area in the U.S. state of Texas defined by the Office of Management and Budget (OMB).",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Greater San Antonio",
+                "wikipedia": "en:Greater San Antonio",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 53840,
+            "lat": 29.30138889,
+            "lon": -94.79777778,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Galveston_Texas_Skyline.jpg",
+            "description": "Galveston ( GAL-vis-tən) is a resort city and port on the Gulf Coast of the U.S. state of Texas.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Galveston, Texas",
+                "wikipedia": "en:Galveston, Texas",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 29810,
+            "lat": 31,
+            "lon": -99,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Flag_of_Texas.svg/1280px-Flag_of_Texas.svg.png",
+            "description": "Texas (  TEK-səss) is the most populous state in the Southern United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Texas",
+                "wikipedia": "en:Texas",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 53848,
+            "lat": 29.425,
+            "lon": -98.4939,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/San_Antonio_Botanical_Garden_Overlook_View.jpg/1280px-San_Antonio_Botanical_Garden_Overlook_View.jpg",
+            "description": "San Antonio ( SAN an-TOH-nee-oh; Spanish for \"Saint Anthony\") is a city in the U.S. state of Texas.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "San Antonio",
+                "wikipedia": "en:San Antonio",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 136020,
+            "lat": 30.05416667,
+            "lon": -95.38694444,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/32/Spring_Texas_WS_%281_of_1%29.jpg",
+            "description": "Spring is a census-designated place (CDP) within the extraterritorial jurisdiction of Houston in Harris County, Texas, United States, part of the Houston–The Woodlands–Sugar Land metropolitan area.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Spring, Texas",
+                "wikipedia": "en:Spring, Texas",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 135900,
+            "lat": 29.59944444,
+            "lon": -95.61416667,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Sugarland_Town_Square.jpg/1280px-Sugarland_Town_Square.jpg",
+            "description": "Sugar Land is the largest city in Fort Bend County, Texas, United States, located in the southwestern part of the Houston–The Woodlands–Sugar Land metropolitan area.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Sugar Land, Texas",
+                "wikipedia": "en:Sugar Land, Texas",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 136748,
+            "lat": 30.72222222,
+            "lon": -95.55333333,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Downtown_Huntsville_Texas_1_Wiki_%281_of_1%29.jpg/1280px-Downtown_Huntsville_Texas_1_Wiki_%281_of_1%29.jpg",
+            "description": "Huntsville is a city in and the county seat of Walker County, Texas, United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Huntsville, Texas",
+                "wikipedia": "en:Huntsville, Texas",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 12593222,
+            "lat": 29.499797,
+            "lon": -95.089784,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Kemah_boardwalk.jpg/1280px-Kemah_boardwalk.jpg",
+            "description": "The Galveston Bay Area, also known as Bay Area Houston or simply the Bay Area, is a region that surrounds the Galveston Bay estuary of Southeast Texas in the United States, within the Houston–The Woodlands–Sugar Land metropolitan area.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Galveston Bay Area",
+                "wikipedia": "en:Galveston Bay Area",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 5483630,
+            "lat": 30.16138889,
+            "lon": -95.46388889,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/CynthiaWoodsMitchell.JPG/1280px-CynthiaWoodsMitchell.JPG",
+            "description": "The Cynthia Woods Mitchell Pavilion, sometimes called The Woodlands Pavilion or simply The Pavilion, is a concert amphitheater located in The Woodlands, Texas, an outer suburb of Houston, Texas.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Cynthia Woods Mitchell Pavilion",
+                "wikipedia": "en:Cynthia Woods Mitchell Pavilion",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 151111,
+            "lat": 31.125,
+            "lon": -97.90166667,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Copperas_Cove_downtown-2009.JPG/1280px-Copperas_Cove_downtown-2009.JPG",
+            "description": "Copperas Cove ( KOP-ər-əs) is a city located in Central Texas at the southern corner of Coryell County, with smaller portions in Lampasas and Bell Counties.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Copperas Cove, Texas",
+                "wikipedia": "en:Copperas Cove, Texas",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 135920,
+            "lat": 29.46083333,
+            "lon": -95.05111111,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Dickinson_Texas_City_Hall.jpg/1280px-Dickinson_Texas_City_Hall.jpg",
+            "description": "Dickinson is a city in Galveston County, Texas, United States, within Houston–The Woodlands–Sugar Land metropolitan area.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Dickinson, Texas",
+                "wikipedia": "en:Dickinson, Texas",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 135732,
+            "lat": 31.43388889,
+            "lon": -97.75833333,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Coryell_county_courthouse.jpg/1280px-Coryell_county_courthouse.jpg",
+            "description": "Gatesville is a city in and the county seat of Coryell County, Texas, United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Gatesville, Texas",
+                "wikipedia": "en:Gatesville, Texas",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 306829,
+            "lat": 29.25,
+            "lon": -103.25,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Canyon%2C_Rio_Grande%2C_Texas.jpeg/1280px-Canyon%2C_Rio_Grande%2C_Texas.jpeg",
+            "description": "Big Bend National Park is a national park of the United States located in West Texas, bordering Mexico.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Big Bend National Park",
+                "wikipedia": "en:Big Bend National Park",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 2212222,
+            "lat": 32.74,
+            "lon": -96.815,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/DallasZooEntrance.jpg/1280px-DallasZooEntrance.jpg",
+            "description": "Dallas Zoo (also called the Dallas Zoological Park) is a 106-acre (43 ha) zoo located 3 mi (5 km) south of downtown Dallas, Texas, in Marsalis Park.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Dallas Zoo",
+                "wikipedia": "en:Dallas Zoo",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 327869,
+            "lat": 32.78444444,
+            "lon": -96.78055556,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/DeepEllum_2021-554.jpg/1280px-DeepEllum_2021-554.jpg",
+            "description": "Deep Ellum is a historic neighborhood of Dallas, Texas, home to a diverse array of arts venues, restaurants, bars, entertainment venues, businesses, and urban residential units near downtown in East Dallas.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Deep Ellum, Dallas",
+                "wikipedia": "en:Deep Ellum, Dallas",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 2481394,
+            "lat": 30.36638889,
+            "lon": -107.9475,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Paquime1.jpg/1280px-Paquime1.jpg",
+            "description": "Casas Grandes (Spanish for Great Houses; also known as Paquimé) is a prehistoric archaeological site in the northern Mexican state of Chihuahua.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Casas Grandes",
+                "wikipedia": "en:Casas Grandes",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 173602,
+            "lat": 42.64666667,
+            "lon": -71.31027778,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Boott_mill_rooftop_view.jpg",
+            "description": "Lowell National Historical Park is a National Historical Park of the United States located in Lowell, Massachusetts.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Lowell National Historical Park",
+                "wikipedia": "en:Lowell National Historical Park",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 3073110,
+            "lat": 40.58518611,
+            "lon": -105.10377222,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/FortCollinsBirney_streetcar_MountainAve.jpg/1280px-FortCollinsBirney_streetcar_MountainAve.jpg",
+            "description": "The Fort Collins Municipal Railway operated streetcars in Fort Collins, Colorado, from 1919 until 1951.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Fort Collins Municipal Railway",
+                "wikipedia": "en:Fort Collins Municipal Railway",
+                "tourism": "attraction"
+            }
+        }
+    ]
+}

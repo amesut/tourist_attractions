@@ -1,0 +1,406 @@
+{
+    "city_metadata": {
+        "city_name": "Sarasota",
+        "state_code": "FL",
+        "state_full": "Florida",
+        "city_summary": "Sarasota () is a city in and the county seat of Sarasota County, Florida, United States. It is located in Southwest Florida on Sarasota Bay, a lagoon on the Gulf Coast. The population was 54,842 at the 2020 census.",
+        "city_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Sarasota_Skyline.jpeg/1280px-Sarasota_Skyline.jpeg",
+        "city_lat": 27.35833333,
+        "city_lon": -82.54361111,
+        "source": "wikipedia_verified_engine"
+    },
+    "attractions": [
+        {
+            "type": "node",
+            "id": 5312754074,
+            "lat": 27.3281821,
+            "lon": -82.5401624,
+            "tags": {
+                "name": "Museum of Botany & the Arts",
+                "tourism": "museum",
+                "website": "https://selby.org/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Interior_view_-_Marie_Selby_Botanical_Gardens_-_Sarasota%2C_Florida_-_DSC00855.jpg/1280px-Interior_view_-_Marie_Selby_Botanical_Gardens_-_Sarasota%2C_Florida_-_DSC00855.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 8248296789,
+            "lat": 27.3256414,
+            "lon": -82.5290239,
+            "tags": {
+                "addr:city": "Sarasota",
+                "addr:housenumber": "1001",
+                "addr:postcode": "34236",
+                "addr:state": "FL",
+                "addr:street": "South Tamiami Trail",
+                "museum": "art",
+                "name": "Sarasota Art Museum",
+                "operator": "Ringling College of Art + Design",
+                "operator:type": "private",
+                "phone": "+1-941-309-4300",
+                "source": "Museum's website;https://www.sarasotaartmuseum.org/",
+                "tourism": "museum",
+                "website": "https://www.sarasotaartmuseum.org/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Sarasota_High_School_Addition_%28Paul_Rudolph%2C_Architect%2C_FAIA%29.jpg/1280px-Sarasota_High_School_Addition_%28Paul_Rudolph%2C_Architect%2C_FAIA%29.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 32450531,
+            "lat": 27.3823407,
+            "lon": -82.5620324,
+            "tags": {
+                "name": "Ringling Museum Complex",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Ca%27d%27Zan_Mansion_1.jpg/1280px-Ca%27d%27Zan_Mansion_1.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 32451494,
+            "lat": 27.3813856,
+            "lon": -82.5605965,
+            "tags": {
+                "addr:city": "Sarasota",
+                "addr:housenumber": "5401",
+                "addr:postcode": "34243",
+                "addr:state": "FL",
+                "addr:street": "Bay Shore Road",
+                "building": "yes",
+                "ele": "4",
+                "gnis:feature_id": "289711",
+                "museum": "art",
+                "name": "John and Mable Ringling Museum of Art",
+                "phone": "+1-941-359-5700",
+                "source": "USGS Geonames",
+                "tourism": "museum",
+                "website": "https://www.ringling.org/museum-art",
+                "wikidata": "Q612530",
+                "wikipedia": "en:John and Mable Ringling Museum of Art"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Ringling_Museum_entrance_main_facade_Sarasota_Florida.jpg/1280px-Ringling_Museum_entrance_main_facade_Sarasota_Florida.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 32451731,
+            "lat": 27.3829234,
+            "lon": -82.5644494,
+            "tags": {
+                "addr:city": "Sarasota",
+                "addr:state": "FL",
+                "building": "yes",
+                "fee": "yes",
+                "name": "Ca' da Zan (Ringling House)",
+                "tourism": "museum",
+                "website": "https://www.ringling.org/ca-dzan"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/C%C3%A0_d%27Zan_bayside_fa%C3%A7ade.jpg/1280px-C%C3%A0_d%27Zan_bayside_fa%C3%A7ade.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 67256680,
+            "lat": 27.383618,
+            "lon": -82.5605298,
+            "tags": {
+                "building": "museum",
+                "name": "Circus Museum - Tibbals Learning Center",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Ca%27d%27Zan_Mansion_1.jpg/1280px-Ca%27d%27Zan_Mansion_1.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 172230233,
+            "lat": 27.3422113,
+            "lon": -82.5476083,
+            "tags": {
+                "addr:city": "Sarasota",
+                "addr:housenumber": "601",
+                "addr:postcode": "34236",
+                "addr:state": "FL",
+                "addr:street": "Tamiami Trail",
+                "air_conditioning": "yes",
+                "building": "yes",
+                "museum": "history",
+                "name": "Historical Exhibits & Education Center",
+                "operator": "Sarasota County",
+                "operator:type": "public",
+                "tourism": "museum",
+                "wikidata": "Q54322510",
+                "wikimedia_commons": "Category:Chidsey Library",
+                "wikipedia": "en:Chidsey Library"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Chidsey_Library_Building_May_2018.jpg/1280px-Chidsey_Library_Building_May_2018.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 184696426,
+            "lat": 27.3836504,
+            "lon": -82.5615014,
+            "tags": {
+                "building": "museum",
+                "name": "Circus Museum & Store",
+                "source": "Bing",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Ca%27d%27Zan_Mansion_1.jpg/1280px-Ca%27d%27Zan_Mansion_1.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 189875976,
+            "lat": 27.3818311,
+            "lon": -82.5611406,
+            "tags": {
+                "building": "museum",
+                "name": "Ulla R. & Arthur F. Searing Wing",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Ca%27d%27Zan_Mansion_1.jpg/1280px-Ca%27d%27Zan_Mansion_1.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 887037662,
+            "lat": 27.325613,
+            "lon": -82.5291391,
+            "tags": {
+                "building": "yes",
+                "check_date": "2025-12-30",
+                "name": "Sarasota Art Museum",
+                "operator": "Ringling College of Art and Design",
+                "operator:type": "university",
+                "tourism": "museum",
+                "website": "https://www.sarasotaartmuseum.org/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Sarasota_High_School_Addition_%28Paul_Rudolph%2C_Architect%2C_FAIA%29.jpg/1280px-Sarasota_High_School_Addition_%28Paul_Rudolph%2C_Architect%2C_FAIA%29.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 887037672,
+            "lat": 27.3256156,
+            "lon": -82.5288169,
+            "tags": {
+                "building": "yes",
+                "name": "Sarasota Art Museum",
+                "operator": "Ringling College of Art and Design",
+                "operator:type": "university",
+                "tourism": "museum",
+                "website": "https://www.sarasotaartmuseum.org/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Sarasota_High_School_Addition_%28Paul_Rudolph%2C_Architect%2C_FAIA%29.jpg/1280px-Sarasota_High_School_Addition_%28Paul_Rudolph%2C_Architect%2C_FAIA%29.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 1051731814,
+            "lat": 27.3331157,
+            "lon": -82.5756832,
+            "tags": {
+                "addr:city": "Sarasota",
+                "addr:housenumber": "1708",
+                "addr:postcode": "34236",
+                "addr:state": "FL",
+                "addr:street": "Ken Thompson Parkway",
+                "building": "no",
+                "email": "admin@saveourseabirds.org",
+                "fee": "no",
+                "museum": "nature",
+                "name": "Save Our Seabirds",
+                "phone": "+1 941-388-3010",
+                "tourism": "museum",
+                "website": "https://www.saveourseabirds.org"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 109756,
+            "lat": 27.35833333,
+            "lon": -82.54361111,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Sarasota_Skyline.jpeg/1280px-Sarasota_Skyline.jpeg",
+            "description": "Sarasota () is a city in and the county seat of Sarasota County, Florida, United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Sarasota, Florida",
+                "wikipedia": "en:Sarasota, Florida",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 2333924,
+            "lat": 27.2647707,
+            "lon": -82.5506534,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Siesta_Beach_looking_north.jpg/1280px-Siesta_Beach_looking_north.jpg",
+            "description": "Siesta Beach (sometimes known as Siesta Key Beach) is a beach located on Siesta Key in the U.S. state of Florida.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Siesta Beach",
+                "wikipedia": "en:Siesta Beach",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 46363032,
+            "lat": 27.3844,
+            "lon": -82.4529,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Sarasota_Mall_at_UTC_corridor_2.jpg/1280px-Sarasota_Mall_at_UTC_corridor_2.jpg",
+            "description": "The Mall at University Town Center is a shopping mall located in Sarasota County, Florida, United States, just south of the Manatee County line near the planned community of Lakewood Ranch.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Mall at University Town Center",
+                "wikipedia": "en:Mall at University Town Center",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 18802540,
+            "lat": 32.13861111,
+            "lon": -80.81277778,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Harbour_Town_July_2007.jpg/1280px-Harbour_Town_July_2007.jpg",
+            "description": "The Harbour Town Lighthouse is a lighthouse at the Harbour Town Marina at Hilton Head Island, South Carolina built between 1969 and 1970.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Harbour Town Light",
+                "wikipedia": "en:Harbour Town Light",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 73622,
+            "lat": 27.48,
+            "lon": -82.36,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Manatee_County_Administration_Building.jpg/1280px-Manatee_County_Administration_Building.jpg",
+            "description": "Manatee County is located in the U.S. state of Florida.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Manatee County, Florida",
+                "wikipedia": "en:Manatee County, Florida",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 73610,
+            "lat": 26.58,
+            "lon": -81.92,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Base_Operations_at_Page_Field.jpg/1280px-Base_Operations_at_Page_Field.jpg",
+            "description": "Lee County is located in southwestern Florida, United States, on the Gulf Coast.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Lee County, Florida",
+                "wikipedia": "en:Lee County, Florida",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 10913868,
+            "lat": 29.2125,
+            "lon": -81.98805556,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Silver_River.jpg/1280px-Silver_River.jpg",
+            "description": "The Silver River is a short spring-fed river located east of Ocala in Marion County, Florida.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Silver River (Florida)",
+                "wikipedia": "en:Silver River (Florida)",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 1680665,
+            "lat": 24.54666667,
+            "lon": -81.81055556,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Aerial_view_of_Fort_Zachary_Taylor_State_Park.jpg/1280px-Aerial_view_of_Fort_Zachary_Taylor_State_Park.jpg",
+            "description": "The Fort Zachary Taylor Historic State Park, also known simply as Fort Taylor, is a Florida State Park and National Historic Landmark centered on a Civil War-era fort located near the southern tip of Key West, Florida.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Fort Zachary Taylor",
+                "wikipedia": "en:Fort Zachary Taylor",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 92995,
+            "lat": 27.9475,
+            "lon": -82.45861111,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Downtown_Tampa%2C_Florida.jpg/1280px-Downtown_Tampa%2C_Florida.jpg",
+            "description": "Tampa (  TAM-pə) is a major city on the Gulf Coast of the U.S. state of Florida and the county seat of Hillsborough County.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Tampa, Florida",
+                "wikipedia": "en:Tampa, Florida",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 84504,
+            "lat": 27.82222222,
+            "lon": -82.67055556,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/St._Pete_Pier_-_East.jpg/1280px-St._Pete_Pier_-_East.jpg",
+            "description": "St.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "St. Petersburg, Florida",
+                "wikipedia": "en:St. Petersburg, Florida",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 16172116,
+            "lat": 24.54650556,
+            "lon": -81.79747778,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Southernmost_point_buoy%2C_NE_view.jpg/1280px-Southernmost_point_buoy%2C_NE_view.jpg",
+            "description": "The Southernmost Point Buoy is an anchored concrete buoy in Key West, Florida that claims to mark the southernmost point in the continental United States — though it is neither the true southernmost point of the continental US nor of Key West — and was established as a tourist attraction by the city on September 10, 1983.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Southernmost Point Buoy",
+                "wikipedia": "en:Southernmost Point Buoy",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 109328,
+            "lat": 26.62333333,
+            "lon": -81.85555556,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Fort_Myers_FL_Downtown_HD_1933_crths_pano01.jpg/1280px-Fort_Myers_FL_Downtown_HD_1933_crths_pano01.jpg",
+            "description": "Fort Myers (or Ft.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Fort Myers, Florida",
+                "wikipedia": "en:Fort Myers, Florida",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 15468911,
+            "lat": 27.51305556,
+            "lon": -82.71888889,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Anna_Maria_island.jpg/1280px-Anna_Maria_island.jpg",
+            "description": "Anna Maria Island is a barrier island on the coast of Manatee County, Florida, in the United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Anna Maria Island",
+                "wikipedia": "en:Anna Maria Island",
+                "tourism": "attraction"
+            }
+        }
+    ]
+}

@@ -1,0 +1,661 @@
+{
+    "city_metadata": {
+        "city_name": "Oklahoma City",
+        "state_code": "OK",
+        "state_full": "Oklahoma",
+        "city_summary": "Oklahoma City (  OH-klə-HOH-mə -⁠), often shortened to OKC, is the capital and most populous city in the U.S. state of Oklahoma. It is the 20th-most populous U.S. city and 8th largest in the Southern United States, with a population of 681,054 at the 2020 census. It is the county seat of Oklahoma County, with the city limits extending into Canadian, Cleveland, and Pottawatomie counties; however, areas beyond Oklahoma County primarily consist of suburban developments or areas designated rural and watershed zones.",
+        "city_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Oklahoma_city_downtown.JPG/1280px-Oklahoma_city_downtown.JPG",
+        "city_lat": 35.46861111,
+        "city_lon": -97.52138889,
+        "source": "wikipedia_verified_engine"
+    },
+    "attractions": [
+        {
+            "type": "node",
+            "id": 367013429,
+            "lat": 35.535732,
+            "lon": -97.470124,
+            "tags": {
+                "addr:state": "OK",
+                "ele": "336",
+                "gnis:feature_id": "2496537",
+                "name": "World of Wings Museum",
+                "source": "USGS Geonames",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/American_Pigeon_Museum.jpg/1280px-American_Pigeon_Museum.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 1289390105,
+            "lat": 35.4611303,
+            "lon": -97.5051862,
+            "tags": {
+                "access": "yes",
+                "historic": "monument",
+                "material": "bronze",
+                "name": "Centennial Land Run Monument",
+                "tourism": "attraction",
+                "wikidata": "Q64820110",
+                "wikipedia": "en:Centennial Land Run Monument"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Oklahoma_Land_Run_1889_Monument_-_Oklahoma_City%2C_OK%2C_USA_-_panoramio_%2825%29.jpg/1280px-Oklahoma_Land_Run_1889_Monument_-_Oklahoma_City%2C_OK%2C_USA_-_panoramio_%2825%29.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 1289450013,
+            "lat": 35.4583935,
+            "lon": -97.5040267,
+            "tags": {
+                "name": "Oklahoma River Cruises",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/3b/National_Headquarters_and_National_High_Performance_Center.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 4080058855,
+            "lat": 35.4827964,
+            "lon": -97.5091198,
+            "tags": {
+                "name": "Walcourt",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Cain%27s_coffee_buildingDSC01459.JPG/1280px-Cain%27s_coffee_buildingDSC01459.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 4146598056,
+            "lat": 35.4667648,
+            "lon": -97.5115353,
+            "tags": {
+                "addr:city": "Oklahoma City",
+                "addr:housenumber": "9",
+                "addr:postcode": "73104",
+                "addr:state": "OK",
+                "addr:street": "East Sheridan Avenue",
+                "name": "American Banjo Museum",
+                "opening_hours": "Tu-Sa 11:00-18:00, Su 12:00-17:00",
+                "tourism": "museum",
+                "website": "https://americanbanjomuseum.com/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Oklahoma_City_%282019%29_-_094.jpg/1280px-Oklahoma_City_%282019%29_-_094.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 4146598057,
+            "lat": 35.4684781,
+            "lon": -97.5133718,
+            "tags": {
+                "addr:city": "Oklahoma City",
+                "addr:housenumber": "100",
+                "addr:postcode": "73102",
+                "addr:state": "OK",
+                "addr:street": "North Broadway Avenue",
+                "addr:unit": "2750",
+                "name": "Red Earth",
+                "opening_hours": "Mo-Fr 10:00-17:00",
+                "tourism": "museum",
+                "website": "https://www.visitokc.com/listing/red-earth-art-center/793/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Southern_Fancy_Dancers_in_the_Red_Earth_Parade_2008.jpg/1280px-Southern_Fancy_Dancers_in_the_Red_Earth_Parade_2008.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 6294620158,
+            "lat": 35.4526331,
+            "lon": -97.5316282,
+            "tags": {
+                "name": "Wheeler Ferris Wheel",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 6517175786,
+            "lat": 35.4533051,
+            "lon": -97.5583085,
+            "tags": {
+                "name": "Oklahoma National Stockyard",
+                "name:en": "Oklahoma National Stockyards Company",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/25/Cattlemens_Steakhouse%2C_Oklahoma_City.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 6570531404,
+            "lat": 35.4783751,
+            "lon": -97.5148078,
+            "tags": {
+                "addr:city": "Oklahoma City",
+                "addr:postcode": "73103",
+                "addr:state": "OK",
+                "addr:street": "Northwest 10th Street",
+                "name": "Architectural DNA",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/OK-OKC-Autoalley-nrhp.JPG/1280px-OK-OKC-Autoalley-nrhp.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 12191768554,
+            "lat": 35.4816002,
+            "lon": -97.4455769,
+            "tags": {
+                "check_date": "2024-09-21",
+                "description": "Available as part of the venue, also sells milk and eggs.",
+                "name": "By His Hands Mini Farm",
+                "operator": "Redeanna Tucker",
+                "phone": "+1 405-201-1962",
+                "tourism": "zoo",
+                "zoo": "petting_zoo"
+            }
+        },
+        {
+            "type": "node",
+            "id": 12485913061,
+            "lat": 35.5052111,
+            "lon": -97.4667892,
+            "tags": {
+                "addr:city": "Oklahoma City",
+                "addr:housenumber": "3400",
+                "addr:postcode": "73111",
+                "addr:state": "OK",
+                "addr:street": "Northeast Grand Boulevard",
+                "museum": "railway",
+                "name": "Oklahoma Railway Museum",
+                "opening_hours": "Th-Sa 09:00-17:00",
+                "phone": "+1-405-424-8222",
+                "tourism": "museum",
+                "website": "https://oklahomarailwaymuseum.org"
+            }
+        },
+        {
+            "type": "node",
+            "id": 12503643468,
+            "lat": 35.4710432,
+            "lon": -97.5152344,
+            "tags": {
+                "addr:city": "Oklahoma City",
+                "addr:housenumber": "111",
+                "addr:postcode": "73102",
+                "addr:state": "OK",
+                "addr:street": "Dean A McGee Avenue",
+                "check_date": "2024-09-13",
+                "fee": "no",
+                "level": "0",
+                "museum": "technology",
+                "name": "Oklahoma Museum of Telephone History",
+                "opening_hours": "\"By appointment\"",
+                "phone": "+1 405-236-6153",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Sandridgetower_6_20_2009m.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 25313306,
+            "lat": 35.4633944,
+            "lon": -97.5151217,
+            "tags": {
+                "addr:city": "Oklahoma City",
+                "addr:housenumber": "100",
+                "addr:postcode": "73102",
+                "addr:state": "OK",
+                "addr:street": "West Reno Avenue",
+                "alt_name": "Oklahoma City Arena",
+                "building": "commercial",
+                "building:material": "brick",
+                "check_date": "2025-10-22",
+                "height": "33 m",
+                "leisure": "stadium",
+                "name": "Paycom Center",
+                "old_name": "Chesapeake Energy Arena",
+                "roof:shape": "dome",
+                "sport": "basketball",
+                "start_date": "2002",
+                "tourism": "attraction",
+                "wikidata": "Q665434",
+                "wikipedia": "en:Paycom Center"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Paycom_Center_exterior_aerial_view.jpg/1280px-Paycom_Center_exterior_aerial_view.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 73033564,
+            "lat": 35.5207981,
+            "lon": -97.4721524,
+            "tags": {
+                "addr:city": "Oklahoma City",
+                "addr:housenumber": "2101",
+                "addr:postcode": "73111",
+                "addr:state": "OK",
+                "addr:street": "Northeast 50th Street",
+                "alt_name": "Oklahoma City Zoo and Botanical Garden",
+                "name": "Oklahoma City Zoo",
+                "official_name": "Oklahoma City Zoological Park and Botanical Garden",
+                "tourism": "zoo",
+                "website": "https://www.okczoo.org/",
+                "wikidata": "Q7082160",
+                "wikipedia": "en:Oklahoma City Zoo and Botanical Garden"
+            }
+        },
+        {
+            "type": "way",
+            "id": 74042499,
+            "lat": 35.4922059,
+            "lon": -97.5033333,
+            "tags": {
+                "addr:city": "Oklahoma City",
+                "addr:housenumber": "2300",
+                "addr:postcode": "73105",
+                "addr:state": "OK",
+                "addr:street": "North Lincoln Boulevard",
+                "building": "public",
+                "ele": "378",
+                "gnis:feature_id": "1096213",
+                "name": "Oklahoma State Capitol",
+                "office": "government",
+                "source": "USGS Geonames",
+                "tourism": "attraction",
+                "wikidata": "Q2937492",
+                "wikipedia": "en:Oklahoma State Capitol"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/North_fa%C3%A7ade_of_the_Oklahoma_State_Capitol.jpg/1280px-North_fa%C3%A7ade_of_the_Oklahoma_State_Capitol.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 132545776,
+            "lat": 35.4736616,
+            "lon": -97.5696053,
+            "tags": {
+                "building": "yes",
+                "name": "City Arts Center",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Oklahoma_State_Fair_%282006%29.jpg/1280px-Oklahoma_State_Fair_%282006%29.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 132545781,
+            "lat": 35.4715035,
+            "lon": -97.5723746,
+            "tags": {
+                "alt_name": "State Fair Park",
+                "ele": "367",
+                "gnis:feature_id": "1777724",
+                "landuse": "fairground",
+                "leisure": "park",
+                "name": "Oklahoma State Fair Park",
+                "operator": "City of Oklahoma City",
+                "operator:type": "public",
+                "operator:wikidata": "Q34863",
+                "source": "http://okstatefairpark.com/",
+                "tourism": "attraction",
+                "wikidata": "Q49556335"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Oklahoma_State_Fair_%282006%29.jpg/1280px-Oklahoma_State_Fair_%282006%29.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 132551077,
+            "lat": 35.4789428,
+            "lon": -97.5607928,
+            "tags": {
+                "amenity": "arts_centre",
+                "name": "The World Organization of China Painters",
+                "office": "ngo",
+                "tourism": "museum"
+            }
+        },
+        {
+            "type": "way",
+            "id": 141863886,
+            "lat": 35.4696863,
+            "lon": -97.5203978,
+            "tags": {
+                "addr:city": "Oklahoma City",
+                "addr:housenumber": "415",
+                "addr:postcode": "73102",
+                "addr:state": "OK",
+                "addr:street": "Couch Drive",
+                "amenity": "social_centre",
+                "fee": "yes",
+                "name": "Oklahoma City Museum of Art",
+                "opening_hours:url": "https://www.okcmoa.com/visit/",
+                "phone": "+1 405-236-3100",
+                "short_name": "OKCMOA",
+                "tourism": "museum",
+                "website": "https://www.okcmoa.com/",
+                "wheelchair": "yes",
+                "wikidata": "Q7082143",
+                "wikipedia": "en:Oklahoma City Museum of Art"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Oklahoma_City_May_2016_31_%28Oklahoma_City_Museum_of_Art%29.jpg/1280px-Oklahoma_City_May_2016_31_%28Oklahoma_City_Museum_of_Art%29.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 144276669,
+            "lat": 35.523203,
+            "lon": -97.4751795,
+            "tags": {
+                "addr:city": "Oklahoma City",
+                "addr:housenumber": "2020",
+                "addr:postcode": "73111",
+                "addr:state": "OK",
+                "addr:street": "Remington Place",
+                "building": "yes",
+                "museum": "science",
+                "name": "Science Museum Oklahoma",
+                "opening_hours": "Mo-Fr 09:00-17:00; Sa 09:00-18:00, Su 11:00-18:00",
+                "phone": "+1-405-602-6664",
+                "tourism": "museum",
+                "url": "http://www.sciencemuseumok.org/",
+                "website": "https://www.sciencemuseumok.org"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Logo_of_Science_Museum_Oklahoma.png",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 158649318,
+            "lat": 35.4940968,
+            "lon": -97.4998464,
+            "tags": {
+                "addr:city": "Oklahoma City",
+                "addr:housenumber": "800",
+                "addr:postcode": "73105",
+                "addr:state": "OK",
+                "addr:street": "Nazih Zuhdi Drive",
+                "building": "yes",
+                "museum": "history",
+                "name": "Oklahoma History Center",
+                "name:en": "Oklahoma History Center",
+                "opening_hours": "Mo-Sa 10:00-17:00",
+                "phone": "+1-405-522-0765",
+                "tourism": "museum",
+                "website": "https://www.okhistory.org/historycenter/",
+                "wikidata": "Q7082246",
+                "wikipedia": "en:Oklahoma History Center"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/1c/OK-Winnie-Mae-replica.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 158649530,
+            "lat": 35.5079232,
+            "lon": -97.4737637,
+            "tags": {
+                "addr:city": "Oklahoma City",
+                "addr:housenumber": "2145",
+                "addr:postcode": "73111",
+                "addr:state": "OK",
+                "addr:street": "Northeast 36th Street",
+                "building": "yes",
+                "name": "45th Infantry Division Museum",
+                "phone": "+1-405-424-5313",
+                "tourism": "museum"
+            }
+        },
+        {
+            "type": "way",
+            "id": 159185689,
+            "lat": 35.4667665,
+            "lon": -97.511543,
+            "tags": {
+                "addr:city": "Oklahoma City",
+                "addr:housenumber": "9",
+                "addr:postcode": "73104",
+                "addr:state": "OK",
+                "addr:street": "East Sheridan Avenue",
+                "amenity": "social_facility",
+                "building": "yes",
+                "email": "info@americanbanjomuseum.com",
+                "fee": "yes",
+                "museum": "music",
+                "name": "American Banjo Museum",
+                "opening_hours:url": "https://americanbanjomuseum.com/plan-your-visit/",
+                "phone": "+1 405 604 2793",
+                "tourism": "museum",
+                "website": "https://americanbanjomuseum.com/",
+                "wheelchair": "yes"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Oklahoma_City_%282019%29_-_094.jpg/1280px-Oklahoma_City_%282019%29_-_094.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 159423320,
+            "lat": 35.584402,
+            "lon": -97.4403821,
+            "tags": {
+                "addr:city": "Oklahoma City",
+                "addr:housenumber": "11501",
+                "addr:postcode": "73131",
+                "addr:state": "OK",
+                "addr:street": "North I-35 Service Road",
+                "name": "Frontier City",
+                "phone": "+1-405-478-2140",
+                "source:name": "local_knowledge",
+                "tourism": "theme_park",
+                "website": "https://www.frontiercity.com/",
+                "wikidata": "Q3088620",
+                "wikipedia": "en:Frontier City"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Silver_Bullet_%28Frontier_City%29_1.jpg/1280px-Silver_Bullet_%28Frontier_City%29_1.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 160280951,
+            "lat": 35.4834963,
+            "lon": -97.5261517,
+            "tags": {
+                "name": "Oklahoma Heritage Center",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Oklahoma_Hall_of_Fame_Gaylord-Pickens_Museum.jpg/1280px-Oklahoma_Hall_of_Fame_Gaylord-Pickens_Museum.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 160381591,
+            "lat": 35.4815169,
+            "lon": -97.5124985,
+            "tags": {
+                "amenity": "social_facility",
+                "name": "Lifehouse Books and Coffee Museum",
+                "religion": "christian",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Cain%27s_coffee_buildingDSC01459.JPG/1280px-Cain%27s_coffee_buildingDSC01459.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 160381596,
+            "lat": 35.4851601,
+            "lon": -97.5195131,
+            "tags": {
+                "area": "yes",
+                "name": "Overholser Mansion (Oklahoma Historical Society)",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Overholser_mansion.jpg/1280px-Overholser_mansion.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 176904059,
+            "lat": 35.4866394,
+            "lon": -97.5073091,
+            "tags": {
+                "amenity": "social_centre",
+                "historic": "farm",
+                "leisure": "garden",
+                "name": "William Fremont Harn Gardens Homestead",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Oklahoma_City%2C_OK_-_Lincoln_Terrace_Historic_District_-_632_NE_15th_St_-_panoramio.jpg/1280px-Oklahoma_City%2C_OK_-_Lincoln_Terrace_Historic_District_-_632_NE_15th_St_-_panoramio.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 280315148,
+            "lat": 35.494729,
+            "lon": -97.4972896,
+            "tags": {
+                "access": "permissive",
+                "amenity": "social_centre",
+                "fee": "no",
+                "leisure": "park",
+                "name": "Devon Energy Oil and Gas Park",
+                "tourism": "museum",
+                "website": "https://www.okhistory.org/historycenter/oilfield"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Oklahoma_Governor%27s_Mansion.png/1280px-Oklahoma_Governor%27s_Mansion.png",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 280346247,
+            "lat": 35.4945888,
+            "lon": -97.502798,
+            "tags": {
+                "leisure": "park",
+                "name": "Oklahoma State Capitol Park",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/North_fa%C3%A7ade_of_the_Oklahoma_State_Capitol.jpg/1280px-North_fa%C3%A7ade_of_the_Oklahoma_State_Capitol.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 283891565,
+            "lat": 35.4613269,
+            "lon": -97.5884928,
+            "tags": {
+                "addr:city": "Oklahoma City",
+                "addr:housenumber": "3908",
+                "addr:postcode": "73107",
+                "addr:state": "OK",
+                "addr:street": "West Reno Avenue",
+                "branch": "Oklahoma City",
+                "brand": "Six Flags",
+                "brand:wikidata": "Q127324768",
+                "leisure": "water_park",
+                "name": "Six Flags Hurricane Harbor",
+                "tourism": "theme_park",
+                "website": "https://www.sixflags.com/hurricaneharborokc/",
+                "wikidata": "Q7995513",
+                "wikipedia": "en:Six Flags Hurricane Harbor Oklahoma City"
+            }
+        },
+        {
+            "type": "way",
+            "id": 440534840,
+            "lat": 35.4587158,
+            "lon": -97.5986764,
+            "tags": {
+                "addr:city": "Oklahoma City",
+                "addr:housenumber": "509",
+                "addr:postcode": "73108",
+                "addr:state": "OK",
+                "addr:street": "Westline Drive",
+                "landuse": "retail",
+                "name": "Celebration Station",
+                "tourism": "theme_park"
+            }
+        },
+        {
+            "type": "way",
+            "id": 490970220,
+            "lat": 35.5217507,
+            "lon": -97.4638473,
+            "tags": {
+                "addr:city": "Oklahoma City",
+                "addr:housenumber": "2716",
+                "addr:postcode": "73111",
+                "addr:state": "OK",
+                "addr:street": "Northeast 50th Street",
+                "building": "yes",
+                "name": "Oklahoma State Firefighters Museum",
+                "tourism": "museum",
+                "wikidata": "Q7082353",
+                "wikipedia": "en:Oklahoma State Firefighters Museum"
+            }
+        },
+        {
+            "type": "way",
+            "id": 781179681,
+            "lat": 35.3647794,
+            "lon": -97.4418635,
+            "tags": {
+                "addr:city": "Oklahoma City",
+                "addr:housenumber": "10301",
+                "addr:postcode": "73160",
+                "addr:state": "OK",
+                "addr:street": "South Sunnylane Road",
+                "alt_name": "Skeletons: Museum of Osteology",
+                "building": "yes",
+                "email": "info@museumofosteology.org",
+                "museum": "nature",
+                "museum_type": "private",
+                "name": "Museum of Osteology",
+                "opening_hours": "Mo-Fr 09:00-17:00; Sa 11:00-17:00; Su 13:00-17:00",
+                "phone": "+1-405-814-0006",
+                "tourism": "museum",
+                "website": "http://www.museumofosteology.org",
+                "wikidata": "Q6940980",
+                "wikipedia": "en:Museum of Osteology"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/36/Skeleton_Museum_Logo_New.png",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 977077478,
+            "lat": 35.4656674,
+            "lon": -97.5049446,
+            "tags": {
+                "building": "yes",
+                "name": "Coca Cola Brick Town Event Center",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "way",
+            "id": 1196134435,
+            "lat": 35.53632,
+            "lon": -97.4713493,
+            "tags": {
+                "addr:city": "Oklahoma City",
+                "addr:housenumber": "2300",
+                "addr:postcode": "73111",
+                "addr:state": "OK",
+                "addr:street": "Northeast 63rd Street",
+                "building": "yes",
+                "name": "The American Pigeon Museum & Library",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/American_Pigeon_Museum.jpg/1280px-American_Pigeon_Museum.jpg",
+            "image_source": "wikipedia_verified"
+        }
+    ]
+}

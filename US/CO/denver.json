@@ -1,0 +1,1435 @@
+{
+    "city_metadata": {
+        "city_name": "Denver",
+        "state_code": "CO",
+        "state_full": "Colorado",
+        "city_summary": "Denver  (  DEN-vər) is the capital and most populous city of the U.S. state of Colorado. Officially a consolidated city and county, it is located in the South Platte River valley on the western edge of the High Plains, and is just east of the Front Range of the Rocky Mountains (Rockies). Denver is the 19th-most populous city in the United States and the fifth-most populous state capital, with a population of 715,522 at the 2020 census.",
+        "city_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Denver%2C_Colorado_skyline_%28cropped%29.jpg/1280px-Denver%2C_Colorado_skyline_%28cropped%29.jpg",
+        "city_lat": 39.74,
+        "city_lon": -104.99,
+        "source": "wikipedia_verified_engine"
+    },
+    "attractions": [
+        {
+            "type": "node",
+            "id": 366394539,
+            "lat": 39.7300463,
+            "lon": -104.998839,
+            "tags": {
+                "addr:city": "Denver",
+                "addr:housenumber": "861",
+                "addr:postcode": "80204",
+                "addr:state": "CO",
+                "addr:street": "North Santa Fe Drive",
+                "check_date": "2026-04-07",
+                "check_date:opening_hours": "2026-04-07",
+                "ele": "1600",
+                "gnis:feature_id": "2113379",
+                "name": "Museo De Las Americas",
+                "opening_hours": "Tu-Fr 12:00-18:00; Sa-Su 12:00-17:00",
+                "phone": "+13035714401",
+                "tourism": "museum",
+                "website": "https://museo.org/",
+                "wikidata": "Q18154827"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Museo_de_las_Americas.JPG/1280px-Museo_de_las_Americas.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 366396447,
+            "lat": 39.7457133,
+            "lon": -104.9606539,
+            "tags": {
+                "addr:city": "Denver",
+                "addr:housenumber": "1880",
+                "addr:postcode": "80205",
+                "addr:state": "CO",
+                "addr:street": "Gaylord Street",
+                "ele": "1610",
+                "email": "director@dmmdt.org",
+                "gnis:feature_id": "2113057",
+                "name": "Denver Museum of Miniatures, Dolls And Toys",
+                "phone": "+1-303-322-1053",
+                "tourism": "museum",
+                "website": "https://dmmdt.org/",
+                "wikidata": "Q5259750"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Pearce-McAllister_Cottage.JPG/1280px-Pearce-McAllister_Cottage.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 366396449,
+            "lat": 39.7486538,
+            "lon": -105.017044,
+            "tags": {
+                "addr:city": "Denver",
+                "addr:housenumber": "2121",
+                "addr:postcode": "80211",
+                "addr:state": "CO",
+                "addr:street": "Children's Museum Drive",
+                "contact:website": "https://www.mychildsmuseum.org/",
+                "ele": "1585",
+                "gnis:feature_id": "2113070",
+                "museum": "children",
+                "name": "Children’s Museum of Denver at Marsico Campus",
+                "tourism": "museum",
+                "wikidata": "Q5098167"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/TwisterII.jpg/1280px-TwisterII.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 366396453,
+            "lat": 39.7090618,
+            "lon": -104.917249,
+            "tags": {
+                "addr:city": "Denver",
+                "addr:housenumber": "400",
+                "addr:postcode": "80224",
+                "addr:state": "CO",
+                "addr:street": "South Kearney Street",
+                "alt_name": "Mizel Museum of Judaica",
+                "ele": "1651",
+                "gnis:feature_id": "2113378",
+                "name": "Mizel Museum",
+                "phone": "+1-720-785-7300",
+                "tourism": "museum",
+                "website": "https://mizelmuseum.org/"
+            }
+        },
+        {
+            "type": "node",
+            "id": 366396458,
+            "lat": 39.7406567,
+            "lon": -104.9924255,
+            "tags": {
+                "addr:city": "Denver",
+                "addr:housenumber": "1326",
+                "addr:postcode": "80204",
+                "addr:state": "CO",
+                "addr:street": "Tremont Place",
+                "ele": "1593",
+                "gnis:feature_id": "2112974",
+                "name": "Denver Firefighters Museum",
+                "phone": "+1-303-892-1436",
+                "tourism": "museum",
+                "website": "https://denverfirefightersmuseum.org/",
+                "wikidata": "Q5259725"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/FirefightersMuseum.JPG/1280px-FirefightersMuseum.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 366396460,
+            "lat": 39.7592281,
+            "lon": -104.974471,
+            "tags": {
+                "addr:city": "Denver",
+                "addr:housenumber": "3091",
+                "addr:postcode": "80205",
+                "addr:state": "CO",
+                "addr:street": "California Street",
+                "ele": "1592",
+                "fee": "yes",
+                "fee:conditional": "no @ (age < 6)",
+                "gnis:feature_id": "2112999",
+                "name": "Black American West Museum",
+                "opening_hours": "Sa 10:00-14:00",
+                "tourism": "museum",
+                "website": "https://www.bawmhc.org/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/48/30th-Downing-2007-06.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 366396461,
+            "lat": 39.7446273,
+            "lon": -104.9879622,
+            "tags": {
+                "addr:city": "Denver",
+                "addr:housenumber": "1727",
+                "addr:postcode": "80202",
+                "addr:state": "CO",
+                "addr:street": "Tremont Place",
+                "ele": "1595",
+                "gnis:feature_id": "2112979",
+                "name": "American Museum of Western Art",
+                "phone": "+1-303-293-2000",
+                "tourism": "museum",
+                "website": "https://www.anschutzcollection.org/",
+                "wikidata": "Q4770539",
+                "wikipedia": "en:American Museum of Western Art – The Anschutz Collection"
+            }
+        },
+        {
+            "type": "node",
+            "id": 391989948,
+            "lat": 52.5844209,
+            "lon": 0.3439857,
+            "tags": {
+                "name": "Denver Sluice Complex",
+                "operator": "Environment Agency",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 965227728,
+            "lat": 39.7493244,
+            "lon": -104.9526044,
+            "tags": {
+                "name": "African Penguin",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Denver_Zoo_entrance_pavilion_2012.jpg/1280px-Denver_Zoo_entrance_pavilion_2012.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 965235769,
+            "lat": 39.7504843,
+            "lon": -104.9529288,
+            "tags": {
+                "attraction": "animal",
+                "name": "Monkey Island",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Denver_Zoo_entrance_pavilion_2012.jpg/1280px-Denver_Zoo_entrance_pavilion_2012.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 2836881408,
+            "lat": 39.7496558,
+            "lon": -104.9533288,
+            "tags": {
+                "name": "Woodland Garden",
+                "source": "Bing",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Denver_Robert_Burns_Statue_Front_View.jpg/1280px-Denver_Robert_Burns_Statue_Front_View.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 2836881482,
+            "lat": 39.750559,
+            "lon": -104.9538116,
+            "tags": {
+                "attraction": "animal",
+                "name": "Bear Mountain",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Denver_Zoo_entrance_pavilion_2012.jpg/1280px-Denver_Zoo_entrance_pavilion_2012.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 2836919066,
+            "lat": 39.7503859,
+            "lon": -104.9550213,
+            "tags": {
+                "attraction": "animal",
+                "name": "Primate Panorama Forest Aviary",
+                "source": "zoo",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Denver_Robert_Burns_Statue_Front_View.jpg/1280px-Denver_Robert_Burns_Statue_Front_View.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 2836924214,
+            "lat": 39.7500084,
+            "lon": -104.9563973,
+            "tags": {
+                "attraction": "animal",
+                "name": "Congo Basin",
+                "source": "zoo",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Saint_Ignatius_Loyola_Church.JPG/1280px-Saint_Ignatius_Loyola_Church.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 2836924216,
+            "lat": 39.7488123,
+            "lon": -104.9542944,
+            "tags": {
+                "name": "Nurture Trail",
+                "source": "zoo",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Denver_Robert_Burns_Statue_Front_View.jpg/1280px-Denver_Robert_Burns_Statue_Front_View.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 2836976704,
+            "lat": 39.7485669,
+            "lon": -104.9499653,
+            "tags": {
+                "attraction": "animal",
+                "name": "Toyota Elephant Passage",
+                "source": "zoo",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/CityParkDen.JPG/1280px-CityParkDen.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 4540518695,
+            "lat": 39.747335,
+            "lon": -104.9954905,
+            "tags": {
+                "addr:city": "Denver",
+                "addr:housenumber": "1020",
+                "addr:postcode": "80202",
+                "addr:state": "CO",
+                "addr:street": "16th Street",
+                "email": "DVMoneyMuseum@kc.frb.org",
+                "name": "The Money Museum",
+                "opening_hours": "Mo-Fr 09:30-16:00",
+                "phone": "+1-303-571-2300",
+                "source": "Bing",
+                "tourism": "museum",
+                "website": "https://kansascityfed.org/moneymuseum?location=1",
+                "wheelchair": "yes"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/FederalReserveDenverBranch.jpg/1280px-FederalReserveDenverBranch.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 4568941000,
+            "lat": 39.7457269,
+            "lon": -104.991757,
+            "tags": {
+                "addr:city": "Denver",
+                "addr:housenumber": "1615",
+                "addr:postcode": "80202",
+                "addr:state": "CO",
+                "addr:street": "California Street",
+                "addr:unit": "515",
+                "name": "Dikeou Collection",
+                "opening_hours": "We-Th 11:00-17:00; Fr 15:00-21:00",
+                "tourism": "museum",
+                "website": "https://dikeoucollection.org/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/United_Western_Bank_Building_in_Denver_Colorado.jpg/1280px-United_Western_Bank_Building_in_Denver_Colorado.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 5365160221,
+            "lat": 39.7499977,
+            "lon": -104.9479428,
+            "tags": {
+                "name": "Red Panda",
+                "name:en": "Red Panda",
+                "name:zh": "紅貓熊",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Denver_Zoo_entrance_pavilion_2012.jpg/1280px-Denver_Zoo_entrance_pavilion_2012.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 5465741433,
+            "lat": 39.7371237,
+            "lon": -104.98984,
+            "tags": {
+                "addr:city": "Denver",
+                "addr:housenumber": "1310",
+                "addr:postcode": "80204",
+                "addr:state": "CO",
+                "addr:street": "Bannock Street",
+                "name": "Center for Colorado Women’s History",
+                "opening_hours": "Mo,Th,Fr,Sa 10:30-15:30",
+                "tourism": "museum",
+                "website": "https://www.historycolorado.org/center-colorado-womens-history",
+                "wheelchair": "yes"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/ByersEvans.JPG/1280px-ByersEvans.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 5608503565,
+            "lat": 39.6681431,
+            "lon": -105.0811006,
+            "tags": {
+                "addr:city": "Denver",
+                "addr:housenumber": "7595",
+                "addr:postcode": "80227",
+                "addr:state": "CO",
+                "addr:street": "West Yale Avenue",
+                "name": "Molly Brown Summer House",
+                "tourism": "museum",
+                "website": "https://www.mollybrownsummerhouse.com/",
+                "wikidata": "Q4829106"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Avoca_Lodge_Denver_CO.jpg/1280px-Avoca_Lodge_Denver_CO.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 5664762221,
+            "lat": 39.7538665,
+            "lon": -104.994635,
+            "tags": {
+                "addr:city": "Denver",
+                "addr:housenumber": "1940",
+                "addr:postcode": "80202",
+                "addr:state": "CO",
+                "addr:street": "Blake Street",
+                "name": "National Ballpark Museum",
+                "opening_hours": "Tu-Sa 11:00-17:00",
+                "tourism": "museum",
+                "website": "https://ballparkmuseum.com/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/LodoWazee.jpg/1280px-LodoWazee.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 6604135495,
+            "lat": 39.7437056,
+            "lon": -105.0213624,
+            "tags": {
+                "name": "Colorado Sports Hall of Fame",
+                "tourism": "museum",
+                "website": "https://www.coloradosports.org/",
+                "wikidata": "Q5148916"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e6/DSCN5753_invescofieldatmilehigh_e.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 6715163588,
+            "lat": 39.7730721,
+            "lon": -104.8778234,
+            "tags": {
+                "addr:full": "9550 East 40th Avenue Denver CO 80238",
+                "name": "Urban Air Trampoline and Adventure Park",
+                "phone": "+1-303-536-1951",
+                "tourism": "theme_park",
+                "website": "https://www.urbanairtrampolinepark.com/locations/colorado/stapleton"
+            }
+        },
+        {
+            "type": "node",
+            "id": 7078460011,
+            "lat": 39.703335,
+            "lon": -104.9291205,
+            "tags": {
+                "addr:city": "Denver",
+                "addr:housenumber": "715",
+                "addr:postcode": "80246",
+                "addr:state": "CO",
+                "addr:street": "South Forest Street",
+                "name": "Grant Family Education Center",
+                "phone": "+1-720-865-0800",
+                "tourism": "museum",
+                "website": "https://fourmilepark.org/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/City_of_Glendale_Municipal_Center.JPG/1280px-City_of_Glendale_Municipal_Center.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 9480657619,
+            "lat": 39.7584735,
+            "lon": -105.007219,
+            "tags": {
+                "name": "Denver mural",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/National_Velvet_%2850228009687%29.jpg/1280px-National_Velvet_%2850228009687%29.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 12945570763,
+            "lat": 39.8587488,
+            "lon": -104.6777529,
+            "tags": {
+                "check_date": "2025-06-22",
+                "description": "Antique airplane NC205Y hanging from ceiling",
+                "level": "2",
+                "museum": "history",
+                "name": "Alexander Eaglerock",
+                "tourism": "museum",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 13022187626,
+            "lat": 39.749471,
+            "lon": -105.0115126,
+            "tags": {
+                "attraction": "drop_tower",
+                "name": "Jumpin' Jack",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 13022284284,
+            "lat": 39.7495336,
+            "lon": -105.0129926,
+            "tags": {
+                "attraction": "amusement_ride",
+                "name": "Sling Shot",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 13104474201,
+            "lat": 39.6977879,
+            "lon": -105.0254548,
+            "tags": {
+                "name": "Easy Crane Games",
+                "opening_hours": "We-Fr 11:00-20:00; Sa-Su 11:00-20:30",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 13692387525,
+            "lat": 39.6837904,
+            "lon": -104.9872242,
+            "tags": {
+                "addr:city": "Denver",
+                "addr:housenumber": "1800",
+                "addr:postcode": "80210",
+                "addr:state": "CO",
+                "addr:street": "S Broadway",
+                "check_date": "2026-03-30",
+                "description": "The Sexploratorium is an educational sex museum and sex education center. They are former college professors who offer classes, shows, and events around sexuality and gender.",
+                "museum": "art",
+                "name": "Sexploratorium",
+                "opening_hours": "Sa-Su 13:00-17:00; Tu-Th 13:00-19:00; Fr 13:00-21:00",
+                "phone": "+1-720-923-7195",
+                "tourism": "museum",
+                "website": "https://sexploratoriumdenver.com"
+            }
+        },
+        {
+            "type": "way",
+            "id": 25650822,
+            "lat": 39.7532308,
+            "lon": -105.0002773,
+            "tags": {
+                "addr:city": "Denver",
+                "addr:housenumber": "1701",
+                "addr:postcode": "80202",
+                "addr:state": "CO",
+                "addr:street": "Wynkoop Street",
+                "building": "train_station",
+                "building:colour": "#F5DEB3",
+                "building:levels": "4",
+                "building:material": "brick",
+                "building:parts": "yes",
+                "height": "24",
+                "name": "Union Station",
+                "operator": "Regional Transportation District",
+                "roof:colour": "#808080",
+                "toilets:wheelchair": "yes",
+                "tourism": "attraction",
+                "website": "https://www.amtrak.com/stations/den.html",
+                "wheelchair": "yes",
+                "wikidata": "Q3550021",
+                "wikipedia": "en:Denver Union Station",
+                "year_of_construction": "1881"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Denver_union_station.jpg/1280px-Denver_union_station.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 34414979,
+            "lat": 39.747536,
+            "lon": -104.9428574,
+            "tags": {
+                "addr:city": "Denver",
+                "addr:housenumber": "2001",
+                "addr:postcode": "80205",
+                "addr:state": "CO",
+                "addr:street": "Colorado Boulevard",
+                "building": "public",
+                "building:levels": "4",
+                "check_date": "2025-06-12",
+                "ele": "1617",
+                "fee": "yes",
+                "gnis:feature_id": "2088668",
+                "internet_access": "wlan",
+                "museum": "nature",
+                "name": "Denver Museum of Nature and Science",
+                "opening_hours": "Mo-Su 09:00-17:00",
+                "phone": "+1-303-370-6000",
+                "tourism": "museum",
+                "website": "https://www.dmns.org/",
+                "wheelchair": "limited",
+                "wikidata": "Q3330052",
+                "wikipedia": "en:Denver Museum of Nature and Science"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Denver_Museum_of_Nature_and_Science_View_from_north_west.jpg/1280px-Denver_Museum_of_Nature_and_Science_View_from_north_west.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 35205641,
+            "lat": 39.7363438,
+            "lon": -104.9891798,
+            "tags": {
+                "addr:city": "Denver",
+                "addr:housenumber": "100",
+                "addr:postcode": "80204",
+                "addr:state": "CO",
+                "addr:street": "West 14th Avenue",
+                "building": "public",
+                "building:colour": "#808080",
+                "building:levels": "7",
+                "fee": "yes",
+                "height": "23",
+                "layer": "1",
+                "name": "Denver Art Museum Frederick C. Hamilton Building",
+                "roof:colour": "#808080",
+                "tourism": "museum",
+                "wheelchair": "yes"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/DAM_New_Logo.svg/1280px-DAM_New_Logo.svg.png",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 35205743,
+            "lat": 39.7373873,
+            "lon": -104.9895541,
+            "tags": {
+                "addr:city": "Denver",
+                "addr:housenumber": "100",
+                "addr:postcode": "80204",
+                "addr:state": "CO",
+                "addr:street": "West 14th Avenue Parkway",
+                "building": "public",
+                "building:colour": "dark_grey",
+                "building:levels": "7",
+                "email": "pressoffice@denverartmuseum.org",
+                "fee": "yes",
+                "height": "10",
+                "museum": "art",
+                "name": "Denver Art Museum",
+                "name:en": "Denver Art Museum",
+                "opening_hours": "Mo-Th, Sa, Su 10:00-17:00; Fr 10:00-20:00",
+                "phone": "+1-720-865-5000",
+                "roof:colour": "#808080",
+                "roof:levels": "0",
+                "roof:shape": "flat",
+                "toilets": "yes",
+                "toilets:unisex": "yes",
+                "toilets:wheelchair": "yes",
+                "tourism": "museum",
+                "website": "https://denverartmuseum.org/",
+                "wheelchair": "yes",
+                "wikidata": "Q1189960"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/DAM_New_Logo.svg/1280px-DAM_New_Logo.svg.png",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 82957997,
+            "lat": 39.7492266,
+            "lon": -104.9528764,
+            "tags": {
+                "addr:city": "Denver",
+                "addr:postcode": "80205",
+                "addr:state": "CO",
+                "attraction": "animal",
+                "building": "public",
+                "height": "5",
+                "name": "Bird World",
+                "source": "DRCOG PLANIMETRICS DATA",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Denver_Robert_Burns_Statue_Front_View.jpg/1280px-Denver_Robert_Burns_Statue_Front_View.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 82958154,
+            "lat": 39.7491573,
+            "lon": -104.9460879,
+            "tags": {
+                "attraction": "animal",
+                "building": "yes",
+                "name": "Tropical Discovery",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Denver_Zoo_entrance_pavilion_2012.jpg/1280px-Denver_Zoo_entrance_pavilion_2012.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 82959102,
+            "lat": 39.749928,
+            "lon": -104.9532487,
+            "tags": {
+                "addr:city": "Denver",
+                "addr:postcode": "80205",
+                "addr:state": "CO",
+                "building": "public",
+                "height": "11",
+                "name": "Conservation Carousel",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Denver_Zoo_entrance_pavilion_2012.jpg/1280px-Denver_Zoo_entrance_pavilion_2012.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 105429742,
+            "lat": 39.735684,
+            "lon": -104.9867388,
+            "tags": {
+                "addr:city": "Denver",
+                "addr:housenumber": "1200",
+                "addr:postcode": "80203",
+                "addr:state": "CO",
+                "addr:street": "North Broadway",
+                "building": "public",
+                "building:levels": "6",
+                "check_date": "2025-08-17",
+                "check_date:opening_hours": "2023-06-14",
+                "fee": "yes",
+                "fee:conditional": "no @ (age < 18)",
+                "name": "History Colorado Center",
+                "name:en": "History Colorado Center",
+                "opening_hours": "Mo-Su 10:00-17:00; Dec 30 10:00-15:00; Nov Th[4]off; Dec 25 off; Jan 01 off;",
+                "phone": "+1-303-447-8679",
+                "tourism": "museum",
+                "website": "https://www.historycolorado.org/history-colorado-center",
+                "wheelchair": "yes",
+                "wikidata": "Q5774677"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/HistoryColoradoCenter1.jpg/1280px-HistoryColoradoCenter1.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 130808321,
+            "lat": 39.7778012,
+            "lon": -104.9707842,
+            "tags": {
+                "addr:city": "Denver",
+                "addr:housenumber": "4303",
+                "addr:postcode": "80216",
+                "addr:state": "CO",
+                "addr:street": "Brighton Boulevard",
+                "building": "industrial",
+                "building:colour": "#D2B48C",
+                "building:levels": "1",
+                "check_date": "2024-08-17",
+                "fee": "yes",
+                "museum": "transport",
+                "name": "Forney Museum of Transportation",
+                "opening_hours": "Mo-Sa 10:00-17:00; Su 12:00-17:00",
+                "payment:american_express": "yes",
+                "payment:credit_cards": "yes",
+                "payment:visa": "yes",
+                "phone": "+1 303 297 1113",
+                "roof:colour": "darkgrey",
+                "source": "survey",
+                "tourism": "museum",
+                "url": "http://forneymuseum.org",
+                "website": "https://forneymuseum.com",
+                "wheelchair": "yes",
+                "wikidata": "Q5470379"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/DenverColiseum.JPG/1280px-DenverColiseum.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 131551278,
+            "lat": 39.7375077,
+            "lon": -104.9807687,
+            "tags": {
+                "addr:city": "Denver",
+                "addr:housenumber": "1340",
+                "addr:postcode": "80203",
+                "addr:state": "CO",
+                "addr:street": "Pennsylvania Street",
+                "building": "civic",
+                "building:colour": "#4c4c4c",
+                "building:levels": "2",
+                "name": "Molly Brown House Museum",
+                "roof:colour": "#872e08",
+                "roof:shape": "hipped",
+                "tourism": "museum",
+                "website": "https://mollybrown.org/",
+                "wikidata": "Q6896531"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/42/Molly_Brown_House.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 178559519,
+            "lat": 39.7201888,
+            "lon": -104.8955459,
+            "tags": {
+                "aircraft:type": "military",
+                "historic": "aircraft",
+                "layer": "1",
+                "manufacturer": "Boeing",
+                "name": "Boeing B-52B",
+                "ref": "52-0005",
+                "tourism": "attraction",
+                "wikipedia": "en:Boeing B-52 Stratofortress"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Front_of_Wings_Over_the_Rockies.jpg/1280px-Front_of_Wings_Over_the_Rockies.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 202338967,
+            "lat": 39.748128,
+            "lon": -104.9512742,
+            "tags": {
+                "addr:city": "Denver",
+                "addr:postcode": "80205",
+                "addr:state": "CO",
+                "attraction": "animal",
+                "building": "public",
+                "building:levels": "2",
+                "height": "11",
+                "name": "Clayton F. Freiheit Elephant House",
+                "roof:levels": "0",
+                "source": "DRCOG PLANIMETRICS DATA",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/CityParkDen.JPG/1280px-CityParkDen.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 202341573,
+            "lat": 39.7491719,
+            "lon": -104.9537395,
+            "tags": {
+                "attraction": "animal",
+                "building": "yes",
+                "name": "Birds",
+                "source": "Bing",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Denver_Robert_Burns_Statue_Front_View.jpg/1280px-Denver_Robert_Burns_Statue_Front_View.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 202341580,
+            "lat": 39.75076,
+            "lon": -104.9556317,
+            "tags": {
+                "attraction": "animal",
+                "building": "yes",
+                "name": "Great Apes",
+                "source": "Bing",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Saint_Ignatius_Loyola_Church.JPG/1280px-Saint_Ignatius_Loyola_Church.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 202341585,
+            "lat": 39.7493349,
+            "lon": -104.9546957,
+            "tags": {
+                "attraction": "animal",
+                "building": "yes",
+                "height": "7",
+                "name": "Lorikeet Adventure",
+                "source": "Bing",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Denver_Robert_Burns_Statue_Front_View.jpg/1280px-Denver_Robert_Burns_Statue_Front_View.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 202341587,
+            "lat": 39.7499284,
+            "lon": -104.9554912,
+            "tags": {
+                "addr:city": "Denver",
+                "addr:postcode": "80205",
+                "addr:state": "CO",
+                "attraction": "animal",
+                "building": "public",
+                "height": "5",
+                "name": "Primate Panorama",
+                "source": "DRCOG PLANIMETRICS DATA",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Denver_Robert_Burns_Statue_Front_View.jpg/1280px-Denver_Robert_Burns_Statue_Front_View.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 202341590,
+            "lat": 39.7502406,
+            "lon": -104.9545733,
+            "tags": {
+                "addr:city": "Denver",
+                "addr:postcode": "80205",
+                "addr:state": "CO",
+                "attraction": "animal",
+                "building": "public",
+                "height": "7",
+                "name": "Emerald Forest",
+                "source": "DRCOG PLANIMETRICS DATA",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Denver_Robert_Burns_Statue_Front_View.jpg/1280px-Denver_Robert_Burns_Statue_Front_View.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 223802670,
+            "lat": 39.7320096,
+            "lon": -104.9613834,
+            "tags": {
+                "access": "customers",
+                "addr:city": "Denver",
+                "addr:housenumber": "1007",
+                "addr:postcode": "80206",
+                "addr:state": "CO",
+                "addr:street": "York Street",
+                "charge": "16.5 USD",
+                "fee": "yes",
+                "leisure": "garden",
+                "name": "Denver Botanic Gardens",
+                "tourism": "attraction",
+                "website": "https://www.botanicgardens.org/",
+                "wheelchair": "limited",
+                "wikidata": "Q3003810",
+                "wikipedia": "en:Denver Botanic Gardens"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Denver_Botanic_Gardens_-_DSC00905.JPG/1280px-Denver_Botanic_Gardens_-_DSC00905.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 279477073,
+            "lat": 39.7210706,
+            "lon": -104.8955421,
+            "tags": {
+                "addr:housenumber": "7711",
+                "addr:postcode": "80230",
+                "addr:state": "CO",
+                "addr:street": "East Academy Boulevard",
+                "building": "yes",
+                "email": "Info@WingsMuseum.org",
+                "museum": "aerospace",
+                "name": "Wings Over the Rockies Air & Space Museum",
+                "opening_hours": "Mo-Sa 10:00-17:00; Su 12:00-17:00",
+                "phone": "+1-303-360-5360",
+                "source": "knowledge",
+                "tourism": "museum",
+                "website": "https://wingsmuseum.org/",
+                "wikidata": "Q8025276",
+                "wikipedia": "en:Wings Over the Rockies Air and Space Museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Front_of_Wings_Over_the_Rockies.jpg/1280px-Front_of_Wings_Over_the_Rockies.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 292899107,
+            "lat": 39.7484578,
+            "lon": -105.0143415,
+            "tags": {
+                "attraction": "amusement_ride",
+                "name": "Boomerang",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/SidewinderSFEG.jpg/1280px-SidewinderSFEG.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 292899112,
+            "lat": 39.7481397,
+            "lon": -105.0142168,
+            "tags": {
+                "attraction": "drop_tower",
+                "name": "Tower of Doom",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/SidewinderSFEG.jpg/1280px-SidewinderSFEG.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 292899115,
+            "lat": 39.7478948,
+            "lon": -105.0135379,
+            "tags": {
+                "attraction": "amusement_ride",
+                "name": "Shipwreck Falls",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/SidewinderSFEG.jpg/1280px-SidewinderSFEG.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 292907149,
+            "lat": 39.7492321,
+            "lon": -105.0138962,
+            "tags": {
+                "attraction": "amusement_ride",
+                "name": "Dragonwing",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/SidewinderSFEG.jpg/1280px-SidewinderSFEG.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 292909812,
+            "lat": 39.7489083,
+            "lon": -105.0142722,
+            "tags": {
+                "attraction": "amusement_ride",
+                "name": "XLR8R",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/SidewinderSFEG.jpg/1280px-SidewinderSFEG.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 292909817,
+            "lat": 39.7480731,
+            "lon": -105.0137482,
+            "tags": {
+                "attraction": "pirate_ship",
+                "name": "Sea Dragon",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/SidewinderSFEG.jpg/1280px-SidewinderSFEG.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 296377121,
+            "lat": 39.7539179,
+            "lon": -105.0056289,
+            "tags": {
+                "addr:city": "Denver",
+                "addr:housenumber": "2101",
+                "addr:postcode": "80202",
+                "addr:state": "CO",
+                "addr:street": "15th Street",
+                "building": "commercial",
+                "building:levels": "2",
+                "height": "8",
+                "name": "Historic Moffat Station",
+                "roof:colour": "#4c4c4c",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/The_Red_Forest._Denver%2C_Colorado._2023.jpg/1280px-The_Red_Forest._Denver%2C_Colorado._2023.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 296603872,
+            "lat": 39.7484542,
+            "lon": -105.012736,
+            "tags": {
+                "attraction": "amusement_ride",
+                "name": "Troika",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/SidewinderSFEG.jpg/1280px-SidewinderSFEG.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 305132648,
+            "lat": 39.7543946,
+            "lon": -105.0095549,
+            "tags": {
+                "area": "yes",
+                "name": "Confluence Park / REI",
+                "operator": "Platte Valley Trolley",
+                "public_transport": "platform",
+                "railway": "platform",
+                "tourism": "attraction",
+                "train": "yes"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Confluence_Park_Denver_20230708.jpg/1280px-Confluence_Park_Denver_20230708.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 315709021,
+            "lat": 39.7362967,
+            "lon": -104.9898418,
+            "tags": {
+                "addr:city": "Denver",
+                "addr:housenumber": "1250",
+                "addr:postcode": "80204",
+                "addr:state": "CO",
+                "addr:street": "Bannock Street",
+                "building": "public",
+                "building:colour": "dark_grey",
+                "building:levels": "3",
+                "check_date": "2024-06-19",
+                "check_date:opening_hours": "2023-06-14",
+                "fee": "yes",
+                "fee:conditional": "no @ (age < 18)",
+                "height": "12",
+                "name": "Clyfford Still Museum",
+                "opening_hours": "Tu-Su 10:00-17:00",
+                "roof:colour": "#f5deb3",
+                "tourism": "museum",
+                "website": "https://clyffordstillmuseum.org/",
+                "wikidata": "Q95984747"
+            }
+        },
+        {
+            "type": "way",
+            "id": 408612811,
+            "lat": 39.750947,
+            "lon": -105.0103848,
+            "tags": {
+                "area": "yes",
+                "attraction": "water_slide",
+                "building:colour": "#D0A9AA",
+                "height": "10",
+                "level": "1",
+                "min_height": "9",
+                "name": "Splashdown",
+                "roof:colour": "#D0A9AA",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "way",
+            "id": 408649689,
+            "lat": 39.7498882,
+            "lon": -105.0120776,
+            "tags": {
+                "attraction": "big_wheel",
+                "name": "The Big Wheel",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "way",
+            "id": 408650107,
+            "lat": 39.7497293,
+            "lon": -105.0128864,
+            "tags": {
+                "attraction": "amusement_ride",
+                "name": "Spider",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "way",
+            "id": 408650108,
+            "lat": 39.749866,
+            "lon": -105.0124426,
+            "tags": {
+                "attraction": "amusement_ride",
+                "name": "Tea Cups",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "way",
+            "id": 408756569,
+            "lat": 39.7518139,
+            "lon": -105.0107063,
+            "tags": {
+                "building": "commercial",
+                "building:colour": "#515d68",
+                "building:levels": "3",
+                "name": "Mega Wedgie",
+                "roof:colour": "#B0A6A4",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "way",
+            "id": 408757532,
+            "lat": 39.751789,
+            "lon": -105.0108835,
+            "tags": {
+                "building": "commercial",
+                "building:colour": "#CD7054",
+                "building:levels": "2",
+                "name": "RipQurl",
+                "roof:colour": "#CD7054",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "way",
+            "id": 408842537,
+            "lat": 39.7499309,
+            "lon": -105.0116919,
+            "tags": {
+                "attraction": "kiddie_ride",
+                "name": "Balloon Race",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "way",
+            "id": 408842538,
+            "lat": 39.7499826,
+            "lon": -105.011541,
+            "tags": {
+                "attraction": "kiddie_ride",
+                "name": "Ding Dong Dock",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "way",
+            "id": 408842572,
+            "lat": 39.7498337,
+            "lon": -105.0115157,
+            "tags": {
+                "attraction": "kiddie_ride",
+                "name": "Mike's Bikes",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "way",
+            "id": 409039418,
+            "lat": 39.7477239,
+            "lon": -105.0147028,
+            "tags": {
+                "attraction": "roller_coaster",
+                "name": "Brain Drain",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/TwisterII.jpg/1280px-TwisterII.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 409039419,
+            "lat": 39.7480425,
+            "lon": -105.014683,
+            "tags": {
+                "attraction": "roller_coaster",
+                "name": "Half Pipe",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/TwisterII.jpg/1280px-TwisterII.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 409041839,
+            "lat": 39.7494349,
+            "lon": -105.0119343,
+            "tags": {
+                "attraction": "swing_carousel",
+                "name": "Sunflower Swings",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "way",
+            "id": 415873966,
+            "lat": 39.7485025,
+            "lon": -104.9467578,
+            "tags": {
+                "attraction": "animal",
+                "barrier": "fence",
+                "name": "The Edge (New Tiger Exhibit)",
+                "natural": "scrub",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Denver_Zoo_entrance_pavilion_2012.jpg/1280px-Denver_Zoo_entrance_pavilion_2012.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 525521992,
+            "lat": 39.7495664,
+            "lon": -105.0137381,
+            "tags": {
+                "attraction": "roller_coaster",
+                "name": "Mind Eraser",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/SidewinderSFEG.jpg/1280px-SidewinderSFEG.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 525523769,
+            "lat": 39.7467914,
+            "lon": -105.0144382,
+            "tags": {
+                "attraction": "roller_coaster",
+                "name": "Twister III Rollercoaster",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/TwisterII.jpg/1280px-TwisterII.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 530288179,
+            "lat": 39.7356307,
+            "lon": -104.9905553,
+            "tags": {
+                "addr:city": "Denver",
+                "addr:housenumber": "1201",
+                "addr:postcode": "80204",
+                "addr:state": "CO",
+                "addr:street": "Bannock Street",
+                "building": "public",
+                "building:colour": "#DAA520",
+                "check_date": "2024-06-19",
+                "email": "info@kirklandmuseum.org",
+                "name": "Kirkland Museum of Fine & Decorative Art",
+                "opening_hours": "Tu-Sa 11:00-17:00; Su 12:00-17:00",
+                "phone": "+1-303-832-8576",
+                "roof:colour": "grey",
+                "toilets": "yes",
+                "toilets:access": "customers",
+                "toilets:unisex": "no",
+                "toilets:wheelchair": "yes",
+                "tourism": "museum",
+                "website": "https://kirklandmuseum.org/",
+                "wheelchair": "yes",
+                "wikidata": "Q6415740"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Kirkland_Museum_of_Fine_%26_Decorative_Art.JPG/1280px-Kirkland_Museum_of_Fine_%26_Decorative_Art.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 587358309,
+            "lat": 39.7495234,
+            "lon": -105.0126182,
+            "tags": {
+                "attraction": "swing_carousel",
+                "building:part": "yes",
+                "height": "5.5",
+                "min_height": "1.5",
+                "name": "Turn of the Century",
+                "roof:colour": "#EEDC82",
+                "roof:shape": "pyramidal",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "way",
+            "id": 633496452,
+            "lat": 39.7523274,
+            "lon": -105.0043035,
+            "tags": {
+                "addr:city": "Denver",
+                "addr:housenumber": "1485",
+                "addr:postcode": "80202",
+                "addr:state": "CO",
+                "addr:street": "Delgany Street",
+                "building:part": "yes",
+                "check_date": "2025-05-24",
+                "fee": "yes",
+                "fee:conditional": "no @ (age < 19); no @ healthcare workers; no @ members",
+                "height": "12",
+                "museum": "art",
+                "name": "Museum of Contemporary Art Denver",
+                "opening_hours": "Tu-Fr 12:00-19:00; Sa,Su 10:00-17:00",
+                "payment:cash": "yes",
+                "payment:credit_cards": "yes",
+                "payment:debit_cards": "yes",
+                "toilets": "yes",
+                "tourism": "museum",
+                "website": "https://mcadenver.org/",
+                "wheelchair": "yes",
+                "wikidata": "Q16895577"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Jonas_Burgert_painting_admirers_at_Denver_Museum_of_Contemporary_Art.JPG/1280px-Jonas_Burgert_painting_admirers_at_Denver_Museum_of_Contemporary_Art.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 767957677,
+            "lat": 39.748645,
+            "lon": -105.0126748,
+            "tags": {
+                "attraction": "roller_coaster",
+                "name": "Sidewinder",
+                "tourism": "attraction",
+                "wikidata": "Q7508555"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/SidewinderSFEG.jpg/1280px-SidewinderSFEG.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 792303727,
+            "lat": 39.7521814,
+            "lon": -105.0133207,
+            "tags": {
+                "leisure": "garden",
+                "name": "Rock Sculpture Garden",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Denver-DTA.jpg/1280px-Denver-DTA.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 1417133199,
+            "lat": 39.74978,
+            "lon": -105.0117279,
+            "tags": {
+                "area": "yes",
+                "attraction": "kiddie_ride",
+                "name": "Rockin' Tug",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "way",
+            "id": 1417133200,
+            "lat": 39.7493319,
+            "lon": -105.0118109,
+            "tags": {
+                "attraction": "kiddie_ride",
+                "name": "Crazy Bus",
+                "tourism": "attraction"
+            }
+        }
+    ]
+}

@@ -1,0 +1,239 @@
+{
+    "city_metadata": {
+        "city_name": "Montpelier",
+        "state_code": "VT",
+        "state_full": "Vermont",
+        "city_summary": "Montpelier is the capital city of the U.S. state of Vermont and the county seat of Washington County. The site of Vermont's state government, it is the least populous state capital in the United States. As of the 2020 census, the population was 8,074, with a daytime population growth of about 21,000 due to the large number of jobs within city limits.",
+        "city_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/2022-04_Vermont_State_House_01.jpg/1280px-2022-04_Vermont_State_House_01.jpg",
+        "city_lat": 44.25944444,
+        "city_lon": -72.57583333,
+        "source": "wikipedia_verified_engine"
+    },
+    "attractions": [
+        {
+            "type": "node",
+            "id": 366667941,
+            "lat": 44.2612635,
+            "lon": -72.5794827,
+            "tags": {
+                "addr:state": "VT",
+                "ele": "160",
+                "fee": "yes",
+                "gnis:feature_id": "1919238",
+                "name": "Vermont Historical Society Museum and Pavilion",
+                "opening_hours": "Tu-Sa 10:00-16:00",
+                "source": "USGS Geonames",
+                "tourism": "museum",
+                "website": "https://vermonthistory.org/museum/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/The_Pavilion_01.jpg/1280px-The_Pavilion_01.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 5901976761,
+            "lat": 44.2653888,
+            "lon": -72.5780834,
+            "tags": {
+                "name": "Hubbard Tower",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Seal_of_Vermont_%28B%26W%29.svg/1280px-Seal_of_Vermont_%28B%26W%29.svg.png",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 713186536,
+            "lat": 42.3225451,
+            "lon": -111.2970231,
+            "tags": {
+                "addr:housenumber": "320",
+                "addr:postcode": "83254",
+                "addr:state": "ID",
+                "addr:street": "North 4th Street",
+                "building": "yes",
+                "name": "The National Oregon / California Trail Center",
+                "phone": "+1-866-847-3800",
+                "tourism": "museum",
+                "website": "https://oregontrailcenter.org/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/JohnBagleyHouse.jpg/1280px-JohnBagleyHouse.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 961707278,
+            "lat": 42.3173489,
+            "lon": -111.3078463,
+            "tags": {
+                "building": "yes",
+                "email": "butchcassidymuseum@gmail.com",
+                "fee": "no",
+                "fixme": "It is stated on their website that they open on memorial day and close a little after labor day. I don't currently know how to enter this into the opening hours tag, but there's probably a way to do it.",
+                "mapillary": "1110316673132251",
+                "museum": "local",
+                "name": "Butch Cassidy Bank Robery Museum",
+                "opening_hours": "Mo-Su 10:00-16:00",
+                "phone": "+1-801-706-4004",
+                "tourism": "museum",
+                "website": "http://butchcassidymuseum.com/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Montpelier_ID_Odd_Fellows_Hall.jpg/1280px-Montpelier_ID_Odd_Fellows_Hall.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 32578,
+            "lat": 44,
+            "lon": -72.7,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Vermont.svg/1280px-Flag_of_Vermont.svg.png",
+            "description": "Vermont ( ) is a landlocked state in the New England region of the Northeastern United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Vermont",
+                "wikipedia": "en:Vermont",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 348426,
+            "lat": 44.3375,
+            "lon": -72.75555556,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Waterbury_VT_2-05-2026.jpg/1280px-Waterbury_VT_2-05-2026.jpg",
+            "description": "Waterbury is a town in Washington County in central Vermont, United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Waterbury, Vermont",
+                "wikipedia": "en:Waterbury, Vermont",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 137291,
+            "lat": 44.38972222,
+            "lon": -73.22472222,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Shelburnevtdowntown.JPG/1280px-Shelburnevtdowntown.JPG",
+            "description": "Shelburne is a town in Chittenden County, Vermont, United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Shelburne, Vermont",
+                "wikipedia": "en:Shelburne, Vermont",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 260279,
+            "lat": 43.62361111,
+            "lon": -72.51944444,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Woodstock_foliage1920.jpg/1280px-Woodstock_foliage1920.jpg",
+            "description": "Woodstock is the shire town (county seat) of Windsor County, Vermont, United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Woodstock, Vermont",
+                "wikipedia": "en:Woodstock, Vermont",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 260210,
+            "lat": 42.89111111,
+            "lon": -73.20805556,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d8/CW_memorial_Bennington_VT.jpg",
+            "description": "Bennington is a town in Bennington County, Vermont, United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Bennington, Vermont",
+                "wikipedia": "en:Bennington, Vermont",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 260212,
+            "lat": 43.14083333,
+            "lon": -73.08,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/90/Bennington_county_court_house_manchester_vermont_20040731.jpg",
+            "description": "Manchester is a town in, and one of two shire towns (county seats) of, Bennington County, Vermont, United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Manchester, Vermont",
+                "wikipedia": "en:Manchester, Vermont",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 71210776,
+            "lat": 44.25777778,
+            "lon": -72.59638889,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/86/Green_Mount_Cemetery_%28Montpelier%2C_Vermont%29_welcome_sign.jpg",
+            "description": "Green Mount Cemetery is a burial ground in Montpelier, Vermont.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Green Mount Cemetery (Montpelier, Vermont)",
+                "wikipedia": "en:Green Mount Cemetery (Montpelier, Vermont)",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 530643,
+            "lat": 44.4947,
+            "lon": -73.1653,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/3c/St_michaels_college_logo.png",
+            "description": "Saint Michael's College (St.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Saint Michael's College",
+                "wikipedia": "en:Saint Michael's College",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 529717,
+            "lat": 44.2789,
+            "lon": -72.4394,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/75/Stacked_Goddard_logo.jpg",
+            "description": "Goddard College was a private college with three locations in the United States: Plainfield, Vermont; Port Townsend, Washington; and Seattle.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Goddard College",
+                "wikipedia": "en:Goddard College",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 529750,
+            "lat": 44.64166667,
+            "lon": -72.67111111,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/59/Johnson_state_college_textlogo.png",
+            "description": "Johnson State College was a public liberal arts college in Johnson, Vermont, United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Johnson State College",
+                "wikipedia": "en:Johnson State College",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 3848343,
+            "lat": 44.13722222,
+            "lon": -72.90666667,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Mt_Ellen%2C_Sugarbush.jpg",
+            "description": "Sugarbush Resort is a ski resort located in the Mad River valley in Warren, Vermont, owned by Alterra Mountain Company.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Sugarbush Resort",
+                "wikipedia": "en:Sugarbush Resort",
+                "tourism": "attraction"
+            }
+        }
+    ]
+}

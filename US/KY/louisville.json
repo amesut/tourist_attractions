@@ -1,0 +1,1117 @@
+{
+    "city_metadata": {
+        "city_name": "Louisville",
+        "state_code": "KY",
+        "state_full": "Kentucky",
+        "city_summary": "Louisville is the most populous city in the U.S. state of Kentucky, sixth-most populous city in the Southeast, and the 27th-most-populous city in the United States. By land area, it is the country's 24th-largest city; however, by population density, it is the 265th most dense city. Louisville is the historical county seat and, since 2003, the nominal seat of Jefferson County, on the Indiana state line.",
+        "city_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Louisville_Skyline_2021_%283%29.jpg/1280px-Louisville_Skyline_2021_%283%29.jpg",
+        "city_lat": 38.25611111,
+        "city_lon": -85.75138889,
+        "source": "wikipedia_verified_engine"
+    },
+    "attractions": [
+        {
+            "type": "node",
+            "id": 367811872,
+            "lat": 38.2568795,
+            "lon": -85.7145659,
+            "tags": {
+                "addr:city": "Louisville",
+                "addr:housenumber": "1839",
+                "addr:postcode": "40206",
+                "addr:state": "KY",
+                "addr:street": "Frankfort Avenue",
+                "door": "no",
+                "ele": "153",
+                "gnis:feature_id": "2459624",
+                "level": "1.5",
+                "name": "Museum of the American Printing House for the Blind",
+                "operator": "The American Printing House for the Blind",
+                "source": "USGS Geonames",
+                "tourism": "museum",
+                "website": "https://aphmuseum.org/",
+                "wheelchair": "yes"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Aph-logo.svg/1280px-Aph-logo.svg.png",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 367811877,
+            "lat": 38.1993919,
+            "lon": -85.6952171,
+            "tags": {
+                "addr:state": "KY",
+                "ele": "144",
+                "gnis:feature_id": "2459631",
+                "name": "Colonel Sanders Museum",
+                "source": "USGS Geonames",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/KFC_Paraparaumu_154510.jpg/1280px-KFC_Paraparaumu_154510.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 1588879863,
+            "lat": 39.9767014,
+            "lon": -105.1296073,
+            "tags": {
+                "name": "My Nature Lab",
+                "opening_hours": "We-Fr 09:00-17:00; Sa,Su 10:00-16:00",
+                "tourism": "zoo",
+                "website": "https://www.mynaturelab.org/",
+                "zoo": "reptile"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1642159826,
+            "lat": 39.9798027,
+            "lon": -105.132286,
+            "tags": {
+                "addr:city": "Louisville",
+                "addr:housenumber": "1001",
+                "addr:postcode": "80027",
+                "addr:state": "CO",
+                "addr:street": "Main Street",
+                "check_date:opening_hours": "2023-03-14",
+                "fee": "no",
+                "name": "Louisville Historical Museum",
+                "opening_hours": "Tu-Sa 10:00-15:00; We 13:00-18:00; Jul 04, Nov 11 off; Nov 23 - 24 off",
+                "tourism": "museum",
+                "website": "https://www.louisvilleco.gov/exploring-louisville/historical-museum",
+                "wheelchair": "limited"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Ginacci_House.JPG/1280px-Ginacci_House.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 4215189315,
+            "lat": 38.2053799,
+            "lon": -85.7713634,
+            "tags": {
+                "addr:city": "Louisville",
+                "addr:housenumber": "704",
+                "addr:postcode": "40208",
+                "addr:state": "KY",
+                "addr:street": "Central Avenue",
+                "name": "Kentucky Derby Museum",
+                "tourism": "museum",
+                "website": "https://www.derbymuseum.org/",
+                "wikidata": "Q14690752",
+                "wikipedia": "en:Kentucky Derby Museum"
+            }
+        },
+        {
+            "type": "node",
+            "id": 5146055222,
+            "lat": 38.2808018,
+            "lon": -85.7013129,
+            "tags": {
+                "name": "WaterWorks Museum",
+                "opening_hours": "We-Fr 10:00-17:00; Sa-Su 10:00-15:00",
+                "tourism": "museum",
+                "wikidata": "Q17019049"
+            }
+        },
+        {
+            "type": "node",
+            "id": 5266544810,
+            "lat": 38.2049903,
+            "lon": -85.705218,
+            "tags": {
+                "name": "Louisville zoo",
+                "tourism": "zoo"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Louisville_Zoo_-_March_2025.jpg/1280px-Louisville_Zoo_-_March_2025.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 6069642907,
+            "lat": 38.1984708,
+            "lon": -85.623283,
+            "tags": {
+                "name": "Bingo City",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 6882884522,
+            "lat": 38.205966,
+            "lon": -85.7028772,
+            "tags": {
+                "description": "Petting Zoo",
+                "level": "0",
+                "name": "Petting Zoo Area",
+                "tourism": "zoo",
+                "zoo": "petting_zoo"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Louisville_Zoo_-_March_2025.jpg/1280px-Louisville_Zoo_-_March_2025.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 6882884523,
+            "lat": 38.205707,
+            "lon": -85.7038614,
+            "tags": {
+                "attraction": "animal",
+                "description": "Camels",
+                "level": "0",
+                "name": "Camel Area",
+                "species:wikipedia": "en:Camel",
+                "tourism": "attraction",
+                "website": "https://louisvillezoo.org/animalsandplants/dromedary-camel/",
+                "zoo": "enclosure"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Louisville_Zoo_-_March_2025.jpg/1280px-Louisville_Zoo_-_March_2025.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 6882884525,
+            "lat": 38.20596,
+            "lon": -85.7059149,
+            "tags": {
+                "attraction": "animal",
+                "description": "Warthog (Phacocchoerinae)",
+                "level": "0",
+                "name": "Warthog Area",
+                "species:wikipedia": "en:Phacochoerus",
+                "tourism": "attraction",
+                "website": "https://louisvillezoo.org/animalsandplants/warthog/",
+                "zoo": "enclosure"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Louisville_Zoo_-_March_2025.jpg/1280px-Louisville_Zoo_-_March_2025.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 6886832678,
+            "lat": 38.2047348,
+            "lon": -85.7074679,
+            "tags": {
+                "attraction": "animal",
+                "description": "Penguin habitat",
+                "level": "0",
+                "name": "Penguin Cove",
+                "species:wikipedia": "en:Penguin",
+                "tourism": "attraction",
+                "website": "https://louisvillezoo.org/louisville-zoo-opens-penguin-cove/",
+                "zoo": "enclosure"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Louisville_Zoo_-_March_2025.jpg/1280px-Louisville_Zoo_-_March_2025.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 6886875021,
+            "lat": 38.2048388,
+            "lon": -85.7078031,
+            "tags": {
+                "attraction": "animal",
+                "description": "Greek and Star Tortoises",
+                "level": "0",
+                "name": "Tortoise Area",
+                "species:wikipedia": "en:Tortoise",
+                "tourism": "attraction",
+                "website": "https://louisvillezoo.org/animalsandplants/tortoise-greek/",
+                "zoo": "enclosure"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Louisville_Zoo_-_March_2025.jpg/1280px-Louisville_Zoo_-_March_2025.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 6886875022,
+            "lat": 38.205293,
+            "lon": -85.7060732,
+            "tags": {
+                "attraction": "animal",
+                "description": "Ring-tailed Lemur",
+                "level": "0",
+                "name": "Ring-Tailed Lemur",
+                "species:wikipedia": "en:Ring-tailed_lemur",
+                "tourism": "attraction",
+                "website": "https://louisvillezoo.org/animalsandplants/lemur-ring-tailed/",
+                "zoo": "enclosure"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Louisville_Zoo_-_March_2025.jpg/1280px-Louisville_Zoo_-_March_2025.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 6886875027,
+            "lat": 38.2070406,
+            "lon": -85.7021085,
+            "tags": {
+                "attraction": "animal",
+                "description": "Pygmy Hippos",
+                "level": "0",
+                "name": "Pygmy Hippo Area",
+                "species:wikipedia": "en:Pygmy_hippotamus",
+                "tourism": "attraction",
+                "website": "https://louisvillezoo.org/animalsandplants/pygmy-hippo/",
+                "zoo": "enclosure"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Louisville_Zoo_-_March_2025.jpg/1280px-Louisville_Zoo_-_March_2025.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 6886875030,
+            "lat": 38.2043887,
+            "lon": -85.703758,
+            "tags": {
+                "attraction": "animal",
+                "description": "Steller's Sea-Eagle",
+                "level": "0",
+                "name": "Stellar's Sea-Eagle Aviary",
+                "species:wikipedia": "en:Steller's_sea_eagle",
+                "tourism": "attraction",
+                "website": "https://louisvillezoo.org/glacier-run/stellers-sea-eagle-aviary/",
+                "zoo": "enclosure"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Louisville_Zoo_-_March_2025.jpg/1280px-Louisville_Zoo_-_March_2025.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 6886875031,
+            "lat": 38.2042271,
+            "lon": -85.703297,
+            "tags": {
+                "attraction": "animal",
+                "description": "Snowy Owl",
+                "level": "0",
+                "name": "Snowy Owl Area",
+                "species:wikipedia": "en:Snowy_owl",
+                "tourism": "attraction",
+                "website": "https://louisvillezoo.org/animalsandplants/owl-snowy/",
+                "zoo": "enclosure"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Louisville_Zoo_-_March_2025.jpg/1280px-Louisville_Zoo_-_March_2025.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 6886875032,
+            "lat": 38.2066771,
+            "lon": -85.7024353,
+            "tags": {
+                "attraction": "animal",
+                "level": "0",
+                "name": "Naked Mole Rat Area",
+                "tourism": "attraction",
+                "website": "https://louisvillezoo.org/animalsandplants/",
+                "zoo": "enclosure"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Louisville_Zoo_-_March_2025.jpg/1280px-Louisville_Zoo_-_March_2025.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 6886875033,
+            "lat": 38.2065093,
+            "lon": -85.7024029,
+            "tags": {
+                "attraction": "animal",
+                "description": "Meerkats",
+                "level": "0",
+                "name": "Meerkat Area",
+                "species:wikipedia": "en:Meerkat",
+                "tourism": "attraction",
+                "website": "https://louisvillezoo.org/animalsandplants/meerkat/",
+                "zoo": "enclosure"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Louisville_Zoo_-_March_2025.jpg/1280px-Louisville_Zoo_-_March_2025.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 6886875036,
+            "lat": 38.2036715,
+            "lon": -85.703812,
+            "tags": {
+                "attraction": "animal",
+                "description": "Guanaco",
+                "level": "0",
+                "name": "Guanaco Area",
+                "species:wikipedia": "en:Guanaco",
+                "tourism": "attraction",
+                "website": "https://louisvillezoo.org/animalsandplants/guanaco/",
+                "zoo": "enclosure"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Louisville_Zoo_-_March_2025.jpg/1280px-Louisville_Zoo_-_March_2025.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 6886875037,
+            "lat": 38.2040892,
+            "lon": -85.7048196,
+            "tags": {
+                "attraction": "animal",
+                "description": "Chilean Flamingo",
+                "level": "0",
+                "name": "Flamingo Area",
+                "species:wikipedia": "en:Chilean_flamingo",
+                "tourism": "attraction",
+                "website": "https://louisvillezoo.org/animalsandplants/chilean-flamingo/",
+                "zoo": "enclosure"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Louisville_Zoo_-_March_2025.jpg/1280px-Louisville_Zoo_-_March_2025.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 6886875038,
+            "lat": 38.2041664,
+            "lon": -85.7042261,
+            "tags": {
+                "attraction": "animal",
+                "description": "Hyacinth Macaw",
+                "level": "0",
+                "name": "Macaw Area",
+                "species:wikipedia": "en:Hyacinth_macaw",
+                "tourism": "attraction",
+                "website": "https://louisvillezoo.org/animalsandplants/macaw-hyacinth/",
+                "zoo": "enclosure"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Louisville_Zoo_-_March_2025.jpg/1280px-Louisville_Zoo_-_March_2025.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 6886875039,
+            "lat": 38.2044034,
+            "lon": -85.7041224,
+            "tags": {
+                "attraction": "animal",
+                "description": "Jaguar",
+                "level": "0",
+                "name": "Jaguar Area",
+                "species:wikipedia": "en:Jaguar",
+                "tourism": "attraction",
+                "website": "https://louisvillezoo.org/animalsandplants/jaguar/",
+                "zoo": "enclosure"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Louisville_Zoo_-_March_2025.jpg/1280px-Louisville_Zoo_-_March_2025.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 6886875041,
+            "lat": 38.2044814,
+            "lon": -85.7050958,
+            "tags": {
+                "attraction": "animal",
+                "description": "Maned Wolf",
+                "level": "0",
+                "name": "Maned Wolf Area",
+                "species:wikipedia": "en:Maned_wolf",
+                "tourism": "attraction",
+                "website": "https://louisvillezoo.org/animalsandplants/wolf-maned/",
+                "zoo": "enclosure"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Louisville_Zoo_-_March_2025.jpg/1280px-Louisville_Zoo_-_March_2025.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 6886875044,
+            "lat": 38.2040106,
+            "lon": -85.7054524,
+            "tags": {
+                "attraction": "animal",
+                "description": "Lynx",
+                "level": "0",
+                "name": "Lynx Area",
+                "species:wikipedia": "en:Lynx",
+                "tourism": "attraction",
+                "website": "https://louisvillezoo.org/animalsandplants/lynx-canada/",
+                "zoo": "enclosure"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Louisville_Zoo_-_March_2025.jpg/1280px-Louisville_Zoo_-_March_2025.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 6886875045,
+            "lat": 38.2040237,
+            "lon": -85.705217,
+            "tags": {
+                "attraction": "animal",
+                "description": "Bald Eagle",
+                "level": "0",
+                "name": "Bald Eagle Area",
+                "species:wikipedia": "en:Bald_eagle",
+                "tourism": "attraction",
+                "website": "https://louisvillezoo.org/animalsandplants/bald-eagle/",
+                "zoo": "enclosure"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Louisville_Zoo_-_March_2025.jpg/1280px-Louisville_Zoo_-_March_2025.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 6886875047,
+            "lat": 38.2057189,
+            "lon": -85.7056209,
+            "tags": {
+                "attraction": "animal",
+                "description": "Rhinoceros",
+                "level": "0",
+                "name": "Rhinoceros Area",
+                "species:wikipedia": "en:rhinoceros",
+                "tourism": "attraction",
+                "website": "https://louisvillezoo.org/animalsandplants/southern-white-rhinoceros/",
+                "zoo": "enclosure"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Louisville_Zoo_-_March_2025.jpg/1280px-Louisville_Zoo_-_March_2025.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 6886875050,
+            "lat": 38.2055538,
+            "lon": -85.7033718,
+            "tags": {
+                "attraction": "animal",
+                "description": "African and Asian Elephants",
+                "level": "0",
+                "name": "Elephant Area",
+                "species:wikipedia": "en:Elephant",
+                "tourism": "attraction",
+                "website": "https://louisvillezoo.org/animalsandplants/african-elephant/",
+                "zoo": "enclosure"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Louisville_Zoo_-_March_2025.jpg/1280px-Louisville_Zoo_-_March_2025.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 6886875051,
+            "lat": 38.2060332,
+            "lon": -85.7034302,
+            "tags": {
+                "attraction": "animal",
+                "description": "Zebra",
+                "level": "0",
+                "name": "Zebra Area",
+                "species:wikipedia": "en:Zebra",
+                "tourism": "attraction",
+                "website": "https://louisvillezoo.org/animalsandplants/hartmanns-mountain-zebra/",
+                "zoo": "enclosure"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Louisville_Zoo_-_March_2025.jpg/1280px-Louisville_Zoo_-_March_2025.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 6886875052,
+            "lat": 38.20521,
+            "lon": -85.7041282,
+            "tags": {
+                "attraction": "animal",
+                "description": "Addax",
+                "level": "0",
+                "name": "Addex Area",
+                "species:wikidata": "Q190154",
+                "species:wikipedia": "en:Addax",
+                "tourism": "attraction",
+                "website": "https://louisvillezoo.org/animalsandplants/addax-antelope/",
+                "zoo": "enclosure"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Louisville_Zoo_-_March_2025.jpg/1280px-Louisville_Zoo_-_March_2025.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 6886875053,
+            "lat": 38.2054981,
+            "lon": -85.7045882,
+            "tags": {
+                "attraction": "animal",
+                "description": "Bongo",
+                "level": "0",
+                "name": "Bongo Area",
+                "species:wikipedia": "en:Bongo",
+                "tourism": "attraction",
+                "website": "https://louisvillezoo.org/animalsandplants/bongo/",
+                "zoo": "enclosure"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Louisville_Zoo_-_March_2025.jpg/1280px-Louisville_Zoo_-_March_2025.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 6886875055,
+            "lat": 38.2056285,
+            "lon": -85.7047872,
+            "tags": {
+                "attraction": "animal",
+                "description": "Cranes",
+                "level": "0",
+                "name": "Crane Area",
+                "species:wikipedia": "en:Crane",
+                "tourism": "attraction",
+                "website": "https://louisvillezoo.org/animalsandplants/crane-wattled/",
+                "zoo": "enclosure"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Louisville_Zoo_-_March_2025.jpg/1280px-Louisville_Zoo_-_March_2025.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 6886875056,
+            "lat": 38.2059511,
+            "lon": -85.7039936,
+            "tags": {
+                "attraction": "animal",
+                "description": "Lions",
+                "level": "0",
+                "name": "Lion Area",
+                "species:wikipedia": "en:Lion",
+                "tourism": "attraction",
+                "website": "https://louisvillezoo.org/animalsandplants/african-lion/",
+                "zoo": "enclosure"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Louisville_Zoo_-_March_2025.jpg/1280px-Louisville_Zoo_-_March_2025.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 6886875057,
+            "lat": 38.2059342,
+            "lon": -85.7045694,
+            "tags": {
+                "attraction": "animal",
+                "description": "Vultures",
+                "level": "0",
+                "name": "Vulture Area",
+                "species:wikipedia": "en:Vulture",
+                "tourism": "attraction",
+                "website": "https://louisvillezoo.org/animalsandplants/vulture-turkey/",
+                "zoo": "enclosure"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Louisville_Zoo_-_March_2025.jpg/1280px-Louisville_Zoo_-_March_2025.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 6886875058,
+            "lat": 38.2059874,
+            "lon": -85.7048558,
+            "tags": {
+                "attraction": "animal",
+                "description": "Giraffes",
+                "level": "0",
+                "name": "Giraffe Area",
+                "species:wikipedia": "en:Giraffe",
+                "tourism": "attraction",
+                "website": "https://louisvillezoo.org/animalsandplants/giraffe-masai/",
+                "zoo": "enclosure"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Louisville_Zoo_-_March_2025.jpg/1280px-Louisville_Zoo_-_March_2025.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 6892136401,
+            "lat": 38.2041081,
+            "lon": -85.7029878,
+            "tags": {
+                "attraction": "animal",
+                "description": "Lorikeets",
+                "level": "0",
+                "name": "Lorikeet Landing",
+                "species:wikipedia": "en:Lorikeet",
+                "tourism": "attraction",
+                "website": "https://louisvillezoo.org/australia/lorikeet-landing/",
+                "zoo": "enclosure"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Louisville_Zoo_-_March_2025.jpg/1280px-Louisville_Zoo_-_March_2025.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 6924934184,
+            "lat": 38.2038476,
+            "lon": -85.7054031,
+            "tags": {
+                "attraction": "animal",
+                "description": "Puma",
+                "level": "0",
+                "name": "Puma Area",
+                "species:wikipedia": "en:Puma",
+                "tourism": "attraction",
+                "website": "https://louisvillezoo.org/animalsandplants/puma/",
+                "zoo": "enclosure"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Louisville_Zoo_-_March_2025.jpg/1280px-Louisville_Zoo_-_March_2025.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 6932968217,
+            "lat": 38.2041745,
+            "lon": -85.7027235,
+            "tags": {
+                "attraction": "animal",
+                "description": "Walleroo",
+                "level": "0",
+                "name": "Walleroo Walkabout",
+                "species:wikipedia": "en:Walleroo",
+                "tourism": "attraction",
+                "website": "https://louisvillezoo.org/australia/",
+                "zoo": "enclosure"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Louisville_Zoo_-_March_2025.jpg/1280px-Louisville_Zoo_-_March_2025.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 7221043976,
+            "lat": 38.2073519,
+            "lon": -85.7020829,
+            "tags": {
+                "attraction": "animal",
+                "description": "Gorilla habitat",
+                "door": "sliding",
+                "entrance": "main",
+                "level": "0",
+                "name": "Gorilla Sanctuary",
+                "species:wikipedia": "en:Gorilla",
+                "tourism": "attraction",
+                "website": "https://louisvillezoo.org/animalsandplants/gorilla/",
+                "zoo": "enclosure"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Louisville_Zoo_-_March_2025.jpg/1280px-Louisville_Zoo_-_March_2025.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 7610560085,
+            "lat": 38.2553326,
+            "lon": -85.7126703,
+            "tags": {
+                "addr:postcode": "40206",
+                "addr:street": "Frankfort Avenue",
+                "name": "Market Street line sign",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 7619070088,
+            "lat": 38.2594475,
+            "lon": -85.7098766,
+            "tags": {
+                "addr:postcode": "40206",
+                "addr:street": "Brownsboro Road",
+                "name": "Bingham Park",
+                "opening_hours": "Mo-Su 08:00-21:30",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/KY-School-for-the-Blind.jpg/1280px-KY-School-for-the-Blind.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 7707855485,
+            "lat": 38.2547718,
+            "lon": -85.6866419,
+            "tags": {
+                "name": "Sign",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/2b/FrankfortAveoajs.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 8589312353,
+            "lat": 38.2591463,
+            "lon": -85.7556952,
+            "tags": {
+                "addr:street": "4th Street Warf",
+                "name": "Belle of Louisville",
+                "tourism": "attraction",
+                "website": "https://belleoflouisville.org/",
+                "wikidata": "Q815874",
+                "wikipedia": "en:Belle of Louisville"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Belle_of_Louisville_2.jpg/1280px-Belle_of_Louisville_2.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 12122612695,
+            "lat": 38.7722259,
+            "lon": -88.5006727,
+            "tags": {
+                "museum": "history",
+                "name": "Clay County Historical Society",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Clay_County_Jail_in_Louisville.jpg/1280px-Clay_County_Jail_in_Louisville.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 24050556,
+            "lat": 38.2053653,
+            "lon": -85.7056815,
+            "tags": {
+                "fixme": "Add areas and names for all animals.",
+                "leisure": "park",
+                "name": "Louisville Zoo",
+                "phone": "+1-502-459-2181",
+                "tourism": "zoo",
+                "website": "https://www.louisvillezoo.org/",
+                "wikidata": "Q3576024",
+                "wikipedia": "en:Louisville Zoo"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Louisville_Zoo_-_March_2025.jpg/1280px-Louisville_Zoo_-_March_2025.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 59648661,
+            "lat": 38.1952943,
+            "lon": -85.746956,
+            "tags": {
+                "addr:city": "Louisville",
+                "addr:housenumber": "937",
+                "addr:postcode": "40209",
+                "addr:street": "Phillips Lane",
+                "name": "Kentucky Kingdom and Hurricane Bay",
+                "operator": "Kentucky Kingdom, LLLP",
+                "tourism": "theme_park",
+                "website": "https://www.kentuckykingdom.com",
+                "wikidata": "Q369789",
+                "wikipedia": "en:Kentucky Kingdom"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Kentucky_Kingdom_-_Entrance_Fountain_2021.jpg/1280px-Kentucky_Kingdom_-_Entrance_Fountain_2021.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 187886674,
+            "lat": 38.1577819,
+            "lon": -85.7704059,
+            "tags": {
+                "name": "Little Loomhouse",
+                "tourism": "museum",
+                "wikidata": "Q3256695"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Wistaria_Cabin.JPG/1280px-Wistaria_Cabin.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 264161753,
+            "lat": 38.2583159,
+            "lon": -85.7599871,
+            "tags": {
+                "addr:city": "Louisville",
+                "addr:housenumber": "144",
+                "addr:postcode": "40202",
+                "addr:state": "KY",
+                "addr:street": "North 6th Street",
+                "building": "yes",
+                "building:max_level": "5",
+                "building:min_level": "0",
+                "lojic:bgnum": "404743",
+                "name": "Muhammad Ali Center",
+                "name:en": "Muhammad Ali Center",
+                "tourism": "museum",
+                "website": "https://www.alicenter.org/",
+                "wikidata": "Q738549"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/15/AliCenter.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 330532776,
+            "lat": 38.2693507,
+            "lon": -85.7864752,
+            "tags": {
+                "addr:city": "Louisville",
+                "addr:housenumber": "2308",
+                "addr:postcode": "40212",
+                "addr:state": "KY",
+                "addr:street": "Portland Avenue",
+                "building": "yes",
+                "check_date:opening_hours": "2023-04-20",
+                "ele": "140",
+                "fee": "no",
+                "gnis:feature_id": "2459934",
+                "lojic:bgnum": "272755",
+                "name": "Portland Museum",
+                "opening_hours": "We-Fr 12:00-17:00; Sa 12:00-16:00",
+                "phone": "+1 502 776 7678",
+                "source": "USGS Geonames",
+                "tourism": "museum",
+                "website": "https://portlandky.org/",
+                "wikidata": "Q7231986"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/05/PortlandLouMuseum.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 331282722,
+            "lat": 38.2565695,
+            "lon": -85.7594941,
+            "tags": {
+                "addr:city": "Louisville",
+                "addr:housenumber": "528",
+                "addr:postcode": "40202",
+                "addr:state": "KY",
+                "addr:street": "West Main Street",
+                "building": "yes",
+                "lojic:bgnum": "247573",
+                "name": "Evan Williams Bourbon Experience",
+                "operator": "evan williams",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/76/HumanaBuilding1.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 331282774,
+            "lat": 38.2576519,
+            "lon": -85.762557,
+            "tags": {
+                "addr:city": "Louisville",
+                "addr:housenumber": "727",
+                "addr:postcode": "40202",
+                "addr:state": "KY",
+                "addr:street": "West Main Street",
+                "building:max_level": "4",
+                "building:min_level": "0",
+                "building:part": "yes",
+                "lojic:bgnum": "247241",
+                "name": "Kentucky Science Center",
+                "tourism": "museum",
+                "wikidata": "Q3263906"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Kentucky_Science_Center.jpg/1280px-Kentucky_Science_Center.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 331282796,
+            "lat": 38.257886,
+            "lon": -85.7644617,
+            "tags": {
+                "addr:city": "Louisville",
+                "addr:housenumber": "827-833",
+                "addr:postcode": "40202",
+                "addr:state": "KY",
+                "addr:street": "West Main Street",
+                "building": "yes",
+                "building:levels": "3",
+                "building:min_level": "0",
+                "level": "0",
+                "name": "Frazier History Museum",
+                "name:en": "Frazier History Museum",
+                "tourism": "museum",
+                "wheelchair": "yes",
+                "wikidata": "Q3086741"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/FHM_2018.jpg/1280px-FHM_2018.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 331282813,
+            "lat": 38.2568647,
+            "lon": -85.7640623,
+            "tags": {
+                "addr:city": "Louisville",
+                "addr:housenumber": "800",
+                "addr:postcode": "40202",
+                "addr:state": "KY",
+                "addr:street": "West Main Street",
+                "alt_name": "Hillerich Bradby Co",
+                "building": "yes",
+                "fee": "yes",
+                "lojic:bgnum": "246929",
+                "name": "Louisville Slugger Museum & Factory",
+                "name:en": "Louisville Slugger Museum & Factory",
+                "opening_hours": "Mo-Sa 09:00-17:00; Su 10:00-16:00",
+                "tourism": "museum",
+                "website": "https://www.sluggermuseum.com/",
+                "wheelchair": "yes",
+                "wikidata": "Q3263908"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/dc/LouisvilleSluggerMusem.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 332447080,
+            "lat": 38.2013792,
+            "lon": -85.7041009,
+            "tags": {
+                "addr:city": "Louisville",
+                "addr:housenumber": "1841",
+                "addr:postcode": "40213",
+                "addr:state": "KY",
+                "addr:street": "Taylor Avenue",
+                "building": "yes",
+                "lojic:bgnum": "193135",
+                "name": "Louisville Mega Cavern",
+                "sport": "cycling;climbing_adventure;hiking",
+                "tourism": "attraction",
+                "website": "https://www.louisvillemegacavern.com/",
+                "wikidata": "Q19876948",
+                "wikipedia": "en:Mega Cavern"
+            }
+        },
+        {
+            "type": "way",
+            "id": 334900781,
+            "lat": 38.2178493,
+            "lon": -85.7608592,
+            "tags": {
+                "addr:city": "Louisville",
+                "addr:housenumber": "2035",
+                "addr:postcode": "40208",
+                "addr:state": "KY",
+                "addr:street": "South 3rd Street",
+                "building": "yes",
+                "building:max_level": "2",
+                "building:min_level": "-1",
+                "ele": "140",
+                "fee": "yes",
+                "gnis:feature_id": "2459661",
+                "lojic:bgnum": "240891",
+                "museum": "art",
+                "name": "J B Speed Art Museum",
+                "opening_hours": "We-Sa 10:00-17:00; Su 12:00-17:00; Mo-Tu off; PH off",
+                "phone": "+1-502-634-2700",
+                "source": "USGS Geonames",
+                "tourism": "museum",
+                "website": "https://www.speedmuseum.org/",
+                "wikidata": "Q3492931",
+                "wikipedia": "en:Speed Art Museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/en/2/2a/Speed_Art_Museum_Northwest_View_2016.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 337283943,
+            "lat": 38.2291524,
+            "lon": -85.763695,
+            "tags": {
+                "addr:city": "Louisville",
+                "addr:housenumber": "1402",
+                "addr:postcode": "40208",
+                "addr:state": "KY",
+                "addr:street": "St James Court",
+                "building": "yes",
+                "lojic:bgnum": "241052",
+                "name": "Conrad-Caldwell House Museum",
+                "opening_hours": "url=https://www.conradcaldwell.org/?gclid=EAIaIQobChMIveuTtaGMgAMVvW5vBB10QgzUEBEYASAEEgLAzPD_BwE",
+                "tourism": "museum",
+                "website": "https://www.conradcaldwell.org/?gclid=EAIaIQobChMIveuTtaGMgAMVvW5vBB10QgzUEBEYASAEEgLAzPD_BwE"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Central_Park_Sentier.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 609028534,
+            "lat": 38.2576599,
+            "lon": -85.7626349,
+            "tags": {
+                "addr:city": "Louisville",
+                "addr:country": "US",
+                "addr:postcode": "40202",
+                "addr:state": "KY",
+                "addr:street": "West Main Street",
+                "building": "yes",
+                "building:max_level": "4",
+                "building:min_level": "0",
+                "name": "Kentucky Science Center",
+                "name:en": "Kentucky Science Center",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Kentucky_Science_Center.jpg/1280px-Kentucky_Science_Center.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 706481248,
+            "lat": 38.2569566,
+            "lon": -85.7145054,
+            "tags": {
+                "indoor": "room",
+                "level": "1.5",
+                "name": "1883 Gallery",
+                "room": "gallery",
+                "tourism": "museum",
+                "website": "https://www.aph.org/museum/programs/main-gallery/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/KY-School-for-the-Blind.jpg/1280px-KY-School-for-the-Blind.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 925198735,
+            "lat": 38.2592607,
+            "lon": -85.7551429,
+            "tags": {
+                "addr:city": "Louisville",
+                "addr:housenumber": "401",
+                "addr:postcode": "40202",
+                "addr:state": "KY",
+                "addr:street": "West River Road",
+                "alt_name": "Mayor Andrew Broaddus",
+                "building": "ship",
+                "description": "Stationed at the Falls of the Ohio, this one of a kind floating life saving station was the only inland station in the U.S. Life Saving Service (USLSS). It was manned by USLSS and U.S. Coast Guard crews for 91 years from 1881-1972.",
+                "heritage": "2",
+                "heritage:operator": "nrhp",
+                "heritage:website": "https://www.nps.gov/subjects/nationalregister/index.htm",
+                "historic": "ship",
+                "name": "Life Saving Station #10",
+                "nrhp:criteria": "(A), (C)",
+                "nrhp:inscription_date": "1989-06-30",
+                "nrhp:nhl": "yes",
+                "protection_title": "The Paddlewheel Society",
+                "ref:nrhp": "89001446",
+                "source_ref": "https://catalog.archives.gov/id/123849150",
+                "tourism": "museum",
+                "website": "https://belleoflouisville.org/life-saving-station-10/",
+                "wikidata": "Q3303013",
+                "wikipedia": "en:Mayor Andrew Broaddus"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/MayorAndrewBroaddus.jpg/1280px-MayorAndrewBroaddus.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 959780981,
+            "lat": 38.257154,
+            "lon": -85.7515456,
+            "tags": {
+                "building": "yes",
+                "name": "Roots 101 African American Museum",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Louisville_Skyline_2021_%283%29.jpg/1280px-Louisville_Skyline_2021_%283%29.jpg",
+            "image_source": "wikipedia_verified"
+        }
+    ]
+}

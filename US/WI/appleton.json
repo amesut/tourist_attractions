@@ -1,0 +1,389 @@
+{
+    "city_metadata": {
+        "city_name": "Appleton",
+        "state_code": "WI",
+        "state_full": "Wisconsin",
+        "city_summary": "Appleton (Menominee: Ahkōnemeh) is the county seat of Outagamie County, Wisconsin, United States, with small portions extending into Calumet and Winnebago counties. Located on the Fox River north of Lake Winnebago, it is 30 miles (48 km) southwest of Green Bay and 100 miles (160 km) north of Milwaukee. The city had a population of 75,644 at the 2020 census, making it the sixth-most populous city in Wisconsin.",
+        "city_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Downtown_Appleton_Skyline.jpg/1280px-Downtown_Appleton_Skyline.jpg",
+        "city_lat": 44.26666667,
+        "city_lon": -88.4,
+        "source": "wikipedia_verified_engine"
+    },
+    "attractions": [
+        {
+            "type": "node",
+            "id": 5139942023,
+            "lat": 44.2619896,
+            "lon": -88.4070944,
+            "tags": {
+                "name": "Building for Kids",
+                "tourism": "attraction",
+                "website": "https://buildingforkids.org/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Trout_Museum_of_Art_at_night_02.jpg/1280px-Trout_Museum_of_Art_at_night_02.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 5415391794,
+            "lat": 44.2613153,
+            "lon": -88.4071116,
+            "tags": {
+                "description": "Although not marked this is about the location of the house where Harry Houdini lived when he lived in Appleton.",
+                "historic": "yes",
+                "name": "Harry Houdini Childhood Home",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Trout_Museum_of_Art_at_night_02.jpg/1280px-Trout_Museum_of_Art_at_night_02.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 9088031499,
+            "lat": 44.2549786,
+            "lon": -88.4112984,
+            "tags": {
+                "addr:city": "Appleton",
+                "addr:housenumber": "425",
+                "addr:postcode": "54911",
+                "addr:state": "WI",
+                "addr:street": "West Water Street",
+                "check_date:opening_hours": "2023-03-09",
+                "fee": "yes",
+                "museum": "paper",
+                "name": "Atlas Science Center",
+                "old_name": "Paper Discovery Center",
+                "opening_hours": "Th,Fr 11:00-16:00",
+                "phone": "+1 920 380 7491",
+                "tourism": "museum",
+                "website": "https://www.atlassciencecenter.org/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/7d/First_electric_light_plant_at_Appleton.png",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 12362550372,
+            "lat": 44.2638108,
+            "lon": -88.4084833,
+            "tags": {
+                "museum": "local",
+                "name": "Appleton History Museum",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Appleton_Transit_Center.jpg/1280px-Appleton_Transit_Center.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 13395556110,
+            "lat": 44.2615817,
+            "lon": -88.4006904,
+            "tags": {
+                "name": "Lawrence University Arch",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "way",
+            "id": 143672450,
+            "lat": 44.2621633,
+            "lon": -88.4014081,
+            "tags": {
+                "building": "yes",
+                "check_date:opening_hours": "2023-03-10",
+                "fee": "yes",
+                "fee:conditional": "no @ (age < 3); no @ members",
+                "museum": "history",
+                "name": "The History Museum at the Castle",
+                "opening_hours": "Mo-Su 10:00-16:00; Tu off; PH off",
+                "tourism": "museum",
+                "website": "https://www.myhistorymuseum.org/",
+                "wheelchair": "yes",
+                "wikidata": "Q7739769",
+                "wikipedia": "en:History Museum at the Castle"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/be/OCHSmuseum.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 550537351,
+            "lat": 44.2543225,
+            "lon": -88.414996,
+            "tags": {
+                "building": "yes",
+                "historic": "house",
+                "name": "Hearthstone Historic House Museum",
+                "opening_hours": "Th-Sa 10:00-15:30; Su 13:00-15:30",
+                "operator": "Friends of Hearthstone",
+                "operator:type": "public",
+                "tourism": "museum",
+                "website": "http://www.focol.org/hearthstone",
+                "wikidata": "Q5692776",
+                "wikipedia": "en:Hearthstone Historic House Museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/HearthstoneAppletonWisconsin.jpg/1280px-HearthstoneAppletonWisconsin.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 676164572,
+            "lat": 44.2628073,
+            "lon": -88.4024952,
+            "tags": {
+                "addr:city": "Appleton",
+                "addr:housenumber": "128",
+                "addr:state": "WI",
+                "addr:street": "North Durkee Street",
+                "building": "yes",
+                "name": "Appleton History Museum & Research Center",
+                "operator": "Appleton Historical Society",
+                "operator:type": "private_non_profit",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/be/OCHSmuseum.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 717441944,
+            "lat": 44.2624682,
+            "lon": -88.3792488,
+            "tags": {
+                "building": "yes",
+                "description": "Pacific Type Passenger Engine, c.1913",
+                "historic": "monument",
+                "name": "Number 736",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "way",
+            "id": 776891140,
+            "lat": 44.2554377,
+            "lon": -88.3938498,
+            "tags": {
+                "bridge": "swing",
+                "layer": "1",
+                "man_made": "bridge",
+                "name": "CN Appleton Swing Bridge",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "way",
+            "id": 1032918038,
+            "lat": 44.2620576,
+            "lon": -88.4070408,
+            "tags": {
+                "addr:city": "Appleton",
+                "addr:housenumber": "100",
+                "addr:postcode": "54911",
+                "addr:state": "WI",
+                "addr:street": "West College Avenue",
+                "building": "yes",
+                "name": "Building for Kids",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Trout_Museum_of_Art_at_night_02.jpg/1280px-Trout_Museum_of_Art_at_night_02.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 151294,
+            "lat": 44.26666667,
+            "lon": -88.4,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Downtown_Appleton_Skyline.jpg/1280px-Downtown_Appleton_Skyline.jpg",
+            "description": "Appleton (Menominee: Ahkōnemeh) is the county seat of Outagamie County, Wisconsin, United States, with small portions extending into Calumet and Winnebago counties.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Appleton, Wisconsin",
+                "wikipedia": "en:Appleton, Wisconsin",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 18385137,
+            "lat": 44.26166667,
+            "lon": -88.41083333,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Appletonperformingartscenter.jpg/1280px-Appletonperformingartscenter.jpg",
+            "description": "The Fox Cities Performing Arts Center, also called the PAC, is a performing arts center in downtown Appleton, Wisconsin, US. The Center is the home of the Broadway Across America – Fox Cities series, the Boldt Arts Alive!",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Fox Cities Performing Arts Center",
+                "wikipedia": "en:Fox Cities Performing Arts Center",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 139512,
+            "lat": 44.28416667,
+            "lon": -88.31361111,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/LittleChuteWisconsinDowntownWIS96.jpg/1280px-LittleChuteWisconsinDowntownWIS96.jpg",
+            "description": "Little Chute is a village in Outagamie County, Wisconsin, United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Little Chute, Wisconsin",
+                "wikipedia": "en:Little Chute, Wisconsin",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 764615,
+            "lat": 44.26899,
+            "lon": -88.47033,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/64/Fox_River_Mall.jpg",
+            "description": "Fox River Mall is an enclosed super-regional shopping center located in Grand Chute, Wisconsin, United States, which serves the Appleton, Wisconsin metropolitan area.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Fox River Mall",
+                "wikipedia": "en:Fox River Mall",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 33127,
+            "lat": 44,
+            "lon": -90,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Flag_of_Wisconsin.svg/1280px-Flag_of_Wisconsin.svg.png",
+            "description": "Wisconsin is a state in the Upper Midwest and Great Lakes regions of the United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Wisconsin",
+                "wikipedia": "en:Wisconsin",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 53722843,
+            "lat": 44.26027778,
+            "lon": -88.40972222,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Fox_Cities_Expo_Center.jpg/1280px-Fox_Cities_Expo_Center.jpg",
+            "description": "The Fox Cities Exhibition Center is a multi-purpose convention center located in the city of Appleton, Wisconsin in the United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Fox Cities Exhibition Center",
+                "wikipedia": "en:Fox Cities Exhibition Center",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 23605661,
+            "lat": 44.4453429,
+            "lon": -88.0708525,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/St._Joseph_Church_Saint_Norbert_College.jpg/1280px-St._Joseph_Church_Saint_Norbert_College.jpg",
+            "description": "The National Shrine of St.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "National Shrine of Saint Joseph (De Pere, Wisconsin)",
+                "wikipedia": "en:National Shrine of Saint Joseph (De Pere, Wisconsin)",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 139415,
+            "lat": 42.9375,
+            "lon": -87.99694444,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Greendale%2C_WI_village_hall.jpg/1280px-Greendale%2C_WI_village_hall.jpg",
+            "description": "Greendale is a village in Milwaukee County, Wisconsin, United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Greendale, Wisconsin",
+                "wikipedia": "en:Greendale, Wisconsin",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 5491591,
+            "lat": 44.59063889,
+            "lon": -87.77355556,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/The_National_Shrine_of_Our_Lady_of_Champion.jpg/1280px-The_National_Shrine_of_Our_Lady_of_Champion.jpg",
+            "description": "The National Shrine of Our Lady of Champion, formerly dedicated as the Shrine of Our Lady of Good Help, is a Catholic shrine to Mary, mother of God located within the Diocese of Green Bay in the United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "National Shrine of Our Lady of Champion",
+                "wikipedia": "en:National Shrine of Our Lady of Champion",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 15660,
+            "lat": 18.18,
+            "lon": -77.4,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Flag_of_Jamaica.svg/1280px-Flag_of_Jamaica.svg.png",
+            "description": "Jamaica is an island country in the Caribbean, covering 10,990 square kilometres (4,240 sq mi).",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Jamaica",
+                "wikipedia": "en:Jamaica",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 46336516,
+            "lat": 43.03517139,
+            "lon": -89.43009944,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Seal_of_Wisconsin.svg/1280px-Seal_of_Wisconsin.svg.png",
+            "description": "The Wisconsin Department of Tourism is a governmental agency of the U.S. state of Wisconsin responsible for marketing and promoting the state as a travel destination.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Wisconsin Department of Tourism",
+                "wikipedia": "en:Wisconsin Department of Tourism",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 4308395,
+            "lat": 40.7425,
+            "lon": -74.00611111,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Chelsea_Market_%2849052085186%29.jpg/1280px-Chelsea_Market_%2849052085186%29.jpg",
+            "description": "Chelsea Market is a food hall, shopping mall, office building and television production facility located in the Chelsea neighborhood of the borough of Manhattan, in New York City.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Chelsea Market",
+                "wikipedia": "en:Chelsea Market",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 276259,
+            "lat": 42.02027778,
+            "lon": -73.91,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/54/Bard_College_Logo.png",
+            "description": "Bard College is a private liberal arts college in Annandale-on-Hudson, New York, United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Bard College",
+                "wikipedia": "en:Bard College",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 173602,
+            "lat": 42.64666667,
+            "lon": -71.31027778,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Boott_mill_rooftop_view.jpg",
+            "description": "Lowell National Historical Park is a National Historical Park of the United States located in Lowell, Massachusetts.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Lowell National Historical Park",
+                "wikipedia": "en:Lowell National Historical Park",
+                "tourism": "attraction"
+            }
+        }
+    ]
+}

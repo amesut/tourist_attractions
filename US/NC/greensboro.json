@@ -1,0 +1,461 @@
+{
+    "city_metadata": {
+        "city_name": "Greensboro",
+        "state_code": "NC",
+        "state_full": "North Carolina",
+        "city_summary": "Greensboro ( ; locally ) is a city in Guilford County, North Carolina, United States, and its county seat. Its population was 299,035 in the 2020 census and estimated at 307,381 in 2024, making it the third-most populous city in North Carolina and the 69th-most populous city in the U.S. The Greensboro–High Point metropolitan area has an estimated 801,000 residents. It is the most populous city in North Carolina's Piedmont Triad region, home to about 1.7 million residents.",
+        "city_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Greensboro_Skyline.jpg/1280px-Greensboro_Skyline.jpg",
+        "city_lat": 36.095,
+        "city_lon": -79.82583333,
+        "source": "wikipedia_verified_engine"
+    },
+    "attractions": [
+        {
+            "type": "node",
+            "id": 1185317999,
+            "lat": 36.0815914,
+            "lon": -79.9016942,
+            "tags": {
+                "name": "MoJo JoJo",
+                "tourism": "zoo"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1663832240,
+            "lat": 36.066151,
+            "lon": -79.8058177,
+            "tags": {
+                "addr:housenumber": "1005",
+                "addr:street": "Spring Garden Street",
+                "check_date": "2025-10-13",
+                "contact:facebook": "https://www.facebook.com/@WeatherspoonArtMuseum/",
+                "contact:instagram": "https://www.instagram.com/wamuncg",
+                "fee": "no",
+                "museum": "art",
+                "name": "Weatherspoon Art Museum",
+                "opening_hours": "Tu-We,Fr-Sa 10:00-17:00; Th 10:00-20:00",
+                "phone": "+1-336-334-5770",
+                "tourism": "museum",
+                "website": "https://weatherspoonart.org/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Weatherspoon_Art_Museum.JPG/1280px-Weatherspoon_Art_Museum.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 2377274464,
+            "lat": 44.6211229,
+            "lon": -72.3378381,
+            "tags": {
+                "name": "Circus Smirkus World Headquarters",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 4931183959,
+            "lat": 38.9733465,
+            "lon": -75.8055753,
+            "tags": {
+                "description": "Greensboro Historical Society Museum",
+                "name": "Greensboro Historical Society Museum",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Caroline_County_Maryland_Incorporated_and_Unincorporated_areas_Greensboro_Highlighted.svg/1280px-Caroline_County_Maryland_Incorporated_and_Unincorporated_areas_Greensboro_Highlighted.svg.png",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 13341743568,
+            "lat": 36.1353554,
+            "lon": -79.8949729,
+            "tags": {
+                "addr:housenumber": "3628",
+                "addr:street": "Lewiston Road",
+                "check_date": "2025-11-29",
+                "fee": "yes",
+                "name": "Rainbow Magic Alpaca Farm",
+                "opening_hours": "Tu-Fr 13:00-18:00; Sa 10:00-17:00; Su 13:30-18:00",
+                "phone": "+1-336-338-9006",
+                "tourism": "zoo",
+                "website": "https://www.rainbowmagicalpacafarm.com/",
+                "zoo": "petting_zoo"
+            }
+        },
+        {
+            "type": "way",
+            "id": 208101224,
+            "lat": 36.0717573,
+            "lon": -79.7907161,
+            "tags": {
+                "addr:city": "Greensboro",
+                "addr:housenumber": "134",
+                "addr:postcode": "27401",
+                "addr:state": "NC",
+                "addr:street": "South Elm Street",
+                "building": "yes",
+                "building:levels": "2",
+                "building:name": "F.W. Woolworth Building",
+                "fee": "yes",
+                "name": "International Civil Rights Center & Museum",
+                "opening_hours": "Tu-Th 09:00-18:00; Fr-Sa 09:00-19:00; Su 13:00-18:00",
+                "phone": "+1-336-274-9199",
+                "start_date": "1929",
+                "tourism": "museum",
+                "website": "https://www.sitinmovement.org/",
+                "wikidata": "Q6049276",
+                "wikipedia": "en:International Civil Rights Center and Museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/The_Pyrle_Theater_%28Triad_Stage%29.jpg/1280px-The_Pyrle_Theater_%28Triad_Stage%29.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 256931093,
+            "lat": 36.0583983,
+            "lon": -79.8929921,
+            "tags": {
+                "addr:housenumber": "4315",
+                "addr:street": "Big Tree Way",
+                "check_date": "2025-07-31",
+                "name": "Celebration Station",
+                "opening_hours": "Su-Th 11:00-21:00; Fr 11:00-23:00; Sa 10:00-23:00",
+                "phone": "+1-336-316-0606",
+                "tourism": "theme_park",
+                "website": "https://www.celebrationstation.com/greensboro-location"
+            }
+        },
+        {
+            "type": "way",
+            "id": 282939678,
+            "lat": 36.1299971,
+            "lon": -79.833705,
+            "tags": {
+                "addr:city": "Greensboro",
+                "addr:country": "US",
+                "addr:housenumber": "4301",
+                "addr:postcode": "27455",
+                "addr:state": "NC",
+                "addr:street": "Lawndale Drive",
+                "building": "yes",
+                "building:levels": "1",
+                "building:levels:underground": "1",
+                "email": "info@greensboroscience.org",
+                "fee": "yes",
+                "name": "Greensboro Science Center",
+                "opening_hours:url": "https://www.greensboroscience.org/visit/hours/index.html",
+                "pets": "no",
+                "phone": "+1 336 288 3769",
+                "tourism": "museum",
+                "tourism_1": "zoo",
+                "website": "https://www.greensboroscience.org/",
+                "wheelchair": "yes",
+                "wikidata": "Q14707954",
+                "wikipedia": "en:Greensboro Science Center"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Greensboro_Science_Center_%28December_2023%29.jpg/1280px-Greensboro_Science_Center_%28December_2023%29.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 326037851,
+            "lat": 36.0697406,
+            "lon": -79.7958546,
+            "tags": {
+                "addr:housenumber": "447",
+                "addr:street": "West Washington Street",
+                "building": "yes",
+                "check_date": "2025-08-13",
+                "fee": "yes",
+                "heritage": "yes",
+                "historic": "building",
+                "image": "https://commons.wikimedia.org/wiki/File:BlandwoodMansion.jpg",
+                "name": "Blandwood Mansion",
+                "opening_hours": "Tu-Sa 11:00-16:00;Su 14:00-17:00",
+                "source:geometry": "Bing",
+                "tourism": "museum",
+                "website": "https://www.preservationgreensboro.org/blandwood-museum",
+                "wikidata": "Q4925042",
+                "wikipedia": "en:Blandwood Mansion and Gardens"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Blandwood%2C_Greensboro%2C_NC.jpg/1280px-Blandwood%2C_Greensboro%2C_NC.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 414239324,
+            "lat": 36.0754855,
+            "lon": -79.7879073,
+            "tags": {
+                "addr:housenumber": "130",
+                "addr:street": "Summit Avenue",
+                "building": "retail",
+                "check_date": "2025-07-11",
+                "contact:facebook": "https://www.facebook.com/GHMuseum/",
+                "contact:instagram": "https://www.instagram.com/greensborohistory",
+                "fee": "no",
+                "name": "Greensboro History Museum",
+                "opening_hours": "Tu-Sa 10:00-17:00; Su 14:00-17:00",
+                "phone": "+1-336-373-2043",
+                "tourism": "museum",
+                "website": "https://greensborohistory.org/",
+                "wikidata": "Q5604452"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Greensboro_Historical_Museum_47.jpg/1280px-Greensboro_Historical_Museum_47.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 414241381,
+            "lat": 36.0752287,
+            "lon": -79.7860845,
+            "tags": {
+                "addr:city": "Greensboro",
+                "addr:housenumber": "220",
+                "addr:postcode": "27401",
+                "addr:street": "North Church Street",
+                "building": "retail",
+                "check_date": "2025-11-16",
+                "check_date:opening_hours": "2023-07-26",
+                "contact:facebook": "https://www.facebook.com/MiriamPBrennerChildrensMuseum/",
+                "contact:instagram": "https://www.instagram.com/mpbcmuseum",
+                "fee": "yes",
+                "fee:conditional": "no @ (age < 1)",
+                "name": "Miriam P. Brenner Children's Museum",
+                "opening_hours": "Tu-Th 09:00-17:00; Fr 09:00-20:00; Sa 10:00-18:00; Su 13:00-17:00",
+                "phone": "+1-336-574-2898",
+                "tourism": "museum",
+                "website": "https://mbcmuseum.com/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Greensboro_Historical_Museum_47.jpg/1280px-Greensboro_Historical_Museum_47.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 421584684,
+            "lat": 30.5708499,
+            "lon": -84.7437144,
+            "tags": {
+                "addr:city": "Greensboro",
+                "addr:housenumber": "115",
+                "addr:postcode": "32330",
+                "addr:state": "FL",
+                "addr:street": "Duffle Avenue",
+                "building": "yes",
+                "contact:phone": "+1-850-442-6434",
+                "contact:tripadvisor": "https://www.tripadvisor.com/Attraction_Review-g34263-d14206596-Reviews-Greensboro_Depot_Railroad_Museum-Greensboro_Florida.html",
+                "museum": "transport",
+                "name": "Greensboro Depot Railroad Museum",
+                "opening_hours": "Sa[1],Su[1] 13:00-16:00",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Greensboro_Town_Hall.jpg/1280px-Greensboro_Town_Hall.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 492123818,
+            "lat": 36.0064088,
+            "lon": -79.8395607,
+            "tags": {
+                "addr:city": "Greensboro",
+                "addr:housenumber": "3910",
+                "addr:postcode": "27406",
+                "addr:state": "NC",
+                "addr:street": "South Holden Road",
+                "check_date": "2025-11-10",
+                "contact:facebook": "https://www.facebook.com/WETNWILDEP/",
+                "contact:instagram": "https://www.instagram.com/wetnwildep",
+                "contact:tiktok": "https://www.tiktok.com/@https:",
+                "leisure": "water_park",
+                "name": "Wet 'n Wild Emerald Pointe Water Park",
+                "opening_hours:url": "https://www.emeraldpointe.com/hours-and-directions/calendar",
+                "phone": "+1-336-852-9721",
+                "tourism": "theme_park",
+                "website": "https://emeraldpointe.com/",
+                "wheelchair": "limited",
+                "wikidata": "Q7989952",
+                "wikipedia": "en:Wet 'n Wild Emerald Pointe"
+            }
+        },
+        {
+            "type": "way",
+            "id": 732192668,
+            "lat": 30.566819,
+            "lon": -84.7441874,
+            "tags": {
+                "addr:city": "Greensboro",
+                "addr:housenumber": "328",
+                "addr:state": "FL",
+                "addr:street": "East 8th Street",
+                "building": "yes",
+                "name": "Dezell House Museum",
+                "opening_hours": "Sa[1],Su[1] 13:00-16:00",
+                "tourism": "museum",
+                "website": "https://foursquare.com/v/dezell-house-museum/4e11b0068877ac23b662c5a8"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Dezell_House%2C_Greensboro.jpg/1280px-Dezell_House%2C_Greensboro.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 924467725,
+            "lat": 32.7041142,
+            "lon": -87.6079994,
+            "tags": {
+                "addr:state": "AL",
+                "building": "yes",
+                "ele": "82",
+                "gnis:feature_id": "158344",
+                "historic": "house",
+                "name": "Magnolia Grove",
+                "source": "USGS Geonames",
+                "tourism": "museum",
+                "website": "https://ahc.alabama.gov/properties/magnoliagrove/magnoliagrove.aspx"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Magnolia_Grove_Greensboro.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 990582155,
+            "lat": 32.6977207,
+            "lon": -87.6096371,
+            "tags": {
+                "area": "yes",
+                "name": "Safe House Black History Museum",
+                "tourism": "museum",
+                "website": "https://safehousemuseum.org/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Safe_House_Museum.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 23956501,
+            "lat": 34,
+            "lon": -83,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Raleigh_Skyline.jpg/1280px-Raleigh_Skyline.jpg",
+            "description": "The Piedmont Atlantic megaregion, or Southeast Megalopolis, is a neologism created by the Regional Plan Association for an area of the Southeastern United States that contains parts of the states of Alabama, Georgia, Tennessee, South Carolina, and North Carolina.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Piedmont Atlantic megaregion",
+                "wikipedia": "en:Piedmont Atlantic megaregion",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 21650,
+            "lat": 36,
+            "lon": -80,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Flag_of_North_Carolina.svg/1280px-Flag_of_North_Carolina.svg.png",
+            "description": "North Carolina (  KAYR-ə-LIE-nə) is a state in the Southeastern and South Atlantic regions of the United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "North Carolina",
+                "wikipedia": "en:North Carolina",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 29323286,
+            "lat": 36.0929,
+            "lon": -79.8416,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Bicentennial_Garden_official_plaque.jpg/1280px-Bicentennial_Garden_official_plaque.jpg",
+            "description": "The Tanger Family Bicentennial Garden is a historical garden and visitor center located in Greensboro, North Carolina.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Tanger Family Bicentennial Garden",
+                "wikipedia": "en:Tanger Family Bicentennial Garden",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 128146,
+            "lat": 35.71583333,
+            "lon": -79.81277778,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Asheboro_municipal_building.jpg/1280px-Asheboro_municipal_building.jpg",
+            "description": "Asheboro is a city in and the county seat of Randolph County, North Carolina, United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Asheboro, North Carolina",
+                "wikipedia": "en:Asheboro, North Carolina",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 48788135,
+            "lat": 36.0738,
+            "lon": -79.7885,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Greensboro_Cultural_Center_-_2018-04-03.jpg/1280px-Greensboro_Cultural_Center_-_2018-04-03.jpg",
+            "description": "The Greensboro Cultural Center is a City of Greensboro Office of arts & culture facility, and is home to many arts-related programs in Greensboro, North Carolina.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Greensboro Cultural Center",
+                "wikipedia": "en:Greensboro Cultural Center",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 57447,
+            "lat": 35.22722222,
+            "lon": -80.84305556,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Uptown_Charlotte_2018_taking_by_DJI_Phantom_4_pro.jpg/1280px-Uptown_Charlotte_2018_taking_by_DJI_Phantom_4_pro.jpg",
+            "description": "Charlotte is the most populous city in the U.S. state of North Carolina.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Charlotte, North Carolina",
+                "wikipedia": "en:Charlotte, North Carolina",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 128089,
+            "lat": 34.21,
+            "lon": -77.88666667,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Wilmington%2C_North_Carolina_along_the_Cape_Fear_River_-_panoramio.jpg/1280px-Wilmington%2C_North_Carolina_along_the_Cape_Fear_River_-_panoramio.jpg",
+            "description": "Wilmington is a port city in New Hanover County, North Carolina, United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Wilmington, North Carolina",
+                "wikipedia": "en:Wilmington, North Carolina",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 150834,
+            "lat": 35.97861111,
+            "lon": -78.9,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Carolina_Theatre_%28Durham_Auditorium_1924%29.jpg/1280px-Carolina_Theatre_%28Durham_Auditorium_1924%29.jpg",
+            "description": "Durham ( DURR-əm) is a city in the U.S. state of North Carolina.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Durham, North Carolina",
+                "wikipedia": "en:Durham, North Carolina",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 30865160,
+            "lat": 35.23,
+            "lon": -80.84,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Uptown_Charlotte_2018_taking_by_DJI_Phantom_4_pro.jpg/1280px-Uptown_Charlotte_2018_taking_by_DJI_Phantom_4_pro.jpg",
+            "description": "The Charlotte metropolitan area (also referred to informally as Metrolina and to a lesser extent as Greater Charlotte) is a metropolitan area of the U.S. states of North and South Carolina, containing the city of Charlotte, North Carolina.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Charlotte metropolitan area",
+                "wikipedia": "en:Charlotte metropolitan area",
+                "tourism": "attraction"
+            }
+        }
+    ]
+}

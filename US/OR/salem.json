@@ -1,0 +1,1963 @@
+{
+    "city_metadata": {
+        "city_name": "Salem",
+        "state_code": "OR",
+        "state_full": "Oregon",
+        "city_summary": "Salem ( , SAY-ləm) is the capital city of the U.S. state of Oregon, and the county seat of Marion County. It is located in the center of the Willamette Valley alongside the Willamette River, which runs north through the city. The river forms the boundary between Marion and Polk counties, and the city neighborhood of West Salem is in Polk County.",
+        "city_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Salem_Oregon_downtown.JPG/1280px-Salem_Oregon_downtown.JPG",
+        "city_lat": 44.9239,
+        "city_lon": -123.023007,
+        "source": "wikipedia_verified_engine"
+    },
+    "attractions": [
+        {
+            "type": "node",
+            "id": 354952659,
+            "lat": 11.8143585,
+            "lon": 78.2160167,
+            "tags": {
+                "name": "Cave",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 358281859,
+            "lat": 42.5217294,
+            "lon": -70.8852563,
+            "tags": {
+                "ele": "1",
+                "gnis:feature_id": "1979199",
+                "name": "Derby Waterfront District",
+                "tourism": "attraction",
+                "wikidata": "Q5261521"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Hawkes_House_Salem_MA_NPS.jpg/1280px-Hawkes_House_Salem_MA_NPS.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 367781397,
+            "lat": 42.5226451,
+            "lon": -70.8913845,
+            "tags": {
+                "addr:state": "MA",
+                "ele": "7",
+                "gnis:feature_id": "606046",
+                "name": "Essex Institute Museum Building",
+                "source": "USGS Geonames",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/EssexInstitute_ca1900s_SalemMA_DetroitPubCo_LC_3.jpg/1280px-EssexInstitute_ca1900s_SalemMA_DetroitPubCo_LC_3.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 1117299178,
+            "lat": 47.7767285,
+            "lon": 9.2783222,
+            "tags": {
+                "addr:city": "Salem",
+                "addr:country": "DE",
+                "addr:housenumber": "1",
+                "addr:postcode": "88682",
+                "addr:street": "Schlossbezirk",
+                "check_date": "2024-07-10",
+                "description": "Großmuseum mit versch. Sparten",
+                "email": "schloss@salem.de",
+                "fee": "yes",
+                "name": "Schloß Salem",
+                "opening_hours": "Apr 01-Nov 01: Mo-Sa 09:30-18:00; Su,PH 10:30-18:00",
+                "phone": "+49 7553 9165336",
+                "toilets:wheelchair": "yes",
+                "tourism": "museum",
+                "website": "https://www.salem.de/",
+                "wheelchair": "limited",
+                "wikidata": "Q652382"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/1285_wurde_mit_dem_Bau_des_Salemer_M%C3%BCnsters_begonnen._04.jpg/1280px-1285_wurde_mit_dem_Bau_des_Salemer_M%C3%BCnsters_begonnen._04.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 2393832519,
+            "lat": 42.8437862,
+            "lon": -71.2057378,
+            "tags": {
+                "name": "America's Stonehenge",
+                "tourism": "attraction",
+                "website": "http://www.stonehengeusa.com/",
+                "wikidata": "Q2060780",
+                "wikipedia": "en:America's Stonehenge"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/90/America_Stonehenge.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 2495694225,
+            "lat": 42.7928095,
+            "lon": -71.2486784,
+            "tags": {
+                "name": "Whac A Mole",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Canobie_Lake_Park_Corkscrew.jpg/1280px-Canobie_Lake_Park_Corkscrew.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 2495694231,
+            "lat": 42.7947109,
+            "lon": -71.2499956,
+            "tags": {
+                "name": "Wave Blaster",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 2495694232,
+            "lat": 42.7945268,
+            "lon": -71.2499421,
+            "tags": {
+                "name": "Bonanza",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 2495694233,
+            "lat": 42.7947997,
+            "lon": -71.2500821,
+            "tags": {
+                "name": "Fire Engines",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 2495694234,
+            "lat": 42.7949324,
+            "lon": -71.2501,
+            "tags": {
+                "name": "Baja Buggy",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 2495694235,
+            "lat": 42.7949358,
+            "lon": -71.2503056,
+            "tags": {
+                "attraction": "carousel",
+                "name": "Kiddie Carousel",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 2495694237,
+            "lat": 42.7948585,
+            "lon": -71.2502286,
+            "tags": {
+                "name": "Helicopters",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 2495694238,
+            "lat": 42.7947501,
+            "lon": -71.250156,
+            "tags": {
+                "name": "Pony Cars",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 2495694240,
+            "lat": 42.7950348,
+            "lon": -71.2502648,
+            "tags": {
+                "name": "Sky Fighters",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 3066019315,
+            "lat": 42.7949463,
+            "lon": -71.2506642,
+            "tags": {
+                "name": "Boston Harbor Patrol",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 3066019318,
+            "lat": 42.7922732,
+            "lon": -71.2484918,
+            "tags": {
+                "name": "Kiddie Canoes",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Canobie_Lake_Park_Corkscrew.jpg/1280px-Canobie_Lake_Park_Corkscrew.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 3066019319,
+            "lat": 42.7950632,
+            "lon": -71.2505491,
+            "tags": {
+                "name": "Ring Fling",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 3066019320,
+            "lat": 42.7929876,
+            "lon": -71.2493198,
+            "tags": {
+                "name": "Skeeball",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Canobie_Lake_Park_Corkscrew.jpg/1280px-Canobie_Lake_Park_Corkscrew.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 3998796126,
+            "lat": 42.519787,
+            "lon": -70.8876099,
+            "tags": {
+                "addr:city": "Salem",
+                "addr:state": "MA",
+                "addr:street": "Wharf Street",
+                "name": "Pickering Wharf",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Salem_Customs_House.jpg/1280px-Salem_Customs_House.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 3998817788,
+            "lat": 42.5208842,
+            "lon": -70.89463,
+            "tags": {
+                "addr:city": "Salem",
+                "addr:housenumber": "32",
+                "addr:postcode": "01970",
+                "addr:state": "MA",
+                "addr:street": "Derby Square",
+                "name": "Old Town Hall",
+                "note": "Old Town Hall",
+                "tourism": "museum",
+                "website": "https://www.salem.org/listing/old-town-hall/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Count_Orlok%27s_Nightmare_Gallery%2C_285_Derby_St%2C_Salem_%28493778%29_%2811362743674%29.jpg/1280px-Count_Orlok%27s_Nightmare_Gallery%2C_285_Derby_St%2C_Salem_%28493778%29_%2811362743674%29.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 4132351990,
+            "lat": 11.6580518,
+            "lon": 78.1371296,
+            "tags": {
+                "addr:housenumber": "259",
+                "addr:street": "Suramangalam Road",
+                "email": "balajitradingslm@gmail.com",
+                "name": "My Office",
+                "phone": "04272352993",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 4299406997,
+            "lat": 11.6536493,
+            "lon": 78.184535,
+            "tags": {
+                "name": "Ammapet Lake",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 4727166389,
+            "lat": 47.76151,
+            "lon": 9.2836334,
+            "tags": {
+                "charge": "3.50 EUR",
+                "fee": "yes",
+                "name": "Feuchtmayer Museum",
+                "opening_hours": "Apr 18-Oct 03: Sa-Su,PH 11:00-17:00",
+                "phone": "+49 7553 82312",
+                "tourism": "museum",
+                "website": "https://www.feuchtmayermuseum.de/"
+            }
+        },
+        {
+            "type": "node",
+            "id": 4956925327,
+            "lat": 42.5221866,
+            "lon": -70.8919611,
+            "tags": {
+                "fixme": "This is some sort of history display, maybe a bell. I can't remember, but I am 99% sure it is significant enough to be mapped.",
+                "name": "Bell",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/86/SalemMA_GardnerPingreeHouse_1.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 5100592224,
+            "lat": 42.5225674,
+            "lon": -70.8971921,
+            "tags": {
+                "addr:city": "Salem",
+                "addr:housenumber": "16",
+                "addr:postcode": "01970",
+                "addr:state": "MA",
+                "addr:street": "Lynde Street",
+                "check_date": "2025-08-02",
+                "fee": "yes",
+                "name": "Witch Dungeon Museum",
+                "opening_hours": "Apr-Nov Mo-Su 10:00-17:00",
+                "tourism": "museum",
+                "website": "http://www.witchdungeon.com/witchdungeon.html"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Rufus_Choate_House.jpg/1280px-Rufus_Choate_House.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 5100616621,
+            "lat": 42.521486,
+            "lon": -70.8940628,
+            "tags": {
+                "addr:housenumber": "197-201",
+                "addr:postcode": "01970",
+                "addr:street": "Essex Street",
+                "check_date": "2025-08-02",
+                "fee": "yes",
+                "name": "Witch History Museum",
+                "opening_hours": "Apr-Nov Mo-Su 10:00-17:00",
+                "payment:cash": "yes",
+                "payment:credit_cards": "yes",
+                "payment:debit_cards": "yes",
+                "phone": "+1 978-741-7770",
+                "tourism": "museum",
+                "website": "https://www.witchhistorymuseum.com/witchhistory.html",
+                "wheelchair": "yes",
+                "wikidata": "Q18159327"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Witch_History_Museum%2C_Salem_MA.jpg/1280px-Witch_History_Museum%2C_Salem_MA.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 5781196037,
+            "lat": 37.6459607,
+            "lon": -91.5307889,
+            "tags": {
+                "addr:city": "Salem",
+                "addr:housenumber": "102",
+                "addr:postcode": "65560",
+                "addr:state": "MO",
+                "addr:street": "North Pershing Street",
+                "name": "Dent county museum",
+                "tourism": "museum",
+                "website": "https://www.thesalemnewsonline.com/our_community/article_47eba55a-2822-11e0-b2e0-0017a4a78c22.html"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Dent_County_Missouri_Courthouse-20150101-083-pano.jpg/1280px-Dent_County_Missouri_Courthouse-20150101-083-pano.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 5782757308,
+            "lat": 37.6416759,
+            "lon": -91.5348419,
+            "tags": {
+                "description": "A propane tank painted pink, wide eyes, and given metal additions to look like a pig. ",
+                "name": "The Gassy Pig",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Dent_County_Missouri_Incorporated_and_Unincorporated_areas_Salem_Highlighted.svg/1280px-Dent_County_Missouri_Incorporated_and_Unincorporated_areas_Salem_Highlighted.svg.png",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 5788160111,
+            "lat": 37.6363527,
+            "lon": -91.5360919,
+            "tags": {
+                "name": "The Deer Statue",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 5825308651,
+            "lat": 47.7616811,
+            "lon": 9.2452982,
+            "tags": {
+                "name": "Filmvorführung: Affenberg",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9012722253,
+            "lat": 44.9382451,
+            "lon": -123.004274,
+            "tags": {
+                "addr:city": "Salem",
+                "addr:housenumber": "2600",
+                "addr:postcode": "97301",
+                "addr:state": "OR",
+                "addr:street": "Center Street Northeast",
+                "museum": "medicine",
+                "name": "Oregon State Hospital Museum of Mental Health",
+                "tourism": "museum",
+                "website": "https://oshmuseum.org/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/OSH-JoshPartee-8840-west-facade.jpg/1280px-OSH-JoshPartee-8840-west-facade.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 9207850127,
+            "lat": 42.7821013,
+            "lon": -71.2302667,
+            "tags": {
+                "addr:city": "Salem",
+                "addr:housenumber": "81",
+                "addr:postcode": "03079",
+                "addr:state": "NH",
+                "addr:street": "Main Street",
+                "name": "Salem Transportation Museum",
+                "tourism": "museum"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9480875854,
+            "lat": 42.5217192,
+            "lon": -70.8872529,
+            "tags": {
+                "addr:city": "Salem",
+                "addr:postcode": "01970",
+                "addr:state": "MA",
+                "addr:street": "Derby Street",
+                "building": "yes",
+                "building:levels": "3",
+                "description": "It was used by the U.S. Customs Service to hold cargo for merchants until they were able to pay the duties on their goods. Cargo came into Salem in barrels, crates, bags, and chests.",
+                "heritage": "2",
+                "heritage:operator": "nrhp",
+                "heritage:website": "https://www.nps.gov/subjects/nationalregister/index.htm",
+                "historic": "maritime",
+                "museum": "history",
+                "name": "Public Stores",
+                "nrhp:criteria": "(A), (C)",
+                "nrhp:inscription_date": "1966-10-15",
+                "operator": "Salem National Historic Site",
+                "operator:type": "government",
+                "protection_title": "Salem Maritime National Historic Site",
+                "ref:nrhp": "66000048",
+                "source_ref": "https://catalog.archives.gov/id/63794742",
+                "start_date": "1819",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Salem_Customs_House.jpg/1280px-Salem_Customs_House.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 9791587658,
+            "lat": -35.1438948,
+            "lon": 139.0268593,
+            "tags": {
+                "name": "The Salem Olive Farm",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9791601348,
+            "lat": -35.1465102,
+            "lon": 139.0263631,
+            "tags": {
+                "name": "Healing To The Nations",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10788239902,
+            "lat": 44.9314185,
+            "lon": -123.039261,
+            "tags": {
+                "addr:city": "Salem",
+                "addr:housenumber": "600",
+                "addr:postcode": "97302",
+                "addr:state": "OR",
+                "addr:street": "Mission Street Southeast",
+                "email": "Connect@BushHouseMuseum.org",
+                "name": "Bush House Museum",
+                "operator": "Salem Art Association",
+                "operator:website": "https://salemart.org/",
+                "phone": "+1 503 363 4714",
+                "tourism": "museum",
+                "website": "https://bushhousemuseum.org/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Bushs_Pasture_Park.jpg/1280px-Bushs_Pasture_Park.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 11405584589,
+            "lat": 11.7454994,
+            "lon": 78.1707988,
+            "tags": {
+                "name": "ZOO PARK",
+                "tourism": "zoo"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Kurumambapatti_Zoological_park_entrance.jpg/1280px-Kurumambapatti_Zoological_park_entrance.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 12085254699,
+            "lat": 42.5196361,
+            "lon": -70.8913107,
+            "tags": {
+                "addr:city": "Salem",
+                "addr:housenumber": "285",
+                "addr:postcode": "01970",
+                "addr:state": "MA",
+                "addr:street": "Derby Street",
+                "addr:unit": "5",
+                "name": "Real Pirates Salem",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Pickman_House_2022.jpg/1280px-Pickman_House_2022.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 12108016766,
+            "lat": 47.7620882,
+            "lon": 9.2450045,
+            "tags": {
+                "name": "Austellung Libellen",
+                "tourism": "attraction",
+                "website": "https://www.affenberg-salem.de/ausstellung/",
+                "wheelchair": "limited"
+            }
+        },
+        {
+            "type": "node",
+            "id": 13043152854,
+            "lat": 42.5221296,
+            "lon": -70.8966569,
+            "tags": {
+                "addr:housenumber": "7",
+                "addr:street": "Lynde Street",
+                "check_date": "2025-08-02",
+                "name": "Gallows Hill Museum & Theater",
+                "phone": "+1-978-825-0222",
+                "tourism": "museum",
+                "website": "https://gallowshillsalem.com/",
+                "wheelchair": "limited"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Rufus_Choate_House.jpg/1280px-Rufus_Choate_House.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 13043235366,
+            "lat": 42.5211827,
+            "lon": -70.896633,
+            "tags": {
+                "name": "BlackCraft Haunt",
+                "operator": "BlackCraft",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Essex_Street_Salem.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 13043239069,
+            "lat": 42.5214528,
+            "lon": -70.894817,
+            "tags": {
+                "addr:housenumber": "217",
+                "addr:street": "Essex Street",
+                "name": "Count Orlok’s Nightmare Gallery",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Count_Orlok%27s_Nightmare_Gallery%2C_285_Derby_St%2C_Salem_%28493778%29_%2811362743674%29.jpg/1280px-Count_Orlok%27s_Nightmare_Gallery%2C_285_Derby_St%2C_Salem_%28493778%29_%2811362743674%29.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 13043255251,
+            "lat": 42.521452,
+            "lon": -70.8947819,
+            "tags": {
+                "addr:housenumber": "217",
+                "addr:street": "Essex Street",
+                "check_date": "2025-08-02",
+                "description": "Wax museum dedicated to horror movie history",
+                "fee": "yes",
+                "name": "Count Orlok’s Nightmare Gallery",
+                "payment:cash": "yes",
+                "payment:credit_cards": "yes",
+                "payment:debit_cards": "yes",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Count_Orlok%27s_Nightmare_Gallery%2C_285_Derby_St%2C_Salem_%28493778%29_%2811362743674%29.jpg/1280px-Count_Orlok%27s_Nightmare_Gallery%2C_285_Derby_St%2C_Salem_%28493778%29_%2811362743674%29.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 13043289821,
+            "lat": 42.52168,
+            "lon": -70.8940764,
+            "tags": {
+                "addr:floor": "B;1",
+                "addr:housenumber": "194",
+                "addr:street": "Essex Street",
+                "check_date": "2025-08-02",
+                "level": "-1;0",
+                "name": "World of Wizardry",
+                "payment:cash": "yes",
+                "payment:credit_cards": "yes",
+                "payment:debit_cards": "yes",
+                "tourism": "museum",
+                "wheelchair": "no"
+            }
+        },
+        {
+            "type": "node",
+            "id": 13043301667,
+            "lat": 42.5217944,
+            "lon": -70.89348,
+            "tags": {
+                "addr:floor": "1",
+                "addr:housenumber": "186",
+                "addr:street": "Essex Street",
+                "addr:unit": "1",
+                "check_date": "2025-08-02",
+                "level": "0",
+                "name": "Witch Mansion Haunted House",
+                "payment:cash": "yes",
+                "payment:credit_cards": "yes",
+                "payment:debit_cards": "yes",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/East_India_Marine_Hall%2C_Peabody_Essex_Museum%2C_Salem%2C_MA%2C_USA_-_July_2013.JPG/1280px-East_India_Marine_Hall%2C_Peabody_Essex_Museum%2C_Salem%2C_MA%2C_USA_-_July_2013.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 13043321965,
+            "lat": 42.5221168,
+            "lon": -70.8915226,
+            "tags": {
+                "addr:floor": "1",
+                "addr:housenumber": "131",
+                "addr:street": "Essex Street",
+                "addr:unit": "4",
+                "check_date": "2025-08-02",
+                "level": "0",
+                "name": "Halloween Museum",
+                "payment:cash": "yes",
+                "payment:credit_cards": "yes",
+                "payment:debit_cards": "yes",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/John_Tucker_Daland_House_-_Salem%2C_Massachusetts.JPG/1280px-John_Tucker_Daland_House_-_Salem%2C_Massachusetts.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 13043407108,
+            "lat": 42.5204835,
+            "lon": -70.8885617,
+            "tags": {
+                "name": "Chambers Of terror",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Salem_Customs_House.jpg/1280px-Salem_Customs_House.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 13411634463,
+            "lat": 44.9149491,
+            "lon": -123.0788425,
+            "tags": {
+                "name": "Blue Car Wreck",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "way",
+            "id": 37753989,
+            "lat": 44.9383444,
+            "lon": -123.033754,
+            "tags": {
+                "addr:city": "Salem",
+                "addr:housenumber": "700",
+                "addr:postcode": "97301",
+                "addr:state": "OR",
+                "addr:street": "State Street",
+                "building": "yes",
+                "building:levels": "2",
+                "name": "Hallie Ford Art Museum",
+                "opening_hours": "Tu-Sa 10:00-17:00",
+                "operator": "Willamette University",
+                "phone": "+1 503-370-6855",
+                "tourism": "museum",
+                "website": "https://willamette.edu/arts/hfma/",
+                "wikidata": "Q5642975",
+                "wikipedia": "en:Hallie Ford Museum of Art"
+            }
+        },
+        {
+            "type": "way",
+            "id": 44071152,
+            "lat": 47.7622458,
+            "lon": 9.2450418,
+            "tags": {
+                "building": "yes",
+                "check_date": "2025-07-12",
+                "dog": "no",
+                "fee": "no",
+                "name": "Ausstellung beim grauen Langohr",
+                "tourism": "museum",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "way",
+            "id": 45060566,
+            "lat": 44.9410146,
+            "lon": -123.043093,
+            "tags": {
+                "building": "yes",
+                "name": "Salem Riverfront Carousel",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Salem_Riverfront_Park_entrance_-_Oregon.JPG/1280px-Salem_Riverfront_Park_entrance_-_Oregon.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 100079180,
+            "lat": 42.5218158,
+            "lon": -70.8838139,
+            "tags": {
+                "addr:housenumber": "115",
+                "addr:postcode": "01970",
+                "addr:street": "Derby Street",
+                "building": "yes",
+                "check_date": "2025-08-02",
+                "fee": "yes",
+                "historic": "yes",
+                "name": "The House of the Seven Gables",
+                "name:de": "Das Haus mit den sieben Giebeln",
+                "tourism": "museum",
+                "website": "https://7gables.org",
+                "wikidata": "Q3297920"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/House_of_the_Seven_Gables_%28front_angle%29_-_Salem%2C_Massachusetts.jpg/1280px-House_of_the_Seven_Gables_%28front_angle%29_-_Salem%2C_Massachusetts.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 100079194,
+            "lat": 42.5237102,
+            "lon": -70.891125,
+            "tags": {
+                "addr:housenumber": "19 1/2",
+                "addr:street": "Washington Square North",
+                "building": "yes",
+                "check_date:opening_hours": "2023-07-27",
+                "fee": "yes",
+                "name": "Salem Witch Museum",
+                "opening_hours": "Mo-Su 10:00-17:00, Jul-Aug 10:00-19:00",
+                "opening_hours:url": "https://salemwitchmuseum.com/hours/",
+                "seasonal": "yes",
+                "tourism": "museum",
+                "wheelchair": "yes",
+                "wikidata": "Q132187881"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Andrew-Safford_House.jpg/1280px-Andrew-Safford_House.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 100079201,
+            "lat": 42.5216533,
+            "lon": -70.8872189,
+            "tags": {
+                "addr:city": "Salem",
+                "addr:housenumber": "164;174;178",
+                "addr:postcode": "01970",
+                "addr:state": "MA",
+                "addr:street": "Derby Street",
+                "building": "yes",
+                "building:levels": "3",
+                "description": "Exhibits on the tools of the Custom Service, the work of the Customs inspectors, and the office of Nathaniel Hawthorne, whose three-year-long stint in the Salem Custom House inspired his classic novel, The Scarlet Letter.",
+                "heritage": "2",
+                "heritage:operator": "nrhp",
+                "heritage:website": "https://www.nps.gov/subjects/nationalregister/index.htm",
+                "historic": "maritime",
+                "museum": "history",
+                "name": "Custom House",
+                "nrhp:criteria": "(A), (C)",
+                "nrhp:inscription_date": "1966-10-15",
+                "operator": "Salem National Historic Site",
+                "operator:type": "government",
+                "protection_title": "Salem Maritime National Historic Site",
+                "ref:nrhp": "66000048",
+                "source_ref": "https://catalog.archives.gov/id/63794742",
+                "start_date": "1819",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Salem_Customs_House.jpg/1280px-Salem_Customs_House.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 101782363,
+            "lat": 47.7752026,
+            "lon": 9.2761448,
+            "tags": {
+                "building": "yes",
+                "fee": "yes",
+                "name": "Feuerwehrmuseum",
+                "opening_hours": "Dec 31-Mar 28: Su,PH 11:00-16:30; Mar 23-Nov 02: Mo-Sa 10:00-18:00; Mar 23-Nov 02: Su,PH 10:30-18:00; Nov 03-Dec 24: Su,PH 11:00-16:30; Dec 25-30: Mo-Su,PH 11:00-16:30",
+                "tourism": "museum",
+                "website": "https://www.salem.de/erlebnis-kloster-schloss/ausstellungen/feuerwehrmuseum",
+                "wikidata": "Q76631913"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Schloss_Salem.jpg/1280px-Schloss_Salem.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 143778624,
+            "lat": 42.7940419,
+            "lon": -71.2485244,
+            "tags": {
+                "addr:city": "Salem",
+                "addr:country": "US",
+                "addr:housenumber": "85",
+                "addr:postcode": "03079",
+                "addr:state": "NH",
+                "addr:street": "North Policy Street",
+                "email": "info@canobie.com",
+                "fax": "+1-603-890-2404",
+                "name": "Canobie Lake Park",
+                "opening_hours": "May-Oct",
+                "opening_hours:url": "https://www.canobie.com/plan/park-hours/",
+                "phone": "+1-603-893-3506",
+                "start_date": "1902-08-23",
+                "tourism": "theme_park",
+                "website": "https://www.canobie.com/",
+                "wikidata": "Q2936437",
+                "wikipedia": "en:Canobie Lake Park"
+            }
+        },
+        {
+            "type": "way",
+            "id": 143799209,
+            "lat": 42.7924888,
+            "lon": -71.2483799,
+            "tags": {
+                "building": "yes",
+                "name": "Policy Pond Log Flume",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Canobie_Lake_Park_Corkscrew.jpg/1280px-Canobie_Lake_Park_Corkscrew.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 143799241,
+            "lat": 42.7942015,
+            "lon": -71.2497121,
+            "tags": {
+                "building": "yes",
+                "name": "Canobie Station - Original Station",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Canobie_Lake_Park_Corkscrew.jpg/1280px-Canobie_Lake_Park_Corkscrew.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 143799252,
+            "lat": 42.7943942,
+            "lon": -71.24847,
+            "tags": {
+                "attraction": "bumper_car",
+                "building": "yes",
+                "name": "Dodgem",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Yankee_Cannonball_1.jpg/1280px-Yankee_Cannonball_1.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 180155479,
+            "lat": 42.7936501,
+            "lon": -71.2504552,
+            "tags": {
+                "name": "Alpine Swing",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Canobie_Lake_Park_Corkscrew.jpg/1280px-Canobie_Lake_Park_Corkscrew.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 180155481,
+            "lat": 42.7963864,
+            "lon": -71.2504142,
+            "tags": {
+                "building": "yes",
+                "name": "Autobahn",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Canobie_Lake_Park_Untamed.jpg/1280px-Canobie_Lake_Park_Untamed.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 180155483,
+            "lat": 42.794775,
+            "lon": -71.2510021,
+            "tags": {
+                "attraction": "roller_coaster",
+                "name": "Boston Tea Party",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "way",
+            "id": 180155487,
+            "lat": 42.7931263,
+            "lon": -71.2489956,
+            "tags": {
+                "attraction": "amusement_ride",
+                "name": "Canobie 500",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Canobie_Lake_Park_Corkscrew.jpg/1280px-Canobie_Lake_Park_Corkscrew.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 180155492,
+            "lat": 42.7962722,
+            "lon": -71.2508812,
+            "tags": {
+                "name": "Caterpillar",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "way",
+            "id": 180155494,
+            "lat": 42.7961469,
+            "lon": -71.2512871,
+            "tags": {
+                "name": "Da Vinci's Dream",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "way",
+            "id": 180155501,
+            "lat": 42.7934879,
+            "lon": -71.2492876,
+            "tags": {
+                "name": "Xtreme Frisbee",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Canobie_Lake_Park_Corkscrew.jpg/1280px-Canobie_Lake_Park_Corkscrew.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 180155502,
+            "lat": 42.793082,
+            "lon": -71.2483439,
+            "tags": {
+                "attraction": "big_wheel",
+                "name": "Gaint Sky Wheel",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Canobie_Lake_Park_Corkscrew.jpg/1280px-Canobie_Lake_Park_Corkscrew.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 180155503,
+            "lat": 42.7944416,
+            "lon": -71.2491945,
+            "tags": {
+                "name": "JR. Sport Cars",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Yankee_Cannonball_1.jpg/1280px-Yankee_Cannonball_1.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 180155504,
+            "lat": 42.7939712,
+            "lon": -71.2506408,
+            "tags": {
+                "name": "Jungle Bounce",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Canobie_Lake_Park_Corkscrew.jpg/1280px-Canobie_Lake_Park_Corkscrew.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 180155508,
+            "lat": 42.7937791,
+            "lon": -71.2505489,
+            "tags": {
+                "name": "Mini-Dino's",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Canobie_Lake_Park_Corkscrew.jpg/1280px-Canobie_Lake_Park_Corkscrew.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 180155511,
+            "lat": 42.7960427,
+            "lon": -71.2509305,
+            "tags": {
+                "name": "Over The Rainbow",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "way",
+            "id": 180155513,
+            "lat": 42.7928873,
+            "lon": -71.2484682,
+            "tags": {
+                "name": "Rock Wall",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Canobie_Lake_Park_Corkscrew.jpg/1280px-Canobie_Lake_Park_Corkscrew.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 180155515,
+            "lat": 42.793904,
+            "lon": -71.249182,
+            "tags": {
+                "name": "Rowdy Roosters",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Canobie_Lake_Park_Corkscrew.jpg/1280px-Canobie_Lake_Park_Corkscrew.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 180155518,
+            "lat": 42.7963181,
+            "lon": -71.2505925,
+            "tags": {
+                "name": "Skater",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Canobie_Lake_Park_Untamed.jpg/1280px-Canobie_Lake_Park_Untamed.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 180155519,
+            "lat": 42.7955087,
+            "lon": -71.2499078,
+            "tags": {
+                "name": "Starblaster",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Yankee_Cannonball_1.jpg/1280px-Yankee_Cannonball_1.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 180155528,
+            "lat": 42.7942048,
+            "lon": -71.2502641,
+            "tags": {
+                "name": "Turkish Twist",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Canobie_Lake_Park_Corkscrew.jpg/1280px-Canobie_Lake_Park_Corkscrew.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 180155529,
+            "lat": 42.7936906,
+            "lon": -71.2490922,
+            "tags": {
+                "name": "Twist & Shout",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Canobie_Lake_Park_Corkscrew.jpg/1280px-Canobie_Lake_Park_Corkscrew.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 180155532,
+            "lat": 42.7942865,
+            "lon": -71.2492261,
+            "tags": {
+                "name": "Wipeout",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Yankee_Cannonball_1.jpg/1280px-Yankee_Cannonball_1.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 180155533,
+            "lat": 42.794563,
+            "lon": -71.2485919,
+            "tags": {
+                "attraction": "round_up",
+                "attraction:wikidata": "Q1478992",
+                "name": "Zero Gravity",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Yankee_Cannonball_1.jpg/1280px-Yankee_Cannonball_1.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 180158941,
+            "lat": 42.7956612,
+            "lon": -71.2495263,
+            "tags": {
+                "attraction": "cars",
+                "name": "Antique Cars",
+                "tourism": "attraction",
+                "website": "https://www.canobie.com/park-attractions/antique-cars/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Yankee_Cannonball_1.jpg/1280px-Yankee_Cannonball_1.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 181376657,
+            "lat": 42.7939718,
+            "lon": -71.2503206,
+            "tags": {
+                "name": "Dragon Coaster",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Canobie_Lake_Park_Corkscrew.jpg/1280px-Canobie_Lake_Park_Corkscrew.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 181376658,
+            "lat": 42.7967726,
+            "lon": -71.2506688,
+            "tags": {
+                "building": "yes",
+                "name": "Psycho-Drome",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Canobie_Lake_Park_Untamed.jpg/1280px-Canobie_Lake_Park_Untamed.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 215898615,
+            "lat": 42.5219078,
+            "lon": -70.88631,
+            "tags": {
+                "addr:city": "Salem",
+                "addr:housenumber": "160",
+                "addr:postcode": "01970",
+                "addr:state": "MA",
+                "addr:street": "Derby Street",
+                "building": "yes",
+                "description": "By the 20th century, the western end of Derby Street had become the heart of the Polish Community in Salem. The St. Joseph Society, a fraternal society, built this headquarters in 1909.",
+                "heritage": "2",
+                "heritage:operator": "nrhp",
+                "heritage:website": "https://www.nps.gov/subjects/nationalregister/index.htm",
+                "historic": "maritime",
+                "name": "St. Joseph Hall",
+                "nrhp:criteria": "(A), (C)",
+                "nrhp:inscription_date": "1976-05-17",
+                "protection_title": "Salem Maritime National Historic Site",
+                "ref:nrhp": "76000297",
+                "source_ref": "https://catalog.archives.gov/id/63794728",
+                "start_date": "1909",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Hawkes_House_Salem_MA_NPS.jpg/1280px-Hawkes_House_Salem_MA_NPS.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 215898679,
+            "lat": 42.5218044,
+            "lon": -70.8864769,
+            "tags": {
+                "addr:city": "Salem",
+                "addr:postcode": "01970",
+                "addr:state": "MA",
+                "addr:street": "Derby Street",
+                "building": "yes",
+                "description": "The term “West India Goods Store” was used in Salem as a generic term for a retail shop selling items from all over the world, not just the Caribbean. Captain Henry Prince (1764-1846) built this structure in the early 1800s.",
+                "heritage": "2",
+                "heritage:operator": "nrhp",
+                "heritage:website": "https://www.nps.gov/subjects/nationalregister/index.htm",
+                "historic": "maritime",
+                "museum": "history",
+                "name": "West India Goods Store",
+                "nrhp:criteria": "(A), (C)",
+                "nrhp:inscription_date": "1966-10-15",
+                "operator": "Salem National Historic Site",
+                "operator:type": "government",
+                "protection_title": "Salem Maritime National Historic Site",
+                "ref:nrhp": "66000048",
+                "source_ref": "https://catalog.archives.gov/id/63794742",
+                "start_date": "1800s",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Hawkes_House_Salem_MA_NPS.jpg/1280px-Hawkes_House_Salem_MA_NPS.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 215898689,
+            "lat": 42.5205359,
+            "lon": -70.886565,
+            "tags": {
+                "addr:city": "Salem",
+                "addr:housenumber": "1",
+                "addr:postcode": "01970",
+                "addr:state": "MA",
+                "addr:street": "Derby Wharf",
+                "building": "yes",
+                "building:levels": "3",
+                "description": "Moved from Marblehead, originally built by Thomas Pedrick in 1770. During the Revolution, Pedrick commissioned privateers to capture British merchant vessels, and probably stored captured cargo in his store house.",
+                "heritage": "2",
+                "heritage:operator": "nrhp",
+                "heritage:website": "https://www.nps.gov/subjects/nationalregister/index.htm",
+                "historic": "maritime",
+                "museum": "history",
+                "name": "Pedrick Store House",
+                "nrhp:criteria": "(A), (C)",
+                "nrhp:inscription_date": "1976-05-17",
+                "operator": "Salem National Historic Site",
+                "operator:type": "government",
+                "protection_title": "Salem Maritime National Historic Site",
+                "ref:nrhp": "76000297",
+                "source_ref": "https://catalog.archives.gov/id/63794728",
+                "start_date": "1770",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Salem_Customs_House.jpg/1280px-Salem_Customs_House.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 215898719,
+            "lat": 42.5218573,
+            "lon": -70.8866771,
+            "tags": {
+                "addr:city": "Salem",
+                "addr:postcode": "01970",
+                "addr:state": "MA",
+                "addr:street": "Derby Street",
+                "building": "yes",
+                "building:levels": "3",
+                "description": "Built in 1762 as a wedding present, the Derby House was the home of Elias Hasket Derby (1739-1799) and Elizabeth Crowninshield Derby (1727-1799) for the first twenty years of their marriage.",
+                "heritage": "2",
+                "heritage:operator": "nrhp",
+                "heritage:website": "https://www.nps.gov/subjects/nationalregister/index.htm",
+                "historic": "maritime",
+                "museum": "history",
+                "name": "Derby House",
+                "nrhp:criteria": "(A), (C)",
+                "nrhp:inscription_date": "1966-10-15",
+                "operator": "Salem National Historic Site",
+                "operator:type": "government",
+                "protection_title": "Salem Maritime National Historic Site",
+                "ref:nrhp": "66000048",
+                "source_ref": "https://catalog.archives.gov/id/63794742",
+                "start_date": "1761",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Hawkes_House_Salem_MA_NPS.jpg/1280px-Hawkes_House_Salem_MA_NPS.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 215898752,
+            "lat": 42.5217687,
+            "lon": -70.8869256,
+            "tags": {
+                "addr:city": "Salem",
+                "addr:postcode": "01970",
+                "addr:state": "MA",
+                "addr:street": "Derby Street",
+                "architect": "Samuel McIntire",
+                "building": "yes",
+                "building:levels": "3",
+                "description": "Designed by Samuel McIntire (1751-1811), one of the earliest and most influential architects in the United States, the Hawkes House had been commissioned but never lived in by Elias Hasket and Elizabeth Derby.",
+                "heritage": "2",
+                "heritage:operator": "nrhp",
+                "heritage:website": "https://www.nps.gov/subjects/nationalregister/index.htm",
+                "historic": "maritime",
+                "museum": "history",
+                "name": "Hawkes House",
+                "nrhp:criteria": "(A), (C)",
+                "nrhp:inscription_date": "1966-10-15",
+                "operator": "Salem National Historic Site",
+                "operator:type": "government",
+                "protection_title": "Salem Maritime National Historic Site",
+                "ref:nrhp": "66000048",
+                "source_ref": "https://catalog.archives.gov/id/63794742",
+                "start_date": "1801",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Salem_Customs_House.jpg/1280px-Salem_Customs_House.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 215898909,
+            "lat": 42.5226613,
+            "lon": -70.8873634,
+            "tags": {
+                "addr:city": "Salem",
+                "addr:housenumber": "71",
+                "addr:postcode": "01970",
+                "addr:state": "MA",
+                "addr:street": "Essex Street",
+                "building": "yes",
+                "building:levels": "3",
+                "description": "The Narbonne House was built in 1675 for butcher Thomas Ives. Named after Sarah Narbonne, whose grandfather Jonathan Andrews purchased the house in 1780. Sarah was born in the Narbonne house, and lived there for her entire life.",
+                "heritage": "2",
+                "heritage:operator": "nrhp",
+                "heritage:website": "https://www.nps.gov/subjects/nationalregister/index.htm",
+                "historic": "maritime",
+                "name": "Narbonne House",
+                "nrhp:criteria": "(A), (C)",
+                "nrhp:inscription_date": "1966-10-15",
+                "operator": "Salem National Historic Site",
+                "operator:type": "government",
+                "protection_title": "Salem Maritime National Historic Site",
+                "ref:nrhp": "66000048",
+                "source_ref": "https://catalog.archives.gov/id/63794742",
+                "start_date": "1670",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/William_Murray_House.jpg/1280px-William_Murray_House.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 215898988,
+            "lat": 42.5219201,
+            "lon": -70.8874625,
+            "tags": {
+                "addr:city": "Salem",
+                "addr:postcode": "01970",
+                "addr:state": "MA",
+                "addr:street": "Derby Street",
+                "building": "yes",
+                "building:levels": "1",
+                "description": "used as a storage facility for scales and other equipment required to weigh cargo goods on ships. The scales were never used inside the building, but were carted and moved to the wharf and assembled alongside a vessel that had just returned.",
+                "heritage": "2",
+                "heritage:operator": "nrhp",
+                "heritage:website": "https://www.nps.gov/subjects/nationalregister/index.htm",
+                "historic": "maritime",
+                "museum": "history",
+                "name": "Scale House",
+                "nrhp:criteria": "(A), (C)",
+                "nrhp:inscription_date": "1966-10-15",
+                "operator": "Salem National Historic Site",
+                "operator:type": "government",
+                "protection_title": "Salem Maritime National Historic Site",
+                "ref:nrhp": "66000048",
+                "source_ref": "https://catalog.archives.gov/id/63794742",
+                "start_date": "1829",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Salem_Customs_House.jpg/1280px-Salem_Customs_House.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 215900491,
+            "lat": 42.5207178,
+            "lon": -70.8907862,
+            "tags": {
+                "addr:housenumber": "274",
+                "addr:postcode": "01970",
+                "addr:street": "Derby Street",
+                "building": "yes",
+                "fee": "yes",
+                "name": "New England Pirate Museum",
+                "opening_hours": "Mo-Su 10:00-17:00",
+                "tourism": "museum",
+                "website": "http://www.piratemuseum.com/pirate.html"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5c/SalemMA_JosephFennoHouse.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 215901152,
+            "lat": 42.5215405,
+            "lon": -70.892209,
+            "tags": {
+                "addr:city": "Salem",
+                "addr:housenumber": "161",
+                "addr:postcode": "01970",
+                "addr:state": "MA",
+                "addr:street": "Essex Street",
+                "building": "yes",
+                "building:levels": "3",
+                "check_date": "2025-08-02",
+                "fee": "yes",
+                "name": "Peabody Essex Museum",
+                "opening_hours": "Th-Mo 10:00-17:00",
+                "payment:cash": "yes",
+                "payment:credit_cards": "yes",
+                "payment:debit_cards": "yes",
+                "phone": "+1 978-745-9500",
+                "tourism": "museum",
+                "wheelchair": "yes",
+                "wikidata": "Q3373790",
+                "wikipedia": "en:Peabody Essex Museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Quaker_Meeting_House%2C_Salem_MA.jpg/1280px-Quaker_Meeting_House%2C_Salem_MA.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 215904008,
+            "lat": 42.5215486,
+            "lon": -70.8988988,
+            "tags": {
+                "addr:city": "Salem",
+                "addr:housenumber": "310 1/2",
+                "addr:postcode": "01970",
+                "addr:state": "MA",
+                "addr:street": "Essex Street",
+                "alt_name": "Jonathan Corwin House",
+                "building": "detached",
+                "check_date": "2025-08-01",
+                "gnis:feature_id": "1979432",
+                "name": "The Witch House",
+                "opening_hours": "Mo-Su 10:00-17:00",
+                "phone": "+1 978-744-8815",
+                "tourism": "museum",
+                "website": "https://witchhouse.info/",
+                "wikidata": "Q7775277",
+                "wikipedia": "en:The Witch House"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Witch_House%2C_Salem.jpg/1280px-Witch_House%2C_Salem.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 241997106,
+            "lat": 42.7930705,
+            "lon": -71.2487958,
+            "tags": {
+                "attraction": "shooting_gallery",
+                "name": "Paintball Hollow",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Canobie_Lake_Park_Corkscrew.jpg/1280px-Canobie_Lake_Park_Corkscrew.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 241997107,
+            "lat": 42.792341,
+            "lon": -71.2491384,
+            "tags": {
+                "attraction": "pirate_ship",
+                "name": "Pirate Ship",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Canobie_Lake_Park_Corkscrew.jpg/1280px-Canobie_Lake_Park_Corkscrew.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 241997108,
+            "lat": 42.7925884,
+            "lon": -71.2490175,
+            "tags": {
+                "name": "Sea/land Rescue",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Canobie_Lake_Park_Corkscrew.jpg/1280px-Canobie_Lake_Park_Corkscrew.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 430804800,
+            "lat": 47.7906339,
+            "lon": 9.3002916,
+            "tags": {
+                "addr:city": "Salem",
+                "addr:country": "DE",
+                "addr:housenumber": "129/1",
+                "addr:postcode": "88682",
+                "addr:street": "Heiligenberger Straße",
+                "addr:suburb": "Weildorf",
+                "building": "yes",
+                "name": "Historische Kegelbahn",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "way",
+            "id": 481289437,
+            "lat": 47.7575336,
+            "lon": 9.2487727,
+            "tags": {
+                "attraction": "animal",
+                "barrier": "fence",
+                "charge": "13.50 EUR/day",
+                "fence_type": "metal",
+                "landuse": "forest",
+                "leisure": "park",
+                "name": "Affengehege",
+                "tourism": "attraction",
+                "wheelchair": "limited",
+                "zoo": "wildlife_park"
+            }
+        },
+        {
+            "type": "way",
+            "id": 481289438,
+            "lat": 47.7585735,
+            "lon": 9.2492776,
+            "tags": {
+                "charge": "12.5 EUR",
+                "check_date": "2025-07-12",
+                "dog": "no",
+                "email": "info@affenberg-salem.de",
+                "fee": "yes",
+                "name": "Affenberg Salem",
+                "opening_hours": "Mar 15-Apr 11,Apr 28-Apr 30,May 02-May 28,Jun 23-Jul 30,Sep 15-Oct 25: Mo-Su,PH 10:00-17:30; Apr 12-Apr 27,May 01,May 29,Jun 07-Jun 22,Jul 31-Sep 14: Mo-Su,PH 10:00-18:00; Oct 26-Nov 09: Mo-Su,PH 10:00-17:00",
+                "opening_hours:url": "https://www.affenberg-salem.de/oeffnungszeiten/",
+                "operator": "Affenberg Salem Mendlishausen GmbH",
+                "payment:cash": "no",
+                "payment:credit_cards": "yes",
+                "payment:debit_cards": "yes",
+                "phone": "+49 7553 381",
+                "toilets": "yes",
+                "toilets:wheelchair": "yes",
+                "tourism": "zoo",
+                "website": "https://www.affenberg-salem.de/",
+                "wheelchair": "limited",
+                "wikidata": "Q382304",
+                "wikipedia": "de:Affenberg Salem"
+            }
+        },
+        {
+            "type": "way",
+            "id": 610626200,
+            "lat": 37.6416764,
+            "lon": -91.5348402,
+            "tags": {
+                "description": "A propane tank painted pink, wide eyes, and given metal additions to look like a pig. ",
+                "name": "The Gassy Pig",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Dent_County_Missouri_Incorporated_and_Unincorporated_areas_Salem_Highlighted.svg/1280px-Dent_County_Missouri_Incorporated_and_Unincorporated_areas_Salem_Highlighted.svg.png",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 611686808,
+            "lat": 37.646864,
+            "lon": -91.5330561,
+            "tags": {
+                "addr:city": "Salem",
+                "addr:housenumber": "601",
+                "addr:postcode": "65560",
+                "addr:state": "MO",
+                "addr:street": "North Hickory Street",
+                "building": "yes",
+                "name": "Bonebrake Center of Nature and History",
+                "operator": "The Bonebrake-McMurtrey Foundation. LTD",
+                "tourism": "museum",
+                "website": "https://bonebrakecenter.wixsite.com/bonebrake-center"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Dent_County_Missouri_Courthouse-20150101-083-pano.jpg/1280px-Dent_County_Missouri_Courthouse-20150101-083-pano.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 692329780,
+            "lat": 42.5201197,
+            "lon": -70.8865678,
+            "tags": {
+                "building": "ship",
+                "description": "The replica tall ship, Friendship of Salem, is docked at Derby Wharf and was designed to present the appearance an original 1797 Salem-built vessel.",
+                "historic": "ship",
+                "museum": "history",
+                "name": "Friendship of Salem",
+                "operator": "National Park Service",
+                "operator:type": "government",
+                "ship:type": "frigate",
+                "tourism": "museum",
+                "website": "https://www.nps.gov/places/friendship-of-salem.htm",
+                "wikipedia": "en:Friendship of Salem"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Salem_Customs_House.jpg/1280px-Salem_Customs_House.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 726956118,
+            "lat": 42.7957344,
+            "lon": -71.250573,
+            "tags": {
+                "name": "Venetian Carousel",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "way",
+            "id": 813956541,
+            "lat": 42.7942525,
+            "lon": -71.2483163,
+            "tags": {
+                "building": "yes",
+                "name": "Ice Jet",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Yankee_Cannonball_1.jpg/1280px-Yankee_Cannonball_1.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 813993897,
+            "lat": 42.7952272,
+            "lon": -71.2502855,
+            "tags": {
+                "building": "yes",
+                "name": "Boats",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "way",
+            "id": 813993898,
+            "lat": 42.795299,
+            "lon": -71.2504316,
+            "tags": {
+                "building": "yes",
+                "name": "Jeeps",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "way",
+            "id": 813993899,
+            "lat": 42.7953531,
+            "lon": -71.2503358,
+            "tags": {
+                "building": "yes",
+                "name": "Tanks",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "way",
+            "id": 813994054,
+            "lat": 42.7952238,
+            "lon": -71.2506195,
+            "tags": {
+                "building": "yes",
+                "name": "Flower Power",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "way",
+            "id": 813994982,
+            "lat": 42.7945979,
+            "lon": -71.2493682,
+            "tags": {
+                "building": "yes",
+                "name": "Crazy Cups",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Yankee_Cannonball_1.jpg/1280px-Yankee_Cannonball_1.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 813996170,
+            "lat": 42.7941819,
+            "lon": -71.2503128,
+            "tags": {
+                "building": "yes",
+                "name": "Turkish Twist",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Canobie_Lake_Park_Corkscrew.jpg/1280px-Canobie_Lake_Park_Corkscrew.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 813997007,
+            "lat": 42.79157,
+            "lon": -71.2491606,
+            "tags": {
+                "building": "yes",
+                "name": "Mine of Lost Souls",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Canobie_Lake_Park_Corkscrew.jpg/1280px-Canobie_Lake_Park_Corkscrew.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 833687039,
+            "lat": 42.7961917,
+            "lon": -71.2495225,
+            "tags": {
+                "attraction": "roller_coaster",
+                "name": "Untamed",
+                "tourism": "attraction",
+                "wikidata": "Q7897563"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Canobie_Lake_Park_Untamed.jpg/1280px-Canobie_Lake_Park_Untamed.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 868540413,
+            "lat": 11.80788,
+            "lon": 77.7996412,
+            "tags": {
+                "area": "yes",
+                "name": "Mettur Dam observation area",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "way",
+            "id": 932209010,
+            "lat": 41.4910064,
+            "lon": -72.2757232,
+            "tags": {
+                "addr:city": "Salem",
+                "addr:housenumber": "264;246",
+                "addr:postcode": "06420",
+                "addr:state": "CT",
+                "addr:street": "Hartford Road",
+                "building": "yes",
+                "ele": "107",
+                "gnis:feature_id": "1931505",
+                "museum": "history",
+                "name": "Salem Historical Society",
+                "old_name": "Salem Town House",
+                "phone": "+1 860 859 3873",
+                "source": "USGS Geonames",
+                "tourism": "museum",
+                "website": "https://www.facebook.com/salemhistoricalsociety"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/6c/SalemCT_TownCenter.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 970751714,
+            "lat": 44.9345318,
+            "lon": -123.0268808,
+            "tags": {
+                "addr:city": "Salem",
+                "addr:housenumber": "1313",
+                "addr:postcode": "97301",
+                "addr:state": "OR",
+                "addr:street": "Mill Street Southeast",
+                "area": "yes",
+                "name": "Willamette Heritage Center",
+                "opening_hours": "Tu-Sa 10:00-16:00",
+                "tourism": "museum",
+                "website": "https://www.willametteheritage.org/",
+                "wikidata": "Q6878637",
+                "wikipedia": "en:Willamette Heritage Center"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/SalemORMissionMill6.JPG/1280px-SalemORMissionMill6.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 975888950,
+            "lat": 44.9450452,
+            "lon": -123.041004,
+            "tags": {
+                "addr:city": "Salem",
+                "addr:housenumber": "116",
+                "addr:postcode": "97301",
+                "addr:state": "OR",
+                "addr:street": "Marion Street Northeast",
+                "check_date": "2025-06-16",
+                "fee": "yes",
+                "name": "A. C. Gilbert's Discovery Village",
+                "tourism": "museum",
+                "wikidata": "Q4647610",
+                "wikipedia": "en:A. C. Gilbert's Discovery Village"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Gilbert_House_Salem_Oregon.JPG/1280px-Gilbert_House_Salem_Oregon.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 1028159465,
+            "lat": 42.5079565,
+            "lon": -70.8857988,
+            "tags": {
+                "access": "yes",
+                "gnis:feature_id": "600673",
+                "massgis:ARTICLE97": "1",
+                "massgis:ASSESS_ACR": "29.00000000",
+                "massgis:ASSESS_LOT": "743",
+                "massgis:ASSESS_MAP": "33",
+                "massgis:ASSESS_SUB": "202",
+                "massgis:ATT_DATE": "2005/08/01",
+                "massgis:DCAM_ID": "0",
+                "massgis:DEED_ACRES": "0.00000000",
+                "massgis:EOEAINVOLV": "1",
+                "massgis:FEESYM": "M",
+                "massgis:FEE_OWNER": "City of Salem",
+                "massgis:FY_FUNDING": "0",
+                "massgis:GRANTPROG1": "DCS-LWCF",
+                "massgis:GRANTTYPE1": "F",
+                "massgis:LEV_PROT": "P",
+                "massgis:MANAGER": "City of Salem Parks and Recreaion Department",
+                "massgis:MANAGR_ABR": "M258PR",
+                "massgis:MANAGR_TYP": "M",
+                "massgis:OS_DEED_BO": "0",
+                "massgis:OS_DEED_PA": "0",
+                "massgis:OS_ID": "258-726",
+                "massgis:OWNER_ABRV": "M258",
+                "massgis:OWNER_TYPE": "M",
+                "massgis:POLY_ID": "726",
+                "massgis:PRIM_PURP": "R",
+                "massgis:PROJ_ID1": "DCS-LW058",
+                "massgis:PUB_ACCESS": "Y",
+                "massgis:SITE_NAME": "Forest River Park",
+                "massgis:SOURCE_TYP": "P2",
+                "massgis:TOWN_ID": "258",
+                "museum": "history",
+                "name": "Pioneer Village",
+                "owner": "City Of Salem",
+                "ownership": "municipal",
+                "protected": "perpetuity",
+                "source": "MassGIS OpenSpace (http://www.mass.gov/mgis/osp.htm)",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Kitchen%2C_Governor%27s_Faire_House%2C_The_Pioneers%27_Village%2C_Salem%2C_Mass_%2883010%29.jpg/1280px-Kitchen%2C_Governor%27s_Faire_House%2C_The_Pioneers%27_Village%2C_Salem%2C_Mass_%2883010%29.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 1055154063,
+            "lat": 37.2947835,
+            "lon": -80.047604,
+            "tags": {
+                "addr:city": "Salem",
+                "addr:housenumber": "801",
+                "addr:postcode": "24153",
+                "addr:state": "VA",
+                "addr:street": "East Main Street",
+                "building": "yes",
+                "name": "Salem Museum",
+                "opening_hours": "Tu-Sa 10:00-16:00",
+                "tourism": "museum",
+                "website": "https://salemmuseum.org/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/SalemPresbParsonage.jpg/1280px-SalemPresbParsonage.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 1194159218,
+            "lat": 40.8514965,
+            "lon": -91.6216192,
+            "tags": {
+                "building": "yes",
+                "name": "Lewelling Quaker Museum",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Lewelling_Salem_IA.JPG/1280px-Lewelling_Salem_IA.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 1227711044,
+            "lat": 11.668526,
+            "lon": 78.1409497,
+            "tags": {
+                "name": "Exhibiton Ground",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Five_Roads_Junction%2CSalem.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 1229915760,
+            "lat": 11.7457494,
+            "lon": 78.1707736,
+            "tags": {
+                "addr:city": "Salem",
+                "addr:district": "Salem",
+                "addr:postcode": "636008",
+                "addr:street": "TANMAG Road",
+                "name": "Kurumbapatti Zoo-Park",
+                "operator": "Government",
+                "tourism": "zoo"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Kurumambapatti_Zoological_park_entrance.jpg/1280px-Kurumambapatti_Zoological_park_entrance.jpg",
+            "image_source": "wikipedia_verified"
+        }
+    ]
+}

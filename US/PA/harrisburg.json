@@ -1,0 +1,421 @@
+{
+    "city_metadata": {
+        "city_name": "Harrisburg",
+        "state_code": "PA",
+        "state_full": "Pennsylvania",
+        "city_summary": "Harrisburg ( HARR-iss-burg; Pennsylvania German: Harrisbarrig) is the capital city of the U.S. commonwealth of Pennsylvania. It is the ninth-most populous city in the state, with a population of 50,099 at the 2020 census, while the Harrisburg–Carlisle metropolitan statistical area has an estimated 615,000 residents and is the fourth-most populous metropolitan area in Pennsylvania. Harrisburg is situated on the east bank of the Susquehanna River 83 miles (134 km) southwest of Allentown and 107 miles (172 km) northwest of Philadelphia.",
+        "city_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/PA_State_Capitol_Building_twilight.jpg/1280px-PA_State_Capitol_Building_twilight.jpg",
+        "city_lat": 40.26972222,
+        "city_lon": -76.87555556,
+        "source": "wikipedia_verified_engine"
+    },
+    "attractions": [
+        {
+            "type": "node",
+            "id": 316971451,
+            "lat": 41.5584661,
+            "lon": -103.7433155,
+            "tags": {
+                "addr:city": "Harrisburg",
+                "addr:housenumber": "200",
+                "addr:postcode": "69345",
+                "addr:state": "NE",
+                "addr:street": "North Pennsylvania",
+                "ele": "1369",
+                "gnis:feature_id": "1830270",
+                "name": "Banner County Museum",
+                "place": "county",
+                "source": "USGS Geonames",
+                "tourism": "museum",
+                "website": "https://www.bannercountyhistoricalsociety.org/"
+            }
+        },
+        {
+            "type": "node",
+            "id": 966583853,
+            "lat": 37.7374017,
+            "lon": -88.5396889,
+            "tags": {
+                "name": "Harrisburg Daily Register",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Saline_County_Courthouse%2C_Harrisburg%2C_from_south.jpg/1280px-Saline_County_Courthouse%2C_Harrisburg%2C_from_south.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 967192981,
+            "lat": 37.7319921,
+            "lon": -88.5447513,
+            "tags": {
+                "name": "Harrisburg Remodeling",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Map_highlighting_Harrisburg_Township%2C_Saline_County%2C_Illinois.svg/1280px-Map_highlighting_Harrisburg_Township%2C_Saline_County%2C_Illinois.svg.png",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 967195639,
+            "lat": 37.734597,
+            "lon": -88.5571752,
+            "tags": {
+                "name": "Saline County Abulance",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 967198644,
+            "lat": 37.7384236,
+            "lon": -88.5527335,
+            "tags": {
+                "name": "Looking Glass Enterprises",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 967199971,
+            "lat": 37.738483,
+            "lon": -88.550695,
+            "tags": {
+                "name": "Whites Florist",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 967202105,
+            "lat": 37.7395043,
+            "lon": -88.5493311,
+            "tags": {
+                "name": "David Nave Insurance",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 967203821,
+            "lat": 37.7371626,
+            "lon": -88.5412738,
+            "tags": {
+                "name": "Graf Ink Printing",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Saline_County_Courthouse%2C_Harrisburg%2C_from_south.jpg/1280px-Saline_County_Courthouse%2C_Harrisburg%2C_from_south.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 25854511,
+            "lat": 40.2658392,
+            "lon": -76.885407,
+            "tags": {
+                "addr:city": "Harrisburg",
+                "addr:housenumber": "300",
+                "addr:postcode": "17120",
+                "addr:state": "PA",
+                "addr:street": "North Street",
+                "building": "yes",
+                "building:levels": "6",
+                "building:material": "limestone",
+                "charge": "6.00 USD",
+                "fee": "yes",
+                "name": "State Museum of Pennsylvania",
+                "opening_hours": "We-Sa 09:00-16:30; Su 12:00-16:30",
+                "roof:shape": "dome",
+                "tourism": "museum",
+                "website": "www.statemuseumpa.org",
+                "wikidata": "Q7603435",
+                "wikipedia": "en:State Museum of Pennsylvania"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/27/The_State_Museum_of_Pennsylvania.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 333517096,
+            "lat": 40.2693111,
+            "lon": -76.8891304,
+            "tags": {
+                "addr:city": "Harrisburg",
+                "addr:housenumber": "1230",
+                "addr:postcode": "17102",
+                "addr:state": "PA",
+                "addr:street": "North 3rd Street",
+                "building": "yes",
+                "building:levels": "2",
+                "contact:facebook": "https://www.facebook.com/HistoricHarrisburgAssociation",
+                "name": "Historic Harrisburg Association",
+                "opening_hours": "Mo-Fr 09:00-16:00; Sa-Su off",
+                "tourism": "museum",
+                "website": "https://historicharrisburg.org",
+                "wikidata": "Q132798006",
+                "wikipedia": "en:Historic Harrisburg Association"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Broad_Street_Market_Harrisburg_PA.JPG/1280px-Broad_Street_Market_Harrisburg_PA.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 346597718,
+            "lat": 40.2709998,
+            "lon": -76.8896109,
+            "tags": {
+                "addr:city": "Harrisburg",
+                "addr:housenumber": "1401",
+                "addr:postcode": "17102",
+                "addr:state": "PA",
+                "addr:street": "North 3rd Street",
+                "building": "yes",
+                "image": "File:Susquehanna Art Museum.jpg",
+                "name": "Susquehanna Art Museum",
+                "polling_station": "yes",
+                "tourism": "museum",
+                "website": "http://www.sqart.org/",
+                "wikidata": "Q7649293",
+                "wikimedia_commons": "File:Susquehanna Art Museum.jpg",
+                "wikipedia": "en:Susquehanna Art Museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Broad_Street_Market_Harrisburg_PA.JPG/1280px-Broad_Street_Market_Harrisburg_PA.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 351426268,
+            "lat": 40.2607939,
+            "lon": -76.8814124,
+            "tags": {
+                "addr:city": "Harrisburg",
+                "addr:housenumber": "222",
+                "addr:postcode": "17101",
+                "addr:state": "PA",
+                "addr:street": "Market Street",
+                "building": "commercial",
+                "building:levels": "4",
+                "charge": "16.00 USD",
+                "fee": "yes",
+                "museum": "science",
+                "name": "Whitaker Center for Science and the Arts",
+                "opening_hours": "Fr,Sa,Su,Mo 10:00-17:00",
+                "phone": "+1 717-214-2787",
+                "tourism": "museum",
+                "website": "https://www.whitakercenter.org/",
+                "wikidata": "Q7994126",
+                "wikipedia": "en:Whitaker Center for Science and the Arts"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Whitaker_Center_for_Science_and_the_Arts.jpg/1280px-Whitaker_Center_for_Science_and_the_Arts.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 360963121,
+            "lat": 40.2763997,
+            "lon": -76.8922996,
+            "tags": {
+                "addr:city": "Harrisburg",
+                "addr:housenumber": "1820",
+                "addr:postcode": "17102",
+                "addr:state": "PA",
+                "addr:street": "North 4th Street",
+                "building": "yes",
+                "building:levels": "2",
+                "check_date:opening_hours": "2023-07-12",
+                "fee": "yes",
+                "museum": "fire_museum",
+                "name": "Pennsylvania National Fire Museum",
+                "opening_hours": "Th-Sa 10:00-16:00; Su 12:00-16:00",
+                "tourism": "museum",
+                "website": "https://pnfm.org/",
+                "wikidata": "Q7164014",
+                "wikipedia": "en:Pennsylvania National Fire Museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/27/PANationalFireMuseum.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 375301428,
+            "lat": 40.2720381,
+            "lon": -76.8553823,
+            "tags": {
+                "addr:city": "Harrisburg",
+                "addr:housenumber": "1",
+                "addr:state": "PA",
+                "addr:street": "Lincoln Circle",
+                "building": "commercial",
+                "fee": "yes",
+                "name": "National Civil War Museum",
+                "phone": "+1 866-258-4729",
+                "tourism": "museum",
+                "website": "https://www.nationalcivilwarmuseum.org/",
+                "wikidata": "Q6971522"
+            }
+        },
+        {
+            "type": "way",
+            "id": 606124765,
+            "lat": 35.3289786,
+            "lon": -80.6180291,
+            "tags": {
+                "addr:city": "Harrisburg",
+                "addr:housenumber": "6305",
+                "addr:postcode": "28075",
+                "addr:state": "NC",
+                "addr:street": "Pharr Mill Road",
+                "building": "farm_auxiliary",
+                "building:levels": "2",
+                "height": "8",
+                "name": "Pharr Millhouse Historic Site",
+                "operator": "Town of Harrisburg",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "way",
+            "id": 1118169144,
+            "lat": 37.7188646,
+            "lon": -88.5523225,
+            "tags": {
+                "addr:city": "Harrisburg",
+                "addr:housenumber": "1600",
+                "addr:postcode": "62946",
+                "addr:street": "South Feazel Street",
+                "building": "yes",
+                "name": "Saline County Area Museum",
+                "phone": "+1 618 253 7342",
+                "tourism": "museum",
+                "website": "https://saline-village.edan.io/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Farmhouse%2C_Saline_County_Poor_Farm.jpg/1280px-Farmhouse%2C_Saline_County_Poor_Farm.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 333883,
+            "lat": 40.28805556,
+            "lon": -76.65694444,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Hersheypark_Entrance_10-2-2022.jpg/1280px-Hersheypark_Entrance_10-2-2022.jpg",
+            "description": "Hersheypark (known as Hershey Park until 1970) is a family theme park in Hershey, Pennsylvania, United States, about fifteen miles (25 km) east of Harrisburg, and 95 miles (155 km) west of Philadelphia.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Hersheypark",
+                "wikipedia": "en:Hersheypark",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 132361,
+            "lat": 40.27833333,
+            "lon": -76.65111111,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Hershey%2C_Pennsylvania_%28cropped%29.JPG/1280px-Hershey%2C_Pennsylvania_%28cropped%29.JPG",
+            "description": "Hershey is an unincorporated community and census-designated place (CDP) in Derry Township, Dauphin County, Pennsylvania, United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Hershey, Pennsylvania",
+                "wikipedia": "en:Hershey, Pennsylvania",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 132982,
+            "lat": 40.60166667,
+            "lon": -75.47722222,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/2018_-_Center_Square_-_Looking_Northeast_-_12_Oct_-_Allentown_PA.jpg/1280px-2018_-_Center_Square_-_Looking_Northeast_-_12_Oct_-_Allentown_PA.jpg",
+            "description": "Allentown is a city in eastern Pennsylvania, United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Allentown, Pennsylvania",
+                "wikipedia": "en:Allentown, Pennsylvania",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 34574598,
+            "lat": 40.260775,
+            "lon": -76.88577222,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/St._Stephen%27s_Episcopal_Cathedral_-_Harrisburg%2C_Pennsylvania_04.jpg/1280px-St._Stephen%27s_Episcopal_Cathedral_-_Harrisburg%2C_Pennsylvania_04.jpg",
+            "description": "St.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "St. Stephen's Episcopal Cathedral (Harrisburg, Pennsylvania)",
+                "wikipedia": "en:St. Stephen's Episcopal Cathedral (Harrisburg, Pennsylvania)",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 30681066,
+            "lat": 40.259628,
+            "lon": -76.881903,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Market_Square%2C_Harrisburg%2C_PA_2023.jpg/1280px-Market_Square%2C_Harrisburg%2C_PA_2023.jpg",
+            "description": "Harrisburg's Market Square is located in Downtown Harrisburg at the intersection of 2nd and Market Streets.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Market Square, Harrisburg, Pennsylvania",
+                "wikipedia": "en:Market Square, Harrisburg, Pennsylvania",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 8980259,
+            "lat": 40.26972222,
+            "lon": -76.88861111,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Broad_Street_Market_Harrisburg_PA.JPG/1280px-Broad_Street_Market_Harrisburg_PA.JPG",
+            "description": "The Broad Street Market, opened in 1863, is located in the Midtown neighborhood of Harrisburg, Pennsylvania in the United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Broad Street Market",
+                "wikipedia": "en:Broad Street Market",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 17286418,
+            "lat": 40.268,
+            "lon": -76.89331,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/PA_Capitol_with_Fireworks.jpg/1280px-PA_Capitol_with_Fireworks.jpg",
+            "description": "Harrisburg's Independence Day Celebration is an annual music and food festival that takes place in Harrisburg, Pennsylvania on Fourth of July weekend.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Harrisburg Independence Day Celebration",
+                "wikipedia": "en:Harrisburg Independence Day Celebration",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 132363,
+            "lat": 40.26527778,
+            "lon": -76.70861111,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/59/Hummelstown.jpg",
+            "description": "Hummelstown is a borough in Dauphin County, Pennsylvania, United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Hummelstown, Pennsylvania",
+                "wikipedia": "en:Hummelstown, Pennsylvania",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 23332,
+            "lat": 41,
+            "lon": -78,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Flag_of_Pennsylvania.svg/1280px-Flag_of_Pennsylvania.svg.png",
+            "description": "Pennsylvania, officially the Commonwealth of Pennsylvania, is a U.S. state located in the Mid-Atlantic, Northeastern, Appalachian, and Great Lakes regions of the United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Pennsylvania",
+                "wikipedia": "en:Pennsylvania",
+                "tourism": "attraction"
+            }
+        }
+    ]
+}

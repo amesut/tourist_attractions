@@ -1,0 +1,449 @@
+{
+    "city_metadata": {
+        "city_name": "Rockford",
+        "state_code": "IL",
+        "state_full": "Illinois",
+        "city_summary": "Rockford is a city in Winnebago and Ogle counties in the U.S. state of Illinois. It is located in far northern Illinois on the banks of the Rock River. It is the fifth-most populous city in Illinois, with a population of 148,655 at the 2020 census.",
+        "city_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/East_State_Street_in_downtown_Rockford.jpg/1280px-East_State_Street_in_downtown_Rockford.jpg",
+        "city_lat": 42.25944444,
+        "city_lon": -89.06444444,
+        "source": "wikipedia_verified_engine"
+    },
+    "attractions": [
+        {
+            "type": "node",
+            "id": 354155996,
+            "lat": 42.2448446,
+            "lon": -89.1122552,
+            "tags": {
+                "addr:city": "Rockford",
+                "addr:housenumber": "2715",
+                "addr:street": "S Main Street",
+                "ele": "233",
+                "fee": "yes",
+                "gnis:feature_id": "424307",
+                "leisure": "garden",
+                "name": "Klehm Arboretum & Botanic Gardens",
+                "opening_hours": "9:00-16:00",
+                "phone": "+1-815-965-8146",
+                "source": "http://www.klehm.org/wp-content/uploads/2012/06/2012-Trail-Guide-Map.pdf",
+                "tourism": "attraction",
+                "website": "https://klehm.org/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Klehm_Arboretum_%26_Botanic_Garden_Fall_Colors.jpg/1280px-Klehm_Arboretum_%26_Botanic_Garden_Fall_Colors.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 2944711116,
+            "lat": 42.2768889,
+            "lon": -89.0887325,
+            "tags": {
+                "addr:city": "Rockford",
+                "addr:housenumber": "711",
+                "addr:postcode": "61103",
+                "addr:state": "IL",
+                "addr:street": "North Main Street",
+                "fee": "yes",
+                "museum": "children",
+                "name": "Discovery Center Museum",
+                "opening_hours": "Tu-Su 09:30-14:30",
+                "phone": "+1-8159682787",
+                "tourism": "museum",
+                "website": "http://www.discoverycentermuseum.org/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/RockfordArmory.jpg/1280px-RockfordArmory.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 3056471715,
+            "lat": 42.3091251,
+            "lon": -89.0123022,
+            "tags": {
+                "name": "Labyrinth",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 4813101228,
+            "lat": 42.2998265,
+            "lon": -89.0243639,
+            "tags": {
+                "addr:city": "Rockford",
+                "addr:housenumber": "4646",
+                "addr:state": "IL",
+                "addr:street": "Spring Brook Road",
+                "name": "Frank Lloyd Wright's Laurent House",
+                "phone": "+1 815-877-2952",
+                "tourism": "attraction",
+                "website": "https://www.laurenthouse.com/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Kenneth_and_Phyllis_Laurent_House.JPG/1280px-Kenneth_and_Phyllis_Laurent_House.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 6219345308,
+            "lat": 42.2771267,
+            "lon": -89.0891792,
+            "tags": {
+                "addr:city": "Rockford",
+                "addr:country": "US",
+                "addr:housenumber": "711",
+                "addr:postcode": "61103",
+                "addr:state": "IL",
+                "addr:street": "North Main Street",
+                "contact:facebook": "https://facebook.com/rockfordartmuseum/",
+                "museum": "art",
+                "name": "Rockford Art Museum",
+                "phone": "+1-815-968-2787",
+                "tourism": "museum",
+                "website": "https://rockfordartmuseum.org/",
+                "wheelchair": "yes"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/RockfordArmory.jpg/1280px-RockfordArmory.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 12854280167,
+            "lat": 42.2692107,
+            "lon": -89.0962068,
+            "tags": {
+                "description": "A loving cat in a window. Folks visit Rockford from far and wide to visit ole Lenny.",
+                "name": "Lenny the Cat",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/William_Brown_Building.JPG/1280px-William_Brown_Building.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 111669855,
+            "lat": 42.2613269,
+            "lon": -89.0325164,
+            "tags": {
+                "addr:city": "Rockford",
+                "addr:country": "US",
+                "addr:housenumber": "4442",
+                "addr:postcode": "61108",
+                "addr:state": "IL",
+                "addr:street": "Larson Avenue",
+                "name": "Alpine Hills Adventure Park",
+                "tourism": "theme_park"
+            }
+        },
+        {
+            "type": "way",
+            "id": 187581794,
+            "lat": 42.2644698,
+            "lon": -89.102025,
+            "tags": {
+                "addr:city": "Rockford",
+                "addr:housenumber": "411",
+                "addr:postcode": "61102",
+                "addr:state": "IL",
+                "addr:street": "Kent Street",
+                "alt_name": "Tinker Swiss Cottage",
+                "building": "yes",
+                "ele": "226",
+                "fee": "yes",
+                "gnis:feature_id": "1829615",
+                "name": "Tinker Swiss Cottage & Gardens",
+                "opening_hours": "Tu-Su 13:00-15:00",
+                "phone": "+1-815-964-2424",
+                "source": "USGS Geonames",
+                "tourism": "museum",
+                "website": "http://www.tinkercottage.com",
+                "wheelchair": "no"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Tinker_Cottage.jpg/1280px-Tinker_Cottage.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 473090581,
+            "lat": 42.2804867,
+            "lon": -88.9845832,
+            "tags": {
+                "addr:city": "Rockford",
+                "addr:housenumber": "6799",
+                "addr:postcode": "61107",
+                "addr:state": "IL",
+                "addr:street": "Guilford Road",
+                "building": "public",
+                "building:use": "civic",
+                "cash_withdrawal": "ATM",
+                "museum_type": "municipal",
+                "name": "Midway Village Museum",
+                "opening_hours": "May-Aug Tu-Fr 10:00-16:00, May-Aug Sa,Su 10:30-16:00, May-Aug Mo off",
+                "phone": "+1 815-397-9112",
+                "toilets": "yes",
+                "toilets:access": "customers",
+                "toilets:wheelchair": "yes",
+                "tourism": "museum",
+                "website": "https://www.midwayvillage.com/",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "way",
+            "id": 489022475,
+            "lat": 42.2998226,
+            "lon": -89.0243481,
+            "tags": {
+                "addr:city": "Rockford",
+                "addr:housenumber": "4646",
+                "addr:postcode": "61114",
+                "addr:state": "IL",
+                "addr:street": "Spring Brook Road",
+                "building": "yes",
+                "description": "Wheelchair accessible house designed by Frank Lloyd Wright commissioned by Kenneth and Phyllis Laurent.",
+                "email": "info@laurenthouse.com",
+                "name": "Frank Lloyd Wright's Laurent House",
+                "opening_hours": "Fr-Sa 11:00-14:30, Su 12:30-16:00",
+                "operator": "Laurent House Foundation",
+                "phone": "+1-815-877-2952",
+                "tourism": "museum",
+                "website": "https://laurenthouse.com",
+                "wheelchair": "yes"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Kenneth_and_Phyllis_Laurent_House.JPG/1280px-Kenneth_and_Phyllis_Laurent_House.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 489035285,
+            "lat": 42.276817,
+            "lon": -89.0889061,
+            "tags": {
+                "building": "yes",
+                "museum": "children",
+                "name": "Riverfront Museum Park",
+                "operator": "Rockford Park District",
+                "operator:type": "public",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/RockfordArmory.jpg/1280px-RockfordArmory.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 489035288,
+            "lat": 42.2771736,
+            "lon": -89.0881668,
+            "tags": {
+                "building": "commercial",
+                "changing_table": "yes",
+                "museum": "nature",
+                "name": "Burpee Museum",
+                "toilets": "yes",
+                "toilets:access": "customers",
+                "toilets:wheelchair": "yes",
+                "tourism": "museum",
+                "wheelchair": "yes",
+                "wikidata": "Q5000284",
+                "wikipedia": "en:Burpee Museum of Natural History"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/RockfordArmory.jpg/1280px-RockfordArmory.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 826077290,
+            "lat": 42.2611061,
+            "lon": -89.10093,
+            "tags": {
+                "addr:city": "Rockford",
+                "addr:housenumber": "1129",
+                "addr:postcode": "61101",
+                "addr:state": "IL",
+                "addr:street": "South Main Street",
+                "building": "yes",
+                "museum": "history",
+                "name": "Ethnic Heritage Museum",
+                "phone": "+1 815-962-7402",
+                "tourism": "museum",
+                "website": "http://ethnicheritagemuseum.org/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Rockford_Il_Graham-Ginestra_House4.jpg/1280px-Rockford_Il_Graham-Ginestra_House4.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 829308995,
+            "lat": 45.0868555,
+            "lon": -93.7317814,
+            "tags": {
+                "building": "yes",
+                "heritage": "yes",
+                "name": "Ames–Florida-Stork House",
+                "tourism": "museum",
+                "wikidata": "Q470207",
+                "wikipedia": "en:Ames–Florida House"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Ames-Florida-Stork_House.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 1194714144,
+            "lat": 42.2640674,
+            "lon": -89.0886034,
+            "tags": {
+                "addr:city": "Rockford",
+                "addr:housenumber": "404",
+                "addr:postcode": "61104",
+                "addr:state": "IL",
+                "addr:street": "South 3rd Street",
+                "building": "yes",
+                "name": "Erlander Home Museum",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/326_South_Third_Street.JPG/1280px-326_South_Third_Street.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 6886,
+            "lat": 41.88194444,
+            "lon": -87.62777778,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Chicago_River_ferry_b.jpg/1280px-Chicago_River_ferry_b.jpg",
+            "description": "Chicago is the most populous city in the U.S. state of Illinois and in the Midwestern United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Chicago",
+                "wikipedia": "en:Chicago",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 57706,
+            "lat": 39.7975,
+            "lon": -89.645,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Dana-Thomas_House%2C_Lawrence_Avenue_and_4th_Street%2C_Springfield%2C_IL_-_53322374502.jpg/1280px-Dana-Thomas_House%2C_Lawrence_Avenue_and_4th_Street%2C_Springfield%2C_IL_-_53322374502.jpg",
+            "description": "Springfield is the capital city of the U.S. state of Illinois.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Springfield, Illinois",
+                "wikipedia": "en:Springfield, Illinois",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 111660,
+            "lat": 42.25083333,
+            "lon": -88.61388889,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Marengo_Illinois1.jpg/1280px-Marengo_Illinois1.jpg",
+            "description": "Marengo is a city in McHenry County, Illinois, United States on the Kishwaukee River.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Marengo, Illinois",
+                "wikipedia": "en:Marengo, Illinois",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 577356,
+            "lat": 40.1,
+            "lon": -88.25,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Champaign-Night.jpg",
+            "description": "The Champaign–Urbana metropolitan area, also known as Champaign–Urbana and Urbana–Champaign as well as Chambana (colloquially), is a metropolitan area in east-central Illinois.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Champaign–Urbana",
+                "wikipedia": "en:Champaign–Urbana",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 111430,
+            "lat": 41.36388889,
+            "lon": -89.10833333,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Downtown_La_Salle.jpg/1280px-Downtown_La_Salle.jpg",
+            "description": "La Salle or LaSalle is a city in LaSalle County, Illinois, United States, located at the intersection of Interstates 39 and 80.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "La Salle, Illinois",
+                "wikipedia": "en:La Salle, Illinois",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 14981335,
+            "lat": 43.67611111,
+            "lon": -89.84527778,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Dells_Raceway_Park_Panorama_2015_Falloween.jpg/1280px-Dells_Raceway_Park_Panorama_2015_Falloween.jpg",
+            "description": "Dells Raceway Park (DRP), formerly known as the Dells Motor Speedway, is a car racing raceway located in the town of Lyndon, in Juneau County, north of Wisconsin Dells, Wisconsin just off of U.S. Route 12/Wisconsin Highway 16.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Dells Raceway Park",
+                "wikipedia": "en:Dells Raceway Park",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 30713414,
+            "lat": 41.123,
+            "lon": -88.8245,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Streator_Station.jpg/1280px-Streator_Station.jpg",
+            "description": "Streator station was a train station located in Streator, Illinois, United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Streator station",
+                "wikipedia": "en:Streator station",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 13627586,
+            "lat": 43.17777778,
+            "lon": -89.21111111,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/MidgetCarsRacingAngellParkMay2010.jpg/1280px-MidgetCarsRacingAngellParkMay2010.jpg",
+            "description": "Angell Park Speedway is a 1/3 mile (0.54 km) dirt racetrack located in Sun Prairie, Wisconsin.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Angell Park Speedway",
+                "wikipedia": "en:Angell Park Speedway",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 96200,
+            "lat": 42.32,
+            "lon": -88.45,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/WoodstockILCourtHJail.JPG/1280px-WoodstockILCourtHJail.JPG",
+            "description": "McHenry County is located in the U.S. state of Illinois.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "McHenry County, Illinois",
+                "wikipedia": "en:McHenry County, Illinois",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 9055950,
+            "lat": 38.00694444,
+            "lon": -89.235,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Du_Quoin_State_Fairgrounds_entrance.jpg/1280px-Du_Quoin_State_Fairgrounds_entrance.jpg",
+            "description": "The Du Quoin State Fairgrounds are located in the  city of Du Quoin in Perry County, Illinois, United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Du Quoin State Fairgrounds",
+                "wikipedia": "en:Du Quoin State Fairgrounds",
+                "tourism": "attraction"
+            }
+        }
+    ]
+}

@@ -1,0 +1,635 @@
+{
+    "city_metadata": {
+        "city_name": "Lexington",
+        "state_code": "KY",
+        "state_full": "Kentucky",
+        "city_summary": "Lexington is a consolidated city coterminous with Fayette County, Kentucky, United States, of which it is also the county seat. As of the 2020 census the city's population was 322,570, making it the second-most populous city in Kentucky (after Louisville), the 14th-most populous city in the Southeast, and the 59th-most populous city in the United States. By area, it is the country's 33rd-largest city.",
+        "city_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/LexingtonDowntown.JPG/1280px-LexingtonDowntown.JPG",
+        "city_lat": 38.04638889,
+        "city_lon": -84.49694444,
+        "source": "wikipedia_verified_engine"
+    },
+    "attractions": [
+        {
+            "type": "node",
+            "id": 366492377,
+            "lat": 40.7811177,
+            "lon": -99.7309484,
+            "tags": {
+                "addr:city": "Lexington",
+                "addr:housenumber": "805",
+                "addr:postcode": "68850",
+                "addr:state": "NE",
+                "addr:street": "North Taft Street",
+                "gnis:feature_id": "1874932",
+                "import_uuid": "gnis.57871b70-0100-4405-bb30-88b2e001a944",
+                "name": "Dawson County Historical Museum",
+                "opening_hours": "Tu-Fr 10:00-17:00; Sa 10:00-16:00; PH off",
+                "phone": "+1 308 324 5340",
+                "source": "USGS Geonames",
+                "tourism": "museum",
+                "website": "http://dchsmuseum.com/"
+            }
+        },
+        {
+            "type": "node",
+            "id": 367781104,
+            "lat": 42.4535997,
+            "lon": -71.2285123,
+            "tags": {
+                "addr:housenumber": "36",
+                "addr:state": "MA",
+                "addr:street": "Hancock Street",
+                "ele": "69",
+                "gnis:feature_id": "1972806",
+                "name": "Hancock-Clarke House Museum",
+                "source": "USGS Geonames",
+                "tourism": "museum",
+                "website": "https://www.lexingtonhistory.org/hancock-clarke-house",
+                "wikidata": "Q5647018",
+                "wikipedia": "en:Hancock–Clarke House"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Hancock-Clarke_House_Lexington_Massachusetts.jpg/1280px-Hancock-Clarke_House_Lexington_Massachusetts.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 367811882,
+            "lat": 37.9711891,
+            "lon": -84.5374395,
+            "tags": {
+                "addr:state": "KY",
+                "ele": "315",
+                "gnis:feature_id": "506301",
+                "name": "Waveland Museum",
+                "source": "USGS Geonames",
+                "tourism": "museum",
+                "website": "https://parks.ky.gov/lexington/parks/historic/waveland-state-historic-site"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Waveland_spring.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 367996610,
+            "lat": 37.7900558,
+            "lon": -79.4358026,
+            "tags": {
+                "addr:door": "210",
+                "addr:postcode": "24450",
+                "addr:state": "VA",
+                "air_conditioning": "yes",
+                "check_date": "2025-01-17",
+                "ele": "312",
+                "gnis:feature_id": "1780319",
+                "internet_access": "wlan",
+                "internet_access:fee": "no",
+                "level": "1",
+                "museum": "military",
+                "name": "Virginia Military Institute Museum",
+                "opening_hours": "09:00-17:00",
+                "payment:cash": "yes",
+                "payment:credit_cards": "yes",
+                "payment:debit_cards": "yes",
+                "phone": "+1 540-464-7334",
+                "source": "USGS Geonames",
+                "toilets": "yes",
+                "toilets:wheelchair": "yes",
+                "tourism": "museum",
+                "website": "https://www.vmi.edu/museums-and-archives/vmi-museum/",
+                "wheelchair": "yes"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Virginia_military_institute_coat.svg/1280px-Virginia_military_institute_coat.svg.png",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 631720831,
+            "lat": 42.4408969,
+            "lon": -71.266212,
+            "tags": {
+                "name": "vernal pool",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 2685586376,
+            "lat": 38.0455462,
+            "lon": -84.4965018,
+            "tags": {
+                "addr:city": "Lexington",
+                "addr:housenumber": "140",
+                "addr:postcode": "40507",
+                "addr:street": "East Main Street",
+                "name": "Kentucky Room",
+                "operator": "Lexington Public Library",
+                "tourism": "museum",
+                "website": "https://www.lexpublib.org/page/kentucky-room"
+            }
+        },
+        {
+            "type": "node",
+            "id": 3899915444,
+            "lat": 42.4310996,
+            "lon": -71.2077399,
+            "tags": {
+                "name": "Bowman Tavern",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Follen_Church%2C_East_Lexington_MA.jpg/1280px-Follen_Church%2C_East_Lexington_MA.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 5737044859,
+            "lat": 38.0500707,
+            "lon": -84.4999962,
+            "tags": {
+                "addr:city": "Lexington",
+                "addr:housenumber": "440",
+                "addr:postcode": "40507",
+                "addr:state": "KY",
+                "addr:street": "West Short Street",
+                "name": "Lexington Children's Museum",
+                "old_name": "Explorium of Lexington",
+                "opening_hours": "Mo-Sa 10:00-17:00; Su 13:00-17:00",
+                "tourism": "museum",
+                "website": "https://lexingtonchildrensmuseum.org/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Lexington_Opera_House_%281%29.jpg/1280px-Lexington_Opera_House_%281%29.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 5934936892,
+            "lat": 40.6456067,
+            "lon": -88.7832096,
+            "tags": {
+                "addr:city": "Lexington",
+                "addr:state": "IL",
+                "addr:street": "Parade Road",
+                "name": "Memory Lane",
+                "opening_hours": "24/7",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/McLean_County_Illinois_Incorporated_and_Unincorporated_areas_Lexington_Highlighted.svg/1280px-McLean_County_Illinois_Incorporated_and_Unincorporated_areas_Lexington_Highlighted.svg.png",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 6653648234,
+            "lat": 37.9948369,
+            "lon": -84.5236179,
+            "tags": {
+                "description": "Voted one of the best comedy shows in the country. ",
+                "name": "Comedy Off Broadway",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/The_Mall_at_Lexington_Green_%289763395986%29.jpg/1280px-The_Mall_at_Lexington_Green_%289763395986%29.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 6653648235,
+            "lat": 37.9950949,
+            "lon": -84.5238627,
+            "tags": {
+                "description": "Summer (May-September) nights (Friday & Saturday, 7-10 pm). Local bands. Free music festival.",
+                "name": "LakeSide LIve Summer Music Festival",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/The_Mall_at_Lexington_Green_%289763395986%29.jpg/1280px-The_Mall_at_Lexington_Green_%289763395986%29.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 9569562256,
+            "lat": 42.4413305,
+            "lon": -71.2163675,
+            "tags": {
+                "addr:city": "Lexington",
+                "addr:housenumber": "1332",
+                "addr:state": "MA",
+                "addr:street": "Massachusetts Avenue",
+                "museum": "history",
+                "name": "Munroe Tavern",
+                "operator": "Lexington Historical Society",
+                "operator:type": "private_non_profit",
+                "tourism": "museum",
+                "website": "https://www.lexingtonhistory.org/munroe-tavern",
+                "wikidata": "Q6936849"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Monroe_Tavern_Lexington_Massachusetts.jpg/1280px-Monroe_Tavern_Lexington_Massachusetts.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 10016685052,
+            "lat": 37.7805947,
+            "lon": -79.4453539,
+            "tags": {
+                "cemetery": "grave",
+                "description": "Statue of Stonewall Jackson by Edward V. Valentine, dedicated 1891, at gravesite",
+                "historic": "grave",
+                "name": "Thomas Jonathan “Stonewall” Jackson",
+                "subject:wikidata": "Q216124",
+                "subject:wikipedia": "en:Stonewall Jackson",
+                "tourism": "attraction",
+                "wikidata": "Q132860569"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Stonewall_Jackson_Monument%2C_Oak_Grove_Cemetery%2C_Lexington%2C_VA.jpg/1280px-Stonewall_Jackson_Monument%2C_Oak_Grove_Cemetery%2C_Lexington%2C_VA.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 10117821989,
+            "lat": 35.8240653,
+            "lon": -80.2537621,
+            "tags": {
+                "addr:city": "Lexington",
+                "addr:housenumber": "2",
+                "addr:postcode": "27292",
+                "addr:state": "NC",
+                "addr:street": "South Main Street",
+                "museum": "history",
+                "name": "Davidson County Historical Museum",
+                "opening_hours": "Tu-Fr 10:00-16:00, Sa 10:00-15:00",
+                "phone": "+1-336-242-2035",
+                "tourism": "museum",
+                "website": "https://www.davidsoncountyhistoricalmuseum.com/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/31/Confederate_Monument_-_Lexington%2C_NC.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 10969794611,
+            "lat": 38.0578791,
+            "lon": -84.5045898,
+            "tags": {
+                "name": "Ockerman Globe Monument",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Central_Kentucky_Bluegrass_Seed.jpg/1280px-Central_Kentucky_Bluegrass_Seed.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 12247157882,
+            "lat": 37.7843587,
+            "lon": -79.4411345,
+            "tags": {
+                "addr:housenumber": "101",
+                "addr:street": "East Washington Street",
+                "name": "Rockbridge Historical Society",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Stonewall_Jackson_House.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 24024480,
+            "lat": 38.0330115,
+            "lon": -84.5987631,
+            "tags": {
+                "addr:housenumber": "4029",
+                "addr:street": "Airport Road",
+                "aeroway": "hangar",
+                "building": "hangar",
+                "museum": "aviation",
+                "name": "Aviation Museum of Kentucky",
+                "tourism": "museum",
+                "wikidata": "Q4828652",
+                "wikipedia": "en:Aviation Museum of Kentucky"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/55/Aviation_Museum_of_Kentucky_at_Sunset.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 39712779,
+            "lat": 42.4493002,
+            "lon": -71.2297071,
+            "tags": {
+                "addr:city": "Lexington",
+                "addr:housenumber": "1",
+                "addr:state": "MA",
+                "addr:street": "Bedford Street",
+                "building": "yes",
+                "fee": "yes",
+                "museum": "history",
+                "name": "Buckman Tavern",
+                "operator": "Lexington Historical Society",
+                "operator:type": "public",
+                "tourism": "museum",
+                "wheelchair": "yes",
+                "wikidata": "Q4983405"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Buckman_Tavern%2C_Lexington%2C_Massachusetts.JPG/1280px-Buckman_Tavern%2C_Lexington%2C_Massachusetts.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 39942383,
+            "lat": 42.4367552,
+            "lon": -71.2142034,
+            "tags": {
+                "addr:housenumber": "33",
+                "addr:street": "Marrett Road",
+                "alt_name": "Museum of Our National Heritage",
+                "building": "yes",
+                "historic": "yes",
+                "man_made": "water_well",
+                "name": "Scottish Rite Masonic Museum & Library",
+                "short_name": "National Heritage Museum",
+                "tourism": "museum",
+                "website": "www.monh.org",
+                "wheelchair": "yes",
+                "wikidata": "Q6973053",
+                "wikipedia": "en:Scottish Rite Masonic Museum & Library"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/National_Heritage_Museum%2C_Lexington_MA.jpg/1280px-National_Heritage_Museum%2C_Lexington_MA.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 161003179,
+            "lat": 38.0477592,
+            "lon": -84.4977433,
+            "tags": {
+                "building": "yes",
+                "name": "Lexington History Museum",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Old_Fayette_County_Courthouse_%283%29.jpg/1280px-Old_Fayette_County_Courthouse_%283%29.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 166760884,
+            "lat": 38.051257,
+            "lon": -84.5027965,
+            "tags": {
+                "building": "house",
+                "name": "Mary Todd Lincoln House",
+                "tourism": "attraction",
+                "wikidata": "Q6780840",
+                "wikipedia": "en:Mary Todd Lincoln House"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Mary_Todd_Lincoln_House%2C_Lexington_Kentucky_3.jpg/1280px-Mary_Todd_Lincoln_House%2C_Lexington_Kentucky_3.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 249237868,
+            "lat": 37.7902807,
+            "lon": -79.4403013,
+            "tags": {
+                "addr:housenumber": "340",
+                "addr:state": "VA",
+                "amenity": "library",
+                "building": "yes",
+                "ele": "318",
+                "gnis:feature_id": "1780286",
+                "name": "George C Marshall Research Foundation Library",
+                "operator": "Virginia Military Institute",
+                "operator:type": "university",
+                "source": "USGS Geonames",
+                "tourism": "museum",
+                "website": "https://library.marshallfoundation.org/Portal/Default/en-US/Search/SimpleSearch",
+                "wikidata": "Q5537560"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Virginia_military_institute_coat.svg/1280px-Virginia_military_institute_coat.svg.png",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 257725982,
+            "lat": 38.0360222,
+            "lon": -84.5144839,
+            "tags": {
+                "access": "private",
+                "addr:housenumber": "1020",
+                "addr:postcode": "40504",
+                "addr:street": "Export Street",
+                "building": "yes",
+                "building:levels": "1",
+                "name": "William S. Webb Museum of Anthropology",
+                "tourism": "museum"
+            }
+        },
+        {
+            "type": "way",
+            "id": 262910237,
+            "lat": 38.0487684,
+            "lon": -84.4886303,
+            "tags": {
+                "addr:city": "Lexington",
+                "addr:housename": "The Kinkead House",
+                "addr:housenumber": "362",
+                "addr:postcode": "40508",
+                "addr:state": "KY",
+                "addr:street": "North Martin Luther King Boulevard",
+                "building": "yes",
+                "name": "Living Arts and Science Center",
+                "tourism": "museum",
+                "website": "https://lasclex.org/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Kinkead_House.jpg/1280px-Kinkead_House.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 335142054,
+            "lat": 35.8240658,
+            "lon": -80.2537601,
+            "tags": {
+                "addr:city": "Lexington",
+                "addr:housenumber": "2",
+                "addr:postcode": "27292",
+                "addr:state": "NC",
+                "addr:street": "South Main Street",
+                "building": "yes",
+                "building:levels": "2",
+                "ele": "262",
+                "gnis:feature_id": "1954392",
+                "name": "Old Davidson County Courthouse",
+                "source": "USGS Geonames",
+                "tourism": "attraction",
+                "wikidata": "Q7083832"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Old_Davidson_County_Courthouse_1.png/1280px-Old_Davidson_County_Courthouse_1.png",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 369103692,
+            "lat": 33.9874566,
+            "lon": -81.2395658,
+            "tags": {
+                "addr:city": "Lexington",
+                "addr:housenumber": "231",
+                "addr:postcode": "29072",
+                "addr:state": "SC",
+                "addr:street": "Fox Street",
+                "fee": "yes",
+                "museum": "open_air",
+                "name": "Lexington County Museum",
+                "opening_hours": "url=http://lexingtoncountymuseum.org/plan-your-visit/",
+                "phone": "+1-803-359-8369",
+                "tourism": "museum",
+                "website": "http://lexingtoncountymuseum.org/",
+                "wikidata": "Q6537809",
+                "wikipedia": "en:Lexington County Museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/67/John_Fox_House%2C_Lexington%2C_SC.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 383926173,
+            "lat": 37.7848409,
+            "lon": -79.4414048,
+            "tags": {
+                "addr:state": "VA",
+                "building": "yes",
+                "ele": "318",
+                "gnis:feature_id": "1780364",
+                "name": "Stonewall Jackson House",
+                "source": "USGS Geonames",
+                "tourism": "museum",
+                "wikidata": "Q7619367",
+                "wikipedia": "en:Stonewall Jackson House"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Stonewall_Jackson_House.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 401895000,
+            "lat": 38.0965709,
+            "lon": -84.6105207,
+            "tags": {
+                "addr:city": "Lexington",
+                "addr:housenumber": "4435",
+                "addr:postcode": "40510",
+                "addr:state": "KY",
+                "addr:street": "Old Frankfort Pike",
+                "building": "yes",
+                "fee": "yes",
+                "name": "Headley-Whitney Museum",
+                "opening_hours": "Apr 08-Jun 18 Fr-Su 10:00-16:00",
+                "seasonal": "yes",
+                "tourism": "museum",
+                "website": "https://www.headley-whitney.org/"
+            }
+        },
+        {
+            "type": "way",
+            "id": 456232380,
+            "lat": 40.678205,
+            "lon": -82.5760514,
+            "tags": {
+                "addr:city": "Lexington",
+                "addr:housenumber": "176",
+                "addr:postcode": "44904",
+                "addr:state": "OH",
+                "addr:street": "East Main Street",
+                "name": "The Infield",
+                "tourism": "theme_park"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Lexington_Ohio.jpg/1280px-Lexington_Ohio.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 510285313,
+            "lat": 40.6776835,
+            "lon": -82.5849118,
+            "tags": {
+                "addr:city": "Lexington",
+                "addr:housenumber": "51",
+                "addr:postcode": "44904",
+                "addr:state": "OH",
+                "addr:street": "West Church Street",
+                "building": "yes",
+                "heritage": "2",
+                "heritage:operator": "nrhp",
+                "historic": "school",
+                "museum": "local",
+                "name": "Richland County Museum",
+                "opening_hours": "May-Oct: Su 13:30-16:30",
+                "phone": "+1-419-884-3260",
+                "ref:nrhp": "79001929",
+                "tourism": "museum",
+                "website": "http://www.richlandcountymuseum.org",
+                "wikidata": "Q5452830",
+                "wikipedia": "en:First Congregational Church and Lexington School"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/First_Congregational_Church_Lexington_Ohio.jpg/1280px-First_Congregational_Church_Lexington_Ohio.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 625807689,
+            "lat": 38.1497636,
+            "lon": -84.5177996,
+            "tags": {
+                "building": "yes",
+                "name": "American Saddlebred Museum",
+                "tourism": "museum"
+            }
+        },
+        {
+            "type": "way",
+            "id": 686691959,
+            "lat": 38.1508059,
+            "lon": -84.5200926,
+            "tags": {
+                "addr:city": "Lexington",
+                "addr:housenumber": "4089",
+                "addr:postcode": "40511",
+                "addr:state": "KY",
+                "addr:street": "Iron Works Parkway",
+                "building": "yes",
+                "name": "International Museum of the Horse",
+                "tourism": "museum"
+            }
+        },
+        {
+            "type": "way",
+            "id": 827415602,
+            "lat": 35.6505117,
+            "lon": -88.3942871,
+            "tags": {
+                "building": "yes",
+                "name": "Beech River Heritage Museum",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Thompsie_Edwards_House.jpg/1280px-Thompsie_Edwards_House.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 998663105,
+            "lat": 40.6481494,
+            "lon": -88.7802137,
+            "tags": {
+                "building": "cabin",
+                "heritage": "2",
+                "heritage:operator": "nrhp",
+                "heritage:ref": "86002008",
+                "historic": "heritage",
+                "museum": "local_history",
+                "name": "John Patton Log Cabin",
+                "ref:nrhp": "86002008",
+                "tourism": "museum",
+                "wikidata": "Q6252158"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Lexington_Il_John_Patton_Log_Cabin2.JPG/1280px-Lexington_Il_John_Patton_Log_Cabin2.JPG",
+            "image_source": "wikipedia_verified"
+        }
+    ]
+}

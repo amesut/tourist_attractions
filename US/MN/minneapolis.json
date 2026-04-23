@@ -1,0 +1,486 @@
+{
+    "city_metadata": {
+        "city_name": "Minneapolis",
+        "state_code": "MN",
+        "state_full": "Minnesota",
+        "city_summary": "Minneapolis is a city in Hennepin County, Minnesota, United States, and its county seat. With a population of 429,954 as of the 2020 census, it is the state's most populous city. Located in the state's center near the eastern border, it occupies both banks of the Upper Mississippi River and adjoins Saint Paul, the state capital of Minnesota.",
+        "city_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Minneapolis_Skyline_looking_south.jpg/1280px-Minneapolis_Skyline_looking_south.jpg",
+        "city_lat": 44.98194444,
+        "city_lon": -93.26916667,
+        "source": "wikipedia_verified_engine"
+    },
+    "attractions": [
+        {
+            "type": "node",
+            "id": 1781956452,
+            "lat": 44.974564,
+            "lon": -93.2715651,
+            "tags": {
+                "name": "Foshay Museum and Observation Deck",
+                "phone": "+1-651-556-8465",
+                "tourism": "museum",
+                "website": "https://www.exploreminnesota.com/profile/foshay-museum-observation-deck/3510"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Foshay_elevator_doors-Minneapolis-20050927.jpg/1280px-Foshay_elevator_doors-Minneapolis-20050927.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 6781878128,
+            "lat": 44.9751576,
+            "lon": -93.2275652,
+            "tags": {
+                "level": "0",
+                "name": "Heritage Gallery",
+                "tourism": "museum",
+                "website": "https://mac-events.org/about/heritagegallery.html"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/McNamara_Alumni_Center_20.jpg/1280px-McNamara_Alumni_Center_20.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 7838137944,
+            "lat": 44.9913663,
+            "lon": -93.3080623,
+            "tags": {
+                "addr:housenumber": "1256",
+                "addr:postcode": "55411",
+                "addr:street": "North Penn Avenue",
+                "name": "Minnesota African American Heritage Museum",
+                "tourism": "museum",
+                "website": "https://www.maahmg.org/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Release_the_Tapes_-_Jamar_Clark_-_MPD_Federation%2C_Black_Lives_Matter_Minneapolis_%2823404779002%29.jpg/1280px-Release_the_Tapes_-_Jamar_Clark_-_MPD_Federation%2C_Black_Lives_Matter_Minneapolis_%2823404779002%29.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 12497460787,
+            "lat": 44.9725565,
+            "lon": -93.2419681,
+            "tags": {
+                "description": "A tree that students of the University of Minnesota throw their shoes onto. The reason is not known and may vary from person to person.",
+                "name": "Shoe Tree",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Shoe_Tree_at_University_of_Minnesota_Twin_Cities_Campus%2C_West_Bank_%2818222498566%29.jpg/1280px-Shoe_Tree_at_University_of_Minnesota_Twin_Cities_Campus%2C_West_Bank_%2818222498566%29.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 35091113,
+            "lat": 44.9730914,
+            "lon": -93.2370397,
+            "tags": {
+                "addr:city": "Minneapolis",
+                "addr:country": "US",
+                "addr:housenumber": "333",
+                "addr:postcode": "55455",
+                "addr:state": "MN",
+                "addr:street": "East River Parkway",
+                "building": "yes",
+                "name": "Weisman Art Museum",
+                "name:en": "Weisman Art Museum",
+                "name:etymology:wikidata": "Q76524554",
+                "name:zh": "维斯曼艺术博物馆",
+                "opening_hours": "Tu,Th,Fr 10:00-17:00; We 10:00-20:00; Sa,Su 11:00-17:00",
+                "operator": "University of Minnesota",
+                "short_name": "WeismanArt",
+                "source": "UMN Final Data.xlsx 2014-03-07",
+                "start_date": "1992",
+                "tourism": "museum",
+                "umn:BuildingCenterXYLatitude": "44.973048",
+                "umn:BuildingCenterXYLongitude": "-93.237189",
+                "umn:BuildingNumber": "172",
+                "umn:CampusNumber": "1",
+                "website": "http://weisman.umn.edu",
+                "wheelchair": "yes",
+                "wikidata": "Q1431431",
+                "wikipedia": "en:Weisman Art Museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Frederick_R._Weisman_Art_Museum.jpg/1280px-Frederick_R._Weisman_Art_Museum.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 38898412,
+            "lat": 44.9584418,
+            "lon": -93.2741626,
+            "tags": {
+                "addr:city": "Minneapolis",
+                "addr:housenumber": "2400",
+                "addr:postcode": "55404",
+                "addr:state": "MN",
+                "addr:street": "3rd Avenue South",
+                "building": "yes",
+                "name": "Minneapolis Institute of Art",
+                "old_name": "Minneapolis Institute of Arts",
+                "opening_hours": "PH Tu-Su open \"except Christmas eve, Christmas, 4th of July, and Thanksgiving\"; Tu-Sa 10:00-17:00; Th-Fr 10:00-21:00; Su 11:00-17:00; Jul 04 closed; Dec 24,25 closed; Nov Th[4] closed \"US Thanksgiving\"",
+                "short_name": "Mia",
+                "tourism": "museum",
+                "website": "https://new.artsmia.org",
+                "wheelchair": "yes",
+                "wikidata": "Q1700481",
+                "wikipedia": "en:Minneapolis Institute of Art"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Mia_minneapolis_logo.svg/1280px-Mia_minneapolis_logo.svg.png",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 42823671,
+            "lat": 44.9705318,
+            "lon": -93.2823533,
+            "tags": {
+                "amenity": "fountain",
+                "name": "Berger Fountain",
+                "tourism": "attraction",
+                "wheelchair": "yes",
+                "wikidata": "Q109539004"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/MinneapolisLoringParkNeighborhood.PNG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 45530842,
+            "lat": 44.9680333,
+            "lon": -93.28869,
+            "tags": {
+                "addr:city": "Minneapolis",
+                "addr:housename": "Walker Art Center",
+                "addr:housenumber": "1750",
+                "addr:postcode": "55403",
+                "addr:state": "MN",
+                "addr:street": "Hennepin Avenue South",
+                "building": "yes",
+                "fee": "yes",
+                "gnis:feature_id": "2478069",
+                "museum": "art",
+                "name": "Walker Art Center",
+                "name:etymology:wikidata": "Q7668159",
+                "opening_hours": "Tu,We,Su 11:00-17:00; Fr,Sa 11:00-18:00; Th 11:00-21:00",
+                "phone": "+1 612 375 7600",
+                "tourism": "museum",
+                "website": "https://walkerart.org/",
+                "wheelchair": "yes",
+                "wikidata": "Q1851516",
+                "wikipedia": "en:Walker Art Center"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Walker_Art_Center_03.jpg/1280px-Walker_Art_Center_03.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 83576376,
+            "lat": 44.9034537,
+            "lon": -93.2759535,
+            "tags": {
+                "addr:city": "Minneapolis",
+                "addr:housenumber": "5500",
+                "addr:postcode": "55419",
+                "addr:state": "MN",
+                "addr:street": "Stevens Avenue South",
+                "building": "yes",
+                "name": "The Museum of Russian Art",
+                "phone": "+1-612-821-9045",
+                "tourism": "museum",
+                "website": "https://tmora.org/",
+                "wheelchair": "yes",
+                "wikidata": "Q14693087",
+                "wikipedia": "en:The Museum of Russian Art"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Museum_of_Russian_Art.jpg/1280px-Museum_of_Russian_Art.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 88424520,
+            "lat": 44.9276904,
+            "lon": -93.3094483,
+            "tags": {
+                "addr:city": "Minneapolis",
+                "addr:housenumber": "4200",
+                "addr:postcode": "55410",
+                "addr:state": "MN",
+                "addr:street": "Queen Avenue South",
+                "building": "yes",
+                "contact:website": "https://trolleyride.org/como-harriet-streetcar/",
+                "name": "Como-Harriet Streetcar Line Depot",
+                "operator": "Minnesota Streetcar Museum",
+                "public_transport": "station",
+                "tourism": "museum",
+                "tram": "yes",
+                "website": "https://www.trolleyride.org/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Minnesota_Streetcar_Museum-logo.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 89080686,
+            "lat": 44.9854777,
+            "lon": -93.2685201,
+            "tags": {
+                "addr:city": "Minneapolis",
+                "addr:housenumber": "126",
+                "addr:postcode": "55401",
+                "addr:state": "MN",
+                "addr:street": "North 1st Street",
+                "building": "yes",
+                "museum": "history",
+                "name": "James J. Fiorentino Museum",
+                "opening_hours": "Tu-Th 09:00-15:00 \"by appointment\"; PH off",
+                "phone": "+1 612-288-9310",
+                "tourism": "museum",
+                "website": "https://www.clocksandstuff.org/",
+                "wikidata": "Q125202778",
+                "wikipedia": "en:James J. Fiorentino Museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/James_J._Fiorentino_Museum_1.jpg/1280px-James_J._Fiorentino_Museum_1.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 101470446,
+            "lat": 44.9139092,
+            "lon": -93.2097476,
+            "tags": {
+                "addr:city": "Minneapolis",
+                "addr:housename": "4901",
+                "addr:street": "South Minnehaha Park Drive",
+                "building": "yes",
+                "name": "John H. Stevens House Museum",
+                "operator": "Minneapolis Park and Recreeation Board",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/ad/John_H._Stevens_House.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 101470447,
+            "lat": 44.9141712,
+            "lon": -93.211325,
+            "tags": {
+                "addr:housenumber": "4900",
+                "addr:street": "South Minnehaha Park Drive",
+                "alt_name": "Princess Depot",
+                "building": "yes",
+                "name": "Minnehaha Depot",
+                "operator": "Minnesota Transportation Museum",
+                "owner": "Minnesota Historical Society",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/ad/John_H._Stevens_House.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 113737594,
+            "lat": 44.9557456,
+            "lon": -93.2743841,
+            "tags": {
+                "name": "MCAD Sculpture Garden",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "way",
+            "id": 135342667,
+            "lat": 44.9592541,
+            "lon": -93.3008746,
+            "tags": {
+                "addr:city": "Minneapolis",
+                "addr:housenumber": "2328",
+                "addr:postcode": "55405",
+                "addr:state": "MN",
+                "addr:street": "Lake Place",
+                "building": "house",
+                "heritage": "2",
+                "heritage:operator": "nrhp",
+                "name": "Purcell-Cutts House",
+                "old_name": "Edna S. Purcell House",
+                "operator": "Minneapolis Institute of Art",
+                "ref:nrhp": "74001024",
+                "start_date": "1914",
+                "tourism": "museum",
+                "wikidata": "Q5340092",
+                "wikipedia": "en:Edna S. Purcell House"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Purcell_and_Elmslie_Purcell-Cutts_House_MIA_9092.jpg/1280px-Purcell_and_Elmslie_Purcell-Cutts_House_MIA_9092.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 141016872,
+            "lat": 44.9338401,
+            "lon": -93.235604,
+            "tags": {
+                "addr:housenumber": "2501",
+                "addr:postcode": "55406",
+                "addr:street": "East 38th Street",
+                "building": "yes",
+                "check_date:opening_hours": "2023-05-03",
+                "fee": "yes",
+                "museum": "railway",
+                "name": "Hennepin Overland Railway Historical Society",
+                "opening_hours": "Sep-Apr Sa,Su 13:00-16:00; May-Aug off",
+                "tourism": "museum",
+                "website": "https://hennepinoverland.org/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/0b/MinneapolisStandishNeighborhood.PNG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 146154936,
+            "lat": 44.9159821,
+            "lon": -93.2138006,
+            "tags": {
+                "building": "yes",
+                "name": "Longfellow House",
+                "tourism": "museum",
+                "wikidata": "Q6673788"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Longfellow_House.jpg/1280px-Longfellow_House.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 157035918,
+            "lat": 44.9788084,
+            "lon": -93.2571937,
+            "tags": {
+                "addr:city": "Minneapolis",
+                "addr:housenumber": "704",
+                "addr:postcode": "55401",
+                "addr:state": "MN",
+                "addr:street": "South 2nd Street",
+                "building": "yes",
+                "check_date:opening_hours": "2023-04-20",
+                "email": "mcm@mnhs.org",
+                "fee": "yes",
+                "name": "Mill City Museum",
+                "opening_hours": "Th,Fr 10:00-16:00; Sa,Su 10:00-17:00",
+                "phone": "+1 612 341 7555",
+                "tourism": "museum",
+                "website": "https://www.mnhs.org/millcity",
+                "wheelchair": "yes"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/de/Great_Mill_Disaster_Illustration.png",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 169392318,
+            "lat": 45.0096135,
+            "lon": -93.2545423,
+            "tags": {
+                "addr:city": "Minneapolis",
+                "addr:housenumber": "664",
+                "addr:postcode": "55418",
+                "addr:street": "22nd Avenue Northeast",
+                "building": "yes",
+                "name": "Firefighters Hall and Museum",
+                "opening_hours": "Sa 09:00-16:00",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Edison_High_School%2C_Minneapolis.jpg/1280px-Edison_High_School%2C_Minneapolis.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 208807807,
+            "lat": 44.9601435,
+            "lon": -93.2723694,
+            "tags": {
+                "building": "yes",
+                "fee": "donation",
+                "name": "Hennepin History Museum",
+                "opening_hours:url": "https://www.vbsurfrescuemuseum.org/visit-us",
+                "tourism": "museum",
+                "website": "https://www.vbsurfrescuemuseum.org/",
+                "wikidata": "Q14692640"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Hennepin_History_Museum.jpg/1280px-Hennepin_History_Museum.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 240330302,
+            "lat": 44.9382384,
+            "lon": -93.321124,
+            "tags": {
+                "addr:city": "Minneapolis",
+                "addr:postcode": "55416",
+                "addr:state": "MN",
+                "addr:street": "Zenith Avenue South",
+                "building": "yes",
+                "fee": "yes",
+                "fee:conditional": "no @ age < 3",
+                "museum": "science",
+                "name": "The Bakken Museum",
+                "opening_hours:url": "https://thebakken.org/visit",
+                "tourism": "museum",
+                "website": "https://thebakken.org/",
+                "wheelchair": "yes",
+                "wikidata": "Q7715370"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/db/The_Bakken_Museum_-_Medicinal_Garden_View.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 643677189,
+            "lat": 39.1211205,
+            "lon": -97.708546,
+            "tags": {
+                "building": "yes",
+                "name": "Ottawa County Museum",
+                "tourism": "museum"
+            }
+        },
+        {
+            "type": "way",
+            "id": 899091185,
+            "lat": 44.9734257,
+            "lon": -93.2599802,
+            "tags": {
+                "name": "Legacy Ship",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/051207-MPLS-006Metrodome-crop.jpg/1280px-051207-MPLS-006Metrodome-crop.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 102607,
+            "lat": 44.95,
+            "lon": -93.2,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Minneapolis_Skyline_looking_south.jpg/1280px-Minneapolis_Skyline_looking_south.jpg",
+            "description": "Minneapolis–Saint Paul is a metropolitan area in the Upper Midwestern United States centered around the confluence of the Mississippi, Minnesota, and St.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Minneapolis–Saint Paul",
+                "wikipedia": "en:Minneapolis–Saint Paul",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 6790818,
+            "lat": 44.94138889,
+            "lon": -93.21583333,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/61/MinneapolisLongfellowCommunity.PNG",
+            "description": "Longfellow, also referred to as Greater Longfellow, is a defined community in Minneapolis, Minnesota which includes five smaller neighborhoods inside of it: Seward, Cooper, Hiawatha, Howe and Longfellow.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Longfellow, Minneapolis",
+                "wikipedia": "en:Longfellow, Minneapolis",
+                "tourism": "attraction"
+            }
+        }
+    ]
+}

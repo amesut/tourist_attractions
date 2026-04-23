@@ -1,0 +1,385 @@
+{
+    "city_metadata": {
+        "city_name": "Carmel",
+        "state_code": "IN",
+        "state_full": "Indiana",
+        "city_summary": "Carmel () is a suburban city in Hamilton County, Indiana, United States, immediately north of Indianapolis. With a population of 99,757 as of the 2020 census, the city spans 49 square miles (130 km2) across Clay Township and is bordered by the White River to the east and the Boone County line to the west.\nCarmel was home to one of the first electronic automated traffic signals in the country, and constructed 155 roundabouts between 1997 and 2025.",
+        "city_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/The_Palladium.jpg/1280px-The_Palladium.jpg",
+        "city_lat": 39.96805556,
+        "city_lon": -86.1125,
+        "source": "wikipedia_verified_engine"
+    },
+    "attractions": [
+        {
+            "type": "node",
+            "id": 5141550139,
+            "lat": 39.9624556,
+            "lon": -86.1531261,
+            "tags": {
+                "addr:housenumber": "11819",
+                "addr:street": "North Pennsylvania Street",
+                "name": "Allegion",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Carmel_Clay_Public_Library.jpg/1280px-Carmel_Clay_Public_Library.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 195606984,
+            "lat": 39.978222,
+            "lon": -86.1256469,
+            "tags": {
+                "addr:city": "Carbmel",
+                "addr:housenumber": "111",
+                "addr:postcode": "46032",
+                "addr:state": "IN",
+                "addr:street": "East Main Street",
+                "building": "retail",
+                "email": "info@museumofminiatures.org",
+                "fee": "yes",
+                "name": "Museum of Miniature Houses and Other Collections",
+                "opening_hours": "We-Sa 11:00-16:00; Su 13:00-16:00",
+                "phone": "+1-317-575-9466",
+                "tourism": "museum",
+                "website": "https://www.museumofminiatures.org/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/da/Carmel_Clay_Public_Library_2023.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 551698631,
+            "lat": 39.9770602,
+            "lon": -86.1300999,
+            "tags": {
+                "addr:city": "Carmel",
+                "addr:housenumber": "211",
+                "addr:postcode": "46032",
+                "addr:state": "IN",
+                "addr:street": "1st Street Southwest",
+                "building": "yes",
+                "name": "Carmel Clay History Museum",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Carmel_Monon_Depot.jpg/1280px-Carmel_Monon_Depot.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 1025377903,
+            "lat": 39.976636,
+            "lon": -86.1287199,
+            "tags": {
+                "addr:city": "Carmel",
+                "addr:housenumber": "210",
+                "addr:postcode": "46032",
+                "addr:state": "IN",
+                "addr:street": "1st Street Southwest",
+                "building": "yes",
+                "name": "Carmel Fire Buffs and Museum",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Carmel_Monon_Depot.jpg/1280px-Carmel_Monon_Depot.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 1185621940,
+            "lat": 39.9439266,
+            "lon": -86.1456472,
+            "tags": {
+                "addr:city": "Indianapolis",
+                "addr:housenumber": "10801",
+                "addr:postcode": "46280",
+                "addr:state": "IN",
+                "addr:street": "College Avenue",
+                "building": "yes",
+                "name": "Clay Township Museum & Library",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/8d/HomePlace99thCollege.png",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 107769,
+            "lat": 36.55527778,
+            "lon": -121.92333333,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Carmel_Mission_Church.jpg/1280px-Carmel_Mission_Church.jpg",
+            "description": "Carmel-by-the-Sea (), commonly known simply as Carmel, is a city in Monterey County, California, located on the Central Coast of California.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Carmel-by-the-Sea, California",
+                "wikipedia": "en:Carmel-by-the-Sea, California",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 112297,
+            "lat": 39.96805556,
+            "lon": -86.1125,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/The_Palladium.jpg/1280px-The_Palladium.jpg",
+            "description": "Carmel () is a suburban city in Hamilton County, Indiana, United States, immediately north of Indianapolis.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Carmel, Indiana",
+                "wikipedia": "en:Carmel, Indiana",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 2247080,
+            "lat": 18.41666667,
+            "lon": -95.11666667,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Catemaco_Shore.jpg",
+            "description": "Catemaco (Spanish: [kate'mako] ) is a city in the south of the Mexican state of Veracruz.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Catemaco",
+                "wikipedia": "en:Catemaco",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 1979109,
+            "lat": 36.47722222,
+            "lon": -121.73944444,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Carmel_Valley_-_panoramio.jpg/1280px-Carmel_Valley_-_panoramio.jpg",
+            "description": "Carmel Valley is an unincorporated community in Monterey County, California, United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Carmel Valley, California",
+                "wikipedia": "en:Carmel Valley, California",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 487181,
+            "lat": 36.584839,
+            "lon": -121.9651,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/17-mile_drive_1.jpg/1280px-17-mile_drive_1.jpg",
+            "description": "17-Mile Drive is a scenic road through Pebble Beach and Pacific Grove on the Monterey Peninsula in California, much of which hugs the Pacific coastline and passes famous golf courses, mansions and scenic attractions, including the Lone Cypress, Bird Rock and the 5,300-acre (2,100 ha) Del Monte Forest of Monterey Cypress trees.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "17-Mile Drive",
+                "wikipedia": "en:17-Mile Drive",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 59605,
+            "lat": 36.54277778,
+            "lon": -121.91916667,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/16_21_0440_carmel_mission_%28cropped%29_%28cropped%29.jpg/1280px-16_21_0440_carmel_mission_%28cropped%29_%28cropped%29.jpg",
+            "description": "Mission San Carlos Borromeo del Río Carmelo (English: The Mission of Saint Charles Borromeo of the Carmel River), first built in 1797, is one of the most authentically restored Catholic mission churches in California.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Mission San Carlos Borromeo de Carmelo",
+                "wikipedia": "en:Mission San Carlos Borromeo de Carmelo",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 47946,
+            "lat": 23.25988889,
+            "lon": 77.41261111,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Deewali_New_market.jpg/1280px-Deewali_New_market.jpg",
+            "description": "Bhopal (Hindi: Bhōpāl, pronounced [bʱoːpaːl] ) is the capital city of the Indian state of Madhya Pradesh and the administrative headquarters of both Bhopal district and Bhopal division.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Bhopal",
+                "wikipedia": "en:Bhopal",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 85423,
+            "lat": -12.06,
+            "lon": -77.0375,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Sanisidroskyscrapers.jpg/1280px-Sanisidroskyscrapers.jpg",
+            "description": "Lima is the capital and largest city of Peru, as well as a primate city.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Lima",
+                "wikipedia": "en:Lima",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 20689936,
+            "lat": 11.67295,
+            "lon": 75.93927,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Banasura_Sagar.Padinjarethara.3.jpg/1280px-Banasura_Sagar.Padinjarethara.3.jpg",
+            "description": "Padinjarathara is a major town in Wayanad district in the state of Kerala, India.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Padinjarathara",
+                "wikipedia": "en:Padinjarathara",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 6069646,
+            "lat": 36.5535,
+            "lon": -121.9168,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/49/Forest_Theater.jpg",
+            "description": "The Forest Theater is an outdoor amphitheater in Carmel-by-the-Sea, California.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Forest Theater",
+                "wikipedia": "en:Forest Theater",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 4443,
+            "lat": 41.38333333,
+            "lon": 2.18333333,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Aerial_view_of_Barcelona%2C_Spain_%2851227309370%29_edited.jpg/1280px-Aerial_view_of_Barcelona%2C_Spain_%2851227309370%29_edited.jpg",
+            "description": "Barcelona is a city on the northeastern coast of Spain.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Barcelona",
+                "wikipedia": "en:Barcelona",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 62604998,
+            "lat": 36.551294,
+            "lon": -121.921184,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Sunset_Center_-_Carmel-by-the-Sea%2C_Ca..jpg",
+            "description": "The Sunset Center is located in Carmel-by-the-Sea, California, United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Sunset Center",
+                "wikipedia": "en:Sunset Center",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 68888294,
+            "lat": 36.49444444,
+            "lon": -121.74694444,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Carmel_Valley_Road%E2%80%93Boronda_Road_Eucalyptus_Tree_Row.jpg",
+            "description": "Eucalyptus Tree Row, also known as Carmel Valley Road-Boronda Road Eucalyptus Tree Row,, is located on Boronda Road off Carmel Valley Road in Carmel Valley, California.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Carmel Valley Road-Boronda Road Eucalyptus Tree Row",
+                "wikipedia": "en:Carmel Valley Road-Boronda Road Eucalyptus Tree Row",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 56741807,
+            "lat": 36.51036761,
+            "lon": -121.5159507,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Monterey_County_G17.svg/1280px-Monterey_County_G17.svg.png",
+            "description": "The River Road Wine Trail is a Salinas Valley wine-tasting route following River Road (County Route G17) along the western banks of the  Salinas River.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "River Road Wine Trail",
+                "wikipedia": "en:River Road Wine Trail",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 98570,
+            "lat": 36.8,
+            "lon": -121.9,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Monterey_Bay_Map_%28smaller%29.png/1280px-Monterey_Bay_Map_%28smaller%29.png",
+            "description": "Monterey Bay is a bay of the Pacific Ocean located on the coast of the U.S. state of California, south of the San Francisco Bay Area.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Monterey Bay",
+                "wikipedia": "en:Monterey Bay",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 292425,
+            "lat": 35.6,
+            "lon": -121.1,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/SBSouthCoast.jpg/1280px-SBSouthCoast.jpg",
+            "description": "The Central Coast is an area of California, roughly spanning the coastal region between Point Mugu and Monterey Bay.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Central Coast (California)",
+                "wikipedia": "en:Central Coast (California)",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 20821743,
+            "lat": 36.548,
+            "lon": -121.9387,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Sabellidae_%28feather_duster_worm%29_yellow.jpg",
+            "description": "Carmel Bay State Marine Conservation Area (SMCA) is a marine protected area in Carmel Bay.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Carmel Bay State Marine Conservation Area",
+                "wikipedia": "en:Carmel Bay State Marine Conservation Area",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 30861455,
+            "lat": 36.59583333,
+            "lon": -121.93055556,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Aerial_View_of_Monterey_Peninsula.jpg/1280px-Aerial_View_of_Monterey_Peninsula.jpg",
+            "description": "The Monterey Peninsula anchors the northern portion on the Central Coast of California and comprises the cities of Monterey, Carmel, and Pacific Grove, and the resort and community of Pebble Beach.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Monterey Peninsula",
+                "wikipedia": "en:Monterey Peninsula",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 1753373,
+            "lat": 32.81444444,
+            "lon": 34.98694444,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/6e/TerracesBenGurion2.jpg",
+            "description": "The Baháʼí Terraces, or the Hanging Gardens of Haifa, are garden terraces on Mount Carmel in Haifa, and one of the most popular tourist destinations in Israel.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Terraces (Baháʼí)",
+                "wikipedia": "en:Terraces (Baháʼí)",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 88476,
+            "lat": 36.6165,
+            "lon": -121.9006,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Cannery_Row_2_%2815398349067%29.jpg/1280px-Cannery_Row_2_%2815398349067%29.jpg",
+            "description": "Cannery Row is a historic waterfront street in Monterey, California, once home to a thriving sardine canning industry.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Cannery Row",
+                "wikipedia": "en:Cannery Row",
+                "tourism": "attraction"
+            }
+        }
+    ]
+}

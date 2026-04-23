@@ -1,0 +1,385 @@
+{
+    "city_metadata": {
+        "city_name": "Hoboken",
+        "state_code": "NJ",
+        "state_full": "New Jersey",
+        "city_summary": "Hoboken ( HOH-boh-kən; Unami: Hupokàn) is a city in Hudson County in the U.S. state of New Jersey. Hoboken is part of the New York metropolitan area and is the site of Hoboken Terminal, a major transportation hub. As of the 2020 United States census, the city's population was 60,419, an increase of 10,414 (+20.8%) from the 2010 census count of 50,005, which in turn reflected an increase of 11,428 (+29.6%) from the 38,577 counted in the 2000 census.",
+        "city_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Hoboken_November_2021_010.jpg/1280px-Hoboken_November_2021_010.jpg",
+        "city_lat": 40.745,
+        "city_lon": -74.0325,
+        "source": "wikipedia_verified_engine"
+    },
+    "attractions": [
+        {
+            "type": "node",
+            "id": 367697376,
+            "lat": 40.739273,
+            "lon": -74.0309564,
+            "tags": {
+                "addr:housenumber": "213",
+                "addr:postcode": "07030",
+                "addr:state": "NJ",
+                "addr:street": "Bloomfield Street",
+                "ele": "5",
+                "gnis:feature_id": "2059168",
+                "name": "Hoboken Fire Department Museum",
+                "opening_hours": "Sa,Su 11:00-16:00",
+                "source": "USGS Geonames",
+                "tourism": "museum",
+                "website": "https://www.hobokenmuseum.org/visit/hoboken-fire-department-museum/",
+                "wikidata": "Q4809792"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Association_of_Exempt_Firemen_Building.jpg/1280px-Association_of_Exempt_Firemen_Building.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 367697388,
+            "lat": 40.7521438,
+            "lon": -74.0249925,
+            "tags": {
+                "addr:city": "Hoboken",
+                "addr:housenumber": "1301",
+                "addr:postcode": "07030",
+                "addr:state": "NJ",
+                "addr:street": "Hudson Street",
+                "check_date:opening_hours": "2024-07-18",
+                "ele": "3",
+                "fee": "yes",
+                "gnis:feature_id": "2060323",
+                "name": "Hoboken Historical Museum",
+                "opening_hours": "Tu-Th 14:00-19:00; Fr 13:00-17:00; Sa,Su 12:00-17:00",
+                "source": "USGS Geonames",
+                "tourism": "museum",
+                "website": "https://www.hobokenmuseum.org/",
+                "wikidata": "Q14705586"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Hoboken_Historical_Museum_Hudson_St_jeh.jpg/1280px-Hoboken_Historical_Museum_Hudson_St_jeh.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 5468067617,
+            "lat": 40.7434374,
+            "lon": -74.0386034,
+            "tags": {
+                "addr:city": "Hoboken",
+                "addr:housenumber": "415",
+                "addr:state": "NJ",
+                "addr:street": "Monroe Street",
+                "name": "Frank Sinatra's Birthplace",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/85/Engine_Company_No._5_Hoboken_NJ.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 125235,
+            "lat": 40.745,
+            "lon": -74.0325,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Hoboken_November_2021_010.jpg/1280px-Hoboken_November_2021_010.jpg",
+            "description": "Hoboken ( HOH-boh-kən; Unami: Hupokàn) is a city in Hudson County in the U.S. state of New Jersey.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Hoboken, New Jersey",
+                "wikipedia": "en:Hoboken, New Jersey",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 984996,
+            "lat": 40.735,
+            "lon": -74.0275,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Erie-Lackawanna_Railroad_Terminal.jpg",
+            "description": "Hoboken Terminal is a commuter-oriented intermodal passenger station in Hoboken, Hudson County, New Jersey.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Hoboken Terminal",
+                "wikipedia": "en:Hoboken Terminal",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 3041875,
+            "lat": 40.74944444,
+            "lon": -74.02666667,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/11.7.11Maxwell%27sByLuigiNovi1.jpg/1280px-11.7.11Maxwell%27sByLuigiNovi1.jpg",
+            "description": "Maxwell's, last known as Maxwell's Tavern, was a bar/restaurant and music club in Hoboken, New Jersey.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Maxwell's",
+                "wikipedia": "en:Maxwell's",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 7927698,
+            "lat": 33.24694444,
+            "lon": 126.55441667,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Korea-Jeju-Cheonjiyeon_Waterfall-01.jpg/1280px-Korea-Jeju-Cheonjiyeon_Waterfall-01.jpg",
+            "description": "Cheonjiyeon Waterfall (Korean: 천지연폭포) is a waterfall on Jeju Island, South Korea.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Cheonjiyeon Waterfall",
+                "wikipedia": "en:Cheonjiyeon Waterfall",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 26219828,
+            "lat": 40.73715,
+            "lon": -74.03078,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/1.20.10Carlo%27sBakeShopByLuigiNovi1.jpg/1280px-1.20.10Carlo%27sBakeShopByLuigiNovi1.jpg",
+            "description": "Carlo's Bake Shop, commonly known as Carlo's Bakery and also known as Carlo's City Hall Bake Shop, is a bakery in Hoboken, New Jersey, owned by Buddy Valastro.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Carlo's Bake Shop",
+                "wikipedia": "en:Carlo's Bake Shop",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 246341,
+            "lat": 35.0395,
+            "lon": 135.7285,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Golden_Pavilion_Kinkaku-ji_water_mirror_2024.jpg/1280px-Golden_Pavilion_Kinkaku-ji_water_mirror_2024.jpg",
+            "description": "Kinkaku-ji (金閣寺; Japanese pronunciation: [kʲiꜜŋ.ka.kɯ.dʑi], lit. 'Temple of the Golden Pavilion'), officially named Rokuon-ji (鹿苑寺; [ɾoꜜ.kɯ.oɲ.dʑi], lit. 'Deer Garden Temple'), is a Zen Buddhist temple in Kyoto, Japan and a tourist attraction.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Kinkaku-ji",
+                "wikipedia": "en:Kinkaku-ji",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 125237,
+            "lat": 40.71,
+            "lon": -74.06,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Journal_Square_Jersey_City_November_2021_003.jpg/1280px-Journal_Square_Jersey_City_November_2021_003.jpg",
+            "description": "Jersey City is the second-most populous city in the U.S. state of New Jersey, after Newark.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Jersey City, New Jersey",
+                "wikipedia": "en:Jersey City, New Jersey",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 21648,
+            "lat": 40,
+            "lon": -74.5,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Flag_of_New_Jersey.svg/1280px-Flag_of_New_Jersey.svg.png",
+            "description": "New Jersey is a state located in both the Mid-Atlantic and Northeastern regions of the United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "New Jersey",
+                "wikipedia": "en:New Jersey",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 8042511,
+            "lat": 33.244649,
+            "lon": 126.571662,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/60/Jeongbang_Waterfall.jpg",
+            "description": "Jeongbang Waterfall (Korean: 정방폭포) is a waterfall and popular tourist attraction located in Seogwipo, Jeju Province, South Korea.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Jeongbang Waterfall",
+                "wikipedia": "en:Jeongbang Waterfall",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 66431621,
+            "lat": 40.741257,
+            "lon": -74.02621,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Statue_of_Frank_Sinatra%2C_Hoboken_NJ%2C_21_Oct_2025.jpg/1280px-Statue_of_Frank_Sinatra%2C_Hoboken_NJ%2C_21_Oct_2025.jpg",
+            "description": "The statue of Frank Sinatra in Hoboken, New Jersey is located along Sinatra Park section of the Hudson River Waterfront Walkway.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Statue of Frank Sinatra",
+                "wikipedia": "en:Statue of Frank Sinatra",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 24760680,
+            "lat": 34.17361111,
+            "lon": 77.57472222,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Leh%2C_Shanti_Stupa%2C_Ladakh%2C_India.jpg/1280px-Leh%2C_Shanti_Stupa%2C_Ladakh%2C_India.jpg",
+            "description": "Shanti Stupa is a Buddhist white-domed Stupa (chorten) on a hilltop in Chanspa, Leh district, Ladakh, in north India.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Shanti Stupa, Ladakh",
+                "wikipedia": "en:Shanti Stupa, Ladakh",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 106211,
+            "lat": 39.3625,
+            "lon": -74.425,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/A_sunset_view_of_the_beach_in_Atlantic_City%2C_NJ.jpg/1280px-A_sunset_view_of_the_beach_in_Atlantic_City%2C_NJ.jpg",
+            "description": "Atlantic City, sometimes referred to by its initials A.C., is a seaside resort city in Atlantic County, in the U.S. state of New Jersey.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Atlantic City, New Jersey",
+                "wikipedia": "en:Atlantic City, New Jersey",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 125244,
+            "lat": 40.7714,
+            "lon": -74.0194,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Lincoln_Tunnel_Helix_Ventilation_Towers.png/1280px-Lincoln_Tunnel_Helix_Ventilation_Towers.png",
+            "description": "Weehawken is a township in the northern part of Hudson County, in the U.S. state of New Jersey.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Weehawken, New Jersey",
+                "wikipedia": "en:Weehawken, New Jersey",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 5817277,
+            "lat": 40.90741667,
+            "lon": -74.73077778,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Mount_Olive_station.jpg/1280px-Mount_Olive_station.jpg",
+            "description": "Mount Olive is an NJ Transit station in Mount Olive, New Jersey, located in the International Trade Center.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Mount Olive station",
+                "wikipedia": "en:Mount Olive station",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 3881084,
+            "lat": 40.81,
+            "lon": -74.0675,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/106158010-1571762043827preview.jpg/1280px-106158010-1571762043827preview.jpg",
+            "description": "American Dream is a massive retail and entertainment complex in the Meadowlands Sports Complex in East Rutherford, New Jersey, and is the second largest mall in the United States behind the Mall of America.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "American Dream (shopping mall)",
+                "wikipedia": "en:American Dream (shopping mall)",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 9594086,
+            "lat": 41.40555556,
+            "lon": -75.66138889,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Scranton_-_Radisson_Lackawanna_Station_Hotel_%2848472745076%29.jpg/1280px-Scranton_-_Radisson_Lackawanna_Station_Hotel_%2848472745076%29.jpg",
+            "description": "The Radisson Lackawanna Station Hotel, which was built as the Delaware, Lackawanna and Western Railroad Station, is a French Renaissance-style building in Scranton, Pennsylvania.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Radisson Lackawanna Station Hotel",
+                "wikipedia": "en:Radisson Lackawanna Station Hotel",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 3010747,
+            "lat": -1.2975,
+            "lon": -90.43416667,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Floreana_topographic_map-en.png/1280px-Floreana_topographic_map-en.png",
+            "description": "Floreana Island (Spanish: Isla Floreana) is a southern island in Ecuador's Galápagos Archipelago.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Floreana Island",
+                "wikipedia": "en:Floreana Island",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 8060146,
+            "lat": 40.301818,
+            "lon": -73.978736,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/PierVillage.jpg/1280px-PierVillage.jpg",
+            "description": "Pier Village is a Victorian-inspired mixed-use community located in Long Branch, New Jersey along the Atlantic Ocean.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Pier Village",
+                "wikipedia": "en:Pier Village",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 1168894,
+            "lat": 17.64444444,
+            "lon": -101.55111111,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/74/ZihuaMontage.jpg",
+            "description": "Zihuatanejo (Spanish pronunciation: [siwataˈnexo]), and/or Ixtapa-Zihuatanejo, is the fourth largest city in the Mexican state of Guerrero.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Zihuatanejo",
+                "wikipedia": "en:Zihuatanejo",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 125230,
+            "lat": 40.66253,
+            "lon": -74.110192,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/High_BB_from_Bayonne_jeh.jpg/1280px-High_BB_from_Bayonne_jeh.jpg",
+            "description": "Bayonne ( bay-(Y)OHN) is a city in Hudson County in the U.S. state of New Jersey, in the Gateway Region on Bergen Neck, a peninsula between Newark Bay to the west, the Kill Van Kull to the south, and New York Bay to the east.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Bayonne, New Jersey",
+                "wikipedia": "en:Bayonne, New Jersey",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 27936129,
+            "lat": 40.718709,
+            "lon": -74.103985,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Aster_newyorkcity_lrg.jpg/1280px-Aster_newyorkcity_lrg.jpg",
+            "description": "There are numerous of vehicular and rail bridges, tunnels, and cuts in Hudson County, New Jersey.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "List of bridges, tunnels, and cuts in Hudson County, New Jersey",
+                "wikipedia": "en:List of bridges, tunnels, and cuts in Hudson County, New Jersey",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 442163,
+            "lat": 40.048,
+            "lon": -74.052,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f5/NJ_LBI_Lighthouse_04.JPG",
+            "description": "The Jersey Shore, commonly called the Shore by locals, is the coastal region of the U.S. state of New Jersey.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Jersey Shore",
+                "wikipedia": "en:Jersey Shore",
+                "tourism": "attraction"
+            }
+        }
+    ]
+}

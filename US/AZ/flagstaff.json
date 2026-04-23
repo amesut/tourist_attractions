@@ -1,0 +1,394 @@
+{
+    "city_metadata": {
+        "city_name": "Flagstaff",
+        "state_code": "AZ",
+        "state_full": "Arizona",
+        "city_summary": "Flagstaff ( FLAG-staf) is a city in and the county seat of Coconino County, Arizona, United States. As of the 2020 United States census, the city's population was 76,831.\nFlagstaff is the principal city of the Flagstaff metropolitan area, which includes all of Coconino County, and has a population of 145,101.",
+        "city_image": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Flagstaff_AZ_-_downtown_hotel.jpg",
+        "city_lat": 35.18055556,
+        "city_lon": -111.62,
+        "source": "wikipedia_verified_engine"
+    },
+    "attractions": [
+        {
+            "type": "node",
+            "id": 2959967797,
+            "lat": 35.2248194,
+            "lon": -111.578891,
+            "tags": {
+                "addr:housenumber": "4601",
+                "addr:postcode": "86004",
+                "addr:street": "East Marketplace Drive",
+                "name": "Levitate Adventure Park",
+                "tourism": "attraction",
+                "was:name": "OfficeMax"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Flagstaff_Mall.jpg/1280px-Flagstaff_Mall.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 5341219623,
+            "lat": 35.1907839,
+            "lon": -111.619947,
+            "tags": {
+                "name": "North Pole Experience",
+                "seasonal": "christmas",
+                "tourism": "attraction",
+                "website": "https://northpoleexperience.com"
+            }
+        },
+        {
+            "type": "node",
+            "id": 6407275114,
+            "lat": 35.2336111,
+            "lon": -111.5450218,
+            "tags": {
+                "archaeological_site": "petroglyph",
+                "historic": "archaeological_site",
+                "name": "Waterbird petroglyph site",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9959894323,
+            "lat": 35.1873434,
+            "lon": -111.6596156,
+            "tags": {
+                "fee": "yes",
+                "name": "Riordan Mansion",
+                "opening_hours": "Mo-Su 09:30-17:00",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Riordan_state_park_flagstaff_arizona.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 13644394124,
+            "lat": 35.2029575,
+            "lon": -111.664656,
+            "tags": {
+                "addr:city": "Flagstaff",
+                "addr:housenumber": "1400",
+                "addr:postcode": "86001",
+                "addr:state": "AZ",
+                "addr:street": "West Mars Hill Road",
+                "museum": "history",
+                "name": "Slipher Rotunda Museum",
+                "name:etymology": "Vesto Melvin Slipher",
+                "name:etymology:wikidata": "Q312248",
+                "operator": "Lowell Observatory",
+                "operator:type": "private_non_profit",
+                "operator:wikidata": "Q138656842",
+                "tourism": "museum",
+                "website": "https://lowell.edu/discover/telescopes-exhibits/rotunda-museum/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Clark_dome.jpg/1280px-Clark_dome.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 108399612,
+            "lat": 35.2353011,
+            "lon": -111.6621598,
+            "tags": {
+                "name": "Museum of Northern Arizona Research Center",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Museum_of_Northern_Arizona.jpg/1280px-Museum_of_Northern_Arizona.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 108399675,
+            "lat": 35.2344101,
+            "lon": -111.6619979,
+            "tags": {
+                "name": "Museum of Northern Arizona research facility",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Museum_of_Northern_Arizona.jpg/1280px-Museum_of_Northern_Arizona.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 1488475078,
+            "lat": 35.2025982,
+            "lon": -111.66662,
+            "tags": {
+                "addr:city": "Flagstaff",
+                "addr:housenumber": "1400",
+                "addr:postcode": "86001",
+                "addr:state": "AZ",
+                "addr:street": "West Mars Hill Road",
+                "building": "museum",
+                "building:levels": "3",
+                "museum": "science",
+                "name": "Astronomy Discovery Center",
+                "official_name": "Marley Foundation Astronomy Discovery Center",
+                "operator": "Lowell Observatory",
+                "operator:type": "private_non_profit",
+                "operator:wikidata": "Q138656842",
+                "short_name": "ADC",
+                "tourism": "museum",
+                "website": "https://lowell.edu/visit/astronomy-discovery-center/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Clark_dome.jpg/1280px-Clark_dome.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 1488475101,
+            "lat": 35.202119,
+            "lon": -111.6652313,
+            "tags": {
+                "addr:city": "Flagstaff",
+                "addr:housenumber": "1400",
+                "addr:postcode": "86001",
+                "addr:state": "AZ",
+                "addr:street": "West Mars Hill Road",
+                "amenity": "research_institute",
+                "fixme": "Very approximate boundary",
+                "man_made": "observatory",
+                "name": "Lowell Observatory",
+                "observatory:type": "astronomical",
+                "operator": "Lowell Observatory",
+                "operator:type": "private_non_profit",
+                "operator:wikidata": "Q138656842",
+                "ref:nrhp": "66000172",
+                "tourism": "attraction",
+                "website": "https://lowell.edu/",
+                "wikidata": "Q466895",
+                "wikipedia": "en:Lowell Observatory"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Clark_dome.jpg/1280px-Clark_dome.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 57554,
+            "lat": 35.18055556,
+            "lon": -111.62,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Flagstaff_AZ_-_downtown_hotel.jpg",
+            "description": "Flagstaff ( FLAG-staf) is a city in and the county seat of Coconino County, Arizona, United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Flagstaff, Arizona",
+                "wikipedia": "en:Flagstaff, Arizona",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 96622,
+            "lat": 34.86972222,
+            "lon": -111.76111111,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Cathedral_Rock_-_Sedona_AZ-1.jpg/1280px-Cathedral_Rock_-_Sedona_AZ-1.jpg",
+            "description": "Sedona ( si-DOH-nə) is a city that straddles the county line between Coconino and Yavapai counties in the northern Verde Valley region of the U.S. state of Arizona.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Sedona, Arizona",
+                "wikipedia": "en:Sedona, Arizona",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 52684725,
+            "lat": 35.09444444,
+            "lon": -110.93555556,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Meteor_City_Trading_Post%2C_Historic_Route_66%2C_Meteor_City%2C_AZ.jpg/1280px-Meteor_City_Trading_Post%2C_Historic_Route_66%2C_Meteor_City%2C_AZ.jpg",
+            "description": "Meteor City was a historic trading post located on historic Route 66, west of the Unincorporated town of Winslow, within Coconino County, Arizona.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Meteor City, Arizona",
+                "wikipedia": "en:Meteor City, Arizona",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 2204709,
+            "lat": 35.62444444,
+            "lon": -112.135,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Coconino_County_Arizona_Incorporated_and_Unincorporated_areas_Valle_Highlighted_0478855.svg/1280px-Coconino_County_Arizona_Incorporated_and_Unincorporated_areas_Valle_Highlighted_0478855.svg.png",
+            "description": "Valle is a census-designated place in Coconino County, Arizona, United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Valle, Arizona",
+                "wikipedia": "en:Valle, Arizona",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 49121,
+            "lat": 33.44833333,
+            "lon": -112.07388889,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Downtown_Phoenix_Aerial_Looking_Northeast.jpg/1280px-Downtown_Phoenix_Aerial_Looking_Northeast.jpg",
+            "description": "Phoenix (  FEE-niks) is the capital and most populous city of the U.S. state of Arizona.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Phoenix, Arizona",
+                "wikipedia": "en:Phoenix, Arizona",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 58391604,
+            "lat": 35.22903,
+            "lon": -111.55347,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/38/Picture_Canyon_Rio_De_Flag_Trees.jpg",
+            "description": "The Picture Canyon Natural and Cultural Preserve is an archaeological site and a nature preserve open to the public year-round, located in northeast Flagstaff, Arizona.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Picture Canyon Natural and Cultural Preserve",
+                "wikipedia": "en:Picture Canyon Natural and Cultural Preserve",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 106572,
+            "lat": 35.67055556,
+            "lon": -109.06388889,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Window_rock_AZ_%28cropped%29.jpg/1280px-Window_rock_AZ_%28cropped%29.jpg",
+            "description": "Window Rock, known in Navajo as Tségháhoodzání (pronounced [tsʰéɰáhòːtsání]), is a city and census-designated place that serves as the capital of the Navajo Nation, the largest Native American tribe by both land and tribal enrollment.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Window Rock, Arizona",
+                "wikipedia": "en:Window Rock, Arizona",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 21883824,
+            "lat": 35,
+            "lon": -112,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Flag_of_Arizona.svg/1280px-Flag_of_Arizona.svg.png",
+            "description": "Arizona is a landlocked state in the Southwestern United States, sharing the Four Corners region with Colorado, New Mexico, and Utah.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Arizona",
+                "wikipedia": "en:Arizona",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 5779313,
+            "lat": 34.9125,
+            "lon": -111.72694444,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Oak_Creek_Canyon_02.jpg/1280px-Oak_Creek_Canyon_02.jpg",
+            "description": "Oak Creek Canyon is a river gorge located in northern Arizona between the cities of Flagstaff and Sedona.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Oak Creek Canyon",
+                "wikipedia": "en:Oak Creek Canyon",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 106788,
+            "lat": 34.74888889,
+            "lon": -112.10833333,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Jerome_Avenue%2C_Jerome%2C_Arizona.jpg/1280px-Jerome_Avenue%2C_Jerome%2C_Arizona.jpg",
+            "description": "Jerome is a town in the Black Hills of Yavapai County in the U.S. state of Arizona.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Jerome, Arizona",
+                "wikipedia": "en:Jerome, Arizona",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 106582,
+            "lat": 31.73888889,
+            "lon": -110.0875,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Tombstone_Main_street_61.jpg/1280px-Tombstone_Main_street_61.jpg",
+            "description": "Tombstone is a city in Cochise County, Arizona, United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Tombstone, Arizona",
+                "wikipedia": "en:Tombstone, Arizona",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 2516366,
+            "lat": 34.8319625,
+            "lon": -111.766544,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/2021_Chapel_of_the_Holy_Cross_from_right_below.jpg/1280px-2021_Chapel_of_the_Holy_Cross_from_right_below.jpg",
+            "description": "The Chapel of the Holy Cross is a Roman Catholic chapel built from 1954 to 1956 into the red rock buttes of Sedona, Arizona, within the Coconino National Forest.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Chapel of the Holy Cross (Sedona, Arizona)",
+                "wikipedia": "en:Chapel of the Holy Cross (Sedona, Arizona)",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 176583,
+            "lat": 35.5,
+            "lon": -110.08333333,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/60/Painteddesert1.JPG",
+            "description": "The Painted Desert is a United States desert of badlands in the Four Corners area, running from near the east end of Grand Canyon National Park and southeast into Petrified Forest National Park.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Painted Desert (Arizona)",
+                "wikipedia": "en:Painted Desert (Arizona)",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 106780,
+            "lat": 34.56888889,
+            "lon": -111.85611111,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Camp_Verde%2C_Arizona.jpg/1280px-Camp_Verde%2C_Arizona.jpg",
+            "description": "Camp Verde (Yavapai: ʼMatthi:wa; Western Apache: Gambúdih) is a town in Yavapai County, Arizona, United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Camp Verde, Arizona",
+                "wikipedia": "en:Camp Verde, Arizona",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 106674,
+            "lat": 35.23611111,
+            "lon": -114.01111111,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Kingman_courthouse.jpg",
+            "description": "Kingman is a city in and the county seat of Mohave County, Arizona, United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Kingman, Arizona",
+                "wikipedia": "en:Kingman, Arizona",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 2481394,
+            "lat": 30.36638889,
+            "lon": -107.9475,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Paquime1.jpg/1280px-Paquime1.jpg",
+            "description": "Casas Grandes (Spanish for Great Houses; also known as Paquimé) is a prehistoric archaeological site in the northern Mexican state of Chihuahua.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Casas Grandes",
+                "wikipedia": "en:Casas Grandes",
+                "tourism": "attraction"
+            }
+        }
+    ]
+}

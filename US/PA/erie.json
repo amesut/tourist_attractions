@@ -1,0 +1,415 @@
+{
+    "city_metadata": {
+        "city_name": "Erie",
+        "state_code": "PA",
+        "state_full": "Pennsylvania",
+        "city_summary": "Erie is a city on the south shore of Lake Erie and the county seat of Erie County, Pennsylvania, United States. It is the fifth-most populous city in Pennsylvania and the most populous in Northwestern Pennsylvania with a population of 92,940 as of 2024 census estimates. The Erie metropolitan area had a population of 270,876 in 2020.",
+        "city_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Erie_PA_skyline_from_tower_observation_deck_%28cropped%29.jpg/1280px-Erie_PA_skyline_from_tower_observation_deck_%28cropped%29.jpg",
+        "city_lat": 42.12944444,
+        "city_lon": -80.085,
+        "source": "wikipedia_verified_engine"
+    },
+    "attractions": [
+        {
+            "type": "node",
+            "id": 7570403157,
+            "lat": 42.1366387,
+            "lon": -80.0867762,
+            "tags": {
+                "addr:city": "Erie",
+                "addr:housenumber": "150",
+                "addr:postcode": "16507",
+                "addr:state": "PA",
+                "addr:street": "East Front Street",
+                "addr:unit": "100",
+                "name": "Flagship Niagara League",
+                "tourism": "museum",
+                "website": "https://sailfnl.org/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Brig_Niagara_behind_museum.jpg/1280px-Brig_Niagara_behind_museum.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 7571687786,
+            "lat": 42.1202039,
+            "lon": -80.0818424,
+            "tags": {
+                "addr:city": "Erie",
+                "addr:housenumber": "1401",
+                "addr:postcode": "16501",
+                "addr:state": "PA",
+                "addr:street": "Peach Street",
+                "name": "Graffiti Wall",
+                "operator": "City of Erie",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Erie_Union_Station%2C_May_2015.jpg/1280px-Erie_Union_Station%2C_May_2015.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 7707580229,
+            "lat": 42.1364582,
+            "lon": -80.0871807,
+            "tags": {
+                "addr:city": "Erie",
+                "addr:housenumber": "100",
+                "addr:postcode": "16507",
+                "addr:state": "PA",
+                "addr:street": "East Front Street",
+                "name": "Erie Maritime Museum",
+                "tourism": "museum",
+                "website": "https://www.eriemaritimemuseum.org/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Brig_Niagara_behind_museum.jpg/1280px-Brig_Niagara_behind_museum.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 7977022499,
+            "lat": 42.126779,
+            "lon": -80.0936234,
+            "tags": {
+                "addr:city": "Erie",
+                "addr:housenumber": "356",
+                "addr:postcode": "16507",
+                "addr:state": "PA",
+                "addr:street": "West 6th Street",
+                "museum": "history",
+                "name": "Watson-Curtze Mansion",
+                "operator": "Hagan History Center",
+                "operator:type": "public",
+                "tourism": "museum",
+                "website": "https://www.eriehistory.org/",
+                "wikidata": "Q7974795",
+                "wikipedia": "en:Watson-Curtze Mansion"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9123099876,
+            "lat": 42.127366,
+            "lon": -80.0947349,
+            "tags": {
+                "addr:city": "Erie",
+                "addr:housenumber": "428",
+                "addr:postcode": "16507",
+                "addr:state": "PA",
+                "addr:street": "Chestnut Street",
+                "museum": "history",
+                "name": "Firefighters Historical Museum",
+                "tourism": "museum",
+                "website": "https://firefightershistoricalmuseum.org/"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11938429416,
+            "lat": 40.06128,
+            "lon": -105.0378036,
+            "tags": {
+                "addr:city": "Erie",
+                "addr:housenumber": "4121",
+                "addr:postcode": "80516",
+                "addr:state": "CO",
+                "addr:street": "County Road 3",
+                "check_date": "2024-05-26",
+                "mapillary": "976519960684638",
+                "name": "Colorado Railbike Adventures",
+                "source": "survey",
+                "start_date": "2024-05",
+                "tourism": "attraction",
+                "website": "https://www.coloradorailbikeadventures.com/"
+            }
+        },
+        {
+            "type": "way",
+            "id": 828161701,
+            "lat": 42.0970544,
+            "lon": -80.0756041,
+            "tags": {
+                "addr:city": "Erie",
+                "addr:housenumber": "423",
+                "addr:postcode": "16508",
+                "addr:state": "PA",
+                "addr:street": "West 38th Street",
+                "name": "Erie Zoo",
+                "operator": "Erie Events",
+                "tourism": "zoo",
+                "wikidata": "Q5388359",
+                "wikipedia": "en:Erie Zoo"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Eriezooentrance.jpg/1280px-Eriezooentrance.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 1018837422,
+            "lat": 42.1312411,
+            "lon": -80.0850324,
+            "tags": {
+                "addr:city": "Erie",
+                "addr:housenumber": "420",
+                "addr:postcode": "16507",
+                "addr:state": "PA",
+                "addr:street": "French Street",
+                "building": "yes",
+                "contact:facebook": "https://www.facebook.com/expERIEnceChildrensMuseum/",
+                "name": "ExpERIEnce Childrens Museum",
+                "phone": "+1 814 453 3743",
+                "tourism": "museum",
+                "website": "https://www.eriechildrensmuseum.org"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/CustomsHouseEAM.jpg/1280px-CustomsHouseEAM.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 1039296214,
+            "lat": 42.1311876,
+            "lon": -80.0859594,
+            "tags": {
+                "addr:city": "Erie",
+                "addr:housenumber": "409",
+                "addr:postcode": "16501",
+                "addr:state": "PA",
+                "addr:street": "State Street",
+                "building": "yes",
+                "contact:website": "https://erieartmuseum.org/",
+                "heritage": "2",
+                "heritage:operator": "nrhp",
+                "heritage:website": "https://www.nps.gov/subjects/nationalregister/index.htm",
+                "historic": "maritime",
+                "name": "Old Customs House",
+                "nrhp:criteria": "(A), (C)",
+                "nrhp:inscription_date": "1972-01-13",
+                "nrhp:nhl": "yes",
+                "old_name:1839-1849": "United States Bank",
+                "old_name:1849-1888": "Erie Customs House",
+                "old_name:1909-1932": "Stron Vincent Post of the Grand Army of the Republic",
+                "old_name:1932-1983": "Erie County Historical Society",
+                "protection_title": "Erie Art Museum",
+                "ref:nrhp": "72001122",
+                "source_ref": "https://catalog.archives.gov/id/71995523",
+                "start_date": "1839",
+                "tourism": "museum",
+                "website": "http://www.eriebuildings.info/buildings.php?buildingID=14010002021100",
+                "wikidata": "Q7083814",
+                "wikipedia": "en:Old Customshouse (Erie, Pennsylvania)"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/92/Map_of_Erie_County_Pennsylvania_School_Districts.png",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 132482,
+            "lat": 42.12944444,
+            "lon": -80.085,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Erie_PA_skyline_from_tower_observation_deck_%28cropped%29.jpg/1280px-Erie_PA_skyline_from_tower_observation_deck_%28cropped%29.jpg",
+            "description": "Erie is a city on the south shore of Lake Erie and the county seat of Erie County, Pennsylvania, United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Erie, Pennsylvania",
+                "wikipedia": "en:Erie, Pennsylvania",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 9315954,
+            "lat": 42.108691,
+            "lon": -80.155458,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Waldameer_overview.png/1280px-Waldameer_overview.png",
+            "description": "Waldameer & Water World is an amusement park and water park at the base of Presque Isle in Erie, Pennsylvania.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Waldameer & Water World",
+                "wikipedia": "en:Waldameer & Water World",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 14329253,
+            "lat": 42.1375,
+            "lon": -80.115,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Presque_Isle_Bay.png/1280px-Presque_Isle_Bay.png",
+            "description": "Presque Isle Bay is a natural bay located off the coast of Erie, Pennsylvania.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Presque Isle Bay",
+                "wikipedia": "en:Presque Isle Bay",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 13282988,
+            "lat": 42.1249,
+            "lon": -80.0831,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Erie%2C_PA_-_20190921_-_07.jpg/1280px-Erie%2C_PA_-_20190921_-_07.jpg",
+            "description": "Erie Playhouse is a historic theatre located in Erie, Pennsylvania.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Erie Playhouse",
+                "wikipedia": "en:Erie Playhouse",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 23332,
+            "lat": 41,
+            "lon": -78,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Flag_of_Pennsylvania.svg/1280px-Flag_of_Pennsylvania.svg.png",
+            "description": "Pennsylvania, officially the Commonwealth of Pennsylvania, is a U.S. state located in the Mid-Atlantic, Northeastern, Appalachian, and Great Lakes regions of the United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Pennsylvania",
+                "wikipedia": "en:Pennsylvania",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 2268364,
+            "lat": 42.12694444,
+            "lon": -80.08,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/UPMC_Park.jpg/1280px-UPMC_Park.jpg",
+            "description": "UPMC Park, originally named Jerry Uht Park, sits in Erie, Pennsylvania and hosts the Double-A Erie SeaWolves of the Eastern League, the city's Minor League Baseball (MiLB) team.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "UPMC Park",
+                "wikipedia": "en:UPMC Park",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 10396388,
+            "lat": 42.13888889,
+            "lon": -80.09166667,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Bicentennial_Tower.jpg/1280px-Bicentennial_Tower.jpg",
+            "description": "The Bicentennial Tower is an American observation tower that is located in Erie, Pennsylvania and features panoramic views of Lake Erie, Presque Isle State Park, and downtown Erie.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Bicentennial Tower",
+                "wikipedia": "en:Bicentennial Tower",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 1765577,
+            "lat": 39.79961,
+            "lon": -79.71161,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Walk_down_in_Laurel_Caverns.jpg/1280px-Walk_down_in_Laurel_Caverns.jpg",
+            "description": "Laurel Caverns is the largest cave in the Commonwealth of Pennsylvania by volume and area.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Laurel Caverns",
+                "wikipedia": "en:Laurel Caverns",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 132862,
+            "lat": 41.41055556,
+            "lon": -75.6675,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Scranton%2C_Pennsylvania%27s_skyline-_--Scranton%2C_Pennsylvania--_is_the_largest_city_in_the_northeastern_part_of_Pennsylvania-_2014-07-07_21-52.jpg",
+            "description": "Scranton is a second A class city in and the county seat of Lackawanna County, Pennsylvania, United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Scranton, Pennsylvania",
+                "wikipedia": "en:Scranton, Pennsylvania",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 2794920,
+            "lat": 39.678573,
+            "lon": -78.807077,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/26/WMSR_Fireball_Logo.webp",
+            "description": "The Western Maryland Scenic Railroad (reporting mark WMSR) is a heritage railroad based in Cumberland, Maryland, that operates passenger excursion trains and occasional freight trains using both steam and diesel locomotives over ex-Western Maryland Railway (WM) tracks between Cumberland and Frostburg.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Western Maryland Scenic Railroad",
+                "wikipedia": "en:Western Maryland Scenic Railroad",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 11380718,
+            "lat": 42.14391667,
+            "lon": -80.06225,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Erie_Land_Light%2C_August_2013_2.jpg/1280px-Erie_Land_Light%2C_August_2013_2.jpg",
+            "description": "The Erie Land Light, also known as the Old Presque Isle Light, is a lighthouse on the shore of Lake Erie in Erie, Pennsylvania.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Erie Land Light",
+                "wikipedia": "en:Erie Land Light",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 8979393,
+            "lat": 42.16577778,
+            "lon": -80.11541667,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Presque_Isle_Light_%28July_2021%29.png/1280px-Presque_Isle_Light_%28July_2021%29.png",
+            "description": "The Presque Isle Light, historically nicknamed the \"Flash Light\", is a lighthouse on the shore of Lake Erie in U.S. state of Pennsylvania.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Presque Isle Light",
+                "wikipedia": "en:Presque Isle Light",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 126936,
+            "lat": 41.30833333,
+            "lon": -74.14722222,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Nairiman.jpg/1280px-Nairiman.jpg",
+            "description": "Harriman is a village in Orange County, New York, United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Harriman, New York",
+                "wikipedia": "en:Harriman, New York",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 333883,
+            "lat": 40.28805556,
+            "lon": -76.65694444,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Hersheypark_Entrance_10-2-2022.jpg/1280px-Hersheypark_Entrance_10-2-2022.jpg",
+            "description": "Hersheypark (known as Hershey Park until 1970) is a family theme park in Hershey, Pennsylvania, United States, about fifteen miles (25 km) east of Harrisburg, and 95 miles (155 km) west of Philadelphia.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Hersheypark",
+                "wikipedia": "en:Hersheypark",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 13561682,
+            "lat": 41.76111111,
+            "lon": -78.58861111,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Phot_kinzuabridge2.jpg",
+            "description": "The Kinzua Bridge or the Kinzua Viaduct (, ) was a railroad trestle that spanned Kinzua Creek in McKean County in the U.S. state of Pennsylvania.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Kinzua Bridge",
+                "wikipedia": "en:Kinzua Bridge",
+                "tourism": "attraction"
+            }
+        }
+    ]
+}

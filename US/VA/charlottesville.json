@@ -1,0 +1,374 @@
+{
+    "city_metadata": {
+        "city_name": "Charlottesville",
+        "state_code": "VA",
+        "state_full": "Virginia",
+        "city_summary": "Charlottesville, colloquially known as C'ville, is an independent city in Virginia, United States. It is the county seat of Albemarle County, which surrounds the city, though the two are separate legal entities. The former capital of Virginia, it is named after Queen Charlotte.",
+        "city_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Charlottesville_Downtown_Mall.jpg/1280px-Charlottesville_Downtown_Mall.jpg",
+        "city_lat": 38.0299,
+        "city_lon": -78.479,
+        "source": "wikipedia_verified_engine"
+    },
+    "attractions": [
+        {
+            "type": "node",
+            "id": 2572388940,
+            "lat": 38.0295332,
+            "lon": -78.4775846,
+            "tags": {
+                "name": "Free Speech Wall",
+                "operator": "Thomas Jefferson Center for the Protection of Free Expression",
+                "tourism": "attraction",
+                "wheelchair": "yes"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Charlottesville_Downtown_Mall.jpg/1280px-Charlottesville_Downtown_Mall.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 9856328698,
+            "lat": 38.0317153,
+            "lon": -78.4870444,
+            "tags": {
+                "addr:housenumber": "233",
+                "addr:street": "4th Street Northwest",
+                "museum": "history,art,culture",
+                "name": "Jefferson School African American Heritage Center",
+                "tourism": "museum",
+                "website": "https://jeffschoolheritagecenter.org/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Jefferson_School_Charlottesville.JPG/1280px-Jefferson_School_Charlottesville.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 386109909,
+            "lat": 38.0293308,
+            "lon": -78.4780192,
+            "tags": {
+                "addr:city": "Charlottesville",
+                "addr:housenumber": "524",
+                "addr:postcode": "22902",
+                "addr:state": "VA",
+                "addr:street": "East Main Street",
+                "building": "yes",
+                "museum": "children",
+                "name": "Virginia Discovery Museum",
+                "opening_hours": "Mo-Sa 09:30-17:00",
+                "tourism": "museum",
+                "website": "https://www.vadm.org/",
+                "wikidata": "Q7934248"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Charlottesville_Downtown_Mall.jpg/1280px-Charlottesville_Downtown_Mall.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 91343,
+            "lat": 38.0299,
+            "lon": -78.479,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Charlottesville_Downtown_Mall.jpg/1280px-Charlottesville_Downtown_Mall.jpg",
+            "description": "Charlottesville, colloquially known as C'ville, is an independent city in Virginia, United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Charlottesville, Virginia",
+                "wikipedia": "en:Charlottesville, Virginia",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 59801,
+            "lat": 38.03555556,
+            "lon": -78.50333333,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/University_of_Virginia_seal.svg/1280px-University_of_Virginia_seal.svg.png",
+            "description": "The University of Virginia (UVA or Virginia) is a public research university located in Charlottesville City and Albemarle County in Virginia, United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "University of Virginia",
+                "wikipedia": "en:University of Virginia",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 8181813,
+            "lat": 38.0347,
+            "lon": -78.5002,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Corneratuva.jpg/1280px-Corneratuva.jpg",
+            "description": "The Corner is a seven-block collection of bars, restaurants, bookstores, and night spots on University Avenue in Charlottesville, Virginia, extending from 121⁄2 Street Southwest to Chancellor Street.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "The Corner (Charlottesville, Virginia)",
+                "wikipedia": "en:The Corner (Charlottesville, Virginia)",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 69504922,
+            "lat": 33.88022222,
+            "lon": -5.55791667,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Stable_by_Water_Reserve_%2826095086968%29.jpg/1280px-Stable_by_Water_Reserve_%2826095086968%29.jpg",
+            "description": "The Heri es-Swani or Heri es-Souani (Arabic: هري السواني, lit. 'silo of the norias'), sometimes also transliterated as Hury as-Swani or Hri Swani, is a historic monument in Meknes, Morocco.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Heri es-Swani",
+                "wikipedia": "en:Heri es-Swani",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 7429420,
+            "lat": 38.0303,
+            "lon": -78.48,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/2008-0830-Charlottesville-DowntownMall.jpg/1280px-2008-0830-Charlottesville-DowntownMall.jpg",
+            "description": "The Downtown Mall in Charlottesville, Virginia, is one of the longest pedestrian malls in the United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Downtown Mall",
+                "wikipedia": "en:Downtown Mall",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 32432,
+            "lat": 38,
+            "lon": -79,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Flag_of_Virginia.svg/1280px-Flag_of_Virginia.svg.png",
+            "description": "Virginia, officially the Commonwealth of Virginia, is a state in the Southeastern and Mid-Atlantic regions of the United States between the Atlantic Coast and the Appalachian Mountains.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Virginia",
+                "wikipedia": "en:Virginia",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 78821483,
+            "lat": 38.0308,
+            "lon": -78.479,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Daedalus_Books_-_Charlottesville%2C_Virginia_-_October_2023_-_1.jpg/1280px-Daedalus_Books_-_Charlottesville%2C_Virginia_-_October_2023_-_1.jpg",
+            "description": "Daedalus Books is a used bookstore based in the Downtown Mall of Charlottesville, Virginia.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Daedalus Books (Virginia)",
+                "wikipedia": "en:Daedalus Books (Virginia)",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 1008238,
+            "lat": 38.03111111,
+            "lon": -78.51361111,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Scott_Stadium_UVa.jpg/1280px-Scott_Stadium_UVa.jpg",
+            "description": "Scott Stadium, in full The Carl Smith Center, home of David A. Harrison III Field at Scott Stadium, is a stadium located in Charlottesville, Virginia.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Scott Stadium",
+                "wikipedia": "en:Scott Stadium",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 4632951,
+            "lat": 38.65694444,
+            "lon": -78.22611111,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Sperryville_VA.jpg/1280px-Sperryville_VA.jpg",
+            "description": "Sperryville is a census-designated place (CDP) located in the western section of Rappahannock County, Virginia, United States, near Shenandoah National Park.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Sperryville, Virginia",
+                "wikipedia": "en:Sperryville, Virginia",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 1463549,
+            "lat": 38.046,
+            "lon": -78.5068,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/John_Paul_Jones_Arena_HDR.jpg/1280px-John_Paul_Jones_Arena_HDR.jpg",
+            "description": "John Paul Jones Arena, or JPJ, is a multi-purpose arena owned by the University of Virginia in Charlottesville, Virginia.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "John Paul Jones Arena",
+                "wikipedia": "en:John Paul Jones Arena",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 11746985,
+            "lat": 31.6315,
+            "lon": -7.9872,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Almoravid_Qubba_IMG_5629.jpg/1280px-Almoravid_Qubba_IMG_5629.jpg",
+            "description": "The Almoravid Qubba (Arabic: القبة المرابطية), also known as the Qubbat al-Ba'diyyin or Qubbat al-Barudiyyin, is a small monument in Marrakesh, Morocco.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Almoravid Qubba",
+                "wikipedia": "en:Almoravid Qubba",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 75804,
+            "lat": 37.20916667,
+            "lon": -76.7775,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/1639_Jamestown_Church_%282883847775%29.jpg/1280px-1639_Jamestown_Church_%282883847775%29.jpg",
+            "description": "The Jamestown settlement in the Colony of Virginia was the first permanent English settlement in the Americas.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Jamestown, Virginia",
+                "wikipedia": "en:Jamestown, Virginia",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 23763455,
+            "lat": 37.96083333,
+            "lon": -78.90027778,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/View_from_Humpback_Rock_-01-_%289720039406%29.jpg/1280px-View_from_Humpback_Rock_-01-_%289720039406%29.jpg",
+            "description": "Humpback Rocks is a massive greenstone outcropping near the peak of Humpback Mountain in the Blue Ridge Mountains of Augusta County and Nelson County, Virginia, United States, with a summit elevation of 3,080 feet (940 m).",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Humpback Rock",
+                "wikipedia": "en:Humpback Rock",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 37755134,
+            "lat": 38.0361,
+            "lon": -78.5058,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5e/The_Albert_and_Shirley_Small_Special_Collections_Library%2C_University_of_Virginia.jpg",
+            "description": "The Albert and Shirley Small Special Collections Library at the University of Virginia is a research library that specializes in American history and literature, history of Virginia and the southeastern United States, the history of the University of Virginia, Thomas Jefferson, and the history and arts of the book.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Albert and Shirley Small Special Collections Library",
+                "wikipedia": "en:Albert and Shirley Small Special Collections Library",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 673712,
+            "lat": 38.8625,
+            "lon": -77.345,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Tysons_Corner_Sunset_.jpg/1280px-Tysons_Corner_Sunset_.jpg",
+            "description": "Northern Virginia, locally referred to as NOVA or NoVA, comprises several counties and independent cities in the Commonwealth of Virginia in the United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Northern Virginia",
+                "wikipedia": "en:Northern Virginia",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 65128973,
+            "lat": 33.891,
+            "lon": -5.56294444,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/%D0%9C%D0%B0%D0%B2%D0%B7%D0%BE%D0%BB%D0%B5%D0%B9_%D0%9C%D1%83%D1%81%D1%8B_%D0%98%D0%B7%D0%BC%D0%B0%D0%B8%D0%BB%D0%B0.jpg/1280px-%D0%9C%D0%B0%D0%B2%D0%B7%D0%BE%D0%BB%D0%B5%D0%B9_%D0%9C%D1%83%D1%81%D1%8B_%D0%98%D0%B7%D0%BC%D0%B0%D0%B8%D0%BB%D0%B0.jpg",
+            "description": "The Mausoleum of Moulay Isma'il (Arabic: ضريح المولى إسماعيل) is a historic Islamic funerary complex in Meknes, Morocco.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Mausoleum of Moulay Ismail",
+                "wikipedia": "en:Mausoleum of Moulay Ismail",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 22444931,
+            "lat": 38.03005556,
+            "lon": -78.51961111,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Hereford_College_Vaughn_House.jpg/1280px-Hereford_College_Vaughn_House.jpg",
+            "description": "Hereford College is a self-governed residential college at the University of Virginia.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Hereford College",
+                "wikipedia": "en:Hereford College",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 137494,
+            "lat": 37.57694444,
+            "lon": -79.05055556,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Amherst_VA_Historical_Society_in_Fall.jpg/1280px-Amherst_VA_Historical_Society_in_Fall.jpg",
+            "description": "Amherst (formerly Dearborn) is a town in Amherst County, Virginia, United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Amherst, Virginia",
+                "wikipedia": "en:Amherst, Virginia",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 2796175,
+            "lat": 38.04677778,
+            "lon": -78.51246389,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/02/Kl%C3%B6ckner_Stadium_%28Charlottesville%2C_Va.%29.jpg",
+            "description": "Klöckner Stadium is a stadium located on the campus of the University of Virginia in Charlottesville, Virginia.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Klöckner Stadium",
+                "wikipedia": "en:Klöckner Stadium",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 56383328,
+            "lat": 34.06476,
+            "lon": -4.97595,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Fes_-_Fondouk_el-Nejjarine.jpg",
+            "description": "Funduq al-Najjarin (Arabic: فندق النجارين, lit. 'Inn of the carpenters'; also transliterated as Fondouk el-Nejjarine) is a historic funduq (a caravanserai or traditional inn) in Fes el Bali, the old medina quarter in the city of Fez, Morocco.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Funduq al-Najjarin",
+                "wikipedia": "en:Funduq al-Najjarin",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 12121544,
+            "lat": 34.03055556,
+            "lon": -6.83555556,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Kasbah_Oudayas_exterior.jpg/1280px-Kasbah_Oudayas_exterior.jpg",
+            "description": "The Kasbah of the Udayas (Arabic: قصبة الأوداية, romanized: Qaṣbat al-Awdāya), also spelled Kasbah of the Oudaias or of the Oudayas, is a kasbah (citadel) in Rabat, Morocco.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Kasbah of the Udayas",
+                "wikipedia": "en:Kasbah of the Udayas",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 22910587,
+            "lat": 38.01,
+            "lon": -80.97055556,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/90/Clifftopstage.jpg",
+            "description": "The Appalachian String Band Music Festival (often referred to simply as \"Clifftop\") is a weeklong gathering of thousands of string band musicians and their friends from across the country and around the world, who each year since 1990 have assembled near the New River Gorge in West Virginia in late July/early August to celebrate the evolving tradition of old-time music and the community of people who keep it thriving by preserving and contributing to that tradition.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Appalachian String Band Music Festival",
+                "wikipedia": "en:Appalachian String Band Music Festival",
+                "tourism": "attraction"
+            }
+        }
+    ]
+}

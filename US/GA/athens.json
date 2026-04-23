@@ -1,0 +1,454 @@
+{
+    "city_metadata": {
+        "city_name": "Athens",
+        "state_code": "GA",
+        "state_full": "Georgia",
+        "city_summary": "Athens is a consolidated city-county in the U.S. state of Georgia. Downtown Athens lies about 70 miles (110 km) northeast of downtown Atlanta. The University of Georgia, the state's flagship public university and an R1 research institution, is in Athens and contributed to its initial growth.",
+        "city_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Athens_Georgia_City_Hall_1.jpg/1280px-Athens_Georgia_City_Hall_1.jpg",
+        "city_lat": 33.95,
+        "city_lon": -83.38333333,
+        "source": "wikipedia_verified_engine"
+    },
+    "attractions": [
+        {
+            "type": "node",
+            "id": 367795402,
+            "lat": 44.9270029,
+            "lon": -69.6725519,
+            "tags": {
+                "addr:city": "Athens",
+                "addr:housenumber": "26",
+                "addr:postcode": "04912",
+                "addr:state": "ME",
+                "addr:street": "Academy Street",
+                "ele": "119",
+                "gnis:feature_id": "1908482",
+                "name": "Athens Historical Society Museum",
+                "tourism": "museum",
+                "website": "https://www.athens.maine.gov/historical-society/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/1b/AthensME_SomersetAcademy.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 368165656,
+            "lat": 32.2087623,
+            "lon": -95.8554253,
+            "tags": {
+                "addr:state": "TX",
+                "ele": "149",
+                "gnis:feature_id": "2014602",
+                "name": "Henderson County Historical Society Museum",
+                "source": "USGS Geonames",
+                "tourism": "museum",
+                "website": "https://sites.rootsweb.com/~txhchc/museum/museum.htm"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/FrandandGauntt1_%281_of_1%29.jpg/1280px-FrandandGauntt1_%281_of_1%29.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 945611315,
+            "lat": 34.8037156,
+            "lon": -86.9655491,
+            "tags": {
+                "addr:city": "Athens",
+                "addr:housenumber": "121",
+                "addr:postcode": "35611",
+                "addr:state": "AL",
+                "addr:street": "East Street",
+                "ele": "210.4",
+                "name": "Gulf Museum",
+                "tourism": "museum"
+            }
+        },
+        {
+            "type": "node",
+            "id": 2626985473,
+            "lat": 33.9550376,
+            "lon": -83.3823765,
+            "tags": {
+                "addr:city": "Athens",
+                "addr:state": "GA",
+                "addr:street": "South Finley Street",
+                "alt_name": "Son of the Tree That Owns Itself;Jackson Oak",
+                "denotation": "natural_monument",
+                "historic": "tree",
+                "leaf_cycle": "deciduous",
+                "leaf_type": "broadleaved",
+                "name": "Tree That Owns Itself",
+                "natural": "tree",
+                "operator:type": "tree",
+                "species": "Quercus alba",
+                "species:en": "White Oak",
+                "start_date": "1832",
+                "tourism": "attraction",
+                "wikidata": "Q1421130",
+                "wikipedia": "en:Tree That Owns Itself"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/The_tree_that_owns_itself%2C_Athens%2C_Georgia_%288342838973%29.jpg/1280px-The_tree_that_owns_itself%2C_Athens%2C_Georgia_%288342838973%29.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 3097228929,
+            "lat": 33.948708,
+            "lon": -83.376232,
+            "tags": {
+                "addr:city": "Athens",
+                "addr:postcode": "30606",
+                "addr:street": "Sanford Drive",
+                "name": "Athens Gneiss Drill Core",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 4886558902,
+            "lat": 33.9575243,
+            "lon": -83.3752855,
+            "tags": {
+                "colour": "black",
+                "description": "It is a superstition among University of Georgia students that one should not walk under the archway until one graduates, otherwise one will not graduate in four years.",
+                "historic": "archway",
+                "name": "The Arch",
+                "operator": "University of Georgia",
+                "start_date": "1857",
+                "tourism": "attraction",
+                "wikipedia": "en:University of Georgia#The Arch"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/170_College_Avenue_in_downtown_Athens%2C_Georgia%2C_is_the_former_office_of_the_band_R.E.M._02.jpg/1280px-170_College_Avenue_in_downtown_Athens%2C_Georgia%2C_is_the_former_office_of_the_band_R.E.M._02.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 5844043071,
+            "lat": 39.9600247,
+            "lon": -89.7237573,
+            "tags": {
+                "addr:city": "Athens",
+                "addr:housenumber": "200",
+                "addr:postcode": "62613",
+                "addr:state": "IL",
+                "addr:street": "South Main Street",
+                "fee": "no",
+                "name": "Long Nine Museum",
+                "phone": "+1-217-361-7857",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Matthew_Rogers_Building_in_Athens.jpg/1280px-Matthew_Rogers_Building_in_Athens.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 9387215433,
+            "lat": 34.8069178,
+            "lon": -86.9698665,
+            "tags": {
+                "name": "Alabama Veterans Museum and Archives",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Athens_First_Methodist_Church.jpg/1280px-Athens_First_Methodist_Church.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 10001270142,
+            "lat": 45.032917,
+            "lon": -90.0753625,
+            "tags": {
+                "historic": "tank",
+                "name": "M60A3",
+                "tourism": "attraction",
+                "vehicle:wikidata": "Q382421",
+                "vehicle:wikipedia": "en:M60 tank"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/2009-0620-Athens-downtown.jpg/1280px-2009-0620-Athens-downtown.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 10034681322,
+            "lat": 33.9450453,
+            "lon": -83.3718763,
+            "tags": {
+                "museum": "nature",
+                "name": "Georgia Museum of Natural History",
+                "tourism": "museum",
+                "website": "https://naturalhistory.uga.edu/"
+            }
+        },
+        {
+            "type": "way",
+            "id": 131828686,
+            "lat": 41.9510516,
+            "lon": -76.5168747,
+            "tags": {
+                "building": "yes",
+                "name": "Tioga Point Museum",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Spalding_Memorial_Library-Tioga_Point_Museum_Nov_09.jpg/1280px-Spalding_Memorial_Library-Tioga_Point_Museum_Nov_09.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 242751377,
+            "lat": 33.9623071,
+            "lon": -83.3746181,
+            "tags": {
+                "addr:city": "Athens",
+                "addr:housenumber": "280",
+                "addr:postcode": "30601",
+                "addr:street": "East Dougherty Street",
+                "building": "house",
+                "building:levels": "2",
+                "description": "Museum & Gift Shop",
+                "name": "Church-Waddel-Brumby House",
+                "opening_hours": "Mo-Sa 10:00-17:00; Su 12:00-17:00",
+                "ref:athensclarkeaddress": "8752",
+                "source": "ACC GIS 2008",
+                "tourism": "museum",
+                "wikidata": "Q72940832"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Ware-Lyndon_House.jpg/1280px-Ware-Lyndon_House.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 242754859,
+            "lat": 33.9601702,
+            "lon": -83.3852349,
+            "tags": {
+                "addr:city": "Athens",
+                "addr:housenumber": "175",
+                "addr:postcode": "30601",
+                "addr:state": "GA",
+                "addr:street": "Hill Street",
+                "building": "house",
+                "name": "T.R.R. Cobb House",
+                "opening_hours": "Tu-Sa 10:00-16:00",
+                "operator": "Watson-Brown Foundation",
+                "phone": "+1-706-369-3513",
+                "ref:athensclarkeaddress": "36812",
+                "source": "ACC GIS 2008",
+                "tourism": "museum",
+                "website": "http://www.trrcobbhouse.org/",
+                "wikidata": "Q7668611",
+                "wikipedia": "en:T. R. R. Cobb House"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/83/T._R._R._Cobb_House%2C_194_Prince_Avenue%2C_Athens_%28Clarke_County%2C_Georgia%29.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 270008922,
+            "lat": 39.3202603,
+            "lon": -82.1094008,
+            "tags": {
+                "building": "yes",
+                "name": "Kennedy Museum of Art",
+                "operator": "Ohio University",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/KennedyMuseum_OhioUniv.jpg/1280px-KennedyMuseum_OhioUniv.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 315575886,
+            "lat": 39.3313198,
+            "lon": -82.1166914,
+            "tags": {
+                "landuse": "fairground",
+                "layer": "1",
+                "leisure": "sports_centre",
+                "name": "Athens County Fairgrounds",
+                "operator": "Athens County Fair",
+                "operator:type": "public",
+                "ownership": "private",
+                "sport": "horse_racing",
+                "tourism": "attraction",
+                "website": "https://athenscofair.org/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Obleness_Hospital.JPG/1280px-Obleness_Hospital.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 442071477,
+            "lat": 34.8068693,
+            "lon": -86.9698734,
+            "tags": {
+                "addr:city": "Athens",
+                "addr:housenumber": "100",
+                "addr:postcode": "35611",
+                "addr:state": "AL",
+                "addr:street": "Pryor Street West",
+                "building": "yes",
+                "gnis:feature_id": "2630511",
+                "name": "Alabama Veterans Museum and Archives",
+                "opening_hours": "Mo-Sa 09:00-15:00",
+                "tourism": "museum",
+                "website": "http://www.alabamaveteransmuseum.com/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Athens_First_Methodist_Church.jpg/1280px-Athens_First_Methodist_Church.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 476934116,
+            "lat": 35.4405746,
+            "lon": -84.5998111,
+            "tags": {
+                "addr:city": "Athens",
+                "addr:housenumber": "522",
+                "addr:postcode": "37370",
+                "addr:state": "TN",
+                "addr:street": "West Madison Avenue",
+                "building": "yes",
+                "fee": "yes",
+                "fee:conditional": "no @ age < 5",
+                "name": "McMinn County Living Heritage Museum",
+                "opening_hours": "Tu-Fr 10:00-17:00; Sa 10:00-13:00; PH off",
+                "tourism": "museum",
+                "website": "https://www.livingheritagemuseum.org/",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "way",
+            "id": 495560048,
+            "lat": 33.9262457,
+            "lon": -83.3871666,
+            "tags": {
+                "addr:city": "Athens",
+                "addr:housenumber": "293",
+                "addr:postcode": "30606",
+                "addr:state": "GA",
+                "addr:street": "Gran Ellen Drive",
+                "name": "Bear Hollow Zoo",
+                "opening_hours": "Mo-Su 09:00-17:00",
+                "operator": "Athens-Clark County Department of Leisure Services",
+                "pets": "no",
+                "phone": "+1 706 613 3616",
+                "tourism": "zoo",
+                "website": "http://www.athensclarkecounty.com/facilities/Facility/Details/1"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Memorial_Park_%28Athens%2C_Georgia%29.jpg/1280px-Memorial_Park_%28Athens%2C_Georgia%29.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 553399151,
+            "lat": 39.3311986,
+            "lon": -82.1021326,
+            "tags": {
+                "building": "yes",
+                "name": "Southeast Ohio History Center",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b0/2015-10-31_Athens_Halloween_Block_Party.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 598413146,
+            "lat": 33.9411738,
+            "lon": -83.3702308,
+            "tags": {
+                "addr:city": "Athens",
+                "addr:housenumber": "90",
+                "addr:postcode": "30602",
+                "addr:state": "GA",
+                "addr:street": "Carlton Street",
+                "building": "yes",
+                "contact:mastodon": "@georgiamuseum@glammr.us",
+                "ele": "231",
+                "name": "Georgia Museum of Art",
+                "operator": "University of Georgia",
+                "operator:wikidata": "Q761534",
+                "phone": "+1-706-542-4662",
+                "tourism": "museum",
+                "website": "https://georgiamuseum.org/",
+                "wikidata": "Q5547611",
+                "wikipedia": "en:Georgia Museum of Art"
+            }
+        },
+        {
+            "type": "way",
+            "id": 630012665,
+            "lat": 39.3273547,
+            "lon": -82.1011271,
+            "tags": {
+                "area": "yes",
+                "name": "Ohio University Alumni Gateway",
+                "tourism": "attraction",
+                "wikidata": "Q122986713"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Ohio_University_Communication_College.jpg/1280px-Ohio_University_Communication_College.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 1069925234,
+            "lat": 33.9017354,
+            "lon": -83.383369,
+            "tags": {
+                "building": "yes",
+                "name": "Porcelain and Decorative Arts Museum",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/State_Botanical_Garden_of_Georgia.jpg/1280px-State_Botanical_Garden_of_Georgia.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 1228773172,
+            "lat": 39.3387946,
+            "lon": -82.103544,
+            "tags": {
+                "addr:city": "Athens",
+                "addr:housenumber": "67",
+                "addr:postcode": "45701",
+                "addr:state": "OH",
+                "addr:street": "Columbus Road",
+                "building": "yes",
+                "name": "Ohio Valley Museum of Discovery",
+                "phone": "+1-740-592-6863",
+                "tourism": "museum",
+                "website": "https://www.ovmod.org",
+                "wikidata": "Q135853720"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 4724106,
+            "lat": 33.766305,
+            "lon": -84.387209,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/48/Airport_train.jpg",
+            "description": "Civic Center station is an elevated subway station in Atlanta, Georgia, serving the Red and Gold lines of the Metropolitan Atlanta Rapid Transit Authority (MARTA) rail system.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Civic Center station (MARTA)",
+                "wikipedia": "en:Civic Center station (MARTA)",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 3138,
+            "lat": 33.74888889,
+            "lon": -84.39,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/A2ATL20250614-0721_%28cropped%29.jpg/1280px-A2ATL20250614-0721_%28cropped%29.jpg",
+            "description": "Atlanta is the capital and most populous city of the U.S. state of Georgia.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Atlanta",
+                "wikipedia": "en:Atlanta",
+                "tourism": "attraction"
+            }
+        }
+    ]
+}

@@ -1,0 +1,1063 @@
+{
+    "city_metadata": {
+        "city_name": "Birmingham",
+        "state_code": "AL",
+        "state_full": "Alabama",
+        "city_summary": "Birmingham ( BUR-ming-ham) is a city in the north central region of Alabama, United States. It is the third-most populous city in the state, with an estimated population of 196,357 as of 2024. The Birmingham metropolitan area, with over 1.19 million residents, is the largest metropolitan area in Alabama and 47th-most populous in the US. Birmingham serves as a major regional economic, medical, and educational hub of the Deep South, Piedmont, and Appalachian regions.",
+        "city_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Birmingham%2C_Alabama.jpg/1280px-Birmingham%2C_Alabama.jpg",
+        "city_lat": 33.5175,
+        "city_lon": -86.80944444,
+        "source": "wikipedia_verified_engine"
+    },
+    "attractions": [
+        {
+            "type": "node",
+            "id": 187104810,
+            "lat": 52.4870085,
+            "lon": -1.9125779,
+            "tags": {
+                "amenity": "clock",
+                "check_date": "2021-07-22",
+                "heritage": "2",
+                "heritage:operator": "Historic England",
+                "historic": "yes",
+                "listed_status": "Grade II",
+                "man_made": "tower",
+                "name": "Chamberlain Clock",
+                "source": "visual survey;cities_revealed_aerial_ imagery;Birmingham_City_Council",
+                "start_date": "1903",
+                "tourism": "attraction",
+                "tower:type": "clock",
+                "wikidata": "Q26626985",
+                "wikipedia": "en:Chamberlain Clock"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Chamberlain_Clock_Jewellery_Quarter.jpg/1280px-Chamberlain_Clock_Jewellery_Quarter.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 304821910,
+            "lat": 52.4911466,
+            "lon": -1.9348144,
+            "tags": {
+                "name": "Centre of the Earth",
+                "tourism": "attraction",
+                "wikidata": "Q5062668"
+            }
+        },
+        {
+            "type": "node",
+            "id": 311132443,
+            "lat": 52.4299863,
+            "lon": -1.9322297,
+            "tags": {
+                "addr:postcode": "B30 1JR",
+                "fee": "yes",
+                "fee:conditional": "no @ (age < 3)",
+                "name": "Cadbury World",
+                "opening_hours:url": "https://www.cadburyworld.co.uk/plan-your-visit/before-you-visit/opening-times/",
+                "tourism": "attraction",
+                "website": "https://www.cadburyworld.co.uk/",
+                "wheelchair": "limited",
+                "wikidata": "Q5945554",
+                "wikipedia": "en:Cadbury World"
+            }
+        },
+        {
+            "type": "node",
+            "id": 352984514,
+            "lat": 52.4846038,
+            "lon": -1.9116092,
+            "tags": {
+                "addr:city": "Birmingham",
+                "addr:housename": "Unit 3, The Argent Centre",
+                "addr:housenumber": "60",
+                "addr:postcode": "B1 3HS",
+                "addr:street": "Frederick Street",
+                "fee": "yes",
+                "name": "The Pen Museum",
+                "opening_hours": "Th-Sa 11:00-16:00; Su 12:00-16:00",
+                "operator": "Birmingham Pen Trade Heritage Association",
+                "phone": "+44 121 236 9834",
+                "source": "survey",
+                "tourism": "museum",
+                "url": "https://penmuseum.org.uk/",
+                "wikidata": "Q16707756",
+                "wikipedia": "en:Pen Museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Argent_Centre.jpg/1280px-Argent_Centre.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 367932101,
+            "lat": 33.5256846,
+            "lon": -86.8100993,
+            "tags": {
+                "addr:city": "Birmingham",
+                "addr:housenumber": "2150",
+                "addr:postcode": "35203",
+                "addr:state": "AL",
+                "addr:street": "Richard Arrington Jr Boulevard North",
+                "building": "yes",
+                "check_date:opening_hours": "2023-07-26",
+                "contact:facebook": "https://www.facebook.com/AlabamaSportsHOF/",
+                "ele": "182",
+                "fee": "yes",
+                "gnis:feature_id": "1700133",
+                "museum": "sports",
+                "name": "Alabama Sports Hall of Fame",
+                "opening_hours": "Mo-Fr 09:00-17:00",
+                "source": "USGS Geonames",
+                "tourism": "museum",
+                "website": "https://ashof.org/",
+                "wikidata": "Q4705325",
+                "wikimedia_commons": "File:Alabama_Sports_Hall_of_Fame_Nov_2011_01.jpg",
+                "wikipedia": "en:Alabama Sports Hall of Fame"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Alabama_Sports_Hall_of_Fame_Nov_2011_01.jpg/1280px-Alabama_Sports_Hall_of_Fame_Nov_2011_01.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 618598488,
+            "lat": 52.4295339,
+            "lon": -1.9363717,
+            "tags": {
+                "name": "Bournville Carillon",
+                "tourism": "attraction",
+                "url": "http://carillon.atspace.org/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/62/BirminghamBournvilleShops.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 1745739183,
+            "lat": 52.419404,
+            "lon": -1.9196471,
+            "tags": {
+                "name": "The Patrick Collection",
+                "note": "The Patrick Collection is closed. Vehicles from the collection can be seen at The Black Country Living Museum at https://bclm.com/",
+                "opening_hours": "Collection is Permanently Closed",
+                "tourism": "museum",
+                "website": "https://www.patrickcollection.org/",
+                "wikipedia": "en:Patrick Motors"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/74/Lifford_Station.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 3470525075,
+            "lat": 52.4707474,
+            "lon": -1.8606437,
+            "tags": {
+                "access": "private",
+                "addr:city": "Birmingham",
+                "addr:housename": "The Rex Centre",
+                "addr:housenumber": "432",
+                "addr:postcode": "B10 0UG",
+                "addr:street": "Coventry Road",
+                "name": "Islamic Exhibition Experience",
+                "tourism": "museum",
+                "website": "http://www.islamicexhibition.org/"
+            }
+        },
+        {
+            "type": "node",
+            "id": 4631508762,
+            "lat": 52.4819831,
+            "lon": -1.9074442,
+            "tags": {
+                "addr:city": "Birmingham",
+                "addr:housenumber": "13-15",
+                "addr:postcode": "B3 1JP",
+                "addr:street": "Fleet Street",
+                "email": "newmanbrothers@coffinworks.org",
+                "museum": "history",
+                "name": "Newman Brothers Coffin Furniture Factory",
+                "opening_hours:url": "http://www.coffinworks.org/newmanbros/visit/",
+                "phone": "+44 121 233 4790",
+                "tourism": "museum",
+                "website": "https://www.coffinworks.org/newmanbros/",
+                "wikidata": "Q15262166",
+                "wikipedia": "en:Newman Brothers Coffin Furniture Factory"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Newman_Brothers_Coffin_Factory%2C_Fleet_Street%2C_Birmingham.JPG/1280px-Newman_Brothers_Coffin_Factory%2C_Fleet_Street%2C_Birmingham.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 5550719622,
+            "lat": 52.4860628,
+            "lon": -1.8926066,
+            "tags": {
+                "addr:city": "Birmingham",
+                "addr:street": "Lancaster Circus Flyover",
+                "name": "Fastlands Skatepark",
+                "name:en": "Fastlands Skatepark",
+                "opening_hours": "24/7",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/ac/County_Hall_-_Lancaster_Circus_%28geograph_3354898%29.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 6058642405,
+            "lat": 52.4790946,
+            "lon": -1.9151257,
+            "tags": {
+                "addr:city": "Birmingham",
+                "addr:postcode": "B1 2AA",
+                "addr:street": "King Edwards Road",
+                "brand": "LEGOLAND Discovery Centre",
+                "brand:wikidata": "Q303439",
+                "contact:facebook": "https://www.facebook.com/LDCBham",
+                "contact:twitter": "LDCBirmingham",
+                "contact:website": "https://www.legolanddiscoverycentre.com/birmingham/",
+                "fhrs:id": "1094274",
+                "name": "LEGOLAND Discovery Centre",
+                "operator": "Merlin Entertainments",
+                "operator:wikidata": "Q573278",
+                "tourism": "theme_park"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Arena_from_Library_of_Birmingham_2024-07-19.jpg/1280px-Arena_from_Library_of_Birmingham_2024-07-19.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 7065729844,
+            "lat": 52.4841199,
+            "lon": -1.8936368,
+            "tags": {
+                "name": "West Midlands Police Museum",
+                "tourism": "museum",
+                "wikidata": "Q15945108",
+                "wikipedia": "en:West Midlands Police Museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/West_Midlands_Police_Museum.jpg/1280px-West_Midlands_Police_Museum.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 7341716686,
+            "lat": 33.4879339,
+            "lon": -86.8055363,
+            "tags": {
+                "name": "access stairs to Vulcan trail",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Birmingham%27s_skyline_from_it%27s_highest_point.jpg/1280px-Birmingham%27s_skyline_from_it%27s_highest_point.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 7545711236,
+            "lat": 42.5467847,
+            "lon": -83.2197898,
+            "tags": {
+                "name": "Hill School Bell",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/JohnWHunterHouseBirminghamMI.jpg/1280px-JohnWHunterHouseBirminghamMI.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 9111296878,
+            "lat": 52.4758816,
+            "lon": -1.9050926,
+            "tags": {
+                "addr:city": "Birmingham",
+                "addr:postcode": "B1 1RE",
+                "addr:street": "Wharfside Street",
+                "level": "3",
+                "name": "BBC Midlands Visitor Centre",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/BBC_Radio_WM_logo_2022.svg/1280px-BBC_Radio_WM_logo_2022.svg.png",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 10870324414,
+            "lat": 52.4789619,
+            "lon": -1.9184271,
+            "tags": {
+                "addr:housenumber": "1",
+                "addr:postcode": "B16 8AE",
+                "addr:street": "Sheepcote Street",
+                "name": "Roundhouse Birmingham",
+                "operator": "Roundhouse Birmingham",
+                "tourism": "attraction",
+                "website": "https://www.roundhousebirmingham.org.uk"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/The_Roundhouse_-_St_Vincent_Street%2C_Ladywood.jpg/1280px-The_Roundhouse_-_St_Vincent_Street%2C_Ladywood.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 10876630238,
+            "lat": 52.4804695,
+            "lon": -1.8849635,
+            "tags": {
+                "name": "Gun Barrell Proof House",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Proofhouse_Birmingham.png",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 11777072690,
+            "lat": 33.5165,
+            "lon": -86.8058,
+            "tags": {
+                "museum": "books",
+                "name": "Museum of Fond Memories at Reed Books",
+                "tourism": "museum"
+            }
+        },
+        {
+            "type": "way",
+            "id": 28164342,
+            "lat": 52.4450115,
+            "lon": -2.0116783,
+            "tags": {
+                "name": "Woogate Valley Urban Farm",
+                "source": "survey;estimate;bing",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Shops_on_Wood_Lane_-_geograph.org.uk_-_2051189.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 28288365,
+            "lat": 52.4804297,
+            "lon": -1.9032498,
+            "tags": {
+                "addr:city": "Birmingham",
+                "addr:postcode": "B3 3DH",
+                "addr:street": "Chamberlain Square",
+                "architect": "Yeoville Thomason",
+                "building": "heritage",
+                "building:levels": "6",
+                "fee": "no",
+                "heritage": "2",
+                "heritage:operator": "Historic England",
+                "listed_status": "Grade II*",
+                "name": "Birmingham Museum & Art Gallery",
+                "opening_hours": "Mo-Th 10:00-17:00, Fr 10:30-17:00,Sa-Su 10:00-17:00",
+                "operator": "Birmingham City Council",
+                "source": "visual survey;cities_revealed_aerial_ imagery;PMSA",
+                "start_date": "1884-89",
+                "tourism": "museum",
+                "url": "http://www.bmag.org.uk/birmingham-museum/",
+                "wheelchair": "no",
+                "wikidata": "Q1799857",
+                "wikipedia": "en:Birmingham Museum and Art Gallery"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Birmingham_Council_House_and_103_Colmore_Row.jpg/1280px-Birmingham_Council_House_and_103_Colmore_Row.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 33033394,
+            "lat": 52.4544549,
+            "lon": -1.9012849,
+            "tags": {
+                "name": "Model of the Elan Valley Reservoirs",
+                "tourism": "attraction",
+                "wikidata": "Q62625844"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Cannon_Hill_Park.jpg/1280px-Cannon_Hill_Park.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 33033486,
+            "lat": 52.4521671,
+            "lon": -1.9006844,
+            "tags": {
+                "building": "yes",
+                "name": "Cannon Hill Park Station",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Cannon_Hill_Park.jpg/1280px-Cannon_Hill_Park.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 35876630,
+            "lat": 52.4299888,
+            "lon": -1.9355284,
+            "tags": {
+                "building": "yes",
+                "heritage": "2",
+                "heritage:operator": "Historic England",
+                "listed_status": "Grade II",
+                "name": "Rest House",
+                "source": "visual survey; bing;English Heritage",
+                "tourism": "attraction",
+                "wikidata": "Q26339030"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/62/BirminghamBournvilleShops.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 38895473,
+            "lat": 52.5064778,
+            "lon": -1.8843424,
+            "tags": {
+                "addr:city": "Birmingham",
+                "addr:postcode": "B6 6JD",
+                "addr:street": "Trinity Road",
+                "architect": "John Thorpe",
+                "building": "heritage",
+                "heritage": "2",
+                "heritage:operator": "Historic England",
+                "historic": "manor",
+                "listed_status": "Grade I",
+                "name": "Aston Hall",
+                "operator": "Birmingham City Council",
+                "source": "visual survey; OS_OpenData_StreetView;Bing",
+                "start_date": "1618..1631",
+                "tourism": "museum",
+                "url": "http://www.birmingham.gov.uk/astonhall",
+                "wikidata": "Q4810979",
+                "wikipedia": "en:Aston Hall"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Aston_Hall.jpg/1280px-Aston_Hall.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 39265950,
+            "lat": 52.4504108,
+            "lon": -1.9277595,
+            "tags": {
+                "addr:city": "Birmingham",
+                "addr:postcode": "B15 2TS",
+                "architect": "Robert Atkinson",
+                "building": "yes",
+                "fee": "no",
+                "fhrs:id": "598256",
+                "height": "11.4",
+                "heritage": "2",
+                "heritage:operator": "Historic England",
+                "listed_status": "Grade II",
+                "name": "The Barber Institute of Fine Arts",
+                "note": "Temporarily Closed for Refurbishment until 2026",
+                "opening_hours": "Mo-Su off",
+                "ref": "R14",
+                "source": "survey;estimation",
+                "start_date": "1936",
+                "tourism": "museum",
+                "website": "https://barber.org.uk/",
+                "wikidata": "Q4859590",
+                "wikipedia": "en:Barber Institute of Fine Arts"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/6b/BirminghamBarberInstitute.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 40089365,
+            "lat": 52.4995811,
+            "lon": -1.9229124,
+            "tags": {
+                "addr:city": "Birmingham",
+                "addr:postcode": "B18 5LB",
+                "architect": "Samuel Wyatt",
+                "building": "heritage",
+                "heritage": "2",
+                "heritage:operator": "Historic England",
+                "historic": "manor",
+                "listed_status": "Grade II*",
+                "name": "Soho House Museum",
+                "name:da": "Soho House",
+                "operator": "Birmingham Museums & Art Gallery",
+                "ref:GB:uprn": "100071434856",
+                "source": "visual survey;estimate",
+                "start_date": "1789",
+                "tourism": "museum",
+                "wikidata": "Q1810087",
+                "wikipedia": "en:Soho House"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Sohohouse1.JPG/1280px-Sohohouse1.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 50161579,
+            "lat": 52.4308481,
+            "lon": -1.9342805,
+            "tags": {
+                "check_date:opening_hours": "2024-01-05",
+                "fee": "yes",
+                "fee:conditional": "no @ (age < 4)",
+                "leisure": "garden",
+                "name": "Selly Manor Museum",
+                "opening_hours": "Sep-May Mo-Fr 10:00-17:00; Jun-Aug Tu-Su 10:00-17:00",
+                "tourism": "museum",
+                "url": "http://www.sellymanormuseum.org.uk/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Selly_Manor_1_%285537731498%29.jpg/1280px-Selly_Manor_1_%285537731498%29.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 59124459,
+            "lat": 52.4420125,
+            "lon": -1.9011946,
+            "tags": {
+                "addr:city": "Birmingham",
+                "addr:housenumber": "4",
+                "addr:street": "Yew Tree Road",
+                "architect": "John Henry Chamberlain",
+                "building": "yes",
+                "heritage": "8",
+                "heritage:operator": "Birmingham_Civic_Society",
+                "historic": "heritage;manor",
+                "name": "Highbury Hall",
+                "source": "visual survey;OS_OpenData_StreetView;Birmingham_Civic_Society",
+                "start_date": "1880",
+                "tourism": "attraction",
+                "wikidata": "Q5757863"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Highbury_Hall_Moseley_2018_004.jpg/1280px-Highbury_Hall_Moseley_2018_004.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 76390518,
+            "lat": 52.4792749,
+            "lon": -1.9183575,
+            "tags": {
+                "addr:city": "Birmingham",
+                "addr:housenumber": "1",
+                "addr:postcode": "B16 8AE",
+                "addr:street": "Sheepcote Street",
+                "area": "yes",
+                "building": "yes",
+                "heritage": "2",
+                "heritage:operator": "Historic England",
+                "listed_status": "Grade II",
+                "name": "Roundhouse Birmingham",
+                "phone": "+44 121 716 4077",
+                "source": "visual survey;cities_revealed_aerial_ imagery;Birmingham_City_Council",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/The_Roundhouse_-_St_Vincent_Street%2C_Ladywood.jpg/1280px-The_Roundhouse_-_St_Vincent_Street%2C_Ladywood.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 80261946,
+            "lat": 52.4343528,
+            "lon": -1.8560257,
+            "tags": {
+                "addr:city": "Birmingham",
+                "addr:postcode": "B13 0BD",
+                "addr:street": "Cole Bank Road",
+                "building": "heritage",
+                "fee": "yes",
+                "fee:conditional": "no @ age < 3",
+                "heritage": "2",
+                "heritage:operator": "Historic England",
+                "listed_status": "Grade II",
+                "name": "Sarehole Mill",
+                "opening_hours:url": "https://www.birminghammuseums.org.uk/sarehole-mill/visit",
+                "source": "visual survey;OS_OpenData_StreetView",
+                "start_date": "1764..1768",
+                "tourism": "museum",
+                "website": "https://www.birminghammuseums.org.uk/sarehole-mill",
+                "wikidata": "Q82108",
+                "wikipedia": "en:Sarehole Mill"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/83/Sarehole_Watermill_-_geograph.org.uk_-_2370250.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 88512077,
+            "lat": 52.4734505,
+            "lon": -1.8094123,
+            "tags": {
+                "addr:city": "Birmingham",
+                "addr:postcode": "B25 8RN",
+                "addr:street": "Blakesley Road",
+                "building": "heritage",
+                "fee": "yes",
+                "heritage": "2",
+                "heritage:operator": "Historic England",
+                "historic": "manor",
+                "listed_status": "Grade II*",
+                "name": "Blakesley Hall",
+                "opening_hours": "easter-Oct 31: Tu-Su 12:00-16:00",
+                "operator": "Birmingham City Council",
+                "source": "OS_OpenData_StreetView",
+                "start_date": "~1590",
+                "tourism": "museum",
+                "website": "https://www.birminghammuseums.org.uk/blakesley-hall",
+                "wheelchair": "limited",
+                "wikidata": "Q4924644",
+                "wikipedia": "en:Blakesley Hall"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Blakesley_Hall_%281%29.jpg/1280px-Blakesley_Hall_%281%29.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 98115590,
+            "lat": 52.4905718,
+            "lon": -1.9120194,
+            "tags": {
+                "addr:city": "Birmingham",
+                "addr:housenumber": "70-80",
+                "addr:postcode": "B18 6HA",
+                "addr:street": "Vyse Street",
+                "building": "yes",
+                "heritage": "2",
+                "heritage:operator": "Historic England",
+                "listed_status": "Grade II",
+                "name": "Museum of the Jewellery Quarter",
+                "source": "cities_revealed_aerial_imagery;Birmingham_City_Council",
+                "tourism": "museum",
+                "website": "https://www.birminghammuseums.org.uk/museum-of-the-jewellery-quarter",
+                "wikidata": "Q6941092",
+                "wikipedia": "en:Museum of the Jewellery Quarter"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/68/The_Jewellery_Quarter_Museum.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 115343590,
+            "lat": 52.4496027,
+            "lon": -1.9103544,
+            "tags": {
+                "addr:postcode": "B5 7RL",
+                "addr:street": "Pershore Road",
+                "check_date:opening_hours": "2024-03-29",
+                "fee": "yes",
+                "fee:conditional": "no @ age < 3",
+                "name": "Birmingham Wildlife Conservation Park",
+                "opening_hours": "Apr 01-Oct Su[-1] 10:00-17:00, Oct Su[-1]-Apr 01 10:00-17:00",
+                "tourism": "zoo",
+                "website": "https://www.birmingham.gov.uk/conservationpark",
+                "wikidata": "Q4916760",
+                "wikipedia": "en:Birmingham Wildlife Conservation Park"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Birmingham_Wildlife_Conservation_Park.jpg/1280px-Birmingham_Wildlife_Conservation_Park.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 129478062,
+            "lat": 33.4873034,
+            "lon": -86.7788177,
+            "tags": {
+                "addr:housenumber": "2630",
+                "fee": "yes",
+                "image": "https://commons.wikimedia.org/wiki/File:One_day_old_giraffe_with_mother_-Birmingham_Zoo.jpg",
+                "name": "Birmingham Zoo",
+                "source": "Bing",
+                "tourism": "zoo",
+                "website": "https://www.birminghamzoo.com/",
+                "wikidata": "Q865749",
+                "wikipedia": "en:Birmingham Zoo"
+            }
+        },
+        {
+            "type": "way",
+            "id": 129478064,
+            "lat": 33.5148181,
+            "lon": -86.8087099,
+            "tags": {
+                "addr:city": "Birmingham",
+                "addr:housenumber": "200",
+                "addr:postcode": "35203",
+                "addr:street": "19th St N",
+                "building": "yes",
+                "building:levels": "4",
+                "fee": "yes",
+                "fee:conditional": "no @ (age < 2)",
+                "museum": "science",
+                "name": "McWane Science Center",
+                "opening_hours": "We-Fr 09:00-17:00; Sa 10:00-17:00; Su 12:00-17:00; Nov Th[4] off; Dec 24-25 off; Jan 01 off",
+                "tourism": "museum",
+                "website": "https://mcwane.org/",
+                "wheelchair": "yes",
+                "wikidata": "Q6802755"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/McWane_Science_Center_Nov_2011.jpg/1280px-McWane_Science_Center_Nov_2011.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 129478688,
+            "lat": 33.5219278,
+            "lon": -86.791633,
+            "tags": {
+                "alt_name": "Sloss Furnaces",
+                "gnis:feature_id": "163457",
+                "historic": "industrial",
+                "landuse": "industrial",
+                "name": "Sloss Furnaces National Historic Landmark",
+                "tourism": "attraction",
+                "website": "https://www.slossfurnaces.com/",
+                "wikidata": "Q7541393",
+                "wikipedia": "en:Sloss Furnaces"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Sloss_Furnaces%2C_Birmingham_AL%2C_North_view_20160714_1.jpg/1280px-Sloss_Furnaces%2C_Birmingham_AL%2C_North_view_20160714_1.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 233561533,
+            "lat": 33.4917316,
+            "lon": -86.7954988,
+            "tags": {
+                "building": "yes",
+                "level": "1",
+                "man_made": "tower",
+                "name": "Vulcan",
+                "ref:nrhp": "76000333",
+                "tourism": "attraction",
+                "tower:construction": "freestanding",
+                "tower:type": "observation",
+                "wikidata": "Q7943500",
+                "wikipedia": "en:Vulcan statue"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Vulcan_statue_Birmingham_AL_2008_snow_retouched.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 237457026,
+            "lat": 33.5332632,
+            "lon": -86.6144297,
+            "tags": {
+                "building": "yes",
+                "height": "13m",
+                "level": "4",
+                "museum": "transport",
+                "name": "Barber Vintage Motorsports Museum",
+                "opening_hours": "Mo-Sa 10:00-17:00, Su 12:00-17:00",
+                "tourism": "museum",
+                "website": "https://www.barbermuseum.org/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Barber_Motorsports_Park.svg/1280px-Barber_Motorsports_Park.svg.png",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 239083198,
+            "lat": 33.4917168,
+            "lon": -86.7960335,
+            "tags": {
+                "building": "yes",
+                "museum": "local",
+                "name": "Vulcan Museum",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Vulcan_statue_Birmingham_AL_2008_snow_retouched.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 331324129,
+            "lat": 52.4522453,
+            "lon": -1.9026776,
+            "tags": {
+                "max_age": "10",
+                "name": "Fun Park",
+                "seasonal": "yes",
+                "tourism": "theme_park"
+            }
+        },
+        {
+            "type": "way",
+            "id": 406003396,
+            "lat": 52.4807962,
+            "lon": -1.903923,
+            "tags": {
+                "check_date": "2024-09-01",
+                "fee": "no",
+                "indoor": "yes",
+                "level": "2",
+                "name": "Birmingham Museum and Art Gallery",
+                "opening_hours": "Tu-Su 10:00-17:00",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Birmingham_Museum_and_Art_Gallery_from_the_Central_Library.jpg/1280px-Birmingham_Museum_and_Art_Gallery_from_the_Central_Library.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 500763368,
+            "lat": 52.4825764,
+            "lon": -1.8868097,
+            "tags": {
+                "addr:city": "Birmingham",
+                "addr:postcode": "B4 7XG",
+                "check_date:opening_hours": "2024-06-20",
+                "fee": "yes",
+                "fee:conditional": "no @ age < 3",
+                "name": "Thinktank Birmingham Science Museum",
+                "old_name": "Thinktank",
+                "opening_hours": "We-Su 10:00-17:00",
+                "tourism": "museum",
+                "website": "https://www.birminghammuseums.org.uk/thinktank",
+                "wheelchair": "yes",
+                "wikidata": "Q7784619"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Thinktank_Science_Garden.jpg/1280px-Thinktank_Science_Garden.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 518554755,
+            "lat": 52.4588578,
+            "lon": -1.7773316,
+            "tags": {
+                "fee": "no",
+                "landuse": "farmyard",
+                "name": "Old Rectory Farm",
+                "operator": "bcc",
+                "source": "Warwicks CC Aerial Imagery 2013",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/St_Giles%27_Church%2C_Church_Road%2C_Sheldon%2C_Birmingham_%28NHLE_Code_1075659%29_%28April_2025%29_%285%29.jpg/1280px-St_Giles%27_Church%2C_Church_Road%2C_Sheldon%2C_Birmingham_%28NHLE_Code_1075659%29_%28April_2025%29_%285%29.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 653357678,
+            "lat": 42.5384374,
+            "lon": -83.1923335,
+            "tags": {
+                "addr:city": "Birmingham",
+                "addr:country": "US",
+                "addr:housenumber": "2300",
+                "addr:postcode": "48009",
+                "addr:state": "MI",
+                "addr:street": "East Lincoln Street",
+                "building": "yes",
+                "leisure": "sports_centre",
+                "name": "Birmingham Ice Arena",
+                "opening_hours": "Mo-Su 09:00-20:00",
+                "sport": "ice_hockey",
+                "tourism": "attraction",
+                "website": "http://www.bhamgov.org/government/departments/dps/ice_sports_arena.php"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Troy_Transit_Center_%282022%29.jpg/1280px-Troy_Transit_Center_%282022%29.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 674362062,
+            "lat": 52.4492774,
+            "lon": -1.9322789,
+            "tags": {
+                "addr:city": "Birmingham",
+                "addr:housename": "Lapworth Museum of Geology",
+                "addr:postcode": "B15 2TT",
+                "addr:street": "University of Birmingham",
+                "building": "university",
+                "building:colour": "red",
+                "building:material": "brick",
+                "check_date:opening_hours": "2024-01-05",
+                "fee": "no",
+                "height": "13.78",
+                "museum": "archaeological",
+                "name": "Lapworth Museum of Geology",
+                "opening_hours": "Mo-Fr 10:00-17:00; Sa,Su 12:00-17:00",
+                "operator": "University of Birmingham",
+                "ref": "R4",
+                "roof:colour": "grey",
+                "roof:shape": "gabled",
+                "tourism": "museum",
+                "website": "https://www.birmingham.ac.uk/facilities/lapworth-museum/index.aspx",
+                "wikidata": "Q6488462",
+                "wikipedia": "en:Lapworth Museum of Geology"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Lapworth_Museum.jpg/1280px-Lapworth_Museum.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 806897517,
+            "lat": 42.54675,
+            "lon": -83.2201034,
+            "tags": {
+                "addr:city": "Birmingham",
+                "addr:country": "US",
+                "addr:housenumber": "556",
+                "addr:postcode": "48009",
+                "addr:state": "MI",
+                "addr:street": "West Maple Road",
+                "building": "yes",
+                "name": "The Birmingham Museum",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/JohnWHunterHouseBirminghamMI.jpg/1280px-JohnWHunterHouseBirminghamMI.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 828841667,
+            "lat": 52.5441468,
+            "lon": -1.9113922,
+            "tags": {
+                "building": "ruins",
+                "historic": "ruins",
+                "name": "Booth's Farm farmhouse",
+                "operator": "Birmingham City Council",
+                "tourism": "attraction",
+                "wheelchair": "no",
+                "wikidata": "Q97599963"
+            }
+        },
+        {
+            "type": "way",
+            "id": 930244120,
+            "lat": 33.500093,
+            "lon": -86.8387123,
+            "tags": {
+                "heritage": "2",
+                "heritage:operator": "nrhp",
+                "historic": "yes",
+                "image": "https://commons.wikimedia.org/wiki/File:GENERAL_VIEW_LOOKING_TOWARD_THE_NORTH_(FRONT)_ELEVATION_FROM_THE_NORTH_NORTHWEST_-_Arlington_Place,_331_Cotton_Avenue,_Southwest,_Birmingham,_Jefferson_County,_AL_HABS_ALA,37-BIRM,1-25.tif",
+                "leisure": "park",
+                "museum": "history",
+                "name": "Arlington Antebellum Home and Gardens",
+                "ref:nrhp": "70000103",
+                "tourism": "museum",
+                "website": "https://www.arlingtonantebellumhomeandgardens.com/",
+                "wikipedia": "en:Arlington Antebellum Home & Gardens"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Arlington_Place_02.jpg/1280px-Arlington_Place_02.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 985464696,
+            "lat": 52.4528124,
+            "lon": -1.8542922,
+            "tags": {
+                "historic": "aircraft",
+                "manufacturer": "Hawker Aircraft",
+                "manufacturer:wikidata": "Q1992531",
+                "model": "Hawker Hunter",
+                "model:wikidata": "Q641943",
+                "name": "Hawker Hunter WT723",
+                "source": "visual survey;estimate",
+                "tourism": "attraction",
+                "wikidata": "Q108669183"
+            }
+        },
+        {
+            "type": "way",
+            "id": 999182476,
+            "lat": 52.4294933,
+            "lon": -1.9319625,
+            "tags": {
+                "building": "yes",
+                "fee": "yes",
+                "name": "Bournville Experience",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/62/BirminghamBournvilleShops.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 999203226,
+            "lat": 52.4297769,
+            "lon": -1.9316552,
+            "tags": {
+                "name": "Cadbury World",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "way",
+            "id": 1217149376,
+            "lat": 52.4742925,
+            "lon": -1.8972429,
+            "tags": {
+                "addr:housenumber": "Court 15",
+                "addr:street": "Hurst Street",
+                "fee": "yes",
+                "name": "Back To Backs",
+                "operator": "National Trust",
+                "tourism": "museum",
+                "website": "https://www.nationaltrust.org.uk/birmingham-back-to-backs",
+                "wikidata": "Q4916605",
+                "wikipedia": "en:Birmingham Back to Backs"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Birmingham_back_to_backs_4_%283874510488%29.jpg/1280px-Birmingham_back_to_backs_4_%283874510488%29.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 1291205595,
+            "lat": 33.5634894,
+            "lon": -86.7380618,
+            "tags": {
+                "addr:city": "Birmingham",
+                "addr:housenumber": "4343",
+                "addr:postcode": "35206",
+                "addr:street": "73rd Street North",
+                "image": "https://commons.wikimedia.org/wiki/File:Southern_Museum_of_Flight_DC-3.jpg",
+                "museum": "aviation",
+                "name": "Southern Museum Of Flight",
+                "tourism": "museum",
+                "website": "https://www.southernmuseumofflight.org/",
+                "wikidata": "Q7570154",
+                "wikipedia": "en:Southern Museum of Flight"
+            }
+        },
+        {
+            "type": "way",
+            "id": 1360138469,
+            "lat": 33.5222021,
+            "lon": -86.810091,
+            "tags": {
+                "addr:city": "Birmingham",
+                "addr:housenumber": "2000",
+                "addr:postcode": "35203",
+                "addr:state": "AL",
+                "addr:street": "8th Avenue North",
+                "air_conditioning": "yes",
+                "building": "museum",
+                "building:levels": "2",
+                "changing_table": "yes",
+                "check_date": "2025-02-15",
+                "ele": "183",
+                "fee": "no",
+                "gnis:feature_id": "1700142",
+                "museum": "art",
+                "name": "Birmingham Museum of Art",
+                "phone": "+1-205-254-2565",
+                "source": "USGS Geonames",
+                "start_date": "1951",
+                "toilets": "yes",
+                "tourism": "museum",
+                "website": "https://artsbma.org/",
+                "wheelchair": "yes",
+                "wikidata": "Q865736",
+                "wikimedia_commons": "Category:Birmingham Museum of Art",
+                "wikipedia": "en:Birmingham Museum of Art"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/BMA-2010-screen.jpg/1280px-BMA-2010-screen.jpg",
+            "image_source": "wikipedia_verified"
+        }
+    ]
+}

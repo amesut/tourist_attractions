@@ -1,0 +1,398 @@
+{
+    "city_metadata": {
+        "city_name": "Waco",
+        "state_code": "TX",
+        "state_full": "Texas",
+        "city_summary": "Waco ( WAY-koh) is a city in and the county seat of McLennan County, Texas, United States. It is situated along the Brazos River and I-35, halfway between Dallas and Austin. The city had a U.S. census estimated 2024 population of 146,608, making it the 24th-most populous city in the state.",
+        "city_image": "https://upload.wikimedia.org/wikipedia/commons/e/e1/WacoCity.jpg",
+        "city_lat": 31.5492,
+        "city_lon": -97.1472,
+        "source": "wikipedia_verified_engine"
+    },
+    "attractions": [
+        {
+            "type": "node",
+            "id": 368165556,
+            "lat": 31.5404442,
+            "lon": -97.1561143,
+            "tags": {
+                "addr:state": "TX",
+                "ele": "145",
+                "gnis:feature_id": "2014481",
+                "name": "Texas Scottish Rite Museum",
+                "source": "USGS Geonames",
+                "tourism": "museum"
+            }
+        },
+        {
+            "type": "node",
+            "id": 368165701,
+            "lat": 31.5570439,
+            "lon": -97.1366468,
+            "tags": {
+                "addr:state": "TX",
+                "ele": "130",
+                "gnis:feature_id": "2032342",
+                "name": "Helen Marie Taylor Museum",
+                "source": "USGS Geonames",
+                "tourism": "museum",
+                "website": "https://wacohistory.org/items/show/33"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a8/ALICO_Building.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 7108459001,
+            "lat": 31.5240314,
+            "lon": -97.1319861,
+            "tags": {
+                "name": "Waco Traffic Circle",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "way",
+            "id": 307395284,
+            "lat": 31.5710792,
+            "lon": -97.1457843,
+            "tags": {
+                "name": "Cameron Park Zoo",
+                "tourism": "zoo",
+                "website": "https://www.cameronparkzoo.com",
+                "wikidata": "Q5026335",
+                "wikipedia": "en:Cameron Park Zoo"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/24/Cameron_park_zoo_entrance.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 572473751,
+            "lat": 31.5547738,
+            "lon": -97.1289184,
+            "tags": {
+                "addr:city": "Waco",
+                "addr:housenumber": "300",
+                "addr:postcode": "76701",
+                "addr:state": "TX",
+                "addr:street": "South 5th Street",
+                "building": "yes",
+                "ele": "126",
+                "gnis:feature_id": "2014580",
+                "name": "Dr Pepper Museum",
+                "source": "USGS Geonames",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4e/Photo_of_Magnolia_Market%2C_Waco%2C_TX.jpg/1280px-Photo_of_Magnolia_Market%2C_Waco%2C_TX.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 732490905,
+            "lat": 31.5558018,
+            "lon": -97.1184372,
+            "tags": {
+                "addr:city": "Waco",
+                "addr:housenumber": "100",
+                "addr:postcode": "76706",
+                "addr:state": "TX",
+                "addr:street": "Texas Ranger Trail",
+                "building": "yes",
+                "ele": "220",
+                "email": "info@texasranger.org",
+                "gnis:feature_id": "2014533",
+                "museum": "history",
+                "name": "Texas Ranger Hall of Fame and Museum",
+                "opening_hours": "Mo-Su 09:00-05:00",
+                "phone": "+1-254-750-8631",
+                "source": "USGS Geonames",
+                "tourism": "museum",
+                "website": "https://www.texasranger.org",
+                "wikidata": "Q7707926",
+                "wikipedia": "en:Texas Ranger Hall of Fame and Museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Texas_Rangers_Museum.jpg/1280px-Texas_Rangers_Museum.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 905131708,
+            "lat": 31.5674804,
+            "lon": -97.1342269,
+            "tags": {
+                "addr:city": "Waco",
+                "addr:housenumber": "100",
+                "addr:postcode": "76704",
+                "addr:state": "TX",
+                "addr:street": "Mill Street",
+                "building": "yes",
+                "ele": "119",
+                "gnis:feature_id": "2030881",
+                "name": "East Terrace House Museum",
+                "source": "microsoft/BuildingFootprints;USGS Geonames",
+                "tourism": "museum"
+            }
+        },
+        {
+            "type": "way",
+            "id": 908439949,
+            "lat": 31.5591643,
+            "lon": -97.1335724,
+            "tags": {
+                "addr:city": "Waco",
+                "addr:housenumber": "407",
+                "addr:postcode": "76701",
+                "addr:state": "TX",
+                "addr:street": "Columbus Avenue",
+                "building": "yes",
+                "ele": "124",
+                "gnis:feature_id": "2030727",
+                "name": "McCulloch House Museum",
+                "source": "microsoft/BuildingFootprints;USGS Geonames",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a8/ALICO_Building.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 908548565,
+            "lat": 31.5409033,
+            "lon": -97.1564101,
+            "tags": {
+                "addr:city": "Waco",
+                "addr:housenumber": "2801",
+                "addr:postcode": "76707",
+                "addr:state": "TX",
+                "addr:street": "West Waco Drive",
+                "building": "yes",
+                "name": "Lee Lockwood Library and Museum",
+                "source": "microsoft/BuildingFootprints",
+                "tourism": "museum",
+                "wikidata": "Q123472242",
+                "wikimedia_commons": "File:Lee Lockwood Library and Museum-001.jpg"
+            }
+        },
+        {
+            "type": "way",
+            "id": 910914499,
+            "lat": 31.512577,
+            "lon": -97.1571195,
+            "tags": {
+                "addr:city": "Waco",
+                "addr:housenumber": "4521",
+                "addr:postcode": "76711",
+                "addr:state": "TX",
+                "addr:street": "Speight Avenue",
+                "building": "yes",
+                "name": "Red Men Hall",
+                "source": "microsoft/BuildingFootprints",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Red_men_museum_2012.jpg/1280px-Red_men_museum_2012.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 1049221281,
+            "lat": 31.5474581,
+            "lon": -97.1215003,
+            "tags": {
+                "fee": "no",
+                "name": "Bill & Eva Williams Bear Habitat",
+                "opening_hours": "sunrise-sunset",
+                "operator": "Baylor University",
+                "tourism": "zoo"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/ab/CarrollField_1922.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 1059257853,
+            "lat": 31.5517414,
+            "lon": -97.1233406,
+            "tags": {
+                "addr:city": "Waco",
+                "addr:housenumber": "814",
+                "addr:postcode": "76706",
+                "addr:state": "TX",
+                "addr:street": "South 4th Street",
+                "building": "yes",
+                "name": "Earle-Napier-Kinnard House",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Truett_Seminary_Narthex.jpg/1280px-Truett_Seminary_Narthex.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 136365,
+            "lat": 31.5492,
+            "lon": -97.1472,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/WacoCity.jpg",
+            "description": "Waco ( WAY-koh) is a city in and the county seat of McLennan County, Texas, United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Waco, Texas",
+                "wikipedia": "en:Waco, Texas",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 56139922,
+            "lat": 31.55270389,
+            "lon": -97.12977194,
+            "image_url": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4e/Photo_of_Magnolia_Market%2C_Waco%2C_TX.jpg/1280px-Photo_of_Magnolia_Market%2C_Waco%2C_TX.jpg",
+            "description": "Magnolia Market at the Silos, commonly called Magnolia Market, is a shopping complex that encompasses two city blocks in downtown Waco, Texas.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Magnolia Market",
+                "wikipedia": "en:Magnolia Market",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 5947768,
+            "lat": 31.58361111,
+            "lon": -97.20055556,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/USACE_Waco_Lake_and_Dam.jpg/1280px-USACE_Waco_Lake_and_Dam.jpg",
+            "description": "Lake Waco is a man-made reservoir located on the west side of Waco, in McLennan County, Texas.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Lake Waco",
+                "wikipedia": "en:Lake Waco",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 53838,
+            "lat": 32.77916667,
+            "lon": -96.80888889,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/View_of_Dallas_from_Reunion_Tower_August_2015_05.jpg/1280px-View_of_Dallas_from_Reunion_Tower_August_2015_05.jpg",
+            "description": "Dallas is a city in the U.S. state of Texas.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Dallas",
+                "wikipedia": "en:Dallas",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 29810,
+            "lat": 31,
+            "lon": -99,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Flag_of_Texas.svg/1280px-Flag_of_Texas.svg.png",
+            "description": "Texas (  TEK-səss) is the most populous state in the Southern United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Texas",
+                "wikipedia": "en:Texas",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 135850,
+            "lat": 32.39166667,
+            "lon": -96.84444444,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Ellis_County_Courthouse_%281_of_1%29.jpg/1280px-Ellis_County_Courthouse_%281_of_1%29.jpg",
+            "description": "Waxahachie ( WOK-sə-HATCH-ee) is a city in and the county seat of Ellis County, Texas, United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Waxahachie, Texas",
+                "wikipedia": "en:Waxahachie, Texas",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 135732,
+            "lat": 31.43388889,
+            "lon": -97.75833333,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Coryell_county_courthouse.jpg/1280px-Coryell_county_courthouse.jpg",
+            "description": "Gatesville is a city in and the county seat of Coryell County, Texas, United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Gatesville, Texas",
+                "wikipedia": "en:Gatesville, Texas",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 135900,
+            "lat": 29.59944444,
+            "lon": -95.61416667,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Sugarland_Town_Square.jpg/1280px-Sugarland_Town_Square.jpg",
+            "description": "Sugar Land is the largest city in Fort Bend County, Texas, United States, located in the southwestern part of the Houston–The Woodlands–Sugar Land metropolitan area.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Sugar Land, Texas",
+                "wikipedia": "en:Sugar Land, Texas",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 151111,
+            "lat": 31.125,
+            "lon": -97.90166667,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Copperas_Cove_downtown-2009.JPG/1280px-Copperas_Cove_downtown-2009.JPG",
+            "description": "Copperas Cove ( KOP-ər-əs) is a city located in Central Texas at the southern corner of Coryell County, with smaller portions in Lampasas and Bell Counties.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Copperas Cove, Texas",
+                "wikipedia": "en:Copperas Cove, Texas",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 11096133,
+            "lat": 30.68472222,
+            "lon": -98.35083333,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Tourists_at_Longhorn_Cavern_IMG_2026.JPG/1280px-Tourists_at_Longhorn_Cavern_IMG_2026.JPG",
+            "description": "Longhorn Cavern State Park is a 645.62 acres (261 ha) state park located in Burnet County, Texas, United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Longhorn Cavern State Park",
+                "wikipedia": "en:Longhorn Cavern State Park",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 306829,
+            "lat": 29.25,
+            "lon": -103.25,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Canyon%2C_Rio_Grande%2C_Texas.jpeg/1280px-Canyon%2C_Rio_Grande%2C_Texas.jpeg",
+            "description": "Big Bend National Park is a national park of the United States located in West Texas, bordering Mexico.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Big Bend National Park",
+                "wikipedia": "en:Big Bend National Park",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 62933,
+            "lat": 14.04083333,
+            "lon": 99.50305556,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Bridge_on_the_River_Kwai_-_tourist_plaza.JPG/1280px-Bridge_on_the_River_Kwai_-_tourist_plaza.JPG",
+            "description": "The Burma Railway, also known as the Siam–Burma Railway, Thai–Burma Railway and similar names, or as the Death Railway, is a 415 km (258 mi) railway between Ban Pong, Thailand, and Thanbyuzayat, Burma (now Myanmar).",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Burma Railway",
+                "wikipedia": "en:Burma Railway",
+                "tourism": "attraction"
+            }
+        }
+    ]
+}

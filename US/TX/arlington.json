@@ -1,0 +1,1550 @@
+{
+    "city_metadata": {
+        "city_name": "Arlington",
+        "state_code": "TX",
+        "state_full": "Texas",
+        "city_summary": "Arlington is a city in Tarrant County, Texas, United States. It is part of the Mid-Cities region of the Dallas–Fort Worth–Arlington metropolitan statistical area, and is a principal city of the metropolis and region. The city had a population of 394,266 in 2020, making it the second-largest city in the county after Fort Worth and the third-largest city in the metropolitan area, after Dallas and Fort Worth, and thus the largest suburb in the DFW Metroplex.",
+        "city_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Arlington_June_2020_1_%28AT%26T_Stadium%29.jpg/1280px-Arlington_June_2020_1_%28AT%26T_Stadium%29.jpg",
+        "city_lat": 32.705,
+        "city_lon": -97.12277778,
+        "source": "wikipedia_verified_engine"
+    },
+    "attractions": [
+        {
+            "type": "node",
+            "id": 36303521,
+            "lat": 42.4173849,
+            "lon": -71.1562276,
+            "tags": {
+                "name": "Central Street Historical District",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 224616500,
+            "lat": 50.8608178,
+            "lon": 0.2270243,
+            "tags": {
+                "name": "Knock Hatch Dry Ski Slope",
+                "sport": "skiing",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Entrance_to_Arlington_Stadium_-_geograph.org.uk_-_2976785.jpg/1280px-Entrance_to_Arlington_Stadium_-_geograph.org.uk_-_2976785.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 310423792,
+            "lat": 38.8758352,
+            "lon": -77.0610243,
+            "tags": {
+                "addr:country": "US",
+                "addr:state": "VA",
+                "historic": "memorial",
+                "name": "Columbarium",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Arlington_National_Cemetery_-_9-11_Memorial_to_Pentagon_Victims_-_SW_side_closeup_-_2011.jpg/1280px-Arlington_National_Cemetery_-_9-11_Memorial_to_Pentagon_Victims_-_SW_side_closeup_-_2011.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 358278960,
+            "lat": 42.4159402,
+            "lon": -71.1570001,
+            "tags": {
+                "ele": "19",
+                "gnis:feature_id": "1974158",
+                "historic": "district",
+                "name": "Arlington Center Historic District",
+                "tourism": "attraction",
+                "wikidata": "Q4792295"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Arlington_MA_Town_Hall.jpg/1280px-Arlington_MA_Town_Hall.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 367996966,
+            "lat": 38.8646656,
+            "lon": -77.0581224,
+            "tags": {
+                "addr:city": "Arlington",
+                "addr:housenumber": "700",
+                "addr:postcode": "22202",
+                "addr:state": "VA",
+                "addr:street": "Army Navy Drive",
+                "ele": "3",
+                "gnis:feature_id": "2044598",
+                "name": "Drug Enforcement Agency Museum and Visitors Center",
+                "source": "USGS Geonames",
+                "tourism": "museum",
+                "website": "https://museum.dea.gov/visit"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Pentagon_City_Metro_Station_DC_12_2011_00062.JPG/1280px-Pentagon_City_Metro_Station_DC_12_2011_00062.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 368165086,
+            "lat": 32.6634669,
+            "lon": -97.0908424,
+            "tags": {
+                "addr:state": "TX",
+                "ele": "186",
+                "gnis:feature_id": "2014373",
+                "name": "Texas Air Command Museum",
+                "source": "USGS Geonames",
+                "tourism": "museum"
+            }
+        },
+        {
+            "type": "node",
+            "id": 368165562,
+            "lat": 32.7513606,
+            "lon": -97.0813076,
+            "tags": {
+                "addr:housenumber": "1000",
+                "addr:street": "Ballpark Way",
+                "gnis:feature_id": "2014474",
+                "name": "Legends of the Game Baseball Museum",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Richard_Greene_Linear_Park_June_2020_13_%28Globe_Life_Park_in_Arlington%29.jpg/1280px-Richard_Greene_Linear_Park_June_2020_13_%28Globe_Life_Park_in_Arlington%29.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 453542780,
+            "lat": 38.8767689,
+            "lon": -77.0737967,
+            "tags": {
+                "addr:country": "US",
+                "addr:sector": "46",
+                "addr:state": "VA",
+                "historic": "memorial",
+                "name": "Rock of the Marne",
+                "subject:wikidata": "Q223551",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 453542784,
+            "lat": 38.8767466,
+            "lon": -77.0740393,
+            "tags": {
+                "addr:country": "US",
+                "addr:sector": "46",
+                "addr:state": "VA",
+                "historic": "memorial",
+                "memorial": "plaque",
+                "name": "Challenger Space Shuttle Memorial",
+                "subject:wikidata": "Q858145",
+                "tourism": "attraction",
+                "wikimedia_commons": "File:Space Shuttle Challenger Memorial.jpg"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/1e/USS_Maine_Mast_Memorial.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 453542787,
+            "lat": 38.8767593,
+            "lon": -77.0740054,
+            "tags": {
+                "addr:country": "US",
+                "addr:sector": "46",
+                "addr:state": "VA",
+                "historic": "memorial",
+                "memorial": "war_memorial",
+                "name": "Iran Rescue Mission Memorial",
+                "tourism": "attraction",
+                "wikimedia_commons": "File:Iran Rescue - Arlington National Cemetery - 2011.JPG"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/1e/USS_Maine_Mast_Memorial.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 453542795,
+            "lat": 38.8767717,
+            "lon": -77.0739722,
+            "tags": {
+                "addr:country": "US",
+                "addr:sector": "46",
+                "addr:state": "VA",
+                "historic": "memorial",
+                "memorial": "plaque",
+                "name": "Columbia Space Shuttle Memorial",
+                "subject:wikidata": "Q580867",
+                "tourism": "attraction",
+                "wikimedia_commons": "File:Space Shuttle Columbia Memorial.jpg"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/1e/USS_Maine_Mast_Memorial.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 454393596,
+            "lat": 38.8765126,
+            "lon": -77.0747076,
+            "tags": {
+                "addr:country": "US",
+                "addr:state": "VA",
+                "historic": "memorial",
+                "memorial": "ship_mast",
+                "name": "USS Maine",
+                "tourism": "attraction",
+                "wikidata": "Q14713401",
+                "wikimedia_commons": "File:The USS Maine Memorial is the actual main mast from the USS Maine, which was sunk in Havana Harbor, Cuba on Feb. 15, 1898 and this memorial was dedicated at Arlington National Cemetery on February 15, 1915 01.jpg"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/1e/USS_Maine_Mast_Memorial.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 456710478,
+            "lat": 42.4157691,
+            "lon": -71.1524102,
+            "tags": {
+                "addr:city": "Arlington",
+                "addr:housenumber": "611",
+                "addr:postcode": "02476",
+                "addr:state": "MA",
+                "addr:street": "Massachusetts Avenue",
+                "fee": "donation",
+                "museum": "art",
+                "name": "Cyrus Dallin Art Museum",
+                "opening_hours": "Sa,Su 12:00-16:00",
+                "tourism": "museum",
+                "website": "https://dallin.org/",
+                "wikidata": "Q74035008",
+                "wikipedia": "en:Cyrus Dallin Art Museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Jefferson_Cutter_House_%28Cyrus_Dallin_Art_Museum%29_-_Arlington%2C_MA_-_DSC03412.jpg/1280px-Jefferson_Cutter_House_%28Cyrus_Dallin_Art_Museum%29_-_Arlington%2C_MA_-_DSC03412.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 511968970,
+            "lat": 38.8734624,
+            "lon": -77.0609141,
+            "tags": {
+                "addr:country": "US",
+                "addr:state": "VA",
+                "ele": "9.97925",
+                "historic": "memorial",
+                "name": "September 11 Memorial",
+                "name:de": "11. September-Denkmal",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Arlington_National_Cemetery_-_9-11_Memorial_to_Pentagon_Victims_-_SW_side_closeup_-_2011.jpg/1280px-Arlington_National_Cemetery_-_9-11_Memorial_to_Pentagon_Victims_-_SW_side_closeup_-_2011.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 515303981,
+            "lat": 38.8787992,
+            "lon": -77.067151,
+            "tags": {
+                "barrier": "gate",
+                "historic": "monument",
+                "name": "McClellan Gate",
+                "tourism": "attraction",
+                "wikidata": "Q14712810"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/McClellan_Gate_-_looking_WNW_-_Arlington_National_Cemetery_-_2011.JPG/1280px-McClellan_Gate_-_looking_WNW_-_Arlington_National_Cemetery_-_2011.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 515463132,
+            "lat": 38.8740241,
+            "lon": -77.0686903,
+            "tags": {
+                "addr:country": "US",
+                "addr:sector": "34",
+                "addr:state": "VA",
+                "ele": "35.213745",
+                "historic": "memorial",
+                "image": "https://www.hmdb.org/Photos/84/Photo84062o.jpg",
+                "inscription": "Herein rest those who lost their lives in the sinking of USS Serpens, World War II, January 29, 1945",
+                "memorial": "plaque",
+                "name": "USS Serpens Monument",
+                "source_ref": "https://www.hmdb.org/m.asp?m=24123",
+                "subject:wikidata": "Q7874042",
+                "tourism": "attraction",
+                "wikidata": "Q110856310"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Isaac_W_Littell.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 515470809,
+            "lat": 38.8708912,
+            "lon": -77.0682712,
+            "tags": {
+                "ele": "43.384766",
+                "historic": "memorial",
+                "memorial": "statue",
+                "name": "United States Coast Guard Memorial",
+                "subject:wikidata": "Q11224",
+                "tourism": "attraction",
+                "wikimedia_commons": "File:US Coast Guard Memorial - looking ENE - Arlington National Cemetery - 2011.JPG"
+            }
+        },
+        {
+            "type": "node",
+            "id": 564589871,
+            "lat": 38.8749573,
+            "lon": -77.0755788,
+            "tags": {
+                "addr:country": "US",
+                "addr:sector": "21",
+                "addr:state": "VA",
+                "ele": "55.1609",
+                "historic": "memorial",
+                "memorial": "war_memorial",
+                "name": "Battle of the Bulge Memorial",
+                "name:de": "Denkmal Schlacht in den Ardennen",
+                "tourism": "attraction",
+                "wikimedia_commons": "File:Battle of the Bulge memorial (18814172856).jpg"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/99/Spanish-American_War_Nurses_Memorial_-_marker_-_Arlington_National_Cemetery_-_2011.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 564589907,
+            "lat": 38.8748637,
+            "lon": -77.0748492,
+            "tags": {
+                "addr:country": "US",
+                "addr:sector": "21",
+                "addr:state": "VA",
+                "ele": "54.6803",
+                "historic": "memorial",
+                "memorial": "plaque",
+                "name": "Nurses Memorial",
+                "name:de": "Krankenschwesterndenkmal",
+                "tourism": "attraction",
+                "wikidata": "Q14713230",
+                "wikimedia_commons": "File:The Nurses Memorial (18843100631) (cropped).jpg"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/99/Spanish-American_War_Nurses_Memorial_-_marker_-_Arlington_National_Cemetery_-_2011.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 746876115,
+            "lat": 38.8754184,
+            "lon": -77.0759863,
+            "tags": {
+                "addr:country": "US",
+                "addr:state": "VA",
+                "ele": "66.937012",
+                "historic": "monument",
+                "name": "Rough Riders Monument",
+                "tourism": "attraction",
+                "wikidata": "Q14713163",
+                "wikimedia_commons": "File:Rough Riders Monument - face - Arlington National Cemetery - 2011.JPG"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Rough_Riders_Monument_-_face_-_Arlington_National_Cemetery_-_2011.JPG/1280px-Rough_Riders_Monument_-_face_-_Arlington_National_Cemetery_-_2011.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 746876149,
+            "lat": 38.8770941,
+            "lon": -77.0731011,
+            "tags": {
+                "addr:country": "US",
+                "addr:state": "VA",
+                "ele": "59.486816",
+                "historic": "memorial",
+                "memorial": "bench",
+                "name": "Korean War Memorial Bench",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 899260216,
+            "lat": 38.8730824,
+            "lon": -77.132593,
+            "tags": {
+                "amenity": "tourism",
+                "check_date": "2024-03-31",
+                "historic": "railway_car",
+                "name": "Washington & Old Dominion Caboose",
+                "opening_hours": "Sa 11:00-17:00, Su 13:00-17:00, PH 11:00-17:00 \"Memorial Day Weekend Through Labor Day\"",
+                "tourism": "attraction",
+                "website": "https://www.arlingtonva.us/Government/Departments/Parks-Recreation/Locations/Parks/Bluemont-Junction-Park"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Bluemont_Junction_Park.jpg/1280px-Bluemont_Junction_Park.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 1207178383,
+            "lat": 32.7577239,
+            "lon": -97.0674037,
+            "tags": {
+                "attraction": "roller_coaster",
+                "name": "Mr. Freeze",
+                "tourism": "attraction",
+                "wikidata": "Q1538357"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/SixFlags-TexasChuteOut-9573.jpg/1280px-SixFlags-TexasChuteOut-9573.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 1207178393,
+            "lat": 32.7585725,
+            "lon": -97.0707944,
+            "tags": {
+                "attraction": "cars",
+                "name": "Six Flags Speedway Go Karts",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Shockwave_coaster_sfot.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 1207178396,
+            "lat": 32.7557821,
+            "lon": -97.0672566,
+            "tags": {
+                "attraction": "roller_coaster",
+                "name": "Judge Roy Scream",
+                "tourism": "attraction",
+                "wikidata": "Q910221",
+                "wikipedia": "en:Judge Roy Scream"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Judge_Roy_Scream_1.jpg/1280px-Judge_Roy_Scream_1.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 1207178443,
+            "lat": 32.7578844,
+            "lon": -97.0671198,
+            "tags": {
+                "name": "Gotham City Sprayground",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/95/SFOT-Mine_Train.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 1207178455,
+            "lat": 32.758283,
+            "lon": -97.0664808,
+            "tags": {
+                "attraction": "roller_coaster",
+                "name": "Batman: The Ride",
+                "operator": "Six Flags Entertainment Corp",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/95/SFOT-Mine_Train.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 1207178461,
+            "lat": 32.7555769,
+            "lon": -97.0721597,
+            "tags": {
+                "attraction": "log_flume",
+                "name": "El Asseradero",
+                "tourism": "attraction",
+                "wikidata": "Q5350781",
+                "wikipedia": "en:El Aserradero"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/12/SFOT-La_Vibora.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 1207178462,
+            "lat": 32.758132,
+            "lon": -97.0684793,
+            "tags": {
+                "attraction": "roller_coaster",
+                "name": "Runaway Mine Train",
+                "tourism": "attraction",
+                "wikidata": "Q3453217",
+                "wikipedia": "en:Runaway Mine Train (Six Flags Over Texas)"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/95/SFOT-Mine_Train.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 1207178466,
+            "lat": 32.7587711,
+            "lon": -97.0705155,
+            "tags": {
+                "attraction": "roller_coaster",
+                "name": "Shock Wave",
+                "tourism": "attraction",
+                "wikidata": "Q952700",
+                "wikipedia": "en:Shock Wave (Six Flags Over Texas)"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Shockwave_coaster_sfot.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 1207178486,
+            "lat": 32.7563642,
+            "lon": -97.0730177,
+            "tags": {
+                "attraction": "roller_coaster",
+                "name": "New Texas Giant",
+                "tourism": "attraction",
+                "wikidata": "Q1353100",
+                "wikipedia": "en:New Texas Giant"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/The_NEW_Texas_Giant.jpg/1280px-The_NEW_Texas_Giant.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 1207178488,
+            "lat": 32.7581185,
+            "lon": -97.0681065,
+            "tags": {
+                "attraction": "roller_coaster",
+                "name": "Mini Mine Train",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/95/SFOT-Mine_Train.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 1207234805,
+            "lat": 32.756671,
+            "lon": -97.0690221,
+            "tags": {
+                "attraction": "water_ride",
+                "name": "Aquaman: Power Wave",
+                "tourism": "attraction",
+                "wikidata": "Q97671294",
+                "wikipedia": "en:Aquaman: Power Wave"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Aquaman_Power_Wave_6.jpg/1280px-Aquaman_Power_Wave_6.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 1209123963,
+            "lat": 32.7556379,
+            "lon": -97.0741735,
+            "tags": {
+                "attraction": "roller_coaster",
+                "name": "Titan",
+                "operator": "Six Flags Entertainment Corp",
+                "tourism": "attraction",
+                "wikidata": "Q826969",
+                "wikipedia": "en:Titan (Six Flags Over Texas)"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1211571811,
+            "lat": 32.7575974,
+            "lon": -97.0690221,
+            "tags": {
+                "attraction": "roller_coaster",
+                "name": "Dive Bomber Alley",
+                "operator": "Six Flags Entertainment Corp",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/95/SFOT-Mine_Train.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 1211575333,
+            "lat": 32.7566867,
+            "lon": -97.0716001,
+            "tags": {
+                "attraction": "breakdance",
+                "name": "Rodeo",
+                "operator": "Six Flags Entertainment Corp",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Aquaman_Power_Wave_6.jpg/1280px-Aquaman_Power_Wave_6.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 1211575355,
+            "lat": 32.7569207,
+            "lon": -97.0691227,
+            "tags": {
+                "attraction": "starship",
+                "name": "ACME Rock-N-Rocket",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/SFOT_Main_Park_Entrance.JPG/1280px-SFOT_Main_Park_Entrance.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 1211575361,
+            "lat": 32.7572755,
+            "lon": -97.0709929,
+            "tags": {
+                "attraction": "roller_coaster",
+                "name": "Runaway Mountain",
+                "operator": "Six Flags Entertainment Corp",
+                "tourism": "attraction",
+                "wikidata": "Q3453218"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/SixFlagsTower-5865.jpg/1280px-SixFlagsTower-5865.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 1211580358,
+            "lat": 32.7604288,
+            "lon": -97.0844291,
+            "tags": {
+                "attraction": "water_slide",
+                "name": "Geronimo",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Arlington_Stadium_1988.jpg/1280px-Arlington_Stadium_1988.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 1211580373,
+            "lat": 32.7612284,
+            "lon": -97.0828735,
+            "tags": {
+                "attraction": "swing",
+                "name": "Carribean Swing",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1211580390,
+            "lat": 32.7605821,
+            "lon": -97.0814171,
+            "tags": {
+                "attraction": "water_slide",
+                "name": "Black Hole",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Newtka_giving_a_ride_during_a_show_in_the_mid_1970s.jpg/1280px-Newtka_giving_a_ride_during_a_show_in_the_mid_1970s.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 1211584142,
+            "lat": 32.7604449,
+            "lon": -97.084569,
+            "tags": {
+                "attraction": "water_slide",
+                "name": "Das Stuka",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Arlington_Stadium_1988.jpg/1280px-Arlington_Stadium_1988.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 1211584191,
+            "lat": 32.7614987,
+            "lon": -97.0844647,
+            "tags": {
+                "attraction": "water_slide",
+                "name": "Wahoo Racer",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1211584194,
+            "lat": 32.7606626,
+            "lon": -97.0841055,
+            "tags": {
+                "name": "Surf Rider",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Arlington_Stadium_1988.jpg/1280px-Arlington_Stadium_1988.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 1211584222,
+            "lat": 32.7608947,
+            "lon": -97.0840519,
+            "tags": {
+                "name": "Splashwater Beach",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1211584237,
+            "lat": 32.7611552,
+            "lon": -97.0841565,
+            "tags": {
+                "attraction": "water_slide",
+                "name": "Mega Wedgie",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1211631050,
+            "lat": 32.7611292,
+            "lon": -97.0813475,
+            "tags": {
+                "attraction": "water_slide",
+                "name": "Hydramaniac",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Newtka_giving_a_ride_during_a_show_in_the_mid_1970s.jpg/1280px-Newtka_giving_a_ride_during_a_show_in_the_mid_1970s.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 1211631276,
+            "lat": 32.761702,
+            "lon": -97.0841865,
+            "tags": {
+                "attraction": "water_slide",
+                "name": "Blue Raider",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1211631412,
+            "lat": 32.7617607,
+            "lon": -97.0842791,
+            "tags": {
+                "attraction": "water_slide",
+                "name": "Racing Rapids",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1211631478,
+            "lat": 32.7605585,
+            "lon": -97.08063,
+            "tags": {
+                "attraction": "water_slide",
+                "name": "Tornado",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Newtka_giving_a_ride_during_a_show_in_the_mid_1970s.jpg/1280px-Newtka_giving_a_ride_during_a_show_in_the_mid_1970s.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 1211631638,
+            "lat": 32.7615679,
+            "lon": -97.0803939,
+            "tags": {
+                "attraction": "water_slide",
+                "name": "Hook's Lagoon",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1211631676,
+            "lat": 32.7606814,
+            "lon": -97.081326,
+            "tags": {
+                "attraction": "water_slide",
+                "name": "Shotgun Falls",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Newtka_giving_a_ride_during_a_show_in_the_mid_1970s.jpg/1280px-Newtka_giving_a_ride_during_a_show_in_the_mid_1970s.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 1211665962,
+            "lat": 32.7617483,
+            "lon": -97.0839102,
+            "tags": {
+                "attraction": "water_slide",
+                "name": "Caribbean Chaos",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1211666029,
+            "lat": 32.7606104,
+            "lon": -97.0828816,
+            "tags": {
+                "attraction": "beach",
+                "name": "Coca Cola Cabana Beach",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Newtka_giving_a_ride_during_a_show_in_the_mid_1970s.jpg/1280px-Newtka_giving_a_ride_during_a_show_in_the_mid_1970s.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 1211666165,
+            "lat": 32.7617426,
+            "lon": -97.0839666,
+            "tags": {
+                "attraction": "water_slide",
+                "name": "Atlantic Panic",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1211778527,
+            "lat": 32.7617652,
+            "lon": -97.0804409,
+            "tags": {
+                "attraction": "pirate_ship",
+                "name": "Hook's Ship",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1212000278,
+            "lat": 32.761649,
+            "lon": -97.0842575,
+            "tags": {
+                "attraction": "water_slide",
+                "name": "Seawolf",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1212980605,
+            "lat": 32.7610492,
+            "lon": -97.0819053,
+            "tags": {
+                "attraction": "water_slide",
+                "name": "Bonzai Boggan",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Newtka_giving_a_ride_during_a_show_in_the_mid_1970s.jpg/1280px-Newtka_giving_a_ride_during_a_show_in_the_mid_1970s.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 2896424303,
+            "lat": 32.7558432,
+            "lon": -97.0695301,
+            "tags": {
+                "name": "Tea Cups",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/SFOT_Main_Park_Entrance.JPG/1280px-SFOT_Main_Park_Entrance.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 2896424316,
+            "lat": 32.7577209,
+            "lon": -97.0700053,
+            "tags": {
+                "name": "Caddo Lake Barge",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/SixFlagsTower-5865.jpg/1280px-SixFlagsTower-5865.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 2896424325,
+            "lat": 32.7578088,
+            "lon": -97.0677321,
+            "tags": {
+                "attraction": "swing",
+                "name": "Gunslinger",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/95/SFOT-Mine_Train.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 6038431352,
+            "lat": 32.760414,
+            "lon": -97.0845935,
+            "tags": {
+                "attraction": "water_slide",
+                "name": "Dive Bomber",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Arlington_Stadium_1988.jpg/1280px-Arlington_Stadium_1988.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 6921898785,
+            "lat": 32.7551386,
+            "lon": -97.0815493,
+            "tags": {
+                "addr:postcode": "76011",
+                "name": "Esports Stadium Arlington",
+                "opening_hours": "Mo-Fr 14:00-02:00; Sa-Su 12:00-02:00",
+                "phone": "+1-817-459-5060",
+                "tourism": "attraction",
+                "website": "https://esportsstadium.gg/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Esports_Stadium_Arlington_at_dusk.jpg/1280px-Esports_Stadium_Arlington_at_dusk.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 8239044242,
+            "lat": 38.8784941,
+            "lon": -77.1206749,
+            "tags": {
+                "name": "Constitution Park Bell",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Constitution_Garden_Park_bell.jpg/1280px-Constitution_Garden_Park_bell.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 13266957404,
+            "lat": 32.7572471,
+            "lon": -97.0655226,
+            "tags": {
+                "name": "The Joker",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/SixFlags-TexasChuteOut-9573.jpg/1280px-SixFlags-TexasChuteOut-9573.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 28270177,
+            "lat": 32.7612751,
+            "lon": -97.0820863,
+            "tags": {
+                "addr:city": "Arlington",
+                "addr:housenumber": "1800",
+                "addr:postcode": "76006",
+                "addr:state": "TX",
+                "addr:street": "East Lamar Boulevard",
+                "brand": "Six Flags",
+                "brand:wikidata": "Q127324768",
+                "leisure": "water_park",
+                "name": "Six Flags Hurricane Harbor Arlington",
+                "old_name": "Wet N Wild",
+                "opening_hours:url": "https://www.sixflags.com/hurricaneharbortexas/plan-your-visit/park-operating-schedule",
+                "operator": "Six Flags Entertainment Corporation",
+                "tourism": "theme_park",
+                "website": "https://www.sixflags.com/hurricaneharbortexas",
+                "wheelchair": "limited"
+            }
+        },
+        {
+            "type": "way",
+            "id": 37227061,
+            "lat": 42.4161515,
+            "lon": -71.1586008,
+            "tags": {
+                "addr:city": "Arlington",
+                "addr:housenumber": "7",
+                "addr:postcode": "02476",
+                "addr:state": "MA",
+                "addr:street": "Jason Street",
+                "building": "yes",
+                "fee": "yes",
+                "name": "Jason Russell House",
+                "opening_hours": "Jun-Oct Sa,Su 13:00-16:00",
+                "tourism": "museum",
+                "wikidata": "Q6163398"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Jason_Russell_House_-_Arlington%2C_Massachusetts.JPG/1280px-Jason_Russell_House_-_Arlington%2C_Massachusetts.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 38314833,
+            "lat": 38.8684421,
+            "lon": -77.066491,
+            "tags": {
+                "historic": "monument",
+                "lit": "yes",
+                "name": "United States Air Force Memorial",
+                "name:de": "Luftwaffendenkmal der Vereinigten Staaten",
+                "name:en": "United States Air Force Memorial",
+                "surface": "asphalt",
+                "tourism": "attraction",
+                "wikidata": "Q7889224",
+                "wikimedia_commons": "File:Air force memorial.jpg"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/United_States_Air_Force_Memorial_-_February_2022_-_5.jpg/1280px-United_States_Air_Force_Memorial_-_February_2022_-_5.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 45297440,
+            "lat": 38.8904355,
+            "lon": -77.069724,
+            "tags": {
+                "access": "yes",
+                "addr:city": "Arlington",
+                "addr:housenumber": "1000",
+                "addr:postcode": "22209",
+                "addr:state": "VA",
+                "addr:street": "Marshall Drive",
+                "alt_name": "Iwo Jima Memorial",
+                "historic": "monument",
+                "name": "United States Marine Corps War Memorial",
+                "tourism": "attraction",
+                "website": "https://www.nps.gov/gwmp/planyourvisit/usmc_memorial.htm",
+                "wikidata": "Q1403946",
+                "wikipedia": "en:Marine Corps War Memorial"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/2018-10-31_15_25_21_The_west_side_of_the_Marine_Corps_War_Memorial_in_Arlington_County%2C_Virginia.jpg/1280px-2018-10-31_15_25_21_The_west_side_of_the_Marine_Corps_War_Memorial_in_Arlington_County%2C_Virginia.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 47086748,
+            "lat": 32.7478475,
+            "lon": -97.092837,
+            "tags": {
+                "addr:city": "Arlington",
+                "addr:housenumber": "900",
+                "addr:postcode": "76011",
+                "addr:state": "TX",
+                "addr:street": "East Randol Mill Road",
+                "building": "yes",
+                "capacity": "80000",
+                "leisure": "stadium",
+                "name": "AT&T Stadium",
+                "name:ar": "ملعب دالاس كاوبويز",
+                "name:de": "AT&T Stadion",
+                "name:en": "AT&T Stadium",
+                "name:hi": "न्यू काउबॉयस स्टेडियम",
+                "operator": "Dallas Cowboys",
+                "source": "website, bing",
+                "sport": "american_football",
+                "start_date": "2009",
+                "toilets:wheelchair": "yes",
+                "tourism": "attraction",
+                "website": "https://attstadium.com/",
+                "wheelchair": "yes",
+                "wikidata": "Q838284",
+                "wikipedia": "en:AT&T Stadium"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Arlington_June_2020_4_%28AT%26T_Stadium%29.jpg/1280px-Arlington_June_2020_4_%28AT%26T_Stadium%29.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 55201310,
+            "lat": 42.4160055,
+            "lon": -71.1587358,
+            "tags": {
+                "addr:housenumber": "5;7",
+                "addr:state": "MA",
+                "addr:street": "Jason Terrace",
+                "building": "yes",
+                "ele": "19",
+                "fee": "no",
+                "gnis:feature_id": "1973750",
+                "name": "Smith Museum Archives",
+                "opening_hours": "Jun-Oct Sa,Su 13:00-16:00; Jan-Dec Tu-Th 13:00-16:00",
+                "source": "USGS Geonames",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Jason_Russell_House_-_Arlington%2C_Massachusetts.JPG/1280px-Jason_Russell_House_-_Arlington%2C_Massachusetts.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 67489218,
+            "lat": 51.1471854,
+            "lon": -3.9873155,
+            "tags": {
+                "building": "yes",
+                "check_date:opening_hours": "2024-05-08",
+                "fee": "yes",
+                "name": "Arlington Court",
+                "opening_hours": "Apr 17-Nov 03 11:00-16:00; Nov 09-Dec 15 Sa-Su 11:00-15:30",
+                "operator": "National Trust",
+                "postal_code": "EX31 4LP",
+                "seasonal": "yes",
+                "source": "OS_OpenData_StreetView",
+                "tourism": "attraction",
+                "website": "https://www.nationaltrust.org.uk/visit/devon/arlington-court-and-the-national-trust-carriage-museum",
+                "wikidata": "Q675650",
+                "wikipedia": "en:Arlington Court"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/16/Arlington_Court_05.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 67498292,
+            "lat": 51.1467385,
+            "lon": -3.9832718,
+            "tags": {
+                "building": "yes",
+                "name": "Carriage House",
+                "operator": "National Trust",
+                "source": "OS_OpenData_StreetView",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/16/Arlington_Court_05.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 104655849,
+            "lat": 32.7558591,
+            "lon": -97.0711201,
+            "tags": {
+                "addr:city": "Arlington",
+                "addr:housenumber": "2201",
+                "addr:postcode": "76011",
+                "addr:state": "TX",
+                "addr:street": "East Road to Six Flags Street",
+                "brand": "Six Flags",
+                "brand:wikidata": "Q127324768",
+                "name": "Six Flags Over Texas",
+                "opening_hours:url": "https://www.sixflags.com/overtexas/plan-your-visit/park-operating-schedule",
+                "operator": "Six Flags Entertainment Corp",
+                "tourism": "theme_park",
+                "website": "https://www.sixflags.com/overtexas",
+                "wikidata": "Q2074361"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/SFOT_Main_Park_Entrance.JPG/1280px-SFOT_Main_Park_Entrance.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 104795994,
+            "lat": 32.7580367,
+            "lon": -97.0710773,
+            "tags": {
+                "attraction": "tower",
+                "building": "tower",
+                "name": "Oil Derrick",
+                "tourism": "attraction",
+                "wikidata": "Q7081329",
+                "wikipedia": "en:Oil Derrick (Six Flags Over Texas)"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/SixFlagsTower-5865.jpg/1280px-SixFlagsTower-5865.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 105108402,
+            "lat": 32.7566181,
+            "lon": -97.0669633,
+            "tags": {
+                "area": "yes",
+                "name": "Texas Skyscreamer",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/SixFlags-TexasChuteOut-9573.jpg/1280px-SixFlags-TexasChuteOut-9573.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 212022797,
+            "lat": 38.8816867,
+            "lon": -77.1020536,
+            "tags": {
+                "addr:city": "Arlington",
+                "addr:housenumber": "3550",
+                "addr:postcode": "22201",
+                "addr:state": "VA",
+                "addr:street": "Wilson Boulevard",
+                "building": "yes",
+                "ele": "79",
+                "gnis:feature_id": "2465481",
+                "name": "Museum of Contemporary Art Arlington",
+                "phone": "+1 703-248-6800",
+                "tourism": "museum",
+                "website": "https://mocaarlington.org/",
+                "wikidata": "Q2861654"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Arlington_Arts_Center_1.jpg/1280px-Arlington_Arts_Center_1.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 224181665,
+            "lat": 38.8587299,
+            "lon": -77.0675252,
+            "tags": {
+                "access": "yes",
+                "addr:city": "Arlington",
+                "addr:housenumber": "1805",
+                "addr:postcode": "22202",
+                "addr:state": "VA",
+                "addr:street": "South Arlington Ridge Road",
+                "architect": "Simmons,B. Stanley",
+                "building": "school",
+                "building:architecture": "queen_anne",
+                "ele": "40",
+                "gnis:feature_id": "1779122",
+                "heritage": "2",
+                "heritage:operator": "nrhp",
+                "heritage:ref": "79003027",
+                "heritage:website": "https://npgallery.nps.gov/AssetDetail/NRIS/79003027",
+                "historic": "heritage",
+                "museum": "local",
+                "name": "Arlington Historical Museum",
+                "nrhp:inscription_date": "1979-06-18",
+                "old_name:1875-1960": "Hume School",
+                "opening_hours": "Sa-Su 13:00-17:00",
+                "operator": "Arlington Historical Society",
+                "operator:type": "public",
+                "ref:nrhp": "79003027",
+                "tourism": "museum",
+                "website": "https://arlingtonhistoricalsociety.org/visit/arlington-historical-museum/",
+                "wheelchair": "yes",
+                "wikidata": "Q17512884",
+                "wikipedia": "en:Arlington Historical Museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Arlington-historical-society.jpg/1280px-Arlington-historical-society.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 312019901,
+            "lat": 32.7369658,
+            "lon": -97.1085367,
+            "tags": {
+                "addr:city": "Arlington",
+                "addr:housenumber": "201",
+                "addr:postcode": "76010",
+                "addr:state": "TX",
+                "addr:street": "West Main Street",
+                "building": "yes",
+                "check_date": "2026-04-02",
+                "museum": "art",
+                "name": "Wellspring on Main",
+                "opening_hours": "Tu-Sa 10:00-17:00; Su 13:00-17:00",
+                "tourism": "museum"
+            }
+        },
+        {
+            "type": "way",
+            "id": 411377143,
+            "lat": 32.7551628,
+            "lon": -97.0714569,
+            "tags": {
+                "name": "La Fiesta de las Tazas",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/12/SFOT-La_Vibora.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 411377144,
+            "lat": 32.7553066,
+            "lon": -97.0709545,
+            "tags": {
+                "name": "El Sombrero",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Aquaman_Power_Wave_6.jpg/1280px-Aquaman_Power_Wave_6.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 443912138,
+            "lat": 48.1842102,
+            "lon": -122.1383623,
+            "tags": {
+                "building": "yes",
+                "name": "Stillaguamish Valley Pioneer Museum",
+                "phone": "+1-360-435-7289",
+                "tourism": "museum",
+                "website": "https://stillymuseum.org"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Arlington%2C_Washington_-_Olympic_Avenue_01.jpg/1280px-Arlington%2C_Washington_-_Olympic_Avenue_01.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 555177034,
+            "lat": 38.882688,
+            "lon": -77.0683332,
+            "tags": {
+                "amenity": "fountain",
+                "name": "Memorial Gate Fountain",
+                "natural": "water",
+                "tourism": "attraction",
+                "water": "basin"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Peyton_C._March.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 574905502,
+            "lat": 38.8804184,
+            "lon": -77.0731559,
+            "tags": {
+                "addr:country": "US",
+                "addr:state": "VA",
+                "building": "yes",
+                "historic": "monument",
+                "name": "Civil War Unknowns Monument",
+                "tourism": "attraction",
+                "wikidata": "Q5124629",
+                "wikimedia_commons": "File:Civil War Unknowns Memorial - E side - Arlington National Cemetery - 2011.JPG",
+                "wikipedia": "en:Civil War Unknowns Monument"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Civil_War_Unknowns_Memorial_-_E_side_-_Arlington_National_Cemetery_-_2011.JPG/1280px-Civil_War_Unknowns_Memorial_-_E_side_-_Arlington_National_Cemetery_-_2011.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 595474424,
+            "lat": 38.8637217,
+            "lon": -77.1249777,
+            "tags": {
+                "access": "yes",
+                "addr:city": "Arlington",
+                "addr:housenumber": "5620",
+                "addr:postcode": "22204",
+                "addr:state": "VA",
+                "addr:street": "3rd Street South",
+                "building": "house",
+                "building:use": "museum",
+                "email": "info@arlingtonhistoricalsociety.org",
+                "heritage": "2",
+                "heritage:operator": "nrhp",
+                "heritage:ref": "75002014",
+                "heritage:website": "https://npgallery.nps.gov/AssetDetail/NRIS/75002014",
+                "historic": "heritage",
+                "name": "Ball-Sellers House",
+                "nrhp:inscription_date": "1975-07-17",
+                "opening_hours": "Apr-Oct Sa 13:00-16:00; Jul 4 13:00-16:00; May Mo[-1] 13:00-16:00; Sep Mo[1] 13:00-16:00",
+                "operator": "Arlington Historical Society",
+                "operator:type": "public",
+                "phone": "+1-703-577-7042",
+                "ref:nrhp": "75002014",
+                "tourism": "museum",
+                "website": "https://arlingtonhistoricalsociety.org/visit/ball-sellers-house/",
+                "wheelchair": "yes",
+                "wikidata": "Q4851170"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Ball-Sellers_House.jpg/1280px-Ball-Sellers_House.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 649289194,
+            "lat": 32.73632,
+            "lon": -97.1296483,
+            "tags": {
+                "addr:state": "TX",
+                "building": "yes",
+                "ele": "190",
+                "gnis:feature_id": "2014374",
+                "museum": "history",
+                "name": "Texas State Museum of History",
+                "source": "USGS Geonames",
+                "tourism": "museum"
+            }
+        },
+        {
+            "type": "way",
+            "id": 717004397,
+            "lat": 38.9142856,
+            "lon": -77.1079238,
+            "tags": {
+                "addr:city": "Arlington",
+                "addr:country": "US",
+                "addr:housenumber": "2845",
+                "addr:postcode": "22207",
+                "addr:state": "VA",
+                "addr:street": "North Marcey Road",
+                "building": "yes",
+                "contact:email": "potomac@nvrpa.org",
+                "contact:phone": "+1-703-528-5406",
+                "contact:website": "https://www.novaparks.com/parks/potomac-overlook-regional-park/things-to-do/nature-centerthe-energerium",
+                "fee": "no",
+                "museum": "nature",
+                "name": "James I. Mayer Center for Environmental Education",
+                "official_name": "James I. Mayer Center for Environmental Education",
+                "opening_hours": "Tu-Sa 10:00-17:00; Su 13:00-17:00",
+                "operator": "NOVA Parks",
+                "operator:type": "public",
+                "operator:wikidata": "Q7059126",
+                "operator:wikipedia": "en:NOVA Parks",
+                "tourism": "museum"
+            }
+        },
+        {
+            "type": "way",
+            "id": 733052310,
+            "lat": 50.8630447,
+            "lon": 0.2330701,
+            "tags": {
+                "check_date:opening_hours": "2024-03-08",
+                "fee": "yes",
+                "name": "Knockhatch Adventure Park",
+                "opening_hours": "Mo-Su 10:00-17:30; Dec 24-26 off; Jan 01 off",
+                "tourism": "theme_park",
+                "website": "https://knockhatch.com/",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "way",
+            "id": 853828822,
+            "lat": 50.8654248,
+            "lon": 0.2066178,
+            "tags": {
+                "addr:housename": "Animal Management",
+                "name": "Bede's Zoo",
+                "source": "OS_OpenData_StreetView",
+                "tourism": "zoo"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/St_Bedes_Prep_School.jpg/1280px-St_Bedes_Prep_School.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 909756215,
+            "lat": 35.2630435,
+            "lon": -89.6618668,
+            "tags": {
+                "area": "yes",
+                "name": "Memphis Visitors Center",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "way",
+            "id": 1199506649,
+            "lat": 38.8703549,
+            "lon": -77.0592573,
+            "tags": {
+                "historic": "memorial",
+                "name": "Pentagon Memorial",
+                "name:de": "Pentagon-Denkmal",
+                "name:en": "Pentagon Memorial",
+                "name:ms": "Tugu Peringatan Pentagon",
+                "name:pt": "Memorial do Pentágono",
+                "name:ru": "Мемориал Пентагона",
+                "name:zh": "五角大楼纪念馆",
+                "name:zh-Hans": "五角大楼纪念馆",
+                "start_date": "2008",
+                "tourism": "attraction",
+                "wheelchair": "limited",
+                "wikidata": "Q889893",
+                "wikipedia": "en:Pentagon Memorial"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/US_Navy_080904-N-5319A-008_The_Pentagon_Memorial_honoring_the_184_people_killed_at_the_Pentagon_and_on_American_Airlines_flight_77.jpg/1280px-US_Navy_080904-N-5319A-008_The_Pentagon_Memorial_honoring_the_184_people_killed_at_the_Pentagon_and_on_American_Airlines_flight_77.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 1301228111,
+            "lat": 42.4250404,
+            "lon": -71.1779544,
+            "tags": {
+                "addr:city": "Arlington",
+                "addr:housenumber": "17",
+                "addr:postcode": "02476",
+                "addr:state": "MA",
+                "addr:street": "Mill Lane",
+                "historic": "mill",
+                "inscription": "National Register of Historic Places Information System ID: 71000081",
+                "name": "Old Schwamb Mill",
+                "tourism": "museum",
+                "website": "https://oldschwambmill.org/",
+                "wikidata": "Q7084941",
+                "wikipedia": "en:Old Schwamb Mill"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Old_Schwamb_Mill.jpg/1280px-Old_Schwamb_Mill.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 1318427429,
+            "lat": 32.7545185,
+            "lon": -97.0846185,
+            "tags": {
+                "building": "yes",
+                "name": "National Medal of Honor Museum",
+                "tourism": "museum",
+                "wikidata": "Q55316311"
+            }
+        },
+        {
+            "type": "way",
+            "id": 1335039057,
+            "lat": 38.8753886,
+            "lon": -77.07453,
+            "tags": {
+                "addr:country": "US",
+                "addr:state": "VA",
+                "ele": "67.417725",
+                "historic": "memorial",
+                "memorial": "war_memorial",
+                "name": "Spanish-American War Monument",
+                "name:de": "Denkmal Spanisch-Amerikanischer Krieg",
+                "tourism": "attraction",
+                "wikidata": "Q14713229",
+                "wikimedia_commons": "File:Spanish-American War Monument (19749888242).jpg"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Spanish-American_War_Memorial_-_looking_NW_at_column_-_Arlington_National_Cemetery_-_2011.JPG/1280px-Spanish-American_War_Memorial_-_looking_NW_at_column_-_Arlington_National_Cemetery_-_2011.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 1441973352,
+            "lat": 32.7567313,
+            "lon": -97.0677925,
+            "tags": {
+                "area": "yes",
+                "name": "Cloud Bouncer",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/SixFlags-TexasChuteOut-9573.jpg/1280px-SixFlags-TexasChuteOut-9573.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 1441973354,
+            "lat": 32.7574612,
+            "lon": -97.0670756,
+            "tags": {
+                "area": "yes",
+                "name": "Batwing",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/SixFlags-TexasChuteOut-9573.jpg/1280px-SixFlags-TexasChuteOut-9573.jpg",
+            "image_source": "wikipedia_verified"
+        }
+    ]
+}

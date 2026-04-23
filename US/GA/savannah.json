@@ -1,0 +1,596 @@
+{
+    "city_metadata": {
+        "city_name": "Savannah",
+        "state_code": "GA",
+        "state_full": "Georgia",
+        "city_summary": "Savannah ( sə-VAN-ə) is a city in, and county seat of, Chatham County, Georgia, United States. Established in 1733 on the Savannah River, it is the oldest city in the state, and was the capital of the colonial Province of Georgia and later the first state capital of Georgia. A strategic port city in the American Revolution and during the American Civil War, Savannah today is an industrial center and an important Atlantic seaport.",
+        "city_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Savannah.tif/lossy-page1-1280px-Savannah.tif.jpg",
+        "city_lat": 32.08111111,
+        "city_lon": -81.09111111,
+        "source": "wikipedia_verified_engine"
+    },
+    "attractions": [
+        {
+            "type": "node",
+            "id": 973802705,
+            "lat": 32.0791882,
+            "lon": -81.1031491,
+            "tags": {
+                "name": "Oglethorpe Trolley",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Central_of_Georgia_Railroad_%22Gray_Building%22.jpg/1280px-Central_of_Georgia_Railroad_%22Gray_Building%22.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 1004460940,
+            "lat": 32.0814347,
+            "lon": -81.0906231,
+            "tags": {
+                "addr:city": "Savannah",
+                "addr:housenumber": "9",
+                "addr:postcode": "31412",
+                "addr:street": "East River Street",
+                "name": "River Street Riverboat Company",
+                "opening_hours": "Mo-We 09:00-21:00; Th-Sa 09:00-23:00; Su 09:00-21:00",
+                "phone": "+1 912-232-6404",
+                "tourism": "attraction",
+                "website": "https://savannahriverboat.com/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Kelly_Stores_1877.jpg/1280px-Kelly_Stores_1877.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 1435024096,
+            "lat": 32.0738943,
+            "lon": -81.0946213,
+            "tags": {
+                "name": "Green-Meldrim House",
+                "tourism": "museum",
+                "website": "https://stjohnssav.org/worship/visit/green-meldrim-house/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Green-Meldrim_House%2C_Savannah%2C_GA%2C_US.JPG/1280px-Green-Meldrim_House%2C_Savannah%2C_GA%2C_US.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 1474146065,
+            "lat": 32.073645,
+            "lon": -81.0933675,
+            "tags": {
+                "addr:housenumber": "326",
+                "addr:postcode": "31401",
+                "addr:street": "Bull Street",
+                "name": "E. Shaver, Bookseller",
+                "note": "bookstore with cats",
+                "shop": "books",
+                "tourism": "zoo",
+                "website": "https://www.eshaverbooks.com/",
+                "zoo": "petting_zoo"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Madison_Square_William_Jasper_statue_Savannah_GA.jpg/1280px-Madison_Square_William_Jasper_statue_Savannah_GA.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 5109457532,
+            "lat": 32.0740914,
+            "lon": -81.0940638,
+            "tags": {
+                "fee": "yes",
+                "name": "Sorrel–Weed House",
+                "tourism": "museum",
+                "website": "https://sorrelweedhouse.com/",
+                "wikidata": "Q7563673"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Sorrel%E2%80%93Weed_House%2C_Savannah%2C_GA%2C_US_%282%29.jpg/1280px-Sorrel%E2%80%93Weed_House%2C_Savannah%2C_GA%2C_US_%282%29.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 7118796274,
+            "lat": 32.0793573,
+            "lon": -81.104894,
+            "tags": {
+                "name": "Big Chairs",
+                "operator": "SCAD",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Central_of_Georgia_Railroad_%22Gray_Building%22.jpg/1280px-Central_of_Georgia_Railroad_%22Gray_Building%22.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 11741780320,
+            "lat": 32.0837983,
+            "lon": -81.0961218,
+            "tags": {
+                "name": "Gretsch Museum",
+                "tourism": "museum"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11915126675,
+            "lat": 32.0803519,
+            "lon": -81.0864221,
+            "tags": {
+                "addr:housenumber": "410",
+                "addr:street": "East Lower Factors Walk",
+                "level": "0",
+                "name": "Graveface Museum",
+                "opening_hours": "Th-Su 12:00-19:00",
+                "phone": "+1-912-335-8018",
+                "tourism": "museum",
+                "website": "https://gravefacemuseum.com"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Anderson_Stores.jpg/1280px-Anderson_Stores.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 107372384,
+            "lat": 32.0753867,
+            "lon": -81.1011649,
+            "tags": {
+                "addr:state": "GA",
+                "building": "yes",
+                "ele": "10",
+                "gnis:feature_id": "2502426",
+                "museum": "railway",
+                "name": "Roundhouse Railroad Museum",
+                "railway": "roundhouse",
+                "source": "USGS Geonames",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/GA_Savannah_Central_of_GA_RR_msm01.jpg/1280px-GA_Savannah_Central_of_GA_RR_msm01.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 130207477,
+            "lat": 32.0811749,
+            "lon": -81.0972958,
+            "tags": {
+                "addr:housenumber": "41",
+                "addr:state": "GA",
+                "addr:street": "Martin Luther King Junior Boulevard",
+                "alt_name": "William Scarboroug House and Gardens",
+                "building": "public",
+                "ele": "12",
+                "fee": "yes",
+                "gnis:feature_id": "1946346",
+                "name": "Ships of the Sea Mairitme Museum",
+                "opening_hours": "Tu-Su 10:00-17:00, PH off",
+                "source": "USGS Geonames",
+                "tourism": "museum",
+                "website": "https://www.shipsofthesea.org/",
+                "wheelchair": "limited"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/William_Scarbourgh_house%2C_Savannah%2C_GA%2C_US.jpg/1280px-William_Scarbourgh_house%2C_Savannah%2C_GA%2C_US.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 130209215,
+            "lat": 32.0780051,
+            "lon": -81.0950827,
+            "tags": {
+                "addr:city": "Savannah",
+                "addr:country": "US",
+                "addr:housenumber": "207",
+                "addr:postcode": "31401",
+                "addr:state": "GA",
+                "addr:street": "West York Street",
+                "amenity": "arts_centre",
+                "building": "yes",
+                "ele": "12",
+                "fee": "yes",
+                "gnis:feature_id": "2502419",
+                "layer": "1",
+                "name": "Jepson Center for the Arts",
+                "opening_hours": "Th-Tu 10:00-17:00; We off",
+                "operator": "Telfair Museums",
+                "phone": "+1-912-790-8827",
+                "source": "USGS Geonames",
+                "tourism": "museum",
+                "website": "https://www.telfair.org/visit/jepson/",
+                "wheelchair": "yes"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bird_Girl_statue%2C_Jepson_Museum%2C_Savannah%2C_GA%2C_US.jpg/1280px-Bird_Girl_statue%2C_Jepson_Museum%2C_Savannah%2C_GA%2C_US.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 130209226,
+            "lat": 32.0789351,
+            "lon": -81.0952825,
+            "tags": {
+                "addr:housenumber": "121",
+                "addr:state": "GA",
+                "addr:street": "Barnard Street",
+                "building": "yes",
+                "ele": "13",
+                "fee": "yes",
+                "gnis:feature_id": "1946351",
+                "name": "Telfair Academy of Arts and Sciences",
+                "opening_hours": "Th-Tu 10:00-17:00; We off",
+                "operator": "Telfair Museums",
+                "source": "USGS Geonames",
+                "tourism": "museum",
+                "website": "https://www.telfair.org/visit/telfair-academy/",
+                "wikidata": "Q7697192"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Savannah%2C_GA_USA_Telfair_Academy.JPG/1280px-Savannah%2C_GA_USA_Telfair_Academy.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 321938638,
+            "lat": 32.0713964,
+            "lon": -81.0955513,
+            "tags": {
+                "addr:city": "Savannah",
+                "addr:housenumber": "429",
+                "addr:street": "Bull Street",
+                "building": "yes",
+                "historic": "building",
+                "name": "Mercer Williams House",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/The_Noble_Hardee_Mansion%2C_1860-1869.jpg/1280px-The_Noble_Hardee_Mansion%2C_1860-1869.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 365594349,
+            "lat": 32.0776133,
+            "lon": -81.0994946,
+            "tags": {
+                "building": "yes",
+                "check_date:opening_hours": "2023-02-20",
+                "contact:facebook": "https://www.facebook.com/scadmoa/",
+                "fee": "yes",
+                "name": "Museum of Art",
+                "opening_hours": "Mo-Sa 10:00-17:00; Tu off; Su 12:00-17:00; PH off; Mar 17 off; Dec 24-26 off",
+                "operator": "Savannah College of Art and Design",
+                "tourism": "museum",
+                "website": "https://www.scadmoa.org/",
+                "wikidata": "Q2422767"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Central_of_Georgia_Railroad_%22Gray_Building%22.jpg/1280px-Central_of_Georgia_Railroad_%22Gray_Building%22.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 365594512,
+            "lat": 32.0779954,
+            "lon": -81.0993826,
+            "tags": {
+                "building": "garage",
+                "name": "Oglethorpe Trolley Tours Welcome Center",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Central_of_Georgia_Railroad_%22Gray_Building%22.jpg/1280px-Central_of_Georgia_Railroad_%22Gray_Building%22.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 365616738,
+            "lat": 32.0805707,
+            "lon": -81.094798,
+            "tags": {
+                "addr:housenumber": "209",
+                "addr:postcode": "31401",
+                "addr:street": "West Saint Julian Street",
+                "building": "yes",
+                "fee": "yes",
+                "name": "American Prohibition Museum",
+                "phone": "+1-912-551-4054",
+                "tourism": "museum",
+                "website": "https://www.americanprohibitionmuseum.com/",
+                "wheelchair": "yes"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Street_clock%2C_City_Market%2C_Savannah.jpg/1280px-Street_clock%2C_City_Market%2C_Savannah.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 365723786,
+            "lat": 32.0773425,
+            "lon": -81.0892193,
+            "tags": {
+                "addr:city": "Savannah",
+                "addr:country": "US",
+                "addr:housenumber": "124",
+                "addr:postcode": "31401",
+                "addr:state": "GA",
+                "addr:street": "Abercorn Street",
+                "area": "yes",
+                "ele": "12",
+                "gnis:feature_id": "1694623",
+                "name": "Owens-Thomas Museum",
+                "phone": "+1-912-790-8889",
+                "source": "USGS Geonames",
+                "tourism": "museum",
+                "website": "https://www.telfair.org/visit/owens-thomas/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/GA_Savannah_Owens-Thomas_House01.jpg/1280px-GA_Savannah_Owens-Thomas_House01.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 388943330,
+            "lat": 35.2248699,
+            "lon": -88.251007,
+            "tags": {
+                "addr:city": "Savannah",
+                "addr:housenumber": "495",
+                "addr:postcode": "38372",
+                "addr:state": "TN",
+                "addr:street": "Main Street",
+                "building": "yes",
+                "name": "Tennessee River Museum",
+                "tourism": "museum",
+                "website": "https://www.tennesseerivermuseum.org/"
+            }
+        },
+        {
+            "type": "way",
+            "id": 402962870,
+            "lat": 32.0754937,
+            "lon": -81.1034799,
+            "tags": {
+                "addr:city": "Savannah",
+                "addr:housenumber": "655",
+                "addr:postcode": "31401",
+                "addr:state": "GA",
+                "addr:street": "Louisville Road",
+                "building": "yes",
+                "museum": "railway",
+                "name": "Georgia State Railroad Museum",
+                "tourism": "museum",
+                "website": "https://www.chsgeorgia.org/GSRM"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/GA_Savannah_Central_of_GA_RR_msm01.jpg/1280px-GA_Savannah_Central_of_GA_RR_msm01.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 566232312,
+            "lat": 32.0762251,
+            "lon": -81.0998228,
+            "tags": {
+                "addr:state": "GA",
+                "building": "yes",
+                "check_date:opening_hours": "2023-02-20",
+                "ele": "11",
+                "fee": "yes",
+                "gnis:feature_id": "2502424",
+                "name": "Savannah History Museum",
+                "opening_hours": "Mo-Su 09:00-16:00; Dec 25 off, Jan 01 off, Nov Th[4] off",
+                "source": "USGS Geonames",
+                "tourism": "museum",
+                "website": "https://www.chsgeorgia.org/SHM",
+                "wheelchair": "yes",
+                "wikidata": "Q7427856"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Central_of_Georgia_Railway%2C_Passenger_Station_%28Savannah%2C_Georgia%29.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 634027514,
+            "lat": 32.0677513,
+            "lon": -81.0898212,
+            "tags": {
+                "addr:city": "Savannah",
+                "addr:housenumber": "502",
+                "addr:postcode": "31401",
+                "addr:state": "GA",
+                "addr:street": "East Huntingdon Street",
+                "building": "yes",
+                "name": "King-Tisdell Cottage",
+                "note": "you can also contact them on facebook",
+                "opening_hours": "Tu-Sa 12:00-17:00",
+                "phone": "+1-912-236-5161",
+                "tourism": "museum",
+                "website": "https://www.beachinstitute.org/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/57/Whitefield_Square%2C_Savannah.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 882594612,
+            "lat": 32.0762186,
+            "lon": -81.0876255,
+            "tags": {
+                "addr:city": "Savannah",
+                "addr:housenumber": "411",
+                "addr:postcode": "31401",
+                "addr:state": "GA",
+                "addr:street": "East York Street",
+                "building": "yes",
+                "name": "Webb Military Museum",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Columbia_Square%2C_Savannah.jpg/1280px-Columbia_Square%2C_Savannah.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 914846343,
+            "lat": 32.0772974,
+            "lon": -81.0880154,
+            "tags": {
+                "addr:city": "Savannah",
+                "addr:housenumber": "324",
+                "addr:postcode": "31401",
+                "addr:state": "GA",
+                "addr:street": "East State Street",
+                "building": "yes",
+                "check_date:opening_hours": "2023-02-20",
+                "fee": "yes",
+                "name": "Davenport House Museum",
+                "opening_hours": "Mo-Sa 10:00-16:00; Jan 01,Mar 17,Dec 25 off; Jan Mo[3] off; Nov Th[4] off",
+                "tourism": "museum",
+                "website": "https://davenporthousemuseum.org/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Isaiah_Davenport_House%2C_Savannah%2C_GA%2C_US_%282%29.jpg/1280px-Isaiah_Davenport_House%2C_Savannah%2C_GA%2C_US_%282%29.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 914850157,
+            "lat": 32.0714853,
+            "lon": -81.0958457,
+            "tags": {
+                "addr:city": "Savannah",
+                "addr:housenumber": "429",
+                "addr:postcode": "31401",
+                "addr:state": "GA",
+                "addr:street": "Bull Street",
+                "building": "yes",
+                "check_date:opening_hours": "2023-02-20",
+                "fee": "yes",
+                "name": "The Mercer Williams House Museum",
+                "opening_hours": "Mo-Sa 09:45-17:00; Su 11:30-16:45; Feb Tu-We off; Mar 17 off",
+                "tourism": "museum",
+                "website": "https://mercerhouse.com/",
+                "wheelchair": "no"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Row_Houses%2C_101-129_Gordon_Street%2C_Savannah%2C_Chatham_County%2C_GA.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 914857058,
+            "lat": 32.0723451,
+            "lon": -81.0913718,
+            "tags": {
+                "addr:city": "Savannah",
+                "addr:housenumber": "207",
+                "addr:postcode": "31401",
+                "addr:state": "GA",
+                "addr:street": "East Charlton Street",
+                "building": "yes",
+                "name": "Flannery O’Connor Home Museum",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Hamilton_Turner_House.JPG/1280px-Hamilton_Turner_House.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 914857384,
+            "lat": 32.0729977,
+            "lon": -81.0924876,
+            "tags": {
+                "addr:city": "Savannah",
+                "addr:housenumber": "329",
+                "addr:postcode": "31401",
+                "addr:state": "GA",
+                "addr:street": "Abercorn Street",
+                "building": "yes",
+                "check_date:opening_hours": "2023-02-20",
+                "fee": "yes",
+                "name": "Andrew Low House Museum",
+                "opening_hours": "Mo-Sa 10:00-16:00; Su 12:00-16:00; PH off",
+                "tourism": "museum",
+                "website": "https://www.andrewlowhouse.com/",
+                "wheelchair": "no"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Andrew_Low_House.jpg/1280px-Andrew_Low_House.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 914863109,
+            "lat": 32.0752917,
+            "lon": -81.10254,
+            "tags": {
+                "addr:city": "Savannah",
+                "addr:housenumber": "655",
+                "addr:postcode": "31401",
+                "addr:state": "GA",
+                "addr:street": "Louisville Road",
+                "building": "yes",
+                "layer": "1",
+                "name": "Savannah Children's Museum",
+                "opening_hours": "Mo-Sa 09:00-14:00",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/GA_Savannah_Central_of_GA_RR_msm01.jpg/1280px-GA_Savannah_Central_of_GA_RR_msm01.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 923535616,
+            "lat": 32.0809269,
+            "lon": -81.0890427,
+            "tags": {
+                "landuse": "retail",
+                "name": "River Street",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e0/112-130_East_Bay_Street.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 950225156,
+            "lat": 32.0562038,
+            "lon": -81.0976832,
+            "tags": {
+                "addr:city": "Savannah",
+                "addr:housenumber": "201",
+                "addr:postcode": "31401",
+                "addr:state": "GA",
+                "addr:street": "East 37th Street",
+                "building": "yes",
+                "name": "Savannah African Art Museum",
+                "source": "esri/Savannah_GA_Buildings",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Christ_Church_Anglican_Savannah_02.jpg/1280px-Christ_Church_Anglican_Savannah_02.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 953145464,
+            "lat": 32.0676267,
+            "lon": -81.089471,
+            "tags": {
+                "addr:city": "Savannah",
+                "addr:housenumber": "514",
+                "addr:postcode": "31401",
+                "addr:state": "GA",
+                "addr:street": "East Huntingdon Street",
+                "building": "yes",
+                "name": "King Tisdell Cottage",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/57/Whitefield_Square%2C_Savannah.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 1195656400,
+            "lat": 39.9472802,
+            "lon": -94.8213352,
+            "tags": {
+                "addr:city": "Savannah",
+                "addr:housenumber": "202",
+                "addr:postcode": "64485",
+                "addr:state": "MO",
+                "addr:street": "East Duncan Drive",
+                "building": "yes",
+                "name": "Andrew County Museum",
+                "tourism": "museum"
+            }
+        }
+    ]
+}

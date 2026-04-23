@@ -1,0 +1,195 @@
+{
+    "city_metadata": {
+        "city_name": "Pocatello",
+        "state_code": "ID",
+        "state_full": "Idaho",
+        "city_summary": "Pocatello ( ) is the county seat of and the largest city in Bannock County, with a small portion on the Fort Hall Indian Reservation in neighboring Power County, containing the city's airport. It is the principal city of the Pocatello metropolitan area, which encompasses all of Bannock County in the southeastern part of the U.S. state of Idaho.\nAs of the 2020 census, the population of Pocatello was 56,320.",
+        "city_image": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Downtown_Pocatello_Idaho_2004.jpg",
+        "city_lat": 42.8622,
+        "city_lon": -112.4506,
+        "source": "wikipedia_verified_engine"
+    },
+    "attractions": [
+        {
+            "type": "node",
+            "id": 2366494976,
+            "lat": 42.85938,
+            "lon": -112.4418493,
+            "tags": {
+                "name": "Museum of Clean",
+                "tourism": "museum",
+                "website": "https://museumofclean.com/"
+            }
+        },
+        {
+            "type": "node",
+            "id": 8997437900,
+            "lat": 42.8597607,
+            "lon": -112.446675,
+            "tags": {
+                "addr:city": "Pocatello",
+                "addr:housenumber": "B-59",
+                "addr:postcode": "83204",
+                "addr:state": "ID",
+                "addr:street": "South Harrison Avenue",
+                "name": "Pocatello Model Railroad and Historical Society",
+                "tourism": "museum",
+                "website": "https://pocatellomodelrailroad.weebly.com/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Sullivan-Kinney_House_Pocatello_ID.jpg/1280px-Sullivan-Kinney_House_Pocatello_ID.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 8999636129,
+            "lat": 42.8646947,
+            "lon": -112.453385,
+            "tags": {
+                "addr:city": "Pocatello",
+                "addr:housenumber": "420",
+                "addr:postcode": "83204",
+                "addr:state": "ID",
+                "addr:street": "North Main Street",
+                "name": "Historic Downtown Pocatello",
+                "tourism": "museum",
+                "website": "https://www.historicdowntownpocatello.com/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/A.F.R.Building_Pocatello_ID.jpg/1280px-A.F.R.Building_Pocatello_ID.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 578243061,
+            "lat": 42.8424927,
+            "lon": -112.4196766,
+            "tags": {
+                "name": "Zoo Idaho",
+                "tourism": "zoo",
+                "wikidata": "Q7206302"
+            }
+        },
+        {
+            "type": "way",
+            "id": 583402749,
+            "lat": 42.8441797,
+            "lon": -112.4190186,
+            "tags": {
+                "building": "yes",
+                "name": "Bannock County Historical Museum",
+                "tourism": "museum"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 402032,
+            "lat": 42.861,
+            "lon": -112.434,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Idaho_State_University_logo.svg/1280px-Idaho_State_University_logo.svg.png",
+            "description": "Idaho State University (ISU) is a public research university in Pocatello, Idaho, United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Idaho State University",
+                "wikipedia": "en:Idaho State University",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 14607,
+            "lat": 45,
+            "lon": -115,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Flag_of_Idaho.svg/1280px-Flag_of_Idaho.svg.png",
+            "description": "Idaho ( , EYE-də-hoe) is a landlocked state in the Pacific Northwest and Mountain West subregions of the Western United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Idaho",
+                "wikipedia": "en:Idaho",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 110624,
+            "lat": 43.655,
+            "lon": -114.40917,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/da/Baldmountainid.jpg",
+            "description": "Sun Valley is a resort town and alpine ski resort in the western United States, in Blaine County, Idaho, adjacent to the city of Ketchum in the Wood River valley.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Sun Valley, Idaho",
+                "wikipedia": "en:Sun Valley, Idaho",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 110662,
+            "lat": 42.40972222,
+            "lon": -113.58055556,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Albion_Idaho_aerial_photo_3.jpg/1280px-Albion_Idaho_aerial_photo_3.jpg",
+            "description": "Albion is a city in Cassia County, Idaho, United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Albion, Idaho",
+                "wikipedia": "en:Albion, Idaho",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 123395,
+            "lat": 44.66222222,
+            "lon": -111.10694444,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Westyellowstone.jpg/1280px-Westyellowstone.jpg",
+            "description": "West Yellowstone is a town in Gallatin County, Montana, United States, adjacent to Yellowstone National Park.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "West Yellowstone, Montana",
+                "wikipedia": "en:West Yellowstone, Montana",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 264310,
+            "lat": 43.46167,
+            "lon": -113.56271,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/CratersDrone1.jpg/1280px-CratersDrone1.jpg",
+            "description": "Craters of the Moon National Monument and Preserve is a U.S. national monument and national preserve in the Snake River Plain in central Idaho.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Craters of the Moon National Monument and Preserve",
+                "wikipedia": "en:Craters of the Moon National Monument and Preserve",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 123505,
+            "lat": 45.34611111,
+            "lon": -111.73194444,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Ennismainstreet.jpg/1280px-Ennismainstreet.jpg",
+            "description": "Ennis is a town in Madison County, Montana, United States, in the southwestern part of the state.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Ennis, Montana",
+                "wikipedia": "en:Ennis, Montana",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 1874076,
+            "lat": 46.726,
+            "lon": -117.017,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/MoscowKibbieDomeFebruary2024.jpg/1280px-MoscowKibbieDomeFebruary2024.jpg",
+            "description": "The P1FCU Kibbie Dome, known simply as the Kibbie Dome and formerly named the Kibbie-ASUI Activity Center, is a multi-purpose indoor athletic stadium on the campus of the University of Idaho in Moscow, Idaho.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Kibbie Dome",
+                "wikipedia": "en:Kibbie Dome",
+                "tourism": "attraction"
+            }
+        }
+    ]
+}

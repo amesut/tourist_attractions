@@ -1,0 +1,318 @@
+{
+    "city_metadata": {
+        "city_name": "Cheyenne",
+        "state_code": "WY",
+        "state_full": "Wyoming",
+        "city_summary": "Cheyenne ( shy-AN or  shy-EN) is the capital and most populous city of the U.S. state of Wyoming. The population was 65,132 at the 2020 census, while the Cheyenne metropolitan area encompassing all of Laramie County has an estimated 102,000 residents. Cheyenne is situated on Crow Creek and Dry Creek.",
+        "city_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/CheyenneWyoming_%28cropped%29.jpg/1280px-CheyenneWyoming_%28cropped%29.jpg",
+        "city_lat": 41.14,
+        "city_lon": -104.82027778,
+        "source": "wikipedia_verified_engine"
+    },
+    "attractions": [
+        {
+            "type": "node",
+            "id": 9938667389,
+            "lat": 41.1334089,
+            "lon": -104.816101,
+            "tags": {
+                "addr:city": "Cheyenne",
+                "addr:housenumber": "203,205",
+                "addr:postcode": "82001",
+                "addr:state": "WY",
+                "addr:street": "West 17th Street",
+                "fee": "no",
+                "museum": "history",
+                "name": "Cowgirls of the West Museum",
+                "opening_hours": "Tu-Fr 11:00-16:00; Sa 11:00-15:00",
+                "tourism": "museum",
+                "website": "https://www.cowgirlsofthewestmuseum.com/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/95/H60-27_Cheyenne_Business_college_advertisement_postcard.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 13309837133,
+            "lat": 41.1314838,
+            "lon": -104.8207364,
+            "tags": {
+                "addr:city": "Cheyenne",
+                "addr:housenumber": "1618",
+                "addr:postcode": "82001",
+                "addr:state": "WY",
+                "addr:street": "O Neil Avenue",
+                "name": "Cheyenne Children's Museum",
+                "tourism": "museum",
+                "website": "https://www.cheyennechildrensmuseum.org/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/WY_Fuel_Co_Cheyenne.JPG/1280px-WY_Fuel_Co_Cheyenne.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 13310377044,
+            "lat": 41.146891,
+            "lon": -104.8032877,
+            "tags": {
+                "name": "Derby Lanes",
+                "tourism": "theme_park"
+            }
+        },
+        {
+            "type": "way",
+            "id": 230925450,
+            "lat": 41.1395677,
+            "lon": -104.8176857,
+            "tags": {
+                "addr:city": "Cheyenne",
+                "addr:housename": "State of Wyoming Offices",
+                "addr:housenumber": "2301",
+                "addr:postcode": "82002",
+                "addr:state": "WY",
+                "addr:street": "Central Avenue",
+                "building": "yes",
+                "fee": "no",
+                "museum": "history;art;natural_history;anthropology",
+                "name": "Wyoming State Museum",
+                "note": "Large office building with Wyoming State Museum free and open daily to the public, Wyoming State Archives, and other state offices.",
+                "opening_hours": "Mo-Sa 09:00-16:30",
+                "operator": "State of Wyoming US",
+                "operator:type": "government",
+                "phone": "+1 307 777-7826",
+                "source": "www.wyoming.gov",
+                "tourism": "museum",
+                "website": "https://wyomuseum.wyo.gov/index.php/visit/plan-your-visit",
+                "wheelchair": "yes",
+                "wikidata": "Q8040391"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Wyoming_State_Museum_logo.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 232402672,
+            "lat": 41.1317835,
+            "lon": -104.8144061,
+            "tags": {
+                "addr:city": "Cheyenne",
+                "addr:country": "US",
+                "addr:housename": "Union Pacific Railway Depot 1889",
+                "addr:housenumber": "121",
+                "addr:postcode": "82001",
+                "addr:state": "WY",
+                "addr:street": "West 15th Street",
+                "building": "train_station",
+                "building:levels": "2",
+                "heritage": "2",
+                "heritage:operator": "nrhp",
+                "name": "Cheyenne Depot Museum",
+                "note": "#300 in Union Depot building",
+                "nrhp:criteria": "(A),(C)",
+                "nrhp:inscription_date": "February 15, 2006",
+                "nrhp:nhl": "yes",
+                "phone": "+1 307 632 3905",
+                "protection_title": "protected_site",
+                "ref:nrhp": "73001935",
+                "tourism": "museum",
+                "website": "https://www.cheyennedepotmuseum.org/",
+                "wheelchair": "yes",
+                "wikidata": "Q8040398",
+                "wikipedia": "en:Cheyenne Depot Museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/50/Cheyenne_old_1976_apr25.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 238152331,
+            "lat": 41.1464634,
+            "lon": -104.8147797,
+            "tags": {
+                "addr:city": "Cheyenne",
+                "addr:housename": "Wyoming Military Department Museum",
+                "addr:housenumber": "624",
+                "addr:postcode": "82001",
+                "addr:state": "WY",
+                "addr:street": "East Pershing Boulevard",
+                "building": "yes",
+                "name": "Wyoming National Guard Museum",
+                "note": "Free admission, open Wednesday 9am-4pm and Saturday open 9am - 2pm",
+                "operator": "Wyoming Military Department",
+                "phone": "+1 307 432 0057",
+                "source": "local visit, city website",
+                "tourism": "museum",
+                "website": "https://sites.google.com/a/wyo.gov/wyomingmilitarydepartment/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Storey_Gymnasium.JPG/1280px-Storey_Gymnasium.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 547347998,
+            "lat": 41.1579134,
+            "lon": -104.8339954,
+            "tags": {
+                "addr:city": "Cheyenne",
+                "addr:housename": "Cheyenne Frontier Park Old West Museum",
+                "addr:housenumber": "4610",
+                "addr:postcode": "82001",
+                "addr:state": "WY",
+                "addr:street": "Carey Avenue",
+                "building": "yes",
+                "name": "Cheyenne Frontier Days - Old West Museum",
+                "note": "150 horse-drawn vehicles, displays, admission free under 12.",
+                "opening_hours": "Mo-Su 09:00-17:00",
+                "operator": "Cheyenne Frontier Park",
+                "phone": "+1 307 778 7290",
+                "tourism": "museum",
+                "website": "https://www.oldwestmuseum.org/",
+                "wikidata": "Q5094576",
+                "wikipedia": "en:Cheyenne Frontier Days Old West Museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Frontier_Park.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 547489724,
+            "lat": 41.1367563,
+            "lon": -104.7998715,
+            "tags": {
+                "addr:city": "Cheyenne",
+                "addr:housenumber": "1705",
+                "addr:postcode": "82001",
+                "addr:state": "WY",
+                "addr:street": "Morrie Ave",
+                "historic": "locomotive",
+                "name": "Big Boy Steam Engine 4004",
+                "public_transport": "platform",
+                "source": "local visit, city website",
+                "tourism": "attraction",
+                "website": "https://www.cheyenne.org/listing/big-boy-steam-engine/116/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/58/K246CI_Star_97.1_logo.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 1084550502,
+            "lat": 41.1336223,
+            "lon": -104.8177132,
+            "tags": {
+                "addr:city": "Cheyenne",
+                "addr:housenumber": "1714",
+                "addr:postcode": "82001",
+                "addr:state": "WY",
+                "addr:street": "Carey Avenue",
+                "building": "yes",
+                "fee": "yes",
+                "museum": "history",
+                "name": "Nelson Museum of the West",
+                "opening_hours": "May, Sep, Oct Mo-Fr 09:00-16:00; Jun-Aug Mo-Sa 09:00-16:00",
+                "tourism": "museum",
+                "website": "https://www.nelsonmuseum.org"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/fb/City_and_County_Building%2C_Cheyenne.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 1198530,
+            "lat": 41.14027778,
+            "lon": -104.81972222,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a9/DSCN5263_cheyennewyomingcapitolfront_e.jpg",
+            "description": "The Wyoming State Capitol is located in the city of Cheyenne.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Wyoming State Capitol",
+                "wikipedia": "en:Wyoming State Capitol",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 33611,
+            "lat": 43,
+            "lon": -107,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Wyoming.svg/1280px-Flag_of_Wyoming.svg.png",
+            "description": "Wyoming (  wy-OH-ming) is a landlocked state in the Mountain West subregion of the Western United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Wyoming",
+                "wikipedia": "en:Wyoming",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 22640981,
+            "lat": 36.83478,
+            "lon": -84.35799,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Tombstone_Junction_3.jpg/1280px-Tombstone_Junction_3.jpg",
+            "description": "Tombstone Junction was a small, Western-town-themed park located on Kentucky Route 90 in McCreary County, Kentucky near the Cumberland Falls State Resort Park.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Tombstone Junction",
+                "wikipedia": "en:Tombstone Junction",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 10050698,
+            "lat": 38.9972,
+            "lon": -105.5478,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/20/Colorado_statistical_areas_2023.png",
+            "description": "The U.S. State of Colorado has 20 statistical areas that have been delineated by the Office of Management and Budget (OMB).",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Colorado statistical areas",
+                "wikipedia": "en:Colorado statistical areas",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 52980279,
+            "lat": 38.9972,
+            "lon": -105.5478,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Colorado_in_United_States.svg/1280px-Colorado_in_United_States.svg.png",
+            "description": "The U.S. State of Colorado is home to 101  fishes, 55 of which are native.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "List of fishes of Colorado",
+                "wikipedia": "en:List of fishes of Colorado",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 2028233,
+            "lat": 38.9972,
+            "lon": -105.5478,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Seal_of_the_Executive_Office_of_Colorado.svg/1280px-Seal_of_the_Executive_Office_of_Colorado.svg.png",
+            "description": "The lieutenant governor of Colorado is the second-highest-ranking member of the executive department of the Government of Colorado, United States, below the governor of Colorado.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "List of lieutenant governors of Colorado",
+                "wikipedia": "en:List of lieutenant governors of Colorado",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 289672,
+            "lat": 40.0073,
+            "lon": -105.2678,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Seal_of_the_University_of_Colorado.svg/1280px-Seal_of_the_University_of_Colorado.svg.png",
+            "description": "The University of Colorado Boulder (CU Boulder, CU, or Colorado) is a public research university in Boulder, Colorado, United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "University of Colorado Boulder",
+                "wikipedia": "en:University of Colorado Boulder",
+                "tourism": "attraction"
+            }
+        }
+    ]
+}

@@ -1,0 +1,405 @@
+{
+    "city_metadata": {
+        "city_name": "Grand Rapids",
+        "state_code": "MI",
+        "state_full": "Michigan",
+        "city_summary": "Grand Rapids is a city in and the county seat of Kent County, Michigan, United States. It is the second-most populous city in Michigan, with a population of 198,917 at the 2020 census (estimated at 200,117 in 2024). The Grand Rapids metropolitan area, with over 1.18 million residents, is the 49th-largest metropolitan area in the U.S. Grand Rapids is situated along the Grand River approximately 25 miles (40 km) east of Lake Michigan and is the economic and cultural hub of West Michigan.",
+        "city_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Meyer_May_House.jpg/1280px-Meyer_May_House.jpg",
+        "city_lat": 42.9633,
+        "city_lon": -85.6678,
+        "source": "wikipedia_verified_engine"
+    },
+    "attractions": [
+        {
+            "type": "node",
+            "id": 11177192184,
+            "lat": 42.9647264,
+            "lon": -85.6700054,
+            "tags": {
+                "addr:city": "Grand Rapids",
+                "addr:housenumber": "87",
+                "addr:state": "MI",
+                "addr:street": "Monroe Center Street Northwest",
+                "name": "Grand Rapids African American Museum and Archives",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/AldrichGodfreyandWhiteBlockGrandRapidsMI.jpg/1280px-AldrichGodfreyandWhiteBlockGrandRapidsMI.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 132572363,
+            "lat": 47.206396,
+            "lon": -93.5297105,
+            "tags": {
+                "addr:city": "Grand Rapids",
+                "addr:housenumber": "2727",
+                "addr:state": "MN",
+                "addr:street": "South Pokegama Avenue",
+                "alt_name": "Judy Garland Children's Museum",
+                "building": "yes",
+                "ele": "406",
+                "email": "info@judygarlandmuseum.com",
+                "gnis:feature_id": "2096491",
+                "name": "Judy Garland Museum",
+                "opening_hours": "9:00-17:00, closed Su-Tu between Oct and May",
+                "phone": "+1 218-327-9276",
+                "source": "USGS Geonames;Tourism flyer",
+                "tourism": "museum",
+                "website": "https://www.judygarlandmuseum.com/"
+            }
+        },
+        {
+            "type": "way",
+            "id": 160829535,
+            "lat": 42.9637252,
+            "lon": -85.7046802,
+            "tags": {
+                "name": "John Ball Zoo",
+                "tourism": "zoo"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/John_Ball_Zoo_%282025%29.jpg/1280px-John_Ball_Zoo_%282025%29.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 162804574,
+            "lat": 42.9636763,
+            "lon": -85.6672511,
+            "tags": {
+                "addr:city": "Grand Rapids",
+                "addr:housenumber": "11",
+                "addr:state": "MI",
+                "addr:street": "Sheldon Avenue Northeast",
+                "building": "yes",
+                "name": "Grand Rapids Children's Museum",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/KentCountyCivilWarMonumentGrandRapidsMI.jpg/1280px-KentCountyCivilWarMonumentGrandRapidsMI.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 162916723,
+            "lat": 42.9650338,
+            "lon": -85.6710137,
+            "tags": {
+                "addr:city": "Grand Rapids",
+                "addr:housename": "Grand Rapids Art Museum",
+                "addr:housenumber": "101",
+                "addr:postcode": "49503",
+                "addr:state": "MI",
+                "addr:street": "Monroe Center Street Northwest",
+                "building": "yes",
+                "fee": "yes",
+                "name": "Grand Rapids Art Museum",
+                "phone": "+1 616 831 1000",
+                "tourism": "museum",
+                "website": "https://www.artmuseumgr.org/",
+                "wikidata": "Q3412050",
+                "wikipedia": "en:Grand Rapids Art Museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Grand_Rapids_Art_Museum.jpg/1280px-Grand_Rapids_Art_Museum.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 163042756,
+            "lat": 42.9684258,
+            "lon": -85.6774271,
+            "tags": {
+                "addr:city": "Grand Rapids",
+                "addr:housenumber": "303",
+                "addr:postcode": "49504",
+                "addr:state": "MI",
+                "addr:street": "Pearl Street Northwest",
+                "alt_name": "Gerald R. Ford Museum",
+                "building": "yes",
+                "ele": "183",
+                "fee": "yes",
+                "gnis:feature_id": "2101636",
+                "name": "Gerald R. Ford Presidential Museum",
+                "tourism": "museum",
+                "wheelchair": "yes",
+                "wikidata": "Q3103913"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Official_logo_of_the_Gerald_R._Ford_Presidential_Library.svg/1280px-Official_logo_of_the_Gerald_R._Ford_Presidential_Library.svg.png",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 252997742,
+            "lat": 41.4063919,
+            "lon": -83.8745672,
+            "tags": {
+                "building": "no",
+                "museum": "railway",
+                "name": "Toledo, Lake Erie & Western Railway and Museum Inc.",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Grandrapidsohio.jpg/1280px-Grandrapidsohio.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 264852461,
+            "lat": 41.4101026,
+            "lon": -83.866406,
+            "tags": {
+                "museum": "railway",
+                "name": "Toledo, Lake Erie & Western Railway and Museum Inc.",
+                "tourism": "museum"
+            }
+        },
+        {
+            "type": "way",
+            "id": 317007144,
+            "lat": 42.9611632,
+            "lon": -85.6631193,
+            "tags": {
+                "building": "yes",
+                "name": "Caulkins Law Office",
+                "operator": "Grand Rapids Public Museum",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/AbramWPikeHouseGrandRapidsMI.jpg/1280px-AbramWPikeHouseGrandRapidsMI.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 347688879,
+            "lat": 47.2364635,
+            "lon": -93.5290971,
+            "tags": {
+                "name": "Central School",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/City_Hall%2C_Grand_Rapids%2C_MN-02.jpg/1280px-City_Hall%2C_Grand_Rapids%2C_MN-02.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 347962745,
+            "lat": 47.2397278,
+            "lon": -93.5303697,
+            "tags": {
+                "addr:city": "Grand Rapids",
+                "addr:housenumber": "719",
+                "addr:state": "MN",
+                "addr:street": "Northwest 1st Avenue",
+                "alt": "The Historic Gilbert Mansion",
+                "building": "yes",
+                "name": "The Gilbert Mansion",
+                "phone": "+1 218-244-3309",
+                "tourism": "museum",
+                "website": "https://www.gilbertmansion.com"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/City_Hall%2C_Grand_Rapids%2C_MN-02.jpg/1280px-City_Hall%2C_Grand_Rapids%2C_MN-02.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 421814702,
+            "lat": 42.9541968,
+            "lon": -85.6587631,
+            "tags": {
+                "addr:city": "Grand Rapids",
+                "addr:housenumber": "450",
+                "addr:state": "MI",
+                "addr:street": "Madison Avenue Southeast",
+                "building": "yes",
+                "description": "Meyer May House has been designed by architect Frank Lloyd Wright",
+                "name": "Meyer May House",
+                "tourism": "museum",
+                "website": "https://meyermayhouse.steelcase.com/",
+                "wikidata": "Q6826432"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Meyer_May_House.jpg/1280px-Meyer_May_House.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 475841709,
+            "lat": 47.2298442,
+            "lon": -93.5652199,
+            "tags": {
+                "addr:city": "Grand Rapids",
+                "addr:housenumber": "2609",
+                "addr:postcode": "55744",
+                "addr:state": "MN",
+                "addr:street": "Forest History Road",
+                "building": "yes",
+                "name": "Forest History Center",
+                "tourism": "museum",
+                "website": "https://www.mnhs.org/foresthistory"
+            }
+        },
+        {
+            "type": "way",
+            "id": 879125224,
+            "lat": 43.3458243,
+            "lon": -86.2764753,
+            "tags": {
+                "building": "yes",
+                "name": "Grand Rapids",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/MichiganAventure_Wildcat_Dscn8263.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 24109126,
+            "lat": 42.9633,
+            "lon": -85.6678,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Meyer_May_House.jpg/1280px-Meyer_May_House.jpg",
+            "description": "Grand Rapids is a city in and the county seat of Kent County, Michigan, United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Grand Rapids, Michigan",
+                "wikipedia": "en:Grand Rapids, Michigan",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 118908,
+            "lat": 43.06305556,
+            "lon": -86.22833333,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Grand_Theatre_%281%29.jpg/1280px-Grand_Theatre_%281%29.jpg",
+            "description": "Grand Haven is a city within the U.S. state of Michigan and the county seat of Ottawa County.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Grand Haven, Michigan",
+                "wikipedia": "en:Grand Haven, Michigan",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 158338,
+            "lat": 12,
+            "lon": 37.25,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/ET_Bahir_Dar_asv2018-02_img32_view_from_Bezawit.jpg/1280px-ET_Bahir_Dar_asv2018-02_img32_view_from_Bezawit.jpg",
+            "description": "The Blue Nile is a river originating at Lake Tana in Ethiopia.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Blue Nile",
+                "wikipedia": "en:Blue Nile",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 13665410,
+            "lat": 42.9511,
+            "lon": -85.6131,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Ramona_Park_Pavilion%2C_Grand_Rapids%2C_MI._Postcard_-_040_-_041.jpeg/1280px-Ramona_Park_Pavilion%2C_Grand_Rapids%2C_MI._Postcard_-_040_-_041.jpeg",
+            "description": "Ramona Park was an amusement park located in the city of East Grand Rapids, Michigan between 1881 and 1955.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Ramona Park",
+                "wikipedia": "en:Ramona Park",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 150536,
+            "lat": 42.7875,
+            "lon": -86.10888889,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Downtown_Holland%2C_Michigan_.jpg/1280px-Downtown_Holland%2C_Michigan_.jpg",
+            "description": "Holland is a city in Ottawa and Allegan counties in the U.S. state of Michigan.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Holland, Michigan",
+                "wikipedia": "en:Holland, Michigan",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 117020,
+            "lat": 42.655,
+            "lon": -86.20194444,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Saugatuck%2C_Michigan.jpg/1280px-Saugatuck%2C_Michigan.jpg",
+            "description": "Saugatuck ( SAW-gə-tuck) is a city in Allegan County in the U.S. state of Michigan.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Saugatuck, Michigan",
+                "wikipedia": "en:Saugatuck, Michigan",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 1064853,
+            "lat": 49.13444444,
+            "lon": 2.57027778,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/34/Oziris_tunnel.png",
+            "description": "Parc Astérix (French pronunciation: [paʁk asteʁiks]) is a theme park in France based on the comic book series Asterix by Albert Uderzo and René Goscinny.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Parc Astérix",
+                "wikipedia": "en:Parc Astérix",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 2309141,
+            "lat": 42.96933,
+            "lon": -85.67345,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/DeVos_Place.jpg/1280px-DeVos_Place.jpg",
+            "description": "DeVos Place Convention Center, erected on the Grand River in downtown Grand Rapids, Michigan, is a multi-purpose convention center.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "DeVos Place Convention Center",
+                "wikipedia": "en:DeVos Place Convention Center",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 4086714,
+            "lat": 50.56805556,
+            "lon": -96.56166667,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Grand_Beach_Provincial_Park_in_August_2020.jpg/1280px-Grand_Beach_Provincial_Park_in_August_2020.jpg",
+            "description": "Grand Beach Provincial Park is a provincial park in Manitoba, Canada, noted for its large white sand dunes and ancient beaches from the end of the last ice age.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Grand Beach Provincial Park",
+                "wikipedia": "en:Grand Beach Provincial Park",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 20321,
+            "lat": 45.817059,
+            "lon": -84.727822,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Mackinac_Bridge_2022.jpg/1280px-Mackinac_Bridge_2022.jpg",
+            "description": "The Mackinac Bridge ( MAK-ə-naw; also referred to as the Mighty Mac or Big Mac) is a suspension bridge that connects the Upper and Lower peninsulas of the U.S. state of Michigan.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Mackinac Bridge",
+                "wikipedia": "en:Mackinac Bridge",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 6200814,
+            "lat": 42.95066667,
+            "lon": -85.65441667,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/President_Gerald_R._Ford%2C_Jr._Boyhood_Home_-_1.jpg/1280px-President_Gerald_R._Ford%2C_Jr._Boyhood_Home_-_1.jpg",
+            "description": "The President Gerald R. Ford Jr.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "President Gerald R. Ford Jr. Boyhood Home",
+                "wikipedia": "en:President Gerald R. Ford Jr. Boyhood Home",
+                "tourism": "attraction"
+            }
+        }
+    ]
+}

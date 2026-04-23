@@ -1,0 +1,388 @@
+{
+    "city_metadata": {
+        "city_name": "Camden",
+        "state_code": "NJ",
+        "state_full": "New Jersey",
+        "city_summary": "Camden is a city in Camden County, in the U.S. state of New Jersey. It is part of the Delaware Valley metropolitan region. The city was incorporated on February 13, 1828.",
+        "city_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Adventure_Aquarium_%2853572702368%29.jpg/1280px-Adventure_Aquarium_%2853572702368%29.jpg",
+        "city_lat": 39.94,
+        "city_lon": -75.105,
+        "source": "wikipedia_verified_engine"
+    },
+    "attractions": [
+        {
+            "type": "node",
+            "id": 367131570,
+            "lat": 33.5850215,
+            "lon": -92.8441441,
+            "tags": {
+                "addr:state": "AR",
+                "ele": "48",
+                "gnis:feature_id": "66255",
+                "name": "McCollum-Chidester House Museum",
+                "source": "USGS Geonames",
+                "tourism": "museum",
+                "website": "http://www.ouachitacountyhistoricalsociety.org/index.html"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/McCollum-Chidester_House_001.jpg/1280px-McCollum-Chidester_House_001.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 367795388,
+            "lat": 44.2098011,
+            "lon": -69.0669815,
+            "tags": {
+                "addr:state": "ME",
+                "ele": "11",
+                "gnis:feature_id": "1909505",
+                "name": "Knox Mill Museum",
+                "source": "USGS Geonames",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Opera_Block%2C_Camden%2C_Maine.jpg/1280px-Opera_Block%2C_Camden%2C_Maine.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 1101214383,
+            "lat": 34.2450417,
+            "lon": -80.61391,
+            "tags": {
+                "name": "Atlas Gym and Fitness Center",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 3669304232,
+            "lat": 39.9488068,
+            "lon": -75.1217824,
+            "tags": {
+                "addr:city": "Camden",
+                "addr:housenumber": "314",
+                "addr:postcode": "08102",
+                "addr:state": "NJ",
+                "addr:street": "Linden Street",
+                "fee": "no",
+                "name": "Stedman Gallery",
+                "opening_hours": "Mo-Fr 10:00-17:00",
+                "tourism": "museum",
+                "website": "https://rcca.camden.rutgers.edu/collection/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/South_Jersey_Gas_Camden_NJ.JPG/1280px-South_Jersey_Gas_Camden_NJ.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 4783905227,
+            "lat": 39.9435874,
+            "lon": -75.1307329,
+            "tags": {
+                "comment": "this is a station on the kids rr here at the garden",
+                "name": "Arrow Head Train & Station",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 5721524955,
+            "lat": -34.0535712,
+            "lon": 150.6954766,
+            "tags": {
+                "name": "Camden Museum",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Camden_NSW_2570%2C_Australia_-_panoramio_%2812%29.jpg/1280px-Camden_NSW_2570%2C_Australia_-_panoramio_%2812%29.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 6433467485,
+            "lat": -34.0539465,
+            "lon": 150.6950543,
+            "tags": {
+                "name": "Allen Barker Art Gallery",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Camden_NSW_2570%2C_Australia_-_panoramio_%2816%29.jpg/1280px-Camden_NSW_2570%2C_Australia_-_panoramio_%2816%29.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 6532631970,
+            "lat": 44.2014169,
+            "lon": -69.0489116,
+            "tags": {
+                "man_made": "lighthouse",
+                "name": "Curtis Island Lighthouse",
+                "tourism": "museum",
+                "wikidata": "Q5195779",
+                "wikipedia": "en:Curtis Island Light"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Curtis_Island_Lighthouse_Maine.jPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 7748794085,
+            "lat": -34.0511524,
+            "lon": 150.6875756,
+            "tags": {
+                "name": "MacQuarrie house lookout",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "way",
+            "id": 29667862,
+            "lat": 39.9394646,
+            "lon": -75.1330575,
+            "tags": {
+                "addr:city": "Camden",
+                "addr:postcode": "08103",
+                "addr:state": "NJ",
+                "addr:street": "Wiggins Promenade",
+                "building": "ship",
+                "building:material": "metal",
+                "historic": "ship",
+                "name": "USS New Jersey",
+                "ref": "BB-62",
+                "ship:type": "battleship",
+                "start_date": "1942",
+                "tourism": "attraction",
+                "website": "https://www.battleshipnewjersey.org/",
+                "wheelchair": "yes",
+                "wikidata": "Q507603",
+                "wikipedia": "en:USS New Jersey (BB-62)"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/New_Jersey_Sails.jpg/1280px-New_Jersey_Sails.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 268536664,
+            "lat": 39.9401037,
+            "lon": -75.1319575,
+            "tags": {
+                "addr:city": "Camden",
+                "addr:housenumber": "10",
+                "addr:postcode": "08103",
+                "addr:state": "NJ",
+                "addr:street": "Delaware Avenue",
+                "building": "yes",
+                "name": "Battleship New Jersey Museum",
+                "tourism": "museum",
+                "website": "https://www.battleshipnewjersey.org/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/USS_New_Jersey_%286219214852%29.jpg/1280px-USS_New_Jersey_%286219214852%29.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 268538299,
+            "lat": 39.9438967,
+            "lon": -75.1311771,
+            "tags": {
+                "building": "commercial",
+                "name": "Butterfly House",
+                "official_name": "Philadelphia Eagles Four Seasons Butterfly House and Education Centre",
+                "tourism": "zoo",
+                "zoo": "butterfly"
+            }
+        },
+        {
+            "type": "way",
+            "id": 361947218,
+            "lat": 39.9439632,
+            "lon": -75.1314484,
+            "tags": {
+                "building": "roof",
+                "name": "Carousel",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/One_Port_Center_%28Camden%29_02.jpg/1280px-One_Port_Center_%28Camden%29_02.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 362835069,
+            "lat": 39.9205573,
+            "lon": -75.1193886,
+            "tags": {
+                "name": "Camden Shipyard & Maritime Museum",
+                "tourism": "museum",
+                "website": "http://www.camdenshipmuseum.org/",
+                "wikidata": "Q27890235",
+                "wikipedia": "en:Camden Shipyard & Maritime Museum"
+            }
+        },
+        {
+            "type": "way",
+            "id": 363048993,
+            "lat": 39.9423932,
+            "lon": -75.1234659,
+            "tags": {
+                "building": "house",
+                "name": "Walt Whitman House",
+                "tourism": "museum",
+                "website": "https://www.state.nj.us/dep/parksandforests/historic/whitman/",
+                "wikidata": "Q7964081",
+                "wikipedia": "en:Walt Whitman House"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Walt_Whitman%27s_house_Wellcome_L0010043.jpg/1280px-Walt_Whitman%27s_house_Wellcome_L0010043.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 363050774,
+            "lat": 39.9309044,
+            "lon": -75.0938516,
+            "tags": {
+                "building": "yes",
+                "name": "Camden County Historical Society",
+                "tourism": "museum",
+                "website": "https://www.cchsnj.org/",
+                "wikipedia": "en:Pomona Hall"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/be/HABS-NJ%2C4-CAM%2C4-1-edit.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 591446467,
+            "lat": 39.9033575,
+            "lon": -75.1107903,
+            "tags": {
+                "addr:city": "Camden",
+                "addr:housenumber": "3081",
+                "addr:postcode": "08104",
+                "addr:state": "NJ",
+                "addr:street": "Fenwick Road",
+                "building": "yes",
+                "name": "Fairview Historic Society",
+                "tourism": "museum"
+            }
+        },
+        {
+            "type": "way",
+            "id": 998469473,
+            "lat": 34.2511714,
+            "lon": -80.6068449,
+            "tags": {
+                "addr:state": "SC",
+                "amenity": "archive",
+                "building": "yes",
+                "ele": "64",
+                "gnis:feature_id": "1235036",
+                "name": "Camden Archives and Museum",
+                "source": "USGS Geonames",
+                "tourism": "museum",
+                "website": "https://www.classicallycarolina.com/what-do/museums/camden-archives-museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Kershaw_courthouse_0077.jpg/1280px-Kershaw_courthouse_0077.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 1031861147,
+            "lat": 39.9441659,
+            "lon": -75.1309755,
+            "tags": {
+                "leisure": "garden",
+                "name": "Camden Children's Garden",
+                "tourism": "attraction",
+                "website": "http://www.camdenchildrensgarden.org/",
+                "wikidata": "Q15206933"
+            }
+        },
+        {
+            "type": "way",
+            "id": 1153910979,
+            "lat": 34.2324051,
+            "lon": -80.6051104,
+            "tags": {
+                "addr:city": "Camden",
+                "addr:housenumber": "212",
+                "addr:postcode": "29020",
+                "addr:state": "SC",
+                "addr:street": "Broad Street",
+                "building": "yes",
+                "name": "Revolutionary War Visitors Center",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Historic_Camden_Revolutionary_War_Restoration_2.jpg/1280px-Historic_Camden_Revolutionary_War_Restoration_2.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 102775,
+            "lat": 39.94,
+            "lon": -75.105,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Adventure_Aquarium_%2853572702368%29.jpg/1280px-Adventure_Aquarium_%2853572702368%29.jpg",
+            "description": "Camden is a city in Camden County, in the U.S. state of New Jersey.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Camden, New Jersey",
+                "wikipedia": "en:Camden, New Jersey",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 2336351,
+            "lat": 39.949,
+            "lon": -75.124,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Rutgers_University_seal.svg/1280px-Rutgers_University_seal.svg.png",
+            "description": "Rutgers University–Camden is a regional campus of Rutgers University—a public land-grant research university—located in Camden, New Jersey.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Rutgers University–Camden",
+                "wikipedia": "en:Rutgers University–Camden",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 21648,
+            "lat": 40,
+            "lon": -74.5,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Flag_of_New_Jersey.svg/1280px-Flag_of_New_Jersey.svg.png",
+            "description": "New Jersey is a state located in both the Mid-Atlantic and Northeastern regions of the United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "New Jersey",
+                "wikipedia": "en:New Jersey",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 34320750,
+            "lat": 39.935593,
+            "lon": -75.126809,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Camden_waterfront_skyline.jpg",
+            "description": "The Camden Waterfront, also known as the Central Waterfront, is a commercial and entertainment district on the waterfront of Camden, New Jersey, on the Delaware River south of the Ben Franklin Bridge and north of Port of Camden.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Camden Waterfront",
+                "wikipedia": "en:Camden Waterfront",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 30865580,
+            "lat": 39.945,
+            "lon": -75.131,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Adventure_Aquarium_%2853572702368%29.jpg/1280px-Adventure_Aquarium_%2853572702368%29.jpg",
+            "description": "The Adventure Aquarium, formerly the Thomas H. Kean New Jersey State Aquarium, is a for-profit educational entertainment attraction operated in Camden, New Jersey on the Delaware River Camden Waterfront by Herschend.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Adventure Aquarium",
+                "wikipedia": "en:Adventure Aquarium",
+                "tourism": "attraction"
+            }
+        }
+    ]
+}

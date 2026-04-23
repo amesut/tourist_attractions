@@ -1,0 +1,858 @@
+{
+    "city_metadata": {
+        "city_name": "Albuquerque",
+        "state_code": "NM",
+        "state_full": "New Mexico",
+        "city_summary": "Albuquerque, also known as ABQ, Burque, Duke City, is the most populous city in the U.S. state of New Mexico, and the county seat of Bernalillo County. Founded in 1706 as La Villa de Alburquerque by Santa Fe de Nuevo México governor Francisco Cuervo y Valdés, and named in honor of Francisco Fernández de la Cueva, 10th Duke of Alburquerque and Viceroy of New Spain, it was an outpost on El Camino Real, linking Mexico City to the northernmost territories of New Spain.\nLocated in the Albuquerque Basin, the city is flanked by the Sandia Mountains to the east and the West Mesa to the west, with the Rio Grande and its bosque flowing north-to-south through the middle.",
+        "city_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Albuquerque%2C_New_Mexico_skyline.jpg/1280px-Albuquerque%2C_New_Mexico_skyline.jpg",
+        "city_lat": 35.0844,
+        "city_lon": -106.6503,
+        "source": "wikipedia_verified_engine"
+    },
+    "attractions": [
+        {
+            "type": "node",
+            "id": 366378260,
+            "lat": 35.084233,
+            "lon": -106.651451,
+            "tags": {
+                "addr:city": "Albuquerque",
+                "addr:housenumber": "320",
+                "addr:postcode": "87102",
+                "addr:state": "NM",
+                "addr:street": "Central Avenue Northwest",
+                "ele": "1511",
+                "gnis:feature_id": "934249",
+                "name": "Rosenwald Building Historic Site",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Rosenwald_Building%2C_Albuquerque_NM.jpg/1280px-Rosenwald_Building%2C_Albuquerque_NM.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 366378268,
+            "lat": 35.0848183,
+            "lon": -106.652561,
+            "tags": {
+                "addr:city": "Albuquerque",
+                "addr:housenumber": "423",
+                "addr:state": "NM",
+                "addr:street": "Central Avenue Northwest",
+                "amenity": "theatre",
+                "ele": "1511",
+                "gnis:feature_id": "934245",
+                "name": "Kimo Theater Historic Site",
+                "name:en": "KiMo Theater",
+                "tourism": "attraction",
+                "wikidata": "Q6403585",
+                "wikipedia": "en:KiMo Theater"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/KiMo_Albuquerque.jpg/1280px-KiMo_Albuquerque.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 366378561,
+            "lat": 35.0851005,
+            "lon": -106.651398,
+            "tags": {
+                "addr:city": "Albuquerque",
+                "addr:housenumber": "110",
+                "addr:postcode": "87102",
+                "addr:state": "NM",
+                "addr:street": "4th Street Northwest",
+                "architect": "J. L. LaDreir",
+                "ele": "1532",
+                "email": "telmuseum@hotmail.com",
+                "gnis:feature_id": "929512",
+                "museum": "technology",
+                "name": "Telephone Pioneer Museum",
+                "opening_hours": "Mo 08:00-12:00; We 08:00-12:00; Fr 08:00-12:00 || \"by appointment\"",
+                "phone": "+1-505-280-4893; +1-505-232-1952",
+                "tourism": "museum",
+                "website": "https://www.museumsusa.org/museums/info/6919"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/S._H._Kress_Building%2C_Albuquerque_NM.jpg/1280px-S._H._Kress_Building%2C_Albuquerque_NM.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 366378579,
+            "lat": 35.0824997,
+            "lon": -106.6201691,
+            "tags": {
+                "addr:city": "Albuquerque",
+                "addr:housenumber": "203",
+                "addr:postcode": "87106",
+                "addr:state": "NM",
+                "addr:street": "Cornell Drive Northeast",
+                "ele": "1577",
+                "fee": "no",
+                "gnis:feature_id": "929517",
+                "name": "University Art Museum",
+                "operator": "University of New Mexico",
+                "tourism": "museum",
+                "website": "https://artmuseum.unm.edu/",
+                "wikidata": "Q7895911",
+                "wikipedia": "en:University of New Mexico Art Museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Entrance%2C_University_of_New_Mexico_Art_Museum%2C_Albuquerque_NM.jpg/1280px-Entrance%2C_University_of_New_Mexico_Art_Museum%2C_Albuquerque_NM.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 366378642,
+            "lat": 35.0829787,
+            "lon": -106.6229439,
+            "tags": {
+                "addr:city": "Albuquerque",
+                "addr:housenumber": "221",
+                "addr:state": "NM",
+                "addr:street": "Yale Boulevard Northeast",
+                "description": "The Meteorite Museum is located in Northrop Hall on the Main Campus of the University of New Mexico. It houses many meteorites from the extensive collection of the Institute of Meteoritics. The highlight of the Museum is a one-ton piece of the stony meteo",
+                "gnis:feature_id": "929485",
+                "name": "Meteorite Museum",
+                "opening_hours:covid19": "closed",
+                "tourism": "museum",
+                "website": "http://meteorite.unm.edu/meteorites/meteorite-museum/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Unm_carlislegym.jpg/1280px-Unm_carlislegym.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 366378658,
+            "lat": 35.0830445,
+            "lon": -106.6229511,
+            "tags": {
+                "addr:city": "Albuquerque",
+                "addr:housenumber": "221",
+                "addr:state": "NM",
+                "addr:street": "Yale Boulevard Northeast",
+                "gnis:feature_id": "929490",
+                "museum": "nature",
+                "name": "Silver Family Geology Museum",
+                "tourism": "museum",
+                "website": "https://eps.unm.edu/research/museums/index.html"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Unm_carlislegym.jpg/1280px-Unm_carlislegym.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 366378668,
+            "lat": 35.0851392,
+            "lon": -106.625054,
+            "tags": {
+                "addr:city": "Albuquerque",
+                "addr:housenumber": "500",
+                "addr:state": "NM",
+                "addr:street": "University Boulevard Northeast",
+                "ele": "1577",
+                "gnis:feature_id": "929473",
+                "museum": "anthropology",
+                "name": "Maxwell Museum of Anthropology",
+                "name:es": "Museo de Antropología de Maxwell",
+                "operator": "UNM",
+                "operator:type": "university",
+                "ref": "11",
+                "tourism": "museum",
+                "website": "https://maxwellmuseum.unm.edu/",
+                "wikidata": "Q6796138",
+                "wikipedia": "en:Maxwell Museum of Anthropology"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Unm_scholeshall.jpg/1280px-Unm_scholeshall.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 366378720,
+            "lat": 35.0954252,
+            "lon": -106.6692423,
+            "tags": {
+                "addr:city": "Albuquerque",
+                "addr:country": "US",
+                "addr:state": "NM",
+                "ele": "1510",
+                "gnis:feature_id": "929208",
+                "name": "American International Rattlesnake Museum",
+                "tourism": "museum",
+                "website": "https://www.rattlesnakes.com/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Charles_A._Bottger_House%2C_Albuquerque_NM.jpg/1280px-Charles_A._Bottger_House%2C_Albuquerque_NM.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 2094286421,
+            "lat": 35.1031759,
+            "lon": -106.654624,
+            "tags": {
+                "addr:city": "Albuquerque",
+                "addr:country": "US",
+                "addr:housenumber": "1833",
+                "addr:postcode": "87102",
+                "addr:state": "NM",
+                "addr:street": "8th Street Northwest",
+                "museum": "railway",
+                "name": "New Mexico Steam Locomotive and Railroad Historical Society",
+                "operator": "NMSL&RHS",
+                "source": "http://www.nmslrhs.org/",
+                "tourism": "museum",
+                "website": "http://www.nmslrhs.org/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/ATSF_2926_%282024%29.jpg/1280px-ATSF_2926_%282024%29.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 4359637058,
+            "lat": 35.0831897,
+            "lon": -106.621847,
+            "tags": {
+                "addr:housenumber": "302",
+                "addr:street": "Yale Boulevard Northeast",
+                "gnis:feature_id": "929522",
+                "name": "Museum of Southwestern Biology",
+                "phone": "+1-505-277-0111",
+                "tourism": "museum",
+                "website": "https://msb.unm.edu/",
+                "wikidata": "Q22060898"
+            }
+        },
+        {
+            "type": "node",
+            "id": 5015566599,
+            "lat": 35.0848192,
+            "lon": -106.654737,
+            "tags": {
+                "addr:housenumber": "616",
+                "addr:street": "Central Avenue Northwest",
+                "fee": "yes",
+                "name": "New Mexico Holocaust Museum and Gellert Center for Education",
+                "opening_hours": "We-Su 12:00-15:00",
+                "tourism": "museum",
+                "website": "https://nmholocaustmuseum.org/",
+                "wikidata": "Q14706076"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/John_Pearce_House.jpg/1280px-John_Pearce_House.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 5015591662,
+            "lat": 35.0741812,
+            "lon": -106.6511377,
+            "tags": {
+                "fee": "no",
+                "name": "The Wheels Museum",
+                "name:es": "El Museo de las Ruedas",
+                "opening_hours": "Mo-Th 09:00-12:00; Sa 09:00-13:00",
+                "tourism": "museum",
+                "website": "https://wheelsmuseum.org/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Superintendent%27s_House%2C_Atlantic_%26_Pacific_Railroad_Side.jpg/1280px-Superintendent%27s_House%2C_Atlantic_%26_Pacific_Railroad_Side.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 8107941834,
+            "lat": 35.1992731,
+            "lon": -106.6570789,
+            "tags": {
+                "addr:city": "Albuquerque",
+                "addr:housenumber": "10000",
+                "addr:postcode": "87114",
+                "addr:state": "NM",
+                "addr:street": "Coors Boulevard Bypass Northwest",
+                "fixme": "seasonal?",
+                "name": "New Mexico Slaughter House",
+                "opening_hours": "Oct Fr-Su 19:00-22:00",
+                "phone": "+1-505-764-2868",
+                "tourism": "theme_park",
+                "website": "https://www.nmslaughterhouse.com/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Cottonwood_Mall_Albuquerque.jpg/1280px-Cottonwood_Mall_Albuquerque.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 8757729789,
+            "lat": 35.1871288,
+            "lon": -106.6925984,
+            "tags": {
+                "archaeological_site": "petroglyph",
+                "historic": "archaeological_site",
+                "name": "Petroglyphs",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 8757739464,
+            "lat": 35.189224,
+            "lon": -106.6907244,
+            "tags": {
+                "archaeological_site": "petroglyph",
+                "historic": "archaeological_site",
+                "name": "Petroglyphs",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 8757748900,
+            "lat": 35.1861778,
+            "lon": -106.6966161,
+            "tags": {
+                "archaeological_site": "petroglyph",
+                "historic": "archaeological_site",
+                "name": "Petroglyphs",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 8757749361,
+            "lat": 35.1862322,
+            "lon": -106.6974039,
+            "tags": {
+                "archaeological_site": "petroglyph",
+                "historic": "archaeological_site",
+                "name": "Petroglyphs",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 8757749362,
+            "lat": 35.1892972,
+            "lon": -106.6914339,
+            "tags": {
+                "archaeological_site": "petroglyph",
+                "historic": "archaeological_site",
+                "name": "Petroglyphs",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 8757750526,
+            "lat": 35.1856989,
+            "lon": -106.6930521,
+            "tags": {
+                "archaeological_site": "petroglyph",
+                "historic": "archaeological_site",
+                "name": "Petroglyphs",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 8757750527,
+            "lat": 35.1869244,
+            "lon": -106.6920709,
+            "tags": {
+                "archaeological_site": "petroglyph",
+                "historic": "archaeological_site",
+                "name": "Petroglyphs",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 8757755152,
+            "lat": 35.1861312,
+            "lon": -106.6971502,
+            "tags": {
+                "archaeological_site": "petroglyph",
+                "historic": "archaeological_site",
+                "name": "Petroglyphs",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 8757755525,
+            "lat": 35.1870212,
+            "lon": -106.6964838,
+            "tags": {
+                "archaeological_site": "petroglyph",
+                "historic": "archaeological_site",
+                "name": "Petroglyphs",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 8757755526,
+            "lat": 35.188447,
+            "lon": -106.6918376,
+            "tags": {
+                "archaeological_site": "petroglyph",
+                "historic": "archaeological_site",
+                "name": "Petroglyphs",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 8757757203,
+            "lat": 35.1888598,
+            "lon": -106.7015081,
+            "tags": {
+                "archaeological_site": "petroglyph",
+                "historic": "archaeological_site",
+                "name": "Petroglyphs",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 8757761548,
+            "lat": 35.1863777,
+            "lon": -106.6964168,
+            "tags": {
+                "archaeological_site": "petroglyph",
+                "historic": "archaeological_site",
+                "name": "Petroglyphs",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 8757761791,
+            "lat": 35.188244,
+            "lon": -106.6921293,
+            "tags": {
+                "archaeological_site": "petroglyph",
+                "historic": "archaeological_site",
+                "name": "Petroglyphs",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 8757761792,
+            "lat": 35.1884742,
+            "lon": -106.6897594,
+            "tags": {
+                "archaeological_site": "petroglyph",
+                "historic": "archaeological_site",
+                "name": "Petroglyphs",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 8757764679,
+            "lat": 35.1857937,
+            "lon": -106.6926816,
+            "tags": {
+                "archaeological_site": "petroglyph",
+                "historic": "archaeological_site",
+                "name": "Petroglyphs",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 8757766645,
+            "lat": 35.1885274,
+            "lon": -106.6917126,
+            "tags": {
+                "archaeological_site": "petroglyph",
+                "historic": "archaeological_site",
+                "name": "Petroglyphs",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 8757767047,
+            "lat": 35.1870867,
+            "lon": -106.6916762,
+            "tags": {
+                "archaeological_site": "petroglyph",
+                "historic": "archaeological_site",
+                "name": "Petroglyphs",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9023513017,
+            "lat": 35.0492667,
+            "lon": -106.616846,
+            "tags": {
+                "addr:city": "Albuquerque",
+                "addr:street": "Sunport Boulevard",
+                "historic": "aircraft",
+                "museum": "history",
+                "name": "Cavalcade of Wings",
+                "tourism": "museum",
+                "website": "http://www.albcow.com/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Old_Albuquerque_Municipal_Airport_Building%2C_Albuquerque_NM.jpg/1280px-Old_Albuquerque_Municipal_Airport_Building%2C_Albuquerque_NM.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 12387534789,
+            "lat": 35.0824682,
+            "lon": -106.6204727,
+            "tags": {
+                "addr:city": "Albuquerque",
+                "addr:housenumber": "203",
+                "addr:postcode": "87106",
+                "addr:state": "NM",
+                "addr:street": "Cornell Drive Northeast",
+                "level": "0",
+                "museum": "art",
+                "name": "UNM Art Museum",
+                "operator": "University of New Mexico",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Entrance%2C_University_of_New_Mexico_Art_Museum%2C_Albuquerque_NM.jpg/1280px-Entrance%2C_University_of_New_Mexico_Art_Museum%2C_Albuquerque_NM.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 12785243979,
+            "lat": 35.0797243,
+            "lon": -106.665144,
+            "tags": {
+                "name": "Asia",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/75/Albuquerque_Aquarium.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 167519285,
+            "lat": 35.0967903,
+            "lon": -106.6837538,
+            "tags": {
+                "addr:city": "Albuquerque",
+                "addr:housename": "Zoo",
+                "addr:housenumber": "2601",
+                "addr:postcode": "87102",
+                "addr:state": "NM",
+                "addr:street": "Central Avenue Northwest",
+                "name": "ABQ BioPark: Zoo, Aquarium, Botanic Garden",
+                "operator": "City of Albuquerque",
+                "source": "www.cabq.gov/biopark",
+                "tourism": "zoo",
+                "wheelchair": "limited",
+                "wikidata": "Q4712812",
+                "wikipedia": "en:Albuquerque Biological Park"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Rio_Grande_Botanical_Garden_Pond.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 168469046,
+            "lat": 35.0861609,
+            "lon": -106.6744303,
+            "tags": {
+                "name": "ABQ BioPark (Tingley Beach)",
+                "source": "www.cabq.gov/biopark",
+                "tourism": "zoo"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Tingley_Beach_Albuquerque_NM.jpg/1280px-Tingley_Beach_Albuquerque_NM.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 174831043,
+            "lat": 35.1897997,
+            "lon": -106.5980731,
+            "tags": {
+                "addr:city": "Albuquerque",
+                "addr:housenumber": "9201",
+                "addr:state": "NM",
+                "addr:street": "Balloon Museum Drive Northeast",
+                "building": "yes",
+                "museum": "balloon",
+                "name": "Anderson Abruzzo Balloon Museum",
+                "source": "www.cabq.gov",
+                "tourism": "museum",
+                "wikidata": "Q4754005",
+                "wikipedia": "en:Anderson-Abruzzo Albuquerque International Balloon Museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Diagram%2C_Double_Eagle_II.jpg/1280px-Diagram%2C_Double_Eagle_II.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 192855653,
+            "lat": 35.0978956,
+            "lon": -106.6658262,
+            "tags": {
+                "addr:city": "Albuquerque",
+                "addr:country": "US",
+                "addr:housenumber": "1801",
+                "addr:postcode": "87104",
+                "addr:state": "NM",
+                "addr:street": "Mountain Road Northwest",
+                "building": "museum",
+                "building:levels": "3",
+                "ele": "1511",
+                "gnis:feature_id": "929206",
+                "museum": "nature",
+                "name": "New Mexico Museum of Natural History & Science",
+                "tourism": "museum",
+                "website": "https://www.nmnaturalhistory.org/",
+                "wikidata": "Q3329691",
+                "wikipedia": "en:New Mexico Museum of Natural History and Science"
+            }
+        },
+        {
+            "type": "way",
+            "id": 201941902,
+            "lat": 35.1435035,
+            "lon": -106.5888814,
+            "tags": {
+                "name": "Cliff's Amusement Park",
+                "tourism": "theme_park",
+                "wikidata": "Q5132509",
+                "wikipedia": "en:Cliff's Amusement Park"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Cliff%27s_Amusement_Park_entrance_gate.jpg/1280px-Cliff%27s_Amusement_Park_entrance_gate.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 204004233,
+            "lat": 35.0957324,
+            "lon": -106.4994751,
+            "tags": {
+                "name": "Hinkle Family Fun Center",
+                "opening_hours": "We,Th 16:00-20:00; Fr 16:00-22:00; Sa 12:00-22:00; Su 00:00-20:00",
+                "phone": "+1 505 2993100",
+                "tourism": "theme_park",
+                "website": "https://www.hinklefamilyfuncenter.com/"
+            }
+        },
+        {
+            "type": "way",
+            "id": 208651155,
+            "lat": 35.0976208,
+            "lon": -106.6682469,
+            "tags": {
+                "addr:city": "Albuquerque",
+                "addr:country": "US",
+                "addr:housenumber": "2000",
+                "addr:postcode": "87104",
+                "addr:state": "NM",
+                "addr:street": "Mountain Road Northwest",
+                "building": "yes",
+                "ele": "1511",
+                "gnis:feature_id": "929472",
+                "name": "The Albuquerque Museum of Art & History",
+                "name:es": "El Museo de Arte y Historia de Albuquerque",
+                "tourism": "museum",
+                "website": "https://www.cabq.gov/artsculture/albuquerque-museum",
+                "wikidata": "Q4712823",
+                "wikipedia": "en:Albuquerque Museum of Art and History"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Albuquerque_Museum.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 215451694,
+            "lat": 35.0606376,
+            "lon": -106.5680246,
+            "tags": {
+                "addr:city": "Albuquerque",
+                "addr:state": "NM",
+                "addr:street": "Louisiana Boulevard Southeast",
+                "building": "yes",
+                "museum": "history",
+                "name": "Veterans Center",
+                "tourism": "museum"
+            }
+        },
+        {
+            "type": "way",
+            "id": 282337319,
+            "lat": 35.0793971,
+            "lon": -106.6414706,
+            "tags": {
+                "addr:city": "Albuquerque",
+                "addr:housenumber": "601",
+                "addr:postcode": "87102",
+                "addr:state": "NM",
+                "addr:street": "Coal Avenue Southeast",
+                "building": "yes",
+                "historic": "building",
+                "museum": "history",
+                "name": "H. B. & Lucille Horn Preservation Station",
+                "operator": "The Albuquerque Conservation Association",
+                "ref:nrhp": "06000633",
+                "tourism": "museum",
+                "website": "https://thealbuquerqueconservationassociation.wordpress.com/",
+                "wikidata": "Q55614070",
+                "wikipedia": "en:Huning Highlands Conoco Service Station",
+                "year_of_construction": "1937"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Huning_Highlands_Conoco_Service_Station%2C_Albuquerque_NM.jpg/1280px-Huning_Highlands_Conoco_Service_Station%2C_Albuquerque_NM.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 303778908,
+            "lat": 35.0974737,
+            "lon": -106.6642912,
+            "tags": {
+                "building": "yes",
+                "museum": "science",
+                "name": "Explora",
+                "tourism": "museum",
+                "website": "https://www.explora.us/",
+                "wikidata": "Q8076357",
+                "wikipedia": "en:Explora (Albuquerque, New Mexico)"
+            }
+        },
+        {
+            "type": "way",
+            "id": 307516230,
+            "lat": 35.1010916,
+            "lon": -106.627143,
+            "tags": {
+                "addr:housenumber": "1638",
+                "addr:state": "NM",
+                "addr:street": "University Boulevard Northeast",
+                "building": "yes",
+                "denomination": "mason",
+                "name": "The Grand Lodge Library & Museum",
+                "operator": "Masonic Charity Foundation",
+                "religion": "mason",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/I-40_approaching_the_Big_I.jpg/1280px-I-40_approaching_the_Big_I.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 383209834,
+            "lat": 35.1103471,
+            "lon": -106.6592102,
+            "tags": {
+                "addr:city": "Albuquerque",
+                "addr:housenumber": "2401",
+                "addr:postcode": "87104",
+                "addr:state": "NM",
+                "addr:street": "12th Street Northwest",
+                "name": "Indian Pueblo Cultural Center",
+                "phone": "+1 505-843-7270",
+                "tourism": "museum",
+                "website": "https://www.indianpueblo.org/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Indian_Pueblo_Cultural_Center_-_panoramio_%281%29.jpg/1280px-Indian_Pueblo_Cultural_Center_-_panoramio_%281%29.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 683013719,
+            "lat": 35.119724,
+            "lon": -106.5023349,
+            "tags": {
+                "area": "yes",
+                "name": "Daniels House",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "way",
+            "id": 696002342,
+            "lat": 35.1142173,
+            "lon": -106.597273,
+            "tags": {
+                "addr:city": "Albuquerque",
+                "addr:housenumber": "2831",
+                "addr:postcode": "87110",
+                "addr:state": "NM",
+                "addr:street": "Graceland Drive Northeast",
+                "area": "yes",
+                "information": "aerogelic_ballooning",
+                "name": "Albuquerque Hot Air Balloon Rides - Aerogelic Ballooning",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "way",
+            "id": 703244268,
+            "lat": 35.0809555,
+            "lon": -106.6494591,
+            "tags": {
+                "addr:city": "Albuquerque",
+                "addr:housenumber": "400",
+                "addr:state": "NM",
+                "addr:street": "2nd Street Southwest",
+                "building": "yes",
+                "building:levels": "2",
+                "description": "Castle",
+                "museum": "local",
+                "name": "Turquoise Museum",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Santa_Fe_Freight_House%2C_Albuquerque.jpg/1280px-Santa_Fe_Freight_House%2C_Albuquerque.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 879095903,
+            "lat": 35.1437371,
+            "lon": -106.5885522,
+            "tags": {
+                "attraction": "amusement_ride",
+                "building": "yes",
+                "name": "Sidewinder",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Uncle_Cliff%27s_Roller_Coaster.jpg/1280px-Uncle_Cliff%27s_Roller_Coaster.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 1310775639,
+            "lat": 35.0788102,
+            "lon": -106.6640153,
+            "tags": {
+                "addr:city": "Albuquerque",
+                "addr:housenumber": "903",
+                "addr:postcode": "87102",
+                "addr:state": "NM",
+                "addr:street": "10th Street Southwest",
+                "charge": "20 USD;",
+                "fee": "yes",
+                "name": "ABQ BioPark Zoo",
+                "opening_hours": "Mo-Su 09:00-17:00",
+                "tourism": "zoo",
+                "website": "https://www.cabq.gov/artsculture/biopark/zoo"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/99/Rio_Grande_Zoo_main_entrance.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 1385499160,
+            "lat": 35.0825188,
+            "lon": -106.6606991,
+            "tags": {
+                "addr:housenumber": "501",
+                "area": "yes",
+                "name": "Pinkman’s Residence",
+                "source:name": "https://breakingbad.fandom.com/wiki/Pinkman_Residence",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Southern_Union_Gas_Company_Building%2C_Albuquerque_NM.jpg/1280px-Southern_Union_Gas_Company_Building%2C_Albuquerque_NM.jpg",
+            "image_source": "wikipedia_verified"
+        }
+    ]
+}

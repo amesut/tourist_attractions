@@ -1,0 +1,468 @@
+{
+    "city_metadata": {
+        "city_name": "Tallahassee",
+        "state_code": "FL",
+        "state_full": "Florida",
+        "city_summary": "Tallahassee ( TAL-ə-HASS-ee) is the capital city of the U.S. state of Florida. It is the county seat of and the only incorporated municipality in Leon County. Tallahassee became the capital of Florida, then the Florida Territory, in 1824.",
+        "city_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Florida_Supreme_Court_2022.jpg/1280px-Florida_Supreme_Court_2022.jpg",
+        "city_lat": 30.44277778,
+        "city_lon": -84.21472222,
+        "source": "wikipedia_verified_engine"
+    },
+    "attractions": [
+        {
+            "type": "node",
+            "id": 12646694628,
+            "lat": 30.4438188,
+            "lon": -84.2898083,
+            "tags": {
+                "name": "FSU Museum of Fine Arts",
+                "opening_hours": "Tu, We, Fr 10:00-17:00; Th 10:00-20:00; Sa 10:00-16:00",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Montgomery_Hall_FSU.jpg/1280px-Montgomery_Hall_FSU.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 80735127,
+            "lat": 30.4381329,
+            "lon": -84.2813501,
+            "tags": {
+                "addr:city": "Tallahassee",
+                "addr:country": "US",
+                "addr:housenumber": "400",
+                "addr:postcode": "32399",
+                "addr:state": "FL",
+                "addr:street": "South Monroe Street",
+                "building": "yes",
+                "building:levels": "3",
+                "museum": "history",
+                "name": "Florida Historic Capitol Museum",
+                "opening_hours": "Mo-Fr 09:00-16:30; Sa 10:00-16:30; Su 12:00-16:30",
+                "operator": "Florida Legislature",
+                "operator:type": "government",
+                "start_date": "1845",
+                "tourism": "museum",
+                "wikidata": "Q1430074",
+                "wikipedia": "en:Florida State Capitol"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Old_and_New_Florida_State_Capitol%2C_Tallahassee%2C_East_view_20160711_1.jpg/1280px-Old_and_New_Florida_State_Capitol%2C_Tallahassee%2C_East_view_20160711_1.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 86971324,
+            "lat": 30.486437,
+            "lon": -84.1624932,
+            "tags": {
+                "addr:city": "Tallahassee",
+                "addr:housenumber": "6800",
+                "addr:postcode": "32308",
+                "addr:state": "FL",
+                "addr:street": "Mahan Drive",
+                "building": "commercial",
+                "museum": "transport",
+                "name": "Tallahassee Automobile Museum",
+                "operator": "Devoe Moore",
+                "tourism": "museum",
+                "website": "https://tacm.com/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Tallahassee_Automobile_Museum.JPG/1280px-Tallahassee_Automobile_Museum.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 148624780,
+            "lat": 30.4394725,
+            "lon": -84.2773908,
+            "tags": {
+                "addr:city": "Tallahassee",
+                "addr:housename": "Riley House",
+                "addr:housenumber": "419",
+                "addr:postcode": "32301",
+                "addr:state": "FL",
+                "addr:street": "East Jefferson Street",
+                "alt_name": "John Gilmore Riley House",
+                "building": "yes",
+                "heritage": "2",
+                "heritage:operator": "nrhp",
+                "heritage:ref": "78000950",
+                "heritage:since": "1978-08-07",
+                "historic": "heritage",
+                "name": "John G. Riley House",
+                "name:etymology": "John Gilmore Riley",
+                "official_name": "John G. Riley Center/Museum of African American History and Culture",
+                "ref:nrhp": "78000950",
+                "tourism": "museum",
+                "website": "https://www.rileymuseum.org/",
+                "wikidata": "Q6235397",
+                "wikipedia": "en:John Gilmore Riley House"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Tallahassee_FL_Riley_House04.jpg/1280px-Tallahassee_FL_Riley_House04.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 158309830,
+            "lat": 30.4581837,
+            "lon": -84.257885,
+            "tags": {
+                "addr:city": "Tallahassee",
+                "addr:country": "US",
+                "addr:housenumber": "1600",
+                "addr:postcode": "32308",
+                "addr:state": "FL",
+                "addr:street": "Miccosukee Road",
+                "museum": "history",
+                "name": "Goodwood Museum and Gardens",
+                "opening_hours": "Mo-Fr 09:00-17:00; Sa 10:00-14:00",
+                "phone": "+1-850-877-4202",
+                "tourism": "museum",
+                "website": "https://www.goodwoodmuseum.org/",
+                "wikidata": "Q5583717"
+            }
+        },
+        {
+            "type": "way",
+            "id": 175340429,
+            "lat": 30.4804823,
+            "lon": -84.2947496,
+            "tags": {
+                "addr:city": "Tallahassee",
+                "addr:country": "US",
+                "addr:housenumber": "2821",
+                "addr:postcode": "32312",
+                "addr:street": "Sharer Road",
+                "landuse": "commercial",
+                "name": "Fun Station",
+                "tourism": "theme_park",
+                "website": "https://www.itsfunner.com/"
+            }
+        },
+        {
+            "type": "way",
+            "id": 183757946,
+            "lat": 30.438122,
+            "lon": -84.2850303,
+            "tags": {
+                "addr:city": "Tallahassee",
+                "addr:country": "US",
+                "addr:housenumber": "500",
+                "addr:postcode": "32399",
+                "addr:state": "FL",
+                "addr:street": "South Bronough Street",
+                "alt_name": "Museum of Florida History",
+                "building": "yes",
+                "museum": "history",
+                "name": "R.A. Gray Florida History Museum",
+                "operator": "Florida Department of State",
+                "operator:type": "public",
+                "phone": "+1 850-245-6400",
+                "tourism": "museum",
+                "website": "https://www.museumoffloridahistory.com/",
+                "wikidata": "Q6940864",
+                "wikipedia": "en:Museum of Florida History"
+            }
+        },
+        {
+            "type": "way",
+            "id": 217530268,
+            "lat": 30.4378616,
+            "lon": -84.2797727,
+            "tags": {
+                "addr:city": "Tallahassee",
+                "addr:country": "US",
+                "addr:housenumber": "219",
+                "addr:postcode": "32301",
+                "addr:street": "Apalachee Parkway",
+                "building": "yes",
+                "name": "The Union Bank",
+                "tourism": "museum",
+                "wikidata": "Q7885385"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/ee/UnionBankTLH2008.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 224193958,
+            "lat": 30.4486902,
+            "lon": -84.3201986,
+            "tags": {
+                "building": "yes",
+                "building:levels": "2",
+                "museum": "history",
+                "name": "San Luis Mission Museum",
+                "roof:shape": "flat",
+                "source": "bing",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/15/Church_San_Luis.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 407668790,
+            "lat": 30.4102768,
+            "lon": -84.3449272,
+            "tags": {
+                "addr:city": "Tallahassee",
+                "addr:country": "US",
+                "addr:housenumber": "3945",
+                "addr:postcode": "32310",
+                "addr:state": "FL",
+                "addr:street": "Museum Road",
+                "alt_name": "Junior Museum",
+                "description": "Features a zoo, a farm, and historical buildings.",
+                "fax": "+1-850-574-8243",
+                "fee": "yes",
+                "leisure": "park",
+                "name": "Tallahassee Museum",
+                "opening_hours": "Mo-Sa 09:00-17:00; Su 11:00-17:00",
+                "phone": "+1-850-575-8684",
+                "tourism": "museum",
+                "website": "https://tallahasseemuseum.org/",
+                "wikidata": "Q7680035",
+                "wikipedia": "en:Tallahassee Museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Bellevue_Plantation_house_-_Tallahassee_Museum.jpg/1280px-Bellevue_Plantation_house_-_Tallahassee_Museum.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 497227644,
+            "lat": 30.4416209,
+            "lon": -84.2793815,
+            "tags": {
+                "addr:city": "Tallahassee",
+                "addr:country": "US",
+                "addr:housenumber": "301",
+                "addr:postcode": "32301",
+                "addr:state": "FL",
+                "addr:street": "East Park Avenue",
+                "building": "yes",
+                "name": "Knott House Museum",
+                "tourism": "museum",
+                "website": "https://www.museumoffloridahistory.com/about/sites/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/22/DavidSWalkerLbraryTLH.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 617265062,
+            "lat": 30.4509139,
+            "lon": -84.2820096,
+            "tags": {
+                "addr:city": "Tallahassee",
+                "addr:country": "US",
+                "addr:housenumber": "902",
+                "addr:postcode": "32303",
+                "addr:state": "FL",
+                "addr:street": "North Monroe Street",
+                "building": "museum",
+                "building:levels": "2",
+                "heritage": "yes",
+                "museum": "history",
+                "name": "The Grove Museum",
+                "opening_hours": "We-Fr 13:00-16:00; Sa 10:00-16:00",
+                "opening_hours:covid19": "closed",
+                "tourism": "museum",
+                "website": "https://thegrovemuseum.com/",
+                "wikidata": "Q7738390",
+                "wikipedia": "en:The Grove Plantation"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/FL_Tallahassee_The_Grove01.jpg/1280px-FL_Tallahassee_The_Grove01.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 632644482,
+            "lat": 30.4486333,
+            "lon": -84.3199165,
+            "tags": {
+                "addr:city": "Tallahassee",
+                "addr:housenumber": "2100",
+                "addr:postcode": "32304",
+                "addr:state": "FL",
+                "addr:street": "West Tennessee Street",
+                "building": "yes",
+                "museum": "history",
+                "name": "Mission San Luis",
+                "tourism": "museum",
+                "website": "https://www.missionsanluis.org/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/15/Church_San_Luis.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 109790,
+            "lat": 29.88916667,
+            "lon": -81.30416667,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Aerial_view_of_the_Castillo_de_San_Marcos%2C_St._Augustine%2C_FL_2025-05-20.jpg/1280px-Aerial_view_of_the_Castillo_de_San_Marcos%2C_St._Augustine%2C_FL_2025-05-20.jpg",
+            "description": "St.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "St. Augustine, Florida",
+                "wikipedia": "en:St. Augustine, Florida",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 73640,
+            "lat": 28.51,
+            "lon": -81.32,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Lake_Eola_Park_April_2022.jpg/1280px-Lake_Eola_Park_April_2022.jpg",
+            "description": "Orange County is a county located in the central part of the U.S. state of Florida.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Orange County, Florida",
+                "wikipedia": "en:Orange County, Florida",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 58062,
+            "lat": 29.21,
+            "lon": -82.06,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Marion_County_Judicial_Center.jpg/1280px-Marion_County_Judicial_Center.jpg",
+            "description": "Marion County is a county located in the North Central region of the U.S. state of Florida.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Marion County, Florida",
+                "wikipedia": "en:Marion County, Florida",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 44745,
+            "lat": 26.37777778,
+            "lon": -80.11388889,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/North_Boca_Raton_Florida_Aerial_photo_Don_Ramey_Logan.jpg/1280px-North_Boca_Raton_Florida_Aerial_photo_Don_Ramey_Logan.jpg",
+            "description": "Boca Raton ( BOH-kə rə-TOHN; Spanish: Boca Ratón [ˈboka raˈton]) is a city in Palm Beach County, Florida, United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Boca Raton, Florida",
+                "wikipedia": "en:Boca Raton, Florida",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 109171,
+            "lat": 29.86833333,
+            "lon": -84.66527778,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Carrabelle_city_limit_US98_WB.jpg/1280px-Carrabelle_city_limit_US98_WB.jpg",
+            "description": "Carrabelle is a city in Franklin County along Florida's Panhandle, United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Carrabelle, Florida",
+                "wikipedia": "en:Carrabelle, Florida",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 109028,
+            "lat": 26.14111111,
+            "lon": -80.14444444,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Skyline_of_Fort_Lauderdale%2C_Nov-15.jpg/1280px-Skyline_of_Fort_Lauderdale%2C_Nov-15.jpg",
+            "description": "Fort Lauderdale (, LAW-dər-dayl) is a coastal city located in the U.S. state of Florida, 30 miles (48 km) north of Miami along the Atlantic Ocean.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Fort Lauderdale, Florida",
+                "wikipedia": "en:Fort Lauderdale, Florida",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 109393,
+            "lat": 29.18777778,
+            "lon": -82.13055556,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/66/OcalaFLMontage.png",
+            "description": "Ocala ( oh-KAL-ə) is a city in and the county seat of Marion County, Florida, United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Ocala, Florida",
+                "wikipedia": "en:Ocala, Florida",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 92995,
+            "lat": 27.9475,
+            "lon": -82.45861111,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Downtown_Tampa%2C_Florida.jpg/1280px-Downtown_Tampa%2C_Florida.jpg",
+            "description": "Tampa (  TAM-pə) is a major city on the Gulf Coast of the U.S. state of Florida and the county seat of Hillsborough County.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Tampa, Florida",
+                "wikipedia": "en:Tampa, Florida",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 8912190,
+            "lat": 30.46027778,
+            "lon": -84.31194444,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Tallahassee_FL_Lichgate01.jpg/1280px-Tallahassee_FL_Lichgate01.jpg",
+            "description": "The Lichgate on High Road is a site in Tallahassee, Florida.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Lichgate on High Road",
+                "wikipedia": "en:Lichgate on High Road",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 109368,
+            "lat": 30.42555556,
+            "lon": -84.97722222,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Bristol_City_Hall%2C_fire_station.jpg/1280px-Bristol_City_Hall%2C_fire_station.jpg",
+            "description": "Bristol is a city in and the county seat of Liberty County, Florida, United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Bristol, Florida",
+                "wikipedia": "en:Bristol, Florida",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 109162,
+            "lat": 30.40738889,
+            "lon": -87.21863889,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/47/Collage_of_images_from_around_Pensacola.jpg",
+            "description": "Pensacola ( PEN-sə-KOH-lə) is a city in the Florida panhandle in the United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Pensacola, Florida",
+                "wikipedia": "en:Pensacola, Florida",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 109634,
+            "lat": 26.74694444,
+            "lon": -80.13111111,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Map_of_Florida_highlighting_West_Palm_Beach.svg/1280px-Map_of_Florida_highlighting_West_Palm_Beach.svg.png",
+            "description": "West Palm Beach is a city in and the county seat of Palm Beach County, Florida, United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "West Palm Beach, Florida",
+                "wikipedia": "en:West Palm Beach, Florida",
+                "tourism": "attraction"
+            }
+        }
+    ]
+}

@@ -1,0 +1,386 @@
+{
+    "city_metadata": {
+        "city_name": "Bellingham",
+        "state_code": "WA",
+        "state_full": "Washington",
+        "city_summary": "Bellingham ( BEL-ing-ham) is a city in and the county seat of Whatcom County in the U.S. state of Washington. It lies 21 miles (34 km) south of the Canada–United States border, between Vancouver, British Columbia, 52 miles (84 km) to the northwest and Seattle 90 miles (140 km) to the south.\nThe population was 91,482 at the 2020 census, and estimated to be 94,720 in 2023.",
+        "city_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Aerial_View_of_Bellingham%2C_Washington.jpg/1280px-Aerial_View_of_Bellingham%2C_Washington.jpg",
+        "city_lat": 48.75,
+        "city_lon": -122.48333333,
+        "source": "wikipedia_verified_engine"
+    },
+    "attractions": [
+        {
+            "type": "node",
+            "id": 1924410691,
+            "lat": 48.7514092,
+            "lon": -122.4804662,
+            "tags": {
+                "addr:city": "Bellingham",
+                "addr:housenumber": "1312",
+                "addr:postcode": "98225",
+                "addr:street": "Bay Street",
+                "contact:facebook": "sparkmuseum",
+                "contact:instagram": "sparkmuseum",
+                "email": "info@sparkmuseum.org",
+                "fee": "yes",
+                "name": "Spark Museum of Electrical Invention",
+                "opening_hours": "We-Su 11:00-17:00",
+                "phone": "+1-360-738-3886",
+                "tourism": "museum",
+                "website": "https://www.sparkmuseum.org/",
+                "wikidata": "Q7392462"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/SPARK_Museum.jpg/1280px-SPARK_Museum.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 4143715155,
+            "lat": 48.757233,
+            "lon": -122.4955447,
+            "tags": {
+                "name": "Marine Life Center",
+                "opening_hours": "Mo-Su 11:00-17:00",
+                "tourism": "museum",
+                "website": "https://portofbellingham.com/508/Marine-Life-Center---Bellingham"
+            }
+        },
+        {
+            "type": "node",
+            "id": 12005933305,
+            "lat": 48.7526481,
+            "lon": -122.4812982,
+            "tags": {
+                "addr:city": "Bellingham",
+                "addr:housenumber": "121",
+                "addr:postcode": "98225",
+                "addr:state": "WA",
+                "addr:street": "Prospect Street",
+                "contact:facebook": "https://www.facebook.com/WhatcomMuseum",
+                "museum": "art",
+                "name": "Old City Hall",
+                "opening_hours": "We-Su 12:00-17:00",
+                "phone": "+1-360-778-8930",
+                "tourism": "museum",
+                "website": "https://www.whatcommuseum.org/visit/buildings/old-city-hall/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Whatcom_Museum_of_History_and_Art.JPG/1280px-Whatcom_Museum_of_History_and_Art.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 12091003287,
+            "lat": 48.7217802,
+            "lon": -122.5126814,
+            "tags": {
+                "fee": "no",
+                "name": "Whatcom Maritime Heritage Museum",
+                "opening_hours": "Fr 12:00-15:00",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/MV_Columbia_at_Fairhaven.jpg/1280px-MV_Columbia_at_Fairhaven.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 136695932,
+            "lat": 48.7526453,
+            "lon": -122.4813733,
+            "tags": {
+                "addr:city": "Bellingham",
+                "addr:housenumber": "121",
+                "addr:postcode": "98225",
+                "addr:state": "WA",
+                "addr:street": "Prospect Street",
+                "building": "townhall",
+                "building:colour": "red",
+                "building:material": "brick",
+                "building:use": "museum",
+                "check_date:opening_hours": "2025-08-26",
+                "fee": "yes",
+                "height": "22",
+                "museum": "art",
+                "name": "Whatcom Museum at Old City Hall",
+                "opening_hours": "We-Su 12:00-17:00",
+                "operator": "Whatcom Museum of History and Art",
+                "operator:wikidata": "Q7991685",
+                "roof:colour": "red",
+                "roof:height": "2",
+                "roof:shape": "quadruple_saltbox",
+                "tourism": "museum",
+                "website": "https://www.whatcommuseum.org/visit/buildings/old-city-hall/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Whatcom_Museum_of_History_and_Art.JPG/1280px-Whatcom_Museum_of_History_and_Art.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 136697068,
+            "lat": 48.7528777,
+            "lon": -122.4815847,
+            "tags": {
+                "addr:city": "Bellingham",
+                "addr:housenumber": "201",
+                "addr:postcode": "98225",
+                "addr:state": "WA",
+                "addr:street": "Prospect Street",
+                "alt_name": "Syre Education Center",
+                "building": "fire_station",
+                "building:levels": "2",
+                "building:use": "museum",
+                "check_date:opening_hours": "2025-08-26",
+                "fee": "no",
+                "museum": "history",
+                "name": "Old Fire Station No. 1",
+                "opening_hours": "We-Fr 13:00-17:00",
+                "operator": "Whatcom Museum of History and Art",
+                "operator:wikidata": "Q7991685",
+                "roof:shape": "flat",
+                "tourism": "museum",
+                "website": "https://www.whatcommuseum.org/visit/buildings/syre-education-center/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Whatcom_Museum_of_History_and_Art.JPG/1280px-Whatcom_Museum_of_History_and_Art.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 178192836,
+            "lat": 55.1441878,
+            "lon": -2.2506044,
+            "tags": {
+                "addr:city": "Hexham",
+                "addr:country": "GB",
+                "addr:county": "Northumberland",
+                "addr:postcode": "NE48 2DG",
+                "addr:street": "Woodburn Road",
+                "addr:suburb": "Bellingham",
+                "addr:village": "Bellingham",
+                "building": "yes",
+                "name": "Bellingham Heritage Centre",
+                "opening_hours": "Mo-Sa 10:00-16:30; Su 11:00-16:00",
+                "phone": "+44 1434 220050",
+                "source": "survey;bing",
+                "tourism": "museum",
+                "website": "https://www.bellingham-heritage.org.uk/",
+                "wikidata": "Q113454662"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Train_at_Bellingham_North_Tyne_railway_station.jpg/1280px-Train_at_Bellingham_North_Tyne_railway_station.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 218179212,
+            "lat": 48.7532698,
+            "lon": -122.4792027,
+            "tags": {
+                "addr:city": "Bellingham",
+                "addr:housenumber": "250",
+                "addr:postcode": "98225",
+                "addr:state": "WA",
+                "addr:street": "Flora Street",
+                "building": "museum",
+                "fee": "yes",
+                "museum": "art",
+                "name": "Lightcatcher",
+                "opening_hours": "We-Sa 10:00-17:00; Su 12:00-17:00",
+                "operator": "Whatcom Museum of History and Art",
+                "operator:wikidata": "Q7991685",
+                "tourism": "museum",
+                "website": "https://www.whatcommuseum.org/visit/buildings/lightcatcher/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Whatcom_Museum_of_History_and_Art.JPG/1280px-Whatcom_Museum_of_History_and_Art.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 376627412,
+            "lat": 48.7561293,
+            "lon": -122.4856298,
+            "tags": {
+                "addr:city": "Bellingham",
+                "addr:housenumber": "910",
+                "addr:state": "WA",
+                "addr:street": "Bancroft Street",
+                "building": "yes",
+                "name": "George E. Pickett House",
+                "name:etymology:wikidata": "Q454069",
+                "source": "https://www.cob.org/services/planning/historic/buildings/Pages/george-pickett-house.aspx",
+                "start_date": "1856",
+                "tourism": "museum",
+                "website": "https://www.cob.org/services/planning/historic/buildings/Pages/george-pickett-house.aspx",
+                "wikidata": "Q7190860"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Pickett_Home_3.JPG/1280px-Pickett_Home_3.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 21471337,
+            "lat": 48.70472222,
+            "lon": -122.46305556,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Lake_Padden_from_west_pier.jpg/1280px-Lake_Padden_from_west_pier.jpg",
+            "description": "Lake Padden is a lake located in Bellingham, Washington, United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Lake Padden",
+                "wikipedia": "en:Lake Padden",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 36728,
+            "lat": 48.532066,
+            "lon": -123.029251,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/San_Juan_Islands_map.png",
+            "description": "The San Juan Islands are part of an archipelago in the Pacific Northwest of the United States between the U.S. state of Washington and Vancouver Island, British Columbia, Canada.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "San Juan Islands",
+                "wikipedia": "en:San Juan Islands",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 2284944,
+            "lat": 48.66666667,
+            "lon": -122.38333333,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Lake_Samish.jpg/1280px-Lake_Samish.jpg",
+            "description": "Lake Samish ( SAM-ish) is a lake south of Bellingham, Washington, United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Lake Samish",
+                "wikipedia": "en:Lake Samish",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 23682,
+            "lat": 47.6,
+            "lon": -122.4,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Puget_Sound_by_Sentinel-2%2C_2018-09-28_%28small_version%29.jpg/1280px-Puget_Sound_by_Sentinel-2%2C_2018-09-28_%28small_version%29.jpg",
+            "description": "Puget Sound ( PEW-jit; Lushootseed: x̌ʷəlč IPA: [ˈχʷəlt͡ʃ] WHULCH) is a complex estuarine system of interconnected marine waterways and basins located on the northwest coast of the U.S. state of Washington.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Puget Sound",
+                "wikipedia": "en:Puget Sound",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 138113,
+            "lat": 48.47166667,
+            "lon": -120.17916667,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Winthrop%2C_USA_%2819801491829%29.jpg/1280px-Winthrop%2C_USA_%2819801491829%29.jpg",
+            "description": "Winthrop is a town in Okanogan County, Washington, United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Winthrop, Washington",
+                "wikipedia": "en:Winthrop, Washington",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 138078,
+            "lat": 46.66388889,
+            "lon": -122.965,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Lewis_County_Historic_Courthouse.jpg",
+            "description": "Chehalis (  shə-HAY-liss) is a city in and the county seat of Lewis County, Washington, United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Chehalis, Washington",
+                "wikipedia": "en:Chehalis, Washington",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 138202,
+            "lat": 47.85416667,
+            "lon": -121.69333333,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Gold_Bar_Welcome_Sign.png/1280px-Gold_Bar_Welcome_Sign.png",
+            "description": "Gold Bar is a city in Snohomish County, Washington, United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Gold Bar, Washington",
+                "wikipedia": "en:Gold Bar, Washington",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 21131991,
+            "lat": 47.97916667,
+            "lon": -122.20166667,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Everett_Station_and_Everett_skyline%2C_April_2020.jpg/1280px-Everett_Station_and_Everett_skyline%2C_April_2020.jpg",
+            "description": "Everett ( EV-er-it; Lushootseed: dᶻəɬigʷəd [d͜zəˈɬi̞ɡʷəd]) is the county seat of and the most populous city in Snohomish County, Washington, United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Everett, Washington",
+                "wikipedia": "en:Everett, Washington",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 13015878,
+            "lat": 47,
+            "lon": -120,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Flag_of_Washington.svg/1280px-Flag_of_Washington.svg.png",
+            "description": "Washington is a state in the Pacific Northwest region of the United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Washington (state)",
+                "wikipedia": "en:Washington (state)",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 445363,
+            "lat": 37.79416667,
+            "lon": -122.40694444,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/San_Francisco_China_Town_MC.jpg/1280px-San_Francisco_China_Town_MC.jpg",
+            "description": "The Chinatown, centered on Grant Avenue and Stockton Street in San Francisco, California, is the oldest Chinatown in North America and is one of the largest Chinese enclaves outside Asia.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Chinatown, San Francisco",
+                "wikipedia": "en:Chinatown, San Francisco",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 100935,
+            "lat": 40.715,
+            "lon": -73.997,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/2024-05-20_13_32_04_View_west_along_East_Broadway_from_the_Manhattan_Bridge_in_Manhattan%2C_New_York_City%2C_New_York.jpg/1280px-2024-05-20_13_32_04_View_west_along_East_Broadway_from_the_Manhattan_Bridge_in_Manhattan%2C_New_York_City%2C_New_York.jpg",
+            "description": "Manhattan's Chinatown is a neighborhood of Lower Manhattan in New York City, bounded by the Lower East Side to its east, Little Italy to its north, Civic Center to its south, and Tribeca to its west.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Chinatown, Manhattan",
+                "wikipedia": "en:Chinatown, Manhattan",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 4262501,
+            "lat": 47.65694444,
+            "lon": -117.42666667,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Fox_Theater%2C_Sprague_Avenue_and_Monroe_Street%2C_Spokane%2C_WA_-_53793198674.jpg/1280px-Fox_Theater%2C_Sprague_Avenue_and_Monroe_Street%2C_Spokane%2C_WA_-_53793198674.jpg",
+            "description": "The Fox Theater in Spokane, Washington is a 1931 Art Deco movie theater that now serves as a performing arts venue and home of the Spokane Symphony.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Fox Theater (Spokane, Washington)",
+                "wikipedia": "en:Fox Theater (Spokane, Washington)",
+                "tourism": "attraction"
+            }
+        }
+    ]
+}

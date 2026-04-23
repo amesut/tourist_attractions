@@ -1,0 +1,335 @@
+{
+    "city_metadata": {
+        "city_name": "Norman",
+        "state_code": "OK",
+        "state_full": "Oklahoma",
+        "city_summary": "Norman () is the third-most populous city in the U.S. state of Oklahoma, with a population of 128,026 as of the 2020 census. It is the most populous city in and the county seat of Cleveland County and the second-most populous city in the Oklahoma City Metro Area after the state capital, Oklahoma City, 20 miles (32 kilometers) north of Norman.\nThe city was settled during the Land Run of 1889, which opened the former Unassigned Lands of Indian Territory to American pioneer settlement.",
+        "city_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Norman_July_2019_15_%28E_Main_Street%29.jpg/1280px-Norman_July_2019_15_%28E_Main_Street%29.jpg",
+        "city_lat": 35.22083333,
+        "city_lon": -97.44361111,
+        "source": "wikipedia_verified_engine"
+    },
+    "attractions": [
+        {
+            "type": "way",
+            "id": 160530765,
+            "lat": 35.2107178,
+            "lon": -97.447323,
+            "tags": {
+                "addr:city": "Norman",
+                "addr:housenumber": "555",
+                "addr:postcode": "73019",
+                "addr:street": "Elm Avenue",
+                "building": "university",
+                "name": "Fred Jones Jr Museum of Art",
+                "opening_hours": "Tu-We,Fr,Sa 10:00-17:00; Th 10:00-21:00; Su 13:00-17:00; Mo,PH off",
+                "operator": "University of Oklahoma",
+                "tourism": "museum",
+                "website": "https://www.ou.edu/content/fjjma.html",
+                "wikidata": "Q5495608"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/fe/HolmbergHall2.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 183891412,
+            "lat": 35.1944131,
+            "lon": -97.4490257,
+            "tags": {
+                "addr:city": "Norman",
+                "addr:housenumber": "2401",
+                "addr:postcode": "73072",
+                "addr:state": "OK",
+                "addr:street": "Chautauqua Avenue",
+                "building": "yes",
+                "museum": "nature",
+                "name": "Sam Noble Oklahoma Museum of Natural History",
+                "tourism": "museum",
+                "website": "http://www.snomnh.ou.edu/",
+                "wikidata": "Q3330870"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/College_of_Law_Front_OU_Sign.jpg/1280px-College_of_Law_Front_OU_Sign.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 369703232,
+            "lat": 35.2255043,
+            "lon": -97.4447179,
+            "tags": {
+                "addr:city": "Norman",
+                "addr:housenumber": "508",
+                "addr:postcode": "73069",
+                "addr:state": "OK",
+                "addr:street": "North Peters Avenue",
+                "building": "yes",
+                "museum": "history",
+                "name": "Moore-Lindsay Historical House",
+                "opening_hours": "We-Sa 11:00 - 16:00",
+                "operator": "Cleveland County Historical Society",
+                "phone": "+14053210156",
+                "tourism": "museum",
+                "website": "https://www.normanmuseum.org/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f8/The_Moore-Lindsay_House%2C_Norman%2C_OK.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 493146812,
+            "lat": 35.2943326,
+            "lon": -97.4898514,
+            "tags": {
+                "addr:city": "Norman",
+                "addr:country": "US",
+                "addr:housenumber": "3201",
+                "addr:postcode": "73072",
+                "addr:state": "OK",
+                "addr:street": "Market Place",
+                "name": "Heyday",
+                "phone": "+1-405-310-3500",
+                "tourism": "theme_park",
+                "website": "https://www.heydayfun.com/"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 19288257,
+            "lat": 26.81333333,
+            "lon": -105.82027778,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Vistas_a_Santa_Barbara%2C_Chihuahua.jpg",
+            "description": "Santa Bárbara is a city and seat of the municipality of Santa Bárbara, in the northern Mexican state of Chihuahua.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Santa Bárbara, Chihuahua",
+                "wikipedia": "en:Santa Bárbara, Chihuahua",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 1394347,
+            "lat": 35.48333333,
+            "lon": -80.93333333,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/LakeNorman.jpg/1280px-LakeNorman.jpg",
+            "description": "Lake Norman is an artificial fresh water lake in southwest North Carolina.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Lake Norman",
+                "wikipedia": "en:Lake Norman",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 150969,
+            "lat": 36.13138889,
+            "lon": -95.93722222,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Tulsa_skyline_aerial%2C_April_2023.jpg/1280px-Tulsa_skyline_aerial%2C_April_2023.jpg",
+            "description": "Tulsa (  TUL-sə) is the second-most-populous city in the U.S. state of Oklahoma and the 48th-most populous city in the United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Tulsa, Oklahoma",
+                "wikipedia": "en:Tulsa, Oklahoma",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 106582,
+            "lat": 31.73888889,
+            "lon": -110.0875,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Tombstone_Main_street_61.jpg/1280px-Tombstone_Main_street_61.jpg",
+            "description": "Tombstone is a city in Cochise County, Arizona, United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Tombstone, Arizona",
+                "wikipedia": "en:Tombstone, Arizona",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 22489,
+            "lat": 35,
+            "lon": -98,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Flag_of_Oklahoma.svg/1280px-Flag_of_Oklahoma.svg.png",
+            "description": "Oklahoma (  OH-klə-HOH-mə; Choctaw: Oklahumma, pronounced [oklahómma]) is a landlocked state in the South Central and Southwestern region of the United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Oklahoma",
+                "wikipedia": "en:Oklahoma",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 3149345,
+            "lat": -18.91666667,
+            "lon": 29.81666667,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Kwekwe.jpg",
+            "description": "Kwekwe ( KWEH-kweh), formerly known as Que Que, is a city in the Midlands province in central Zimbabwe.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Kwekwe",
+                "wikipedia": "en:Kwekwe",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 593779,
+            "lat": 51.5028,
+            "lon": -0.2038,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Embassy_of_Ukraine_in_London_1.jpg/1280px-Embassy_of_Ukraine_in_London_1.jpg",
+            "description": "Holland Park is an area of Kensington, on the western edge of Central London, that lies within the Royal Borough of Kensington and Chelsea and largely surrounds its namesake park, Holland Park.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Holland Park",
+                "wikipedia": "en:Holland Park",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 949411,
+            "lat": 36.10678,
+            "lon": -93.13221,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/05/Dogpatch_USA%27s_old_entrance_sign_%28November_2008%29.jpg",
+            "description": "Dogpatch USA was a theme park located in northwest Arkansas along State Highway 7 between the cities of Harrison and Jasper, an area known today as Marble Falls.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Dogpatch USA",
+                "wikipedia": "en:Dogpatch USA",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 5902692,
+            "lat": 34.18027778,
+            "lon": -94.68916667,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Broken-bow-spillway.jpg/1280px-Broken-bow-spillway.jpg",
+            "description": "Broken Bow Lake is a reservoir in southeastern Oklahoma, located on Mountain Fork River and 9 miles (14 km) northeast of the town of Broken Bow in McCurtain County.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Broken Bow Lake",
+                "wikipedia": "en:Broken Bow Lake",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 1660962,
+            "lat": 35.49222222,
+            "lon": -97.50305556,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/North_fa%C3%A7ade_of_the_Oklahoma_State_Capitol.jpg/1280px-North_fa%C3%A7ade_of_the_Oklahoma_State_Capitol.jpg",
+            "description": "The Oklahoma State Capitol is the house of government of the U.S. state of Oklahoma.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Oklahoma State Capitol",
+                "wikipedia": "en:Oklahoma State Capitol",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 57447,
+            "lat": 35.22722222,
+            "lon": -80.84305556,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Uptown_Charlotte_2018_taking_by_DJI_Phantom_4_pro.jpg/1280px-Uptown_Charlotte_2018_taking_by_DJI_Phantom_4_pro.jpg",
+            "description": "Charlotte is the most populous city in the U.S. state of North Carolina.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Charlotte, North Carolina",
+                "wikipedia": "en:Charlotte, North Carolina",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 18618136,
+            "lat": 20.68305556,
+            "lon": -88.56861111,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Chichen_Itza_3.jpg/1280px-Chichen_Itza_3.jpg",
+            "description": "Chichen Itza  was a large pre-Columbian city built by the Maya people of the Terminal Classic period.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Chichen Itza",
+                "wikipedia": "en:Chichen Itza",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 150950,
+            "lat": 34.41805556,
+            "lon": -96.49472222,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/de/OKMap-doton-Bromide.PNG",
+            "description": "Bromide is a town in Coal and Johnston counties in the U.S. state of Oklahoma.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Bromide, Oklahoma",
+                "wikipedia": "en:Bromide, Oklahoma",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 264310,
+            "lat": 43.46167,
+            "lon": -113.56271,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/CratersDrone1.jpg/1280px-CratersDrone1.jpg",
+            "description": "Craters of the Moon National Monument and Preserve is a U.S. national monument and national preserve in the Snake River Plain in central Idaho.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Craters of the Moon National Monument and Preserve",
+                "wikipedia": "en:Craters of the Moon National Monument and Preserve",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 53708041,
+            "lat": 38.58111111,
+            "lon": -90.66048611,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Big_Chief_Restaurant.jpg/1280px-Big_Chief_Restaurant.jpg",
+            "description": "Big Chief Restaurant, located at 17352 Manchester Road in Wildwood, Missouri, currently operates under the name Big Chief Roadhouse.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Big Chief Restaurant",
+                "wikipedia": "en:Big Chief Restaurant",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 130056,
+            "lat": 33.99972222,
+            "lon": -96.38472222,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Durant_June_2018_14_%28W_Main_Street%29.jpg/1280px-Durant_June_2018_14_%28W_Main_Street%29.jpg",
+            "description": "Durant () is a city in and the county seat of Bryan County, Oklahoma, United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Durant, Oklahoma",
+                "wikipedia": "en:Durant, Oklahoma",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 72008,
+            "lat": 28.3,
+            "lon": -80.7,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Titusville%2C_FL%2C_Courthouse%2C_Brevard_County%2C_08-07-2010_%285%29.JPG/1280px-Titusville%2C_FL%2C_Courthouse%2C_Brevard_County%2C_08-07-2010_%285%29.JPG",
+            "description": "Brevard County ( brə-VARD) is a county in the U.S. state of Florida.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Brevard County, Florida",
+                "wikipedia": "en:Brevard County, Florida",
+                "tourism": "attraction"
+            }
+        }
+    ]
+}

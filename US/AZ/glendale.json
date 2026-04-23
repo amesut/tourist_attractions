@@ -1,0 +1,368 @@
+{
+    "city_metadata": {
+        "city_name": "Glendale",
+        "state_code": "AZ",
+        "state_full": "Arizona",
+        "city_summary": "Glendale () is a city in Maricopa County, Arizona, United States. Bordering the state capital, as a suburb of Phoenix, Glendale is known for State Farm Stadium, which is the home of the Arizona Cardinals football team. The city also contains the Arrowhead Towne Center shopping mall.",
+        "city_image": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Glendale-Downtown_Glendale.jpg",
+        "city_lat": 33.53861111,
+        "city_lon": -112.18638889,
+        "source": "wikipedia_verified_engine"
+    },
+    "attractions": [
+        {
+            "type": "node",
+            "id": 368174459,
+            "lat": 34.1284656,
+            "lon": -118.246095,
+            "tags": {
+                "addr:state": "CA",
+                "ele": "217",
+                "gnis:feature_id": "2084431",
+                "name": "Forest Lawn Museum",
+                "source": "USGS Geonames",
+                "tourism": "museum",
+                "website": "https://forestlawn.com/museum/"
+            }
+        },
+        {
+            "type": "node",
+            "id": 2306313762,
+            "lat": 33.5375125,
+            "lon": -112.1821498,
+            "tags": {
+                "addr:city": "Glendale",
+                "addr:housenumber": "6835",
+                "addr:postcode": "85301",
+                "addr:state": "AZ",
+                "addr:street": "North 57th Drive",
+                "name": "Glendale Police Museum",
+                "operator": "City Of Glendale",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/G-Glendale_Womens_Club_1912.jpg/1280px-G-Glendale_Womens_Club_1912.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 4642827309,
+            "lat": 52.2908126,
+            "lon": -113.8330533,
+            "tags": {
+                "name": "Heritage Lanes",
+                "name:en": "Heritage Lanes",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 6576143235,
+            "lat": 34.1789731,
+            "lon": -118.2562991,
+            "tags": {
+                "name": "Letter \"H\"",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11762253523,
+            "lat": 33.5401389,
+            "lon": -112.1834831,
+            "tags": {
+                "addr:city": "Glendale",
+                "addr:housenumber": "5754",
+                "addr:postcode": "85301",
+                "addr:state": "AZ",
+                "addr:street": "West Glenn Drive",
+                "name": "The Bead Museum",
+                "start_date": "1984",
+                "tourism": "museum",
+                "website": "https://smecc.org/bead_museum.htm",
+                "wikidata": "Q7715996"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/G-First_Methodist_Church_1926.jpg/1280px-G-First_Methodist_Church_1926.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 52096455,
+            "lat": 39.2711311,
+            "lon": -84.4591786,
+            "tags": {
+                "building": "yes",
+                "museum": "history",
+                "name": "Glendale Heritage Preservation Museum",
+                "tourism": "museum",
+                "website": "http://www.glendalemuseum.com/museum.html"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Glendale_OH_shops.jpg/1280px-Glendale_OH_shops.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 83416515,
+            "lat": 34.1629864,
+            "lon": -118.2866876,
+            "tags": {
+                "building": "yes",
+                "ele": "162.2",
+                "lacounty:ain": "5627023021",
+                "lacounty:bld_id": "GLEN57195",
+                "name": "Grand Central Airport Terminal",
+                "start_date": "1929",
+                "tourism": "museum",
+                "wikipedia": "en:Grand Central Airport (United States)"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Grand_Central_Air_Terminal_Renovation_Northeast_Corner_30_October_2015.jpg/1280px-Grand_Central_Air_Terminal_Renovation_Northeast_Corner_30_October_2015.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 385588885,
+            "lat": 43.0995275,
+            "lon": -87.9194933,
+            "tags": {
+                "addr:city": "Glendale",
+                "addr:country": "US",
+                "addr:housenumber": "701",
+                "addr:postcode": "53209",
+                "addr:state": "WI",
+                "addr:street": "West Glendale Avenue",
+                "contact:phone": "+1-414-964-2739",
+                "contact:website": "http://www.sprecherbrewery.com",
+                "industrial": "brewery",
+                "landuse": "industrial",
+                "microbrewery": "yes",
+                "name": "Sprecher Brewery",
+                "note": "Tour requires reservation",
+                "start_date": "1985",
+                "tourism": "attraction",
+                "wikidata": "Q7580292",
+                "wikipedia": "en:Sprecher Brewery"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Sprecher-logo.png/1280px-Sprecher-logo.png",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 434851748,
+            "lat": 33.5420611,
+            "lon": -112.185842,
+            "tags": {
+                "addr:city": "Glendale",
+                "addr:housenumber": "547",
+                "addr:postcode": "85301",
+                "addr:state": "AZ",
+                "addr:street": "West Myrtle Avenue",
+                "building": "yes",
+                "name": "Arizona Doll & Toy Museum",
+                "opening_hours": "Tu-Sa 10:00-16:00",
+                "phone": "+1 623 939 6186",
+                "tourism": "museum",
+                "website": "https://facebook.com/Arizona-Doll-and-Toy-Museum-118740141469449/",
+                "wikidata": "Q110639971",
+                "wikipedia": "en:Arizona Doll & Toy Museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Phoenix-Stevens_House-1901-Phoenix_Heritage_Square.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 471957376,
+            "lat": 34.1437557,
+            "lon": -118.2545819,
+            "tags": {
+                "alt_name": "Museum of Neon Art (MONA)",
+                "building": "apartments",
+                "building:units": "1",
+                "ele": "168.7",
+                "height": "10.2",
+                "lacounty:ain": "8430027064",
+                "lacounty:bld_id": "2014092968180000",
+                "name": "Museum of Neon Art",
+                "start_date": "2012",
+                "tourism": "museum",
+                "wheelchair": "yes",
+                "wikidata": "Q3328437",
+                "wikipedia": "en:Museum of Neon Art"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/01/Museum_of_Neon_Art_%28MONA%29_logo.png",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 1311816322,
+            "lat": 33.5187759,
+            "lon": -112.2665944,
+            "tags": {
+                "addr:city": "Glendale",
+                "addr:housenumber": "9601",
+                "addr:postcode": "85305",
+                "addr:state": "AZ",
+                "addr:street": "West Cardinals Way",
+                "landuse": "construction",
+                "name": "Mattel Adventure Park",
+                "operator": "Epic Resort Destinations",
+                "tourism": "theme_park",
+                "website": "https://www.matteladventurepark.com/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Mattel_adventure_park_logo.png",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 49121,
+            "lat": 33.44833333,
+            "lon": -112.07388889,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Downtown_Phoenix_Aerial_Looking_Northeast.jpg/1280px-Downtown_Phoenix_Aerial_Looking_Northeast.jpg",
+            "description": "Phoenix (  FEE-niks) is the capital and most populous city of the U.S. state of Arizona.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Phoenix, Arizona",
+                "wikipedia": "en:Phoenix, Arizona",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 57554,
+            "lat": 35.18055556,
+            "lon": -111.62,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Flagstaff_AZ_-_downtown_hotel.jpg",
+            "description": "Flagstaff ( FLAG-staf) is a city in and the county seat of Coconino County, Arizona, United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Flagstaff, Arizona",
+                "wikipedia": "en:Flagstaff, Arizona",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 21883824,
+            "lat": 35,
+            "lon": -112,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Flag_of_Arizona.svg/1280px-Flag_of_Arizona.svg.png",
+            "description": "Arizona is a landlocked state in the Southwestern United States, sharing the Four Corners region with Colorado, New Mexico, and Utah.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Arizona",
+                "wikipedia": "en:Arizona",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 23425513,
+            "lat": 32.26,
+            "lon": -110.87388889,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Tucson-Fort_Lowell_Hospital-1878.JPG/1280px-Tucson-Fort_Lowell_Hospital-1878.JPG",
+            "description": "Fort Lowell was a United States Army post active from 1873 to 1891 on the outskirts of Tucson, Arizona.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Fort Lowell (Tucson, Arizona)",
+                "wikipedia": "en:Fort Lowell (Tucson, Arizona)",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 73939380,
+            "lat": 33.5812879,
+            "lon": -112.2389755,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Theater_Works_Peoria%2C_Arizona.jpg/1280px-Theater_Works_Peoria%2C_Arizona.jpg",
+            "description": "TheaterWorks is a non-profit community theater company that operates out of the Peoria Center for the Performing Arts in Peoria, Arizona.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Theater Works (Peoria, Arizona)",
+                "wikipedia": "en:Theater Works (Peoria, Arizona)",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 1327577,
+            "lat": 33.43222222,
+            "lon": -111.93194444,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/HOPE_in_Tempe.jpg/1280px-HOPE_in_Tempe.jpg",
+            "description": "Tempe Town Lake is an artificial perennial reservoir located just north of Tempe Butte at the confluence of the intermittent Salt River and the ephemeral Indian Bend Wash in Tempe, Arizona, United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Tempe Town Lake",
+                "wikipedia": "en:Tempe Town Lake",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 8464412,
+            "lat": 40.1781,
+            "lon": 44.5056,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Yerevan_Blue_mosque_2023_aerial.jpg/1280px-Yerevan_Blue_mosque_2023_aerial.jpg",
+            "description": "The Blue Mosque (Armenian: Կապույտ մզկիթ, romanized: Kapuyt mzkit’; Persian: مسجد کبود, romanized: Masjed-e Kabūd) is an 18th-century Iranian Twelver Shia mosque, located in Yerevan, Armenia.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Blue Mosque, Yerevan",
+                "wikipedia": "en:Blue Mosque, Yerevan",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 3713516,
+            "lat": 33.4625,
+            "lon": -112.07333333,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Burton_Barr_Central_Library-6.jpg/1280px-Burton_Barr_Central_Library-6.jpg",
+            "description": "The Burton Barr Central Library is the central library of Phoenix, Arizona.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Burton Barr Central Library",
+                "wikipedia": "en:Burton Barr Central Library",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 81605,
+            "lat": 34,
+            "lon": -118.2,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Good_morning_LA_%28cropped%29.jpg/1280px-Good_morning_LA_%28cropped%29.jpg",
+            "description": "Greater Los Angeles is the most populous metropolitan area in the U.S. state of California, encompassing five counties in Southern California extending from Ventura County in the west to San Bernardino County and Riverside County in the east, with the city of Los Angeles and Los Angeles County at its center, and Orange County to the southeast.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Greater Los Angeles",
+                "wikipedia": "en:Greater Los Angeles",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 2028233,
+            "lat": 38.9972,
+            "lon": -105.5478,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Seal_of_the_Executive_Office_of_Colorado.svg/1280px-Seal_of_the_Executive_Office_of_Colorado.svg.png",
+            "description": "The lieutenant governor of Colorado is the second-highest-ranking member of the executive department of the Government of Colorado, United States, below the governor of Colorado.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "List of lieutenant governors of Colorado",
+                "wikipedia": "en:List of lieutenant governors of Colorado",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 173602,
+            "lat": 42.64666667,
+            "lon": -71.31027778,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Boott_mill_rooftop_view.jpg",
+            "description": "Lowell National Historical Park is a National Historical Park of the United States located in Lowell, Massachusetts.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Lowell National Historical Park",
+                "wikipedia": "en:Lowell National Historical Park",
+                "tourism": "attraction"
+            }
+        }
+    ]
+}

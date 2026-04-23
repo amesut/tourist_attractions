@@ -1,0 +1,4808 @@
+{
+    "city_metadata": {
+        "city_name": "Los Angeles",
+        "state_code": "CA",
+        "state_full": "California",
+        "city_summary": "Los Angeles (often referred to by its initials, LA) is the most populous city in the U.S. state of California, and the commercial, financial, and cultural center of Southern California. With an estimated 3.88 million residents within the city limits as of 2024, it is the second-most populous city in the United States, behind New York City, and the largest city in the Western United States. The city has an ethnically and culturally diverse population, and is the principal city of a metropolitan area of 12.9 million people (2024).",
+        "city_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Hollywood_Sign_%28Zuschnitt%29.jpg/1280px-Hollywood_Sign_%28Zuschnitt%29.jpg",
+        "city_lat": 34.05,
+        "city_lon": -118.25,
+        "source": "wikipedia_verified_engine"
+    },
+    "attractions": [
+        {
+            "type": "node",
+            "id": 150968103,
+            "lat": 34.0617936,
+            "lon": -118.305447,
+            "tags": {
+                "alt_name": "Ktown",
+                "ele": "61",
+                "gnis:feature_id": "1732794",
+                "name": "Koreatown",
+                "name:en": "Koreatown",
+                "name:ko": "코리아타운",
+                "place": "suburb",
+                "population": "124281",
+                "tourism": "attraction",
+                "wikidata": "Q872664",
+                "wikipedia": "en:Koreatown, Los Angeles"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Koreatown_Sign.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 358828800,
+            "lat": 33.9841779,
+            "lon": -118.466189,
+            "tags": {
+                "addr:city": "Venice",
+                "addr:postcode": "90292",
+                "addr:state": "CA",
+                "ele": "1",
+                "gnis:feature_id": "1763330",
+                "heritage": "2",
+                "heritage:operator": "nrhp",
+                "historic": "district",
+                "name": "Venice Canal Historic District",
+                "name:en": "Venice Canal Historic District",
+                "name:zh": "运河城",
+                "place": "neighbourhood",
+                "ref:nrhp": "82002193",
+                "tourism": "attraction",
+                "wikidata": "Q7919977",
+                "wikipedia": "en:Venice Canal Historic District"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Highsmithvenicecanals.jpg/1280px-Highsmithvenicecanals.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 368174050,
+            "lat": 34.1483813,
+            "lon": -118.2817076,
+            "tags": {
+                "addr:city": "Los Angeles",
+                "addr:housenumber": "4700",
+                "addr:postcode": "90027",
+                "addr:state": "CA",
+                "addr:street": "Western Heritage Way",
+                "ele": "136",
+                "gnis:feature_id": "1732301",
+                "name": "Autry Museum of the American West",
+                "opening_hours": "Tu-Fr 10:00-16:00, Sa-Su 10:00-17:00",
+                "operator": "Autry Museum of the American West",
+                "operator:type": "non_profit",
+                "source": "USGS Geonames",
+                "tourism": "museum",
+                "website": "https://theautry.org/",
+                "wikidata": "Q4827110"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/01/Autry_Museum_of_the_American_West_Logo.png",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 368174083,
+            "lat": 34.0641767,
+            "lon": -118.3697998,
+            "tags": {
+                "addr:state": "CA",
+                "ele": "44",
+                "gnis:feature_id": "1763293",
+                "name": "Martyrs Memorial and Museum of the Holocaust",
+                "source": "USGS Geonames",
+                "tourism": "museum"
+            }
+        },
+        {
+            "type": "node",
+            "id": 368174627,
+            "lat": 34.1019444,
+            "lon": -118.3425,
+            "tags": {
+                "addr:city": "Hollywood",
+                "addr:housenumber": "7021",
+                "addr:state": "CA",
+                "addr:street": "Hollywood Boulevard",
+                "ele": "121",
+                "gnis:feature_id": "2353796",
+                "name": "Hollywood Entertainment Museum",
+                "source": "USGS Geonames",
+                "tourism": "museum",
+                "website": "https://www.seeing-stars.com/Museums/HollywoodEntertainment.shtml"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Peterson_bldg.jpg/1280px-Peterson_bldg.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 368174641,
+            "lat": 34.1004643,
+            "lon": -118.205806,
+            "tags": {
+                "addr:state": "CA",
+                "alt_name": "Historic Southwest Museum Mt. Washington Campus",
+                "ele": "170",
+                "gnis:feature_id": "249775",
+                "name": "Southwest Museum of the American Indian",
+                "source": "USGS Geonames",
+                "tourism": "museum",
+                "wikidata": "Q5414729",
+                "wikipedia": "en:Southwest Museum of the American Indian"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b7/SouthwestMuseum_LosAngeles.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 369164732,
+            "lat": 34.0632232,
+            "lon": -118.3563873,
+            "tags": {
+                "ele": "56",
+                "landuse": "quarry",
+                "name": "La Brea Tar Pits",
+                "resource": "tar",
+                "tourism": "attraction",
+                "wheelchair": "yes",
+                "wikidata": "Q1147168"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/La_Brea_Tar_Pits_logo.svg/1280px-La_Brea_Tar_Pits_logo.svg.png",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 369171015,
+            "lat": 33.9350121,
+            "lon": -118.4667444,
+            "tags": {
+                "addr:state": "CA",
+                "ele": "13",
+                "gnis:feature_id": "1655006",
+                "name": "Santa Monica Bay",
+                "natural": "bay",
+                "source_ref": "geonames.usgs.gov",
+                "tourism": "attraction",
+                "wikidata": "Q999063"
+            }
+        },
+        {
+            "type": "node",
+            "id": 470897671,
+            "lat": 34.0446975,
+            "lon": -118.2646054,
+            "tags": {
+                "addr:housenumber": "800",
+                "addr:postcode": "90015",
+                "addr:state": "CA",
+                "addr:street": "West Olympic Boulevard",
+                "check_date": "2025-10-23",
+                "fee": "yes",
+                "name": "Grammy Museum",
+                "opening_hours": "Mo-Su 11:00-17:00; Tu off; Sa 10:00-18:00",
+                "tourism": "museum",
+                "website": "https://grammymuseum.org/",
+                "wheelchair": "yes",
+                "wikidata": "Q7737452"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Grammy_Museum.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 543989911,
+            "lat": 34.0469745,
+            "lon": -118.2499101,
+            "tags": {
+                "name": "The Latino Museum",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Security_Building_%28Los_Angeles%29.jpg/1280px-Security_Building_%28Los_Angeles%29.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 543990301,
+            "lat": 34.0439582,
+            "lon": -118.260267,
+            "tags": {
+                "name": "FIDM Museum And Galleries",
+                "tourism": "museum",
+                "website": "https://fidmmuseum.org/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Fidm_logo.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 664153974,
+            "lat": 34.1013143,
+            "lon": -118.3344322,
+            "tags": {
+                "email": "info@larryedmunds.com",
+                "name": "Larry Edmunds Bookshop",
+                "opening_hours": "Mo 10:00-17:30; Tu-Sa 10:00-19:00; Su 12:00-19:00",
+                "phone": "+1 323-463-3273",
+                "shop": "books",
+                "tourism": "attraction",
+                "website": "https://www.larryedmunds.com/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Cherokee_bldg.jpg/1280px-Cherokee_bldg.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 664153975,
+            "lat": 34.101358,
+            "lon": -118.3362662,
+            "tags": {
+                "name": "Red's Bookshop",
+                "shop": "books",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Miceli%27s_in_Hollywood.jpg/1280px-Miceli%27s_in_Hollywood.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 828845752,
+            "lat": 34.064016,
+            "lon": -118.357634,
+            "tags": {
+                "description": "Tar pit archeological dig site",
+                "geological": "palaeontological_site",
+                "historic": "archaeological_site",
+                "name": "Pit 91",
+                "tourism": "attraction",
+                "website": "http://excavatrix.bloodspot.com"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/LACMA_01.jpg/1280px-LACMA_01.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 855492184,
+            "lat": 34.0558844,
+            "lon": -118.3215803,
+            "tags": {
+                "name": "906 South Crenshaw",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 855626196,
+            "lat": 34.065892,
+            "lon": -118.2072419,
+            "tags": {
+                "name": "North Main and Mission",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Equestrian_statue_of_Emiliano_Zapata_%28Los_Angeles%29.jpg/1280px-Equestrian_statue_of_Emiliano_Zapata_%28Los_Angeles%29.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 2406454289,
+            "lat": 34.0557136,
+            "lon": -118.2392117,
+            "tags": {
+                "addr:city": "Los Angeles",
+                "addr:housenumber": "425",
+                "addr:postcode": "90012",
+                "addr:state": "CA",
+                "addr:street": "North Los Angeles Street",
+                "name": "Chinese American Museum",
+                "opening_hours": "Fr-Su 10:00-15:00",
+                "tourism": "museum",
+                "website": "https://camla.org",
+                "wikidata": "Q5100379"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Chinese_American_Museum.jpg/1280px-Chinese_American_Museum.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 2413676928,
+            "lat": 34.0642094,
+            "lon": -118.357684,
+            "tags": {
+                "geological": "palaeontological_site",
+                "historic": "archaeological_site",
+                "name": "Project 23",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/LACMA_01.jpg/1280px-LACMA_01.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 2422131290,
+            "lat": 34.0687442,
+            "lon": -118.442621,
+            "tags": {
+                "addr:housename": "Boelter Hall",
+                "addr:unit": "3420",
+                "check_date": "2025-11-29",
+                "fee": "no",
+                "level": "3",
+                "museum": "history",
+                "name": "Birthplace of the Internet",
+                "operator": "University of California, Los Angeles",
+                "operator:type": "university",
+                "tourism": "museum",
+                "website": "https://uclaconnectionlab.org/internet-museum/",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 2715023297,
+            "lat": 34.0981489,
+            "lon": -118.3518699,
+            "tags": {
+                "name": "Hollywood's Rock Walk",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/49/Thee_Experience.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 3204926589,
+            "lat": 34.1340991,
+            "lon": -118.321652,
+            "tags": {
+                "addr:city": "Los Angeles",
+                "addr:postcode": "90068",
+                "addr:state": "CA",
+                "addr:street": "Mount Lee Drive",
+                "alt_name": "Hollywoodland Sign",
+                "is_in:city": "Los Angeles",
+                "is_in:state_code": "CA",
+                "is_in:zip": "90068",
+                "name": "Hollywood Sign",
+                "name:en": "Hollywood Sign",
+                "name:hi": "हॉलीवुड साइन",
+                "name:ko": "할리우드 사인",
+                "name:zh": "好莱坞标志",
+                "old_name": "Hollywoodland Sign",
+                "operator": "The Trust for Public Land",
+                "start_date": "1923",
+                "tourism": "attraction",
+                "wheelchair": "no",
+                "wikidata": "Q180376",
+                "wikimedia_commons": "Category:Hollywood Sign",
+                "wikipedia": "en:Hollywood Sign"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Hollywood_Sign_%28Zuschnitt%29.jpg/1280px-Hollywood_Sign_%28Zuschnitt%29.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 3861449031,
+            "lat": 34.10173,
+            "lon": -118.3381249,
+            "tags": {
+                "addr:city": "Los Angeles",
+                "addr:housenumber": "6767",
+                "addr:postcode": "90028",
+                "addr:street": "Hollywood Boulevard",
+                "fee": "yes",
+                "name": "Hollywood Wax Museum",
+                "name:en": "Hollywood Wax Museum",
+                "name:es": "Museo de Cera de Hollywood",
+                "opening_hours": "Mo-Su 09:00-24:00",
+                "tourism": "museum",
+                "website": "https://www.hollywoodwaxmuseum.com/",
+                "wikidata": "Q5883025"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/01/Hollywood_Wax_Museum_Logo.png",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 3919457773,
+            "lat": 34.0298696,
+            "lon": -118.519319,
+            "tags": {
+                "alt_name": "Case Study House #8",
+                "historic": "yes",
+                "name": "Eames House",
+                "name_1": "Eames House and Studio",
+                "source": "Bing",
+                "tourism": "museum",
+                "website": "https://eamesfoundation.org/house/eames-house/",
+                "wikidata": "Q980011"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/45/Eames_house_entry.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 4055892574,
+            "lat": 34.2570847,
+            "lon": -118.599981,
+            "tags": {
+                "amenity": "restaurant",
+                "historic": "yes",
+                "name": "Munch Box",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Map_of_Chatsworth_neighborhood%2C_Los_Angeles%2C_California.png",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 4123733980,
+            "lat": 34.0998785,
+            "lon": -118.3290098,
+            "tags": {
+                "addr:housenumber": "6363",
+                "addr:postcode": "90028",
+                "addr:street": "Selma",
+                "check_date": "2024-10-07",
+                "contact:facebook": "https://www.facebook.com/museumofdeathofficial/",
+                "contact:instagram": "https://www.instagram.com/museumofdeath_hollywood",
+                "fee": "yes",
+                "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%3Fid%3DOIP.pM7D56inQBu41Lq9SAcbRgHaFQ%26pid%3DApi&f=1&ipt=41bfb4970b0b44f1de35dc609496fa544bc3da01682f01d103fa605fd70da082&ipo=images",
+                "name": "Museum of Death",
+                "opening_hours": "11:00-20:00",
+                "payment:cash": "no",
+                "payment:credit_cards": "yes",
+                "payment:debit_cards": "yes",
+                "tourism": "museum",
+                "website": "http://www.museumofdeath.net/",
+                "wikidata": "Q15715949",
+                "wikimedia_commons": "Category:Museum of Death in Hollywood",
+                "wikipedia": "en:Museum of Death"
+            }
+        },
+        {
+            "type": "node",
+            "id": 4213558285,
+            "lat": 34.0568507,
+            "lon": -118.238556,
+            "tags": {
+                "addr:city": "Los Angeles",
+                "addr:state": "CA",
+                "addr:street": "Olvera Street",
+                "historic": "district",
+                "name": "El Pueblo de Los Angeles Historical Monument",
+                "tourism": "attraction",
+                "website": "https://elpueblo.lacity.org",
+                "wikidata": "Q6682294"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5d/FelipeDeNeve.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 4253186546,
+            "lat": 34.0550448,
+            "lon": -118.250457,
+            "tags": {
+                "fee": "no",
+                "name": "Gallery at REDCAT",
+                "opening_hours": "Tu-Su 12:00-18:00",
+                "source": "bing_imagery",
+                "tourism": "museum",
+                "website": "https://www.redcat.org/gallery/",
+                "wikidata": "Q7276303"
+            }
+        },
+        {
+            "type": "node",
+            "id": 4273733033,
+            "lat": 34.0509789,
+            "lon": -118.2545122,
+            "tags": {
+                "addr:city": "Los Angeles",
+                "addr:housenumber": "633",
+                "addr:postcode": "90071",
+                "addr:state": "CA",
+                "addr:street": "West 5th Street",
+                "alt_name": "Skyslide",
+                "name": "Skyspace LA",
+                "phone": "+1-213-894-9000",
+                "tourism": "attraction",
+                "website": "https://www.skyspace-la.com/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Los_Angeles_Library_Tower_%28small%29_crop.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 4297597656,
+            "lat": 34.0564211,
+            "lon": -118.239796,
+            "tags": {
+                "name": "LA Plaza De Culturas Y Artes",
+                "tourism": "museum",
+                "website": "https://lapca.org/",
+                "wikidata": "Q6457196",
+                "wikipedia": "en:LA Plaza de Cultura y Artes"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Merced_Theater_%28Los_Angeles_Plaza%29.jpg/1280px-Merced_Theater_%28Los_Angeles_Plaza%29.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 4361573808,
+            "lat": 34.0696034,
+            "lon": -118.2545531,
+            "tags": {
+                "access": "private",
+                "name": "Thriller House",
+                "name:en": "Thriller House",
+                "name:es": "Casa Thriller",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/House_at_1300_Carroll_Ave.%2C_Los_Angeles%2C_California.JPG/1280px-House_at_1300_Carroll_Ave.%2C_Los_Angeles%2C_California.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 4388380489,
+            "lat": 34.0600127,
+            "lon": -118.4893994,
+            "tags": {
+                "name": "fresh prince of bel air",
+                "name:en": "fresh prince of bel air",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 4399693647,
+            "lat": 34.0186092,
+            "lon": -118.2873476,
+            "tags": {
+                "name": "USC Fisher Museum of Art",
+                "opening_hours": "Tu-Fr 12:00-17:00; Sa 12:00-16:00",
+                "operator": "University of Southern California",
+                "phone": "+1 213-740-4561",
+                "tourism": "museum",
+                "website": "https://fisher.usc.edu/",
+                "wikidata": "Q18325633"
+            }
+        },
+        {
+            "type": "node",
+            "id": 4427331989,
+            "lat": 34.0694,
+            "lon": -118.254086,
+            "tags": {
+                "access": "private",
+                "addr:housenumber": "1329",
+                "addr:street": "Carroll Avenue",
+                "name": "Charmed House",
+                "name:fr": "Manoir de Charmed",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Foy_House%2C_Los_Angeles.JPG/1280px-Foy_House%2C_Los_Angeles.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 4538310494,
+            "lat": 34.1014912,
+            "lon": -118.338883,
+            "tags": {
+                "addr:housenumber": "6806",
+                "addr:postcode": "90028",
+                "addr:street": "Hollywood Boulevard",
+                "name": "Hollywood Movie Star Homes Tour",
+                "name:en": "Hollywood Movie Star Homes Tour",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Lee_drug_and_neighbor.jpg/1280px-Lee_drug_and_neighbor.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 4677541993,
+            "lat": 34.1090095,
+            "lon": -118.3691367,
+            "tags": {
+                "addr:housenumber": "8021",
+                "addr:street": "Rothdell Trail",
+                "name": "Jim Morrison's House",
+                "name:en": "Jim Morrison's House",
+                "name:ru": "Дом Джима Моррисона",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Mount_Olympus%2C_Los_Angeles.jpg/1280px-Mount_Olympus%2C_Los_Angeles.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 4745189816,
+            "lat": 34.0770168,
+            "lon": -118.47401,
+            "tags": {
+                "alt_name": "The Getty Center",
+                "fee": "no",
+                "loc_name": "The Getty",
+                "name": "The J. Paul Getty Museum",
+                "name:en": "The J. Paul Getty Museum",
+                "opening_hours": "Tu-Fr,Su 10:00-17:30; Sa 10:00-20:00",
+                "tourism": "museum",
+                "website": "https://www.getty.edu/visit/center/",
+                "wheelchair": "yes",
+                "wikidata": "Q731126"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Aerial_Getty_Museum.jpg/1280px-Aerial_Getty_Museum.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 4773740642,
+            "lat": 34.0522355,
+            "lon": -118.2636642,
+            "tags": {
+                "addr:housenumber": "1100",
+                "addr:street": "Wilshire Boulevard",
+                "height": "151",
+                "name": "1100 Wilshire",
+                "tourism": "attraction",
+                "wikidata": "Q4547239"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/1100Wilshire.jpg/1280px-1100Wilshire.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 4831464321,
+            "lat": 34.0514115,
+            "lon": -118.2545363,
+            "tags": {
+                "name": "Spanish Steps",
+                "name:en": "Spanish Steps",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/79/Citigroup_Center_Downtown_Los_Angeles.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 4831464322,
+            "lat": 33.9914766,
+            "lon": -118.469278,
+            "tags": {
+                "name": "Abbot Kinney Boulevard",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 4831464323,
+            "lat": 33.9876814,
+            "lon": -118.4743311,
+            "tags": {
+                "name": "Ocean Front Walk",
+                "name:en": "Ocean Front Walk",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Pool_%2832100805326%29.jpg/1280px-Pool_%2832100805326%29.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 4831464522,
+            "lat": 33.9938306,
+            "lon": -118.4756492,
+            "tags": {
+                "name": "Main Street",
+                "name:en": "Main Street",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 4837730309,
+            "lat": 34.0407317,
+            "lon": -118.2630957,
+            "tags": {
+                "name": "Tamal Museum",
+                "tourism": "museum"
+            }
+        },
+        {
+            "type": "node",
+            "id": 5041566108,
+            "lat": 34.101602,
+            "lon": -118.3267154,
+            "tags": {
+                "junction": "yes",
+                "name": "Hollywood and Vine",
+                "tourism": "attraction",
+                "wikidata": "Q3139430"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Hollywood_and_Vine_Sign%2C_Hollywood%2C_LA%2C_CA%2C_jjron_21.03.2012.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 5118857804,
+            "lat": 34.0472802,
+            "lon": -118.3556737,
+            "tags": {
+                "name": "Tembo's residence",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 5229911604,
+            "lat": 34.0203999,
+            "lon": -118.285981,
+            "tags": {
+                "description": "Piano in TCC courtyard.",
+                "name": "Tutor Campus Center Piano",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 5322526883,
+            "lat": 34.0655939,
+            "lon": -118.2376151,
+            "tags": {
+                "name": "Seven Star Cavern Wishing Well",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/78/Sun_Yat-sen_Los_Angeles.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 5394515523,
+            "lat": 34.0734265,
+            "lon": -118.2087106,
+            "tags": {
+                "name": "hm157",
+                "name:en": "hm157",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a6/HM157_-_Front.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 5455447621,
+            "lat": 34.1360265,
+            "lon": -118.3321097,
+            "tags": {
+                "leaf_cycle": "evergreen",
+                "leaf_type": "needleleaved",
+                "name": "Wisdom Tree",
+                "natural": "tree",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 5567228128,
+            "lat": 34.062601,
+            "lon": -118.240768,
+            "tags": {
+                "addr:housenumber": "756",
+                "addr:postcode": "90012",
+                "addr:street": "Yale Street",
+                "amenity": "place_of_worship",
+                "name": "Thien Hau Temple",
+                "name:es": "Templo Thien Hau",
+                "name:vi": "Chùa Bà Thiên Hậu",
+                "religion": "taoist",
+                "tourism": "attraction",
+                "wikidata": "Q2588806",
+                "wikipedia": "en:Thien Hau Temple (Los Angeles)"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Los_Angeles%2C_Buddhist_Temple_Thien_Hau%2C_2016.03.27_%2803%29_%2828755210693%29.jpg/1280px-Los_Angeles%2C_Buddhist_Temple_Thien_Hau%2C_2016.03.27_%2803%29_%2828755210693%29.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 5725891221,
+            "lat": 34.0437985,
+            "lon": -118.5105525,
+            "tags": {
+                "addr:housenumber": "789",
+                "addr:street": "Amalfi Drive",
+                "name": "Maison Johnny Halliday",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 5742849227,
+            "lat": 34.0839638,
+            "lon": -118.3688464,
+            "tags": {
+                "name": "Pink Wall",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Crossroads_Kitchen%2C_Los_Angeles_%28July_2023%29.jpg/1280px-Crossroads_Kitchen%2C_Los_Angeles_%28July_2023%29.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 6171198485,
+            "lat": 34.030169,
+            "lon": -118.5187333,
+            "tags": {
+                "addr:housenumber": "205",
+                "addr:street": "Chautauqua Boulevard",
+                "name": "Case Study House #9",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 6187308885,
+            "lat": 33.9857121,
+            "lon": -118.4763098,
+            "tags": {
+                "name": "Sunset Stones",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Santa_Monica_and_Venice%2C_CA_%28September_2022%29_-_228.jpg/1280px-Santa_Monica_and_Venice%2C_CA_%28September_2022%29_-_228.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 6197156486,
+            "lat": 34.0400328,
+            "lon": -118.3404523,
+            "tags": {
+                "name": "Lowell Ryan Projects",
+                "opening_hours": "Tu-Sa 11:00-18:00",
+                "tourism": "museum",
+                "website": "https://www.lowellryanprojects.com/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Ebony_Repertory_Theatre_night_2018.jpg/1280px-Ebony_Repertory_Theatre_night_2018.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 6285507206,
+            "lat": 34.2331818,
+            "lon": -118.588185,
+            "tags": {
+                "description": "F1 main rocket engine used in Apollo moon missions",
+                "historic": "monument",
+                "name": "Apollo Rocket Engine",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 6522149763,
+            "lat": 34.1017438,
+            "lon": -118.3378435,
+            "tags": {
+                "addr:city": "Los Angeles",
+                "addr:country": "US",
+                "addr:housenumber": "6757",
+                "addr:postcode": "90028",
+                "addr:street": "Hollywood Boulevard",
+                "email": "info@museumofselfies.com",
+                "fee": "yes",
+                "name": "Museum of Selfies",
+                "opening_hours": "Mo-Su 10:00-22:00; Fr,Sa 10:00-24:00",
+                "phone": "+1 737 471-5566",
+                "tourism": "museum",
+                "website": "https://museumofselfies.com/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/The_theater-like_%22Hollywood%22_sign_and_marquee_surmount_the_Guinness_World_Records_museum_on_Hollywood_Boulevard_in_the_Los_Angeles_neighborhood_of_the_same_name_LCCN2013631463.tif/lossy-page1-1280px-thumbnail.tif.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 6601604585,
+            "lat": 33.9894141,
+            "lon": -118.4787936,
+            "tags": {
+                "name": "Venice pride flag lifeguard tower",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Pool_%2832100805326%29.jpg/1280px-Pool_%2832100805326%29.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 6795952888,
+            "lat": 33.9876126,
+            "lon": -118.472361,
+            "tags": {
+                "name": "Venice Sign",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 6927638266,
+            "lat": 34.0888193,
+            "lon": -118.3214104,
+            "tags": {
+                "cemetery": "grave",
+                "name": "Judy Garland",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/SunsetGowerStudios_Dec2006.jpg/1280px-SunsetGowerStudios_Dec2006.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 6927660576,
+            "lat": 34.0836549,
+            "lon": -118.3208,
+            "tags": {
+                "addr:housenumber": "5515",
+                "addr:street": "Melrose Avenue",
+                "name": "Paramount Pictures Studio Tour",
+                "tourism": "attraction",
+                "website": "https://www.paramountstudiotour.com/"
+            }
+        },
+        {
+            "type": "node",
+            "id": 7966598294,
+            "lat": 34.0849817,
+            "lon": -118.2341586,
+            "tags": {
+                "name": "Secret Swing",
+                "name:pl": "huśtawka z widokiem",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 8406622413,
+            "lat": 34.0580596,
+            "lon": -118.237764,
+            "tags": {
+                "name": "Italian American Museum of Los Angeles",
+                "tourism": "museum",
+                "website": "https://www.iamla.org/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Italian_American_museum.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 8406712222,
+            "lat": 34.0576322,
+            "lon": -118.2381617,
+            "tags": {
+                "fee": "no",
+                "museum": "art",
+                "name": "América Tropical Interpretative Center",
+                "tourism": "museum",
+                "website": "https://theamericatropical.org/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Olvera_Street%2C_Los_Angeles-4.jpg/1280px-Olvera_Street%2C_Los_Angeles-4.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 8406712243,
+            "lat": 34.0569975,
+            "lon": -118.2381692,
+            "tags": {
+                "name": "La Plaza United Methodist Church, Museum of Social Justice",
+                "tourism": "museum",
+                "website": "https://www.museumofsocialjustice.org/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Plaza_Substation%2C_Los_Angeles.jpg/1280px-Plaza_Substation%2C_Los_Angeles.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 8470629499,
+            "lat": 34.1116758,
+            "lon": -118.3370711,
+            "tags": {
+                "name": "Edmund D. Edelman Hollywood Bowl Museum",
+                "tourism": "museum",
+                "website": "https://www.hollywoodbowl.com/visit/when-youre-here/hollywood-bowl-museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Hollywood_Bowl_2024.jpg/1280px-Hollywood_Bowl_2024.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 8568202591,
+            "lat": 33.9725527,
+            "lon": -118.4181452,
+            "tags": {
+                "man_made": "geoglyph",
+                "name": "LMU",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9490872969,
+            "lat": 34.2138847,
+            "lon": -118.5000677,
+            "tags": {
+                "addr:city": "Lake Balboa",
+                "addr:housenumber": "7900",
+                "addr:postcode": "91406",
+                "addr:street": "Balboa Boulevard",
+                "fee": "yes",
+                "museum": "history",
+                "name": "Valley Relics Museum",
+                "opening_hours": "Sa 11:00-15:00; Su 11:00-16:00",
+                "tourism": "museum",
+                "website": "https://valleyrelicsmuseum.org/",
+                "wikidata": "Q60741079"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Neon_ceiling_signage.jpg/1280px-Neon_ceiling_signage.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 9504140085,
+            "lat": 34.0645704,
+            "lon": -118.358258,
+            "tags": {
+                "geological": "palaeontological_site",
+                "name": "Pit 13",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/5900_Wilshire%2C_Los_Angeles%2C_August_2024.JPG/1280px-5900_Wilshire%2C_Los_Angeles%2C_August_2024.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 9504140101,
+            "lat": 34.0638862,
+            "lon": -118.357267,
+            "tags": {
+                "geological": "palaeontological_site",
+                "name": "Pits 3, 4, 61, 67",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/LACMA_02.jpg/1280px-LACMA_02.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 9504157817,
+            "lat": 34.0644085,
+            "lon": -118.357607,
+            "tags": {
+                "geological": "palaeontological_site",
+                "name": "Pit 9",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/LACMA_02.jpg/1280px-LACMA_02.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 9561062273,
+            "lat": 34.1110655,
+            "lon": -118.3118724,
+            "tags": {
+                "addr:city": "Los Angeles",
+                "addr:housenumber": "2255",
+                "addr:postcode": "90068",
+                "addr:state": "CA",
+                "addr:street": "Verde Oak Drive",
+                "description": "Historic Mayan Revival dwelling designed by Lloyd Wright in 1928. It is Los Angeles Historic-Cultural Monument #130",
+                "historic": "house",
+                "name": "Samuel-Novarro House",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Samuel-Novarro_House_West_Facade_4.jpg/1280px-Samuel-Novarro_House_West_Facade_4.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 9667000545,
+            "lat": 34.2254437,
+            "lon": -118.6503955,
+            "tags": {
+                "name": "Jason Goes to Hell: The Final Friday -- Voorhees House",
+                "note": "Filming location from \"Friday the 13th Part IX\"",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9667000546,
+            "lat": 34.2093833,
+            "lon": -118.6511685,
+            "tags": {
+                "name": "Encino Man -- Family House",
+                "note": "Filming location from \"Encino Man\".",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9667000547,
+            "lat": 34.2099267,
+            "lon": -118.6457184,
+            "tags": {
+                "name": "Valley Girl -- Party House",
+                "note": "Filming location from \"Valley Girl\" (1983).",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9703886758,
+            "lat": 34.0978074,
+            "lon": -118.3339175,
+            "tags": {
+                "addr:city": "Los Angeles",
+                "addr:housenumber": "6616",
+                "addr:street": "West Sunset Boulevard",
+                "description": "Affiliated with the Church of Scientology, museum examines psychiatry from a skeptic's perspective.",
+                "name": "Psychiatry: An Industry of Death Museum",
+                "operator": "Citizens Commission on Human Rights (CCHR) International, Church of Scientology",
+                "operator:type": "private",
+                "tourism": "museum",
+                "website": "https://www.cchr.org/",
+                "wikidata": "Q7256248",
+                "wikipedia": "en:Psychiatry: An Industry of Death"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9705331407,
+            "lat": 34.1437568,
+            "lon": -118.216933,
+            "tags": {
+                "addr:city": "Los Angeles",
+                "addr:housenumber": "2327",
+                "addr:state": "CA",
+                "addr:street": "Hill Drive",
+                "description": "Historical Landmark \"Story Book\" home. Filming location and former home to Ben Affleck and Matt Damon.",
+                "name": "Egasse Braasch House -- The Good Will Hunting House",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Center_For_The_Arts%2C_Eagle_Rock.png",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 9982332940,
+            "lat": 34.0622644,
+            "lon": -118.355555,
+            "tags": {
+                "addr:city": "Los Angeles",
+                "addr:housenumber": "5814",
+                "addr:postcode": "90036",
+                "addr:state": "CA",
+                "addr:street": "Wilshire Boulevard",
+                "fee": "yes",
+                "fee:conditional": "no @ Su",
+                "museum": "art",
+                "name": "Craft Contemporary",
+                "opening_hours": "We-Su 11:00-17:00",
+                "phone": "+1-323-937-4230",
+                "tourism": "museum",
+                "website": "https://www.craftcontemporary.org/"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10138374546,
+            "lat": 34.0494498,
+            "lon": -118.2392433,
+            "tags": {
+                "addr:city": "Los Angeles",
+                "addr:housenumber": "355",
+                "addr:postcode": "90012",
+                "addr:state": "CA",
+                "addr:street": "East 1st Street",
+                "check_date": "2025-12-26",
+                "contact:facebook": "https://www.facebook.com/goforbrokenationaleducationcenter/",
+                "contact:instagram": "https://www.instagram.com/gfbnec",
+                "contact:linkedin": "https://www.linkedin.com/company/go-for-broke-national-education-center",
+                "contact:youtube": "https://www.youtube.com/@gfbnec",
+                "fee": "yes",
+                "name": "Go For Broke National Education Center",
+                "tourism": "museum",
+                "website": "https://goforbroke.org/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Japanese_American_National_Museum_%28Los_Angeles%29_August_2024.JPG/1280px-Japanese_American_National_Museum_%28Los_Angeles%29_August_2024.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 10177263303,
+            "lat": 33.9695085,
+            "lon": -118.4236063,
+            "tags": {
+                "name": "Urbanscape",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10177263304,
+            "lat": 33.9690686,
+            "lon": -118.4238698,
+            "tags": {
+                "name": "Gathering Place",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10177263305,
+            "lat": 33.9688918,
+            "lon": -118.4239181,
+            "tags": {
+                "name": "Kiiy",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10683947956,
+            "lat": 34.0575628,
+            "lon": -118.238018,
+            "tags": {
+                "fee": "no",
+                "museum": "history",
+                "name": "Sepulveda House Museum",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Olvera_Street%2C_Los_Angeles-4.jpg/1280px-Olvera_Street%2C_Los_Angeles-4.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 10851158514,
+            "lat": 33.7119914,
+            "lon": -118.2959581,
+            "tags": {
+                "addr:state": "CA",
+                "building": "bunker",
+                "ele": "74",
+                "gnis:feature_id": "1733508",
+                "heritage": "2",
+                "heritage:operator": "nrhp",
+                "heritage:website": "https://www.nps.gov/subjects/nationalregister/index.htm",
+                "historic": "military",
+                "military": "bunker",
+                "name": "Fort MacArthur Museum",
+                "nrhp:criteria": "(A), (C)",
+                "nrhp:inscription_date": "1974-10-16",
+                "protection_title": "Fort MacArthur Museum Association",
+                "ref:nrhp": "74000526",
+                "source": "USGS Geonames",
+                "source_ref": "https://catalog.archives.gov/id/123858951",
+                "start_date": "1916",
+                "tourism": "museum",
+                "website": "http://ftmac.org/",
+                "wikidata": "Q5471564"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/FortMacBattery.JPG/1280px-FortMacBattery.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 11166985455,
+            "lat": 34.2427708,
+            "lon": -118.4939725,
+            "tags": {
+                "name": "Terminator 2: Judgment Day -- Truck Jump into Creek",
+                "note": "Filming location from \"Terminator 2: Judgment Day\".  https://x3mo.net/T2-CREEK-CHASE",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11244417401,
+            "lat": 34.1088396,
+            "lon": -118.1921925,
+            "tags": {
+                "addr:housenumber": "131",
+                "addr:street": "South Avenue 57",
+                "name": "Highland Park Ebell Club",
+                "tourism": "museum",
+                "website": "http://www.ebell-hp.org"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11245013228,
+            "lat": 34.1089203,
+            "lon": -118.3693074,
+            "tags": {
+                "historic": "memorial",
+                "name": "Love Street",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Mount_Olympus%2C_Los_Angeles.jpg/1280px-Mount_Olympus%2C_Los_Angeles.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 11608850025,
+            "lat": 34.1371859,
+            "lon": -118.3067867,
+            "tags": {
+                "leisure": "picnic_table",
+                "name": "Haunted Picnic Table 29",
+                "tourism": "attraction",
+                "website": "https://pinintheatlas.com/travel-blogs/haunted-picnic-table-29-griffith-park-california/"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11889361834,
+            "lat": 34.1882714,
+            "lon": -118.4602769,
+            "tags": {
+                "addr:city": "Los Angeles",
+                "addr:housenumber": "15020",
+                "addr:state": "CA",
+                "addr:street": "Hamlin Street",
+                "name": "Workaholics -- The House",
+                "note": "Filming location from the TV Show \"Workaholics\" from 2011-2017.",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11998034905,
+            "lat": 34.0406333,
+            "lon": -118.2660432,
+            "tags": {
+                "name": "The Unicorn Museum",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Pico_station_platform%2C_January_2024.jpg/1280px-Pico_station_platform%2C_January_2024.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 12113185850,
+            "lat": 34.0706487,
+            "lon": -118.4452743,
+            "tags": {
+                "name": "UCLA Athletic Hall of Fame",
+                "opening_hours": "Mo-Fr 09:00-17:00",
+                "tourism": "museum",
+                "website": "https://uclabruins.com/honors/hall-of-fame"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/96/Pauley_Pavilion_2013.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 12212932377,
+            "lat": 34.034008,
+            "lon": -118.3214016,
+            "tags": {
+                "description": "This is the house from the TV series Numb3rs (2005-2010)",
+                "name": "Numb3rs house",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 12233691402,
+            "lat": 34.0336877,
+            "lon": -118.3179632,
+            "tags": {
+                "name": "Six Feet Under funeral home",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 12604907604,
+            "lat": 34.0885745,
+            "lon": -118.3172034,
+            "tags": {
+                "cemetery": "grave",
+                "name": "Johnny Ramone",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/HollywoodForeverCemetery02.jpg/1280px-HollywoodForeverCemetery02.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 12604907606,
+            "lat": 34.0880764,
+            "lon": -118.3163335,
+            "tags": {
+                "cemetery": "grave",
+                "name": "Rudolph Valentino",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/HollywoodForeverCemetery02.jpg/1280px-HollywoodForeverCemetery02.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 12604907628,
+            "lat": 34.0898371,
+            "lon": -118.3167938,
+            "tags": {
+                "cemetery": "grave",
+                "name": "Cecil B. DeMille",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 12604907629,
+            "lat": 34.0885808,
+            "lon": -118.3200347,
+            "tags": {
+                "cemetery": "grave",
+                "name": "Mel Blanc",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/HollywoodForeverCemetery02.jpg/1280px-HollywoodForeverCemetery02.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 12604907630,
+            "lat": 34.0884649,
+            "lon": -118.3166784,
+            "tags": {
+                "cemetery": "grave",
+                "name": "Mickey Rooney",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/HollywoodForeverCemetery02.jpg/1280px-HollywoodForeverCemetery02.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 12604907635,
+            "lat": 34.0872026,
+            "lon": -118.3215974,
+            "tags": {
+                "cemetery": "grave",
+                "name": "Bugsy Siegel",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/SunsetGowerStudios_Dec2006.jpg/1280px-SunsetGowerStudios_Dec2006.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 12604907637,
+            "lat": 34.0889611,
+            "lon": -118.3165694,
+            "tags": {
+                "cemetery": "grave",
+                "name": "Tyrone Power",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/HollywoodForeverCemetery02.jpg/1280px-HollywoodForeverCemetery02.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 12697378566,
+            "lat": 34.0656154,
+            "lon": -118.2385854,
+            "tags": {
+                "addr:city": "Los Angeles",
+                "addr:housenumber": "932",
+                "addr:postcode": "90012",
+                "addr:state": "CA",
+                "addr:street": "Chung King Road",
+                "check_date": "2025-12-01",
+                "name": "The Institute for Art and Olfaction",
+                "phone": "+1 213-616-1744",
+                "tourism": "museum",
+                "website": "https://artandolfaction.com/",
+                "wikidata": "Q28222738"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Chung_King_Road_in_LA%27s_New_Chinatown_as_the_sun_sets.jpg/1280px-Chung_King_Road_in_LA%27s_New_Chinatown_as_the_sun_sets.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 13663966118,
+            "lat": 34.1013769,
+            "lon": -118.3380488,
+            "tags": {
+                "addr:city": "Los Angeles",
+                "addr:housenumber": "6764",
+                "addr:postcode": "90028",
+                "addr:state": "CA",
+                "addr:street": "Hollywood Boulevard",
+                "name": "Guinness World Records Museum",
+                "opening_hours": "10:00-24:00",
+                "phone": "+1-323-463-6433",
+                "tourism": "museum",
+                "website": "https://www.guinnessmuseumhollywood.com/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/The_theater-like_%22Hollywood%22_sign_and_marquee_surmount_the_Guinness_World_Records_museum_on_Hollywood_Boulevard_in_the_Los_Angeles_neighborhood_of_the_same_name_LCCN2013631463.tif/lossy-page1-1280px-thumbnail.tif.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 13663978054,
+            "lat": 34.1013711,
+            "lon": -118.3384968,
+            "tags": {
+                "addr:city": "Los Angeles",
+                "addr:housenumber": "6780",
+                "addr:postcode": "90028",
+                "addr:state": "CA",
+                "addr:street": "Hollywood Boulevard",
+                "name": "Ripley's Believe It or Not! Odditoriums",
+                "tourism": "museum",
+                "website": "https://www.ripleys.com/hollywood/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Ripleys_01.jpg/1280px-Ripleys_01.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 13676727788,
+            "lat": 34.2626472,
+            "lon": -118.3465972,
+            "tags": {
+                "name": "Little Ass Farm",
+                "tourism": "zoo",
+                "zoo": "petting_zoo"
+            }
+        },
+        {
+            "type": "node",
+            "id": 13697072715,
+            "lat": 34.0982128,
+            "lon": -118.3515079,
+            "tags": {
+                "alt_name": "Hollywood's Rock Walk of Fame",
+                "museum": "art",
+                "name": "RockWalk",
+                "tourism": "museum",
+                "wikidata": "Q3139400"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/49/Thee_Experience.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 13727480729,
+            "lat": 33.9878418,
+            "lon": -118.4745643,
+            "tags": {
+                "name": "Piano Man",
+                "operator": "Nathan Pino",
+                "reservation": "no",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Pool_%2832100805326%29.jpg/1280px-Pool_%2832100805326%29.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 23014640,
+            "lat": 34.0449798,
+            "lon": -118.5640877,
+            "tags": {
+                "addr:city": "Pacific Palisades",
+                "addr:housenumber": "17985",
+                "addr:postcode": "90272",
+                "addr:state": "CA",
+                "addr:street": "Pacific Coast Highway",
+                "fee": "no",
+                "fee:note": "Admission free, parking $25",
+                "museum": "history",
+                "name": "The Getty Villa",
+                "opening_hours": "Mo 10:00-17:00; We-Su 10:00-17:00",
+                "operator": "The J. Paul Getty Trust",
+                "operator:type": "private",
+                "phone": "+1-310-440-7300",
+                "tourism": "museum",
+                "website": "https://www.getty.edu/visit/villa/",
+                "wikidata": "Q180401"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/060807-002-GettyVilla001.jpg/1280px-060807-002-GettyVilla001.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 27052829,
+            "lat": 34.1483335,
+            "lon": -118.289411,
+            "tags": {
+                "ele": "152",
+                "name": "Los Angeles Zoo",
+                "tourism": "zoo",
+                "wikidata": "Q1370924",
+                "wikipedia": "en:Los Angeles Zoo"
+            }
+        },
+        {
+            "type": "way",
+            "id": 27052942,
+            "lat": 34.1548971,
+            "lon": -118.3020299,
+            "tags": {
+                "addr:city": "Los Angeles",
+                "addr:country": "US",
+                "addr:housenumber": "5202",
+                "addr:postcode": "90027",
+                "addr:state": "CA",
+                "addr:street": "Zoo Drive",
+                "email": "info@lals.org",
+                "name": "LA Live Steamers",
+                "phone": "+1-323-661-8958; +1-323-662-8030",
+                "tourism": "museum",
+                "website": "https://lals.org/",
+                "wikidata": "Q6682258",
+                "wikipedia": "en:Los Angeles Live Steamers Railroad Museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Livestreamers.JPG/1280px-Livestreamers.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 31576093,
+            "lat": 34.2526144,
+            "lon": -118.2882243,
+            "tags": {
+                "addr:city": "Tujunga",
+                "addr:housenumber": "10110",
+                "addr:postcode": "91042",
+                "addr:street": "Commerce Avenue",
+                "building": "yes",
+                "ele": "551.8",
+                "height": "9.1",
+                "lacounty:ain": "2565014900",
+                "lacounty:bld_id": "474537914452",
+                "name": "Bolton Hall",
+                "phone": "+1-818-352-3420",
+                "tourism": "museum",
+                "website": "http://www.littlelandershistoricalsociety.org/",
+                "wikidata": "Q4940176",
+                "wikipedia": "en:Bolton Hall (California)"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/BoltonHall_Tujunga_April2008.JPG/1280px-BoltonHall_Tujunga_April2008.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 37120567,
+            "lat": 34.0832009,
+            "lon": -118.2754718,
+            "tags": {
+                "description": "A long flight of stairs where a Laurel & Hardy scetch was recorded.",
+                "highway": "steps",
+                "name": "Music Box Steps",
+                "name:etymology:wikidata": "Q635167",
+                "name:etymology:wikipedia": "en:The Music Box",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/14/Silverlake_Lounge_Exterior.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 40187572,
+            "lat": 34.1598323,
+            "lon": -118.4990819,
+            "tags": {
+                "alt_name": "Siutcanga Village Park",
+                "alt_name_1": "Rancho Los Encinos Park",
+                "attribution": "CASIL CSP_Opbdys072008",
+                "csp:globalid": "{DDEE7526-2C43-43CD-BDD4-08180414250C}",
+                "csp:unitcode": "546",
+                "leisure": "park",
+                "name": "Los Encinos State Historic Park",
+                "opening_hours": "We-Su 10:00-17:00",
+                "park:type": "state_historic_park",
+                "tourism": "museum",
+                "wikidata": "Q6682711"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Garnier_Building_at_Rancho_Los_Encinos.JPG/1280px-Garnier_Building_at_Rancho_Los_Encinos.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 46735198,
+            "lat": 33.7210834,
+            "lon": -118.2745849,
+            "tags": {
+                "building": "yes",
+                "historic": "ship",
+                "name": "SS Lane Victory",
+                "ref:nrhp": "90002222",
+                "ship:type": "liberty_ship",
+                "start_date": "1945",
+                "tourism": "attraction",
+                "wikidata": "Q2376481",
+                "wikipedia": "en:SS Lane Victory"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Vincent_Thomas_Bridge.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 49649926,
+            "lat": 33.9777582,
+            "lon": -118.4690685,
+            "tags": {
+                "area": "yes",
+                "man_made": "pier",
+                "name": "Venice Fishing Pier",
+                "operator": "LA Park and Rec",
+                "owner": "City of Los Angeles",
+                "tourism": "attraction",
+                "wikidata": "Q78056165"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Sunrise_at_Venice_Beach_Pier_%282014%29.jpg/1280px-Sunrise_at_Venice_Beach_Pier_%282014%29.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 94233778,
+            "lat": 34.1831878,
+            "lon": -118.4808651,
+            "tags": {
+                "alt_name": "SuihoEn The Japanese Garden",
+                "garden:style": "japanese",
+                "leisure": "garden",
+                "name": "The Japanese Garden",
+                "tourism": "attraction",
+                "website": "https://thejapanesegarden.com/",
+                "wikidata": "Q768376",
+                "wikipedia": "en:The Japanese Garden"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Japanese_Garden_%28Van_Nuys%2C_CA%29.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 132789859,
+            "lat": 34.0747293,
+            "lon": -118.3557718,
+            "tags": {
+                "building": "yes",
+                "name": "Los Angeles Museum of the Holocaust",
+                "opening_hours": "Mo-Fr 10:00-14:00; Sa 10:00-17:00; Su 10:00-17:00",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Pan-Pacific_Auditorium_entrance.jpg/1280px-Pan-Pacific_Auditorium_entrance.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 158467351,
+            "lat": 34.2399064,
+            "lon": -118.5315326,
+            "tags": {
+                "amenity": "fountain",
+                "name": "Ralph Prator Fountain",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/38/OviattCSUN.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 167701343,
+            "lat": 34.1546797,
+            "lon": -118.3076242,
+            "tags": {
+                "addr:city": "Los Angeles",
+                "addr:housenumber": "5200",
+                "addr:postcode": "90027",
+                "addr:state": "CA",
+                "addr:street": "Zoo Drive",
+                "area": "yes",
+                "museum": "railway",
+                "name": "Travel Town Museum",
+                "opening_hours": "Mo-Su 10:00-17:00",
+                "operator": "Los Angeles Department of Recreation & Parks",
+                "operator:type": "public/government",
+                "tourism": "museum",
+                "website": "https://www.traveltown.org/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/%27Travel_Town_Museum%27_49.jpg/1280px-%27Travel_Town_Museum%27_49.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 172904769,
+            "lat": 34.0140449,
+            "lon": -118.2857455,
+            "tags": {
+                "historic": "monument",
+                "name": "Olympic Gateway",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c4/1999-2000_Ford_L.A._Street_Race_Logo.png/1280px-1999-2000_Ford_L.A._Street_Race_Logo.png",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 175773704,
+            "lat": 34.1017184,
+            "lon": -118.3303138,
+            "tags": {
+                "footway": "sidewalk",
+                "highway": "footway",
+                "lit": "yes",
+                "name": "Walk of Fame",
+                "smoothness": "good",
+                "surface": "paving_stones",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Hollywood_Pacific_Theater_2010.JPG/1280px-Hollywood_Pacific_Theater_2010.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 206463626,
+            "lat": 34.0532901,
+            "lon": -118.2505295,
+            "tags": {
+                "addr:city": "Los Angeles",
+                "addr:housenumber": "250",
+                "addr:postcode": "90012",
+                "addr:state": "CA",
+                "addr:street": "South Grand Avenue",
+                "building": "yes",
+                "check_date": "2025-03-22",
+                "ele": "137.1",
+                "fee": "no",
+                "gnis:feature_id": "1744903",
+                "height": "27.8",
+                "museum": "art",
+                "name": "Museum of Contemporary Art",
+                "opening_hours": "Mo off; Tu-We,Fr 11:00-17:00; Th 11:00-20:00; Sa-Su 11:00-18:00",
+                "source": "USGS Geonames",
+                "tourism": "museum",
+                "website": "https://www.moca.org/",
+                "wheelchair": "yes",
+                "wikidata": "Q1134646",
+                "wikipedia": "en:Museum of Contemporary Art, Los Angeles"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/93/Moca-exterior.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 206922639,
+            "lat": 34.035111,
+            "lon": -118.2356539,
+            "tags": {
+                "addr:city": "Los Angeles",
+                "addr:housenumber": "1717",
+                "addr:postcode": "90021",
+                "addr:state": "CA",
+                "addr:street": "East 7th Street",
+                "building": "yes",
+                "ele": "83.6",
+                "height": "8.0",
+                "lacounty:ain": "5164022003;5164022002",
+                "lacounty:bld_id": "490273835265;490378835246",
+                "museum": "art",
+                "name": "Institute of Contemporary Art, Los Angeles",
+                "tourism": "museum",
+                "website": "https://www.theicala.org/en"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Institute_of_Contemporary_Art%2C_Los_Angeles.jpg/1280px-Institute_of_Contemporary_Art%2C_Los_Angeles.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 223355271,
+            "lat": 34.087946,
+            "lon": -118.208567,
+            "tags": {
+                "ele": "109",
+                "gnis:feature_id": "1732690",
+                "museum": "open_air",
+                "name": "Heritage Square",
+                "tourism": "museum",
+                "website": "https://heritagesquare.org/",
+                "wikidata": "Q1610034",
+                "wikipedia": "en:Heritage Square Museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Hale_House%2C_Heritage_Square%2C_Los_Angeles.JPG/1280px-Hale_House%2C_Heritage_Square%2C_Los_Angeles.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 223355274,
+            "lat": 34.0880168,
+            "lon": -118.2087291,
+            "tags": {
+                "building": "yes",
+                "ele": "125.0",
+                "height": "9.9",
+                "lacounty:ain": "5207006900",
+                "lacounty:bld_id": "498474854477",
+                "name": "Ford House",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Hale_House%2C_Heritage_Square%2C_Los_Angeles.JPG/1280px-Hale_House%2C_Heritage_Square%2C_Los_Angeles.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 223355278,
+            "lat": 34.0882311,
+            "lon": -118.2079465,
+            "tags": {
+                "building": "yes",
+                "ele": "127.7",
+                "height": "10.3",
+                "lacounty:ain": "5207006900",
+                "lacounty:bld_id": "498709854554",
+                "name": "Hale House",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Hale_House%2C_Heritage_Square%2C_Los_Angeles.JPG/1280px-Hale_House%2C_Heritage_Square%2C_Los_Angeles.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 223355280,
+            "lat": 34.0884069,
+            "lon": -118.2077866,
+            "tags": {
+                "building": "yes",
+                "ele": "127.7",
+                "height": "10.1",
+                "lacounty:ain": "5207006900",
+                "lacounty:bld_id": "498752854615",
+                "name": "Perry Mansion",
+                "operator": "Heritage Square Museum",
+                "tourism": "museum",
+                "wikidata": "Q20858124"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Hale_House%2C_Heritage_Square%2C_Los_Angeles.JPG/1280px-Hale_House%2C_Heritage_Square%2C_Los_Angeles.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 223355282,
+            "lat": 34.0880808,
+            "lon": -118.2080785,
+            "tags": {
+                "building": "yes",
+                "ele": "125.1",
+                "height": "7.7",
+                "lacounty:ain": "5207006900",
+                "lacounty:bld_id": "498665854501",
+                "name": "Valley Knudsen Garden Residence",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Hale_House%2C_Heritage_Square%2C_Los_Angeles.JPG/1280px-Hale_House%2C_Heritage_Square%2C_Los_Angeles.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 223355285,
+            "lat": 34.0881563,
+            "lon": -118.2085515,
+            "tags": {
+                "building": "yes",
+                "building:units": "65",
+                "ele": "127.8",
+                "height": "12.8",
+                "lacounty:ain": "4275024015",
+                "lacounty:bld_id": "2014092925620000",
+                "name": "Octagon House",
+                "start_date": "2009",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Hale_House%2C_Heritage_Square%2C_Los_Angeles.JPG/1280px-Hale_House%2C_Heritage_Square%2C_Los_Angeles.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 322957598,
+            "lat": 34.051389,
+            "lon": -118.2502721,
+            "tags": {
+                "heritage": "2",
+                "heritage:operator": "nrhp",
+                "heritage:website": "http://focus.nps.gov/AssetDetail/NRIS/00001168",
+                "historic": "yes",
+                "image": "https://commons.wikimedia.org/wiki/File:AngelsFlight.5.JPG",
+                "landuse": "railway",
+                "name": "Angels Flight",
+                "name:en": "Angels Flight",
+                "ref:nrhp": "00001168",
+                "tourism": "attraction",
+                "wikidata": "Q1069719",
+                "wikimedia_commons": "Category:Angels_Flight",
+                "wikipedia": "en:Angels Flight"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Angels_Flight_after_reopening_in_September_2017.jpg/1280px-Angels_Flight_after_reopening_in_September_2017.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 323743996,
+            "lat": 34.0259809,
+            "lon": -118.3948726,
+            "tags": {
+                "addr:city": "Culver City",
+                "addr:housenumber": "9331",
+                "addr:postcode": "90232",
+                "addr:street": "Venice Boulevard",
+                "building": "yes",
+                "name": "Center for Land Use Interpretation",
+                "opening_hours": "Fr-Su 12:00-17:00",
+                "phone": "+1-310-839-5722",
+                "shop": "art",
+                "tourism": "museum",
+                "website": "https://clui.org/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Museum_of_Jurassic_Technology_Facade_-_9341_Venice_Blvd._in_Culver_City%2C_CA.jpg/1280px-Museum_of_Jurassic_Technology_Facade_-_9341_Venice_Blvd._in_Culver_City%2C_CA.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 323743997,
+            "lat": 34.025862,
+            "lon": -118.3950753,
+            "tags": {
+                "addr:city": "Culver City",
+                "addr:housenumber": "9341",
+                "addr:postcode": "90232",
+                "addr:street": "Venice Boulevard",
+                "building": "retail",
+                "building:levels": "2",
+                "building:units": "1",
+                "check_date": "2022-10-30",
+                "ele": "40.3",
+                "height": "7.5",
+                "lacounty:ain": "4313020022",
+                "lacounty:bld_id": "441959832036",
+                "name": "Museum of Jurassic Technology",
+                "opening_hours": "Th 14:00-20:00, Fr-Su 12:00-18:00",
+                "operator:type": "private",
+                "phone": "+1-310-836-6131",
+                "start_date": "1924",
+                "tourism": "museum",
+                "website": "http://mjt.org",
+                "wikidata": "Q1954749"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Museum_of_Jurassic_Technology_Facade_-_9341_Venice_Blvd._in_Culver_City%2C_CA.jpg/1280px-Museum_of_Jurassic_Technology_Facade_-_9341_Venice_Blvd._in_Culver_City%2C_CA.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 345529450,
+            "lat": 33.7419912,
+            "lon": -118.2773065,
+            "tags": {
+                "alt_name": "USS Iowa",
+                "building": "ship",
+                "historic": "ship",
+                "name": "Battleship USS Iowa",
+                "ref": "BB-61",
+                "short_name": "Battleship Iowa",
+                "tourism": "attraction",
+                "wikidata": "Q562161"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/BB61_USS_Iowa_BB61_broadside_USN.jpg/1280px-BB61_USS_Iowa_BB61_broadside_USN.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 358731585,
+            "lat": 34.0636978,
+            "lon": -118.3588316,
+            "tags": {
+                "alt_name": "LACMA",
+                "name": "Los Angeles County Museum of Art",
+                "tourism": "museum",
+                "website": "https://www.lacma.org",
+                "wikipedia": "en:Los Angeles County Museum of Art"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/LACMA-Los-Angeles-County-Museum-of-Art-04-2014.jpg/1280px-LACMA-Los-Angeles-County-Museum-of-Art-04-2014.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 372533330,
+            "lat": 34.2729494,
+            "lon": -118.3931209,
+            "tags": {
+                "building": "yes",
+                "ele": "341.7",
+                "height": "11.3",
+                "lacounty:ain": "2528002900;2528001900;2528002901;2528002902",
+                "lacounty:bld_id": "442928921824;442904921818;442856921950;442964921888",
+                "name": "Discovery Cube Science Center",
+                "tourism": "museum",
+                "website": "https://www.discoverycube.org/la/"
+            }
+        },
+        {
+            "type": "way",
+            "id": 380023144,
+            "lat": 34.1577329,
+            "lon": -118.6403587,
+            "tags": {
+                "historic": "yes",
+                "landuse": "farmyard",
+                "name": "Leonis Adobe",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Leonis_Adobe%2C_Calabasas_%282008%29.JPG/1280px-Leonis_Adobe%2C_Calabasas_%282008%29.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 383939401,
+            "lat": 34.1006087,
+            "lon": -118.3268292,
+            "tags": {
+                "footway": "sidewalk",
+                "highway": "footway",
+                "name": "Walk of Fame",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Hollywood_Plaza_Hotel_view_from_southeast_2015-11-15.jpg/1280px-Hollywood_Plaza_Hotel_view_from_southeast_2015-11-15.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 383939402,
+            "lat": 34.1014285,
+            "lon": -118.3401037,
+            "tags": {
+                "footway": "sidewalk",
+                "highway": "footway",
+                "name": "Walk of Fame",
+                "name:zh": "星光大道",
+                "surface": "tiles",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Hollywood_Masonic_Temple.JPG/1280px-Hollywood_Masonic_Temple.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 383939403,
+            "lat": 34.1015749,
+            "lon": -118.3450928,
+            "tags": {
+                "crossing": "traffic_signals",
+                "crossing:markings": "surface",
+                "crossing:signals": "yes",
+                "footway": "crossing",
+                "highway": "footway",
+                "name": "Walk of Fame",
+                "surface": "asphalt",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "way",
+            "id": 383939404,
+            "lat": 34.1013942,
+            "lon": -118.3450247,
+            "tags": {
+                "footway": "sidewalk",
+                "highway": "footway",
+                "name": "Walk of Fame",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "way",
+            "id": 383939405,
+            "lat": 34.1016533,
+            "lon": -118.3224708,
+            "tags": {
+                "crossing": "traffic_signals",
+                "crossing:markings": "zebra",
+                "crossing:signals": "yes",
+                "footway": "crossing",
+                "highway": "footway",
+                "name": "Walk of Fame",
+                "surface": "asphalt",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/HANA_2_28_2020_%2850774119022%29.jpg/1280px-HANA_2_28_2020_%2850774119022%29.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 383939406,
+            "lat": 34.1017615,
+            "lon": -118.323799,
+            "tags": {
+                "footway": "sidewalk",
+                "highway": "footway",
+                "name": "Walk of Fame",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/HANA_2_28_2020_%2850774119022%29.jpg/1280px-HANA_2_28_2020_%2850774119022%29.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 383939407,
+            "lat": 34.1015311,
+            "lon": -118.3230703,
+            "tags": {
+                "footway": "sidewalk",
+                "highway": "footway",
+                "name": "Walk of Fame",
+                "surface": "paving_stones",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/HANA_2_28_2020_%2850774119022%29.jpg/1280px-HANA_2_28_2020_%2850774119022%29.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 383939408,
+            "lat": 34.1036215,
+            "lon": -118.3267026,
+            "tags": {
+                "crossing": "traffic_signals",
+                "crossing:markings": "ladder",
+                "crossing:signals": "yes",
+                "footway": "crossing",
+                "highway": "footway",
+                "name": "Walk of Fame",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Yucca_Vine_Tower.jpg/1280px-Yucca_Vine_Tower.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 383939451,
+            "lat": 34.1022686,
+            "lon": -118.3265589,
+            "tags": {
+                "footway": "sidewalk",
+                "highway": "footway",
+                "name": "Walk of Fame",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Hollywood%2C_Ca.-The_Equitable_Building_of_Hollywood-1930.jpg/1280px-Hollywood%2C_Ca.-The_Equitable_Building_of_Hollywood-1930.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 383939454,
+            "lat": 34.1026991,
+            "lon": -118.3268493,
+            "tags": {
+                "footway": "sidewalk",
+                "highway": "footway",
+                "name": "Walk of Fame",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Checkers_speech_shot.png",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 383939553,
+            "lat": 34.0981249,
+            "lon": -118.3266737,
+            "tags": {
+                "crossing": "traffic_signals",
+                "crossing:markings": "zebra",
+                "footway": "crossing",
+                "highway": "footway",
+                "name": "Walk of Fame",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/77/AHF_Logo.jpeg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 383939554,
+            "lat": 34.0989239,
+            "lon": -118.3265489,
+            "tags": {
+                "footway": "sidewalk",
+                "highway": "footway",
+                "name": "Walk of Fame",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/77/AHF_Logo.jpeg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 385648321,
+            "lat": 34.1016688,
+            "lon": -118.3387159,
+            "tags": {
+                "crossing": "traffic_signals",
+                "footway": "crossing",
+                "highway": "footway",
+                "lit": "yes",
+                "name": "Walk of Fame",
+                "smoothness": "good",
+                "surface": "asphalt",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Hollywood_Highland_Station.jpg/1280px-Hollywood_Highland_Station.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 385648322,
+            "lat": 34.1016763,
+            "lon": -118.3402721,
+            "tags": {
+                "footway": "sidewalk",
+                "highway": "footway",
+                "name": "Walk of Fame",
+                "name:zh": "星光大道",
+                "surface": "paved",
+                "tourism": "attraction",
+                "wikidata": "Q71719",
+                "wikipedia": "en:Hollywood Walk of Fame"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Cinemart_bldg.jpg/1280px-Cinemart_bldg.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 385648323,
+            "lat": 34.101486,
+            "lon": -118.3291564,
+            "tags": {
+                "footway": "sidewalk",
+                "highway": "footway",
+                "name": "Walk of Fame",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Julian_medical_bldg.jpg/1280px-Julian_medical_bldg.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 385648324,
+            "lat": 34.1014334,
+            "lon": -118.3387089,
+            "tags": {
+                "crossing": "traffic_signals",
+                "crossing:markings": "yes",
+                "footway": "crossing",
+                "highway": "footway",
+                "lit": "yes",
+                "name": "Walk of Fame",
+                "smoothness": "good",
+                "surface": "asphalt",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Lee_drug_and_neighbor.jpg/1280px-Lee_drug_and_neighbor.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 386067421,
+            "lat": 34.0537224,
+            "lon": -118.401718,
+            "tags": {
+                "addr:housenumber": "9760",
+                "addr:state": "CA",
+                "addr:street": "West Pico Boulevard",
+                "building": "yes",
+                "building:units": "1",
+                "ele": "85.0",
+                "fee": "yes",
+                "gnis:feature_id": "1693239",
+                "height": "22.8",
+                "lacounty:ain": "4307004009;4307004002;4307004008",
+                "lacounty:bld_id": "439991842147;440025842135;440054842217",
+                "name": "Museum of Tolerance",
+                "opening_hours:url": "https://www.museumoftolerance.com/visit/visitor-information/#hours",
+                "source": "USGS Geonames",
+                "start_date": "1991",
+                "tourism": "museum",
+                "website": "https://www.museumoftolerance.com/",
+                "wikidata": "Q318594"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Museum_of_Tolerance%2C_Los_Angeles%2C_March_2008.JPG/1280px-Museum_of_Tolerance%2C_Los_Angeles%2C_March_2008.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 407354858,
+            "lat": 33.7097695,
+            "lon": -118.2838067,
+            "tags": {
+                "addr:housenumber": "3800",
+                "addr:state": "CA",
+                "addr:street": "Stephen M. White Drive",
+                "building": "yes",
+                "fee": "no",
+                "height": "15.4",
+                "lacounty:ain": "7440041906",
+                "lacounty:bld_id": "475432716843;475329716819",
+                "name": "Cabrillo Beach Bath House",
+                "opening_hours": "Mo-Su 09:00-18:00",
+                "operator": "Los Angeles Parks & Recreation",
+                "source": "USGS Geonames",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Cabrillo1947.jpg/1280px-Cabrillo1947.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 407372905,
+            "lat": 34.0166212,
+            "lon": -118.2840111,
+            "tags": {
+                "building": "yes",
+                "ele": "87.3",
+                "height": "31.8",
+                "lacounty:ain": "5037028905",
+                "lacounty:bld_id": "475619828570",
+                "name": "SKETCH Foundation Gallery Air and Space Exhibits",
+                "tourism": "museum",
+                "wikidata": "Q134498214"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/California_African_American_Museum_exterior.jpg/1280px-California_African_American_Museum_exterior.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 407373012,
+            "lat": 34.0159444,
+            "lon": -118.2836227,
+            "tags": {
+                "addr:city": "Los Angeles",
+                "addr:housenumber": "600",
+                "addr:postcode": "90037",
+                "addr:state": "CA",
+                "addr:street": "State Drive",
+                "building": "yes",
+                "ele": "71.9",
+                "height": "14.4",
+                "lacounty:ain": "5037028908",
+                "lacounty:bld_id": "475787828292",
+                "name": "California African American Museum",
+                "opening_hours": "Tu-Sa 10:00-17:00; Su 11:00-17:00",
+                "operator": "State of California",
+                "tourism": "museum",
+                "wikidata": "Q5020212",
+                "wikimedia_commons": "Category:California_African_American_Museum",
+                "wikipedia": "en:California African American Museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/California_African_American_Museum_exterior.jpg/1280px-California_African_American_Museum_exterior.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 407373025,
+            "lat": 34.0170844,
+            "lon": -118.2888227,
+            "tags": {
+                "addr:city": "Los Angeles",
+                "addr:housenumber": "900",
+                "addr:postcode": "90007",
+                "addr:state": "CA",
+                "addr:street": "Exposition Boulevard",
+                "building": "museum",
+                "check_date": "2025-07-22",
+                "contact:facebook": "https://www.facebook.com/nhmla",
+                "contact:instagram": "https://www.instagram.com/nhmla",
+                "contact:twitter": "https://twitter.com/nhmla",
+                "ele": "83.4",
+                "fee": "yes",
+                "gnis:feature_id": "1732808",
+                "height": "27.9",
+                "lacounty:ain": "5037028902",
+                "lacounty:bld_id": "474141828644",
+                "museum": "nature",
+                "name": "Natural History Museum of Los Angeles County",
+                "opening_hours": "Mo-Su 09:30-17:00",
+                "payment:cash": "yes",
+                "payment:credit_cards": "yes",
+                "payment:debit_cards": "yes",
+                "phone": "+1-213-763-3466",
+                "phone:mnemonic": "+1-213-763-DINO",
+                "tourism": "museum",
+                "website": "https://nhm.org/",
+                "wikidata": "Q2502709",
+                "wikipedia": "en:Natural History Museum of Los Angeles County"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Natural_History_Museum_of_Los_Angeles_County_Logo.png",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 407373715,
+            "lat": 34.0159714,
+            "lon": -118.2864729,
+            "tags": {
+                "addr:city": "Los Angeles",
+                "addr:country": "US",
+                "addr:housenumber": "700",
+                "addr:postcode": "90037",
+                "addr:state": "CA",
+                "addr:street": "Exposition Park Drive",
+                "building": "museum",
+                "check_date": "2025-07-22",
+                "contact:facebook": "https://www.facebook.com/CaliforniaScienceCenter/",
+                "contact:instagram": "https://www.instagram.com/californiasciencecenter/",
+                "contact:twitter": "https://x.com/casciencecenter",
+                "ele": "82.3",
+                "fee": "no",
+                "fee:conditional": "yes @ (temporary_exhibition)",
+                "height": "26.1",
+                "lacounty:ain": "5037028905",
+                "lacounty:bld_id": "474745828331",
+                "museum": "science",
+                "name": "California Science Center",
+                "opening_hours": "10:00-17:00",
+                "opening_hours:url": "https://californiasciencecenter.org/visit",
+                "payment:credit_cards": "yes",
+                "payment:debit_cards": "yes",
+                "phone": "+1-323-724-3623; +1-213-744-2019",
+                "tourism": "museum",
+                "website": "https://californiasciencecenter.org/",
+                "wheelchair": "yes",
+                "wikidata": "Q1067376"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/California_Science_Center.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 407808585,
+            "lat": 33.7899977,
+            "lon": -118.2588223,
+            "tags": {
+                "addr:city": "Wilmington",
+                "addr:housenumber": "401",
+                "addr:postcode": "90744",
+                "addr:state": "CA",
+                "addr:street": "East M Street",
+                "building": "yes",
+                "building:levels": "3",
+                "ele": "13",
+                "gnis:feature_id": "1702655",
+                "height": "20.0",
+                "lacounty:ain": "7422017900",
+                "lacounty:bld_id": "483011746043",
+                "name": "Banning Residence Museum",
+                "operator": "Department of Recreation and Parks; Friends of Banning Museum",
+                "phone": "+1-310-548-7777",
+                "ref": "California Registered Historical Landmark Number 147",
+                "source": "USGS Geonames",
+                "tourism": "museum",
+                "website": "https://www.thebanningmuseum.org/",
+                "wheelchair": "limited",
+                "wikipedia": "en:Banning House"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Banning_House%2C_Wilmington%2C_California.jpg/1280px-Banning_House%2C_Wilmington%2C_California.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 419961190,
+            "lat": 34.0984408,
+            "lon": -118.2603974,
+            "tags": {
+                "addr:housenumber": "2300",
+                "addr:street": "Silver Lake Boulevard",
+                "architect": "Richard Neutra",
+                "building": "retail",
+                "building:units": "2",
+                "ele": "148.6",
+                "height": "7.7",
+                "heritage": "yes",
+                "historic": "house",
+                "lacounty:ain": "5439004011",
+                "lacounty:bld_id": "482823858311",
+                "name": "Neutra Studio and Residences (VDL Research House)",
+                "start_date": "1939",
+                "tourism": "museum",
+                "wikidata": "Q1693486",
+                "wikipedia": "en:Neutra VDL Studio and Residences"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Neutra_front_gardens.jpg/1280px-Neutra_front_gardens.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 419974642,
+            "lat": 34.1245456,
+            "lon": -118.4792614,
+            "tags": {
+                "addr:city": "Los Angeles",
+                "addr:housenumber": "2701",
+                "addr:postcode": "90049",
+                "addr:state": "CA",
+                "addr:street": "North Sepulveda Boulevard",
+                "building": "yes",
+                "check_date:opening_hours": "2023-07-05",
+                "fee": "yes",
+                "fee:conditional": "no @ (age < 2); no @ Th",
+                "name": "Skirball Cultural Center",
+                "opening_hours": "Tu-Fr 12:00-17:00; Sa,Su 10:00-17:00; Jul 04 off; Sep 16 off; Nov 10-11 off; Nov 23 off;",
+                "tourism": "museum",
+                "website": "https://www.skirball.org/",
+                "wheelchair": "yes"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Milken_Community_High_School.JPG/1280px-Milken_Community_High_School.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 420183344,
+            "lat": 34.1004021,
+            "lon": -118.2936452,
+            "tags": {
+                "building": "yes",
+                "ele": "155.9",
+                "fee": "no",
+                "height": "15.7",
+                "lacounty:ain": "5543011901",
+                "lacounty:bld_id": "472811859048",
+                "name": "Los Angeles Municipal Art Gallery",
+                "opening_hours": "Th-Su 12:00-17:00",
+                "operator": "City of Los Angeles",
+                "phone": "+1 323-644-6269",
+                "tourism": "museum",
+                "website": "https://www.lamag.org/",
+                "wikidata": "Q6682279",
+                "wikipedia": "en:Los Angeles Municipal Art Gallery"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/4800_Hollywood.JPG/1280px-4800_Hollywood.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 422130703,
+            "lat": 34.1485739,
+            "lon": -118.281268,
+            "tags": {
+                "addr:city": "Los Angles",
+                "addr:housenumber": "4700",
+                "addr:postcode": "90027",
+                "addr:state": "CA",
+                "addr:street": "Western Heritage Way",
+                "building": "yes",
+                "check_date:opening_hours": "2025-06-27",
+                "ele": "167.0",
+                "fee": "yes",
+                "fee:conditional": "no @ age < 3",
+                "height": "32.2",
+                "lacounty:ain": "5593002917;5593002905",
+                "lacounty:bld_id": "476577876690;476584876431",
+                "museum": "history",
+                "name": "Autry Museum of the American West",
+                "opening_hours": "Tu-Fr 10:00-16:00, Sa-Su 10:00-17:00",
+                "operator": "Autry Museum of the American West",
+                "operator:type": "nonprofit",
+                "tourism": "museum",
+                "website": "https://theautry.org/",
+                "wheelchair": "yes",
+                "wikidata": "Q4827110",
+                "wikipedia": "en:Autry Museum of the American West"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/01/Autry_Museum_of_the_American_West_Logo.png",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 422130705,
+            "lat": 34.1182134,
+            "lon": -118.3003722,
+            "tags": {
+                "access": "yes",
+                "addr:city": "Los Angeles",
+                "addr:country": "US",
+                "addr:housenumber": "2800",
+                "addr:postcode": "90027",
+                "addr:state": "CA",
+                "addr:street": "East Observatory Road",
+                "building": "yes",
+                "ele": "371.0",
+                "height": "35.9",
+                "lacounty:ain": "5593002913",
+                "lacounty:bld_id": "470757865499",
+                "man_made": "observatory",
+                "museum": "astronomy",
+                "name": "Griffith Observatory",
+                "opening_hours": "Tu-Fr 12:00-22:00; Sa-Su 10:00-22:00",
+                "toilets": "yes",
+                "toilets:wheelchair": "yes",
+                "tourism": "museum",
+                "website": "https://griffithobservatory.org/",
+                "wheelchair": "yes",
+                "wikidata": "Q575901"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Griffith_observatory_2006.jpg/1280px-Griffith_observatory_2006.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 422130706,
+            "lat": 34.1327053,
+            "lon": -118.2838104,
+            "tags": {
+                "attraction": "carousel",
+                "building": "yes",
+                "ele": "154.9",
+                "height": "6.7",
+                "lacounty:ain": "5593002906",
+                "lacounty:bld_id": "475790870792",
+                "name": "Griffith Park Merry-Go-Round",
+                "tourism": "attraction",
+                "website": "https://www.laparks.org/dos/parks/griffithPK/mgr.htm"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/98/Griffith_Park_Zoo_%28B9957%29.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 422130707,
+            "lat": 34.1218839,
+            "lon": -118.2734114,
+            "tags": {
+                "building": "yes",
+                "ele": "129.1",
+                "height": "4.9",
+                "lacounty:ain": "5593002907",
+                "lacounty:bld_id": "478907866847",
+                "layer": "1",
+                "name": "Griffith Park Train Rides",
+                "tourism": "attraction",
+                "website": "https://www.griffithparktrainrides.com/"
+            }
+        },
+        {
+            "type": "way",
+            "id": 422130771,
+            "lat": 34.1491552,
+            "lon": -118.2841734,
+            "tags": {
+                "building": "yes",
+                "ele": "153.6",
+                "height": "12.7",
+                "lacounty:ain": "5593002917",
+                "lacounty:bld_id": "475712876727",
+                "name": "Children's Discovery Center",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/LAzoo.jpg/1280px-LAzoo.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 422131638,
+            "lat": 34.1551702,
+            "lon": -118.3016407,
+            "tags": {
+                "addr:city": "Los Angeles",
+                "addr:housenumber": "5202",
+                "addr:postcode": "90027",
+                "addr:state": "CA",
+                "addr:street": "Zoo Drive",
+                "building": "yes",
+                "ele": "149.1",
+                "height": "3.7",
+                "lacounty:ain": "5581001906",
+                "lacounty:bld_id": "470411878988",
+                "name": "Walt Disney’s Carolwood Barn",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Livestreamers.JPG/1280px-Livestreamers.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 422524239,
+            "lat": 34.0764742,
+            "lon": -118.4296733,
+            "tags": {
+                "building": "yes",
+                "building:units": "1",
+                "ele": "149.6",
+                "height": "12.9",
+                "lacounty:ain": "4359013025",
+                "lacounty:bld_id": "431592850481",
+                "name": "The Playboy Mansion",
+                "source": "Yahoo",
+                "start_date": "1927",
+                "tourism": "attraction",
+                "wheelchair": "yes",
+                "wikidata": "Q1783719",
+                "wikipedia": "en:Playboy Mansion"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Playboy_Mansion_North_Side_2007.jpg/1280px-Playboy_Mansion_North_Side_2007.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 423247003,
+            "lat": 34.0975525,
+            "lon": -118.3291584,
+            "tags": {
+                "addr:city": "Los Angeles",
+                "addr:housenumber": "6200",
+                "addr:postcode": "90028",
+                "addr:state": "CA",
+                "addr:street": "Sunset Boulevard",
+                "brand:wikidata": "Q4747458",
+                "building": "yes",
+                "description": "Formerly Amoeba Music.",
+                "ele": "121.7",
+                "height": "14.5",
+                "lacounty:ain": "5546014058",
+                "lacounty:bld_id": "462017857980",
+                "name": "Lighthouse Immersive (Los Angeles)",
+                "phone": "+1-323-245-6400",
+                "tourism": "museum",
+                "website": "https://www.amoeba.com/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Cinerama_Dome_front.jpg/1280px-Cinerama_Dome_front.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 423247012,
+            "lat": 34.0959378,
+            "lon": -118.3300585,
+            "tags": {
+                "building": "yes",
+                "ele": "115.1",
+                "height": "12.1",
+                "heritage": "yes",
+                "historic": "fire_station",
+                "lacounty:ain": "5546017904",
+                "lacounty:bld_id": "461753857464",
+                "name": "Los Angeles Fire Department Museum and Memorial",
+                "operator": "Los Angeles Fire Department",
+                "source": "Los Angeles Fire Department",
+                "tourism": "museum",
+                "wikidata": "Q11237612",
+                "wikipedia": "en:Los Angeles Fire Department Museum and Memorial"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Engine_Co._No._27_%28Los_Angeles_Fire_Department_Museum%29.JPG/1280px-Engine_Co._No._27_%28Los_Angeles_Fire_Department_Museum%29.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 423448326,
+            "lat": 34.101077,
+            "lon": -118.3383269,
+            "tags": {
+                "addr:city": "Los Angeles",
+                "addr:housenumber": "1660",
+                "addr:state": "CA",
+                "addr:street": "Highland Avenue",
+                "alt_name": "Hollywood History Museum",
+                "building": "retail",
+                "ele": "114",
+                "gnis:feature_id": "2353798",
+                "height": "19.3",
+                "lacounty:ain": "5547012009",
+                "lacounty:bld_id": "459302859349",
+                "name": "The Hollywood Museum",
+                "office": "yes",
+                "source": "USGS Geonames",
+                "start_date": "1916",
+                "tourism": "museum",
+                "website": "https://thehollywoodmuseum.com/",
+                "wikidata": "Q20714427"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Max_Factor_building.JPG/1280px-Max_Factor_building.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 424105889,
+            "lat": 34.1019411,
+            "lon": -118.3414286,
+            "tags": {
+                "addr:city": "Hollywood",
+                "addr:housenumber": "6933",
+                "addr:postcode": "90028",
+                "addr:state": "CA",
+                "addr:street": "Hollywood Boulevard",
+                "branch": "Hollywood",
+                "building": "commercial",
+                "ele": "134.5",
+                "fee": "yes",
+                "height": "15.9",
+                "lacounty:ain": "6336022024",
+                "lacounty:bld_id": "2014102527140000",
+                "museum": "wax",
+                "name": "Madame Tussaud's",
+                "start_date": "2011",
+                "tourism": "museum",
+                "website": "https://www.madametussauds.com/hollywood/",
+                "wikidata": "Q6726337",
+                "wikipedia": "en:Madame Tussauds Hollywood"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/MTH_Logo.jpg/1280px-MTH_Logo.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 425422320,
+            "lat": 34.0450808,
+            "lon": -118.4581835,
+            "tags": {
+                "building": "yes",
+                "ele": "69.2",
+                "height": "4.7",
+                "lacounty:ain": "4263022901",
+                "lacounty:bld_id": "422870839100",
+                "name": "Kuruvungna Springs Cultural Center and Museum",
+                "opening_hours": "Sa[1] 10:00-15:00",
+                "operator": "Gabrielino Tongva Springs Foundation",
+                "operator:type": "private_non_profit",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Stairs_University_High_School_Los_Angeles%2C_California_02.jpg/1280px-Stairs_University_High_School_Los_Angeles%2C_California_02.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 426254718,
+            "lat": 34.0610338,
+            "lon": -118.2710895,
+            "tags": {
+                "addr:city": "Los Angeles",
+                "addr:housenumber": "403",
+                "addr:postcode": "90057",
+                "addr:state": "CA",
+                "addr:street": "South Bonnie Brae Street",
+                "building": "house",
+                "building:units": "1",
+                "ele": "132.1",
+                "height": "12.6",
+                "lacounty:ain": "5154027007",
+                "lacounty:bld_id": "479566844703",
+                "name": "Grier-Musser Museum",
+                "start_date": "1898",
+                "tourism": "museum"
+            }
+        },
+        {
+            "type": "way",
+            "id": 426357426,
+            "lat": 34.0632021,
+            "lon": -118.359902,
+            "tags": {
+                "alt_name": "Broad Contemporary Art Museum at LACMA",
+                "building": "museum",
+                "building:levels": "3",
+                "ele": "80.5",
+                "height": "29.4",
+                "lacounty:ain": "5508017007",
+                "lacounty:bld_id": "452614845596",
+                "name": "Broad Contemporary Art Museum",
+                "start_date": "1939",
+                "tourism": "museum",
+                "wikidata": "Q162154"
+            }
+        },
+        {
+            "type": "way",
+            "id": 426357435,
+            "lat": 34.0641763,
+            "lon": -118.3586367,
+            "tags": {
+                "building": "yes",
+                "building:levels": "1",
+                "ele": "55.6",
+                "geological": "palaeontological_site",
+                "height": "3.3",
+                "historic": "archaeological_site",
+                "lacounty:ain": "5508016901",
+                "lacounty:bld_id": "453048845932",
+                "name": "Observation Pit",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/5900_Wilshire%2C_Los_Angeles%2C_August_2024.JPG/1280px-5900_Wilshire%2C_Los_Angeles%2C_August_2024.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 426727924,
+            "lat": 34.1014579,
+            "lon": -118.3866794,
+            "tags": {
+                "addr:housenumber": "1567",
+                "addr:street": "Blue Jay Way",
+                "building": "house",
+                "building:units": "1",
+                "ele": "341.0",
+                "height": "4.9",
+                "lacounty:ain": "5561011009",
+                "lacounty:bld_id": "444621859544",
+                "name": "The Blue Jay Way House",
+                "start_date": "1964",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "way",
+            "id": 427128974,
+            "lat": 34.1085321,
+            "lon": -118.3361185,
+            "tags": {
+                "addr:state": "CA",
+                "building": "yes",
+                "building:levels": "1",
+                "building:name": "Lasky-DeMille Barn",
+                "building:wikidata": "Q3928909",
+                "building:wikipedia": "en:Lasky-DeMille Barn",
+                "check_date": "2023-07-05",
+                "ele": "137",
+                "fee": "yes",
+                "fee:conditional": "no @ (age < 12)",
+                "gnis:feature_id": "2353794",
+                "height": "8.1",
+                "lacounty:ain": "5575019908",
+                "lacounty:bld_id": "459936862065",
+                "name": "Hollywood Heritage Museum",
+                "opening_hours": "Sa,Su 11:00-15:00",
+                "tourism": "museum",
+                "website": "https://www.hollywoodheritage.org/",
+                "wikidata": "Q3911675",
+                "wikipedia": "en:Hollywood Heritage Museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Highland-Camrose_Bungalow_Village.JPG/1280px-Highland-Camrose_Bungalow_Village.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 427130182,
+            "lat": 34.034201,
+            "lon": -118.2846861,
+            "tags": {
+                "ele": "68.2",
+                "height": "6.3",
+                "lacounty:ain": "5055021023",
+                "lacounty:bld_id": "475415834950",
+                "museum": "art",
+                "name": "The Velaslavasay Panorama",
+                "start_date": "1910",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Velaslavasay_Panorama_Marquee.jpg/1280px-Velaslavasay_Panorama_Marquee.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 427532197,
+            "lat": 34.0544575,
+            "lon": -118.2505946,
+            "tags": {
+                "addr:city": "Los Angeles",
+                "addr:housenumber": "221",
+                "addr:postcode": "90012",
+                "addr:state": "CA",
+                "addr:street": "South Grand Avenue",
+                "building": "yes",
+                "building:levels": "3",
+                "check_date": "2025-03-22",
+                "ele": "144.2",
+                "fee": "no",
+                "height": "27.4",
+                "lacounty:ain": "5123018033",
+                "lacounty:bld_id": "2014092961390000",
+                "museum": "art",
+                "name": "The Broad Museum",
+                "opening_hours": "Mo off; Tu-We,Fr 11:00-17:00; Th 11:00-20:00; Sa-Su 10:00-18:00",
+                "phone": "+1-213-232-6200",
+                "source": "survey",
+                "start_date": "2011",
+                "tourism": "museum",
+                "website": "https://thebroad.org/",
+                "wheelchair": "yes",
+                "wikidata": "Q17060100",
+                "wikipedia": "en:The Broad"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Nighttime_view_of_the_Broad_in_LA%2C_corner_dllu.jpg/1280px-Nighttime_view_of_the_Broad_in_LA%2C_corner_dllu.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 427817500,
+            "lat": 34.0504241,
+            "lon": -118.2385695,
+            "tags": {
+                "addr:city": "Los Angeles",
+                "addr:housenumber": "152",
+                "addr:postcode": "90012",
+                "addr:state": "CA",
+                "addr:street": "Central Avenue",
+                "building": "yes",
+                "check_date": "2023-07-05",
+                "ele": "83",
+                "fee": "yes",
+                "fee:conditional": "no @ (age < 12); yes @ special exhibitions",
+                "gnis:feature_id": "1732713",
+                "height": "11.3",
+                "lacounty:ain": "5161012905",
+                "lacounty:bld_id": "2014092852570000",
+                "name": "The Geffen Contemporary",
+                "old_name": "The Museum of Contemporary Art",
+                "opening_hours": "Tu-Fr 11:00-17:00; Th 11:00-20:00; Sa,Su 11:00-18:00",
+                "source": "USGS Geonames",
+                "tourism": "museum",
+                "website": "https://www.moca.org/visit/geffen-contemporary",
+                "wikidata": "Q118637994"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/01/11-11-06-FarEastCafe-LittleTokyo.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 427817502,
+            "lat": 34.0506792,
+            "lon": -118.2400218,
+            "tags": {
+                "addr:housenumber": "120",
+                "addr:street": "Judge John Aiso St.",
+                "building": "yes",
+                "ele": "99.6",
+                "height": "16.4",
+                "lacounty:ain": "5161012909",
+                "lacounty:bld_id": "489015840889",
+                "name": "Union Center for the Arts",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/01/11-11-06-FarEastCafe-LittleTokyo.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 427942903,
+            "lat": 34.04676,
+            "lon": -118.2510922,
+            "tags": {
+                "addr:city": "Los Angeles",
+                "addr:housenumber": "452",
+                "addr:postcode": "90013",
+                "addr:state": "CA",
+                "addr:street": "South Broadway",
+                "building": "yes",
+                "ele": "132.2",
+                "height": "51.3",
+                "lacounty:ain": "5149035013",
+                "lacounty:bld_id": "485496839514",
+                "name": "Spring Arcade Building",
+                "start_date": "1924",
+                "tourism": "attraction",
+                "website": "http://www.springarcadebuilding.com/",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "way",
+            "id": 428152638,
+            "lat": 34.0284646,
+            "lon": -118.2472636,
+            "tags": {
+                "addr:housenumber": "1401",
+                "addr:postcode": "90021",
+                "addr:street": "South Central Avenue",
+                "building": "yes",
+                "ele": "83.8",
+                "height": "12.1",
+                "historic": "building",
+                "lacounty:ain": "5132023901",
+                "lacounty:bld_id": "486713832837",
+                "name": "African American Firefighter Museum",
+                "operator": "African American Firefighter Museum",
+                "phone": "+1 213-744-1730",
+                "tourism": "museum",
+                "website": "https://www.aaffmuseum.org/",
+                "wikidata": "Q5451472",
+                "wikipedia": "en:Fire Station No. 30, Engine Company No. 30"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Fire_Station_No._30_%28African_American_Firefighters_Museum%29.jpg/1280px-Fire_Station_No._30_%28African_American_Firefighters_Museum%29.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 428616473,
+            "lat": 34.1181063,
+            "lon": -118.1876645,
+            "tags": {
+                "addr:city": "Los Angeles",
+                "addr:housenumber": "6045",
+                "addr:postcode": "90042",
+                "addr:state": "CA",
+                "addr:street": "York Boulevard",
+                "building": "yes",
+                "ele": "196.2;181",
+                "gnis:feature_id": "1744904",
+                "height": "15.8",
+                "lacounty:ain": "5484007900",
+                "lacounty:bld_id": "504868865413",
+                "name": "Los Angeles Police Museum",
+                "old_name": "Northeast Community Police Station",
+                "old_name:source": "USGS Geonames",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/HighlandParkPoliceStation.1.jpg/1280px-HighlandParkPoliceStation.1.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 429157311,
+            "lat": 34.0931734,
+            "lon": -118.2069066,
+            "tags": {
+                "addr:state": "CA",
+                "building": "yes",
+                "ele": "122",
+                "gnis:feature_id": "245296",
+                "height": "7.0",
+                "historic": "house",
+                "lacounty:ain": "5467003900",
+                "lacounty:bld_id": "499031856330",
+                "name": "Lummis Home",
+                "source": "USGS Geonames",
+                "tourism": "museum",
+                "wikidata": "Q6703371",
+                "wikipedia": "en:Lummis House"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Lummis_House_in_Los_Angeles%2C_California.jpg/1280px-Lummis_House_in_Los_Angeles%2C_California.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 430017564,
+            "lat": 34.259803,
+            "lon": -118.6150603,
+            "tags": {
+                "building": "yes",
+                "ele": "300.2",
+                "height": "5.0",
+                "lacounty:ain": "2723010904",
+                "lacounty:bld_id": "375818917495",
+                "museum": "history",
+                "name": "Virginia Watson Chatsworth Museum",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Minnie_Hill_Palmer_House%2C_Chatsworth.jpg/1280px-Minnie_Hill_Palmer_House%2C_Chatsworth.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 430342926,
+            "lat": 34.2729375,
+            "lon": -118.4621439,
+            "tags": {
+                "addr:city": "Mission Hills",
+                "addr:country": "US",
+                "addr:postcode": "91345",
+                "addr:state": "CA",
+                "addr:street": "San Fernando Mission Boulevard",
+                "building": "yes",
+                "building:colour": "#e9d3a5",
+                "building:levels": "2",
+                "ele": "309.1",
+                "height": "11.4",
+                "historic": "building",
+                "lacounty:ain": "2664001022",
+                "lacounty:bld_id": "422081922036",
+                "material": "adobe",
+                "name": "Convento",
+                "name:en": "Convent",
+                "name:es": "Convento",
+                "roof:colour": "#cd6d52",
+                "roof:material": "roof_tiles",
+                "roof:orientation": "along",
+                "roof:shape": "gabled",
+                "source_ref": "https://commons.wikimedia.org/wiki/File:Mission_San_Fernando_Rey_de_Espana,_Monastery,_San_Fernando_Mission_Road,_San_Fernando,_Los_Angeles_County,_CA_HABS_CAL,19-SANF,2A-_(sheet_1_of_7).png",
+                "start_date": "1939",
+                "tourism": "attraction",
+                "wikidata": "Q5166334"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/88/Mission_San_Fernando_Postcard%2C_circa_1900.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 430894601,
+            "lat": 34.3073498,
+            "lon": -118.4640143,
+            "tags": {
+                "addr:city": "Sylmar",
+                "addr:housenumber": "15151",
+                "addr:postcode": "91342",
+                "addr:state": "CA",
+                "addr:street": "Bledsoe Street",
+                "building": "warehouse",
+                "building:units": "2",
+                "ele": "386.2",
+                "height": "10.6",
+                "lacounty:ain": "2501006043",
+                "lacounty:bld_id": "421562934551",
+                "name": "Nethercutt Museum",
+                "opening_hours": "Tu-Sa 09:00-16:30",
+                "start_date": "1999",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Nethercuttgrandsalon.jpg/1280px-Nethercuttgrandsalon.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 431111420,
+            "lat": 34.2025085,
+            "lon": -118.601259,
+            "tags": {
+                "amenity": "community_centre",
+                "building": "yes",
+                "ele": "256.0",
+                "height": "11.9",
+                "lacounty:ain": "2111019904",
+                "lacounty:bld_id": "379911896622",
+                "name": "West Valley Museum",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Cppo_pic.jpg/1280px-Cppo_pic.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 431840847,
+            "lat": 34.2348664,
+            "lon": -118.5452779,
+            "tags": {
+                "building": "yes",
+                "building:units": "1",
+                "ele": "254.5",
+                "height": "3.7",
+                "lacounty:ain": "2784002011",
+                "lacounty:bld_id": "396860908293",
+                "museum": "history",
+                "name": "Museum of the San Fernando Valley",
+                "start_date": "1920",
+                "tourism": "museum"
+            }
+        },
+        {
+            "type": "way",
+            "id": 642008252,
+            "lat": 34.025283,
+            "lon": -118.2851105,
+            "tags": {
+                "amenity": "fountain",
+                "name": "USC Village Fountain",
+                "surface": "water",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "way",
+            "id": 874923046,
+            "lat": 34.0167077,
+            "lon": -118.2832924,
+            "tags": {
+                "aircraft:type": "airliner",
+                "historic": "aircraft",
+                "layer": "1",
+                "manufacturer": "Douglas",
+                "manufacturer:wikidata": "Q651778",
+                "model": "DC-8",
+                "model:wikidata": "Q223315",
+                "name": "Douglas DC-8",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/California_African_American_Museum_exterior.jpg/1280px-California_African_American_Museum_exterior.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 894010734,
+            "lat": 34.047661,
+            "lon": -118.2412828,
+            "tags": {
+                "leisure": "garden",
+                "name": "James Irvine Japanese Garden",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/National_Japanese_American_Veterans_Memorial_Court.jpg/1280px-National_Japanese_American_Veterans_Memorial_Court.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 905248736,
+            "lat": 34.0559729,
+            "lon": -118.2388706,
+            "tags": {
+                "addr:city": "Los Angeles",
+                "addr:housenumber": "501",
+                "addr:postcode": "90012",
+                "addr:state": "CA",
+                "addr:street": "North Los Angeles Street",
+                "building": "yes",
+                "museum": "history",
+                "name": "Plaza Fire House",
+                "opening_hours": "Tu-Su 10:00-15:00",
+                "phone": "+1 213 485 8437",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Oldplazafirehouse.JPG/1280px-Oldplazafirehouse.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 905248737,
+            "lat": 34.0572276,
+            "lon": -118.2378127,
+            "tags": {
+                "addr:city": "Los Angeles",
+                "addr:housenumber": "10",
+                "addr:postcode": "90012",
+                "addr:state": "CA",
+                "addr:street": "Olvera Street",
+                "museum": "history",
+                "name": "Avila Adobe",
+                "opening_hours": "Mo-Su 09:00-16:00",
+                "phone": "+1 213 680 2525",
+                "tourism": "museum",
+                "wikidata": "Q4828838",
+                "wikipedia": "en:Ávila Adobe"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Avila_Adobe%2C_Olvera_Street%2C_Los_Angeles.JPG/1280px-Avila_Adobe%2C_Olvera_Street%2C_Los_Angeles.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 913293590,
+            "lat": 34.0636022,
+            "lon": -118.3608216,
+            "tags": {
+                "addr:city": "Los Angeles",
+                "addr:housenumber": "6067",
+                "addr:postcode": "90036",
+                "addr:state": "CA",
+                "addr:street": "Wilshire Boulevard",
+                "contact:facebook": "https://www.facebook.com/theacademymuseum",
+                "contact:instagram": "https://www.instagram.com/academymuseum/",
+                "contact:twitter": "https://twitter.com/AcademyMuseum",
+                "contact:youtube": "https://www.youtube.com/channel/UCgXYV8asjAC9iLPnpe43-GQ",
+                "email": "academymuseum@oscars.org",
+                "image": "https://upload.wikimedia.org/wikipedia/commons/8/8e/The_May_Company_Building_2021.jpg",
+                "name": "Academy Museum of Motion Pictures",
+                "note": "opens Sept 2021",
+                "opening_hours": "10:00-18:00; Fr,Sa 10:00-20:00",
+                "operator": "Academy of Motion Picture Arts and Sciences",
+                "operator:type": "private",
+                "operator:wikidata": "Q212329",
+                "phone": "+1-323-930-3000",
+                "short_name": "Academy Museum",
+                "start_date": "2021-09-30",
+                "subject:wikidata": "Q590870",
+                "tourism": "museum",
+                "website": "https://www.academymuseum.org/",
+                "wikidata": "Q6941059",
+                "wikipedia": "en:Academy Museum of Motion Pictures"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/The_May_Company_Building_2021.jpg/1280px-The_May_Company_Building_2021.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 913293610,
+            "lat": 34.0636986,
+            "lon": -118.356777,
+            "tags": {
+                "geological": "palaeontological_site",
+                "museum": "science",
+                "name": "La Brea Tar Pits and Museum",
+                "tourism": "museum",
+                "website": "https://tarpits.org/",
+                "wikidata": "Q1147168",
+                "wikipedia": "en:La Brea Tar Pits"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/La_Brea_Tar_Pits_logo.svg/1280px-La_Brea_Tar_Pits_logo.svg.png",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 913343446,
+            "lat": 34.0623507,
+            "lon": -118.3611893,
+            "tags": {
+                "addr:city": "Los Angeles",
+                "addr:country": "US",
+                "addr:housenumber": "6060",
+                "addr:postcode": "90036",
+                "addr:state": "CA",
+                "addr:street": "Wilshire Boulevard",
+                "air_conditioning": "yes",
+                "building": "yes",
+                "building:use": "auditorium",
+                "check_date": "2026-03-18",
+                "ele": "75.3",
+                "email": "info@petersen.org",
+                "height": "27.8",
+                "lacounty:ain": "5086009014",
+                "lacounty:bld_id": "2014102430550000",
+                "museum": "transport",
+                "name": "Petersen Automotive Museum",
+                "opening_hours": "Mo-Su 10:00-17:00",
+                "phone": "+1 323 930 2277",
+                "start_date": "1961",
+                "toilets": "yes",
+                "tourism": "museum",
+                "website": "https://www.petersen.org/",
+                "wikidata": "Q2358105",
+                "wikipedia": "en:Petersen Automotive Museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Petersen_Automotive_Museum.jpg/1280px-Petersen_Automotive_Museum.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 1051767618,
+            "lat": 34.1017451,
+            "lon": -118.3274734,
+            "tags": {
+                "footway": "sidewalk",
+                "highway": "footway",
+                "name": "Walk of Fame",
+                "surface": "paved",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Hallmark_bldg.jpg/1280px-Hallmark_bldg.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 1051767619,
+            "lat": 34.1017488,
+            "lon": -118.328183,
+            "tags": {
+                "crossing": "traffic_signals",
+                "footway": "crossing",
+                "highway": "footway",
+                "name": "Walk of Fame",
+                "surface": "paved",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Guaranty_Building%2C_Hollywood%2C_California.JPG/1280px-Guaranty_Building%2C_Hollywood%2C_California.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 1051767620,
+            "lat": 34.1016875,
+            "lon": -118.3354504,
+            "tags": {
+                "footway": "sidewalk",
+                "highway": "footway",
+                "layer": "1",
+                "lit": "yes",
+                "name": "Walk of Fame",
+                "smoothness": "good",
+                "surface": "paving_stones",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Musso%26Franks_05.jpg/1280px-Musso%26Franks_05.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 1051767621,
+            "lat": 34.1016897,
+            "lon": -118.3347591,
+            "tags": {
+                "crossing": "traffic_signals",
+                "footway": "crossing",
+                "highway": "footway",
+                "lit": "yes",
+                "name": "Walk of Fame",
+                "smoothness": "good",
+                "surface": "paving_stones",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Cherokee_bldg.jpg/1280px-Cherokee_bldg.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 1059255187,
+            "lat": 34.1031907,
+            "lon": -118.3265684,
+            "tags": {
+                "footway": "sidewalk",
+                "highway": "footway",
+                "name": "Walk of Fame",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Capitol_Studios_logo.svg/1280px-Capitol_Studios_logo.svg.png",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 1067268202,
+            "lat": 34.0163973,
+            "lon": -118.2873012,
+            "tags": {
+                "aircraft:type": "rocket",
+                "historic": "aircraft",
+                "model:wikidata": "Q1061044",
+                "name": "Shuttle Fuel Tank",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Natural_History_Museum_of_Los_Angeles_County_Logo.png",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 1086896800,
+            "lat": 34.0164758,
+            "lon": -118.2838195,
+            "tags": {
+                "access": "yes",
+                "aircraft:type": "military",
+                "historic": "aircraft",
+                "layer": "1",
+                "manufacturer": "Lockheed",
+                "manufacturer:wikidata": "Q7233",
+                "model": "F-104 Starfighter",
+                "model:wikidata": "Q159881",
+                "name": "Lockheed F-104 Starfighter",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/California_African_American_Museum_exterior.jpg/1280px-California_African_American_Museum_exterior.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 1086898495,
+            "lat": 34.0163638,
+            "lon": -118.2861289,
+            "tags": {
+                "access": "yes",
+                "aircraft:type": "military",
+                "historic": "aircraft",
+                "layer": "1",
+                "manufacturer": "McDonnell Douglas",
+                "manufacturer:wikidata": "Q201815",
+                "model": "F/A-18 Hornet",
+                "model:wikidata": "Q46397",
+                "name": "McDonnell Douglas F/A-18 Hornet",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Exposition_Park_Rose_Garden%2C_Los_Angeles.JPG/1280px-Exposition_Park_Rose_Garden%2C_Los_Angeles.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 1188534037,
+            "lat": 34.3208071,
+            "lon": -118.4802025,
+            "tags": {
+                "addr:city": "Rancho Cascades",
+                "addr:housenumber": "16027",
+                "addr:postcode": "91342",
+                "addr:state": "CA",
+                "addr:street": "Yarnell Street",
+                "charge": "15 USD",
+                "email": "info@wildlifelearningcenter.com",
+                "fee": "yes",
+                "name": "Wildlife Learning and Conservation Center",
+                "opening_hours": "Mo-Fr 10:00-17:00",
+                "operator": "Wildlife Learning and Conservation Center",
+                "phone": "+1-818-362-8711",
+                "tourism": "zoo",
+                "website": "https://www.wildlifelearningcenter.org/",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "way",
+            "id": 1253423498,
+            "lat": 34.1017424,
+            "lon": -118.3285027,
+            "tags": {
+                "footway": "sidewalk",
+                "highway": "footway",
+                "lit": "yes",
+                "name": "Walk of Fame",
+                "smoothness": "good",
+                "surface": "paving_stones",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Regal_shoes_bldg.jpg/1280px-Regal_shoes_bldg.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 1253423499,
+            "lat": 34.101734,
+            "lon": -118.3288753,
+            "tags": {
+                "covered": "yes",
+                "footway": "sidewalk",
+                "highway": "footway",
+                "lit": "yes",
+                "name": "Walk of Fame",
+                "smoothness": "good",
+                "surface": "paving_stones",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Security_Trust_and_Savings%2C_Hollywood%2C_California.JPG/1280px-Security_Trust_and_Savings%2C_Hollywood%2C_California.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 1281075467,
+            "lat": 34.1017545,
+            "lon": -118.3259517,
+            "tags": {
+                "footway": "sidewalk",
+                "highway": "footway",
+                "name": "Walk of Fame",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Pantages_Theater%2C_Hollywood%2C_LA%2C_CA%2C_jjron_21.03.2012.jpg/1280px-Pantages_Theater%2C_Hollywood%2C_LA%2C_CA%2C_jjron_21.03.2012.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 1281075469,
+            "lat": 34.1015195,
+            "lon": -118.3259514,
+            "tags": {
+                "footway": "sidewalk",
+                "highway": "footway",
+                "name": "Walk of Fame",
+                "surface": "paving_stones",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Taft_Building_Los_Angeles.jpg/1280px-Taft_Building_Los_Angeles.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 1281075475,
+            "lat": 34.1015241,
+            "lon": -118.3244772,
+            "tags": {
+                "footway": "sidewalk",
+                "highway": "footway",
+                "name": "Walk of Fame",
+                "surface": "paving_stones",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "way",
+            "id": 1355284904,
+            "lat": 34.1012705,
+            "lon": -118.3449836,
+            "tags": {
+                "crossing": "uncontrolled",
+                "crossing:markings": "surface",
+                "crossing:signals": "no",
+                "footway": "crossing",
+                "highway": "footway",
+                "name": "Walk of Fame",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "way",
+            "id": 1355284905,
+            "lat": 34.1012208,
+            "lon": -118.3449653,
+            "tags": {
+                "footway": "sidewalk",
+                "highway": "footway",
+                "name": "Walk of Fame",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "way",
+            "id": 1355284906,
+            "lat": 34.1016835,
+            "lon": -118.3451309,
+            "tags": {
+                "footway": "sidewalk",
+                "highway": "footway",
+                "name": "Walk of Fame",
+                "surface": "asphalt",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "way",
+            "id": 1355284914,
+            "lat": 34.1016851,
+            "lon": -118.3449501,
+            "tags": {
+                "footway": "sidewalk",
+                "highway": "footway",
+                "name": "Walk of Fame",
+                "name:zh": "星光大道",
+                "surface": "paved",
+                "tourism": "attraction",
+                "wikidata": "Q71719",
+                "wikipedia": "en:Hollywood Walk of Fame"
+            }
+        },
+        {
+            "type": "way",
+            "id": 1355284915,
+            "lat": 34.1016711,
+            "lon": -118.3446991,
+            "tags": {
+                "crossing": "marked",
+                "crossing:markings": "zebra",
+                "crossing:signals": "no",
+                "footway": "crossing",
+                "highway": "footway",
+                "name": "Walk of Fame",
+                "name:zh": "星光大道",
+                "surface": "paved",
+                "tourism": "attraction",
+                "wikidata": "Q71719",
+                "wikipedia": "en:Hollywood Walk of Fame"
+            }
+        },
+        {
+            "type": "way",
+            "id": 1416584422,
+            "lat": 34.1016782,
+            "lon": -118.3380116,
+            "tags": {
+                "footway": "sidewalk",
+                "highway": "footway",
+                "layer": "1",
+                "lit": "yes",
+                "name": "Walk of Fame",
+                "smoothness": "good",
+                "surface": "paving_stones",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/The_theater-like_%22Hollywood%22_sign_and_marquee_surmount_the_Guinness_World_Records_museum_on_Hollywood_Boulevard_in_the_Los_Angeles_neighborhood_of_the_same_name_LCCN2013631463.tif/lossy-page1-1280px-thumbnail.tif.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 1416584423,
+            "lat": 34.1016708,
+            "lon": -118.3374133,
+            "tags": {
+                "crossing": "traffic_signals",
+                "footway": "crossing",
+                "highway": "footway",
+                "layer": "1",
+                "lit": "yes",
+                "name": "Walk of Fame",
+                "smoothness": "good",
+                "surface": "paving_stones",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/The_theater-like_%22Hollywood%22_sign_and_marquee_surmount_the_Guinness_World_Records_museum_on_Hollywood_Boulevard_in_the_Los_Angeles_neighborhood_of_the_same_name_LCCN2013631463.tif/lossy-page1-1280px-thumbnail.tif.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 1416584432,
+            "lat": 34.101676,
+            "lon": -118.3368096,
+            "tags": {
+                "footway": "sidewalk",
+                "highway": "footway",
+                "layer": "1",
+                "lit": "yes",
+                "name": "Walk of Fame",
+                "smoothness": "good",
+                "surface": "paving_stones",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c0/2014.04.10.pig.and.whistle.6712.hollywood.blvd.jpg/1280px-2014.04.10.pig.and.whistle.6712.hollywood.blvd.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 1416584433,
+            "lat": 34.1016749,
+            "lon": -118.3361547,
+            "tags": {
+                "crossing": "traffic_signals",
+                "footway": "crossing",
+                "highway": "footway",
+                "layer": "1",
+                "lit": "yes",
+                "name": "Walk of Fame",
+                "smoothness": "good",
+                "surface": "paving_stones",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Outpost_bldg.jpg/1280px-Outpost_bldg.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 1416584434,
+            "lat": 34.1016785,
+            "lon": -118.3362425,
+            "tags": {
+                "footway": "sidewalk",
+                "highway": "footway",
+                "layer": "1",
+                "lit": "yes",
+                "name": "Walk of Fame",
+                "smoothness": "good",
+                "surface": "paving_stones",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Outpost_bldg.jpg/1280px-Outpost_bldg.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 1416584440,
+            "lat": 34.101438,
+            "lon": -118.3378044,
+            "tags": {
+                "footway": "sidewalk",
+                "highway": "footway",
+                "name": "Walk of Fame",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/The_theater-like_%22Hollywood%22_sign_and_marquee_surmount_the_Guinness_World_Records_museum_on_Hollywood_Boulevard_in_the_Los_Angeles_neighborhood_of_the_same_name_LCCN2013631463.tif/lossy-page1-1280px-thumbnail.tif.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 1416584441,
+            "lat": 34.1014564,
+            "lon": -118.3361537,
+            "tags": {
+                "crossing": "traffic_signals",
+                "footway": "crossing",
+                "highway": "footway",
+                "name": "Walk of Fame",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Miceli%27s_in_Hollywood.jpg/1280px-Miceli%27s_in_Hollywood.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 1416584445,
+            "lat": 34.1017032,
+            "lon": -118.3340549,
+            "tags": {
+                "footway": "sidewalk",
+                "highway": "footway",
+                "lit": "yes",
+                "name": "Walk of Fame",
+                "smoothness": "good",
+                "surface": "paving_stones",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Orient_bldg.jpg/1280px-Orient_bldg.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 1416584446,
+            "lat": 34.1017171,
+            "lon": -118.3333487,
+            "tags": {
+                "crossing": "traffic_signals",
+                "footway": "crossing",
+                "highway": "footway",
+                "lit": "yes",
+                "name": "Walk of Fame",
+                "smoothness": "good",
+                "surface": "paving_stones",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Baine_bldg_2.jpg/1280px-Baine_bldg_2.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 1416584458,
+            "lat": 34.1017134,
+            "lon": -118.3326995,
+            "tags": {
+                "footway": "sidewalk",
+                "highway": "footway",
+                "lit": "yes",
+                "name": "Walk of Fame",
+                "smoothness": "good",
+                "surface": "paving_stones",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/20161005_Broadway_Hollywood_Building_from_Hollywood_and_Vine_%282%29.jpg/1280px-20161005_Broadway_Hollywood_Building_from_Hollywood_and_Vine_%282%29.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 1416584459,
+            "lat": 34.1017044,
+            "lon": -118.3320642,
+            "tags": {
+                "crossing": "uncontrolled",
+                "crossing:markings": "yes",
+                "footway": "crossing",
+                "highway": "footway",
+                "lit": "yes",
+                "name": "Walk of Fame",
+                "smoothness": "good",
+                "surface": "paving_stones",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Holly_cinema.jpg/1280px-Holly_cinema.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 1416584460,
+            "lat": 34.1017077,
+            "lon": -118.3321169,
+            "tags": {
+                "footway": "sidewalk",
+                "highway": "footway",
+                "lit": "yes",
+                "name": "Walk of Fame",
+                "smoothness": "good",
+                "surface": "paving_stones",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Hillview_apts.jpg/1280px-Hillview_apts.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 1416584461,
+            "lat": 34.1017089,
+            "lon": -118.3320111,
+            "tags": {
+                "footway": "sidewalk",
+                "highway": "footway",
+                "lit": "yes",
+                "name": "Walk of Fame",
+                "smoothness": "good",
+                "surface": "paving_stones",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Holly_cinema.jpg/1280px-Holly_cinema.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 1416593256,
+            "lat": 34.1014498,
+            "lon": -118.3365824,
+            "tags": {
+                "footway": "sidewalk",
+                "highway": "footway",
+                "name": "Walk of Fame",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c0/2014.04.10.pig.and.whistle.6712.hollywood.blvd.jpg/1280px-2014.04.10.pig.and.whistle.6712.hollywood.blvd.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 1416593257,
+            "lat": 34.101451,
+            "lon": -118.3369902,
+            "tags": {
+                "crossing": "traffic_signals",
+                "footway": "crossing",
+                "highway": "footway",
+                "name": "Walk of Fame",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c0/2014.04.10.pig.and.whistle.6712.hollywood.blvd.jpg/1280px-2014.04.10.pig.and.whistle.6712.hollywood.blvd.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 1416593260,
+            "lat": 34.101453,
+            "lon": -118.3355906,
+            "tags": {
+                "footway": "sidewalk",
+                "highway": "footway",
+                "name": "Walk of Fame",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Musso%26Franks_05.jpg/1280px-Musso%26Franks_05.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 1416593261,
+            "lat": 34.1014571,
+            "lon": -118.3350435,
+            "tags": {
+                "crossing": "uncontrolled",
+                "crossing:markings": "yes",
+                "footway": "crossing",
+                "highway": "footway",
+                "name": "Walk of Fame",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Musso%26Franks_05.jpg/1280px-Musso%26Franks_05.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 1416593263,
+            "lat": 34.1014629,
+            "lon": -118.333773,
+            "tags": {
+                "footway": "sidewalk",
+                "highway": "footway",
+                "name": "Walk of Fame",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Orient_bldg.jpg/1280px-Orient_bldg.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 1416593264,
+            "lat": 34.1014811,
+            "lon": -118.3325087,
+            "tags": {
+                "crossing": "uncontrolled",
+                "crossing:markings": "yes",
+                "footway": "crossing",
+                "highway": "footway",
+                "name": "Walk of Fame",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Consumer_drug_bldg.jpg/1280px-Consumer_drug_bldg.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 1417022385,
+            "lat": 34.1014811,
+            "lon": -118.3317992,
+            "tags": {
+                "footway": "sidewalk",
+                "highway": "footway",
+                "name": "Walk of Fame",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "way",
+            "id": 1417022386,
+            "lat": 34.1014883,
+            "lon": -118.3310471,
+            "tags": {
+                "crossing": "traffic_signals",
+                "crossing:markings": "zebra",
+                "footway": "crossing",
+                "highway": "footway",
+                "name": "Walk of Fame",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Hollywood_fox_theatre.jpg/1280px-Hollywood_fox_theatre.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 1417022387,
+            "lat": 34.1017114,
+            "lon": -118.3315723,
+            "tags": {
+                "footway": "sidewalk",
+                "highway": "footway",
+                "lit": "yes",
+                "name": "Walk of Fame",
+                "smoothness": "good",
+                "surface": "paving_stones",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "way",
+            "id": 1417022388,
+            "lat": 34.1017079,
+            "lon": -118.3310552,
+            "tags": {
+                "crossing": "traffic_signals",
+                "crossing:markings": "zebra",
+                "footway": "crossing",
+                "highway": "footway",
+                "lit": "yes",
+                "name": "Walk of Fame",
+                "smoothness": "good",
+                "surface": "paving_stones",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Hollywood_Pacific_Theater_2010.JPG/1280px-Hollywood_Pacific_Theater_2010.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 1417156715,
+            "lat": 34.1017302,
+            "lon": -118.3292307,
+            "tags": {
+                "footway": "sidewalk",
+                "highway": "footway",
+                "lit": "yes",
+                "name": "Walk of Fame",
+                "smoothness": "good",
+                "surface": "paving_stones",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Security_Trust_and_Savings%2C_Hollywood%2C_California.JPG/1280px-Security_Trust_and_Savings%2C_Hollywood%2C_California.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 1417156716,
+            "lat": 34.1017275,
+            "lon": -118.3295521,
+            "tags": {
+                "crossing": "traffic_signals",
+                "footway": "crossing",
+                "highway": "footway",
+                "lit": "yes",
+                "name": "Walk of Fame",
+                "smoothness": "good",
+                "surface": "paving_stones",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Raymond_Chandler_%28Lady_in_the_Lake_portrait%2C_1943%29.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 1417177374,
+            "lat": 34.1014859,
+            "lon": -118.3303002,
+            "tags": {
+                "footway": "sidewalk",
+                "highway": "footway",
+                "name": "Walk of Fame",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Attie_bldg.jpg/1280px-Attie_bldg.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 1417177376,
+            "lat": 34.101489,
+            "lon": -118.3295394,
+            "tags": {
+                "crossing": "traffic_signals",
+                "footway": "crossing",
+                "highway": "footway",
+                "name": "Walk of Fame",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "way",
+            "id": 1417177384,
+            "lat": 34.1015131,
+            "lon": -118.3274572,
+            "tags": {
+                "footway": "sidewalk",
+                "highway": "footway",
+                "name": "Walk of Fame",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Hallmark_bldg.jpg/1280px-Hallmark_bldg.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 1417177385,
+            "lat": 34.1015,
+            "lon": -118.3281798,
+            "tags": {
+                "crossing": "traffic_signals",
+                "footway": "crossing",
+                "highway": "footway",
+                "name": "Walk of Fame",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Guaranty_Building%2C_Hollywood%2C_California.JPG/1280px-Guaranty_Building%2C_Hollywood%2C_California.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 1417177387,
+            "lat": 34.1006922,
+            "lon": -118.32656,
+            "tags": {
+                "footway": "sidewalk",
+                "highway": "footway",
+                "name": "Walk of Fame",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Hollywood_Plaza_Hotel_view_from_southeast_2015-11-15.jpg/1280px-Hollywood_Plaza_Hotel_view_from_southeast_2015-11-15.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 1417177388,
+            "lat": 34.098904,
+            "lon": -118.3267968,
+            "tags": {
+                "footway": "sidewalk",
+                "highway": "footway",
+                "name": "Walk of Fame",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/77/AHF_Logo.jpeg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 1417177389,
+            "lat": 34.0997819,
+            "lon": -118.3268115,
+            "tags": {
+                "crossing": "traffic_signals",
+                "footway": "crossing",
+                "highway": "footway",
+                "layer": "-1",
+                "name": "Walk of Fame",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Mildred_Davis_%26_Harold_Lloyd_-_Sep_1926_Cinelandia.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 1417448047,
+            "lat": 34.0997852,
+            "lon": -118.3265656,
+            "tags": {
+                "crossing": "traffic_signals",
+                "footway": "crossing",
+                "highway": "footway",
+                "name": "Walk of Fame",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Mildred_Davis_%26_Harold_Lloyd_-_Sep_1926_Cinelandia.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 1417448057,
+            "lat": 34.1014983,
+            "lon": -118.3285279,
+            "tags": {
+                "footway": "sidewalk",
+                "highway": "footway",
+                "name": "Walk of Fame",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Leeds_bldg_2.jpg/1280px-Leeds_bldg_2.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 1417448058,
+            "lat": 34.1014999,
+            "lon": -118.3288381,
+            "tags": {
+                "crossing": "uncontrolled",
+                "crossing:markings": "yes",
+                "footway": "crossing",
+                "highway": "footway",
+                "name": "Walk of Fame",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Julian_medical_bldg.jpg/1280px-Julian_medical_bldg.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 1419166571,
+            "lat": 34.101472,
+            "lon": -118.3450504,
+            "tags": {
+                "crossing": "traffic_signals",
+                "footway": "crossing",
+                "highway": "footway",
+                "name": "Walk of Fame",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "way",
+            "id": 1419166572,
+            "lat": 34.1016728,
+            "lon": -118.3447714,
+            "tags": {
+                "crossing:signals": "no",
+                "footway": "sidewalk",
+                "highway": "footway",
+                "name": "Walk of Fame",
+                "name:zh": "星光大道",
+                "surface": "paved",
+                "tourism": "attraction",
+                "wikidata": "Q71719",
+                "wikipedia": "en:Hollywood Walk of Fame"
+            }
+        },
+        {
+            "type": "way",
+            "id": 1419166573,
+            "lat": 34.1016651,
+            "lon": -118.3446168,
+            "tags": {
+                "footway": "sidewalk",
+                "highway": "footway",
+                "name": "Walk of Fame",
+                "name:zh": "星光大道",
+                "surface": "paved",
+                "tourism": "attraction",
+                "wikidata": "Q71719",
+                "wikipedia": "en:Hollywood Walk of Fame"
+            }
+        },
+        {
+            "type": "way",
+            "id": 1419166574,
+            "lat": 34.1016579,
+            "lon": -118.3440192,
+            "tags": {
+                "footway": "sidewalk",
+                "highway": "footway",
+                "name": "Walk of Fame",
+                "name:zh": "星光大道",
+                "surface": "paved",
+                "tourism": "attraction",
+                "wikidata": "Q71719",
+                "wikipedia": "en:Hollywood Walk of Fame"
+            }
+        },
+        {
+            "type": "way",
+            "id": 1419166575,
+            "lat": 34.101655,
+            "lon": -118.3434323,
+            "tags": {
+                "footway": "sidewalk",
+                "highway": "footway",
+                "name": "Walk of Fame",
+                "name:zh": "星光大道",
+                "surface": "paved",
+                "tourism": "attraction",
+                "wikidata": "Q71719",
+                "wikipedia": "en:Hollywood Walk of Fame"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Security_trust_in_hollywood.jpg/1280px-Security_trust_in_hollywood.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 1419166576,
+            "lat": 34.1016552,
+            "lon": -118.3433357,
+            "tags": {
+                "crossing": "traffic_signals",
+                "footway": "crossing",
+                "highway": "footway",
+                "name": "Walk of Fame",
+                "name:zh": "星光大道",
+                "surface": "paved",
+                "tourism": "attraction",
+                "wikidata": "Q71719",
+                "wikipedia": "en:Hollywood Walk of Fame"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Security_trust_in_hollywood.jpg/1280px-Security_trust_in_hollywood.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 1419166577,
+            "lat": 34.1013185,
+            "lon": -118.3441991,
+            "tags": {
+                "footway": "sidewalk",
+                "highway": "footway",
+                "name": "Walk of Fame",
+                "name:zh": "星光大道",
+                "surface": "tiles",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "way",
+            "id": 1419166578,
+            "lat": 34.1014235,
+            "lon": -118.3434324,
+            "tags": {
+                "footway": "sidewalk",
+                "highway": "footway",
+                "name": "Walk of Fame",
+                "name:zh": "星光大道",
+                "surface": "tiles",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Hollywood_Professional_Building_from_northwest_2015-05-31.jpg/1280px-Hollywood_Professional_Building_from_northwest_2015-05-31.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 1419166579,
+            "lat": 34.1014259,
+            "lon": -118.3433431,
+            "tags": {
+                "crossing": "traffic_signals",
+                "footway": "crossing",
+                "highway": "footway",
+                "name": "Walk of Fame",
+                "name:zh": "星光大道",
+                "surface": "tiles",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Hollywood_Professional_Building_from_northwest_2015-05-31.jpg/1280px-Hollywood_Professional_Building_from_northwest_2015-05-31.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 1419166581,
+            "lat": 34.1016588,
+            "lon": -118.3425334,
+            "tags": {
+                "footway": "sidewalk",
+                "highway": "footway",
+                "name": "Walk of Fame",
+                "name:zh": "星光大道",
+                "surface": "paved",
+                "tourism": "attraction",
+                "wikidata": "Q71719",
+                "wikipedia": "en:Hollywood Walk of Fame"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Johnny_grant_bldg.jpg/1280px-Johnny_grant_bldg.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 1419166582,
+            "lat": 34.1016592,
+            "lon": -118.3417565,
+            "tags": {
+                "crossing": "traffic_signals",
+                "footway": "crossing",
+                "highway": "footway",
+                "name": "Walk of Fame",
+                "name:zh": "星光大道",
+                "surface": "paved",
+                "tourism": "attraction",
+                "wikidata": "Q71719",
+                "wikipedia": "en:Hollywood Walk of Fame"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/MTH_Logo.jpg/1280px-MTH_Logo.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 1419166585,
+            "lat": 34.1014245,
+            "lon": -118.3423813,
+            "tags": {
+                "footway": "sidewalk",
+                "highway": "footway",
+                "name": "Walk of Fame",
+                "name:zh": "星光大道",
+                "surface": "tiles",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Johnny_grant_bldg.jpg/1280px-Johnny_grant_bldg.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 1419166586,
+            "lat": 34.1014276,
+            "lon": -118.3414259,
+            "tags": {
+                "crossing": "traffic_signals",
+                "footway": "crossing",
+                "highway": "footway",
+                "name": "Walk of Fame",
+                "name:zh": "星光大道",
+                "surface": "tiles",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/97/Hollywood_Roosevelt_Hotel_2015.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 1419166588,
+            "lat": 34.1014247,
+            "lon": -118.3413517,
+            "tags": {
+                "footway": "sidewalk",
+                "highway": "footway",
+                "name": "Walk of Fame",
+                "name:zh": "星光大道",
+                "surface": "tiles",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/97/Hollywood_Roosevelt_Hotel_2015.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 1419299788,
+            "lat": 34.1013245,
+            "lon": -118.3450021,
+            "tags": {
+                "footway": "sidewalk",
+                "highway": "footway",
+                "name": "Walk of Fame",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "way",
+            "id": 1419299789,
+            "lat": 34.1016556,
+            "lon": -118.3432403,
+            "tags": {
+                "footway": "sidewalk",
+                "highway": "footway",
+                "name": "Walk of Fame",
+                "name:zh": "星光大道",
+                "surface": "paved",
+                "tourism": "attraction",
+                "wikidata": "Q71719",
+                "wikipedia": "en:Hollywood Walk of Fame"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Hollywood_Professional_Building_from_northwest_2015-05-31.jpg/1280px-Hollywood_Professional_Building_from_northwest_2015-05-31.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 1419299790,
+            "lat": 34.1014253,
+            "lon": -118.3432509,
+            "tags": {
+                "footway": "sidewalk",
+                "highway": "footway",
+                "name": "Walk of Fame",
+                "name:zh": "星光大道",
+                "surface": "tiles",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Hollywood_Professional_Building_from_northwest_2015-05-31.jpg/1280px-Hollywood_Professional_Building_from_northwest_2015-05-31.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 1419299791,
+            "lat": 34.1014246,
+            "lon": -118.3415071,
+            "tags": {
+                "footway": "sidewalk",
+                "highway": "footway",
+                "name": "Walk of Fame",
+                "name:zh": "星光大道",
+                "surface": "tiles",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/97/Hollywood_Roosevelt_Hotel_2015.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 1424131262,
+            "lat": 34.1014595,
+            "lon": -118.3450501,
+            "tags": {
+                "footway": "sidewalk",
+                "highway": "footway",
+                "name": "Walk of Fame",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "way",
+            "id": 1425760583,
+            "lat": 34.1036488,
+            "lon": -118.3268402,
+            "tags": {
+                "footway": "sidewalk",
+                "highway": "footway",
+                "name": "Walk of Fame",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Yucca_Vine_Tower.jpg/1280px-Yucca_Vine_Tower.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 1468811449,
+            "lat": 34.1012295,
+            "lon": -118.3268269,
+            "tags": {
+                "footway": "sidewalk",
+                "highway": "footway",
+                "name": "Walk of Fame",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Taft_Building_Los_Angeles.jpg/1280px-Taft_Building_Los_Angeles.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 1468811450,
+            "lat": 34.1009077,
+            "lon": -118.3268283,
+            "tags": {
+                "covered": "yes",
+                "footway": "sidewalk",
+                "highway": "footway",
+                "name": "Walk of Fame",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Hollywood_Plaza_Hotel_view_from_southeast_2015-11-15.jpg/1280px-Hollywood_Plaza_Hotel_view_from_southeast_2015-11-15.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 1468811451,
+            "lat": 34.1000556,
+            "lon": -118.3268242,
+            "tags": {
+                "footway": "sidewalk",
+                "highway": "footway",
+                "name": "Walk of Fame",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Mildred_Davis_%26_Harold_Lloyd_-_Sep_1926_Cinelandia.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 1468811452,
+            "lat": 34.1002929,
+            "lon": -118.3268309,
+            "tags": {
+                "covered": "yes",
+                "footway": "sidewalk",
+                "highway": "footway",
+                "name": "Walk of Fame",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Ricardo_Montalban_Theatre_-_Hollywood_-_Dec_2017.jpg",
+            "image_source": "wikipedia_verified"
+        }
+    ]
+}

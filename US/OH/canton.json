@@ -1,0 +1,412 @@
+{
+    "city_metadata": {
+        "city_name": "Canton",
+        "state_code": "OH",
+        "state_full": "Ohio",
+        "city_summary": "Canton () is a city in Stark County, Ohio, United States, and its county seat. The population was 70,872 at the 2020 census and estimated at 69,211 in 2024, making it the eighth-most populous city in Ohio. The Canton–Massillon metropolitan area had an estimated 400,551 residents in 2024.",
+        "city_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Pro_Football_Hall_of_Fame_%2823945852607%29.jpg/1280px-Pro_Football_Hall_of_Fame_%2823945852607%29.jpg",
+        "city_lat": 40.80765,
+        "city_lon": -81.367228,
+        "source": "wikipedia_verified_engine"
+    },
+    "attractions": [
+        {
+            "type": "node",
+            "id": 357528632,
+            "lat": 40.7976607,
+            "lon": -81.3753968,
+            "tags": {
+                "ele": "323",
+                "gnis:feature_id": "2035610",
+                "historic": "yes",
+                "museum": "history",
+                "name": "First Ladies National Historic Site",
+                "tourism": "museum",
+                "website": "https://www.nps.gov/fila/index.htm",
+                "wikidata": "Q5453137",
+                "wikipedia": "en:First Ladies National Historic Site"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/First_Ladies_National_Historic_Site_main_entrance_at_the_1895_City_National_Bank_Building.JPG/1280px-First_Ladies_National_Historic_Site_main_entrance_at_the_1895_City_National_Bank_Building.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 368155542,
+            "lat": 40.8068642,
+            "lon": -81.3931713,
+            "tags": {
+                "addr:state": "OH",
+                "ele": "321",
+                "gnis:feature_id": "1057472",
+                "name": "McKinley Monument Historical Center",
+                "source": "USGS Geonames",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a4/William_McKinley_Presidential_Library_%26_Museum.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 2394603666,
+            "lat": 40.8148801,
+            "lon": -81.3939117,
+            "tags": {
+                "name": "Canton Garden Center",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 3567497102,
+            "lat": 40.1302985,
+            "lon": -91.5148114,
+            "tags": {
+                "name": "Canton CB&Q Depot",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 4672096124,
+            "lat": 40.7973276,
+            "lon": -81.3769843,
+            "tags": {
+                "addr:city": "Canton",
+                "addr:housenumber": "300",
+                "addr:state": "OH",
+                "addr:street": "Cleveland Avenue Southwest",
+                "name": "Downtown Canton Arts District",
+                "place": "neighbourhood",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Canton_Public_Library%2C_236_3rd_St.%2C_SW%2C_Canton%2C_OH_7-23-2010_12-40-20_PM.JPG/1280px-Canton_Public_Library%2C_236_3rd_St.%2C_SW%2C_Canton%2C_OH_7-23-2010_12-40-20_PM.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 11028725295,
+            "lat": 32.6122703,
+            "lon": -90.0404134,
+            "tags": {
+                "name": "Canton Train Museum",
+                "tourism": "museum"
+            }
+        },
+        {
+            "type": "way",
+            "id": 234182406,
+            "lat": 40.8210622,
+            "lon": -81.3976508,
+            "tags": {
+                "addr:city": "Canton",
+                "addr:country": "US",
+                "addr:housenumber": "2121",
+                "addr:postcode": "44708",
+                "addr:state": "OH",
+                "addr:street": "George Halas Drive Northwest",
+                "building": "yes",
+                "ele": "333",
+                "gnis:feature_id": "1043780",
+                "name": "Pro Football Hall of Fame",
+                "phone": "+1-330-456-8207",
+                "source": "USGS Geonames",
+                "sport": "american_football",
+                "start_date": "1963",
+                "tourism": "attraction",
+                "website": "https://www.profootballhof.com/",
+                "wikipedia": "en:Pro Football Hall of Fame"
+            }
+        },
+        {
+            "type": "way",
+            "id": 234191528,
+            "lat": 40.8061359,
+            "lon": -81.3931729,
+            "tags": {
+                "addr:state": "OH",
+                "building": "yes",
+                "ele": "320",
+                "gnis:feature_id": "1057471",
+                "name": "McKinley Monument Historical Society Planetarium",
+                "source": "USGS Geonames",
+                "tourism": "museum",
+                "website": "https://mckinleymuseum.org/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/William_McKinley_Presidential_Library_and_Museum_02_%2837053630725%29.jpg/1280px-William_McKinley_Presidential_Library_and_Museum_02_%2837053630725%29.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 237469274,
+            "lat": 40.8071424,
+            "lon": -81.37334,
+            "tags": {
+                "addr:city": "Canton",
+                "addr:housenumber": "1001",
+                "addr:postcode": "44702",
+                "addr:state": "OH",
+                "addr:street": "Market Avenue North",
+                "building": "yes",
+                "fee": "yes",
+                "fee:conditional": "no @ age < 12",
+                "museum": "art",
+                "name": "Canton Museum of Art",
+                "phone": "+1-330-453-7666",
+                "tourism": "museum",
+                "website": "https://www.cantonart.org/",
+                "wikidata": "Q5033908",
+                "wikipedia": "en:Canton Museum of Art (Ohio)"
+            }
+        },
+        {
+            "type": "way",
+            "id": 361990648,
+            "lat": 40.8130606,
+            "lon": -81.3703903,
+            "tags": {
+                "building": "yes",
+                "museum": "sports",
+                "name": "Amateur Sports Hall of Fame",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Brooke_and_Anna_E._Martin_House_%28Canton%2C_OH%29.JPG/1280px-Brooke_and_Anna_E._Martin_House_%28Canton%2C_OH%29.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 473004371,
+            "lat": 40.795286,
+            "lon": -81.3763953,
+            "tags": {
+                "addr:city": "Canton",
+                "addr:housenumber": "123",
+                "addr:state": "OH",
+                "addr:street": "6th Street Southwest",
+                "building": "yes",
+                "museum": "transport",
+                "name": "Canton Classic Car Museum",
+                "phone": "+1 330-455-3603",
+                "tourism": "museum",
+                "website": "https://www.cantonclassiccar.org/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Eagles%27_Temple%2C_601_S._Market_St.%2C_Canton%2C_OH_7-23-2010_12-02-12_PM.JPG/1280px-Eagles%27_Temple%2C_601_S._Market_St.%2C_Canton%2C_OH_7-23-2010_12-02-12_PM.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 805285111,
+            "lat": 41.8100358,
+            "lon": -72.9230516,
+            "tags": {
+                "addr:city": "Collinsville",
+                "addr:housenumber": "11",
+                "addr:postcode": "06022",
+                "addr:state": "CT",
+                "addr:street": "Front Street",
+                "building": "yes",
+                "check_date:opening_hours": "2023-07-24",
+                "ele": "95",
+                "fee": "yes",
+                "gnis:feature_id": "1950090;1950091;1950092",
+                "museum": "local_history",
+                "name": "Canton Historical Museum",
+                "opening_hours": "Sa,Su 13:00-16:00",
+                "source": "USGS Geonames",
+                "toilets:wheelchair": "no",
+                "tourism": "museum",
+                "website": "https://cantonmuseum.org/",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "way",
+            "id": 1150784300,
+            "lat": 43.3013787,
+            "lon": -96.5991089,
+            "tags": {
+                "addr:city": "Canton",
+                "addr:housenumber": "600",
+                "addr:postcode": "57013",
+                "addr:state": "SD",
+                "addr:street": "West 5th Street",
+                "building": "yes",
+                "name": "Canton Depot Museum",
+                "tourism": "museum"
+            }
+        },
+        {
+            "type": "way",
+            "id": 1181353278,
+            "lat": 32.6132301,
+            "lon": -90.0367046,
+            "tags": {
+                "addr:city": "Canton",
+                "addr:housenumber": "147",
+                "addr:postcode": "39046",
+                "addr:state": "MS",
+                "addr:street": "North Union Street",
+                "building": "yes",
+                "name": "Canton Tourism",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "way",
+            "id": 1192135265,
+            "lat": 35.5328316,
+            "lon": -82.8395093,
+            "tags": {
+                "addr:city": "Canton",
+                "addr:housenumber": "36",
+                "addr:postcode": "28716",
+                "addr:state": "NC",
+                "addr:street": "Park Street",
+                "building": "yes",
+                "name": "Canton Area Historical Museum",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Colonial_Theater_-_Canton_NC.jpg/1280px-Colonial_Theater_-_Canton_NC.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 72696,
+            "lat": 47.67722222,
+            "lon": 8.61583333,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/SBB_RABe_514_DTZ_Rheinfall.jpg/1280px-SBB_RABe_514_DTZ_Rheinfall.jpg",
+            "description": "The Rhine Falls (German: Rheinfall [ˈraɪnfal]  / Swiss German: Rhyfall [ˈriːfal], a singular noun) is a waterfall on the High Rhine in Switzerland.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Rhine Falls",
+                "wikipedia": "en:Rhine Falls",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 129842,
+            "lat": 41.08055556,
+            "lon": -81.52222222,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Stan_Hywet_Hall_2.jpg/1280px-Stan_Hywet_Hall_2.jpg",
+            "description": "Akron () is a city in Summit County, Ohio, United States, and its county seat.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Akron, Ohio",
+                "wikipedia": "en:Akron, Ohio",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 6550472,
+            "lat": 40.857104,
+            "lon": -81.427745,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Belden_Village_Mall_Entrance.JPG/1280px-Belden_Village_Mall_Entrance.JPG",
+            "description": "Belden Village Mall is a shopping mall north of Canton, Ohio, United States, in the suburb of Jackson Township.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Belden Village Mall",
+                "wikipedia": "en:Belden Village Mall",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 22199,
+            "lat": 40,
+            "lon": -83,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Flag_of_Ohio.svg/1280px-Flag_of_Ohio.svg.png",
+            "description": "Ohio (  oh-HY-oh) is a state in the Midwestern region of the United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Ohio",
+                "wikipedia": "en:Ohio",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 147278,
+            "lat": 41.48,
+            "lon": -82.6825,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Cedar_Point_main_entrance_%285437%29.jpg/1280px-Cedar_Point_main_entrance_%285437%29.jpg",
+            "description": "Cedar Point is a 364-acre (147 ha) amusement park located on a Lake Erie peninsula in Sandusky, Ohio, United States, owned and operated by Six Flags.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Cedar Point",
+                "wikipedia": "en:Cedar Point",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 566211,
+            "lat": 37.551216,
+            "lon": 126.988276,
+            "image_url": "https://upload.wikimedia.org/wikipedia/en/a/a6/NamsanTower_%28Cropped%29.jpeg",
+            "description": "Namsan Seoul Tower (Korean: 남산 서울 타워), aka the YTN Seoul Tower, Namsan Tower, Seoul Tower or N Seoul Tower, is a communication and observation tower located on the summit of Namsan in central Seoul, South Korea.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Namsan Seoul Tower",
+                "wikipedia": "en:Namsan Seoul Tower",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 1636701,
+            "lat": 44.8003,
+            "lon": 1.6186,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Rocamadour%2C_Lot%2C_Midi-Pyr%C3%A9n%C3%A9es%2C_france.jpg/1280px-Rocamadour%2C_Lot%2C_Midi-Pyr%C3%A9n%C3%A9es%2C_france.jpg",
+            "description": "Rocamadour (French pronunciation: [ʁɔkamaduʁ]; Languedocien: Ròcamador) is a commune in the Lot department in southwestern France.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Rocamadour",
+                "wikipedia": "en:Rocamadour",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 5951,
+            "lat": 41.4992,
+            "lon": -81.6947,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Cleveland_skyline_from_Lakewood_Park%2C_January_2026.jpg/1280px-Cleveland_skyline_from_Lakewood_Park%2C_January_2026.jpg",
+            "description": "Cleveland ( KLEEV-lənd) is a city in the U.S. state of Ohio and the county seat of Cuyahoga County.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Cleveland",
+                "wikipedia": "en:Cleveland",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 129774,
+            "lat": 40.75333333,
+            "lon": -82.50444444,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Mansfield_skyline.jpg/1280px-Mansfield_skyline.jpg",
+            "description": "Mansfield is a city in Richland County, Ohio, United States, and its county seat.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Mansfield, Ohio",
+                "wikipedia": "en:Mansfield, Ohio",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 2968986,
+            "lat": 40.78527778,
+            "lon": -82.505,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Ohio_State_Reformatory_Mansfield_08.jpg/1280px-Ohio_State_Reformatory_Mansfield_08.jpg",
+            "description": "The Ohio State Reformatory (OSR), also known as the Mansfield Reformatory, is a historic prison located in Mansfield, Ohio in the United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Ohio State Reformatory",
+                "wikipedia": "en:Ohio State Reformatory",
+                "tourism": "attraction"
+            }
+        }
+    ]
+}

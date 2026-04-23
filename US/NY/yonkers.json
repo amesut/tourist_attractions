@@ -1,0 +1,364 @@
+{
+    "city_metadata": {
+        "city_name": "Yonkers",
+        "state_code": "NY",
+        "state_full": "New York",
+        "city_summary": "Yonkers () is a city in Westchester County, New York, United States. With a population of 211,569 at the 2020 census, its highest decennial census count ever, Yonkers is the third-most populous city in New York state and the most populous city in Westchester County. Yonkers is classified as an inner suburb of New York City, immediately north of the Bronx and approximately 2.4 miles (4 km) north of Marble Hill (the northernmost point in Manhattan).",
+        "city_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Yonkers%2C_NY_%2853566551424%29.jpg/1280px-Yonkers%2C_NY_%2853566551424%29.jpg",
+        "city_lat": 40.94138889,
+        "city_lon": -73.86444444,
+        "source": "wikipedia_verified_engine"
+    },
+    "attractions": [
+        {
+            "type": "wikipedia_node",
+            "id": 645042,
+            "lat": 40.7128,
+            "lon": -74.0061,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/View_of_Empire_State_Building_from_Rockefeller_Center_New_York_City_dllu_%28cropped%29.jpg/1280px-View_of_Empire_State_Building_from_Rockefeller_Center_New_York_City_dllu_%28cropped%29.jpg",
+            "description": "New York, often called New York City (NYC), is the most populous city in the United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "New York City",
+                "wikipedia": "en:New York City",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 8210131,
+            "lat": 43,
+            "lon": -76,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_New_York.svg/1280px-Flag_of_New_York.svg.png",
+            "description": "New York, also called New York State, is a state located in the northeastern United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "New York (state)",
+                "wikipedia": "en:New York (state)",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 18315,
+            "lat": 40.8,
+            "lon": -73.3,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Montauk_01.jpg/1280px-Montauk_01.jpg",
+            "description": "Long Island (abbreviated as LINY) is a densely populated continental island in southeastern New York state, extending into the Atlantic Ocean.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Long Island",
+                "wikipedia": "en:Long Island",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 45470,
+            "lat": 40.7127,
+            "lon": -74.0059,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/View_of_Empire_State_Building_from_Rockefeller_Center_New_York_City_dllu_%28cropped%29.jpg/1280px-View_of_Empire_State_Building_from_Rockefeller_Center_New_York_City_dllu_%28cropped%29.jpg",
+            "description": "Manhattan is the most densely populated and geographically smallest of the five boroughs of New York City.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Manhattan",
+                "wikipedia": "en:Manhattan",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 442163,
+            "lat": 40.048,
+            "lon": -74.052,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f5/NJ_LBI_Lighthouse_04.JPG",
+            "description": "The Jersey Shore, commonly called the Shore by locals, is the coastal region of the U.S. state of New Jersey.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Jersey Shore",
+                "wikipedia": "en:Jersey Shore",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 12977163,
+            "lat": 41.06333333,
+            "lon": -73.81916667,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Old_Put_enters_VCP_2008_jeh.jpg/1280px-Old_Put_enters_VCP_2008_jeh.jpg",
+            "description": "The South County Trailway is a 14.1-mile (22.7 km) long rail trail stretching from the Putnam Trail in Van Cortlandt Park in the Bronx to the North County Trailway in Eastview, New York.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "South County Trailway",
+                "wikipedia": "en:South County Trailway",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 127062,
+            "lat": 40.5719,
+            "lon": -74.1469,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Look_out_point_%28cropped%29.jpg/1280px-Look_out_point_%28cropped%29.jpg",
+            "description": "Staten Island  ( STAT-ən) is the southernmost of the five boroughs of New York City, coextensive with Richmond County and situated at the southernmost point of the State of New York.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Staten Island",
+                "wikipedia": "en:Staten Island",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 568730,
+            "lat": 40.87194444,
+            "lon": -73.8275,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Freedomland_San_Francisco_Section.jpg/1280px-Freedomland_San_Francisco_Section.jpg",
+            "description": "Freedomland U.S.A. (often shortened to Freedomland) was a theme park dedicated to American history in the Baychester section of the North Bronx in New York City, United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Freedomland U.S.A.",
+                "wikipedia": "en:Freedomland U.S.A.",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 45579,
+            "lat": 40.71361111,
+            "lon": -73.82805556,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Flushing_Meadows_May_2024_64.jpg/1280px-Flushing_Meadows_May_2024_64.jpg",
+            "description": "Queens is the largest by area of the five boroughs of New York City, coextensive with Queens County, in the U.S. state of New York.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Queens",
+                "wikipedia": "en:Queens",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 978663,
+            "lat": 40.927286,
+            "lon": -73.854711,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Cross_County_Shopping_Center_Macerich.jpg/1280px-Cross_County_Shopping_Center_Macerich.jpg",
+            "description": "Cross County Center is an open-air shopping mall located at the junction of the NYS Thruway and Cross County Parkway, in the Kimball neighborhood of Yonkers, New York, United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Cross County Shopping Center",
+                "wikipedia": "en:Cross County Shopping Center",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 2219861,
+            "lat": 41.302907,
+            "lon": -72.916933,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Frank_Pepe_%2820663%29.jpg/1280px-Frank_Pepe_%2820663%29.jpg",
+            "description": "Frank Pepe Pizzeria Napoletana, commonly known as Frank Pepe's or simply Pepe's (), is a New Haven style pizzeria chain based in Connecticut, with their flagship restaurant in the Wooster Square neighborhood of New Haven, Connecticut, at 163 Wooster Street and originator of New Haven-style pizza.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Frank Pepe Pizzeria Napoletana",
+                "wikipedia": "en:Frank Pepe Pizzeria Napoletana",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 301591,
+            "lat": 40.7528,
+            "lon": -73.9772,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Image-Grand_central_Station_Outside_Night_2.jpg/1280px-Image-Grand_central_Station_Outside_Night_2.jpg",
+            "description": "Grand Central Terminal (GCT; also referred to as Grand Central Station or simply as Grand Central) is a commuter rail terminal at 42nd Street and Park Avenue in Midtown Manhattan, New York City.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Grand Central Terminal",
+                "wikipedia": "en:Grand Central Terminal",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 142044,
+            "lat": 40.88493111,
+            "lon": -72.50106111,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Locator_map_of_the_Hamptons.png/1280px-Locator_map_of_the_Hamptons.png",
+            "description": "The Hamptons are a group of seaside communities on the East End of Long Island in Suffolk County, New York.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "The Hamptons",
+                "wikipedia": "en:The Hamptons",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 212263,
+            "lat": 40.88916667,
+            "lon": -73.87333333,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Woodlawn_north_gate_jeh.JPG/1280px-Woodlawn_north_gate_jeh.JPG",
+            "description": "Woodlawn Cemetery is one of the largest cemeteries in New York City and a designated National Historic Landmark.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Woodlawn Cemetery (Bronx, New York)",
+                "wikipedia": "en:Woodlawn Cemetery (Bronx, New York)",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 23535352,
+            "lat": 40.957304,
+            "lon": -73.706084,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/77/The_Jay_Estate_in_Rye%2C_NY.jpg",
+            "description": "The Jay Estate is a 23-acre park and historic site in Rye, New York, with the 1838 Peter Augustus Jay House at its center.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Jay Estate",
+                "wikipedia": "en:Jay Estate",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 182694,
+            "lat": 40.84,
+            "lon": -73.94,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/George_Washington_Bridge%2C_HAER_NY-129-68.jpg/1280px-George_Washington_Bridge%2C_HAER_NY-129-68.jpg",
+            "description": "Washington Heights is a neighborhood in the northern part of the borough of Manhattan in New York City.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Washington Heights, Manhattan",
+                "wikipedia": "en:Washington Heights, Manhattan",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 411317,
+            "lat": 40.70777778,
+            "lon": -73.795,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/91/QL_Central_Library.jpg",
+            "description": "The Queens Public Library (QPL), also known as the Queens Borough Public Library, is the public library for the borough of Queens, and one of three public library systems serving New York City.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Queens Public Library",
+                "wikipedia": "en:Queens Public Library",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 51332697,
+            "lat": 42.96555556,
+            "lon": -75.68805556,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Smithfield_Presbyterian_Church_Peterboro_NY_Jul_10.jpg/1280px-Smithfield_Presbyterian_Church_Peterboro_NY_Jul_10.jpg",
+            "description": "The National Abolition Hall of Fame and Museum is a museum located in Peterboro, New York, that honors American abolitionists by showcasing their work to end slavery, and the legacy of their struggle: the drive to end racism.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "National Abolition Hall of Fame and Museum",
+                "wikipedia": "en:National Abolition Hall of Fame and Museum",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 3662871,
+            "lat": 40.7277,
+            "lon": -73.9291,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Kosciuszko_Bridge_2025a.jpg/1280px-Kosciuszko_Bridge_2025a.jpg",
+            "description": "The Kosciuszko Bridge ( KOZ-ee-UUSK-oh, KOZH-ee-UUSH-koh), originally known as the Meeker Avenue Bridge, is a cable-stayed bridge over Newtown Creek in New York City, connecting Greenpoint in Brooklyn to Maspeth in Queens.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Kosciuszko Bridge",
+                "wikipedia": "en:Kosciuszko Bridge",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 468224,
+            "lat": 41.99861111,
+            "lon": -74.38638889,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Central_Catskills_from_Twin_south_summit.jpg/1280px-Central_Catskills_from_Twin_south_summit.jpg",
+            "description": "The Catskill Mountains, also known as the Catskills, are a physiographic province and subrange of the larger Appalachian Mountains, located in southeastern New York.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Catskill Mountains",
+                "wikipedia": "en:Catskill Mountains",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 264969,
+            "lat": 40.81666667,
+            "lon": -72.93333333,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/%E7%9F%B3%E6%BA%AA%E5%A4%A7%E5%AD%A6%E7%8E%8B%E5%98%89%E5%BB%89%E4%B8%AD%E5%BF%83.jpg/1280px-%E7%9F%B3%E6%BA%AA%E5%A4%A7%E5%AD%A6%E7%8E%8B%E5%98%89%E5%BB%89%E4%B8%AD%E5%BF%83.jpg",
+            "description": "Brookhaven is a large suburban town in Suffolk County, Long Island, New York.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Brookhaven, New York",
+                "wikipedia": "en:Brookhaven, New York",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 106211,
+            "lat": 39.3625,
+            "lon": -74.425,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/A_sunset_view_of_the_beach_in_Atlantic_City%2C_NJ.jpg/1280px-A_sunset_view_of_the_beach_in_Atlantic_City%2C_NJ.jpg",
+            "description": "Atlantic City, sometimes referred to by its initials A.C., is a seaside resort city in Atlantic County, in the U.S. state of New Jersey.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Atlantic City, New Jersey",
+                "wikipedia": "en:Atlantic City, New Jersey",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 31846849,
+            "lat": 41.17,
+            "lon": -74.037,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Provident_Bank_Ballpark.JPG/1280px-Provident_Bank_Ballpark.JPG",
+            "description": "Clover Stadium is a baseball park in Pomona, New York.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Clover Stadium",
+                "wikipedia": "en:Clover Stadium",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 19331440,
+            "lat": 43.08666667,
+            "lon": -73.78361111,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Broadway_in_downtown_Saratoga_Springs%2C_NY.jpg/1280px-Broadway_in_downtown_Saratoga_Springs%2C_NY.jpg",
+            "description": "The Broadway Historic District is located along Broadway in Saratoga Springs, New York, United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Broadway Historic District (Saratoga Springs, New York)",
+                "wikipedia": "en:Broadway Historic District (Saratoga Springs, New York)",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 165886,
+            "lat": 40.75861111,
+            "lon": -73.97916667,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Rockefeller_Center_logo.svg/1280px-Rockefeller_Center_logo.svg.png",
+            "description": "Rockefeller Center is a complex of 19 commercial buildings covering 22 acres (8.9 ha) between 48th Street and 51st Street in the Midtown Manhattan neighborhood of New York City.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Rockefeller Center",
+                "wikipedia": "en:Rockefeller Center",
+                "tourism": "attraction"
+            }
+        }
+    ]
+}

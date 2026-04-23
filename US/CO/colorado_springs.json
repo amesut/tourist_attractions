@@ -1,0 +1,846 @@
+{
+    "city_metadata": {
+        "city_name": "Colorado Springs",
+        "state_code": "CO",
+        "state_full": "Colorado",
+        "city_summary": "Colorado Springs is a home rule city that is the county seat of, and the most populous city in, El Paso County, Colorado, United States. The city had a population of 478,961 at the 2020 census, a 15.02% increase since 2010. Colorado Springs is the second-most populous city and most extensive city by area in the state of Colorado, and the 40th-most-populous city in the United States.",
+        "city_image": "https://upload.wikimedia.org/wikipedia/commons/0/00/Colorado-springs-450_%287296313624%29.jpg",
+        "city_lat": 38.8339,
+        "city_lon": -104.8214,
+        "source": "wikipedia_verified_engine"
+    },
+    "attractions": [
+        {
+            "type": "node",
+            "id": 434605115,
+            "lat": 38.7711813,
+            "lon": -104.8549995,
+            "tags": {
+                "animal": "snow leopard",
+                "attraction": "animal",
+                "name": "snow leopard",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Giraffes_at_the_Cheyenne_Mountain_Zoo_in_Colorado_Springs%2C_Colorado._The_zoo%27s_giraffe_breeding_program_is_the_most_prolific_in_the_world._There_is_even_a_Web_cam_%28online_camera_view%29_for_giraffe_LCCN2015633992.tif/lossy-page1-1280px-thumbnail.tif.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 721756459,
+            "lat": 38.8698628,
+            "lon": -104.8884843,
+            "tags": {
+                "attraction": "natural",
+                "name": "Siamese Twins",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Garden_of_the_Gods_%286174065038%29.jpg/1280px-Garden_of_the_Gods_%286174065038%29.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 2273211256,
+            "lat": 38.7706572,
+            "lon": -104.854727,
+            "tags": {
+                "animal": "tiger",
+                "attraction": "animal",
+                "name": "Tiger",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Giraffes_at_the_Cheyenne_Mountain_Zoo_in_Colorado_Springs%2C_Colorado._The_zoo%27s_giraffe_breeding_program_is_the_most_prolific_in_the_world._There_is_even_a_Web_cam_%28online_camera_view%29_for_giraffe_LCCN2015633992.tif/lossy-page1-1280px-thumbnail.tif.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 2289554569,
+            "lat": 38.876037,
+            "lon": -104.873399,
+            "tags": {
+                "name": "American Indian Interpretive Area",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Chambers_Ranch_05.JPG/1280px-Chambers_Ranch_05.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 2339977572,
+            "lat": 38.8299679,
+            "lon": -104.8328499,
+            "tags": {
+                "alt_name": "Julie Penrose Fountain",
+                "amenity": "fountain",
+                "artist_name": "David Barber and Bill Burgess",
+                "artwork_type": "fountain",
+                "name": "Continuum — the Julie Penrose Fountain",
+                "start_date": "07-07-2007",
+                "tourism": "attraction",
+                "website": "https://coloradosprings.gov/parks-recreation-and-cultural-services/page/america-beautiful-park"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Chadbourn_Spanish_Gospel_Mission.JPG/1280px-Chadbourn_Spanish_Gospel_Mission.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 3301619612,
+            "lat": 38.8668214,
+            "lon": -104.8317361,
+            "tags": {
+                "name": "Colorado Springs Trolleys",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Fort_Collins_Municipal_Railway_No_22.JPG/1280px-Fort_Collins_Municipal_Railway_No_22.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 5300141898,
+            "lat": 38.7714216,
+            "lon": -104.8529475,
+            "tags": {
+                "attraction": "animal",
+                "name": "Giraffe Feeding Experience",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Giraffes_at_the_Cheyenne_Mountain_Zoo_in_Colorado_Springs%2C_Colorado._The_zoo%27s_giraffe_breeding_program_is_the_most_prolific_in_the_world._There_is_even_a_Web_cam_%28online_camera_view%29_for_giraffe_LCCN2015633992.tif/lossy-page1-1280px-thumbnail.tif.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 6481098686,
+            "lat": 38.7927817,
+            "lon": -104.849912,
+            "tags": {
+                "fee": "no",
+                "name": "Penrose Heritage Museum",
+                "tourism": "museum",
+                "website": "https://www.elpomar.org/About-Us/museum-and-legacy-properties/penrose-heritage-museum-1/"
+            }
+        },
+        {
+            "type": "node",
+            "id": 7512235102,
+            "lat": 38.8958218,
+            "lon": -104.8626432,
+            "tags": {
+                "addr:city": "Colorado Springs",
+                "addr:housenumber": "4425",
+                "addr:postcode": "80907",
+                "addr:state": "CO",
+                "addr:street": "Arrowswest Drive",
+                "check_date:opening_hours": "2023-06-14",
+                "fee": "yes",
+                "fee:conditional": "no @ (age < 4)",
+                "museum": "spaceflight",
+                "name": "Space Foundation Discovery Center",
+                "opening_hours": "Tu-Sa 10:00-16:00",
+                "operator": "Space Foundation",
+                "tourism": "museum",
+                "website": "https://discoverspace.org/"
+            }
+        },
+        {
+            "type": "node",
+            "id": 8245228052,
+            "lat": 38.8809598,
+            "lon": -104.8814101,
+            "tags": {
+                "name": "Tower of Babel",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 8245228053,
+            "lat": 38.8798994,
+            "lon": -104.8808627,
+            "tags": {
+                "name": "Kissing Camels",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 8245228054,
+            "lat": 38.8785732,
+            "lon": -104.8805337,
+            "tags": {
+                "name": "North Gateway Rock",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 8245228056,
+            "lat": 38.8728375,
+            "lon": -104.880609,
+            "tags": {
+                "name": "Keyhole Window",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 8245228057,
+            "lat": 38.8722744,
+            "lon": -104.8844304,
+            "tags": {
+                "name": "The Scottsman",
+                "tourism": "attraction",
+                "wheelchair": "limited"
+            }
+        },
+        {
+            "type": "node",
+            "id": 8287877541,
+            "lat": 38.8739294,
+            "lon": -104.8780416,
+            "tags": {
+                "name": "Snake Pit Bouldering",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 8358245456,
+            "lat": 38.8441926,
+            "lon": -104.8831919,
+            "tags": {
+                "historic": "archaeological_site",
+                "name": "Lyons Sandstone Quarry",
+                "tourism": "attraction",
+                "wheelchair": "no"
+            }
+        },
+        {
+            "type": "node",
+            "id": 8358245457,
+            "lat": 38.8346657,
+            "lon": -104.8824524,
+            "tags": {
+                "man_made": "natural",
+                "name": "Ridgeline Pass",
+                "tourism": "attraction",
+                "wheelchair": "limited"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10121162500,
+            "lat": 38.8839607,
+            "lon": -104.7718643,
+            "tags": {
+                "name": "ochre cliffs",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10762948083,
+            "lat": 38.7938624,
+            "lon": -104.8488529,
+            "tags": {
+                "addr:housenumber": "20",
+                "addr:street": "1st",
+                "check_date": "2023-03-26",
+                "name": "World Figure Skating Museum",
+                "payment:credit_cards": "yes",
+                "phone": "+1-719-635-5200",
+                "tourism": "museum",
+                "website": "https://worldskatingmuseum.org"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11657896641,
+            "lat": 38.8782834,
+            "lon": -104.8717207,
+            "tags": {
+                "name": "Garden Of The Gods Sign",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Chambers_Ranch_05.JPG/1280px-Chambers_Ranch_05.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 12433832993,
+            "lat": 38.8346673,
+            "lon": -104.8232718,
+            "tags": {
+                "addr:city": "Colorado Springs",
+                "addr:housenumber": "19",
+                "addr:postcode": "80903",
+                "addr:state": "CO",
+                "addr:street": "North Tejon Street",
+                "level": "2",
+                "museum": "motorcycle",
+                "name": "Rocky Mountain Motorcycle Museum",
+                "opening_hours": "We-Sa 10:00-17:00",
+                "tourism": "museum",
+                "website": "https://www.themotorcyclemuseum.com/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/DeGraff_Building.JPG/1280px-DeGraff_Building.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 99787240,
+            "lat": 38.8227368,
+            "lon": -104.7019814,
+            "tags": {
+                "leisure": "park",
+                "name": "Peterson Air and Space Museum",
+                "tourism": "museum",
+                "website": "https://petemuseum.org/",
+                "wikidata": "Q7178242",
+                "wikipedia": "en:Peterson Air and Space Museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Peterson_Air_and_Space_Museum.jpg/1280px-Peterson_Air_and_Space_Museum.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 130923480,
+            "lat": 38.8404326,
+            "lon": -104.8608588,
+            "tags": {
+                "building": "yes",
+                "name": "Ghost Town Wild West Museum",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Midland_Terminal_Railroad_Roundhouse.JPG/1280px-Midland_Terminal_Railroad_Roundhouse.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 130923481,
+            "lat": 38.8467323,
+            "lon": -104.8604564,
+            "tags": {
+                "addr:city": "Colorado Springs",
+                "addr:housenumber": "1",
+                "addr:postcode": "80904",
+                "addr:state": "CO",
+                "addr:street": "South 24th Street",
+                "building": "yes",
+                "name": "Old Colorado City History Center Museum",
+                "phone": "+1-719-636-1225",
+                "tourism": "museum",
+                "website": "https://occhs.org/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Colorado_City_Business_District.JPG/1280px-Colorado_City_Business_District.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 174121075,
+            "lat": 38.8064686,
+            "lon": -104.7263827,
+            "tags": {
+                "aircraft:type": "tanker",
+                "building": "yes",
+                "historic": "aircraft",
+                "name": "Boeing KC-97",
+                "tourism": "attraction",
+                "vehicle:wikipedia": "en:Boeing KC-97 Stratotanker"
+            }
+        },
+        {
+            "type": "way",
+            "id": 185143368,
+            "lat": 38.8227909,
+            "lon": -104.7010175,
+            "tags": {
+                "historic": "aircraft",
+                "layer": "1",
+                "manufacturer": "Lockheed",
+                "name": "EC-121T Warning Star",
+                "ref": "52-3425",
+                "tourism": "attraction",
+                "vehicle:wikipedia": "en:Lockheed EC-121 Warning Star"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Peterson_Air_and_Space_Museum.jpg/1280px-Peterson_Air_and_Space_Museum.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 185143369,
+            "lat": 38.8231553,
+            "lon": -104.7023832,
+            "tags": {
+                "historic": "aircraft",
+                "layer": "1",
+                "manufacturer": "Northrop",
+                "name": "F-89 Scorpion",
+                "ref": "52-1941",
+                "tourism": "attraction",
+                "vehicle:wikipedia": "en:Northrop F-89 Scorpion"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Peterson_Air_and_Space_Museum.jpg/1280px-Peterson_Air_and_Space_Museum.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 185143370,
+            "lat": 38.8232045,
+            "lon": -104.7022001,
+            "tags": {
+                "historic": "aircraft",
+                "layer": "1",
+                "manufacturer": "Lockheed",
+                "name": "F-94C Starfire",
+                "tourism": "attraction",
+                "vehicle:wikipedia": "en:Lockheed F-94 Starfire"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Peterson_Air_and_Space_Museum.jpg/1280px-Peterson_Air_and_Space_Museum.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 185143374,
+            "lat": 38.8224221,
+            "lon": -104.7024006,
+            "tags": {
+                "historic": "aircraft",
+                "layer": "1",
+                "manufacturer": "Convair",
+                "name": "F-106A Delta Dart",
+                "tourism": "attraction",
+                "vehicle:wikipedia": "en:Convair F-106 Delta Dart"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Peterson_Air_and_Space_Museum.jpg/1280px-Peterson_Air_and_Space_Museum.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 185143375,
+            "lat": 38.8225841,
+            "lon": -104.702426,
+            "tags": {
+                "historic": "aircraft",
+                "layer": "1",
+                "manufacturer": "McDonnell Douglas",
+                "name": "F-4C Phantom",
+                "ref": "64-0799",
+                "start_date": "1965",
+                "tourism": "attraction",
+                "vehicle:wikipedia": "en:McDonnell Douglas F-4 Phantom II"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Peterson_Air_and_Space_Museum.jpg/1280px-Peterson_Air_and_Space_Museum.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 185143377,
+            "lat": 38.823015,
+            "lon": -104.7024192,
+            "tags": {
+                "historic": "aircraft",
+                "layer": "1",
+                "manufacturer": "North American Aviation",
+                "name": "F-86L Sabre Dog",
+                "ref": "53-0782",
+                "tourism": "attraction",
+                "vehicle:wikipedia": "en:North American F-86D Sabre"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Peterson_Air_and_Space_Museum.jpg/1280px-Peterson_Air_and_Space_Museum.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 185143378,
+            "lat": 38.8225239,
+            "lon": -104.7013925,
+            "tags": {
+                "historic": "aircraft",
+                "layer": "1",
+                "manufacturer": "Avro Canada",
+                "name": "CF-100 Canuck",
+                "ref": "100779",
+                "tourism": "attraction",
+                "vehicle:wikipedia": "en:Avro Canada CF-100 Canuck"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Peterson_Air_and_Space_Museum.jpg/1280px-Peterson_Air_and_Space_Museum.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 185143380,
+            "lat": 38.8231985,
+            "lon": -104.7015559,
+            "tags": {
+                "historic": "aircraft",
+                "layer": "1",
+                "manufacturer": "Lockheed",
+                "name": "T-33A Shooting Star",
+                "ref": "57-0713",
+                "tourism": "attraction",
+                "vehicle:wikipedia": "en:Lockheed T-33 Shooting Star"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Peterson_Air_and_Space_Museum.jpg/1280px-Peterson_Air_and_Space_Museum.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 185143383,
+            "lat": 38.8223897,
+            "lon": -104.7022152,
+            "tags": {
+                "historic": "aircraft",
+                "layer": "1",
+                "manufacturer": "McDonnell Douglas",
+                "name": "F-15A Eagle",
+                "ref": "76-0024",
+                "tourism": "attraction",
+                "vehicle:wikipedia": "en:McDonnell Douglas F-15 Eagle"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Peterson_Air_and_Space_Museum.jpg/1280px-Peterson_Air_and_Space_Museum.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 185143385,
+            "lat": 38.8223877,
+            "lon": -104.7014557,
+            "tags": {
+                "historic": "aircraft",
+                "layer": "1",
+                "manufacturer": "McDonnell",
+                "name": "CF-101B Voodoo",
+                "ref": "101044",
+                "tourism": "attraction",
+                "vehicle:wikipedia": "en:McDonnell CF-101 Voodoo"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Peterson_Air_and_Space_Museum.jpg/1280px-Peterson_Air_and_Space_Museum.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 185143386,
+            "lat": 38.8230781,
+            "lon": -104.701368,
+            "tags": {
+                "historic": "aircraft",
+                "layer": "1",
+                "manufacturer": "Glenn L. Martin Company",
+                "name": "EB-57E Canberra",
+                "ref": "55-4279",
+                "tourism": "attraction",
+                "vehicle:wikipedia": "en:Martin B-57 Canberra"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Peterson_Air_and_Space_Museum.jpg/1280px-Peterson_Air_and_Space_Museum.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 186578858,
+            "lat": 38.8303916,
+            "lon": -104.8228383,
+            "tags": {
+                "addr:housenumber": "215",
+                "addr:state": "CO",
+                "addr:street": "South Tejon Street",
+                "building": "yes",
+                "building:levels": "3",
+                "fee": "no",
+                "historic": "courthouse",
+                "name": "Colorado Springs Pioneers Museum",
+                "old_name": "El Paso County Courthouse",
+                "operator": "El Paso County",
+                "phone": "+1-719-385-5990",
+                "start_date": "1903",
+                "tourism": "museum",
+                "website": "https://www.cspm.org/",
+                "wikidata": "Q14684405"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Pioneers_Museum_-_former_El_Paso_Coounty_Courthouse.JPG/1280px-Pioneers_Museum_-_former_El_Paso_Coounty_Courthouse.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 218021908,
+            "lat": 38.7713646,
+            "lon": -104.8548581,
+            "tags": {
+                "addr:housenumber": "4250 Cheyenne Mountain Zoo Road",
+                "addr:postcode": "80906",
+                "addr:state": "CO",
+                "addr:street": "Cheyenne Mountain Zoo Road",
+                "charge": "Adults $19:75 USD-$29.75 USD Children$14:75 USD-$24.75 USD",
+                "contact:facebook": "https://www.facebook.com/CMZoo",
+                "fee": "yes",
+                "name": "Cheyenne Mountain Zoo",
+                "note": "polygon is the actual property boundaries as of the time of drawing",
+                "opening_hours": "Mo-Su 09:00-17:00",
+                "tourism": "zoo",
+                "website": "https://www.cmzoo.org/",
+                "wikidata": "Q5094594",
+                "wikipedia": "en:Cheyenne Mountain Zoo"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Giraffes_at_the_Cheyenne_Mountain_Zoo_in_Colorado_Springs%2C_Colorado._The_zoo%27s_giraffe_breeding_program_is_the_most_prolific_in_the_world._There_is_even_a_Web_cam_%28online_camera_view%29_for_giraffe_LCCN2015633992.tif/lossy-page1-1280px-thumbnail.tif.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 219826718,
+            "lat": 38.8736954,
+            "lon": -104.8722249,
+            "tags": {
+                "historic": "farm",
+                "name": "Rock Ledge Ranch Historic Site",
+                "tourism": "attraction",
+                "website": "https://rockledgeranch.com/",
+                "wikidata": "Q7354551"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Chambers_Ranch_05.JPG/1280px-Chambers_Ranch_05.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 219902993,
+            "lat": 38.8784241,
+            "lon": -104.8703005,
+            "tags": {
+                "name": "Garden of the Gods Visitor Center",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Chambers_Ranch_05.JPG/1280px-Chambers_Ranch_05.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 292521042,
+            "lat": 38.8206763,
+            "lon": -104.7205046,
+            "tags": {
+                "addr:city": "Colorado Springs",
+                "addr:housenumber": "755",
+                "addr:postcode": "80916",
+                "addr:state": "CO",
+                "addr:street": "Aviation Way",
+                "museum": "aerospace",
+                "name": "National Museum of World War II Aviation",
+                "opening_hours": "We-Su 10:00-17:00",
+                "phone": "+1-719-637-7559",
+                "tourism": "museum",
+                "url": "http://www.worldwariiaviation.org/",
+                "website": "https://www.worldwariiaviation.org/"
+            }
+        },
+        {
+            "type": "way",
+            "id": 306197214,
+            "lat": 38.8458512,
+            "lon": -104.8252933,
+            "tags": {
+                "addr:city": "Colorado Springs",
+                "addr:housenumber": "818",
+                "addr:postcode": "80903",
+                "addr:state": "CO",
+                "addr:street": "North Cascade Avenue",
+                "building": "yes",
+                "name": "American Numismatic & Money Museum",
+                "phone": "+1-800-367-9723",
+                "source": "Bing",
+                "tourism": "museum",
+                "website": "https://www.money.org/money-museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Colorado_Springs_Fine_Arts_Center.JPG/1280px-Colorado_Springs_Fine_Arts_Center.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 306484463,
+            "lat": 38.8405013,
+            "lon": -104.8245311,
+            "tags": {
+                "addr:housenumber": "423",
+                "addr:postcode": "80903",
+                "addr:state": "CO",
+                "addr:street": "North Cascade Avenue",
+                "building": "yes",
+                "historic": "building",
+                "name": "McAllister House Museum",
+                "phone": "+1-719-635-7925",
+                "ref:nrhp": "5EP.191",
+                "source": "Bing",
+                "start_date": "1873",
+                "tourism": "museum",
+                "website": "https://mcallisterhouse.org/",
+                "wikidata": "Q20714432"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Judson_Moss_Bemis_House.JPG/1280px-Judson_Moss_Bemis_House.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 377630759,
+            "lat": 39.0260198,
+            "lon": -104.8281312,
+            "tags": {
+                "name": "Western Mining Museum",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/500_hp_Corliss_Steam_Engine.jpg/1280px-500_hp_Corliss_Steam_Engine.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 485397570,
+            "lat": 38.8762218,
+            "lon": -104.8813631,
+            "tags": {
+                "name": "Three Graces",
+                "natural": "bare_rock",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "way",
+            "id": 485397571,
+            "lat": 38.877163,
+            "lon": -104.8817339,
+            "tags": {
+                "name": "Pulpit Rock",
+                "natural": "bare_rock",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "way",
+            "id": 485397572,
+            "lat": 38.8782741,
+            "lon": -104.880948,
+            "tags": {
+                "name": "Sentinel Spires",
+                "natural": "rock",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "way",
+            "id": 485397573,
+            "lat": 38.8772706,
+            "lon": -104.8802486,
+            "tags": {
+                "name": "South Gateway Rock",
+                "natural": "bare_rock",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "way",
+            "id": 485397575,
+            "lat": 38.875865,
+            "lon": -104.8839516,
+            "tags": {
+                "name": "Giant Footprint",
+                "natural": "rock",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "way",
+            "id": 485397598,
+            "lat": 38.8643374,
+            "lon": -104.8972486,
+            "tags": {
+                "name": "Steamboat Rock",
+                "natural": "rock",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Steamboat_Rock%2C_Garden_of_the_Gods%2C_Colorado_Springs%2C_CO.JPG/1280px-Steamboat_Rock%2C_Garden_of_the_Gods%2C_Colorado_Springs%2C_CO.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 485397601,
+            "lat": 38.864776,
+            "lon": -104.8975756,
+            "tags": {
+                "name": "Balanced Rock",
+                "natural": "bare_rock",
+                "tourism": "attraction",
+                "wheelchair": "limited"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Steamboat_Rock%2C_Garden_of_the_Gods%2C_Colorado_Springs%2C_CO.JPG/1280px-Steamboat_Rock%2C_Garden_of_the_Gods%2C_Colorado_Springs%2C_CO.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 485397604,
+            "lat": 38.8647321,
+            "lon": -104.8974257,
+            "tags": {
+                "alt_name": "Balancing Rock",
+                "name": "Balanced Rock",
+                "natural": "rock",
+                "tourism": "attraction",
+                "wheelchair": "limited",
+                "wikidata": "Q70330592"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Steamboat_Rock%2C_Garden_of_the_Gods%2C_Colorado_Springs%2C_CO.JPG/1280px-Steamboat_Rock%2C_Garden_of_the_Gods%2C_Colorado_Springs%2C_CO.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 548627447,
+            "lat": 38.7701086,
+            "lon": -104.853391,
+            "tags": {
+                "attraction": "animal",
+                "barrier": "fence",
+                "name": "Domestic Goats",
+                "natural": "sand",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Giraffes_at_the_Cheyenne_Mountain_Zoo_in_Colorado_Springs%2C_Colorado._The_zoo%27s_giraffe_breeding_program_is_the_most_prolific_in_the_world._There_is_even_a_Web_cam_%28online_camera_view%29_for_giraffe_LCCN2015633992.tif/lossy-page1-1280px-thumbnail.tif.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 656350902,
+            "lat": 38.8745002,
+            "lon": -104.8795665,
+            "tags": {
+                "name": "Gray Rock",
+                "natural": "bare_rock",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "way",
+            "id": 656350903,
+            "lat": 38.8731557,
+            "lon": -104.880701,
+            "tags": {
+                "name": "Sleeping Giant",
+                "natural": "bare_rock",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "way",
+            "id": 834284110,
+            "lat": 38.8295071,
+            "lon": -104.8296242,
+            "tags": {
+                "addr:housenumber": "200",
+                "addr:state": "CO",
+                "addr:street": "South Sierra Madre Street",
+                "building": "yes",
+                "check_date": "2023-03-26",
+                "name": "U.S. Olympic and Paralympic Museum",
+                "opening_hours": "Mo-Fr,Su 10:00-17:00; Sa 09:00-18:00",
+                "phone": "+1 719-497-1234",
+                "tourism": "museum",
+                "website": "https://usopm.org",
+                "wheelchair": "yes"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/USOPM-2023-03.jpg/1280px-USOPM-2023-03.jpg",
+            "image_source": "wikipedia_verified"
+        }
+    ]
+}

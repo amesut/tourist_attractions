@@ -1,0 +1,479 @@
+{
+    "city_metadata": {
+        "city_name": "Knoxville",
+        "state_code": "TN",
+        "state_full": "Tennessee",
+        "city_summary": "Knoxville is a city in Knox County, Tennessee, United States, and its county seat. Located on the Tennessee River within the Appalachian Mountains, it is the largest city in the Grand Division of East Tennessee. Knoxville had a population of 190,740 at the 2020 census, making it the third-most populous city in Tennessee.",
+        "city_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Four-market-square-tn1.jpg/1280px-Four-market-square-tn1.jpg",
+        "city_lat": 35.9617,
+        "city_lon": -83.9232,
+        "source": "wikipedia_verified_engine"
+    },
+    "attractions": [
+        {
+            "type": "node",
+            "id": 356897651,
+            "lat": 35.9976292,
+            "lon": -83.8854784,
+            "tags": {
+                "ele": "287",
+                "gnis:feature_id": "1651729",
+                "name": "The Muse Knoxville",
+                "tourism": "museum",
+                "website": "https://www.themuseknoxville.org/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Chilhowee-park-entrance-tn1.jpg/1280px-Chilhowee-park-entrance-tn1.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 367089453,
+            "lat": 41.3280519,
+            "lon": -93.1107597,
+            "tags": {
+                "addr:state": "IA",
+                "ele": "278",
+                "gnis:feature_id": "1975868",
+                "name": "National Sprint Car Hall of Fame and Museum",
+                "source": "USGS Geonames",
+                "tourism": "museum",
+                "website": "https://www.sprintcarhof.com/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/6c/957bWoU.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 3750640983,
+            "lat": 35.9746674,
+            "lon": -83.901207,
+            "tags": {
+                "name": "Winstead Mansion",
+                "opening_hours": "Sa 09:00-03:00",
+                "tourism": "museum"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9579181431,
+            "lat": 35.9683972,
+            "lon": -83.921139,
+            "tags": {
+                "name": "Knox Selfie Lab",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Church-of-immaculate-conception-knoxville-tn2.jpg/1280px-Church-of-immaculate-conception-knoxville-tn2.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 155024535,
+            "lat": 35.9520094,
+            "lon": -83.9272212,
+            "tags": {
+                "addr:state": "TN",
+                "building": "yes",
+                "contact:instagram": "http://instagram.com/mcclungmuseum",
+                "contact:twitter": "https://www.twitter.com/mcclungmuseum",
+                "contact:youtube": "https://www.youtube.com/user/mcclungmuseum",
+                "ele": "279",
+                "gnis:feature_id": "1321634",
+                "museum": "history",
+                "name": "McClung Museum",
+                "opening_hours": "Tu-Sa 9:00-18:00, Su 10:00-17:00",
+                "operator": "University of Tennessee, Knoxville",
+                "operator:type": "university",
+                "source": "USGS Geonames",
+                "tourism": "museum",
+                "website": "https://mcclungmuseum.utk.edu/",
+                "wheelchair": "yes"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/McClung_Museum_of_Natural_History_%26_Culture.jpg/1280px-McClung_Museum_of_Natural_History_%26_Culture.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 300799765,
+            "lat": 35.9639973,
+            "lon": -83.9179668,
+            "tags": {
+                "addr:city": "Knoxville",
+                "addr:housenumber": "601",
+                "addr:postcode": "37902",
+                "addr:state": "TN",
+                "addr:street": "South Gay Street",
+                "building": "yes",
+                "building:levels": "3",
+                "construction_date": "1874",
+                "museum": "history",
+                "name": "East Tennessee History Center",
+                "opening_hours": "sunrise-sunset",
+                "operator": "East Tennessee Historical Society",
+                "operator:type": "private_non_profit",
+                "tourism": "museum",
+                "wikidata": "Q7083813"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/East_Tennessee_History_Center_2025b.jpg/1280px-East_Tennessee_History_Center_2025b.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 393867385,
+            "lat": 32.7244063,
+            "lon": -83.9979259,
+            "tags": {
+                "addr:city": "Knoxville",
+                "addr:state": "GA",
+                "addr:street": "US 80",
+                "building": "yes",
+                "ele": "147",
+                "heritage": "2",
+                "heritage:operator": "nrhp",
+                "historic": "heritage",
+                "name": "Historic Crawford County Courthouse",
+                "ref:nrhp": "80001008",
+                "source": "USGS Geonames",
+                "tourism": "attraction",
+                "wikidata": "Q5182843",
+                "wikipedia": "en:Crawford County Courthouse (Georgia)"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/66/Crawford_County_Courthouse%2C_Knoxville_%28Crawford_County%2C_Georgia%29.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 393877698,
+            "lat": 32.7241116,
+            "lon": -83.9957098,
+            "tags": {
+                "addr:city": "Knoxville",
+                "addr:state": "GA",
+                "addr:street": "GA 42",
+                "building": "yes",
+                "contact:website": "http://www.crawfordcountyhistoricalsociety.org/Pages/Jail.html",
+                "heritage": "2",
+                "heritage:operator": "nrhp",
+                "historic": "heritage",
+                "museum": "history",
+                "name": "Old Jail Museum",
+                "operator": "Crawford County Historical Society",
+                "ref:nrhp": "89000418",
+                "tourism": "museum",
+                "website": "http://www.crawfordcountyhistoricalsociety.org/Pages/Jail.html",
+                "wikidata": "Q5182849",
+                "wikipedia": "en: Crawford County Jail"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/1843oldknoxvillejail.jpg/1280px-1843oldknoxvillejail.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 477948941,
+            "lat": 35.9610968,
+            "lon": -83.9147849,
+            "tags": {
+                "addr:city": "Knoxville",
+                "addr:housenumber": "200",
+                "addr:postcode": "37902",
+                "addr:state": "TN",
+                "addr:street": "West Hill Avenue",
+                "boundary": "protected_area",
+                "building": "yes",
+                "heritage": "2",
+                "heritage:operator": "nrhp",
+                "historic": "house",
+                "name": "Blount Mansion",
+                "nrhp:criteria": "(B),(C)",
+                "nrhp:inscription_date": "10/15/1966",
+                "nrhp:nhl": "yes",
+                "protection_title": "protected_site",
+                "ref:nrhp": "66000726",
+                "tourism": "museum",
+                "website": "https://blountmansion.org/",
+                "wikidata": "Q8005646"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/BlountMansion.jpg/1280px-BlountMansion.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 477950598,
+            "lat": 35.9730142,
+            "lon": -83.8981527,
+            "tags": {
+                "addr:city": "Knoxville",
+                "addr:housenumber": "1927",
+                "addr:postcode": "37915",
+                "addr:state": "TN",
+                "addr:street": "Dandridge Avenue Southeast",
+                "building": "yes",
+                "name": "Beck Cultural Exchange Center",
+                "tourism": "museum",
+                "website": "https://www.beckcenter.net/"
+            }
+        },
+        {
+            "type": "way",
+            "id": 622362636,
+            "lat": 35.9979717,
+            "lon": -83.8894874,
+            "tags": {
+                "addr:city": "Knoxville",
+                "addr:housenumber": "3500",
+                "addr:postcode": "37914",
+                "addr:state": "TN",
+                "addr:street": "Knoxville Zoo Drive",
+                "gnis:feature_id": "1321645",
+                "name": "Zoo Knoxville",
+                "operator": "City of Knoxville",
+                "tourism": "zoo",
+                "website": "https://zooknoxville.org/",
+                "wikidata": "Q6423701",
+                "wikipedia": "en:Zoo Knoxville"
+            }
+        },
+        {
+            "type": "way",
+            "id": 741772365,
+            "lat": 35.9632172,
+            "lon": -83.911123,
+            "tags": {
+                "addr:city": "Knoxville",
+                "addr:housenumber": "700",
+                "addr:postcode": "37915",
+                "addr:state": "TN",
+                "addr:street": "Hall of Fame Drive",
+                "building": "yes",
+                "contact:twitter": "WBHOF",
+                "fee": "yes",
+                "museum": "sports",
+                "name": "Women's Basketball Hall of Fame",
+                "opening_hours": "Tu-Sa 10:00-17:00",
+                "opening_hours:url": "https://www.wbhof.com/plan-your-experience/admission-hours/",
+                "phone": "+1 865 633 9000",
+                "tourism": "museum",
+                "website": "https://www.wbhof.com/",
+                "wikidata": "Q2038865",
+                "wikipedia": "en:Women's Basketball Hall of Fame"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Womens-basketball-hall-of-fame-tn1.jpg/1280px-Womens-basketball-hall-of-fame-tn1.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 741775631,
+            "lat": 35.9624673,
+            "lon": -83.9252111,
+            "tags": {
+                "addr:city": "Knoxville",
+                "addr:housenumber": "1050",
+                "addr:postcode": "37916-1653",
+                "addr:state": "TN",
+                "addr:street": "Worlds Fair Park Drive",
+                "building": "yes",
+                "ele": "272",
+                "email": "info@knoxart.org",
+                "fee": "no",
+                "gnis:feature_id": "1953953",
+                "museum": "art",
+                "name": "Knoxville Museum of Art",
+                "opening_hours": "Tu-Sa 10:00-17:00; Su 13:00-17:00",
+                "opening_hours:url": "https://knoxart.org/contact/",
+                "phone": "+1-865-525-6101",
+                "source": "USGS Geonames",
+                "tourism": "museum",
+                "website": "https://knoxart.org/",
+                "wheelchair": "yes",
+                "wikidata": "Q6423681",
+                "wikipedia": "en:Knoxville Museum of Art"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/en/6/6f/Knoxville_Museum_of_Art_logo.png",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 744147238,
+            "lat": 35.9976956,
+            "lon": -83.8855199,
+            "tags": {
+                "addr:city": "Knoxville",
+                "addr:housenumber": "516",
+                "addr:postcode": "37914",
+                "addr:state": "TN",
+                "addr:street": "North Beaman Street",
+                "building": "yes",
+                "name": "The Muse Knoxville",
+                "opening_hours": "Mo-Su 10:00-16:00",
+                "phone": "+1-865-594-1494",
+                "tourism": "museum",
+                "website": "https://themuseknoxville.org/",
+                "wheelchair": "yes"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Chilhowee-park-entrance-tn1.jpg/1280px-Chilhowee-park-entrance-tn1.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 1029404727,
+            "lat": 35.971922,
+            "lon": -83.9032629,
+            "tags": {
+                "addr:city": "Knoxville",
+                "addr:housenumber": "1711",
+                "addr:postcode": "37915",
+                "addr:state": "TN",
+                "addr:street": "Dandridge Avenue Southeast",
+                "building": "yes",
+                "fee": "yes",
+                "fee:conditional": "no @ (age < 13)",
+                "museum": "local",
+                "name": "Mabry-Hazen House",
+                "opening_hours:url": "https://www.mabryhazen.com/tours",
+                "tourism": "museum",
+                "website": "https://www.mabryhazen.com/",
+                "wikidata": "Q14710039",
+                "wikipedia": "en:Mabry–Hazen House"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Historic-homes-mabry-hazen-house-photo1.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 1054685804,
+            "lat": 40.9082669,
+            "lon": -90.2842155,
+            "tags": {
+                "building": "yes",
+                "name": "Old Knox County Courthouse",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Knox_County_Courthouse_and_Hall_of_Records.jpg/1280px-Knox_County_Courthouse_and_Hall_of_Records.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 1190617564,
+            "lat": 40.9087456,
+            "lon": -90.283708,
+            "tags": {
+                "building": "yes",
+                "name": "Knox County Museum",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Knox_County_Courthouse_and_Hall_of_Records.jpg/1280px-Knox_County_Courthouse_and_Hall_of_Records.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 30395,
+            "lat": 36,
+            "lon": -86,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Flag_of_Tennessee.svg/1280px-Flag_of_Tennessee.svg.png",
+            "description": "Tennessee ( , locally ), officially the State of Tennessee, is a landlocked state in the Southeastern region of the United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Tennessee",
+                "wikipedia": "en:Tennessee",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 135358,
+            "lat": 35.79805556,
+            "lon": -83.56388889,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Pigeon_Forge%2C_TN_2016.03.27_%2824%29.jpg/1280px-Pigeon_Forge%2C_TN_2016.03.27_%2824%29.jpg",
+            "description": "Pigeon Forge is a city in Sevier County, Tennessee, United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Pigeon Forge, Tennessee",
+                "wikipedia": "en:Pigeon Forge, Tennessee",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 102797,
+            "lat": 35.065958,
+            "lon": -85.248386,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Chattanooga%2C_Tennessee_%282023%29.jpg/1280px-Chattanooga%2C_Tennessee_%282023%29.jpg",
+            "description": "Chattanooga ( CHAT-ə-NOO-gə) is a city in Hamilton County, Tennessee, United States, and its county seat.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Chattanooga, Tennessee",
+                "wikipedia": "en:Chattanooga, Tennessee",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 8724557,
+            "lat": 36.161111,
+            "lon": -86.776389,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Broadway_%28Nashville%29_lights.jpg/1280px-Broadway_%28Nashville%29_lights.jpg",
+            "description": "Broadway is a major thoroughfare in the downtown area in Nashville, Tennessee.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Broadway (Nashville, Tennessee)",
+                "wikipedia": "en:Broadway (Nashville, Tennessee)",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 135357,
+            "lat": 35.71444444,
+            "lon": -83.52472222,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Gatlinburg%2C_Tennessee_IMG_6598.tif/lossless-page1-1280px-Gatlinburg%2C_Tennessee_IMG_6598.tif.png",
+            "description": "Gatlinburg is a city in Sevier County, Tennessee, United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Gatlinburg, Tennessee",
+                "wikipedia": "en:Gatlinburg, Tennessee",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 6077257,
+            "lat": 36.16222222,
+            "lon": -86.77444444,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Nashville_Skyline_from_Ft_Negly-_Photo_2-_June_2022.jpg/1280px-Nashville_Skyline_from_Ft_Negly-_Photo_2-_June_2022.jpg",
+            "description": "The Nashville metropolitan area (officially the Nashville–Davidson–Murfreesboro–Franklin, TN Metropolitan Statistical Area) is a metropolitan statistical area in north-central Tennessee.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Nashville metropolitan area",
+                "wikipedia": "en:Nashville metropolitan area",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 91693,
+            "lat": 35.78,
+            "lon": -83.52,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Sevier_County_Courthouse.jpg/1280px-Sevier_County_Courthouse.jpg",
+            "description": "Sevier County ( sə-VEER) is a county of the U.S. state of Tennessee.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Sevier County, Tennessee",
+                "wikipedia": "en:Sevier County, Tennessee",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 10787698,
+            "lat": 35.96222222,
+            "lon": -83.91666667,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Bijou-theater-lamar-house-tn1.jpg/1280px-Bijou-theater-lamar-house-tn1.jpg",
+            "description": "The Bijou Theatre is a theater located in Knoxville, Tennessee, United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Bijou Theatre (Knoxville, Tennessee)",
+                "wikipedia": "en:Bijou Theatre (Knoxville, Tennessee)",
+                "tourism": "attraction"
+            }
+        }
+    ]
+}

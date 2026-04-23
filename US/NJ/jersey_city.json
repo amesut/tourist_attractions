@@ -1,0 +1,427 @@
+{
+    "city_metadata": {
+        "city_name": "Jersey City",
+        "state_code": "NJ",
+        "state_full": "New Jersey",
+        "city_summary": "Jersey City is the second-most populous city in the U.S. state of New Jersey, after Newark. It is the county seat of Hudson County, the county's most populous city and its largest by area. As of the 2020 United States census, the city's population was 292,449, an increase of 44,852 (+18.1%) from the 2010 census count of 247,597.",
+        "city_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Journal_Square_Jersey_City_November_2021_003.jpg/1280px-Journal_Square_Jersey_City_November_2021_003.jpg",
+        "city_lat": 40.71,
+        "city_lon": -74.06,
+        "source": "wikipedia_verified_engine"
+    },
+    "attractions": [
+        {
+            "type": "node",
+            "id": 2525734185,
+            "lat": 40.7120205,
+            "lon": -74.033915,
+            "tags": {
+                "amenity": "clock",
+                "date": "no",
+                "display": "analog",
+                "faces": "1",
+                "historic": "yes",
+                "name": "Colgate Clock",
+                "start_date": "1924",
+                "support": "billboard",
+                "tourism": "attraction",
+                "wikidata": "Q1108243",
+                "wikipedia": "en:Colgate Clock (Jersey City)"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/10.7.22ColgateClockByLuigiNovi10.jpg/1280px-10.7.22ColgateClockByLuigiNovi10.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 8920490209,
+            "lat": 40.7030407,
+            "lon": -74.0913269,
+            "tags": {
+                "addr:city": "Jersey City",
+                "addr:housenumber": "1841",
+                "addr:postcode": "07305",
+                "addr:state": "NJ",
+                "addr:street": "John F. Kennedy Boulevard",
+                "museum": "history",
+                "name": "Afro-American Historical Society Museum",
+                "opening_hours": "Sa 09:00-17:00",
+                "tourism": "museum",
+                "website": "https://visitnj.org/nj-galleries/afro-american-historical-society-museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Greenville_Library_n_museum_1841_JFKB_jeh.jpg/1280px-Greenville_Library_n_museum_1841_JFKB_jeh.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 53883375,
+            "lat": 40.7081786,
+            "lon": -74.054603,
+            "tags": {
+                "addr:city": "Jersey City",
+                "addr:country": "US",
+                "addr:housenumber": "222",
+                "addr:postcode": "07305",
+                "addr:state": "NJ",
+                "addr:street": "Jersey City Boulevard",
+                "building": "yes",
+                "designation": "Children's Science Museum",
+                "height": "10",
+                "name": "Liberty Science Center",
+                "phone": "+1-201-200-1000",
+                "source": "http://lsc.org",
+                "tourism": "museum",
+                "website": "https://lsc.org/",
+                "wikidata": "Q6541946"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Liberty_State_Park_HBLR_Station.jpg/1280px-Liberty_State_Park_HBLR_Station.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 95161971,
+            "lat": 40.6991123,
+            "lon": -74.0395257,
+            "tags": {
+                "addr:city": "New York",
+                "addr:postcode": "10004",
+                "addr:state": "NJ",
+                "alt_name": "Ellis Island National Museum of Immigration",
+                "building": "yes",
+                "building:levels": "3",
+                "check_date": "2024-09-13",
+                "ele": "2",
+                "fee": "no",
+                "gnis:feature_id": "2368022",
+                "historic": "building",
+                "name": "Ellis Island Immigration Museum",
+                "name:es": "Museo Nacional de Inmigración de la Isla Ellis",
+                "name:fr": "Musée de l'immigration d'Ellis Island",
+                "phone": "+1-212-363-3200",
+                "source": "bing;USGS Geonames",
+                "tourism": "museum",
+                "website": "https://www.nps.gov/elis/index.htm",
+                "wikidata": "Q102312434"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Aerial_view_of_Ellis_Island%2C_Jersey_City%2C_New_Jersey_LCCN2011635626_-_cropped_balance.jpg/1280px-Aerial_view_of_Ellis_Island%2C_Jersey_City%2C_New_Jersey_LCCN2011635626_-_cropped_balance.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 232065091,
+            "lat": 40.6983253,
+            "lon": -74.0542917,
+            "tags": {
+                "building": "yes",
+                "name": "Liberty State Park Interpretive Center",
+                "tourism": "museum",
+                "type": "nature_museum"
+            }
+        },
+        {
+            "type": "way",
+            "id": 404322369,
+            "lat": 40.7154287,
+            "lon": -74.0370396,
+            "tags": {
+                "addr:city": "Jersey City",
+                "addr:housenumber": "80",
+                "addr:postcode": "07302-4522",
+                "addr:state": "NJ",
+                "addr:street": "Grand Street",
+                "building": "museum",
+                "museum": "art",
+                "name": "Museum of Russian Art",
+                "short_name": "MoRA",
+                "tourism": "museum",
+                "website": "https://moramuseum.org/",
+                "wikidata": "Q4044655",
+                "wikipedia": "en:Museum of Russian Art"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Museum_of_Russian_Art_%28MoRA%29.jpg/1280px-Museum_of_Russian_Art_%28MoRA%29.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 411768538,
+            "lat": 40.7299641,
+            "lon": -74.0664226,
+            "tags": {
+                "access": "yes",
+                "addr:city": "Jersey City",
+                "addr:housenumber": "298",
+                "addr:postcode": "07306",
+                "addr:state": "NJ",
+                "addr:street": "Academy Street",
+                "alt_name": "Apple Tree House",
+                "building": "yes",
+                "building:architecture": "greek_revival",
+                "historic": "house",
+                "museum": "history",
+                "name": "Van Wagenen House",
+                "roof:shape": "gabled",
+                "start_date": "1740",
+                "tourism": "museum",
+                "wikidata": "Q7913755",
+                "wikipedia": "en:Van Wagenen House"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Van_Wagenen_House_Jersey_City_September_2020.jpg/1280px-Van_Wagenen_House_Jersey_City_September_2020.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 650451824,
+            "lat": 40.6984621,
+            "lon": -74.0540479,
+            "tags": {
+                "addr:city": "Jersey City",
+                "addr:housenumber": "275",
+                "addr:postcode": "07305",
+                "addr:state": "NJ",
+                "addr:street": "Freedom Way",
+                "building": "yes",
+                "name": "Liberty State Park Interpretive Center",
+                "opening_hours": "We-Su 08:00-18:00",
+                "tourism": "museum",
+                "type": "nature_museum"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 21648,
+            "lat": 40,
+            "lon": -74.5,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Flag_of_New_Jersey.svg/1280px-Flag_of_New_Jersey.svg.png",
+            "description": "New Jersey is a state located in both the Mid-Atlantic and Northeastern regions of the United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "New Jersey",
+                "wikipedia": "en:New Jersey",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 58123082,
+            "lat": 39.34972222,
+            "lon": -74.45083333,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Atlantic_City_Boardwalk_view_south_from_Caesars_Atlantic_City_by_Silveira_Neto_June_24_2012.jpg/1280px-Atlantic_City_Boardwalk_view_south_from_Caesars_Atlantic_City_by_Silveira_Neto_June_24_2012.jpg",
+            "description": "The Atlantic City Boardwalk is an oceanfront boardwalk in Atlantic City, New Jersey.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Atlantic City Boardwalk",
+                "wikipedia": "en:Atlantic City Boardwalk",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 442163,
+            "lat": 40.048,
+            "lon": -74.052,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f5/NJ_LBI_Lighthouse_04.JPG",
+            "description": "The Jersey Shore, commonly called the Shore by locals, is the coastal region of the U.S. state of New Jersey.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Jersey Shore",
+                "wikipedia": "en:Jersey Shore",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 106211,
+            "lat": 39.3625,
+            "lon": -74.425,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/A_sunset_view_of_the_beach_in_Atlantic_City%2C_NJ.jpg/1280px-A_sunset_view_of_the_beach_in_Atlantic_City%2C_NJ.jpg",
+            "description": "Atlantic City, sometimes referred to by its initials A.C., is a seaside resort city in Atlantic County, in the U.S. state of New Jersey.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Atlantic City, New Jersey",
+                "wikipedia": "en:Atlantic City, New Jersey",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 3135679,
+            "lat": 40.71202778,
+            "lon": -74.03388889,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/10.7.22ColgateClockByLuigiNovi10.jpg/1280px-10.7.22ColgateClockByLuigiNovi10.jpg",
+            "description": "The Colgate Clock is an octagonal clock facing the Hudson River near Exchange Place in Jersey City, New Jersey.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Colgate Clock (Jersey City)",
+                "wikipedia": "en:Colgate Clock (Jersey City)",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 6586658,
+            "lat": 40.73527778,
+            "lon": -74.07416667,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Tonnelle_circle_usgs.jpg",
+            "description": "Marion is a section of Jersey City in Hudson County, in the U.S. state of New Jersey.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Marion Section",
+                "wikipedia": "en:Marion Section",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 125458,
+            "lat": 40.222884,
+            "lon": -74.010232,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Paramount_Theatre_Asbury_Park_Convention_Hall_NJ2.jpg/1280px-Paramount_Theatre_Asbury_Park_Convention_Hall_NJ2.jpg",
+            "description": "Asbury Park () is a beachfront city located on the Jersey Shore in Monmouth County in the U.S. state of New Jersey.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Asbury Park, New Jersey",
+                "wikipedia": "en:Asbury Park, New Jersey",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 125237,
+            "lat": 40.71,
+            "lon": -74.06,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Journal_Square_Jersey_City_November_2021_003.jpg/1280px-Journal_Square_Jersey_City_November_2021_003.jpg",
+            "description": "Jersey City is the second-most populous city in the U.S. state of New Jersey, after Newark.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Jersey City, New Jersey",
+                "wikipedia": "en:Jersey City, New Jersey",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 125129,
+            "lat": 38.988914,
+            "lon": -74.819824,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Sunrise_in_Wildwood_New_Jersey_with_Atlantic_Ocean_looking_northeast.jpg/1280px-Sunrise_in_Wildwood_New_Jersey_with_Atlantic_Ocean_looking_northeast.jpg",
+            "description": "Wildwood is a city in Cape May County in the U.S. state of New Jersey.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Wildwood, New Jersey",
+                "wikipedia": "en:Wildwood, New Jersey",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 125108,
+            "lat": 38.93333333,
+            "lon": -74.92138889,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Cape_May_Beach_Ave_from_the_sea_3.JPG/1280px-Cape_May_Beach_Ave_from_the_sea_3.JPG",
+            "description": "Cape May (sometimes Cape May City) is a  city and seaside resort located at the southern tip of Cape May Peninsula in Cape May County in the U.S. state of New Jersey.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Cape May, New Jersey",
+                "wikipedia": "en:Cape May, New Jersey",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 125235,
+            "lat": 40.745,
+            "lon": -74.0325,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Hoboken_November_2021_010.jpg/1280px-Hoboken_November_2021_010.jpg",
+            "description": "Hoboken ( HOH-boh-kən; Unami: Hupokàn) is a city in Hudson County in the U.S. state of New Jersey.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Hoboken, New Jersey",
+                "wikipedia": "en:Hoboken, New Jersey",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 685462,
+            "lat": 38.9444,
+            "lon": -74.9705,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Cape_may.jpg",
+            "description": "Sunset Beach is a beach located on the Cape May Peninsula, in Lower Township, New Jersey, near Cape May Point,  along the Delaware Bay, in the U.S. state of New Jersey.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Sunset Beach (New Jersey)",
+                "wikipedia": "en:Sunset Beach (New Jersey)",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 211302,
+            "lat": 39.32064722,
+            "lon": -74.51190278,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/2025-04-28_12_38_15_Right_and_front_side_of_Lucy_the_Elephant_in_Margate_City%2C_Atlantic_County%2C_New_Jersey.jpg/1280px-2025-04-28_12_38_15_Right_and_front_side_of_Lucy_the_Elephant_in_Margate_City%2C_Atlantic_County%2C_New_Jersey.jpg",
+            "description": "Lucy the Elephant is a six-story elephant-shaped wood frame and tin clad building, constructed in 1882 by James V. Lafferty in Margate City, New Jersey.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Lucy the Elephant",
+                "wikipedia": "en:Lucy the Elephant",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 102775,
+            "lat": 39.94,
+            "lon": -75.105,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Adventure_Aquarium_%2853572702368%29.jpg/1280px-Adventure_Aquarium_%2853572702368%29.jpg",
+            "description": "Camden is a city in Camden County, in the U.S. state of New Jersey.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Camden, New Jersey",
+                "wikipedia": "en:Camden, New Jersey",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 125665,
+            "lat": 40.91472222,
+            "lon": -74.1625,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/2024-08-13_11_25_40_View_north-northeast_towards_downtown_Paterson_from_the_main_overlook_within_the_Garret_Mountain_Reservation_in_Paterson%2C_Passaic_County%2C_New_Jersey.jpg/1280px-thumbnail.jpg",
+            "description": "Paterson (English pronunciation: /ˈpætɚsən/ ) is the largest city in and the county seat of Passaic County, in the U.S. state of New Jersey.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Paterson, New Jersey",
+                "wikipedia": "en:Paterson, New Jersey",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 6135509,
+            "lat": 40.73555556,
+            "lon": -74.06463889,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/India_Square_JC_jeh.JPG/1280px-India_Square_JC_jeh.JPG",
+            "description": "India Square, home to the highest concentration of Asian Indians in the Western Hemisphere, and known as \"Little India,\" is a South Asian-focused commercial and restaurant district in the Bombay, Journal Square, and Marion Section neighborhoods of Jersey City, New Jersey, U.S.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "India Square",
+                "wikipedia": "en:India Square",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 10297047,
+            "lat": 40.7197,
+            "lon": -74.0505,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/JC_Main_Library.jpg/1280px-JC_Main_Library.jpg",
+            "description": "The Jersey City Museum was a municipal art museum in Jersey City, New Jersey, United States, which opened in 1901 in the main branch of the Jersey City Free Public Library.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Jersey City Museum",
+                "wikipedia": "en:Jersey City Museum",
+                "tourism": "attraction"
+            }
+        }
+    ]
+}

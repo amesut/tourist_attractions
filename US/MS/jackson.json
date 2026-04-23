@@ -1,0 +1,571 @@
+{
+    "city_metadata": {
+        "city_name": "Jackson",
+        "state_code": "MS",
+        "state_full": "Mississippi",
+        "city_summary": "Jackson is the capital and most populous city of the U.S. state of Mississippi. The city sits on the Pearl River and is located in the greater Jackson Prairie region of Mississippi. Along with Raymond, Jackson is one of two county seats for Hinds County.",
+        "city_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Mississippi_State_Capitol_Building_%2826815684617%29.jpg/1280px-Mississippi_State_Capitol_Building_%2826815684617%29.jpg",
+        "city_lat": 32.29888889,
+        "city_lon": -90.18472222,
+        "source": "wikipedia_verified_engine"
+    },
+    "attractions": [
+        {
+            "type": "node",
+            "id": 367134863,
+            "lat": 32.3241473,
+            "lon": -90.1565185,
+            "tags": {
+                "addr:city": "Jackson",
+                "addr:housenumber": "2148",
+                "addr:postcode": "39202-1353",
+                "addr:state": "MS",
+                "addr:street": "Riverside Drive",
+                "ele": "84",
+                "gnis:feature_id": "688487",
+                "name": "Mississippi Museum of Natural Science",
+                "source": "USGS Geonames",
+                "tourism": "museum",
+                "website": "https://www.mdwfp.com",
+                "wikidata": "Q6879236",
+                "wikipedia": "en:Mississippi Museum of Natural Science"
+            }
+        },
+        {
+            "type": "node",
+            "id": 368174105,
+            "lat": 38.3507668,
+            "lon": -120.7731154,
+            "tags": {
+                "addr:state": "CA",
+                "alt_name": "Amador County Historical Society",
+                "ele": "381",
+                "gnis:feature_id": "1733381",
+                "name": "Amador County Museum",
+                "source": "USGS Geonames",
+                "tourism": "museum",
+                "website": "https://amadorcountyhistoricalsociety.org/index.php/amador-county-museum"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1431242197,
+            "lat": 32.3054071,
+            "lon": -90.1867736,
+            "tags": {
+                "addr:city": "Jackson",
+                "addr:housenumber": "528",
+                "addr:postcode": "39202",
+                "addr:state": "MS",
+                "addr:street": "Bloom Street",
+                "name": "Smith Robertson Museum and Cultural Center",
+                "tourism": "museum",
+                "website": "https://www.jacksonms.gov/smith-robertson-museum/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Smith_Robertson_Elementary_School.jpg/1280px-Smith_Robertson_Elementary_School.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 1431242373,
+            "lat": 32.308259,
+            "lon": -90.1762701,
+            "tags": {
+                "name": "The Oaks House Museum",
+                "source": "Bing",
+                "tourism": "museum",
+                "website": "https://www.theoakshousemuseum.org/",
+                "wikidata": "Q7754598",
+                "wikipedia": "en:The Oaks House Museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/32/OaksHouse2.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 1431242396,
+            "lat": 32.2974676,
+            "lon": -90.1862586,
+            "tags": {
+                "addr:city": "Jackson",
+                "addr:housenumber": "201",
+                "addr:postcode": "39201",
+                "addr:state": "MS",
+                "addr:street": "East Pascagoula Street",
+                "email": "admin@muslimmuseum.org",
+                "name": "International Museum of Muslim Cultures",
+                "opening_hours": "Tu-Th 10:00-17:00, Sa 11:00-16:00",
+                "phone": "+1 601 960 0440",
+                "source": "Bing",
+                "tourism": "museum",
+                "website": "https://muslimmuseum.org/"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1431242539,
+            "lat": 32.2974268,
+            "lon": -90.1858295,
+            "tags": {
+                "name": "Arts Center of Mississippi",
+                "source": "Bing",
+                "tourism": "museum",
+                "website": "https://downtown-jackson.com/listing/arts-center-of-mississippi/"
+            }
+        },
+        {
+            "type": "node",
+            "id": 3276172666,
+            "lat": 36.3894882,
+            "lon": -77.4216977,
+            "tags": {
+                "name": "Northampton County Museum",
+                "tourism": "museum",
+                "website": "https://northamptonncmuseum.com/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Northampton_County_Courthouse_Square.jpg/1280px-Northampton_County_Courthouse_Square.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 4470883176,
+            "lat": 42.2144054,
+            "lon": -84.4170487,
+            "tags": {
+                "addr:housenumber": "3225",
+                "addr:street": "4th Street",
+                "name": "Ella Sharp Museum",
+                "phone": "+1 517 787 2320",
+                "tourism": "museum",
+                "website": "https://ellasharpmuseum.org/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Ella_Sharp_House_Jackson.jpg/1280px-Ella_Sharp_House_Jackson.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 6977935080,
+            "lat": 43.4797739,
+            "lon": -110.7621437,
+            "tags": {
+                "access": "no",
+                "barrier": "gate",
+                "bicycle": "yes",
+                "foot": "yes",
+                "horse": "yes",
+                "material": "antler",
+                "motor_vehicle": "no",
+                "name": "Antler Arch",
+                "tourism": "attraction",
+                "wheelchair": "yes"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Wort_Hotel_Jackson_WY1.jpg/1280px-Wort_Hotel_Jackson_WY1.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 8585051372,
+            "lat": -26.6434586,
+            "lon": 149.6240003,
+            "tags": {
+                "name": "The Old Play Shed",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Welcome_to_Jackson_September_2019.jpg/1280px-Welcome_to_Jackson_September_2019.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 10266248675,
+            "lat": 32.2991503,
+            "lon": -90.1799353,
+            "tags": {
+                "addr:city": "Jackson",
+                "addr:housenumber": "100",
+                "addr:postcode": "39201",
+                "addr:state": "MS",
+                "addr:street": "South",
+                "email": "oldcapitolmuseum@mdah.ms.gov",
+                "museum": "history",
+                "name": "Old Capitol Museum",
+                "opening_hours": "We-Fr 10:00-14:00",
+                "phone": "+1 601 576 6920",
+                "tourism": "museum",
+                "website": "https://www.mdah.ms.gov/explore-mississippi/old-capitol-museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Jackson_December_2018_37_%28Old_Mississippi_State_Capitol%29.jpg/1280px-Jackson_December_2018_37_%28Old_Mississippi_State_Capitol%29.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 129792570,
+            "lat": 32.2962935,
+            "lon": -90.1856654,
+            "tags": {
+                "addr:city": "Jackson",
+                "addr:housenumber": "201",
+                "addr:state": "MS",
+                "addr:street": "East Pascagoula Street",
+                "building": "yes",
+                "fee": "yes",
+                "fee:conditional": "no @ (age < 5)",
+                "name": "Mississippi Museum of Art",
+                "opening_hours": "Tu-Sa 11:00-17:00; Su 13:00-17:00",
+                "source": "Bing",
+                "tourism": "museum",
+                "website": "https://www.msmuseumart.org/",
+                "wheelchair": "yes",
+                "wikidata": "Q15961641"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/19/Mississippi_Museum_of_Art_and_The_Art_Garden_at_the_Mississippi_Museum_of_Art.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 129792573,
+            "lat": 32.3201139,
+            "lon": -90.2192654,
+            "tags": {
+                "comment": "boundary may not be exact",
+                "name": "Jackson Zoological Park",
+                "source": "Bing",
+                "tourism": "zoo",
+                "website": "https://jacksonzoo.org/",
+                "wikidata": "Q6117808"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Jackson_zoo.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 129792595,
+            "lat": 32.2975892,
+            "lon": -90.1866069,
+            "tags": {
+                "addr:city": "Jackson",
+                "addr:housenumber": "203",
+                "addr:postcode": "39201",
+                "addr:street": "East Pascagoula Street",
+                "building": "yes",
+                "fee": "yes",
+                "name": "Russell C Davis Planetarium",
+                "source": "Bing",
+                "tourism": "museum",
+                "website": "https://www.jacksonms.gov/russell-c-davis-planetarium/"
+            }
+        },
+        {
+            "type": "way",
+            "id": 235551017,
+            "lat": 43.4824091,
+            "lon": -110.7626097,
+            "tags": {
+                "building": "yes",
+                "name": "Jackson Hole Historical Society Museum",
+                "source": "Bing",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Jackson_Legion_Hall_WY1.jpg/1280px-Jackson_Legion_Hall_WY1.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 239084122,
+            "lat": 35.6146068,
+            "lon": -88.8174754,
+            "tags": {
+                "addr:city": "Jackson",
+                "addr:housenumber": "105",
+                "addr:state": "TN",
+                "addr:street": "North Church Street",
+                "building": "yes",
+                "email": "rock@rockabillyhall.org",
+                "name": "Rock A Billy Hall of Fame",
+                "opening_hours": "Mo-Th 10:00-17:00; Fr-Sa 10:00-14:00",
+                "phone": "+1 731-217-3350",
+                "tourism": "museum",
+                "website": "http://www.rockabillyhall.org/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/ST._LUKE%27S_EPISCOPAL_CHURCH%2C_JACKSON%2C_MADISON_COUNTY%2C_TN.jpg/1280px-ST._LUKE%27S_EPISCOPAL_CHURCH%2C_JACKSON%2C_MADISON_COUNTY%2C_TN.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 328885208,
+            "lat": 44.1475511,
+            "lon": -71.1809014,
+            "tags": {
+                "addr:city": "Jackson",
+                "addr:housenumber": "23",
+                "addr:postcode": "03846",
+                "addr:state": "NH",
+                "addr:street": "Black Mountain Road",
+                "building": "yes",
+                "name": "Museum of White Mountain Art / Jackson Historical Society",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Jackson_NH_Town_Hall_1897.JPG/1280px-Jackson_NH_Town_Hall_1897.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 397937795,
+            "lat": 32.3365764,
+            "lon": -90.1576914,
+            "tags": {
+                "addr:city": "Jackson",
+                "addr:housenumber": "1150",
+                "addr:state": "MS",
+                "addr:street": "Lakeland Drive",
+                "alt_name": "Agriculture and Forestry Museum",
+                "building": "yes",
+                "name": "Mississippi Agriculture & Forestry Museum",
+                "tourism": "museum",
+                "website": "https://www.mdac.ms.gov/bureaus-departments/ms-ag-museum/"
+            }
+        },
+        {
+            "type": "way",
+            "id": 429579689,
+            "lat": 32.3365788,
+            "lon": -90.1558077,
+            "tags": {
+                "addr:city": "Jackson",
+                "addr:housenumber": "1152",
+                "addr:state": "MS",
+                "addr:street": "Lakeland Drive",
+                "building": "yes",
+                "name": "Mississippi Sports Hall of Fame & Museum",
+                "tourism": "museum",
+                "website": "https://msfame.com/"
+            }
+        },
+        {
+            "type": "way",
+            "id": 429692758,
+            "lat": 32.3170046,
+            "lon": -90.170297,
+            "tags": {
+                "addr:city": "Jackson",
+                "addr:housenumber": "1119",
+                "addr:postcode": "39202",
+                "addr:state": "MS",
+                "addr:street": "Pinehurst Street",
+                "building": "yes",
+                "heritage": "yes",
+                "name": "Eudora Welty House",
+                "phone": "+1-601-353-7762",
+                "tourism": "museum",
+                "website": "http://eudorawelty.org/the-house/",
+                "wikidata": "Q4244830",
+                "wikipedia": "en:Eudora Welty House"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/The_Eudora_House_and_Garden_Museum.jpg/1280px-The_Eudora_House_and_Garden_Museum.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 470496075,
+            "lat": 32.3409666,
+            "lon": -90.2126463,
+            "tags": {
+                "building": "yes",
+                "historic": "yes",
+                "name": "Medgar and Myrlie Evers House",
+                "source": "Bing",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Medgar_Evers_house%2C_Jackson%2C_MS%2C_US.jpg/1280px-Medgar_Evers_house%2C_Jackson%2C_MS%2C_US.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 550521426,
+            "lat": 32.3013109,
+            "lon": -90.1779833,
+            "tags": {
+                "building": "yes",
+                "name": "Mississippi Museum of Civil Rights",
+                "tourism": "museum",
+                "wikidata": "Q6879088"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Two_Mississippi_Museums_Logo.jpg/1280px-Two_Mississippi_Museums_Logo.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 589999144,
+            "lat": 32.3287475,
+            "lon": -90.1572558,
+            "tags": {
+                "addr:city": "Jackson",
+                "addr:housenumber": "2145",
+                "addr:postcode": "39202",
+                "addr:state": "MS",
+                "addr:street": "Museum Boulevard",
+                "building": "yes",
+                "fee": "yes",
+                "museum": "children",
+                "name": "Mississippi Children's Museum",
+                "opening_hours": "Tu-Sa 09:00-17:00; Su 13:00-18:00",
+                "operator": "Mississippi Children’s Museum",
+                "operator:type": "private_non_profit",
+                "tourism": "museum",
+                "website": "https://mschildrensmuseum.org/"
+            }
+        },
+        {
+            "type": "way",
+            "id": 653254428,
+            "lat": 35.5761788,
+            "lon": -88.8210794,
+            "tags": {
+                "building": "yes",
+                "name": "Bemis Mill Village Museum",
+                "tourism": "museum",
+                "website": "https://bemishistory.org/"
+            }
+        },
+        {
+            "type": "way",
+            "id": 1092481003,
+            "lat": 37.5522033,
+            "lon": -83.3849881,
+            "tags": {
+                "addr:city": "Jackson",
+                "addr:housenumber": "329",
+                "addr:postcode": "41339",
+                "addr:state": "KY",
+                "addr:street": "Broadway Street",
+                "building": "yes",
+                "museum": "local",
+                "name": "Breathitt County Museum",
+                "opening_hours": "Mo-Fr 09:00-15:00",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Jackson_Fire_Department_from_east.jpg/1280px-Jackson_Fire_Department_from_east.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 1192632360,
+            "lat": 35.6201454,
+            "lon": -88.833809,
+            "tags": {
+                "building": "yes",
+                "name": "Rusty's TV & Movie Car Museum",
+                "tourism": "museum"
+            }
+        },
+        {
+            "type": "way",
+            "id": 1192632771,
+            "lat": 35.6602417,
+            "lon": -88.8552194,
+            "tags": {
+                "addr:state": "TN",
+                "building": "yes",
+                "ele": "124",
+                "gnis:feature_id": "1321003",
+                "museum": "history",
+                "name": "Casey Jones Museum",
+                "source": "USGS Geonames",
+                "tourism": "museum",
+                "website": "https://www.caseyjones.com/museum/"
+            }
+        },
+        {
+            "type": "way",
+            "id": 1193652688,
+            "lat": 39.0500325,
+            "lon": -82.6398877,
+            "tags": {
+                "building": "yes",
+                "name": "Lillian Jones Museum",
+                "tourism": "museum"
+            }
+        },
+        {
+            "type": "way",
+            "id": 1426856035,
+            "lat": 32.3059259,
+            "lon": -90.3165489,
+            "tags": {
+                "attraction": "historic",
+                "name": "Mississippi River Basin Model",
+                "tourism": "attraction",
+                "wikipedia": "en:Mississippi River Basin Model"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/7a/MissBasinModel_Color_Aerial_800x538.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 1434916785,
+            "lat": 35.6599774,
+            "lon": -88.8552449,
+            "tags": {
+                "building": "yes",
+                "name": "Casey Jones Home",
+                "tourism": "museum"
+            }
+        },
+        {
+            "type": "way",
+            "id": 1434916787,
+            "lat": 35.660038,
+            "lon": -88.8557537,
+            "tags": {
+                "addr:city": "Jackson",
+                "addr:housenumber": "34",
+                "addr:state": "TN",
+                "addr:street": "Casey Jones Lane",
+                "area": "yes",
+                "name": "Judge Milton Brown Passenger Car",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "way",
+            "id": 1441494629,
+            "lat": 35.6603663,
+            "lon": -88.855066,
+            "tags": {
+                "area": "yes",
+                "name": "Engine 382",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "way",
+            "id": 1441499428,
+            "lat": 35.6595609,
+            "lon": -88.8571692,
+            "tags": {
+                "addr:city": "Jackson",
+                "addr:housenumber": "56",
+                "addr:postcode": "38305",
+                "addr:state": "TN",
+                "addr:street": "Casey Jones Lane",
+                "area": "yes",
+                "name": "Casey Jones Village",
+                "tourism": "attraction",
+                "website": "https://www.caseyjones.com/"
+            }
+        },
+        {
+            "type": "way",
+            "id": 1474543585,
+            "lat": 35.6057092,
+            "lon": -88.8135381,
+            "tags": {
+                "building": "yes",
+                "designation": "Railroad Museum",
+                "name": "NC&StL Railroad Museum",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/MURPHY_HOTEL%2C_JACKSON%2C_MADISON_COUNTY%2C_TN.jpg/1280px-MURPHY_HOTEL%2C_JACKSON%2C_MADISON_COUNTY%2C_TN.jpg",
+            "image_source": "wikipedia_verified"
+        }
+    ]
+}

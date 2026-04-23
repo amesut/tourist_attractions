@@ -1,0 +1,465 @@
+{
+    "city_metadata": {
+        "city_name": "Key West",
+        "state_code": "FL",
+        "state_full": "Florida",
+        "city_summary": "Key West (Spanish: Cayo Hueso [kaʝo ˈweso]) is an island in the Straits of Florida, at the southern end of the U.S. state of Florida. Together with all or parts of the separate islands of Dredgers Key, Fleming Key, Sunset Key, and the northern part of Stock Island, it constitutes the City of Key West.\nThe island of Key West is about 4 miles (6 kilometers) long and 1 mile (2 km) wide, with a total land area of 4.2 square miles (11 km2).",
+        "city_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Southernmost_point_buoy%2C_NE_view.jpg/1280px-Southernmost_point_buoy%2C_NE_view.jpg",
+        "city_lat": 24.555,
+        "city_lon": -81.78194444,
+        "source": "wikipedia_verified_engine"
+    },
+    "attractions": [
+        {
+            "type": "node",
+            "id": 2858737478,
+            "lat": 24.5591163,
+            "lon": -81.8070952,
+            "tags": {
+                "check_date": "2023-10-16",
+                "name": "Muncipal Aquarium",
+                "tourism": "zoo"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Key_West_Shipwreck_Historeum_Museum.jpg/1280px-Key_West_Shipwreck_Historeum_Museum.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 4771406626,
+            "lat": 24.5584554,
+            "lon": -81.8081886,
+            "tags": {
+                "addr:housenumber": "245",
+                "addr:postcode": "33040",
+                "addr:street": "Front Street",
+                "name": "Key West Extreme Adventures",
+                "name:en": "Key West Extreme Adventures",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Western_Union_113.jpg/1280px-Western_Union_113.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 10590362546,
+            "lat": 24.5575765,
+            "lon": -81.8038215,
+            "tags": {
+                "museum": "local_history",
+                "name": "Hellings House Museum",
+                "tourism": "museum",
+                "website": "https://hellingshousemuseum.org",
+                "wheelchair": "no"
+            }
+        },
+        {
+            "type": "way",
+            "id": 83421475,
+            "lat": 24.5583462,
+            "lon": -81.806936,
+            "tags": {
+                "addr:city": "Key West",
+                "addr:housenumber": "281",
+                "addr:postcode": "33040",
+                "addr:state": "FL",
+                "addr:street": "Front Street",
+                "alt_name": "Old 91",
+                "building": "yes",
+                "check_date": "2023-10-16",
+                "description": "Custom House was the site of many significant historical events, most notably the inquiry into the sinking of the USS Maine in Havana harbor in 1898. Customs, Postal Service, and U.S. District courts relocated in 1932. Transferred to the Navy in 1932.",
+                "heritage": "2",
+                "heritage:operator": "nrhp",
+                "heritage:website": "https://www.nps.gov/subjects/nationalregister/index.htm",
+                "historic": "maritime",
+                "name": "Key West Museum of Art and History at the Custom House",
+                "nrhp:criteria": "(A), (C))",
+                "nrhp:inscription_date": "1973-09-20",
+                "old_name:1891-1932": "Post Office and Custums House",
+                "old_name:1932-1972": "Naval Administration Building",
+                "protection_title": "Key West Art & Historical Society",
+                "ref:nrhp": "73000587",
+                "source_ref": "https://catalog.archives.gov/id/77843297",
+                "start_date": "1891",
+                "tourism": "museum",
+                "website": "https://www.kwahs.org/museums/custom-house/visit",
+                "wikidata": "Q7084773",
+                "wikipedia": "en:Old Post Office and Customshouse (Key West, Florida)"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Old_Post_Office_and_Customshouse%2C_Key_West.jpg/1280px-Old_Post_Office_and_Customshouse%2C_Key_West.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 83424979,
+            "lat": 24.5562417,
+            "lon": -81.8069059,
+            "tags": {
+                "building": "yes",
+                "heritage": "2",
+                "heritage:operator": "nrhp",
+                "heritage:website": "https://www.nps.gov/subjects/nationalregister/index.htm",
+                "historic": "maritime",
+                "name": "Truman Little White House",
+                "nrhp:criteria": "(A)",
+                "nrhp:inscription_date": "1974-02-12",
+                "old_name:1890-1946": "Quarters A",
+                "protection_title": "The Key West Harry S. Truman Foundation",
+                "ref:nrhp": "74000652",
+                "source_ref": "https://catalog.archives.gov/id/77843318",
+                "start_date": "1890",
+                "tourism": "museum",
+                "website": "https://www.trumanlittlewhitehouse.com/",
+                "wheelchair": "limited",
+                "wikidata": "Q13576887"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Truman_Little_White_House%2C_Key_West%2C_FL%2C_US_%2805%29.jpg/1280px-Truman_Little_White_House%2C_Key_West%2C_FL%2C_US_%2805%29.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 83424981,
+            "lat": 24.5579439,
+            "lon": -81.8062749,
+            "tags": {
+                "building": "yes",
+                "description": "Naval storehouse, used as a warehouse, administrative offices, and later as a U.S. Navy Post Office.",
+                "fee": "yes",
+                "heritage": "2",
+                "heritage:operator": "nrhp",
+                "heritage:website": "https://www.nps.gov/subjects/nationalregister/index.htm",
+                "historic": "maritime",
+                "name": "Mel Fisher Maritime Museum",
+                "nrhp:criteria": "(A), (C)",
+                "nrhp:inscription_date": "1984-05-08",
+                "old_name": "Building 48",
+                "protection_title": "private",
+                "ref:nrhp": "84000915",
+                "source_ref": "https://catalog.archives.gov/id/77843310",
+                "start_date": "1910",
+                "tourism": "museum",
+                "website": "https://www.melfisher.org/",
+                "wikidata": "Q14686208",
+                "wikipedia": "en:Mel Fisher Maritime Heritage Museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Audoban_House%2C_Key_West%2C_FL%2C_US.jpg/1280px-Audoban_House%2C_Key_West%2C_FL%2C_US.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 83551822,
+            "lat": 24.5566171,
+            "lon": -81.80047,
+            "tags": {
+                "ele": "3",
+                "gnis:feature_id": "2449941",
+                "leisure": "garden",
+                "name": "Nancy Forrester's Secret Garden",
+                "operator": "Nancy Forrester",
+                "tourism": "attraction",
+                "website": "http://www.nancyforrester.com/",
+                "wikidata": "Q49530218"
+            }
+        },
+        {
+            "type": "way",
+            "id": 84902777,
+            "lat": 24.5750224,
+            "lon": -81.7485413,
+            "tags": {
+                "leisure": "park",
+                "name": "Key West Tropical Forest and Botanical Garden",
+                "tourism": "museum",
+                "website": "http://www.keywestbotanicalgarden.org/",
+                "wikidata": "Q6398129",
+                "wikipedia": "en:Key West Tropical Forest & Botanical Garden"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Key_west_botanical_gardens.jpg/1280px-Key_west_botanical_gardens.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 281907625,
+            "lat": 24.5590517,
+            "lon": -81.8068637,
+            "tags": {
+                "building": "yes",
+                "building:levels": "2",
+                "name": "Shipwreck Treasures",
+                "tourism": "museum",
+                "wikidata": "Q6398125",
+                "wikipedia": "en:Key West Shipwreck Museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Key_West_Shipwreck_Historeum_Museum.jpg/1280px-Key_West_Shipwreck_Historeum_Museum.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 337777089,
+            "lat": 24.5511976,
+            "lon": -81.8006103,
+            "tags": {
+                "addr:city": "Key West",
+                "addr:housenumber": "907",
+                "addr:state": "FL",
+                "addr:street": "Whitehead Street",
+                "alt_name": "Ernest Hemmingway House",
+                "building": "detached",
+                "fee": "yes",
+                "heritage": "yes",
+                "name": "The Ernest Hemmingway Home and Museum",
+                "tourism": "museum",
+                "website": "https://www.hemingwayhome.com/",
+                "wheelchair": "limited",
+                "wikidata": "Q280171",
+                "wikipedia": "en:Ernest Hemingway House"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Hemingwayhouse.jpg/1280px-Hemingwayhouse.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 337780988,
+            "lat": 24.5583308,
+            "lon": -81.8060813,
+            "tags": {
+                "building": "yes",
+                "fee": "yes",
+                "name": "Audubon House and Tropical Gardens",
+                "operator": "Mitchell Wolfson Family Foundation",
+                "tourism": "museum",
+                "website": "http://www.audubonhouse.com/",
+                "wikidata": "Q4820237",
+                "wikipedia": "en:Audubon House and Tropical Gardens"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Audoban_House%2C_Key_West%2C_FL%2C_US.jpg/1280px-Audoban_House%2C_Key_West%2C_FL%2C_US.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 337817725,
+            "lat": 24.5475374,
+            "lon": -81.7969302,
+            "tags": {
+                "building": "yes",
+                "name": "Key West Butterfly & Nature Conservatory",
+                "tourism": "zoo",
+                "website": "https://www.keywestbutterfly.com/",
+                "wikidata": "Q6398108",
+                "wikipedia": "en:Key West Butterfly and Nature Conservatory"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Key_West_2008_%282337783649%29.jpg/1280px-Key_West_2008_%282337783649%29.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 339414829,
+            "lat": 24.5522232,
+            "lon": -81.8077514,
+            "tags": {
+                "Layer": "0",
+                "addr:city": "Key West",
+                "addr:postcode": "33041",
+                "addr:state": "FL",
+                "addr:street": "PO Box 186",
+                "building": "ship",
+                "check_date": "2026-04-02",
+                "description": "USCGC INGHAM fought the Battle of the Atlantic as a convoy escort, she sank U-boat U-626, with single depth charge. INGHAM also served as flagship during amphibious landings in the Philippines as well as the Vietnam War.",
+                "facebook": "https://www.facebook.com/cgcingham/",
+                "heritage": "2",
+                "heritage:operator": "nrhp",
+                "heritage:website": "https://www.nps.gov/subjects/nationalregister/index.htm",
+                "historic": "maritime",
+                "image": "https://www.facebook.com/cgcingham/photos/a.497734202957/10156851623112958/?type=3&theater",
+                "name": "USCGC Ingham Maritime Museum",
+                "nrhp:criteria": "(A), (C)",
+                "nrhp:inscription_date": "1992-04-27",
+                "nrhp:nhl": "yes",
+                "opening_hours": "Tu-Sa 10:00-16:00",
+                "protection_title": "USCGC INGHAM Maritime Museum",
+                "ref:nrhp": "92001879",
+                "source_ref": "https://catalog.archives.gov/id/77841907",
+                "tourism": "museum",
+                "website": "https://www.uscgcingham.org/index.html",
+                "wikidata": "Q7866111",
+                "wikipedia": "en:USCGC Ingham (WHEC-35)"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Ingham.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 339414863,
+            "lat": 24.5504492,
+            "lon": -81.8008529,
+            "tags": {
+                "addr:city": "Key West",
+                "addr:housenumber": "281",
+                "addr:postcode": "33040",
+                "addr:state": "FL",
+                "addr:street": "Front Street",
+                "check_date:opening_hours": "2025-09-24",
+                "fee": "yes",
+                "fee:conditional": "no @ (age < 7); no @ military; no @ members",
+                "name": "Key West Lighthouse & Keeper's Quarters Museum",
+                "opening_hours": "Mo-Su 10:00-17:00",
+                "operator": "The Key West Art & Historical Society",
+                "tourism": "museum",
+                "website": "https://www.kwahs.org/museums/lighthouse-keepers-quarters/visit"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/91/USCGKeywestpre1894.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 345268818,
+            "lat": 24.5616576,
+            "lon": -81.800604,
+            "tags": {
+                "addr:city": "Key West",
+                "addr:housenumber": "231",
+                "addr:street": "Margaret Street",
+                "building": "yes",
+                "name": "Dolphin Watch",
+                "phone": "+1 305 294 6306",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Key_West_FL_HD_Thompson_Fish_House_Turtle_Museum01.jpg/1280px-Key_West_FL_HD_Thompson_Fish_House_Turtle_Museum01.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 448545696,
+            "lat": 28.3420561,
+            "lon": -81.5257529,
+            "tags": {
+                "building": "roof",
+                "name": "Key West",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Gaylord-palms-2.jpg/1280px-Gaylord-palms-2.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 495297681,
+            "lat": 24.5573238,
+            "lon": -81.8040621,
+            "tags": {
+                "addr:city": "Key West",
+                "addr:housenumber": "322",
+                "addr:postcode": "33040",
+                "addr:state": "FL",
+                "addr:street": "Duval Street",
+                "building": "yes",
+                "name": "Oldest House Museum",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Key_West_FL_HD_JY_Porter_House02.jpg/1280px-Key_West_FL_HD_JY_Porter_House02.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 596606919,
+            "lat": 24.5582272,
+            "lon": -81.8019029,
+            "tags": {
+                "addr:city": "Key West",
+                "addr:housenumber": "613",
+                "addr:postcode": "33040",
+                "addr:state": "FL",
+                "addr:street": "Eaton Street",
+                "building": "yes",
+                "fee": "yes",
+                "name": "Donkey Milk House Museum",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/ed/TSKW_New_Sign_Night_FIXED_TALL_rgb.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 840009833,
+            "lat": 24.557313,
+            "lon": -81.808984,
+            "tags": {
+                "area": "yes",
+                "man_made": "pier",
+                "name": "Pier B",
+                "surface": "concrete",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Western_Union_113.jpg/1280px-Western_Union_113.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 16172116,
+            "lat": 24.54650556,
+            "lon": -81.79747778,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Southernmost_point_buoy%2C_NE_view.jpg/1280px-Southernmost_point_buoy%2C_NE_view.jpg",
+            "description": "The Southernmost Point Buoy is an anchored concrete buoy in Key West, Florida that claims to mark the southernmost point in the continental United States — though it is neither the true southernmost point of the continental US nor of Key West — and was established as a tourist attraction by the city on September 10, 1983.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Southernmost Point Buoy",
+                "wikipedia": "en:Southernmost Point Buoy",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 7312121,
+            "lat": 24.55583333,
+            "lon": -81.79555556,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Los_Roques_-Atlas_Ortelius_KB_PPN369376781-004av-004br.jpg",
+            "description": "The Key West Cemetery (officially, Historic Key West City Cemetery) is a 19-acre (77,000 m2) cemetery at the foot of Solares Hill on the island of Key West, Florida, United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Key West Cemetery",
+                "wikipedia": "en:Key West Cemetery",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 3666424,
+            "lat": 24.55064,
+            "lon": -81.80088,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/91/USCGKeywestpre1894.jpg",
+            "description": "The Key West Lighthouse is located in Key West, Florida.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Key West Lighthouse",
+                "wikipedia": "en:Key West Lighthouse",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 7110995,
+            "lat": 24.55119,
+            "lon": -81.8006,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Hemingwayhouse.jpg/1280px-Hemingwayhouse.jpg",
+            "description": "The Ernest Hemingway House was the residence of American writer Ernest Hemingway in the 1930s.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Ernest Hemingway House",
+                "wikipedia": "en:Ernest Hemingway House",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 1680665,
+            "lat": 24.54666667,
+            "lon": -81.81055556,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Aerial_view_of_Fort_Zachary_Taylor_State_Park.jpg/1280px-Aerial_view_of_Fort_Zachary_Taylor_State_Park.jpg",
+            "description": "The Fort Zachary Taylor Historic State Park, also known simply as Fort Taylor, is a Florida State Park and National Historic Landmark centered on a Civil War-era fort located near the southern tip of Key West, Florida.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Fort Zachary Taylor",
+                "wikipedia": "en:Fort Zachary Taylor",
+                "tourism": "attraction"
+            }
+        }
+    ]
+}

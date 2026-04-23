@@ -1,0 +1,403 @@
+{
+    "city_metadata": {
+        "city_name": "Iowa City",
+        "state_code": "IA",
+        "state_full": "Iowa",
+        "city_summary": "Iowa City is the largest city in Johnson County, Iowa, United States, and its county seat. The population was 74,828 at the 2020 census, making it the state's fifth-most populous city. The Iowa City metropolitan area, which encompasses Johnson and Washington counties, has a population of over 171,000.",
+        "city_image": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Iowa_City_Downtown_June_2021_%28cropped%29.jpg",
+        "city_lat": 41.62083333,
+        "city_lon": -91.49472222,
+        "source": "wikipedia_verified_engine"
+    },
+    "attractions": [
+        {
+            "type": "node",
+            "id": 367089405,
+            "lat": 41.6620019,
+            "lon": -91.5356188,
+            "tags": {
+                "addr:state": "IA",
+                "ele": "211",
+                "fee": "no",
+                "gnis:feature_id": "2002299",
+                "museum": "nature",
+                "name": "Museum of Natural History",
+                "source": "USGS Geonames",
+                "tourism": "museum",
+                "website": "https://mnh.uiowa.edu/",
+                "wikidata": "Q7895563"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Iowa_Hall.JPG/1280px-Iowa_Hall.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 2868950561,
+            "lat": 41.6613368,
+            "lon": -91.5361491,
+            "tags": {
+                "addr:city": "Iowa City",
+                "addr:housenumber": "21",
+                "addr:postcode": "52242",
+                "addr:state": "IA",
+                "addr:street": "North Clinton Street",
+                "fee": "no",
+                "museum": "local_history",
+                "name": "Old Capitol Museum",
+                "opening_hours:url": "https://oldcap.uiowa.edu/visit/hours",
+                "operator": "University of Iowa",
+                "tourism": "museum",
+                "website": "https://oldcap.uiowa.edu/",
+                "wheelchair": "yes"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Old_Capitol_Iowa_City.jpg/1280px-Old_Capitol_Iowa_City.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 10166584266,
+            "lat": 41.6590315,
+            "lon": -91.5330943,
+            "tags": {
+                "name": "Iowa City Pedestrian Mall",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/2023_08_26_IowaCityLatinoFestPinkDresses.png/1280px-2023_08_26_IowaCityLatinoFestPinkDresses.png",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 102239320,
+            "lat": 41.6613093,
+            "lon": -91.5361649,
+            "tags": {
+                "addr:city": "Iowa City",
+                "addr:housenumber": "1",
+                "addr:postcode": "52242",
+                "addr:state": "IA",
+                "addr:street": "North Clinton Street",
+                "architect": "John F. Rague",
+                "boundary": "protected_area",
+                "building": "university",
+                "heritage": "2",
+                "heritage:operator": "nrhp",
+                "name": "Old Capitol",
+                "nrhp:criteria": "(A),(C)",
+                "nrhp:inscription_date": "January 7, 1976",
+                "nrhp:nhl": "yes",
+                "opening_hours:covid19": "closed",
+                "operator": "The University of Iowa",
+                "operator:type": "university",
+                "protection_title": "protected_site",
+                "ref:nrhp": "72000475",
+                "start_date": "1840",
+                "tourism": "museum",
+                "wikidata": "Q6064530",
+                "wikipedia": "en:Iowa Old Capitol Building"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Old_Capitol_Iowa_City.jpg/1280px-Old_Capitol_Iowa_City.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 123830283,
+            "lat": 41.6584291,
+            "lon": -91.5388547,
+            "tags": {
+                "architect": "Berkebile Nelson Immenschuh McDowell Incorporated",
+                "building": "yes",
+                "building:levels": "3",
+                "layer": "1",
+                "museum": "art",
+                "name": "Stanley Museum of Art",
+                "operator": "The University of Iowa",
+                "operator:type": "university",
+                "source": "USGS Geonames",
+                "start_date": "2022-08-26",
+                "tourism": "museum",
+                "wikidata": "Q7895562",
+                "wikipedia": "en:University of Iowa Stanley Museum of Art"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 113933,
+            "lat": 41.62083333,
+            "lon": -91.49472222,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Iowa_City_Downtown_June_2021_%28cropped%29.jpg",
+            "description": "Iowa City is the largest city in Johnson County, Iowa, United States, and its county seat.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Iowa City, Iowa",
+                "wikipedia": "en:Iowa City, Iowa",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 1590839,
+            "lat": 42.49777778,
+            "lon": -91.055,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Field_of_Dreams_%287017559801%29.jpg",
+            "description": "Field of Dreams is a baseball field and pop-culture tourist attraction built for the 1989 movie of the same name.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Field of Dreams (Dubuque County, Iowa)",
+                "wikipedia": "en:Field of Dreams (Dubuque County, Iowa)",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 113988,
+            "lat": 41.96419,
+            "lon": -91.67917,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/National-Czech-and-Slovak-Museum-Library_%28cropped%29.jpg/1280px-National-Czech-and-Slovak-Museum-Library_%28cropped%29.jpg",
+            "description": "Cedar Rapids is a city in Linn County, Iowa, United States, and the county seat.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Cedar Rapids, Iowa",
+                "wikipedia": "en:Cedar Rapids, Iowa",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 26810748,
+            "lat": 42,
+            "lon": -94,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Flag_of_Iowa.svg/1280px-Flag_of_Iowa.svg.png",
+            "description": "Iowa (  EYE-ə-wə) is a landlocked state in the upper Midwestern region of the United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Iowa",
+                "wikipedia": "en:Iowa",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 112924,
+            "lat": 41.84694444,
+            "lon": -90.20722222,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Eagle_Point_Park_2.jpg",
+            "description": "Clinton is a city in and the county seat of Clinton County, Iowa, United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Clinton, Iowa",
+                "wikipedia": "en:Clinton, Iowa",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 114137,
+            "lat": 42.77444444,
+            "lon": -96.18972222,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Lemars.downtown.jpg/1280px-Lemars.downtown.jpg",
+            "description": "Le Mars  is a city and the county seat of Plymouth County, Iowa, United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Le Mars, Iowa",
+                "wikipedia": "en:Le Mars, Iowa",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 112859,
+            "lat": 43.12805556,
+            "lon": -93.38611111,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Clear_lake_iowa.jpg/1280px-Clear_lake_iowa.jpg",
+            "description": "Clear Lake is a city in Cerro Gordo County, Iowa, United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Clear Lake, Iowa",
+                "wikipedia": "en:Clear Lake, Iowa",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 112772,
+            "lat": 42.05138889,
+            "lon": -93.87,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/StollBuildingWorks.jpg/1280px-StollBuildingWorks.jpg",
+            "description": "Boone ( BOON) is a city in Des Moines Township and the county seat of Boone County, Iowa, United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Boone, Iowa",
+                "wikipedia": "en:Boone, Iowa",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 762953,
+            "lat": 41.4002,
+            "lon": -92.9186,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Central_Logo_%28registered_TM%29.png",
+            "description": "Central College is a private college in Pella, Iowa, United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Central College (Iowa)",
+                "wikipedia": "en:Central College (Iowa)",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 114334,
+            "lat": 42.5025,
+            "lon": -94.17083333,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Fort_Dodge_Iowa.jpg/1280px-Fort_Dodge_Iowa.jpg",
+            "description": "Fort Dodge is a city in and the county seat of Webster County, Iowa, United States, along the Des Moines River.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Fort Dodge, Iowa",
+                "wikipedia": "en:Fort Dodge, Iowa",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 1817899,
+            "lat": 43.09638889,
+            "lon": -93.80111111,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/National_Hobo_Convention.jpg/1280px-National_Hobo_Convention.jpg",
+            "description": "The National Hobo Convention  is held on the second weekend of every August since 1900 in the town of Britt, Iowa, organized by the local Chamber of Commerce, and known throughout the town as the annual \"Hobo Day\" or \"Hobo Days\" celebration.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "National Hobo Convention",
+                "wikipedia": "en:National Hobo Convention",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 14875,
+            "lat": 42.0262,
+            "lon": -93.648,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Iowa_State_University_wordmark.svg/1280px-Iowa_State_University_wordmark.svg.png",
+            "description": "Iowa State University of Science and Technology (Iowa State University, Iowa State, or ISU) is a public land-grant research university in Ames, Iowa, United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Iowa State University",
+                "wikipedia": "en:Iowa State University",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 7203730,
+            "lat": 41.265634,
+            "lon": -95.92231,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Bob_Kerrey_Pedestrian_Bridge_Best_view.jpg/1280px-Bob_Kerrey_Pedestrian_Bridge_Best_view.jpg",
+            "description": "The Bob Kerrey Pedestrian Bridge, also called Bob the Bridge, is a footbridge across the Missouri River between Omaha, Nebraska and Council Bluffs, Iowa.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Bob Kerrey Pedestrian Bridge",
+                "wikipedia": "en:Bob Kerrey Pedestrian Bridge",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 28197496,
+            "lat": 41.58861111,
+            "lon": -93.63833333,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Hoyt_Sherman_Place_-_Des_Moines%2C_Iowa.jpg/1280px-Hoyt_Sherman_Place_-_Des_Moines%2C_Iowa.jpg",
+            "description": "Hoyt Sherman Place, the home of Hoyt Sherman, was built in 1877 and is located in Des Moines, Iowa.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Hoyt Sherman Place",
+                "wikipedia": "en:Hoyt Sherman Place",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 95988,
+            "lat": 41.683918,
+            "lon": -92.059123,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Iowa_County_Courthouse%2C_Marengo.jpg/1280px-Iowa_County_Courthouse%2C_Marengo.jpg",
+            "description": "Iowa County is a county in the U.S. state of Iowa.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Iowa County, Iowa",
+                "wikipedia": "en:Iowa County, Iowa",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 50078931,
+            "lat": 42.22955,
+            "lon": -94.75459,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/20140309_79_Rainbow_Arch_Bridge%2C_Lake_City%2C_Iowa_-_Flickr_-_davidwilson1949.jpg/1280px-20140309_79_Rainbow_Arch_Bridge%2C_Lake_City%2C_Iowa_-_Flickr_-_davidwilson1949.jpg",
+            "description": "The Marsh Rainbow Arch Bridge, also known as the Coon River Bridge and Rainbow Bend Access, is located south of Lake City, Iowa, United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Marsh Rainbow Arch Bridge (Lake City, Iowa)",
+                "wikipedia": "en:Marsh Rainbow Arch Bridge (Lake City, Iowa)",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 709802,
+            "lat": 43.316,
+            "lon": -91.803,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Luther_college_logo.png",
+            "description": "Luther College is a private Lutheran liberal arts college in Decorah, Iowa, United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Luther College (Iowa)",
+                "wikipedia": "en:Luther College (Iowa)",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 5296852,
+            "lat": 41.67777778,
+            "lon": -93.01444444,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/78_Black_Outline.svg/1280px-78_Black_Outline.svg.png",
+            "description": "Iowa Speedway is a 0.875 mi (1.408 km) oval short track in Newton, Iowa.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Iowa Speedway",
+                "wikipedia": "en:Iowa Speedway",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 8392118,
+            "lat": 41.33083333,
+            "lon": -94.00472222,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/WintersetIAPark1.JPG/1280px-WintersetIAPark1.JPG",
+            "description": "Cutler–Donahoe Bridge is a 79-foot-long (24 m) covered bridge in Madison County, Iowa.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Cutler–Donahoe Bridge",
+                "wikipedia": "en:Cutler–Donahoe Bridge",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 1503795,
+            "lat": 41.56313,
+            "lon": -90.574937,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c5/NorthPark_Iowa.jpg",
+            "description": "NorthPark Mall is a shopping mall located in Davenport, Iowa.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "NorthPark Mall (Iowa)",
+                "wikipedia": "en:NorthPark Mall (Iowa)",
+                "tourism": "attraction"
+            }
+        }
+    ]
+}

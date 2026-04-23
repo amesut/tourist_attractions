@@ -1,0 +1,466 @@
+{
+    "city_metadata": {
+        "city_name": "Duluth",
+        "state_code": "MN",
+        "state_full": "Minnesota",
+        "city_summary": "Duluth (  də-LOOTH) is a port city in the U.S. state of Minnesota and the county seat of St. Louis County. Located on Lake Superior in Minnesota's Arrowhead Region, the city is a hub for cargo shipping.",
+        "city_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Downtown_Duluth%2C_Minnesota_Skyline_%2825406820466%29_%28cropped%29.jpg/1280px-Downtown_Duluth%2C_Minnesota_Skyline_%2825406820466%29_%28cropped%29.jpg",
+        "city_lat": null,
+        "city_lon": null,
+        "source": "wikipedia_verified_engine"
+    },
+    "attractions": [
+        {
+            "type": "node",
+            "id": 367068092,
+            "lat": 46.7962002,
+            "lon": -92.0875538,
+            "tags": {
+                "addr:city": "Duluth",
+                "addr:housenumber": "902",
+                "addr:postcode": "55805",
+                "addr:state": "MN",
+                "addr:street": "East 1st Street",
+                "ele": "195",
+                "gnis:feature_id": "2123604",
+                "name": "Karpeles Manuscript Library Museum",
+                "source": "USGS Geonames",
+                "tourism": "museum",
+                "website": "https://karpeles.com/museums/dul.php",
+                "wikidata": "Q6373296"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Kitchi_Gammi_Club_4.jpg/1280px-Kitchi_Gammi_Club_4.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 3420689893,
+            "lat": 46.7259593,
+            "lon": -92.1901994,
+            "tags": {
+                "name": "Lake Superior Zoo",
+                "operator": "Lake Superior Zoological Society",
+                "tourism": "zoo",
+                "wikidata": "Q20858045"
+            }
+        },
+        {
+            "type": "node",
+            "id": 4691963258,
+            "lat": 46.8151573,
+            "lon": -92.0517206,
+            "tags": {
+                "addr:city": "Duluth",
+                "addr:housenumber": "3300",
+                "addr:state": "MN",
+                "addr:street": "London Rd",
+                "name": "Glensheen - Historic Congdon Estate",
+                "tourism": "museum",
+                "website": "https://glensheen.org/",
+                "wikidata": "Q5569329"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Glensheen.JPG/1280px-Glensheen.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 7273401973,
+            "lat": 46.7148745,
+            "lon": -92.218447,
+            "tags": {
+                "name": "Spirit Mountain",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11580068357,
+            "lat": 46.7815045,
+            "lon": -92.1038746,
+            "tags": {
+                "addr:city": "Duluth",
+                "addr:housenumber": "506",
+                "addr:postcode": "55802",
+                "addr:state": "MN",
+                "addr:street": "West Michigan Street",
+                "museum": "history",
+                "name": "St. Louis County Historical Society",
+                "operator": "St. Louis County Historical Society",
+                "tourism": "museum",
+                "website": "https://www.thehistorypeople.org/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Duluth_Depot.jpg/1280px-Duluth_Depot.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 12230661930,
+            "lat": 46.7770748,
+            "lon": -92.124123,
+            "tags": {
+                "name": "Japanese Peace Bell",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Enger_Observation_Tower_2014-10-06_-_3.jpg/1280px-Enger_Observation_Tower_2014-10-06_-_3.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 34846005,
+            "lat": 33.9893766,
+            "lon": -84.156294,
+            "tags": {
+                "addr:city": "Duluth",
+                "addr:housenumber": "3595",
+                "addr:postcode": "30096",
+                "addr:state": "GA",
+                "addr:street": "Buford Highway",
+                "air_conditioning": "yes",
+                "ele": "329",
+                "gnis:feature_id": "1688377",
+                "museum": "railway",
+                "name": "Southeastern Railway Museum",
+                "old_name": "Southern Railway Museum",
+                "opening_hours": "Th-Sa 10:00-17:00, Su 12:00-17:00",
+                "source": "USGS Geonames",
+                "tourism": "museum",
+                "website": "https://www.train-museum.org/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c9/ES-20150502-DPA-0177.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 94502285,
+            "lat": 46.8185503,
+            "lon": -92.0845786,
+            "tags": {
+                "addr:housenumber": "1201",
+                "addr:street": "Ordean Court",
+                "building": "university",
+                "check_date": "2025-03-14",
+                "ele": "333",
+                "fee": "no",
+                "internet_access": "wlan",
+                "internet_access:fee": "no",
+                "museum": "art",
+                "name": "Tweed Museum of Art",
+                "opening_hours": "Tu 10:00-19:00; We,Th 10:00-15:30; Sa 10:00-15:30",
+                "payment:cash": "yes",
+                "payment:credit_cards": "yes",
+                "payment:debit_cards": "yes",
+                "tourism": "museum",
+                "wheelchair": "yes",
+                "wikidata": "Q7857475",
+                "wikipedia": "en:Tweed Museum of Art"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Tweed_Museum_of_Art.jpg/1280px-Tweed_Museum_of_Art.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 94559878,
+            "lat": 46.8161223,
+            "lon": -92.0871729,
+            "tags": {
+                "amenity": "planetarium",
+                "building": "yes",
+                "check_date": "2025-04-28",
+                "internet_access": "wlan",
+                "internet_access:fee": "no",
+                "name": "Marshall W. Alworth Planetarium",
+                "short_name": "MWAP",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Tweed_Museum_of_Art.jpg/1280px-Tweed_Museum_of_Art.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 113767152,
+            "lat": 46.7967211,
+            "lon": -92.0821749,
+            "tags": {
+                "building": "ship",
+                "name": "Leif Erikson Replica Longboat",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Leif_Erikson_%28ship%29_-_Vang_Studio_-_circa_1926.jpg/1280px-Leif_Erikson_%28ship%29_-_Vang_Studio_-_circa_1926.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 167029142,
+            "lat": 46.7798277,
+            "lon": -92.092533,
+            "tags": {
+                "addr:city": "Duluth",
+                "addr:housenumber": "600",
+                "addr:state": "MN",
+                "addr:street": "South Lake Avenue",
+                "alt_name": "US Army Corps of Engineers Museum",
+                "alt_name_1": "Lake Superior Maritime Center",
+                "building": "yes",
+                "check_date": "2025-07-09",
+                "fee": "no",
+                "name": "Lake Superior Maritime Visitor Center",
+                "phone": "+1 218-720-5260",
+                "tourism": "museum",
+                "website": "http://www.lsmma.com/",
+                "wikidata": "Q6477890",
+                "wikipedia": "en:Lake Superior Maritime Visitor Center"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Lake_Superior_Maritime_Visitor_Center.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 167029774,
+            "lat": 46.7813765,
+            "lon": -92.1039969,
+            "tags": {
+                "addr:city": "Duluth",
+                "addr:housenumber": "506",
+                "addr:postcode": "55802",
+                "addr:state": "MN",
+                "addr:street": "West Michigan Street",
+                "alt_name": "Duluth Depot",
+                "building": "yes",
+                "ele": "184",
+                "gnis:feature_id": "2117564",
+                "image": "https://commons.wikimedia.org/wiki/File:DepotDuluthMN.jpg",
+                "museum": "local",
+                "name": "The St. Louis County Depot",
+                "operator": "St. Louis County",
+                "operator:type": "public",
+                "source": "USGS Geonames",
+                "tourism": "museum",
+                "website": "https://www.experiencethedepot.org/",
+                "wikidata": "Q5313505",
+                "wikipedia": "en:Duluth Depot"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Duluth_Depot.jpg/1280px-Duluth_Depot.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 170788432,
+            "lat": 46.7827937,
+            "lon": -92.0972273,
+            "tags": {
+                "alt_name": "Great Lakes Floating Maritime Museum",
+                "building": "ship",
+                "ele": "182",
+                "heritage": "2",
+                "heritage:operator": "nrhp",
+                "heritage:website": "https://www.nps.gov/subjects/nationalregister/index.htm",
+                "historic": "ship",
+                "name": "SS William A. Irvin",
+                "nrhp:criteria": "(A), (C)",
+                "nrhp:inscription_date": "1989-07-13",
+                "protection_title": "Duluth Entertainment and Convention Center",
+                "ref:nrhp": "89000858",
+                "ship:type": "freighter",
+                "source_ref": "https://catalog.archives.gov/id/93203056",
+                "start_date": "1938",
+                "tourism": "attraction",
+                "wikidata": "Q8003982",
+                "wikipedia": "en:SS William A. Irvin"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/William_A._Irvin.jpg/1280px-William_A._Irvin.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 206457171,
+            "lat": 46.7761105,
+            "lon": -92.1249586,
+            "tags": {
+                "building": "yes",
+                "image": "https://commons.wikimedia.org/wiki/File:Enger_tower_front.jpg",
+                "man_made": "tower",
+                "name": "Enger Tower",
+                "start_date": "1939",
+                "tourism": "attraction",
+                "tower:construction": "stone",
+                "tower:type": "observation",
+                "wheelchair": "no",
+                "wikidata": "Q5377596",
+                "wikimedia_commons": "File:Enger_tower_front.jpg"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Enger_Observation_Tower_2014-10-06_-_3.jpg/1280px-Enger_Observation_Tower_2014-10-06_-_3.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 609285862,
+            "lat": 46.8153171,
+            "lon": -92.0509824,
+            "tags": {
+                "leisure": "park",
+                "name": "Glenshhen Mansion Congdon Estate Grounds",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Glensheen.JPG/1280px-Glensheen.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 839317491,
+            "lat": 46.7798452,
+            "lon": -92.0920135,
+            "tags": {
+                "building": "ship",
+                "description": "The tug Bayfield did much of its work here in Duluth-Superior Harbor for the US Army Corps of Engineers. Its main job was pushing crane barges with dredging equipment mounted on deck, deck barges loaded with rock or scows filled with dredged material.",
+                "historic": "ship",
+                "name": "Tug Bayfield",
+                "operator": "Lake Superior Maritime Visitor Center",
+                "ship:type": "tugboat",
+                "source_ref": "https://www.duluthharborcam.com/2018/02/tug-bayfield.html",
+                "tourism": "attraction",
+                "wikipedia": "en:USACE Bayfield"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Lake_Superior_Maritime_Visitor_Center.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 871740767,
+            "lat": 46.7663658,
+            "lon": -92.1254911,
+            "tags": {
+                "addr:city": "Duluth",
+                "addr:housenumber": "2125",
+                "addr:postcode": "55806",
+                "addr:state": "MN",
+                "addr:street": "West Superior Street",
+                "building": "yes",
+                "name": "Duluth Children's Museum",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Lincoln_Branch_Library_1.jpg/1280px-Lincoln_Branch_Library_1.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 1245663009,
+            "lat": 46.781035,
+            "lon": -92.1040294,
+            "tags": {
+                "addr:city": "Duluth",
+                "addr:housenumber": "506",
+                "addr:postcode": "55802",
+                "addr:state": "MN",
+                "addr:street": "West Michigan Street",
+                "building": "roof",
+                "building:levels": "1",
+                "height": "8",
+                "layer": "1",
+                "museum": "history",
+                "name": "Lake Superior Railroad Museum",
+                "operator": "Lake Superior Railroad Museum",
+                "operator:type": "private",
+                "tourism": "museum",
+                "website": "https://www.lsrm.org/"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 1926512,
+            "lat": 46.78138889,
+            "lon": -92.09805556,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Duluth_Entertainment_Convention_Center_Aug_2023_02.jpg/1280px-Duluth_Entertainment_Convention_Center_Aug_2023_02.jpg",
+            "description": "Duluth Entertainment Convention Center (DECC) is a multi-purpose arena and convention center complex located in Duluth, Minnesota.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Duluth Entertainment Convention Center",
+                "wikipedia": "en:Duluth Entertainment Convention Center",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 27559736,
+            "lat": 46.78138889,
+            "lon": -92.09805556,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/AMSOIL_Arena%2C_Duluth%2C_Minnesota_%2823409979654%29.jpg/1280px-AMSOIL_Arena%2C_Duluth%2C_Minnesota_%2823409979654%29.jpg",
+            "description": "AMSOIL Arena is a multipurpose arena in Duluth, Minnesota, home to the UMD Men's and UMD Women's hockey teams.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "AMSOIL Arena",
+                "wikipedia": "en:AMSOIL Arena",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 19590,
+            "lat": 46,
+            "lon": -94,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Flag_of_Minnesota.svg/1280px-Flag_of_Minnesota.svg.png",
+            "description": "Minnesota is a state in the Upper Midwestern region of the United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Minnesota",
+                "wikipedia": "en:Minnesota",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 4222492,
+            "lat": 46.77926667,
+            "lon": -92.10027778,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/fb/GreatLakesAquarium.jpg",
+            "description": "The Great Lakes Aquarium opened in 2000 and is located on the Duluth waterfront.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Great Lakes Aquarium",
+                "wikipedia": "en:Great Lakes Aquarium",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 24868044,
+            "lat": 47.47805556,
+            "lon": -92.89611111,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Minnesota_Discovery_Center-logo.jpg",
+            "description": "The Minnesota Discovery Center, formerly known as Ironworld Discovery Center and originally as the Iron Range Interpretive Center, opened in the 1977 outside Chisholm, Minnesota, United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Minnesota Discovery Center",
+                "wikipedia": "en:Minnesota Discovery Center",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 119428,
+            "lat": 47.47361111,
+            "lon": -94.88027778,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Bemidji_Great_Northern_Depot.jpg",
+            "description": "Bemidji ( bə-MIJ-ee) is a city in and the county seat of Beltrami County, in northern Minnesota, United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Bemidji, Minnesota",
+                "wikipedia": "en:Bemidji, Minnesota",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 1783608,
+            "lat": 47.20005,
+            "lon": -91.3669,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Spit_Rock_Lighthouse_2012.jpg/1280px-Spit_Rock_Lighthouse_2012.jpg",
+            "description": "Split Rock Lighthouse is a lighthouse located southwest of Silver Bay, Minnesota, US on the North Shore of Lake Superior.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Split Rock Lighthouse",
+                "wikipedia": "en:Split Rock Lighthouse",
+                "tourism": "attraction"
+            }
+        }
+    ]
+}

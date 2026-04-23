@@ -1,0 +1,1156 @@
+{
+    "city_metadata": {
+        "city_name": "Memphis",
+        "state_code": "TN",
+        "state_full": "Tennessee",
+        "city_summary": "Memphis (, MEM-fis) is a city in Shelby County, Tennessee, United States, and its county seat. Situated along the Mississippi River, it had a population of 633,104 at the 2020 census, making it the second-most populous city in Tennessee, the fifth-most populous in the Southeast, and the 28th-most populous in the US. Memphis is the largest city proper on the Mississippi River and anchors the Memphis area that includes parts of Arkansas and Mississippi, the 45th-most populous metropolitan area in the U.S. with 1.34 million residents.\nEuropean exploration of the area began with Spanish conquistador Hernando de Soto in 1541.",
+        "city_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Skyline_of_Memphis%2C_TN.jpg/1280px-Skyline_of_Memphis%2C_TN.jpg",
+        "city_lat": 35.14611111,
+        "city_lon": -90.05194444,
+        "source": "wikipedia_verified_engine"
+    },
+    "attractions": [
+        {
+            "type": "node",
+            "id": 480822475,
+            "lat": 35.0459191,
+            "lon": -90.022942,
+            "tags": {
+                "fee": "yes",
+                "name": "Graceland Mansion",
+                "tourism": "museum",
+                "website": "https://www.graceland.com/mansion"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/USA_Tour_2019_P095_Graceland.jpg/1280px-USA_Tour_2019_P095_Graceland.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 480825198,
+            "lat": 35.0449564,
+            "lon": -90.0256542,
+            "tags": {
+                "check_date": "2022-08-12",
+                "level": "0",
+                "name": "Elvis Automobile Museum",
+                "payment:mastercard": "yes",
+                "payment:visa": "yes",
+                "tourism": "museum",
+                "wheelchair": "yes"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/USA_Tour_2019_P095_Graceland.jpg/1280px-USA_Tour_2019_P095_Graceland.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 480839160,
+            "lat": 35.0469375,
+            "lon": -90.0256866,
+            "tags": {
+                "historic": "aircraft",
+                "name": "Lisa Marie Jet",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/USA_Tour_2019_P095_Graceland.jpg/1280px-USA_Tour_2019_P095_Graceland.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 480840011,
+            "lat": 35.0471483,
+            "lon": -90.0257553,
+            "tags": {
+                "historic": "aircraft",
+                "name": "Hound Dog II Jet",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/USA_Tour_2019_P095_Graceland.jpg/1280px-USA_Tour_2019_P095_Graceland.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 1240520305,
+            "lat": 35.1507513,
+            "lon": -89.9925544,
+            "tags": {
+                "attraction": "animal",
+                "name": "Primates",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/MemphisZooentrance.JPG/1280px-MemphisZooentrance.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 1240530839,
+            "lat": 35.1511219,
+            "lon": -89.9967357,
+            "tags": {
+                "attraction": "animal",
+                "name": "Warthog",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/MemphisZooentrance.JPG/1280px-MemphisZooentrance.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 1240533115,
+            "lat": 35.1506789,
+            "lon": -89.9959872,
+            "tags": {
+                "attraction": "animal",
+                "name": "Tropical Bird House",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/MemphisZooentrance.JPG/1280px-MemphisZooentrance.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 1240533126,
+            "lat": 35.150953,
+            "lon": -89.9932625,
+            "tags": {
+                "attraction": "animal",
+                "name": "Primate",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/MemphisZooentrance.JPG/1280px-MemphisZooentrance.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 1240533133,
+            "lat": 35.1509047,
+            "lon": -89.9954001,
+            "tags": {
+                "attraction": "animal",
+                "name": "Merkaat",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/MemphisZooentrance.JPG/1280px-MemphisZooentrance.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 1240533141,
+            "lat": 35.1511285,
+            "lon": -89.9962554,
+            "tags": {
+                "attraction": "animal",
+                "name": "African Penguin",
+                "species:wikidata": "Q244813",
+                "species:wikipedia": "en:African penguin",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/MemphisZooentrance.JPG/1280px-MemphisZooentrance.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 1240670862,
+            "lat": 35.1501581,
+            "lon": -89.9928385,
+            "tags": {
+                "attraction": "animal",
+                "name": "Chilean Flamingo",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/MemphisZooentrance.JPG/1280px-MemphisZooentrance.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 1240761721,
+            "lat": 35.1504509,
+            "lon": -89.9930478,
+            "tags": {
+                "attraction": "animal",
+                "name": "Ruddy Duck",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/MemphisZooentrance.JPG/1280px-MemphisZooentrance.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 1240761785,
+            "lat": 35.1502569,
+            "lon": -89.9931457,
+            "tags": {
+                "attraction": "animal",
+                "name": "Mandarin Duck",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/MemphisZooentrance.JPG/1280px-MemphisZooentrance.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 1240761846,
+            "lat": 35.1503479,
+            "lon": -89.9926924,
+            "tags": {
+                "attraction": "animal",
+                "name": "North American Ruddy Duck",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/MemphisZooentrance.JPG/1280px-MemphisZooentrance.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 1240761848,
+            "lat": 35.1508578,
+            "lon": -89.9910777,
+            "tags": {
+                "attraction": "animal",
+                "name": "Zebra",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1240761860,
+            "lat": 35.1499575,
+            "lon": -89.9926281,
+            "tags": {
+                "attraction": "animal",
+                "name": "Turtoise",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/MemphisZooentrance.JPG/1280px-MemphisZooentrance.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 1240761866,
+            "lat": 35.1500038,
+            "lon": -89.9914655,
+            "tags": {
+                "attraction": "animal",
+                "name": "Giraffe",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/MemphisZooentrance.JPG/1280px-MemphisZooentrance.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 1240761889,
+            "lat": 35.1519871,
+            "lon": -89.995313,
+            "tags": {
+                "attraction": "animal",
+                "name": "Komodo Dragon",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/MemphisZooentrance.JPG/1280px-MemphisZooentrance.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 1240761923,
+            "lat": 35.1498654,
+            "lon": -89.9924779,
+            "tags": {
+                "attraction": "animal",
+                "name": "Crocodile",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/MemphisZooentrance.JPG/1280px-MemphisZooentrance.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 1240761990,
+            "lat": 35.1516539,
+            "lon": -89.9947765,
+            "tags": {
+                "attraction": "animal",
+                "name": "Hippopotamus",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/MemphisZooentrance.JPG/1280px-MemphisZooentrance.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 1240762008,
+            "lat": 35.1505464,
+            "lon": -89.9917376,
+            "tags": {
+                "attraction": "animal",
+                "name": "Ostrich",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/MemphisZooentrance.JPG/1280px-MemphisZooentrance.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 1240762017,
+            "lat": 35.1505266,
+            "lon": -89.9951346,
+            "tags": {
+                "attraction": "animal",
+                "name": "Cat Country",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/MemphisZooentrance.JPG/1280px-MemphisZooentrance.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 1240762046,
+            "lat": 35.1514815,
+            "lon": -89.9958429,
+            "tags": {
+                "attraction": "animal",
+                "name": "American White Pelican",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/MemphisZooentrance.JPG/1280px-MemphisZooentrance.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 1240762073,
+            "lat": 35.1514802,
+            "lon": -89.996623,
+            "tags": {
+                "attraction": "animal",
+                "name": "Red River Hog",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/MemphisZooentrance.JPG/1280px-MemphisZooentrance.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 1432947859,
+            "lat": 35.1483167,
+            "lon": -90.0507177,
+            "tags": {
+                "addr:city": "Memphis",
+                "addr:housenumber": "118",
+                "addr:state": "TN",
+                "addr:street": "Adams Avenue",
+                "name": "Fire Museum of Memphis",
+                "opening_hours": "Mo-Sa 09:00-16:30",
+                "tourism": "museum",
+                "website": "https://firemuseum.com/",
+                "wikidata": "Q5451397"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/128_Adams_Avenue%2C_Memphis_Police_Station%2C_Adams_Avenue_Historic_District.jpg/1280px-128_Adams_Avenue%2C_Memphis_Police_Station%2C_Adams_Avenue_Historic_District.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 1433022627,
+            "lat": 35.1385278,
+            "lon": -90.0525993,
+            "tags": {
+                "name": "Gibson Guitar Factory Tour",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/36/A_Schwabs_060523.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 1433103783,
+            "lat": 35.1449109,
+            "lon": -90.0379046,
+            "tags": {
+                "name": "Woodruff-Fontaine House",
+                "source": "Bing",
+                "tourism": "museum",
+                "website": "https://www.woodruff-fontaine.org/",
+                "wikidata": "Q8033224"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Woodruff-Fontaine_House.jpg/1280px-Woodruff-Fontaine_House.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 1433956427,
+            "lat": 35.143321,
+            "lon": -90.0547019,
+            "tags": {
+                "name": "The Cotton Museum at the Memphis Cotton Exchange",
+                "name:en": "The Cotton Museum at the Memphis Cotton Exchange",
+                "tourism": "museum",
+                "website": "https://memphiscottonmuseum.org/",
+                "wikidata": "Q7727733"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/92/Cotton_Exchange_Building_Memphis_TN.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 2929544114,
+            "lat": 35.1157553,
+            "lon": -90.0311755,
+            "tags": {
+                "addr:city": "Memphis",
+                "addr:housenumber": "926",
+                "addr:postcode": "38126",
+                "addr:street": "East McLemore Avenue",
+                "alt_name": "Stax Museum of American Soul Music",
+                "contact:website": "http://staxmuseum.com/",
+                "name": "Stax Museum",
+                "opening_hours": "Tu-Su 10:00-17:00",
+                "tourism": "museum",
+                "wikidata": "Q7604973"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Stax_Museum_%26_Satellite_Record_Shop.jpg/1280px-Stax_Museum_%26_Satellite_Record_Shop.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 2929545340,
+            "lat": 35.1418951,
+            "lon": -90.0543551,
+            "tags": {
+                "addr:city": "Memphis",
+                "addr:housenumber": "119",
+                "addr:postcode": "38103",
+                "addr:state": "TN",
+                "addr:street": "South Main Street",
+                "fee": "yes",
+                "name": "Belz Museum of Asian and Judaic Art",
+                "opening_hours": "We-Fr 10:00-17:00; Sa,Su 12:00-17:00",
+                "phone": "+1-901-523-2787",
+                "tourism": "museum",
+                "website": "https://www.belzmuseum.org/",
+                "wikidata": "Q4884956",
+                "wikipedia": "en:Belz Museum of Asian and Judaic Art"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/31/Belz_Museum_Memphis_TN_2.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 2929555301,
+            "lat": 35.1474977,
+            "lon": -90.0483061,
+            "tags": {
+                "addr:city": "Memphis",
+                "addr:housenumber": "198",
+                "addr:postcode": "38103",
+                "addr:street": "Adams Avenue",
+                "name": "Magevney House",
+                "tourism": "museum",
+                "wikidata": "Q6730131"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/94/Magevney_House_Memphis_TN_4.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 2951755049,
+            "lat": 35.139723,
+            "lon": -90.0495642,
+            "tags": {
+                "addr:city": "Memphis",
+                "addr:housenumber": "352",
+                "addr:postcode": "38103",
+                "addr:street": "Beale Street",
+                "name": "W. C. Handy Home and Museum",
+                "phone": "+1-901-527-3427",
+                "tourism": "museum",
+                "website": "wchandymemphis.org"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/The_New_Daisy_Theatre%2C_Memphis_TN.jpg/1280px-The_New_Daisy_Theatre%2C_Memphis_TN.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 2951755053,
+            "lat": 35.1392661,
+            "lon": -90.0501056,
+            "tags": {
+                "addr:city": "Memphis",
+                "addr:housenumber": "333",
+                "addr:postcode": "38103",
+                "addr:street": "Beale Street",
+                "name": "The Eel on Beale (Withers Museum)",
+                "phone": "+1-901-522-9291",
+                "tourism": "museum",
+                "website": "https://thewitherscollection.com/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/The_New_Daisy_Theatre%2C_Memphis_TN.jpg/1280px-The_New_Daisy_Theatre%2C_Memphis_TN.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 3115103434,
+            "lat": 35.140303,
+            "lon": -90.055028,
+            "tags": {
+                "name": "Eddie Murphy Star Marker",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Orpheum_Theater_Memphis.jpg/1280px-Orpheum_Theater_Memphis.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 5483818129,
+            "lat": 35.1412914,
+            "lon": -90.0594451,
+            "tags": {
+                "name": "Memphis Riverboats",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 6550007286,
+            "lat": 35.1183021,
+            "lon": -89.991087,
+            "tags": {
+                "addr:street": "South Cooper Street",
+                "name": "Bell",
+                "opening_hours": "24/7",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Cooper_Young_Memphis.png",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 6550007786,
+            "lat": 35.118287,
+            "lon": -89.9912212,
+            "tags": {
+                "addr:street": "South Cooper Street",
+                "name": "Man & Guitar Statue",
+                "opening_hours": "24/7",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Cooper_Young_Memphis.png",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 8319593787,
+            "lat": 35.1403545,
+            "lon": -90.0551902,
+            "tags": {
+                "name": "Sidewalk of Stars at the Orpheum",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Orpheum_Theater_Memphis.jpg/1280px-Orpheum_Theater_Memphis.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 8319640662,
+            "lat": 35.1403977,
+            "lon": -90.0535129,
+            "tags": {
+                "addr:city": "Memphis",
+                "addr:housenumber": "126",
+                "addr:postcode": "38103",
+                "addr:state": "TN",
+                "addr:street": "South 2nd Street",
+                "contact:facebook": "https://www.facebook.com/MemphisMusicHOF",
+                "contact:twitter": "https://twitter.com/MemphisMusicHOF",
+                "museum": "music",
+                "name": "Memphis Music Hall of Fame",
+                "tourism": "museum",
+                "website": "https://memphismusichalloffame.com/",
+                "wikidata": "Q18434339",
+                "wikipedia": "en:Memphis Music Hall of Fame"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10021332921,
+            "lat": 35.1210487,
+            "lon": -89.979844,
+            "tags": {
+                "name": "Tiger Lane",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Liberty_Bowl_Memorial_Stadium_-_Memphis.jpg/1280px-Liberty_Bowl_Memorial_Stadium_-_Memphis.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 13612952340,
+            "lat": 35.1342267,
+            "lon": -89.7987385,
+            "tags": {
+                "name": "Elvis Car",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "way",
+            "id": 40009234,
+            "lat": 35.0459599,
+            "lon": -90.0230889,
+            "tags": {
+                "area": "yes",
+                "boundary": "protected_area",
+                "heritage": "2",
+                "heritage:operator": "nrhp",
+                "name": "Graceland",
+                "name:az": "Qreyslend",
+                "name:ja": "グレイスランド",
+                "name:ko": "그레이슬랜드",
+                "name:la": "Terra Gratiae",
+                "name:ru": "Грейсленд",
+                "name:uk": "Грейсленд",
+                "name:zh": "雅园",
+                "nrhp:criteria": "(B)",
+                "nrhp:inscription_date": "11/7/1991",
+                "nrhp:nhl": "yes",
+                "protection_title": "protected_site",
+                "ref:nrhp": "91001585",
+                "toilets:wheelchair": "yes",
+                "tourism": "attraction",
+                "wheelchair": "yes",
+                "wikidata": "Q545360",
+                "wikipedia": "en:Graceland"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/USA_Tour_2019_P095_Graceland.jpg/1280px-USA_Tour_2019_P095_Graceland.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 54228632,
+            "lat": 35.0623201,
+            "lon": -90.1300176,
+            "tags": {
+                "building": "yes",
+                "name": "Chucalissa Museum",
+                "tourism": "museum",
+                "wikidata": "Q5115296"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Chucalissa_Memphis_TN_2.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 95132665,
+            "lat": 35.1346003,
+            "lon": -90.0574899,
+            "tags": {
+                "addr:city": "Memphis",
+                "addr:country": "US",
+                "addr:housenumber": "450",
+                "addr:postcode": "38103",
+                "addr:state": "TN",
+                "addr:street": "Mulberry Street",
+                "alt_name": "National Civil Rights Museum at the Lorraine Motel",
+                "building": "yes",
+                "fee": "yes",
+                "name": "National Civil Rights Museum",
+                "old_name": "Lorraine Motel",
+                "opening_hours": "We-Mo 09:00-05:00",
+                "tourism": "museum",
+                "website": "http://civilrightsmuseum.org/",
+                "wikidata": "Q845216",
+                "wikipedia": "en:National Civil Rights Museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/National_Civil_Rights_Museum_2022a.jpg/1280px-National_Civil_Rights_Museum_2022a.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 95147165,
+            "lat": 35.1473186,
+            "lon": -90.0595814,
+            "tags": {
+                "highway": "footway",
+                "name": "Mississippi River Model Walk",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Mud_Island_Amphitheater_rear.jpg/1280px-Mud_Island_Amphitheater_rear.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 108065823,
+            "lat": 35.1502886,
+            "lon": -89.9924711,
+            "tags": {
+                "building": "yes",
+                "name": "Birds and Bees",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/MemphisZooentrance.JPG/1280px-MemphisZooentrance.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 108067033,
+            "lat": 35.1520022,
+            "lon": -89.9972911,
+            "tags": {
+                "attraction": "animal",
+                "building": "yes",
+                "name": "Aquarium",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/MemphisZooentrance.JPG/1280px-MemphisZooentrance.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 108069480,
+            "lat": 35.1503098,
+            "lon": -89.9930216,
+            "tags": {
+                "name": "World Of Waterfowl",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/MemphisZooentrance.JPG/1280px-MemphisZooentrance.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 108069481,
+            "lat": 35.1499184,
+            "lon": -89.9930538,
+            "tags": {
+                "name": "Denizens Of The Deep South",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/MemphisZooentrance.JPG/1280px-MemphisZooentrance.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 129776977,
+            "lat": 35.1251411,
+            "lon": -89.9599434,
+            "tags": {
+                "addr:housenumber": "3050",
+                "addr:street": "Central Avenue",
+                "name": "Memphis Pink Palace Museum",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Pink_Palace_Museum_and_Planetarium_Memphis_TN_cropped.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 129992422,
+            "lat": 35.1451667,
+            "lon": -90.0385105,
+            "tags": {
+                "addr:city": "Memphis",
+                "addr:housenumber": "652",
+                "addr:postcode": "38163",
+                "addr:state": "TN",
+                "addr:street": "Adams Avenue",
+                "building": "yes",
+                "historic": "house",
+                "name": "Mallory-Neely House",
+                "opening_hours:url": "https://moshmemphis.com/explore/attractions/historic-houses/",
+                "phone": "+1-901-636-0797",
+                "tourism": "museum",
+                "website": "https://moshmemphis.com/explore/attractions/historic-houses/",
+                "wikidata": "Q6744285"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/15/Mallory-Neely_House_Memphis_TN_3.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 135459980,
+            "lat": 35.1253292,
+            "lon": -89.9597184,
+            "tags": {
+                "addr:city": "Memphis",
+                "addr:housenumber": "3050",
+                "addr:postcode": "38111",
+                "addr:state": "TN",
+                "addr:street": "Central Avenue",
+                "building": "yes",
+                "museum": "history",
+                "name": "Museum of Science and History, Pink Palace",
+                "opening_hours": "We-Su 10:30-17:00",
+                "operator": "Memphis Museums, Inc.",
+                "phone": "+1-901-636-2391",
+                "source": "local knowledge",
+                "tourism": "museum",
+                "website": "https://moshmemphis.com/?locale=en",
+                "wikidata": "Q7196066",
+                "wikipedia": "en:Pink Palace Museum and Planetarium"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Pink_Palace_Museum_and_Planetarium_Memphis_TN_cropped.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 187420910,
+            "lat": 35.1445224,
+            "lon": -89.9946122,
+            "tags": {
+                "addr:city": "Memphis",
+                "addr:housenumber": "1934",
+                "addr:postcode": "38104",
+                "addr:state": "TN",
+                "addr:street": "Poplar Avenue",
+                "building": "yes",
+                "name": "Brooks Museum of Art",
+                "phone": "+1-901-544-6200",
+                "source:name": "survey",
+                "tourism": "museum",
+                "website": "https://www.brooksmuseum.org/",
+                "wikidata": "Q6815803",
+                "wikipedia": "en:Memphis Brooks Museum of Art"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/77/Levitt_shell.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 234438233,
+            "lat": 35.1208587,
+            "lon": -89.9801205,
+            "tags": {
+                "area": "yes",
+                "ele": "94",
+                "gnis:feature_id": "1648065",
+                "name": "Mid-South Fairgrounds",
+                "source": "http://www.commercialappeal.com/story/news/government/city/2017/11/06/memphis-unveils-new-fairgrounds-redevelopment-plan/837230001/",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Liberty_Bowl_Memorial_Stadium_-_Memphis.jpg/1280px-Liberty_Bowl_Memorial_Stadium_-_Memphis.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 234438238,
+            "lat": 35.1251038,
+            "lon": -89.9768705,
+            "tags": {
+                "building": "yes",
+                "name": "Memphis Children's Museum",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Tim_McCarver_Stadium_1988.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 470757466,
+            "lat": 35.1236662,
+            "lon": -90.0752045,
+            "tags": {
+                "addr:city": "Memphis",
+                "addr:housenumber": "374",
+                "addr:postcode": "38106",
+                "addr:state": "TN",
+                "addr:street": "Metal Museum Drive",
+                "alt_name": "National Ornamental Metal Museum",
+                "gnis:feature_id": "1325236",
+                "name": "The Metal Museum",
+                "opening_hours": "Tu-Sa 10:00-17:00; Su 12:00-17:00",
+                "phone": "+1 901 774 6380",
+                "start_date": "1979",
+                "tourism": "museum",
+                "website": "https://www.metalmuseum.org/",
+                "wikidata": "Q12062415",
+                "wikipedia": "en:Metal Museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Staff_Quarters_E_Memphis_Marine_Hospital_2022a.jpg/1280px-Staff_Quarters_E_Memphis_Marine_Hospital_2022a.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 548583863,
+            "lat": 35.1243737,
+            "lon": -89.9767951,
+            "tags": {
+                "area": "yes",
+                "name": "Children's Museum of Memphis",
+                "tourism": "attraction",
+                "wikidata": "Q5098178"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Tim_McCarver_Stadium_1988.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 566100449,
+            "lat": 35.1157771,
+            "lon": -90.0311989,
+            "tags": {
+                "building": "yes",
+                "name": "Stax Museum",
+                "source": "Bing",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Stax_Museum_%26_Satellite_Record_Shop.jpg/1280px-Stax_Museum_%26_Satellite_Record_Shop.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 570398955,
+            "lat": 35.1402202,
+            "lon": -90.0596479,
+            "tags": {
+                "name": "Beale Street Landing",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "way",
+            "id": 571767851,
+            "lat": 35.1382679,
+            "lon": -90.0522407,
+            "tags": {
+                "addr:city": "Memphis",
+                "addr:housenumber": "191",
+                "addr:postcode": "38103",
+                "addr:street": "Beale Street",
+                "alt_name": "Memphis Rock N Soul Museum",
+                "building": "yes",
+                "name": "Memphis Rock 'N Soul Museum",
+                "phone": "+1-901-205-2533",
+                "tourism": "museum",
+                "website": "https://www.memphisrocknsoul.org/",
+                "wikidata": "Q6815869"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/36/A_Schwabs_060523.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 581400366,
+            "lat": 40.4562523,
+            "lon": -92.1710149,
+            "tags": {
+                "building": "detached",
+                "name": "Downing House Museum",
+                "tourism": "museum",
+                "website": "https://www.downinghousemuseum.org/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/DOWNING_HOUSE.jpg/1280px-DOWNING_HOUSE.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 581400367,
+            "lat": 40.4564204,
+            "lon": -92.1709724,
+            "tags": {
+                "building": "detached",
+                "name": "Boyer House Museum",
+                "tourism": "museum",
+                "website": "https://www.downinghousemuseum.org/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/DOWNING_HOUSE.jpg/1280px-DOWNING_HOUSE.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 581400368,
+            "lat": 40.4563535,
+            "lon": -92.1713889,
+            "tags": {
+                "building": "train_station",
+                "museum": "history",
+                "name": "Memphis Train Depot Museum",
+                "tourism": "museum",
+                "website": "https://www.downinghousemuseum.org/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/DOWNING_HOUSE.jpg/1280px-DOWNING_HOUSE.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 581429334,
+            "lat": 40.4517491,
+            "lon": -92.1654464,
+            "tags": {
+                "building": "yes",
+                "name": "Wiggins Family Museum",
+                "tourism": "museum"
+            }
+        },
+        {
+            "type": "way",
+            "id": 633972708,
+            "lat": 35.0609141,
+            "lon": -90.0286918,
+            "tags": {
+                "addr:city": "Memphis",
+                "addr:housenumber": "3217",
+                "addr:postcode": "38116",
+                "addr:state": "TN",
+                "addr:street": "Lucibill Road",
+                "building": "yes",
+                "name": "TigerMan Karate Dojo and Museum",
+                "tourism": "museum"
+            }
+        },
+        {
+            "type": "way",
+            "id": 779355053,
+            "lat": 35.1351783,
+            "lon": -90.0589642,
+            "tags": {
+                "building": "yes",
+                "name": "Blues Hall of Fame",
+                "operator": "The Blues Foundation",
+                "tourism": "museum",
+                "website": "https://blues.org/hall-of-fame-museum/",
+                "wikidata": "Q258100"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Blues_Hall_of_Fame%2C_Memphis_TN.jpg/1280px-Blues_Hall_of_Fame%2C_Memphis_TN.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 788057809,
+            "lat": 35.1646211,
+            "lon": -90.0432153,
+            "tags": {
+                "addr:city": "Memphis",
+                "addr:housenumber": "826",
+                "addr:postcode": "38107",
+                "addr:state": "TN",
+                "addr:street": "North Second Street",
+                "alt_name": "Burkle Estate",
+                "architect": "Jacob Burkle",
+                "architect:wikidata": "Q133788958",
+                "building": "yes",
+                "damage:date": "2024-02",
+                "damage:type": "fire",
+                "ele": "78",
+                "gnis:feature_id": "2425627",
+                "museum": "history",
+                "name": "Slave Haven Underground Railroad Museum",
+                "opening_hours": "closed",
+                "tourism": "museum",
+                "website": "https://slavehavenmuseum.org/",
+                "wikidata": "Q4999073",
+                "wikipedia": "en:Burkle Estate"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/1c/The_Mack_Room_2012_07_08_Uptown_Memphis_TN_009.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 1120660997,
+            "lat": 35.1392417,
+            "lon": -90.0377519,
+            "tags": {
+                "addr:city": "Memphis",
+                "addr:housenumber": "706",
+                "addr:street": "Union Avenue",
+                "building": "yes",
+                "heritage": "2",
+                "heritage:operator": "nrhp",
+                "historic": "yes",
+                "name": "Sun Studio",
+                "note": "Sun Studio landmark 1950's recording studio",
+                "nrhp:criteria": "(A),(B)",
+                "nrhp:inscription_date": "7/31/2003",
+                "nrhp:nhl": "yes",
+                "protection_title": "protected_site",
+                "ref:nrhp": "03001031",
+                "tourism": "attraction",
+                "website": "https://www.sunstudio.com/",
+                "wikidata": "Q2516615",
+                "wikipedia": "en:Sun Studio"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Sun_studio_memphis.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 1195182485,
+            "lat": 35.1461171,
+            "lon": -90.059151,
+            "tags": {
+                "highway": "footway",
+                "name": "Mississippi River Model Walk",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Mud_island_from_south.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 1195182486,
+            "lat": 35.1464349,
+            "lon": -90.0593623,
+            "tags": {
+                "bridge": "yes",
+                "highway": "footway",
+                "layer": "1",
+                "name": "Mississippi River Model Walk",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Mud_island_from_south.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 1195182487,
+            "lat": 35.1480042,
+            "lon": -90.059377,
+            "tags": {
+                "bridge": "yes",
+                "highway": "footway",
+                "layer": "1",
+                "name": "Mississippi River Model Walk",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Mud_Island_Amphitheater_rear.jpg/1280px-Mud_Island_Amphitheater_rear.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 1195182488,
+            "lat": 35.1480054,
+            "lon": -90.0592862,
+            "tags": {
+                "highway": "footway",
+                "name": "Mississippi River Model Walk",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Mud_Island_Amphitheater_rear.jpg/1280px-Mud_Island_Amphitheater_rear.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 1195182489,
+            "lat": 35.1465078,
+            "lon": -90.0594225,
+            "tags": {
+                "highway": "footway",
+                "name": "Mississippi River Model Walk",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Mud_island_from_south.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 1195182490,
+            "lat": 35.1465811,
+            "lon": -90.059483,
+            "tags": {
+                "bridge": "yes",
+                "highway": "footway",
+                "layer": "1",
+                "name": "Mississippi River Model Walk",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Mud_island_from_south.JPG",
+            "image_source": "wikipedia_verified"
+        }
+    ]
+}

@@ -1,0 +1,384 @@
+{
+    "city_metadata": {
+        "city_name": "Vail",
+        "state_code": "CO",
+        "state_full": "Colorado",
+        "city_summary": "Vail is a home rule municipality in Eagle County, Colorado, United States. The population of the town was 4,835 in 2020. Home to Vail Ski Resort, the largest ski mountain in Colorado, the town is known for its hotels, dining, and for the numerous events the city hosts annually, such as the Vail Film Festival, Vail Resorts Snow Days, and Bravo!",
+        "city_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Buildings_in_Vail%2C_Colorado_1.jpg/1280px-Buildings_in_Vail%2C_Colorado_1.jpg",
+        "city_lat": 39.63833333,
+        "city_lon": -106.36111111,
+        "source": "wikipedia_verified_engine"
+    },
+    "attractions": [
+        {
+            "type": "node",
+            "id": 6528505354,
+            "lat": 39.6422436,
+            "lon": -106.373305,
+            "tags": {
+                "access": "yes",
+                "entrance": "yes",
+                "level": "2",
+                "name": "Colorado Snowsports Museum and Hall of Fame",
+                "opening_hours": "10:00-18:00",
+                "tourism": "museum",
+                "website": "https://www.snowsportsmuseum.org"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Vail_front_side.jpg/1280px-Vail_front_side.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 6562606160,
+            "lat": 39.6442775,
+            "lon": -106.3865351,
+            "tags": {
+                "addr:housenumber": "395",
+                "addr:postcode": "81657",
+                "addr:street": "East Lionshead Circle",
+                "leisure": "playground",
+                "level": "3",
+                "name": "Imagination Station",
+                "tourism": "attraction",
+                "website": "https://www.vailrec.com/vail-recreation/imagination-station"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Vail_Health_Hospital.JPG/1280px-Vail_Health_Hospital.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 6593734292,
+            "lat": 39.6389339,
+            "lon": -106.365773,
+            "tags": {
+                "name": "Museum and Gift Shop",
+                "operator": "Betty Ford Alpine Garden",
+                "shop": "gift",
+                "tourism": "museum",
+                "website": "https://bettyfordalpinegardens.org/education/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/BF_alpine_gardens_1.JPG/1280px-BF_alpine_gardens_1.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 6611916776,
+            "lat": 39.6190932,
+            "lon": -106.3848449,
+            "tags": {
+                "name": "Thunder Cat Cave",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 6611924998,
+            "lat": 39.6184953,
+            "lon": -106.3889105,
+            "tags": {
+                "attraction": "amusement_ride",
+                "name": "Forest Flyer",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 6611925019,
+            "lat": 39.6176821,
+            "lon": -106.3853787,
+            "tags": {
+                "attraction": "amusement_ride",
+                "name": "Holy Cross Adventure Course",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "way",
+            "id": 89626060,
+            "lat": 39.6183038,
+            "lon": -106.3857318,
+            "tags": {
+                "building": "commercial",
+                "name": "Nature Discovery Center/Walking Mountains Science Center",
+                "tourism": "museum",
+                "website": "https://www.walkingmountains.org/"
+            }
+        },
+        {
+            "type": "way",
+            "id": 224523036,
+            "lat": 39.6414372,
+            "lon": -106.3734026,
+            "tags": {
+                "access": "no",
+                "alt_name": "Covered Bridge",
+                "bicycle": "yes",
+                "bridge": "yes",
+                "covered": "yes",
+                "foot": "yes",
+                "highway": "footway",
+                "layer": "1",
+                "material": "wood",
+                "name": "Bridge Street",
+                "name:pt": "Ponte Coberta",
+                "tiger:cfcc": "A41",
+                "tiger:county": "Eagle, CO",
+                "tiger:name_base": "Bridge",
+                "tiger:name_type": "St",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Vail_front_side.jpg/1280px-Vail_front_side.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 224523153,
+            "lat": 39.6396656,
+            "lon": -106.362772,
+            "tags": {
+                "addr:housenumber": "601",
+                "addr:postcode": "81657",
+                "addr:state": "CO",
+                "addr:street": "Vail Valley Drive",
+                "alt_name": "Interpretive Center",
+                "building": "yes",
+                "name": "Vail Nature Center",
+                "opening_hours": "09:00-17:00",
+                "operator": "Walking Mountains",
+                "seasonal": "summer;winter off",
+                "tourism": "museum",
+                "website": "https://www.walkingmountains.org"
+            }
+        },
+        {
+            "type": "way",
+            "id": 702003548,
+            "lat": 39.6402887,
+            "lon": -106.3668335,
+            "tags": {
+                "building": "yes",
+                "building:levels": "2",
+                "building:use": "education",
+                "fee": "no",
+                "layer": "1",
+                "leisure": "garden",
+                "name": "Betty Ford Alpine Gardens Education Center",
+                "opening_hours": "10:00-17:00",
+                "start_date": "2015",
+                "tourism": "museum",
+                "website": "https://bettyfordalpinegardens.org/education-center",
+                "wheelchair": "yes"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/BF_alpine_gardens_1.JPG/1280px-BF_alpine_gardens_1.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 702165157,
+            "lat": 39.639761,
+            "lon": -106.3623736,
+            "tags": {
+                "alt_name": "Nature Discovery Center",
+                "building": "yes",
+                "description": "yurt",
+                "name": "The Discovery Center",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Buildings_in_Vail%2C_Colorado_1.jpg/1280px-Buildings_in_Vail%2C_Colorado_1.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 983277629,
+            "lat": 39.6204556,
+            "lon": -106.3901621,
+            "tags": {
+                "addr:state": "CO",
+                "name": "Forest Flyer",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 108471,
+            "lat": 39.63833333,
+            "lon": -106.36111111,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Buildings_in_Vail%2C_Colorado_1.jpg/1280px-Buildings_in_Vail%2C_Colorado_1.jpg",
+            "description": "Vail is a home rule municipality in Eagle County, Colorado, United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Vail, Colorado",
+                "wikipedia": "en:Vail, Colorado",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 7157024,
+            "lat": 39.639,
+            "lon": -106.374,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Vail_front_side.jpg/1280px-Vail_front_side.jpg",
+            "description": "Vail Ski Resort is a ski resort in the western United States, located near the town of Vail in Eagle County, Colorado.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Vail Ski Resort",
+                "wikipedia": "en:Vail Ski Resort",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 5680177,
+            "lat": 40.65083333,
+            "lon": -111.5075,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Eagle_Race_Arena_at_Park_City_Resort.jpg/1280px-Eagle_Race_Arena_at_Park_City_Resort.jpg",
+            "description": "Park City Mountain Resort (PCMR) is a ski resort in the western United States in Park City, Utah, located 32 miles (51 km) east of Salt Lake City.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Park City Mountain Resort",
+                "wikipedia": "en:Park City Mountain Resort",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 3255726,
+            "lat": 39.63138889,
+            "lon": -106.52166667,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b3/BeaverCreekLogo.png",
+            "description": "Beaver Creek Resort is an alpine ski resort in the western United States, near Avon, Colorado.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Beaver Creek Resort",
+                "wikipedia": "en:Beaver Creek Resort",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 1313770,
+            "lat": 39.605,
+            "lon": -105.95416667,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/River_Run_Village_Fireworks%2C_Keystone%2C_CO.jpg/1280px-River_Run_Village_Fireworks%2C_Keystone%2C_CO.jpg",
+            "description": "Keystone Resort is a ski resort located in Keystone, Colorado, United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Keystone Resort",
+                "wikipedia": "en:Keystone Resort",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 108511,
+            "lat": 40.25055556,
+            "lon": -105.82444444,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Town_of_Grand_Lake_CO.jpg/1280px-Town_of_Grand_Lake_CO.jpg",
+            "description": "The Town of Grand Lake is a statutory town located in Grand County, Colorado, United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Grand Lake, Colorado",
+                "wikipedia": "en:Grand Lake, Colorado",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 3023054,
+            "lat": 32.64793889,
+            "lon": 73.00839444,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Khewra_Salt_Mine_-_Crystal_Deposits_on_the_mine_walls.jpg/1280px-Khewra_Salt_Mine_-_Crystal_Deposits_on_the_mine_walls.jpg",
+            "description": "The Khewra Salt Mine (Urdu: کھیوڑہ نمک کان), also known as Mayo Salt Mine, is the world's second largest salt mine, located in Khewra in the Jhelum District of Punjab, Pakistan.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Khewra Salt Mine",
+                "wikipedia": "en:Khewra Salt Mine",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 1984333,
+            "lat": 39.26920833,
+            "lon": -77.39524722,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Sugarloaf2.jpg",
+            "description": "Sugarloaf Mountain is a small (1,283 feet; 391 m) mountain and park about 10 miles (16 km) south of Frederick, Maryland.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Sugarloaf Mountain (Maryland)",
+                "wikipedia": "en:Sugarloaf Mountain (Maryland)",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 693749,
+            "lat": 36.11305556,
+            "lon": -115.17638889,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Bellagio_Hotel_and_Casino.svg/1280px-Bellagio_Hotel_and_Casino.svg.png",
+            "description": "Bellagio ( bə-LAH-zhee-oh) is a resort, luxury hotel, and casino on the Las Vegas Strip in Paradise, Nevada.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Bellagio (resort)",
+                "wikipedia": "en:Bellagio (resort)",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 108469,
+            "lat": 39.54583333,
+            "lon": -106.38694444,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Pine_Street_in_Minturn%2C_Colorado.JPG/1280px-Pine_Street_in_Minturn%2C_Colorado.JPG",
+            "description": "Minturn is a home rule municipality in Eagle County, Colorado, United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Minturn, Colorado",
+                "wikipedia": "en:Minturn, Colorado",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 108357,
+            "lat": 39.9205,
+            "lon": -105.0867,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Broomfield_colorado_interlocken_offices.jpg",
+            "description": "Broomfield is a consolidated city and county located in the U.S. state of Colorado.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Broomfield, Colorado",
+                "wikipedia": "en:Broomfield, Colorado",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 4691281,
+            "lat": 38.9972,
+            "lon": -105.5478,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Colorado_in_United_States.svg/1280px-Colorado_in_United_States.svg.png",
+            "description": "This is a list of airports in the U.S. state of Colorado, grouped by type and sorted by location.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "List of airports in Colorado",
+                "wikipedia": "en:List of airports in Colorado",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 27865398,
+            "lat": -37.5698,
+            "lon": 143.8926,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/ca/A235%2C_Ballarat_Wildlife_Park%2C_Ballarat%2C_Australia%2C_wombats%2C_2007.JPG",
+            "description": "The Ballarat Wildlife Park is a zoo in Ballarat, Victoria.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Ballarat Wildlife Park",
+                "wikipedia": "en:Ballarat Wildlife Park",
+                "tourism": "attraction"
+            }
+        }
+    ]
+}

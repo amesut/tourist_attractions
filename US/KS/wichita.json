@@ -1,0 +1,522 @@
+{
+    "city_metadata": {
+        "city_name": "Wichita",
+        "state_code": "KS",
+        "state_full": "Kansas",
+        "city_summary": "Wichita ( , WITCH-ih-taw) is the most populous city in the U.S. state of Kansas and the county seat of Sedgwick County. As of the 2020 census, the population of the city was 397,532, and the Wichita metropolitan area had a population of 647,610. It is located in south-central Kansas along the Arkansas River.",
+        "city_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Wichita%2C_Kansas_skyline.jpg/1280px-Wichita%2C_Kansas_skyline.jpg",
+        "city_lat": 37.68888889,
+        "city_lon": -97.33611111,
+        "source": "wikipedia_verified_engine"
+    },
+    "attractions": [
+        {
+            "type": "node",
+            "id": 366765966,
+            "lat": 37.6697,
+            "lon": -97.335251,
+            "tags": {
+                "addr:city": "Wichita",
+                "addr:housenumber": "1300",
+                "addr:postcode": "67211",
+                "addr:street": "South Broadway Avenue",
+                "ele": "394",
+                "gnis:feature_id": "2509899",
+                "name": "Kansas Firefighters Museum",
+                "opening_hours": "Sa 11:00-15:00",
+                "source": "USGS Geonames",
+                "tourism": "museum",
+                "website": "https://kansasfirefightersmuseum.com",
+                "wikidata": "Q123616088"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Fire_engine_house_no_6.jpg/1280px-Fire_engine_house_no_6.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 366765969,
+            "lat": 37.694939,
+            "lon": -97.339785,
+            "tags": {
+                "addr:state": "KS",
+                "ele": "397",
+                "gnis:feature_id": "2509818",
+                "name": "Kansas African American Museum",
+                "source": "USGS Geonames",
+                "tourism": "museum",
+                "website": "https://www.tkaamuseum.org/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Calvary_Baptist_Church_on_Water_Street.%2C_erect_1917._Wichita%2C_Kansas..JPG/1280px-Calvary_Baptist_Church_on_Water_Street.%2C_erect_1917._Wichita%2C_Kansas..JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 366765990,
+            "lat": 37.689767,
+            "lon": -97.29246,
+            "tags": {
+                "addr:state": "KS",
+                "ele": "416",
+                "fee": "yes",
+                "gnis:feature_id": "2510040",
+                "name": "Frank Lloyd Wright's Allen House",
+                "source": "USGS Geonames",
+                "tourism": "museum",
+                "wikidata": "Q4731481"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Allen-Lambe_House.JPG/1280px-Allen-Lambe_House.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 366765994,
+            "lat": 37.687053,
+            "lon": -97.327886,
+            "tags": {
+                "addr:city": "Wichita",
+                "addr:housenumber": "835",
+                "addr:state": "KS",
+                "addr:street": "East 1st Street North",
+                "air_conditioning": "no",
+                "check_date": "2025-05-24",
+                "ele": "396",
+                "fee": "yes",
+                "gnis:feature_id": "2510223",
+                "name": "Museum of World Treasures",
+                "source": "survey",
+                "tourism": "museum",
+                "website": "https://www.worldtreasures.org/worldtreasures",
+                "wikidata": "Q15260386",
+                "wikipedia": "en:Museum of World Treasures"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Keen_Kutter_Building_-_Old_Town_-_Wichita%2C_Kansas.jpg/1280px-Keen_Kutter_Building_-_Old_Town_-_Wichita%2C_Kansas.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 366765998,
+            "lat": 37.686327,
+            "lon": -97.329563,
+            "tags": {
+                "addr:city": "Wichita",
+                "addr:housenumber": "700",
+                "addr:postcode": "67202",
+                "addr:street": "East Douglas Avenue",
+                "ele": "396",
+                "gnis:feature_id": "2510128",
+                "name": "Great Plains Transportation Museum",
+                "source": "USGS Geonames",
+                "tourism": "museum",
+                "website": "https://www.gptm.us/",
+                "wikidata": "Q5599787"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Gptm1.jpg/1280px-Gptm1.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 366765999,
+            "lat": 37.69494,
+            "lon": -97.356372,
+            "tags": {
+                "addr:city": "Wichita",
+                "addr:housenumber": "1400",
+                "addr:postcode": "67203-3200",
+                "addr:state": "KS",
+                "addr:street": "West Museum Boulevard",
+                "ele": "396",
+                "fee": "yes",
+                "gnis:feature_id": "2510493",
+                "museum": "art",
+                "name": "Wichita Art Museum",
+                "opening_hours": "Tu-Sa 10:00-17:00; Su 12:00-17:00",
+                "phone": "+1-316-268-4921",
+                "source": "USGS Geonames",
+                "tourism": "museum",
+                "website": "https://wichitaartmuseum.org/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Wichita_Art_Museum_03.jpg/1280px-Wichita_Art_Museum_03.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 366766025,
+            "lat": 37.6847318,
+            "lon": -97.3379481,
+            "tags": {
+                "addr:city": "Wichita",
+                "addr:housenumber": "204",
+                "addr:street": "South Main Street",
+                "ele": "396",
+                "gnis:feature_id": "2510352",
+                "name": "Wichita - Sedgwick County Historical Museum",
+                "opening_hours": "Tu-Fr 11:00-16:00; Sa,Su 13:00-17:00",
+                "source": "USGS Geonames",
+                "tourism": "museum",
+                "website": "https://www.wichitahistory.org/",
+                "wikidata": "Q7998110"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Sedgwick_co_historical_museum.jpg/1280px-Sedgwick_co_historical_museum.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 366766028,
+            "lat": 37.693791,
+            "lon": -97.362251,
+            "tags": {
+                "addr:city": "Wichita",
+                "addr:housenumber": "1865",
+                "addr:postcode": "67203",
+                "addr:state": "KS",
+                "addr:street": "West Museum Boulevard",
+                "ele": "396",
+                "gnis:feature_id": "2510777",
+                "name": "Old Cowtown Museum",
+                "source": "USGS Geonames",
+                "tourism": "museum",
+                "website": "https://www.oldcowtown.org/Pages/default.aspx",
+                "wikidata": "Q7083791",
+                "wikipedia": "en:Old Cowtown Museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Darius_Sales_Munger_House_in_Cowtown_Wichita%2C_KS.JPG/1280px-Darius_Sales_Munger_House_in_Cowtown_Wichita%2C_KS.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 366766031,
+            "lat": 37.7180109,
+            "lon": -97.2928909,
+            "tags": {
+                "addr:state": "KS",
+                "ele": "396",
+                "gnis:feature_id": "2510774",
+                "name": "Wichita State University - Lowell D Holmes Museum of Anthropology",
+                "source": "USGS Geonames",
+                "tourism": "museum",
+                "website": "https://www.wichita.edu/museums/holmes/index.php"
+            }
+        },
+        {
+            "type": "node",
+            "id": 4644239717,
+            "lat": 37.6808059,
+            "lon": -97.3414339,
+            "tags": {
+                "name": "Kansas Sports Hall of Fame",
+                "tourism": "museum",
+                "website": "https://www.kshof.org/",
+                "wikidata": "Q6365057"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Barry_Sanders.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 5268621638,
+            "lat": 37.7093735,
+            "lon": -97.1860334,
+            "tags": {
+                "name": "Arch",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10844864005,
+            "lat": 37.7176653,
+            "lon": -97.2930958,
+            "tags": {
+                "level": "2",
+                "name": "Rocks Gallery",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/SWHolmesEX1.jpg/1280px-SWHolmesEX1.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 10858848022,
+            "lat": 37.7176333,
+            "lon": -97.2932966,
+            "tags": {
+                "level": "0",
+                "name": "Display Gallery",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/SWHolmesEX1.jpg/1280px-SWHolmesEX1.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 10858848023,
+            "lat": 37.7176329,
+            "lon": -97.2933627,
+            "tags": {
+                "level": "0",
+                "name": "art gallery",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/SWHolmesEX1.jpg/1280px-SWHolmesEX1.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 10858971008,
+            "lat": 37.7176328,
+            "lon": -97.2935979,
+            "tags": {
+                "level": "1",
+                "name": "Gallery",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/SWHolmesEX1.jpg/1280px-SWHolmesEX1.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 10858983305,
+            "lat": 37.717662,
+            "lon": -97.2932143,
+            "tags": {
+                "level": "1",
+                "name": "Display Gallery",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/SWHolmesEX1.jpg/1280px-SWHolmesEX1.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 13158358204,
+            "lat": 37.6851662,
+            "lon": -97.3234333,
+            "tags": {
+                "addr:housenumber": "130",
+                "addr:street": "Laura Street",
+                "name": "Wichita Toy Train Museum",
+                "tourism": "museum",
+                "website": "http://www.wichitatoytrainmuseum.org"
+            }
+        },
+        {
+            "type": "way",
+            "id": 133195442,
+            "lat": 37.6893845,
+            "lon": -97.3474044,
+            "tags": {
+                "addr:city": "Wichita",
+                "addr:housenumber": "300",
+                "addr:postcode": "67203",
+                "addr:state": "KS",
+                "addr:street": "McLean Boulevard",
+                "building": "yes",
+                "ele": "396",
+                "gnis:feature_id": "2510918",
+                "internet_access:password": "totspot",
+                "internet_access:ssid": "sgguest",
+                "layer": "1",
+                "museum": "science",
+                "name": "Exploration Place - Science and Discovery Center",
+                "source": "USGS Geonames",
+                "tourism": "museum",
+                "website": "https://exploration.org/",
+                "wikidata": "Q5421320",
+                "wikipedia": "en:Exploration Place"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/The_Exploration_Place-Wichita%2C_Kansas-June_2013.jpg/1280px-The_Exploration_Place-Wichita%2C_Kansas-June_2013.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 139824892,
+            "lat": 37.6321653,
+            "lon": -97.2737191,
+            "tags": {
+                "addr:city": "Wichita",
+                "addr:housenumber": "3350",
+                "addr:postcode": "67210",
+                "addr:state": "KS",
+                "addr:street": "South George Washington Boulevard",
+                "building": "yes",
+                "museum": "history",
+                "name": "Kansas Aviation Museum",
+                "source": "esri/USA_NAD_Addresses",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Detail_of_Kansas_Aviation_Museum_building.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 178566614,
+            "lat": 37.6314068,
+            "lon": -97.2725909,
+            "tags": {
+                "aircraft:type": "military",
+                "historic": "aircraft",
+                "manufacturer": "Boeing",
+                "name": "Boeing B-52D",
+                "ref": "55-0094",
+                "tourism": "attraction",
+                "type:wikipedia": "en:Boeing B-52 Stratofortress"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Detail_of_Kansas_Aviation_Museum_building.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 178601186,
+            "lat": 37.6329253,
+            "lon": -97.273647,
+            "tags": {
+                "addr:city": "Wichita",
+                "addr:housenumber": "3350",
+                "addr:postcode": "67210",
+                "addr:state": "KS",
+                "addr:street": "South George Washington Boulevard",
+                "museum": "aviation",
+                "name": "Kansas Aviation Museum",
+                "opening_hours": "Mo-Sa 10:00-17:00, Su 12:00-17:00",
+                "phone": "+1 316 683 9242",
+                "tourism": "museum",
+                "website": "https://kansasaviationmuseum.org/",
+                "wikidata": "Q6364579",
+                "wikipedia": "en:Kansas Aviation Museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Detail_of_Kansas_Aviation_Museum_building.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 205002857,
+            "lat": 37.6921582,
+            "lon": -97.3518042,
+            "tags": {
+                "addr:housenumber": "650",
+                "addr:state": "KS",
+                "addr:street": "North Seneca Street",
+                "building": "yes",
+                "ele": "397",
+                "gnis:feature_id": "2510106",
+                "name": "Indian Center Museum",
+                "source": "USGS Geonames",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Mid-America_All-Indian_Center.jpg/1280px-Mid-America_All-Indian_Center.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 462137681,
+            "lat": 37.6949585,
+            "lon": -97.3398212,
+            "tags": {
+                "addr:city": "Wichita",
+                "addr:housenumber": "601",
+                "addr:postcode": "67203",
+                "addr:state": "KS",
+                "addr:street": "North Water Street",
+                "building": "yes",
+                "name": "Kansas African American Museum",
+                "opening_hours": "Tu-Fr 09:00-17:00; Sa 12:00-16:00",
+                "tourism": "museum",
+                "wikidata": "Q5024144"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Calvary_Baptist_Church_on_Water_Street.%2C_erect_1917._Wichita%2C_Kansas..JPG/1280px-Calvary_Baptist_Church_on_Water_Street.%2C_erect_1917._Wichita%2C_Kansas..JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 468764219,
+            "lat": 37.6959614,
+            "lon": -97.3646739,
+            "tags": {
+                "access": "customers",
+                "addr:city": "Wichita",
+                "addr:housenumber": "701",
+                "addr:postcode": "67203",
+                "addr:state": "KS",
+                "addr:street": "Amidon Street",
+                "fee": "yes",
+                "garden:type": "botanical",
+                "leisure": "garden",
+                "name": "The Wichita Botanica Gardens",
+                "tourism": "attraction",
+                "wikidata": "Q8251228",
+                "wikipedia": "en:Botanica, The Wichita Gardens"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Botanica_Wichita.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 541095411,
+            "lat": 37.7170384,
+            "lon": -97.2966096,
+            "tags": {
+                "addr:state": "KS",
+                "building": "yes",
+                "ele": "425",
+                "gnis:feature_id": "2510819",
+                "name": "Ulrich Museum of Art",
+                "source": "USGS Geonames",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Fairmount_Church_%28SE_Sideview%29.JPG/1280px-Fairmount_Church_%28SE_Sideview%29.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 1283403167,
+            "lat": 37.6612901,
+            "lon": -97.4229395,
+            "tags": {
+                "addr:city": "Wichita",
+                "addr:housenumber": "1788",
+                "addr:postcode": "67209",
+                "addr:state": "KS",
+                "addr:street": "South Airport Road",
+                "building": "yes",
+                "name": "B-29 Doc Hangar, Education and Visitors Center",
+                "source": "esri/USA_NAD_Addresses",
+                "tourism": "museum"
+            }
+        },
+        {
+            "type": "way",
+            "id": 1307081879,
+            "lat": 37.7209928,
+            "lon": -97.4386893,
+            "tags": {
+                "addr:city": "Wichita",
+                "addr:country": "US",
+                "addr:housenumber": "8333",
+                "addr:postcode": "67205",
+                "addr:state": "KS",
+                "addr:street": "West 21st Street North",
+                "name": "All Star Sports",
+                "opening_hours": "Mo-Th 11:00-21:00; Fr-Sa 11:00-23:00; Su 11:00-21:00",
+                "operator": "All Star Wichita, LLC",
+                "phone": "+1 316-722-7529",
+                "tourism": "theme_park",
+                "website": "https://sports.allstarwichita.com"
+            }
+        },
+        {
+            "type": "way",
+            "id": 1430533321,
+            "lat": 37.7210321,
+            "lon": -97.2865396,
+            "tags": {
+                "building": "yes",
+                "name": "The Original Pizza Hut Museum",
+                "opening_hours": "Mo-Fr 08:00-17:00",
+                "tourism": "museum",
+                "website": "https://www.wichita.edu/museums/pizzahutmuseum/index.php"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Eck_Stadium_outside.JPG",
+            "image_source": "wikipedia_verified"
+        }
+    ]
+}

@@ -1,0 +1,349 @@
+{
+    "city_metadata": {
+        "city_name": "Champaign",
+        "state_code": "IL",
+        "state_full": "Illinois",
+        "city_summary": "Champaign ( sham-PAYN) is a city in Champaign County, Illinois, United States. The population was 88,302 at the 2020 census. It is the tenth-most populous municipality in Illinois and the fourth most populous city in the state outside the Chicago metropolitan area.",
+        "city_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Campustown_Scott_Park.jpg/1280px-Campustown_Scott_Park.jpg",
+        "city_lat": 40.1164,
+        "city_lon": -88.2436,
+        "source": "wikipedia_verified_engine"
+    },
+    "attractions": [
+        {
+            "type": "node",
+            "id": 368074521,
+            "lat": 40.1022068,
+            "lon": -88.2308877,
+            "tags": {
+                "addr:city": "Champaign",
+                "addr:housenumber": "500",
+                "addr:postcode": "61820",
+                "addr:state": "IL",
+                "addr:street": "Peabody Drive",
+                "ele": "228",
+                "gnis:feature_id": "1810782",
+                "name": "Krannert Art Museum",
+                "operator": "University of Illinois at Urbana-Champaign",
+                "phone": "+1-217-333-1861",
+                "source": "USGS Geonames",
+                "tourism": "museum",
+                "website": "http://www.kam.illinois.edu/",
+                "wikidata": "Q6436109",
+                "wikipedia": "en:Krannert Art Museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/University_of_Illinois_College_of_Education.jpg/1280px-University_of_Illinois_College_of_Education.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 1514714449,
+            "lat": 40.1046628,
+            "lon": -88.2307347,
+            "tags": {
+                "museum": "history",
+                "name": "The Sousa Archives and Center for American Music",
+                "operator": "University of Illinois Library",
+                "operator:type": "university",
+                "tourism": "museum",
+                "website": "https://archives.library.illinois.edu/sousa/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/GiesBusiness_center.jpg/1280px-GiesBusiness_center.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 384695,
+            "lat": 40.11055556,
+            "lon": -88.22833333,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/University_of_Illinois_seal.svg/1280px-University_of_Illinois_seal.svg.png",
+            "description": "The University of Illinois Urbana-Champaign (UIUC, U of I, Illinois, or University of Illinois) is a public land-grant research university in the Champaign–Urbana metropolitan area, Illinois, United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "University of Illinois Urbana-Champaign",
+                "wikipedia": "en:University of Illinois Urbana-Champaign",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 19713353,
+            "lat": 40.117,
+            "lon": -88.2455,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Virginia_Theater_Champaign_Illinois_4142.jpg/1280px-Virginia_Theater_Champaign_Illinois_4142.jpg",
+            "description": "The Virginia Theatre is a live performance and movie theatre in downtown Champaign, Illinois.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Virginia Theatre (Champaign)",
+                "wikipedia": "en:Virginia Theatre (Champaign)",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 577356,
+            "lat": 40.1,
+            "lon": -88.25,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Champaign-Night.jpg",
+            "description": "The Champaign–Urbana metropolitan area, also known as Champaign–Urbana and Urbana–Champaign as well as Chambana (colloquially), is a metropolitan area in east-central Illinois.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Champaign–Urbana",
+                "wikipedia": "en:Champaign–Urbana",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 110881,
+            "lat": 40.18666667,
+            "lon": -88.37555556,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Lake_of_the_Woods_Mahomet_Illinois.jpg/1280px-Lake_of_the_Woods_Mahomet_Illinois.jpg",
+            "description": "Mahomet  is a village in Champaign County, Illinois, United States, along the Sangamon River.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Mahomet, Illinois",
+                "wikipedia": "en:Mahomet, Illinois",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 40112414,
+            "lat": 40.111,
+            "lon": -88.246,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Champaign_Public_Library.jpg",
+            "description": "The Champaign Public Library is a library system in Champaign, Illinois.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Champaign Public Library",
+                "wikipedia": "en:Champaign Public Library",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 6886,
+            "lat": 41.88194444,
+            "lon": -87.62777778,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Chicago_River_ferry_b.jpg/1280px-Chicago_River_ferry_b.jpg",
+            "description": "Chicago is the most populous city in the U.S. state of Illinois and in the Midwestern United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Chicago",
+                "wikipedia": "en:Chicago",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 112098,
+            "lat": 40.715,
+            "lon": -89.2775,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Eureka_College_Main_Building_flickr.jpg/1280px-Eureka_College_Main_Building_flickr.jpg",
+            "description": "Eureka is a city in and the county seat of Woodford County, Illinois, United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Eureka, Illinois",
+                "wikipedia": "en:Eureka, Illinois",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 44303583,
+            "lat": 40,
+            "lon": -88.66666667,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Champaign-Night.jpg",
+            "description": "The Champaign-Decatur CSA, also known as East Central Illinois CSA, was a combined statistical area in the U.S. State of Illinois.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Champaign–Decatur combined statistical area",
+                "wikipedia": "en:Champaign–Decatur combined statistical area",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 5567312,
+            "lat": 40.10354,
+            "lon": -88.232811,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Huff_Hall.jpg/1280px-Huff_Hall.jpg",
+            "description": "Huff Hall is a 4,050-seat multi-purpose arena in Champaign, Illinois, United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Huff Hall",
+                "wikipedia": "en:Huff Hall",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 57706,
+            "lat": 39.7975,
+            "lon": -89.645,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Dana-Thomas_House%2C_Lawrence_Avenue_and_4th_Street%2C_Springfield%2C_IL_-_53322374502.jpg/1280px-Dana-Thomas_House%2C_Lawrence_Avenue_and_4th_Street%2C_Springfield%2C_IL_-_53322374502.jpg",
+            "description": "Springfield is the capital city of the U.S. state of Illinois.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Springfield, Illinois",
+                "wikipedia": "en:Springfield, Illinois",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 27884299,
+            "lat": 40.12444444,
+            "lon": -87.63,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Vermilion_County_Courthouse.jpg/1280px-Vermilion_County_Courthouse.jpg",
+            "description": "Danville is a city in Vermilion County, Illinois, United States, and its county seat.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Danville, Illinois",
+                "wikipedia": "en:Danville, Illinois",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 242346,
+            "lat": 38.7225,
+            "lon": 35.4875,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Mount_Erciyes_%28Argaeus%29%2C_Turkey_%2831870998063%29.jpg/1280px-Mount_Erciyes_%28Argaeus%29%2C_Turkey_%2831870998063%29.jpg",
+            "description": "Kayseri (Turkish pronunciation: [ˈkajseɾi]) is a large city in Central Anatolia, Turkey, and the capital of Kayseri province.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Kayseri",
+                "wikipedia": "en:Kayseri",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 111660,
+            "lat": 42.25083333,
+            "lon": -88.61388889,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Marengo_Illinois1.jpg/1280px-Marengo_Illinois1.jpg",
+            "description": "Marengo is a city in McHenry County, Illinois, United States on the Kishwaukee River.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Marengo, Illinois",
+                "wikipedia": "en:Marengo, Illinois",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 30713414,
+            "lat": 41.123,
+            "lon": -88.8245,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Streator_Station.jpg/1280px-Streator_Station.jpg",
+            "description": "Streator station was a train station located in Streator, Illinois, United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Streator station",
+                "wikipedia": "en:Streator station",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 348454,
+            "lat": 38.65388889,
+            "lon": -90.06444444,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Monks_Mound_-_Summer_2024.jpg/1280px-Monks_Mound_-_Summer_2024.jpg",
+            "description": "The Cahokia Mounds (also simply known as Cahokia)  (11 MS 2) is the site of a Native American city (which existed c.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Cahokia",
+                "wikipedia": "en:Cahokia",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 77773,
+            "lat": 41.88111111,
+            "lon": -87.62972222,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Chicago_Loop.png/1280px-Chicago_Loop.png",
+            "description": "The Loop is Chicago's central business district and one of the 77 municipally-designated community areas of Chicago in Illinois, United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Chicago Loop",
+                "wikipedia": "en:Chicago Loop",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 53353,
+            "lat": 38.6246,
+            "lon": -90.185,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/St_Louis_night_expblend_cropped.jpg/1280px-St_Louis_night_expblend_cropped.jpg",
+            "description": "The Gateway Arch is a 630-foot-tall (192 m) monument in St.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Gateway Arch",
+                "wikipedia": "en:Gateway Arch",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 38870343,
+            "lat": 43.59972222,
+            "lon": -84.28694444,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/La_confluencia_%2830664071115%29.jpg/1280px-La_confluencia_%2830664071115%29.jpg",
+            "description": "Chippewa Nature Center (CNC) is both a 501(c)(3) non-profit educational organization and a protected wildlife area in the Lower Peninsula of Michigan, encompassing over 1,500 acres (6.1 km2) of forest, rivers and wetlands.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Chippewa Nature Center",
+                "wikipedia": "en:Chippewa Nature Center",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 30188,
+            "lat": 34,
+            "lon": 9,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Flag_of_Tunisia.svg/1280px-Flag_of_Tunisia.svg.png",
+            "description": "Tunisia, officially the Republic of Tunisia, is a country in the Maghreb region of North Africa.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Tunisia",
+                "wikipedia": "en:Tunisia",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 22621,
+            "lat": -13.35,
+            "lon": -176.13944444,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Oceania_%28centered_orthographic_projection%29.svg/1280px-Oceania_%28centered_orthographic_projection%29.svg.png",
+            "description": "Oceania (UK:  OH-s(h)ee-AH-nee-ə, -⁠AY-, US:   OH-shee-A(H)N-ee-ə) is a geographical region including Australasia, Melanesia, Micronesia, and Polynesia.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Oceania",
+                "wikipedia": "en:Oceania",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 41962,
+            "lat": 41.88638889,
+            "lon": -87.6375,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Chicago_Riverwalk_%2851556708640%29.jpg/1280px-Chicago_Riverwalk_%2851556708640%29.jpg",
+            "description": "The Chicago River is a system of rivers and canals with a combined length of 156 miles (251 km) that runs through the city of Chicago, including its center (the Chicago Loop).",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Chicago River",
+                "wikipedia": "en:Chicago River",
+                "tourism": "attraction"
+            }
+        }
+    ]
+}

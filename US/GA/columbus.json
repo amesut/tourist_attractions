@@ -1,0 +1,1014 @@
+{
+    "city_metadata": {
+        "city_name": "Columbus",
+        "state_code": "GA",
+        "state_full": "Georgia",
+        "city_summary": "Columbus is a consolidated city-county located on the west-central border of the U.S. state of Georgia. Columbus lies on the Chattahoochee River directly across from Phenix City, Alabama. It is the county seat of Muscogee County, with which it officially merged in 1970; the original merger excluded Bibb City, which joined in 2000 after dissolving its own city charter.",
+        "city_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Downtown_Columbus%2C_Georgia_skyline.jpg/1280px-Downtown_Columbus%2C_Georgia_skyline.jpg",
+        "city_lat": 32.49222222,
+        "city_lon": -84.94027778,
+        "source": "wikipedia_verified_engine"
+    },
+    "attractions": [
+        {
+            "type": "node",
+            "id": 366093941,
+            "lat": 45.6416075,
+            "lon": -109.2515501,
+            "tags": {
+                "addr:city": "Columbus",
+                "addr:housenumber": "440",
+                "addr:postcode": "59019",
+                "addr:state": "MT",
+                "addr:street": "East 5th Avenue North",
+                "ele": "1098",
+                "fee": "no",
+                "gnis:feature_id": "1726911",
+                "name": "Museum of the Beartooths",
+                "source": "USGS Geonames",
+                "tourism": "museum",
+                "website": "https://www.museumofthebeartooths.com/"
+            }
+        },
+        {
+            "type": "node",
+            "id": 366492358,
+            "lat": 41.4325076,
+            "lon": -97.3637394,
+            "tags": {
+                "addr:state": "NE",
+                "ele": "441",
+                "gnis:feature_id": "1880887",
+                "import_uuid": "gnis.57871b70-0100-4405-bb30-88b2e001a944",
+                "name": "Platte County Historical Museum",
+                "source": "USGS Geonames",
+                "tourism": "museum",
+                "website": "http://www.megavision.net/museum/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Snyder_House_%28Columbus%2C_Nebraska%29_from_SW_1.JPG/1280px-Snyder_House_%28Columbus%2C_Nebraska%29_from_SW_1.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 367915553,
+            "lat": 32.467365,
+            "lon": -84.9749315,
+            "tags": {
+                "addr:state": "GA",
+                "ele": "88",
+                "gnis:feature_id": "311707",
+                "name": "Bradley Museum",
+                "source": "USGS Geonames",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Columbus_Museum_2.jpg/1280px-Columbus_Museum_2.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 368155603,
+            "lat": 39.9606343,
+            "lon": -82.9856473,
+            "tags": {
+                "addr:state": "OH",
+                "ele": "238",
+                "gnis:feature_id": "1960246",
+                "museum": "organization",
+                "name": "Heritage Museum of Kappa Kappa Gamma",
+                "source": "USGS Geonames",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Philip_Snowden_House_%E2%80%94_Columbus%2C_Ohio.jpg/1280px-Philip_Snowden_House_%E2%80%94_Columbus%2C_Ohio.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 368165031,
+            "lat": 29.71059,
+            "lon": -96.5435954,
+            "tags": {
+                "addr:state": "TX",
+                "ele": "62",
+                "gnis:feature_id": "2014286",
+                "name": "Keith-Traylor Museum",
+                "source": "USGS Geonames",
+                "tourism": "museum"
+            }
+        },
+        {
+            "type": "node",
+            "id": 368165033,
+            "lat": 29.7046271,
+            "lon": -96.5420311,
+            "tags": {
+                "addr:state": "TX",
+                "ele": "60",
+                "gnis:feature_id": "2014283",
+                "name": "Alley Log Cabin and Antique Tool Museum",
+                "source": "USGS Geonames",
+                "tourism": "museum",
+                "website": "https://www.columbushpt.com/index.php/historical-properties/alley-log-cabin-tool-museum/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Columbus-tx2016-64%28confederate-memorial%29.jpg/1280px-Columbus-tx2016-64%28confederate-memorial%29.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 368165034,
+            "lat": 29.7066232,
+            "lon": -96.53886,
+            "tags": {
+                "addr:state": "TX",
+                "ele": "62",
+                "gnis:feature_id": "2014290",
+                "name": "Tate-Senftenberg-Brandon House Museum",
+                "source": "USGS Geonames",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Columbus-tx2016-107%28tate-senftenberg-brandon-home%29.jpg/1280px-Columbus-tx2016-107%28tate-senftenberg-brandon-home%29.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 618411600,
+            "lat": 39.998208,
+            "lon": -83.01192,
+            "tags": {
+                "addr:city": "Columbus",
+                "addr:housenumber": "155",
+                "addr:postcode": "43210",
+                "addr:state": "OH",
+                "addr:street": "South Oval Drive",
+                "indoor": "room",
+                "name": "Orton Geological Museum",
+                "opening_hours": "Mo-Fr 09:00-17:00",
+                "operator": "Ohio State School of Earth Sciences",
+                "tourism": "museum",
+                "website": "https://ortongeologicalmuseum.osu.edu/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Front_view_of_the_Old_Ohio_Union%2C_now_known_as_Hale_Hall_at_Ohio_State.jpg/1280px-Front_view_of_the_Old_Ohio_Union%2C_now_known_as_Hale_Hall_at_Ohio_State.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 3075289197,
+            "lat": 32.4470498,
+            "lon": -84.9797905,
+            "tags": {
+                "name": "National Civil War Naval Museum",
+                "opening_hours": "Su, Mo 12:30-16:30; Tu-Sa 10:00-16:30",
+                "operator": "Port Columbus Civil War Naval Center, Inc",
+                "tourism": "museum",
+                "website": "https://www.portcolumbus.org/about",
+                "wikidata": "Q6971523",
+                "wikipedia": "en:National Civil War Naval Museum"
+            }
+        },
+        {
+            "type": "node",
+            "id": 3224243932,
+            "lat": 32.3861445,
+            "lon": -84.958711,
+            "tags": {
+                "name": "Oxbow Meadows Environmental Learning Center",
+                "tourism": "zoo",
+                "zoo": "wildlife_park"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/County_Courthouse_Historic_Westville.jpg/1280px-County_Courthouse_Historic_Westville.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 4552786323,
+            "lat": 43.3394296,
+            "lon": -89.0100547,
+            "tags": {
+                "addr:city": "Columbus",
+                "addr:housenumber": "239",
+                "addr:postcode": "53925",
+                "addr:state": "WI",
+                "addr:street": "Whitney Street",
+                "name": "Columbus Antique Mall and Museum",
+                "phone": "+1-920-623-1992",
+                "shop": "antiques",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/John_A_and_Maggie_Jones_House.jpg/1280px-John_A_and_Maggie_Jones_House.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 4643440919,
+            "lat": 40.0737086,
+            "lon": -83.0330677,
+            "tags": {
+                "description": "Animal-shaped swing set",
+                "memorial": "statue",
+                "name": "Animal Swings",
+                "playground": "structure",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 5430554804,
+            "lat": 40.0731015,
+            "lon": -83.0187276,
+            "tags": {
+                "memorial": "statue",
+                "name": "Dragon with Toothbrush",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Seven_Matchsticks_01.jpg/1280px-Seven_Matchsticks_01.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 5430555575,
+            "lat": 40.0626022,
+            "lon": -83.0192815,
+            "tags": {
+                "historic": "memorial",
+                "memorial": "statue",
+                "name": "Tee Jaye's Arrow",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Old_Beechwold_bridge.jpg/1280px-Old_Beechwold_bridge.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 6781420285,
+            "lat": 39.9221432,
+            "lon": -82.8358334,
+            "tags": {
+                "name": "Otherworld",
+                "tourism": "museum",
+                "website": "https://otherworldohio.com/"
+            }
+        },
+        {
+            "type": "node",
+            "id": 6859133886,
+            "lat": 39.999641,
+            "lon": -83.0087953,
+            "tags": {
+                "addr:city": "Columbus",
+                "addr:housenumber": "1813",
+                "addr:postcode": "43210",
+                "addr:state": "OH",
+                "addr:street": "North High Street",
+                "fee": "no",
+                "name": "Billy Ireland Cartoon Library & Museum",
+                "tourism": "museum",
+                "website": "https://library.osu.edu/biclm",
+                "wikidata": "Q4912763"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Billy_Ireland_Cartoon_Library_%26_Museum_logo.png/1280px-Billy_Ireland_Cartoon_Library_%26_Museum_logo.png",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 7102096589,
+            "lat": 35.2502052,
+            "lon": -82.1993212,
+            "tags": {
+                "name": "Polk County History Museum",
+                "tourism": "museum",
+                "website": "http://www.polknchistory.org/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Polk_County_Courthouse_-_Columbus%2C_NC.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 9938106856,
+            "lat": 32.3876875,
+            "lon": -84.9541732,
+            "tags": {
+                "historic": "halftrack",
+                "name": "Half-Track",
+                "tourism": "attraction",
+                "wikidata": "Q696879",
+                "wikipedia": "en:M3 half-track"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/38/Followme.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 9938106857,
+            "lat": 32.3877041,
+            "lon": -84.9540571,
+            "tags": {
+                "historic": "tank",
+                "name": "M113",
+                "tourism": "attraction",
+                "wikidata": "Q462407",
+                "wikipedia": "en:M113 armored personnel carrier"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/38/Followme.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 9938106858,
+            "lat": 32.3876964,
+            "lon": -84.9539648,
+            "tags": {
+                "historic": "tank",
+                "name": "Bradley",
+                "tourism": "attraction",
+                "wikidata": "Q20030127",
+                "wikipedia": "en:Bradley Fighting Vehicle"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/38/Followme.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 9938108069,
+            "lat": 32.383778,
+            "lon": -84.953753,
+            "tags": {
+                "historic": "tank",
+                "name": "M1",
+                "tourism": "attraction",
+                "wikidata": "Q173684",
+                "wikipedia": "en:M1 Abrams"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/County_Courthouse_Historic_Westville.jpg/1280px-County_Courthouse_Historic_Westville.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 11172389843,
+            "lat": 39.9952175,
+            "lon": -82.9885635,
+            "tags": {
+                "man_made": "tower",
+                "name": "Armintrout Fire Tower",
+                "tourism": "attraction",
+                "tower:construction": "lattice",
+                "tower:type": "observation"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11184370434,
+            "lat": 39.9951991,
+            "lon": -82.988891,
+            "tags": {
+                "leisure": "park",
+                "name": "Geologic Walkway Park",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 12242575106,
+            "lat": 40.0010711,
+            "lon": -83.0142055,
+            "tags": {
+                "museum": "archaeological",
+                "name": "Museum of Classical Archaeology",
+                "operator": "The Ohio State University",
+                "operator:website": "https://www.osu.edu/",
+                "tourism": "museum",
+                "website": "https://moca.osu.edu/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Orton_Hall_from_the_Oval.jpg/1280px-Orton_Hall_from_the_Oval.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 12288505548,
+            "lat": 40.0006456,
+            "lon": -83.0144603,
+            "tags": {
+                "name": "University Museum",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/University_Hall%2C_Ohio_State_University.jpg/1280px-University_Hall%2C_Ohio_State_University.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 12606049901,
+            "lat": 40.0668758,
+            "lon": -83.0871199,
+            "tags": {
+                "name": "Funcity Adventure Park",
+                "opening_hours": "Mo-Th 12:00-21:00; Fr 12:00-22:00; Sa 10:00-22:00; Su 10:00-21:00",
+                "tourism": "theme_park",
+                "website": "https://www.funcitycolumbus.com/"
+            }
+        },
+        {
+            "type": "node",
+            "id": 13594034601,
+            "lat": 40.0294021,
+            "lon": -83.1145917,
+            "tags": {
+                "addr:housenumber": "3700",
+                "addr:postcode": "43026",
+                "addr:street": "Fishinger Boulevard",
+                "contact:facebook": "K1SpeedOfficial",
+                "contact:instagram": "k1speed",
+                "internet_access": "wlan",
+                "name": "K1 Speed",
+                "opening_hours": "Su 10:00-22:00; Mo-Th 12:00-00:00; Fr 00:00-24:00; Sa 10:00-00:00",
+                "phone": "+1-440-332-7501",
+                "tourism": "theme_park",
+                "website": "https://www.k1speed.com/"
+            }
+        },
+        {
+            "type": "way",
+            "id": 30302564,
+            "lat": 40.0051342,
+            "lon": -82.9869513,
+            "tags": {
+                "landuse": "commercial",
+                "name": "Ohio History Connection",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Ohio_History_Connection.png",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 30302922,
+            "lat": 40.0076066,
+            "lon": -82.9877982,
+            "tags": {
+                "addr:city": "Columbus",
+                "addr:housenumber": "800",
+                "addr:postcode": "43211",
+                "addr:state": "OH",
+                "addr:street": "East Seventeenth Avenue",
+                "historic": "yes",
+                "name": "Ohio Village",
+                "operator": "The Ohio History Connection",
+                "phone": "+1-614-297-2640",
+                "toilets:access": "customers",
+                "tourism": "attraction",
+                "website": "https://www.ohiohistory.org/",
+                "wikidata": "Q7081025",
+                "wikipedia": "en:Ohio Village"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Ohio_village_fall_2006.jpg/1280px-Ohio_village_fall_2006.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 32873150,
+            "lat": 39.959665,
+            "lon": -83.006595,
+            "tags": {
+                "addr:city": "Columbus",
+                "addr:housename": "COSI",
+                "addr:housenumber": "333",
+                "addr:postcode": "43215",
+                "addr:state": "OH",
+                "addr:street": "West Broad Street",
+                "air_conditioning": "yes",
+                "alt_name": "Center of Science and Industry",
+                "building": "yes",
+                "fee": "yes",
+                "museum": "science",
+                "name": "COSI",
+                "tourism": "museum",
+                "website": "https://www.cosi.org/",
+                "wikidata": "Q5013508",
+                "wikipedia": "en:COSI"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/COSI_science_museum_logo.svg/1280px-COSI_science_museum_logo.svg.png",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 59078594,
+            "lat": 39.9477238,
+            "lon": -83.107054,
+            "tags": {
+                "landuse": "commercial",
+                "name": "Hollywood Casino Columbus",
+                "tourism": "attraction",
+                "wikidata": "Q16984620"
+            }
+        },
+        {
+            "type": "way",
+            "id": 144183330,
+            "lat": 39.839596,
+            "lon": -82.9959744,
+            "tags": {
+                "name": "Scioto Downs Racetrack & Casino",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/ce/SDI_1.png",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 190113309,
+            "lat": 31.8283318,
+            "lon": -107.6400751,
+            "tags": {
+                "addr:state": "NM",
+                "building": "yes",
+                "ele": "1240",
+                "gnis:feature_id": "929500",
+                "name": "Columbus Historical Museum",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Luna_County_New_Mexico_Incorporated_and_Unincorporated_areas_Columbus_Highlighted.svg/1280px-Luna_County_New_Mexico_Incorporated_and_Unincorporated_areas_Columbus_Highlighted.svg.png",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 220553656,
+            "lat": 32.388637,
+            "lon": -84.9552854,
+            "tags": {
+                "addr:city": "Columbus",
+                "addr:country": "US",
+                "addr:housenumber": "1775",
+                "addr:postcode": "31903",
+                "addr:state": "GA",
+                "addr:street": "Legacy Way",
+                "alt_name": "National Infantry Museum and Soldier Center",
+                "building": "museum",
+                "contact:phone": "+1-706-685-5800",
+                "contact:website": "http://www.nationalinfantrymuseum.org/",
+                "name": "National Infantry Museum",
+                "opening_hours": "Tu-Sa 09:00-17:00; Su 11:00-17:00",
+                "tourism": "museum",
+                "wikidata": "Q6973522",
+                "wikipedia": "en:National Infantry Museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/NIMSC_Exterior_04%2C_Follow_Me_Statue_%285142771739%29.jpg/1280px-NIMSC_Exterior_04%2C_Follow_Me_Statue_%285142771739%29.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 231234816,
+            "lat": 39.9609393,
+            "lon": -82.9843681,
+            "tags": {
+                "addr:state": "OH",
+                "building": "house",
+                "ele": "240",
+                "gnis:feature_id": "1960249",
+                "museum": "local",
+                "name": "Kelton House Museum",
+                "source": "USGS Geonames",
+                "tourism": "museum",
+                "wikidata": "Q6386599",
+                "wikipedia": "en:Kelton House Museum and Garden"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Kelton_House%2C_Columbus%2C_Ohio.jpg/1280px-Kelton_House%2C_Columbus%2C_Ohio.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 293476179,
+            "lat": 39.9644285,
+            "lon": -82.987752,
+            "tags": {
+                "addr:city": "Columbus",
+                "addr:housenumber": "480",
+                "addr:postcode": "43215",
+                "addr:state": "OH",
+                "addr:street": "East Broad Street",
+                "air_conditioning": "yes",
+                "building": "yes",
+                "ele": "238",
+                "gnis:feature_id": "1059841",
+                "museum": "art",
+                "name": "Columbus Museum of Art",
+                "phone": "+1-614-221-6801",
+                "source": "USGS Geonames",
+                "tourism": "museum",
+                "website": "https://www.columbusmuseum.org/",
+                "wheelchair": "yes",
+                "wikidata": "Q5935366",
+                "wikipedia": "en:Columbus Museum of Art"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Columbus_Museum_of_Art_06.jpg/1280px-Columbus_Museum_of_Art_06.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 503889161,
+            "lat": 40.0098866,
+            "lon": -83.0236259,
+            "tags": {
+                "building": "yes",
+                "name": "Nicklaus Museum",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Jack_Nicklaus_-_DPLA_-_b04b32ff966bdf628512cc67ca9ea339.jpg/1280px-Jack_Nicklaus_-_DPLA_-_b04b32ff966bdf628512cc67ca9ea339.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 570391114,
+            "lat": 39.9619805,
+            "lon": -83.0080526,
+            "tags": {
+                "addr:city": "Columbus",
+                "addr:housenumber": "300",
+                "addr:postcode": "43215",
+                "addr:state": "OH",
+                "addr:street": "West Broad Street",
+                "alt_name": "Veterans Memorial",
+                "alt_name_1": "Veterans Museum",
+                "building": "public",
+                "building:colour": "white",
+                "building:levels": "2",
+                "building:levels:underground": "1",
+                "building:material": "concrete",
+                "fee": "yes",
+                "museum": "military",
+                "name": "National Veterans Memorial and Museum",
+                "name:en": "National Veterans Memorial and Museum",
+                "short_name": "NVMM",
+                "start_date": "2018",
+                "tourism": "museum",
+                "website": "https://nationalvmm.org/",
+                "wheelchair": "yes",
+                "wikidata": "Q72839254"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/ed/NVMM_logo.png",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 606795236,
+            "lat": 40.050945,
+            "lon": -82.9160986,
+            "tags": {
+                "addr:city": "Columbus",
+                "addr:housenumber": "157",
+                "addr:postcode": "43219",
+                "addr:state": "OH",
+                "addr:street": "Easton Town Center",
+                "contact:facebook": "https://www.facebook.com/LDCColumbus/",
+                "contact:instagram": "https://www.instagram.com/ldccolumbus/",
+                "covered": "yes",
+                "level": "0",
+                "location": "indoor",
+                "name": "Legoland Discovery Center Columbus",
+                "opening_hours": "Su-Fr 10:00-19:00; Sa 10:00-20:00",
+                "start_date": "2018-09-21",
+                "tourism": "theme_park",
+                "website": "https://columbus.legolanddiscoverycenter.com"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/ETC_mall_building.jpg/1280px-ETC_mall_building.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 637555091,
+            "lat": 40.0821901,
+            "lon": -82.9485148,
+            "tags": {
+                "addr:city": "Columbus",
+                "addr:housenumber": "2605",
+                "addr:postcode": "43231",
+                "addr:state": "OH",
+                "addr:street": "Northland Plaza Drive",
+                "attraction": "haunted_house",
+                "name": "13th Floor Haunted House",
+                "tourism": "attraction",
+                "website": "https://www.13thfloorcolumbus.com"
+            }
+        },
+        {
+            "type": "way",
+            "id": 638034784,
+            "lat": 40.087786,
+            "lon": -83.0026102,
+            "tags": {
+                "addr:state": "OH",
+                "ele": "277",
+                "gnis:feature_id": "1071723",
+                "museum": "railway",
+                "name": "Ohio Railway Museum",
+                "source": "USGS Geonames",
+                "tourism": "museum",
+                "wikidata": "Q7080870",
+                "wikipedia": "en:Ohio Railway Museum"
+            }
+        },
+        {
+            "type": "way",
+            "id": 638035970,
+            "lat": 39.9681908,
+            "lon": -82.996956,
+            "tags": {
+                "addr:city": "Columbus",
+                "addr:housenumber": "260",
+                "addr:postcode": "43215",
+                "addr:state": "OH",
+                "addr:street": "North Fourth Street",
+                "building": "yes",
+                "ele": "229",
+                "fee": "yes",
+                "gnis:feature_id": "1083642",
+                "museum": "local",
+                "name": "Central Ohio Fire Museum",
+                "opening_hours:url": "https://www.centralohiofiremuseum.com/visit",
+                "source": "USGS Geonames",
+                "tourism": "museum",
+                "website": "https://www.centralohiofiremuseum.com/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Central_Ohio_Fire_Museum.jpg/1280px-Central_Ohio_Fire_Museum.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 720538904,
+            "lat": 32.467166,
+            "lon": -84.9741254,
+            "tags": {
+                "addr:city": "Columbus",
+                "addr:housenumber": "1251",
+                "addr:postcode": "31906",
+                "addr:state": "GA",
+                "addr:street": "Wynnton Rd",
+                "building": "yes",
+                "changing_table": "limited",
+                "changing_table:location": "female_toilet;male_toilet",
+                "handicap": "yes",
+                "name": "The Columbus Museum",
+                "subject": "history",
+                "tourism": "museum",
+                "website": "https://www.columbusmuseum.com/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Columbus_Museum_2.jpg/1280px-Columbus_Museum_2.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 745977043,
+            "lat": 39.9318544,
+            "lon": -82.8337664,
+            "tags": {
+                "area": "yes",
+                "name": "Magic Mountain Fun Center East",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "way",
+            "id": 760236668,
+            "lat": 35.2520776,
+            "lon": -82.1977117,
+            "tags": {
+                "building": "yes",
+                "fee": "donation",
+                "name": "House of Flags",
+                "tourism": "museum",
+                "website": "https://houseofflags.org/"
+            }
+        },
+        {
+            "type": "way",
+            "id": 790918470,
+            "lat": 39.988834,
+            "lon": -83.0508578,
+            "tags": {
+                "addr:city": "Columbus",
+                "addr:housenumber": "1665",
+                "addr:postcode": "43212",
+                "addr:state": "OH",
+                "addr:street": "West 5th Avenue",
+                "building": "yes",
+                "fee": "yes",
+                "museum": "local",
+                "name": "Ohio Craft Museum",
+                "tourism": "museum"
+            }
+        },
+        {
+            "type": "way",
+            "id": 835107792,
+            "lat": 40.0050452,
+            "lon": -82.9876307,
+            "tags": {
+                "addr:city": "Columbus",
+                "addr:housenumber": "800",
+                "addr:postcode": "43211",
+                "addr:state": "OH",
+                "addr:street": "E. 17th Avenue",
+                "building": "yes",
+                "building:levels": "1",
+                "check_date": "2025-03-02",
+                "fee": "yes",
+                "fee:conditional": "no @ age < 3",
+                "gnis:feature_id": "1071722",
+                "height": "4",
+                "museum": "history",
+                "name": "Ohio History Center",
+                "opening_hours": "We-Su 10:00-17:00",
+                "opening_hours:covid19": "closed",
+                "phone": "+1-800-686-6124",
+                "roof:colour": "green",
+                "tourism": "museum",
+                "website": "https://www.ohiohistory.org/visit/ohio-history-center/",
+                "wheelchair": "yes",
+                "wikidata": "Q57420561",
+                "wikipedia": "en:Ohio History Center"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Ohio_History_Center_exterior_01.jpg/1280px-Ohio_History_Center_exterior_01.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 835943730,
+            "lat": 29.705153,
+            "lon": -96.5403465,
+            "tags": {
+                "addr:city": "Columbus",
+                "addr:housenumber": "425",
+                "addr:postcode": "78934",
+                "addr:state": "TX",
+                "addr:street": "Spring Street",
+                "building": "yes",
+                "ele": "63",
+                "gnis:feature_id": "2014287",
+                "name": "Mary Elizabeth Hopkins Santa Claus Museum",
+                "source": "USGS Geonames;esri_USDOT_ColoradoCountyTX;microsoft/BuildingFootprints",
+                "tourism": "museum",
+                "website": "https://www.columbushpt.com/index.php/historical-properties/santa-claus-museum/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Columbus-tx2016-64%28confederate-memorial%29.jpg/1280px-Columbus-tx2016-64%28confederate-memorial%29.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 958410751,
+            "lat": 32.4751317,
+            "lon": -84.9565571,
+            "tags": {
+                "addr:city": "Columbus",
+                "addr:housenumber": "1519",
+                "addr:postcode": "31906",
+                "addr:state": "GA",
+                "addr:street": "Stark Avenue",
+                "building": "yes",
+                "name": "Smith-McCullers House (Carson McCullers Center)",
+                "source": "microsoft/BuildingFootprints",
+                "tourism": "museum"
+            }
+        },
+        {
+            "type": "way",
+            "id": 958420020,
+            "lat": 32.4612537,
+            "lon": -84.9865846,
+            "tags": {
+                "addr:city": "Columbus",
+                "addr:housenumber": "805",
+                "addr:postcode": "31901",
+                "addr:state": "GA",
+                "addr:street": "5th Avenue",
+                "building": "yes",
+                "name": "Ma Rainey House",
+                "source": "microsoft/BuildingFootprints",
+                "tourism": "museum"
+            }
+        },
+        {
+            "type": "way",
+            "id": 1085684437,
+            "lat": 32.3835724,
+            "lon": -84.9584145,
+            "tags": {
+                "addr:city": "Columbus",
+                "addr:housenumber": "3557",
+                "addr:postcode": "31903",
+                "addr:state": "GA",
+                "addr:street": "South Lumpkin Road",
+                "historic": "town",
+                "landuse": "commercial",
+                "museum": "history",
+                "name": "Westville",
+                "opening_hours": "We-Sa 09:00-16:00",
+                "tourism": "museum",
+                "website": "https://westville.org/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/County_Courthouse_Historic_Westville.jpg/1280px-County_Courthouse_Historic_Westville.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 1291103037,
+            "lat": 39.2547788,
+            "lon": -85.8980222,
+            "tags": {
+                "addr:city": "Columbus",
+                "addr:housenumber": "4742",
+                "addr:postcode": "47203",
+                "addr:state": "IN",
+                "addr:street": "Ray Boll Boulevard",
+                "name": "Atterbury-Bakalar Air Museum",
+                "tourism": "museum"
+            }
+        },
+        {
+            "type": "way",
+            "id": 1301795297,
+            "lat": 39.9662182,
+            "lon": -82.9530379,
+            "tags": {
+                "building:part": "conservatory",
+                "indoor": "room",
+                "level": "0",
+                "name": "Himalayan Mountains",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Franklin_Park_Conservatory%2C_Columbus%2C_OH.jpg/1280px-Franklin_Park_Conservatory%2C_Columbus%2C_OH.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 1301795298,
+            "lat": 39.9662242,
+            "lon": -82.9532276,
+            "tags": {
+                "building:part": "conservatory",
+                "indoor": "room",
+                "level": "0",
+                "name": "Tropical Rainforest",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Franklin_Park_Conservatory%2C_Columbus%2C_OH.jpg/1280px-Franklin_Park_Conservatory%2C_Columbus%2C_OH.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 1301795299,
+            "lat": 39.9662278,
+            "lon": -82.9534211,
+            "tags": {
+                "building:part": "conservatory",
+                "indoor": "room",
+                "level": "0",
+                "name": "Desert",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Franklin_Park_Conservatory%2C_Columbus%2C_OH.jpg/1280px-Franklin_Park_Conservatory%2C_Columbus%2C_OH.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 1301798352,
+            "lat": 39.9655244,
+            "lon": -82.9533431,
+            "tags": {
+                "building:part": "conservatory",
+                "indoor": "room",
+                "level": "0",
+                "name": "Pacific Island Water Garden",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Franklin_Park_Conservatory%2C_Columbus%2C_OH.jpg/1280px-Franklin_Park_Conservatory%2C_Columbus%2C_OH.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 1301798353,
+            "lat": 39.9658954,
+            "lon": -82.9534645,
+            "tags": {
+                "building:part": "conservatory",
+                "indoor": "room",
+                "level": "1",
+                "name": "Dorothy M. Davis Showhouse",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Franklin_Park_Conservatory%2C_Columbus%2C_OH.jpg/1280px-Franklin_Park_Conservatory%2C_Columbus%2C_OH.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 1301798354,
+            "lat": 39.9659212,
+            "lon": -82.9538702,
+            "tags": {
+                "alt_name": "John F. Wolfe Palm House",
+                "building:part": "yes",
+                "indoor": "room",
+                "level": "0",
+                "name": "Palm House",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Franklin_Park_Conservatory%2C_Columbus%2C_OH.jpg/1280px-Franklin_Park_Conservatory%2C_Columbus%2C_OH.jpg",
+            "image_source": "wikipedia_verified"
+        }
+    ]
+}

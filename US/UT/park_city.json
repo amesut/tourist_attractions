@@ -1,0 +1,367 @@
+{
+    "city_metadata": {
+        "city_name": "Park City",
+        "state_code": "UT",
+        "state_full": "Utah",
+        "city_summary": "Park City is a city in Utah, United States. Most of the city is within Summit County, with some portions extending into Wasatch County. It is considered to be part of the Wasatch Back.",
+        "city_image": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Park_City_overview.jpg",
+        "city_lat": 40.65027778,
+        "city_lon": -111.50138889,
+        "source": "wikipedia_verified_engine"
+    },
+    "attractions": [
+        {
+            "type": "node",
+            "id": 5376167821,
+            "lat": 40.6772809,
+            "lon": -111.527228,
+            "tags": {
+                "addr:postcode": "84060",
+                "addr:street": "Farm Trail",
+                "name": "McPolin Barn",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/McPolin_Farmstead_Park_City_Utah.jpeg/1280px-McPolin_Farmstead_Park_City_Utah.jpeg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 5897010186,
+            "lat": 40.6318028,
+            "lon": -111.510687,
+            "tags": {
+                "name": "Silver King Mine",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 7176541395,
+            "lat": 37.8201976,
+            "lon": -97.320499,
+            "tags": {
+                "description": "See https://en.wikipedia.org/wiki/Wild_West_World",
+                "disused": "yes",
+                "name": "Wild West World (Permanently Closed)",
+                "tourism": "theme_park"
+            }
+        },
+        {
+            "type": "way",
+            "id": 227960352,
+            "lat": 40.6446025,
+            "lon": -111.4960698,
+            "tags": {
+                "addr:city": "Park City",
+                "addr:housenumber": "523",
+                "addr:postcode": "84060",
+                "addr:state": "UT",
+                "addr:street": "Main Street",
+                "building": "yes",
+                "building:colour": "#85552e",
+                "building:material": "brick",
+                "fee": "yes",
+                "name": "Park City Museum",
+                "opening_hours": "Mo-Sa 10:00-19:00;Su 12:00-18:00",
+                "tourism": "museum",
+                "wheelchair": "yes"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Dr._William_Bardsley_House.jpg/1280px-Dr._William_Bardsley_House.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 151252,
+            "lat": 40.65027778,
+            "lon": -111.50138889,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Park_City_overview.jpg",
+            "description": "Park City is a city in Utah, United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Park City, Utah",
+                "wikipedia": "en:Park City, Utah",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 7907478,
+            "lat": 28.02083333,
+            "lon": -82.45138889,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Sulpher_Springs_Water_Tower_006.jpg",
+            "description": "Sulphur Springs is a neighborhood and district located within the city limits of Tampa, Florida.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Sulphur Springs (Tampa)",
+                "wikipedia": "en:Sulphur Springs (Tampa)",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 53837,
+            "lat": 40.76083333,
+            "lon": -111.89111111,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Salt_Lake_Union_Pacific_Railroad_Station%2C_South_Temple_at_400_West%2C_Central_City_West%2C_Salt_Lake_City%2C_UT%2C_USA.jpg/1280px-Salt_Lake_Union_Pacific_Railroad_Station%2C_South_Temple_at_400_West%2C_Central_City_West%2C_Salt_Lake_City%2C_UT%2C_USA.jpg",
+            "description": "Salt Lake City, often shortened to Salt Lake or SLC, is the capital and most populous city of the U.S. state of Utah.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Salt Lake City",
+                "wikipedia": "en:Salt Lake City",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 211915,
+            "lat": 30.75,
+            "lon": 76.78,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Open_Hand_monument%2C_Chandigarh.jpg/1280px-Open_Hand_monument%2C_Chandigarh.jpg",
+            "description": "Chandigarh is a city and union territory in northwestern India, serving as the shared capital of the states of Punjab and Haryana.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Chandigarh",
+                "wikipedia": "en:Chandigarh",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 2095974,
+            "lat": 47.50972222,
+            "lon": 19.07,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/af/Andr%C3%A1ssi%C3%BAtl%C3%A9gifot%C3%B3.jpg",
+            "description": "Andrássy Avenue (Hungarian: Andrássy út, pronounced [ˈɒndraːʃi ˈuːt]) is a boulevard in Budapest, Hungary, dating back to 1872.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Andrássy út",
+                "wikipedia": "en:Andrássy út",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 249774,
+            "lat": 35.805702,
+            "lon": -83.528838,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/66/Dollywoodsign1.jpg",
+            "description": "Dollywood is a theme park that is jointly owned by Herschend and country singer-songwriter Dolly Parton through her entertainment company, Dolly Parton Productions.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Dollywood",
+                "wikipedia": "en:Dollywood",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 5560038,
+            "lat": 47.46666667,
+            "lon": 19.05,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Kelenf%C3%B6ld.JPG/1280px-Kelenf%C3%B6ld.JPG",
+            "description": "Kelenföld (German: Krenfeld) is a neighborhood in Budapest, Hungary.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Kelenföld",
+                "wikipedia": "en:Kelenföld",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 79700925,
+            "lat": 26.5,
+            "lon": 88.5,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/03/Darjeeling_War_Memorial_at_Batasia.jpg",
+            "description": "North Bengal is a geographical region consisting of eight districts in the northern part of West Bengal.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "North Bengal division",
+                "wikipedia": "en:North Bengal division",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 607574,
+            "lat": 32.7557,
+            "lon": -97.07022222,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/SFOT_Main_Park_Entrance.JPG/1280px-SFOT_Main_Park_Entrance.JPG",
+            "description": "Six Flags Over Texas is a 212-acre (86 ha) amusement park, in Arlington, Texas, east of Fort Worth and west of Dallas.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Six Flags Over Texas",
+                "wikipedia": "en:Six Flags Over Texas",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 5680177,
+            "lat": 40.65083333,
+            "lon": -111.5075,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Eagle_Race_Arena_at_Park_City_Resort.jpg/1280px-Eagle_Race_Arena_at_Park_City_Resort.jpg",
+            "description": "Park City Mountain Resort (PCMR) is a ski resort in the western United States in Park City, Utah, located 32 miles (51 km) east of Salt Lake City.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Park City Mountain Resort",
+                "wikipedia": "en:Park City Mountain Resort",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 53838,
+            "lat": 32.77916667,
+            "lon": -96.80888889,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/View_of_Dallas_from_Reunion_Tower_August_2015_05.jpg/1280px-View_of_Dallas_from_Reunion_Tower_August_2015_05.jpg",
+            "description": "Dallas is a city in the U.S. state of Texas.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Dallas",
+                "wikipedia": "en:Dallas",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 23911325,
+            "lat": 30.752,
+            "lon": 76.807,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Chandigarh_Rock_Garden_4.jpg/1280px-Chandigarh_Rock_Garden_4.jpg",
+            "description": "The Rock Garden of Chandigarh is a sculpture garden in Chandigarh, India.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Rock Garden of Chandigarh",
+                "wikipedia": "en:Rock Garden of Chandigarh",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 2979837,
+            "lat": -7.7,
+            "lon": -79.43333333,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/59/PhotomontageHuanchaco.jpg",
+            "description": "Huanchaco is a popular seaside resort city in province of Trujillo, Peru.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Huanchaco",
+                "wikipedia": "en:Huanchaco",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 21689730,
+            "lat": 57.26333333,
+            "lon": 13.82722222,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/High_Chaparral_Theme_Park.JPG/1280px-High_Chaparral_Theme_Park.JPG",
+            "description": "High Chaparral is a Wild West theme park and post-industrial museum of cultural artifacts and collectibles, located close to Värnamo, Sweden.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "High Chaparral Theme Park",
+                "wikipedia": "en:High Chaparral Theme Park",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 36493968,
+            "lat": 36.75,
+            "lon": 73.5,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Broghil_Valley.jpg/1280px-Broghil_Valley.jpg",
+            "description": "Broghil Valley National Park (Urdu: بروغل) is located in the extreme northern reaches of the Upper Chitral District in Khyber Pakhtunkhwa, Pakistan, close to the Pak–Afghan border.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Broghil Valley National Park",
+                "wikipedia": "en:Broghil Valley National Park",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 4349459,
+            "lat": 10,
+            "lon": 76.3,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Boathouse_%287063399547%29.jpg/1280px-Boathouse_%287063399547%29.jpg",
+            "description": "Kerala is an Indian state on the Malabar Coast.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Kerala",
+                "wikipedia": "en:Kerala",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 20481412,
+            "lat": 58.37896389,
+            "lon": 26.72341667,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Album_von_Dorpat%2C_TKM_0031H_17%2C_crop.jpg/1280px-Album_von_Dorpat%2C_TKM_0031H_17%2C_crop.jpg",
+            "description": "Barclay Square (Estonian: Barclay plats) is a public square and park in the city of Tartu, Estonia, adjacent to the Ülikooli street.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Barclay Square",
+                "wikipedia": "en:Barclay Square",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 137026,
+            "lat": 37.03555556,
+            "lon": -112.53111111,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Kanab_UT_1.JPG/1280px-Kanab_UT_1.JPG",
+            "description": "Kanab ( kə-NAB) is a city in and the county seat of Kane County, Utah, United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Kanab, Utah",
+                "wikipedia": "en:Kanab, Utah",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 3776009,
+            "lat": 40.76888889,
+            "lon": -111.89527778,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Slc_abravanel_hall.jpg/1280px-Slc_abravanel_hall.jpg",
+            "description": "Abravanel Hall is a concert hall in Salt Lake City, Utah that is home to the Utah Symphony, and is part of the Salt Lake County Arts and Culture.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Abravanel Hall",
+                "wikipedia": "en:Abravanel Hall",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 95815,
+            "lat": 32.705,
+            "lon": -97.12277778,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Arlington_June_2020_1_%28AT%26T_Stadium%29.jpg/1280px-Arlington_June_2020_1_%28AT%26T_Stadium%29.jpg",
+            "description": "Arlington is a city in Tarrant County, Texas, United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Arlington, Texas",
+                "wikipedia": "en:Arlington, Texas",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 53848,
+            "lat": 29.425,
+            "lon": -98.4939,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/San_Antonio_Botanical_Garden_Overlook_View.jpg/1280px-San_Antonio_Botanical_Garden_Overlook_View.jpg",
+            "description": "San Antonio ( SAN an-TOH-nee-oh; Spanish for \"Saint Anthony\") is a city in the U.S. state of Texas.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "San Antonio",
+                "wikipedia": "en:San Antonio",
+                "tourism": "attraction"
+            }
+        }
+    ]
+}

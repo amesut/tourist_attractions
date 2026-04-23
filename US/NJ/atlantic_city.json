@@ -1,0 +1,346 @@
+{
+    "city_metadata": {
+        "city_name": "Atlantic City",
+        "state_code": "NJ",
+        "state_full": "New Jersey",
+        "city_summary": "Atlantic City, sometimes referred to by its initials A.C., is a seaside resort city in Atlantic County, in the U.S. state of New Jersey.\nAtlantic City comprises the second half of the Atlantic City-Hammonton metropolitan statistical area, which encompasses those cities and all of Atlantic County for statistical purposes. Both Atlantic City and Hammonton, as well as the surrounding Atlantic County, are culturally tied to Philadelphia and constitute part of the larger Philadelphia metropolitan area or Delaware Valley, the nation's seventh-largest metropolitan area as of 2020.",
+        "city_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/A_sunset_view_of_the_beach_in_Atlantic_City%2C_NJ.jpg/1280px-A_sunset_view_of_the_beach_in_Atlantic_City%2C_NJ.jpg",
+        "city_lat": 39.3625,
+        "city_lon": -74.425,
+        "source": "wikipedia_verified_engine"
+    },
+    "attractions": [
+        {
+            "type": "node",
+            "id": 2579674235,
+            "lat": 39.3763351,
+            "lon": -74.4196046,
+            "tags": {
+                "name": "Gardners Point",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "way",
+            "id": 229939911,
+            "lat": 39.3573744,
+            "lon": -74.4189597,
+            "tags": {
+                "foot": "yes",
+                "man_made": "pier",
+                "name": "Steel Pier",
+                "tourism": "theme_park",
+                "wikidata": "Q1455092"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Steel_Pier_1910s_edit.jpg/1280px-Steel_Pier_1910s_edit.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 539916275,
+            "lat": 39.3567555,
+            "lon": -74.4271958,
+            "tags": {
+                "building": "yes",
+                "name": "Haunted Tales",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Atlantic_Palace.jpg/1280px-Atlantic_Palace.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 58123082,
+            "lat": 39.34972222,
+            "lon": -74.45083333,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Atlantic_City_Boardwalk_view_south_from_Caesars_Atlantic_City_by_Silveira_Neto_June_24_2012.jpg/1280px-Atlantic_City_Boardwalk_view_south_from_Caesars_Atlantic_City_by_Silveira_Neto_June_24_2012.jpg",
+            "description": "The Atlantic City Boardwalk is an oceanfront boardwalk in Atlantic City, New Jersey.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Atlantic City Boardwalk",
+                "wikipedia": "en:Atlantic City Boardwalk",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 442163,
+            "lat": 40.048,
+            "lon": -74.052,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f5/NJ_LBI_Lighthouse_04.JPG",
+            "description": "The Jersey Shore, commonly called the Shore by locals, is the coastal region of the U.S. state of New Jersey.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Jersey Shore",
+                "wikipedia": "en:Jersey Shore",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 106211,
+            "lat": 39.3625,
+            "lon": -74.425,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/A_sunset_view_of_the_beach_in_Atlantic_City%2C_NJ.jpg/1280px-A_sunset_view_of_the_beach_in_Atlantic_City%2C_NJ.jpg",
+            "description": "Atlantic City, sometimes referred to by its initials A.C., is a seaside resort city in Atlantic County, in the U.S. state of New Jersey.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Atlantic City, New Jersey",
+                "wikipedia": "en:Atlantic City, New Jersey",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 211302,
+            "lat": 39.32064722,
+            "lon": -74.51190278,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/2025-04-28_12_38_15_Right_and_front_side_of_Lucy_the_Elephant_in_Margate_City%2C_Atlantic_County%2C_New_Jersey.jpg/1280px-2025-04-28_12_38_15_Right_and_front_side_of_Lucy_the_Elephant_in_Margate_City%2C_Atlantic_County%2C_New_Jersey.jpg",
+            "description": "Lucy the Elephant is a six-story elephant-shaped wood frame and tin clad building, constructed in 1882 by James V. Lafferty in Margate City, New Jersey.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Lucy the Elephant",
+                "wikipedia": "en:Lucy the Elephant",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 124966,
+            "lat": 39.330913,
+            "lon": -74.506849,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d3/USACE_Margate_City%2C_New_Jersey_Shore.jpg",
+            "description": "Margate City is a city situated on the Jersey Shore on Absecon Island, within Atlantic County, in the U.S. state of New Jersey, on the Atlantic Ocean shoreline.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Margate City, New Jersey",
+                "wikipedia": "en:Margate City, New Jersey",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 4052417,
+            "lat": 39.494939,
+            "lon": -74.478633,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Smithvillegristmill2011.jpg/1280px-Smithvillegristmill2011.jpg",
+            "description": "Smithville is an unincorporated community and census-designated place (CDP) located within Galloway Township, in Atlantic County, in the U.S. state of New Jersey, that was established as part of the 2010 United States census.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Smithville, Atlantic County, New Jersey",
+                "wikipedia": "en:Smithville, Atlantic County, New Jersey",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 125108,
+            "lat": 38.93333333,
+            "lon": -74.92138889,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Cape_May_Beach_Ave_from_the_sea_3.JPG/1280px-Cape_May_Beach_Ave_from_the_sea_3.JPG",
+            "description": "Cape May (sometimes Cape May City) is a  city and seaside resort located at the southern tip of Cape May Peninsula in Cape May County in the U.S. state of New Jersey.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Cape May, New Jersey",
+                "wikipedia": "en:Cape May, New Jersey",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 125118,
+            "lat": 39.269523,
+            "lon": -74.599797,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Ocean_City_NJ_beach_looking_south_from_Music_Pier.jpeg/1280px-Ocean_City_NJ_beach_looking_south_from_Music_Pier.jpeg",
+            "description": "Ocean City is a city in Cape May County, in the U.S. state of New Jersey.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Ocean City, New Jersey",
+                "wikipedia": "en:Ocean City, New Jersey",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 21648,
+            "lat": 40,
+            "lon": -74.5,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Flag_of_New_Jersey.svg/1280px-Flag_of_New_Jersey.svg.png",
+            "description": "New Jersey is a state located in both the Mid-Atlantic and Northeastern regions of the United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "New Jersey",
+                "wikipedia": "en:New Jersey",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 125237,
+            "lat": 40.71,
+            "lon": -74.06,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Journal_Square_Jersey_City_November_2021_003.jpg/1280px-Journal_Square_Jersey_City_November_2021_003.jpg",
+            "description": "Jersey City is the second-most populous city in the U.S. state of New Jersey, after Newark.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Jersey City, New Jersey",
+                "wikipedia": "en:Jersey City, New Jersey",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 7855962,
+            "lat": 39.361,
+            "lon": -74.437,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tanger_Outlets_The_Walk.jpg/1280px-Tanger_Outlets_The_Walk.jpg",
+            "description": "Tanger Outlets Atlantic City, formerly known as The Walk, is a 109-store open-air outlet mall in Atlantic City, New Jersey.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Tanger Outlets Atlantic City",
+                "wikipedia": "en:Tanger Outlets Atlantic City",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 1645972,
+            "lat": 39.355,
+            "lon": -74.43861111,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/2014_Boardwalk_Hall_01_%28cropped%29.JPG/1280px-2014_Boardwalk_Hall_01_%28cropped%29.JPG",
+            "description": "Jim Whelan Boardwalk Hall, formerly known as the Historic Atlantic City Convention Hall, is a multi-purpose indoor arena in Atlantic City, New Jersey.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Boardwalk Hall",
+                "wikipedia": "en:Boardwalk Hall",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 685462,
+            "lat": 38.9444,
+            "lon": -74.9705,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Cape_may.jpg",
+            "description": "Sunset Beach is a beach located on the Cape May Peninsula, in Lower Township, New Jersey, near Cape May Point,  along the Delaware Bay, in the U.S. state of New Jersey.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Sunset Beach (New Jersey)",
+                "wikipedia": "en:Sunset Beach (New Jersey)",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 16894494,
+            "lat": 39.36175,
+            "lon": -74.41349722,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Ocean_Casino_Resort_2020.jpg/1280px-Ocean_Casino_Resort_2020.jpg",
+            "description": "Ocean Casino Resort  (formerly Revel Casino Hotel) is a resort, hotel and casino in Atlantic City, New Jersey, United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Ocean Casino Resort",
+                "wikipedia": "en:Ocean Casino Resort",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 30868329,
+            "lat": 39.277398,
+            "lon": -74.566757,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gillian%27s_Wonderland_%287498562368%29.jpg/1280px-Gillian%27s_Wonderland_%287498562368%29.jpg",
+            "description": "Gillian's Wonderland Pier is a closed historic amusement park in Ocean City, New Jersey.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Gillian's Wonderland Pier",
+                "wikipedia": "en:Gillian's Wonderland Pier",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 125129,
+            "lat": 38.988914,
+            "lon": -74.819824,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Sunrise_in_Wildwood_New_Jersey_with_Atlantic_Ocean_looking_northeast.jpg/1280px-Sunrise_in_Wildwood_New_Jersey_with_Atlantic_Ocean_looking_northeast.jpg",
+            "description": "Wildwood is a city in Cape May County in the U.S. state of New Jersey.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Wildwood, New Jersey",
+                "wikipedia": "en:Wildwood, New Jersey",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 4685519,
+            "lat": 39.45369,
+            "lon": -74.64352,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Hamiltonmall.jpg",
+            "description": "The Hamilton Mall is a major shopping destination in Mays Landing, in Hamilton Township, Atlantic County, New Jersey, United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Hamilton Mall",
+                "wikipedia": "en:Hamilton Mall",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 7657542,
+            "lat": 39.352601,
+            "lon": -74.441342,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Thunder_Over_the_Boardwalk_Air_Show_140813-F-RR679-140.jpg/1280px-Thunder_Over_the_Boardwalk_Air_Show_140813-F-RR679-140.jpg",
+            "description": "Thunder Over the Boardwalk (also known as the Atlantic City Airshow) is an annual airshow held over the Atlantic City boardwalk every summer.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Thunder over the Boardwalk",
+                "wikipedia": "en:Thunder over the Boardwalk",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 645042,
+            "lat": 40.7128,
+            "lon": -74.0061,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/View_of_Empire_State_Building_from_Rockefeller_Center_New_York_City_dllu_%28cropped%29.jpg/1280px-View_of_Empire_State_Building_from_Rockefeller_Center_New_York_City_dllu_%28cropped%29.jpg",
+            "description": "New York, often called New York City (NYC), is the most populous city in the United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "New York City",
+                "wikipedia": "en:New York City",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 125235,
+            "lat": 40.745,
+            "lon": -74.0325,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Hoboken_November_2021_010.jpg/1280px-Hoboken_November_2021_010.jpg",
+            "description": "Hoboken ( HOH-boh-kən; Unami: Hupokàn) is a city in Hudson County in the U.S. state of New Jersey.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Hoboken, New Jersey",
+                "wikipedia": "en:Hoboken, New Jersey",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 7547811,
+            "lat": 39.3538,
+            "lon": -74.4342,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/ACX1_Studios.jpg/1280px-ACX1_Studios.jpg",
+            "description": "ACX1 Studios is a four-story 550,000-square-foot multi-use facility on a beach pier on the boardwalk in Atlantic City, New Jersey.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "ACX1 Studios",
+                "wikipedia": "en:ACX1 Studios",
+                "tourism": "attraction"
+            }
+        }
+    ]
+}

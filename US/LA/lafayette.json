@@ -1,0 +1,437 @@
+{
+    "city_metadata": {
+        "city_name": "Lafayette",
+        "state_code": "LA",
+        "state_full": "Louisiana",
+        "city_summary": "Lafayette ( LA(H)-fee-YET, French: [lafajɛt]) is the most populous city in and the parish seat of Lafayette Parish in the U.S. state of Louisiana, located along the Vermilion River. It is Louisiana's fourth-most populous city with a 2020 census population of 121,374; the consolidated city-parish's population was 241,753 in 2020. The Lafayette metropolitan area was Louisiana's third largest metropolitan statistical area with a population of 478,384 at the 2020 census.",
+        "city_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Downtown_Lafayette_LA_2021.jpg/1280px-Downtown_Lafayette_LA_2021.jpg",
+        "city_lat": 30.20805556,
+        "city_lon": -92.0325,
+        "source": "wikipedia_verified_engine"
+    },
+    "attractions": [
+        {
+            "type": "node",
+            "id": 358392478,
+            "lat": 30.1771819,
+            "lon": -92.0942465,
+            "tags": {
+                "addr:city": "Lafayette",
+                "addr:housenumber": "200",
+                "addr:postcode": "70506",
+                "addr:state": "LA",
+                "addr:street": "Greenleaf Drive",
+                "ele": "8",
+                "gnis:feature_id": "557232",
+                "name": "Acadian Village",
+                "phone": "+1-337-981-2364",
+                "tourism": "attraction",
+                "website": "http://www.acadianvillage.org/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Blackpot_2011_At_the_Microphone.jpg/1280px-Blackpot_2011_At_the_Microphone.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 2104726331,
+            "lat": 40.4129532,
+            "lon": -86.8704933,
+            "tags": {
+                "name": "Columbian Park Zoo",
+                "tourism": "zoo",
+                "wikidata": "Q5149943"
+            }
+        },
+        {
+            "type": "node",
+            "id": 4248431236,
+            "lat": 30.2146212,
+            "lon": -91.9960453,
+            "tags": {
+                "addr:city": "Lafayette",
+                "addr:housenumber": "300",
+                "addr:postcode": "70508",
+                "addr:state": "LA",
+                "addr:street": "Fisher Road",
+                "name": "Vermilionville Historic Village",
+                "tourism": "attraction",
+                "website": "https://www.vermilionville.org/vermilionville/index.html"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Vermilionville_Maison_des_Cultures.jpg/1280px-Vermilionville_Maison_des_Cultures.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 4250062638,
+            "lat": 30.2208947,
+            "lon": -92.0209569,
+            "tags": {
+                "addr:city": "Lafayette",
+                "addr:housenumber": "1122",
+                "addr:state": "LA",
+                "addr:street": "Lafayette Street",
+                "name": "Alexandre Mouton House",
+                "phone": "+1 337-234-2208",
+                "tourism": "museum",
+                "website": "http://www.lafayettemuseum.com/",
+                "wikidata": "Q18123813"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Alexandre_Mouton_House_in_Lafayette.jpg/1280px-Alexandre_Mouton_House_in_Lafayette.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 5569224073,
+            "lat": 45.2459583,
+            "lon": -123.1125174,
+            "tags": {
+                "name": "Yamhill County Museum",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Evangelical_Church_of_Lafayette_front.JPG/1280px-Evangelical_Church_of_Lafayette_front.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 9580765817,
+            "lat": 40.3658524,
+            "lon": -86.8623411,
+            "tags": {
+                "addr:housenumber": "3573 #300",
+                "addr:postcode": "47909",
+                "name": "Monster Mini",
+                "name:en": "Monster Mini Golf",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 12438285009,
+            "lat": 30.2303938,
+            "lon": -92.0241696,
+            "tags": {
+                "name": "Evangeline Maid Bread Sign",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "way",
+            "id": 177615896,
+            "lat": 39.9989359,
+            "lon": -105.0890601,
+            "tags": {
+                "addr:city": "Lafayette",
+                "addr:housenumber": "110",
+                "addr:postcode": "80026",
+                "addr:state": "CO",
+                "addr:street": "North Harrison Avenue",
+                "building": "yes",
+                "check_date:opening_hours": "2025-02-28",
+                "fee": "yes",
+                "fee:conditional": "no @ age < 1",
+                "museum": "children",
+                "name": "WOW! Children's Museum",
+                "opening_hours": "Tu-Sa 09:00-17:00",
+                "source": "esri_USDOT_ColoradoOITGIS",
+                "tourism": "museum",
+                "website": "https://wowchildrensmuseum.org/",
+                "wikidata": "Q7954027"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/WOW_Childrens_Museum_%2844111932564%29.jpg/1280px-WOW_Childrens_Museum_%2844111932564%29.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 361344831,
+            "lat": 40.4171076,
+            "lon": -86.8902652,
+            "tags": {
+                "addr:city": "Lafayette",
+                "addr:housenumber": "605",
+                "addr:postcode": "47901",
+                "addr:state": "IN",
+                "addr:street": "South Street",
+                "building": "yes",
+                "description": "An old Standard Oil filling station, first constructed in 1927 and restored in 1991.",
+                "museum": "transport",
+                "name": "Red Crown Mini-Museum",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Mars_Theatre%2C_Lafayette.jpg/1280px-Mars_Theatre%2C_Lafayette.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 380263869,
+            "lat": 30.2255815,
+            "lon": -92.0178102,
+            "tags": {
+                "addr:city": "Lafayette",
+                "addr:housenumber": "433",
+                "addr:postcode": "70501",
+                "addr:state": "LA",
+                "addr:street": "Jefferson Street",
+                "building": "yes",
+                "building:levels": "3",
+                "name": "Lafayette Science Museum",
+                "name:fr": "Musée des sciences de Lafayette",
+                "name:frc": "Musée des sciences de Lafayette",
+                "opening_hours": "Tu-Fr 09:00-17:00; Sa 10:00-18:00; Su 13:00-18:00",
+                "phone": "+1-337-291-5544",
+                "tourism": "museum",
+                "website": "https://www.lafayettesciencemuseum.org/"
+            }
+        },
+        {
+            "type": "way",
+            "id": 382160263,
+            "lat": 30.225149,
+            "lon": -92.0173261,
+            "tags": {
+                "building": "yes",
+                "building:levels": "2",
+                "name": "Children's Museum of Acadiana",
+                "name:fr": "Musée des enfants d'Acadiana",
+                "name:frc": "Musée des enfants d'Acadiana",
+                "tourism": "museum"
+            }
+        },
+        {
+            "type": "way",
+            "id": 403345453,
+            "lat": 30.151534,
+            "lon": -91.9920171,
+            "tags": {
+                "name": "Kart Ranch",
+                "tourism": "theme_park"
+            }
+        },
+        {
+            "type": "way",
+            "id": 547099810,
+            "lat": 40.4128375,
+            "lon": -86.885274,
+            "tags": {
+                "building": "yes",
+                "layer": "1",
+                "name": "The Haan Museum of Indiana Art",
+                "tourism": "museum",
+                "website": "https://thehaan.org"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Hann_Museum_floor1.jpg/1280px-Hann_Museum_floor1.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 547374085,
+            "lat": 40.4162853,
+            "lon": -86.8863413,
+            "tags": {
+                "building": "yes",
+                "name": "Art Museum of Lafayette",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Moses_Fowler-6.jpg/1280px-Moses_Fowler-6.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 659804919,
+            "lat": 39.9980407,
+            "lon": -105.0895448,
+            "tags": {
+                "addr:city": "Lafayette",
+                "addr:housenumber": "108",
+                "addr:postcode": "80026",
+                "addr:state": "CO",
+                "addr:street": "East Simpson Street",
+                "building": "yes",
+                "building:levels": "1",
+                "ele": "1596",
+                "gnis:feature_id": "2036540",
+                "heritage": "yes",
+                "historic": "building",
+                "name": "Miners Museum/Lewis House;Miners Museum",
+                "note": "Plaques: Lafayette Register of Historic Places, DOI NRHP National Register 5/20/83, Local Register 9/21/99",
+                "source": "esri_USDOT_ColoradoOITGIS",
+                "tourism": "museum",
+                "website": "https://cityoflafayette.com/463/Miners-Museum;https://www.lafayettehistoricalsociety.org/",
+                "wikidata": "Q123446455"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Lafayette_History_Museum_Oct_8_2024.jpg/1280px-Lafayette_History_Museum_Oct_8_2024.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 671035841,
+            "lat": 30.2092478,
+            "lon": -92.0157792,
+            "tags": {
+                "addr:city": "Lafayette",
+                "addr:housenumber": "710",
+                "addr:postcode": "70503",
+                "addr:state": "LA",
+                "addr:street": "East Saint Mary Boulevard",
+                "building": "yes",
+                "museum": "art",
+                "name": "Hilliard Art Museum",
+                "opening_hours": "Tu-Fr 09:00-17:00, Sa 10:00-17:00",
+                "tourism": "museum",
+                "website": "https://hilliardmuseum.org"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/38/Ul_art_museum.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 703782669,
+            "lat": 40.7591246,
+            "lon": -83.948266,
+            "tags": {
+                "addr:city": "Lafayette",
+                "addr:housenumber": "103",
+                "addr:postcode": "45854",
+                "addr:state": "OH",
+                "addr:street": "South High Street",
+                "building": "yes",
+                "email": "nbhaunts@hotmail.com",
+                "name": "Haunted Town Hall",
+                "source": "OSIP 6in",
+                "tourism": "attraction",
+                "website": "http://hauntedtownhall.com/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/High_below_Sugar%2C_Lafayette.jpg/1280px-High_below_Sugar%2C_Lafayette.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 703782672,
+            "lat": 40.7600683,
+            "lon": -83.9487913,
+            "tags": {
+                "addr:city": "Lafayette",
+                "addr:housenumber": "101",
+                "addr:postcode": "45854",
+                "addr:state": "OH",
+                "addr:street": "West Main Street",
+                "building": "yes",
+                "museum": "local",
+                "museum_type": "municipal",
+                "name": "Lafayette-Jackson Historical Society",
+                "source": "Allen County Orthoimagery (2021)",
+                "tourism": "museum",
+                "website": "https://www.facebook.com/LaFayetteJacksonHistoricalSociety/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/High_below_Sugar%2C_Lafayette.jpg/1280px-High_below_Sugar%2C_Lafayette.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 720078763,
+            "lat": 40.4175687,
+            "lon": -86.8791313,
+            "tags": {
+                "addr:city": "Lafayette",
+                "addr:country": "US",
+                "addr:housenumber": "15511",
+                "addr:postcode": "47901",
+                "addr:state": "IN",
+                "addr:street": "Main Street",
+                "amenity": "fire_station",
+                "building": "yes",
+                "name": "Five Points Fire Station Museum",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Saint_Mary_Cathedral_-_Lafayette%2C_Indiana_01_%28cropped%29.jpg/1280px-Saint_Mary_Cathedral_-_Lafayette%2C_Indiana_01_%28cropped%29.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 733416858,
+            "lat": 40.4170362,
+            "lon": -86.8854562,
+            "tags": {
+                "addr:city": "Lafayette",
+                "addr:housenumber": "1001",
+                "addr:postcode": "47901",
+                "addr:state": "IN",
+                "addr:street": "South Street",
+                "building": "yes",
+                "name": "Tippecanoe County Historical Association",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Moses_Fowler-6.jpg/1280px-Moses_Fowler-6.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 108404,
+            "lat": 40.00333333,
+            "lon": -105.10694444,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Waneka_Lake_east_shore_with_Front_Range%2C_Lafayette%2C_Colorado%2C_USA_-_2025.jpg/1280px-Waneka_Lake_east_shore_with_Front_Range%2C_Lafayette%2C_Colorado%2C_USA_-_2025.jpg",
+            "description": "The City of Lafayette ( LA(H)F-ee-ET) is a home rule municipality located in southeastern Boulder County, Colorado, United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Lafayette, Colorado",
+                "wikipedia": "en:Lafayette, Colorado",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 1693716,
+            "lat": 48.844,
+            "lon": 2.4001,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Notre-Dame-de-la-Paix%2C_Paris.JPG/1280px-Notre-Dame-de-la-Paix%2C_Paris.JPG",
+            "description": "Picpus Cemetery (French: Cimetière de Picpus, [pik.pys]) is the largest private cemetery in Paris, France, and is located in the 12th arrondissement.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Picpus Cemetery",
+                "wikipedia": "en:Picpus Cemetery",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 42568222,
+            "lat": 29.942,
+            "lon": -90.078,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Dryades_Public_Market%2C_New_Orleans%2C_May_2016_-_16.jpg/1280px-Dryades_Public_Market%2C_New_Orleans%2C_May_2016_-_16.jpg",
+            "description": "The neighborhood of the Faubourg Lafayette is a division in the city of New Orleans, Louisiana.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Faubourg Lafayette",
+                "wikipedia": "en:Faubourg Lafayette",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 3476354,
+            "lat": 34.0636,
+            "lon": -118.3568,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/LACMA_02.jpg/1280px-LACMA_02.jpg",
+            "description": "Hancock Park is a city park in the Miracle Mile section of the Mid-Wilshire neighborhood in Los Angeles, California.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Hancock Park",
+                "wikipedia": "en:Hancock Park",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 452823,
+            "lat": 38.9972,
+            "lon": -105.5478,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Flag_of_the_United_States_%281861%E2%80%931863%29.svg/1280px-Flag_of_the_United_States_%281861%E2%80%931863%29.svg.png",
+            "description": "The Territory of Colorado was an organized incorporated territory of the United States that existed from February 28, 1861, until August 1, 1876, when it was admitted to the Union as the 38th State of Colorado.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Colorado Territory",
+                "wikipedia": "en:Colorado Territory",
+                "tourism": "attraction"
+            }
+        }
+    ]
+}

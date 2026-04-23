@@ -1,0 +1,1368 @@
+{
+    "city_metadata": {
+        "city_name": "Newport",
+        "state_code": "RI",
+        "state_full": "Rhode Island",
+        "city_summary": "Newport is a seaside city on Aquidneck Island in Rhode Island, United States. It is located in Narragansett Bay, approximately 33 miles (53 km) southeast of Providence, 20 miles (32 km) south of Fall River, Massachusetts, 74 miles (119 km) south of Boston, and 180 miles (290 km) northeast of New York City. It is known as a New England summer resort and is famous for its historic mansions and its rich sailing history.",
+        "city_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Newport_Rhode_Island_Aerial_View.jpg/1280px-Newport_Rhode_Island_Aerial_View.jpg",
+        "city_lat": 41.49,
+        "city_lon": -71.31,
+        "source": "wikipedia_verified_engine"
+    },
+    "attractions": [
+        {
+            "type": "node",
+            "id": 2427547,
+            "lat": 50.6858785,
+            "lon": -1.3076974,
+            "tags": {
+                "name": "Carisbrooke Priory",
+                "tourism": "attraction",
+                "wikidata": "Q5039683",
+                "wikimedia_commons": "Category:Carisbrooke Priory",
+                "wikipedia": "en:Carisbrooke Priory"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/CarisbrookePriory_New.JPG/1280px-CarisbrookePriory_New.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 357260131,
+            "lat": 41.4861939,
+            "lon": -71.3149795,
+            "tags": {
+                "ele": "3",
+                "gnis:feature_id": "1901924",
+                "name": "The Rhode Island Fisherman and Whale Museum",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Southern_Thames_Street_in_Newport_RI.jpg/1280px-Southern_Thames_Street_in_Newport_RI.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 366495289,
+            "lat": 43.3350502,
+            "lon": -72.167686,
+            "tags": {
+                "addr:state": "NH",
+                "ele": "282",
+                "gnis:feature_id": "868081",
+                "import_uuid": "gnis.57871b70-0100-4405-bb30-88b2e001a944",
+                "name": "Little Red Schoolhouse Museum",
+                "source": "USGS Geonames",
+                "tourism": "museum",
+                "wikidata": "Q18153710"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/8c/NewportNH_LittleRedSchoolhouse.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 366690832,
+            "lat": 41.4908859,
+            "lon": -71.3174619,
+            "tags": {
+                "attraction": "aquarium",
+                "name": "Save The Bay’s Hamilton Family Aquarium",
+                "tourism": "attraction",
+                "website": "https://savebay.org/family-fun/aquarium/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Cardinesfield.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 366690870,
+            "lat": 41.4827656,
+            "lon": -71.3083177,
+            "tags": {
+                "addr:city": "Newport",
+                "addr:housenumber": "194",
+                "addr:postcode": "02840",
+                "addr:state": "RI",
+                "addr:street": "Bellevue Avenue",
+                "ele": "21",
+                "gnis:feature_id": "1901687;1901688",
+                "name": "International Tennis Hall of Fame",
+                "source": "USGS Geonames",
+                "sport": "tennis",
+                "tourism": "attraction",
+                "wikidata": "Q52454"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/ITHF_V_Gray%2BYellow.jpg/1280px-ITHF_V_Gray%2BYellow.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 366691081,
+            "lat": 41.4787137,
+            "lon": -71.3142173,
+            "tags": {
+                "addr:state": "RI",
+                "ele": "2",
+                "gnis:feature_id": "1901920",
+                "name": "The Doll Museum",
+                "source": "USGS Geonames",
+                "tourism": "museum",
+                "website": "https://www.facebook.com/newportdollmuseum/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Emmanuel_Church_Newport_RI.jpg/1280px-Emmanuel_Church_Newport_RI.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 366691084,
+            "lat": 41.4892593,
+            "lon": -71.3118567,
+            "tags": {
+                "addr:state": "RI",
+                "ele": "0",
+                "gnis:feature_id": "1901779",
+                "name": "Newport Historical Society and Museum",
+                "source": "USGS Geonames",
+                "tourism": "museum",
+                "website": "https://newporthistory.org/"
+            }
+        },
+        {
+            "type": "node",
+            "id": 366691085,
+            "lat": 41.4878803,
+            "lon": -71.3131063,
+            "tags": {
+                "addr:state": "RI",
+                "ele": "12",
+                "gnis:feature_id": "1901784",
+                "name": "Newport Museum of Costume",
+                "source": "USGS Geonames",
+                "tourism": "museum"
+            }
+        },
+        {
+            "type": "node",
+            "id": 366691089,
+            "lat": 41.4855153,
+            "lon": -71.3081382,
+            "tags": {
+                "addr:city": "Newport",
+                "addr:housenumber": "76",
+                "addr:postcode": "02840",
+                "addr:state": "RI",
+                "addr:street": "Bellevue Avenue",
+                "ele": "14",
+                "gnis:feature_id": "1901766",
+                "name": "Newport Art Museum",
+                "phone": "+1-401-848-8200",
+                "source": "USGS Geonames",
+                "tourism": "museum",
+                "website": "https://newportartmuseum.org/",
+                "wikidata": "Q7018775",
+                "wikipedia": "en:Newport Art Museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Newport_Art_Museum_in_John_Griswold_House.jpg/1280px-Newport_Art_Museum_in_John_Griswold_House.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 470292585,
+            "lat": 51.6101311,
+            "lon": -2.9553711,
+            "tags": {
+                "addr:city": "Newport",
+                "addr:country": "GB",
+                "addr:postcode": "NP18 1AE",
+                "addr:street": "High Street",
+                "addr:suburb": "Caerleon",
+                "alt_name": "National Roman Legion Museum",
+                "email": "roman@museumwales.ac.uk",
+                "fee": "no",
+                "museum": "history",
+                "name": "National Roman Legion Museum",
+                "name:ar": "متحف الفيلق الروماني",
+                "name:cy": "Amgueddfa'r Lleng Rufeinig Caerlion",
+                "name:de": "Römisches Legionsmuseum Caerleon",
+                "name:en": "Roman Legionary Museum Caerleon",
+                "name:fr": "Musée légionnaire romain Caerleon",
+                "name:ru": "Музей римского легионера Карлеон",
+                "note": "alt_name is from the little plaque; main name (cy & en) from the larger sign.",
+                "opening_hours": "We-Sa 10:00-17:00",
+                "opening_hours:covid19": "Mo-Sa 10:00-17:00; Su 12:00-15:00",
+                "operator": "Cadw",
+                "operator:type": "government",
+                "phone": "+44 300 111 2 333",
+                "source": "photograph",
+                "tourism": "museum",
+                "website": "https://museum.wales/roman/",
+                "wikidata": "Q6978140",
+                "wikipedia": "en:National Roman Legion Museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Amgueddfa%27r_Lleng_Rhufeinig.JPG/1280px-Amgueddfa%27r_Lleng_Rhufeinig.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 492079649,
+            "lat": 51.5912658,
+            "lon": -2.9900286,
+            "tags": {
+                "historic": "memorial",
+                "memorial": "war_memorial",
+                "name": "Cenotaph",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/84/NEON%2C_Clarence_Place%2C_Newport%2C_Wales.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 528596258,
+            "lat": 51.5291892,
+            "lon": -3.0289229,
+            "tags": {
+                "name": "Walnut Tree Farm Park",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 582876016,
+            "lat": 51.5819387,
+            "lon": -2.9924674,
+            "tags": {
+                "artist_name": "Sebastien Boyesen",
+                "height": "7",
+                "historic": "memorial",
+                "material": "stone",
+                "memorial": "statue",
+                "name": "Merchant Navy Memorial",
+                "start_date": "1991-04-01",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/St_Paul_church_Newport_South_Wales.jpg/1280px-St_Paul_church_Newport_South_Wales.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 937201526,
+            "lat": 51.6101809,
+            "lon": -2.9540734,
+            "tags": {
+                "access": "yes",
+                "addr:city": "Newport",
+                "addr:postcode": "NP18 1AE",
+                "addr:street": "High Street",
+                "email": "CaerleonFortressBaths@gov.wales",
+                "fee": "yes",
+                "historic:civilization": "roman",
+                "museum": "archaeological",
+                "name": "Caerleon Roman Fortress Baths",
+                "name:cy": "Baddonau Caer Rufeinig Caerllion",
+                "name:en": "Caerleon Roman Fortress Baths",
+                "opening_hours": "Apr-Oct 10:30-17:00; Nov-Mar Mo-Sa 10:00-17:00; Nov-Mar Su 10:00-16:00; Dec 24-26 off; Jan 1 off",
+                "phone": "+44 1633 422 518",
+                "tourism": "museum",
+                "website": "https://cadw.gov.wales/visit/places-to-visit/caerleon-roman-fortress-and-baths#opening-times",
+                "wikidata": "Q16897072"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Caerleon_vue.jpg/1280px-Caerleon_vue.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 4384855950,
+            "lat": 41.4832179,
+            "lon": -71.3150655,
+            "tags": {
+                "addr:city": "Newport",
+                "addr:housenumber": "365",
+                "addr:postcode": "02840",
+                "addr:state": "RI",
+                "addr:street": "Thames Street",
+                "name": "The Sailing Museum",
+                "opening_hours": "Mo-Su 10:00-17:00",
+                "phone": "+1 401-324-5761",
+                "tourism": "museum",
+                "website": "https://thesailingmuseum.org/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Francis_Malbone_House%2C_Thames_Street%2C_Newport_Rhode_Island.jpg/1280px-Francis_Malbone_House%2C_Thames_Street%2C_Newport_Rhode_Island.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 4775145110,
+            "lat": 50.6944145,
+            "lon": -1.2918631,
+            "tags": {
+                "check_date": "2024-10-24",
+                "contact:tripadvisor": "https://www.tripadvisor.co.uk/Attraction_Review-g580403-d5001946-Reviews-Newport_Roman_Villa-Newport_Isle_of_Wight_England.html",
+                "fee": "yes",
+                "historic": "archaeological_site",
+                "name": "Newport Roman Villa",
+                "operator": "Isle of Wight Council",
+                "phone": "+44 1983 529720",
+                "survey:date": "2020-01-13",
+                "tourism": "museum",
+                "website": "https://www.iow.gov.uk/libraries-leisure-and-heritage/heritage-and-tourism/museums-exhibits-and-heritage-education-service/newport-roman-villa/",
+                "wikidata": "Q12064005",
+                "wikipedia": "en:Newport Roman Villa"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Newport_Roman_Villa.JPG/1280px-Newport_Roman_Villa.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 4899783317,
+            "lat": 50.7112618,
+            "lon": -1.2861877,
+            "tags": {
+                "name": "Isle of Wight Festival Site (June)",
+                "tourism": "attraction",
+                "website": "https://isleofwightfestival.com/"
+            }
+        },
+        {
+            "type": "node",
+            "id": 5044231722,
+            "lat": 41.4750699,
+            "lon": -71.3074944,
+            "tags": {
+                "addr:housenumber": "424",
+                "addr:postcode": "02840",
+                "addr:street": "Bellevue Avenue",
+                "name": "Newport Mansions Preservation Society",
+                "name:en": "Newport Mansions Preservation Society",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Bois_Dore%27.jpg/1280px-Bois_Dore%27.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 5065097307,
+            "lat": 44.6284235,
+            "lon": -124.0547631,
+            "tags": {
+                "man_made": "pier",
+                "name": "Abbey Street Pier",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 5117608371,
+            "lat": 50.7003694,
+            "lon": -1.2931962,
+            "tags": {
+                "addr:city": "Newport",
+                "addr:housename": "The Guildhall",
+                "addr:postcode": "PO30 1TY",
+                "addr:street": "High Street",
+                "alt_name": "The Guildhall",
+                "contact:tripadvisor": "https://www.tripadvisor.co.uk/Attraction_Review-g580403-d7745932-Reviews-Museum_of_Island_History-Newport_Isle_of_Wight_England.html",
+                "fee": "yes",
+                "heritage": "2",
+                "heritage:name": "The Guildhall",
+                "heritage:operator": "English Heritage",
+                "heritage:ref": "1278563",
+                "historic": "building",
+                "museum": "history",
+                "name": "Museum of Island History",
+                "opening_hours": "Tu,Th 10:00-13:00; We,Fr-Mo off",
+                "tourism": "museum",
+                "website": "https://www.iow.gov.uk/libraries-leisure-and-heritage/heritage-and-tourism/museums-exhibits-and-heritage-education-service/museum-of-island-history/",
+                "wikidata": "Q113370129"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e3/The_Guildhall_-_Newport_-_geograph.org.uk_-_856777.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 5152147007,
+            "lat": 50.7314268,
+            "lon": -1.3048089,
+            "tags": {
+                "addr:city": "Cowes",
+                "addr:housenumber": "490",
+                "addr:postcode": "PO31 8QU",
+                "addr:street": "Newport Road",
+                "alt_name": "Wight Military Museum",
+                "check_date:opening_hours": "2023-04-14",
+                "fee": "yes",
+                "loc_name": "Military Museum",
+                "museum": "military",
+                "name": "The Wight Military and Heritage Museum",
+                "opening_hours": "Mo-Sa 06:00-15:45",
+                "phone": "+44 198 363 2039",
+                "tourism": "museum",
+                "website": "https://www.wmahm.org.uk/",
+                "wikidata": "Q113280020"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/St_John_the_Baptist_Church%2C_Northwood.jpg/1280px-St_John_the_Baptist_Church%2C_Northwood.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 5238350622,
+            "lat": 50.6876645,
+            "lon": -1.3136548,
+            "tags": {
+                "addr:city": "Newport",
+                "addr:postcode": "PO30 1XY",
+                "addr:street": "Castle Hill",
+                "check_date:opening_hours": "2023-04-14",
+                "contact:facebook": "https://www.facebook.com/CarisbrookeCastleMuseum",
+                "contact:instagram": "https://www.instagram.com/carisbrooke_castle_museum/",
+                "contact:twitter": "https://twitter.com/CCastleMuseum",
+                "email": "info@carisbrookecastlemuseum.org.uk",
+                "fee": "yes",
+                "museum": "history",
+                "name": "Carisbrooke Castle Museum",
+                "opening_hours": "Mo-Su 10:00-17:00; Nov 01-Apr 30 Fr-Su 10:00-17:00; Dec 24-26 off; Dec 31 off; Jan 1 off",
+                "phone": "+44 1983 523112",
+                "tourism": "museum",
+                "website": "https://carisbrookecastlemuseum.org.uk/",
+                "wheelchair": "limited"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Carisbrooke_castle_buildings_2023.JPG/1280px-Carisbrooke_castle_buildings_2023.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 5831337697,
+            "lat": 44.6167192,
+            "lon": -124.0470562,
+            "tags": {
+                "attraction": "animal",
+                "entrance": "yes",
+                "name": "The Aviary",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Hatfield_Marine_Science_Center%2C_EPA_aerial.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 5939907585,
+            "lat": 41.4758492,
+            "lon": -71.2972941,
+            "tags": {
+                "addr:street": "Narragansett Avenue",
+                "name": "Newport Cliff Walk – Forty Steps",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Ochre_Point_Avenue.jpg/1280px-Ochre_Point_Avenue.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 6732171975,
+            "lat": 41.4899025,
+            "lon": -71.3154368,
+            "tags": {
+                "name": "Museum of Newport History",
+                "tourism": "museum",
+                "website": "https://newporthistory.org/museum-shop/",
+                "wikidata": "Q2383834"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Old_Brick_Market%2C_Newport.jpg/1280px-Old_Brick_Market%2C_Newport.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 7015812653,
+            "lat": 51.6107432,
+            "lon": -2.9591061,
+            "tags": {
+                "access": "yes",
+                "description": "Roman fortress and barracks, home to a Legion of the Roman Empire",
+                "historic": "archaeological_site",
+                "historic:civilization": "roman_fort",
+                "name": "Prysg Field Barracks",
+                "name:cy": "Barics Cae Prysg",
+                "note": "approximate NE boundary",
+                "source": "gps_survey",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Caerleon_Roman_Amphitheatre.jpg/1280px-Caerleon_Roman_Amphitheatre.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 7095686037,
+            "lat": 51.5738479,
+            "lon": -2.937176,
+            "tags": {
+                "name": "In the Nick of Time (Festival Clock)",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/65/Hayley_Stadium%2C_Newport_-_geograph.org.uk_-_1705340_%28cropped%29.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 7444794888,
+            "lat": 51.6095702,
+            "lon": -2.9539677,
+            "tags": {
+                "addr:city": "Newport",
+                "addr:housenumber": "33",
+                "addr:postcode": "NP18 1AE",
+                "addr:street": "High Street",
+                "description": "marked by a blue plaque and often open to visitors",
+                "fee": "no",
+                "museum": "person",
+                "name": "Arthur Machen's House",
+                "name:cy": "Tŷ Arthur Machen",
+                "subject:wikidata": "Q540166",
+                "subject:wikipedia": "en:Arthur Machen",
+                "tourism": "museum",
+                "website": "http://www.landoflegends.wales/location/33-high-street-caerleon"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/The_Mynde_Wall_in_Caerleon.jpg/1280px-The_Mynde_Wall_in_Caerleon.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 9750258651,
+            "lat": 41.4903321,
+            "lon": -71.3130574,
+            "tags": {
+                "addr:city": "Newport",
+                "addr:housenumber": "82",
+                "addr:postcode": "02840",
+                "addr:state": "RI",
+                "addr:street": "Touro Street",
+                "check_date": "2022-05-17",
+                "description": "Location of the Rhode Island State House, 1776-1900",
+                "museum": "history",
+                "name": "Old Colony House",
+                "operator": "Newport Historical Society",
+                "operator:type": "private_non_profit",
+                "tourism": "museum",
+                "website": "https://newporthistory.org/properties/the-colony-house/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Old_Colony_House_Newport_Rhode_Island.jpg/1280px-Old_Colony_House_Newport_Rhode_Island.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 10125946133,
+            "lat": 51.5917753,
+            "lon": -3.0419949,
+            "tags": {
+                "addr:city": "Newport",
+                "addr:postcode": "NP10 9GN",
+                "addr:street": "Cwm Lane",
+                "amenity": "cafe",
+                "name": "Fourteen Locks Canal Centre",
+                "name:cy": "Canolfan Camlas y Pedwar Loc ar Ddeg",
+                "opening_hours": "Mo-Su 10:00-16:00",
+                "outdoor_seating": "yes",
+                "phone": "+44 1633 894 802",
+                "tourism": "attraction",
+                "website": "https://mbact.org.uk/fourteen-locks-canal-centre/",
+                "wikidata": "Q85673730"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/24/Fourteen_Locks.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 11745023177,
+            "lat": 51.5856926,
+            "lon": -2.9937525,
+            "tags": {
+                "addr:city": "Newport",
+                "addr:postcode": "NP20 1PA",
+                "addr:street": "John Frost Square",
+                "email": "museum@newport.gov.uk",
+                "name": "Newport Museum and Art Gallery",
+                "opening_hours": "Mo off; Tu-Fr 09:30-17:30; Sa 09:00-16:00; Su off; PH off",
+                "operator": "Newport City Council",
+                "operator:type": "government",
+                "phone": "+44 1633 656 656",
+                "tourism": "museum",
+                "website": "https://www.newport.gov.uk/heritage/en/Museum-Art-Gallery/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a7/John_Frost_Square_2015.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 11747420746,
+            "lat": 51.5871897,
+            "lon": -2.9959043,
+            "tags": {
+                "addr:city": "Newport",
+                "addr:housenumber": "170",
+                "addr:postcode": "NP20 1JN",
+                "addr:street": "Commercial Street",
+                "fee": "no",
+                "name": "Our Chartist Heritage",
+                "tourism": "museum",
+                "website": "https://www.ourchartistheritage.co.uk"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/23/Newport%2C_Westgate_Hotel_%28geograph_5040411%29.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 11938390057,
+            "lat": 41.4693613,
+            "lon": -71.3097813,
+            "tags": {
+                "name": "Breakers Stable & Carriage House",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Osgood-Pell_House%2C_Newport_Rhode_Island.jpg/1280px-Osgood-Pell_House%2C_Newport_Rhode_Island.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 12554544859,
+            "lat": 51.5613372,
+            "lon": -3.0280302,
+            "tags": {
+                "fixme": "location within building?",
+                "name": "Tredegar House Museum",
+                "name:cy": "Amgueddfa Plas Tredegar",
+                "name:en": "Tredegar House Museum",
+                "tourism": "museum",
+                "website": "https://www.nationaltrust.org.uk/tredegar-house",
+                "wikidata": "Q85673842"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Tredegar_House%2C_Wales_%2848721554268%29.jpg/1280px-Tredegar_House%2C_Wales_%2848721554268%29.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 37621913,
+            "lat": 50.6875592,
+            "lon": -1.3125236,
+            "tags": {
+                "castle_type": "defensive",
+                "historic": "castle",
+                "name": "Carisbrooke Castle",
+                "name:en": "Carisbrooke Castle",
+                "name:es": "Castillo de Carisbrooke",
+                "name:fr": "Château de Carisbrooke",
+                "name:ga": "Caisleán Carisbrooke",
+                "name:it": "Castello di Carisbrooke",
+                "name:la": "Castellum Carisbrooke",
+                "name:ms": "Istana kota Carisbrooke",
+                "name:ru": "Замок Карисбрук",
+                "name:zh": "卡里斯布魯克城堡",
+                "opening_hours": "Apr-Sep: Mo-Su, PH 10:00 - 17:00",
+                "operator": "English Heritage",
+                "tourism": "attraction",
+                "website": "https://www.english-heritage.org.uk/visit/places/carisbrooke-castle/",
+                "wikidata": "Q328595",
+                "wikimedia_commons": "Category:Carisbrooke Castle",
+                "wikipedia": "en:Carisbrooke Castle"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Carisbrooke_castle_buildings_2023.JPG/1280px-Carisbrooke_castle_buildings_2023.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 42268834,
+            "lat": 39.0947683,
+            "lon": -84.4936163,
+            "tags": {
+                "addr:city": "Newport",
+                "addr:housenumber": "215",
+                "addr:postcode": "41071",
+                "addr:state": "KY",
+                "addr:street": "East Southgate Street",
+                "building": "yes",
+                "name": "Newport History Museum",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Old_Southgate_Street_School%2C_Taylors_Landing%2C_Newport%2C_KY_-_50365159297.jpg/1280px-Old_Southgate_Street_School%2C_Taylors_Landing%2C_Newport%2C_KY_-_50365159297.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 80302801,
+            "lat": 51.6102969,
+            "lon": -2.9548891,
+            "tags": {
+                "leisure": "garden",
+                "name": "Roman Garden",
+                "name:cy": "Gerdd Rufeinig",
+                "operator": "National Museums & Galleries of Wales",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Roman_wall_in_Caerleon_-_geograph.org.uk_-_1252561.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 121064759,
+            "lat": 39.0949383,
+            "lon": -84.4966123,
+            "tags": {
+                "landuse": "retail",
+                "name": "Newport on the Levee",
+                "tourism": "attraction",
+                "wikidata": "Q7019093"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/NewportLeveeLowerLevel.jpg/1280px-NewportLeveeLowerLevel.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 129746867,
+            "lat": 51.5913225,
+            "lon": -3.0368566,
+            "tags": {
+                "addr:city": "Newport",
+                "addr:postcode": "NP10 9GN",
+                "addr:street": "Cwm Lane",
+                "name": "Fourteen Locks",
+                "tourism": "attraction",
+                "wikidata": "Q5475907"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/24/Fourteen_Locks.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 220864074,
+            "lat": 50.705727,
+            "lon": -1.2634006,
+            "tags": {
+                "addr:city": "Newport",
+                "addr:country": "GB",
+                "addr:housename": "Acres Farm",
+                "addr:postcode": "PO30 2NB",
+                "addr:street": "Staplers Road",
+                "alt_name": "Owl and Monkey Haven",
+                "check_date": "2022-07-27",
+                "contact:email": "hello@monkeyhaven.org",
+                "contact:facebook": "https://www.facebook.com/monkeyhaven",
+                "contact:phone": "+44 1983 530 885",
+                "contact:twitter": "@MonkeyIOW",
+                "contact:website": "https://www.monkeyhaven.org/",
+                "fhrs:id": "541565",
+                "name": "Monkey Haven",
+                "operator": "The Leaf Foundation",
+                "tourism": "zoo",
+                "wheelchair": "yes",
+                "wikimedia_commons": "Category:Owl & Monkey Haven",
+                "zoo": "enclosure"
+            }
+        },
+        {
+            "type": "way",
+            "id": 227360878,
+            "lat": 41.4697443,
+            "lon": -71.2981973,
+            "tags": {
+                "addr:city": "Newport",
+                "addr:housenumber": "44",
+                "addr:postcode": "02840",
+                "addr:state": "RI",
+                "addr:street": "Ochre Point Avenue",
+                "building": "yes",
+                "fee": "yes",
+                "name": "The Breakers",
+                "start_date": "1895",
+                "tourism": "museum",
+                "website": "https://www.newportmansions.org/mansions-and-gardens/the-breakers/",
+                "wheelchair": "limited",
+                "wikidata": "Q16155017",
+                "wikipedia": "en:The Breakers"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Breakers_%281878%29_2_-_Newport%2C_RI.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 229922552,
+            "lat": 41.5074295,
+            "lon": -71.3282096,
+            "tags": {
+                "addr:state": "RI",
+                "alt_name": "Naval War College Museum",
+                "building": "yes",
+                "building:levels": "3",
+                "ele": "12",
+                "gnis:feature_id": "1901763",
+                "heritage": "2",
+                "heritage:operator": "nrhp",
+                "heritage:website": "https://www.nps.gov/subjects/nationalregister/index.htm",
+                "historic": "maritime",
+                "name": "Founders Hall",
+                "nrhp:criteria": "(A), (C)",
+                "nrhp:inscription_date": "1964-01-29",
+                "nrhp:nhl": "yes",
+                "old_name:1820-1884": "Newport Asylum for the Poor",
+                "old_name:1884-1892": "U.S. Naval War College",
+                "old_name:1892-1952": "Founders Hall",
+                "protection_title": "U.S. Navy",
+                "ref": "10",
+                "ref:nrhp": "66000876",
+                "source": "https://dnnlgwick.blob.core.windows.net/portals/0/PublicAffairsOffice/Tour-Booklet-Lettersize-v2.pdf?sv=2017-04-17&sr=b&si=DNNFileManagerPolicy&sig=9a%2FLmOPr15%2B624w%2FMhRc6G9y9eOYBl3xnSmwIbQ8quw%3D",
+                "source_ref": "https://catalog.archives.gov/id/41374751",
+                "start_date": "1820",
+                "tourism": "museum",
+                "website": "https://www.usnwc.edu/NWC-Museum",
+                "wikidata": "Q6981970"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/88/PresidentsHouseUSNWC.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 301573322,
+            "lat": 48.1777068,
+            "lon": -117.0445804,
+            "tags": {
+                "building": "yes",
+                "name": "Pend Oreille County Historical Museum",
+                "tourism": "museum",
+                "website": "https://www.pochsmuseum.org/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Phillips_House_2_-_Newport_Washington.jpg/1280px-Phillips_House_2_-_Newport_Washington.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 314193828,
+            "lat": -37.8557493,
+            "lon": 144.886144,
+            "tags": {
+                "addr:housenumber": "26",
+                "addr:postcode": "3015",
+                "addr:state": "VIC",
+                "addr:street": "Champion Road",
+                "addr:suburb": "Newport",
+                "area": "yes",
+                "fee": "yes",
+                "name": "Newport Railway Museum",
+                "opening_hours": "Sa 12:00-17:00; SH Su 12:00-17:00; Dec 25 off",
+                "operator": "Newport Railway Museum Inc.",
+                "railway": "museum",
+                "tourism": "museum",
+                "website": "https://www.railwaymuseum.org.au",
+                "wikidata": "Q16926902",
+                "wikipedia": "en:Newport Railway Museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/20230915-E236and8M.jpg/1280px-20230915-E236and8M.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 371945264,
+            "lat": 41.4712392,
+            "lon": -71.3053263,
+            "tags": {
+                "addr:city": "Newport",
+                "addr:housenumber": "474",
+                "addr:state": "RI",
+                "addr:street": "Bellevue Avenue",
+                "building": "yes",
+                "ele": "19",
+                "fee": "yes",
+                "gnis:feature_id": "1901601",
+                "name": "Chateau-sur-Mer Mansion",
+                "source": "USGS Geonames",
+                "tourism": "museum",
+                "wikidata": "Q5087517"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Chateau-sur-Mer.jpg/1280px-Chateau-sur-Mer.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 371945266,
+            "lat": 41.4794754,
+            "lon": -71.3091755,
+            "tags": {
+                "addr:housenumber": "70",
+                "addr:street": "Perry Street",
+                "building": "yes",
+                "name": "Isaac Bell House",
+                "tourism": "museum",
+                "wikidata": "Q6076045"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Isaac_Bell_House_2018-06-13.jpg/1280px-Isaac_Bell_House_2018-06-13.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 371945267,
+            "lat": 41.4815273,
+            "lon": -71.309044,
+            "tags": {
+                "addr:housenumber": "253",
+                "addr:state": "RI",
+                "addr:street": "Bellevue Avenue",
+                "building": "house",
+                "ele": "22",
+                "gnis:feature_id": "1901717",
+                "name": "Kingscote Mansion",
+                "source": "USGS Geonames",
+                "tourism": "museum",
+                "wikidata": "Q6413180"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Kingscote_2018-06-14.jpg/1280px-Kingscote_2018-06-14.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 371945268,
+            "lat": 41.4620869,
+            "lon": -71.3056055,
+            "tags": {
+                "addr:city": "Newport",
+                "addr:housenumber": "596",
+                "addr:postcode": "02840",
+                "addr:state": "RI",
+                "addr:street": "Bellevue Avenue",
+                "building": "house",
+                "ele": "12",
+                "fee": "yes",
+                "gnis:feature_id": "1901734",
+                "historic": "building",
+                "name": "Marble House",
+                "opening_hours": "Mo-Su 10:00-16:00",
+                "source": "USGS Geonames",
+                "tourism": "museum",
+                "website": "https://www.newportmansions.org/explore/marble-house",
+                "wikidata": "Q2650982",
+                "wikipedia": "en:Marble House"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Marble_House%2C_Newport_RI.jpg/1280px-Marble_House%2C_Newport_RI.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 371945269,
+            "lat": 41.464991,
+            "lon": -71.3045871,
+            "tags": {
+                "addr:city": "Newport",
+                "addr:housenumber": "548",
+                "addr:postcode": "02840",
+                "addr:state": "RI",
+                "addr:street": "Bellevue Avenue",
+                "building": "yes",
+                "ele": "17",
+                "fee": "yes",
+                "gnis:feature_id": "1901857",
+                "name": "Rosecliff Mansion",
+                "opening_hours": "Mo-Su 10:00-15:00",
+                "source": "USGS Geonames",
+                "tourism": "museum",
+                "wikidata": "Q2166814"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Rosecliff_%281308020662%29.jpg/1280px-Rosecliff_%281308020662%29.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 371945275,
+            "lat": 41.477807,
+            "lon": -71.3088743,
+            "tags": {
+                "addr:housenumber": "367",
+                "addr:state": "RI",
+                "addr:street": "Bellevue Avenue",
+                "building": "yes",
+                "ele": "18",
+                "fee": "yes",
+                "gnis:feature_id": "1901921",
+                "name": "The Elms Mansion",
+                "source": "USGS Geonames",
+                "tourism": "museum",
+                "wikidata": "Q7731834"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/The_Elms_-_Rhode_Island.jpg/1280px-The_Elms_-_Rhode_Island.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 449149437,
+            "lat": 41.4696923,
+            "lon": -71.3061165,
+            "tags": {
+                "addr:city": "Newport",
+                "addr:housenumber": "492",
+                "addr:postcode": "02840",
+                "addr:state": "RI",
+                "addr:street": "Bellevue Avenue",
+                "building": "yes",
+                "name": "National Museum of American Illustration",
+                "phone": "+1-401-851-8949",
+                "tourism": "museum",
+                "website": "https://americanillustration.org/",
+                "wikidata": "Q6974447",
+                "wikipedia": "en:National Museum of American Illustration"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Vernon_Court%2C_West_Facade%2C_Newport_RI.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 503708381,
+            "lat": 50.7206214,
+            "lon": -1.2703154,
+            "tags": {
+                "building": "yes",
+                "fee": "no",
+                "name": "Isle of Wight Postal Museum",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Old_railway_bridge%2C_Binfield%2C_Isle_of_Wight%2C_England.jpg/1280px-Old_railway_bridge%2C_Binfield%2C_Isle_of_Wight%2C_England.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 535502489,
+            "lat": 50.7120381,
+            "lon": -1.2555026,
+            "tags": {
+                "addr:city": "Newport",
+                "addr:country": "GB",
+                "addr:postcode": "PO33 4RW",
+                "addr:street": "Staplers Road",
+                "contact:phone": "+44 1983 883 430",
+                "contact:website": "https://butterflyworldiow.com/",
+                "name": "Butterfly World",
+                "tourism": "attraction",
+                "wikidata": "Q5002963",
+                "wikimedia_commons": "Category:Butterfly World, Isle of Wight"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Butterfly_World_Japanese_garden_2.jpg/1280px-Butterfly_World_Japanese_garden_2.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 560756423,
+            "lat": 41.4903458,
+            "lon": -71.3130642,
+            "tags": {
+                "addr:state": "RI",
+                "building": "yes",
+                "ele": "6",
+                "gnis:feature_id": "1901802",
+                "name": "Old Colony House",
+                "source": "USGS Geonames",
+                "tourism": "attraction",
+                "wikidata": "Q7083732"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Old_Colony_House_Newport_Rhode_Island.jpg/1280px-Old_Colony_House_Newport_Rhode_Island.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 564429989,
+            "lat": 50.6866672,
+            "lon": -1.2943736,
+            "tags": {
+                "name": "Frequent Flyers Falconry & Wildlife Centre",
+                "note": "site under construction 02/18",
+                "tourism": "zoo"
+            }
+        },
+        {
+            "type": "way",
+            "id": 617467963,
+            "lat": 41.4761819,
+            "lon": -71.3048615,
+            "tags": {
+                "addr:city": "Newport",
+                "addr:housenumber": "120",
+                "addr:state": "RI",
+                "addr:street": "Narragansett Avenue",
+                "building": "yes",
+                "name": "Chepstow",
+                "tourism": "museum",
+                "wikidata": "Q5091728"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Chepstow_mansion_in_Newport%2C_Rhode_Island.jpg/1280px-Chepstow_mansion_in_Newport%2C_Rhode_Island.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 630726387,
+            "lat": 44.6220576,
+            "lon": -124.045101,
+            "tags": {
+                "addr:city": "Newport",
+                "addr:housenumber": "2030",
+                "addr:state": "OR",
+                "addr:street": "Southeast Marine Science Drive",
+                "building": "yes",
+                "name": "Education Wing",
+                "operator": "Oregon State University",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Hatfield_Marine_Science_Center%2C_EPA_aerial.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 741350219,
+            "lat": 44.6264307,
+            "lon": -124.0561737,
+            "tags": {
+                "area": "yes",
+                "landuse": "retail",
+                "man_made": "pier",
+                "name": "Baystreet Pier",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "way",
+            "id": 882221285,
+            "lat": 41.4552964,
+            "lon": -71.3053571,
+            "tags": {
+                "addr:city": "Newport",
+                "addr:housenumber": "680",
+                "addr:postcode": "02840",
+                "addr:state": "RI",
+                "addr:street": "Bellevue Avenue",
+                "building": "house",
+                "name": "Rough Point Mansion",
+                "tourism": "attraction",
+                "website": "https://www.newportrestoration.org/roughpoint/",
+                "wikidata": "Q7370843"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Rough_Point%2C_Newport.jpg/1280px-Rough_Point%2C_Newport.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 902704898,
+            "lat": 41.486015,
+            "lon": -71.3092376,
+            "tags": {
+                "addr:city": "Newport",
+                "addr:housenumber": "152",
+                "addr:postcode": "02840",
+                "addr:street": "Mill Street",
+                "building": "house",
+                "email": "jimegan@newporttowermuseum.com",
+                "museum": "art,_history",
+                "name": "Newport Tower Museum",
+                "tourism": "museum",
+                "website": "http://newporttowermuseum.com/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Newport_Art_Museum_%28John_N._A._Griswold_House%29.jpg/1280px-Newport_Art_Museum_%28John_N._A._Griswold_House%29.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 947058844,
+            "lat": 41.489099,
+            "lon": -71.313798,
+            "tags": {
+                "addr:city": "Newport",
+                "addr:housenumber": "23",
+                "addr:postcode": "02840",
+                "addr:state": "RI",
+                "addr:street": "Clarke Street",
+                "building": "yes",
+                "ele": "0",
+                "email": "info@newportartillery.org",
+                "gnis:feature_id": "1901556",
+                "museum": "military",
+                "name": "Artillery Company of Newport Military Museum",
+                "operator": "Artillery Company of Newport",
+                "operator:type": "private",
+                "phone": "+1-401-846-8488",
+                "source": "USGS Geonames",
+                "start_date": "1836",
+                "tourism": "museum",
+                "website": "http://www.newportartillery.org/",
+                "wikidata": "Q4801135",
+                "wikipedia": "en:Artillery Company of Newport"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Artillery_Company_of_Newport_Rhode_Island.jpg/1280px-Artillery_Company_of_Newport_Rhode_Island.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 957378075,
+            "lat": 43.3644653,
+            "lon": -72.1716036,
+            "tags": {
+                "addr:city": "Newport",
+                "addr:housenumber": "20",
+                "addr:postcode": "03773",
+                "addr:state": "NH",
+                "addr:street": "Central Street",
+                "building": "yes",
+                "museum": "history",
+                "name": "Newport Historical Society Museum",
+                "phone": "+16038631294",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c2/NewportNH_NettletonHouse.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 959769876,
+            "lat": 39.093524,
+            "lon": -84.501898,
+            "tags": {
+                "area": "yes",
+                "floating": "yes",
+                "man_made": "pier",
+                "mooring": "private",
+                "name": "BB Riverboats",
+                "surface": "steel",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/General_James_Taylor_Park.jpg/1280px-General_James_Taylor_Park.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 967608430,
+            "lat": 51.5886068,
+            "lon": -3.0133083,
+            "tags": {
+                "addr:city": "Newport",
+                "addr:housenumber": "18",
+                "addr:postcode": "NP20 5BH",
+                "addr:street": "Fields Park Avenue",
+                "building": "yes",
+                "building:levels": "3",
+                "description": "6 bedroom Grade II listed Victorian 'gentleman's residence'",
+                "name": "Fields House",
+                "ref:GB:uprn": "100100664127",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Wales_Newport_Community_Allt-yr-Yn_map.svg/1280px-Wales_Newport_Community_Allt-yr-Yn_map.svg.png",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 998305912,
+            "lat": 35.6057164,
+            "lon": -91.2818062,
+            "tags": {
+                "addr:city": "Newport",
+                "addr:housenumber": "201",
+                "addr:postcode": "72112",
+                "addr:state": "AR",
+                "addr:street": "Hazel Street",
+                "building": "yes",
+                "name": "Rock and Roll Highway 67 Museum",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/JACKSON_COUNTY_JAIL.jpg/1280px-JACKSON_COUNTY_JAIL.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 1104195328,
+            "lat": 44.6310124,
+            "lon": -124.0518512,
+            "tags": {
+                "name": "Ripley's Believe It or Not!",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "way",
+            "id": 1170440781,
+            "lat": 41.4820011,
+            "lon": -71.3082275,
+            "tags": {
+                "addr:city": "Newport",
+                "addr:housenumber": "222",
+                "addr:postcode": "02840",
+                "addr:state": "RI",
+                "addr:street": "Bellevue Avenue",
+                "building": "museum",
+                "description": "Adults $18; Seniors (65+) $10; Military and Students (with ID) $10; Children (6-17) $8",
+                "fee": "yes",
+                "museum": "car",
+                "name": "Audrain Auto Museum",
+                "opening_hours": "10:00-16:00",
+                "phone": "+1 401-856-4420",
+                "tourism": "museum",
+                "website": "https://www.audrainautomuseum.org/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Audrain_Building_Newport.jpg/1280px-Audrain_Building_Newport.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 1198202553,
+            "lat": 44.6326429,
+            "lon": -124.0485493,
+            "tags": {
+                "addr:city": "Newport",
+                "addr:housenumber": "333",
+                "addr:postcode": "97365",
+                "addr:state": "OR",
+                "addr:street": "Southeast Bay Boulevard",
+                "building": "yes",
+                "name": "Pacific Maritime Heritage Center",
+                "tourism": "museum"
+            }
+        },
+        {
+            "type": "way",
+            "id": 1200831249,
+            "lat": 41.4571655,
+            "lon": -71.306877,
+            "tags": {
+                "building": "yes",
+                "name": "Belcourt of Newport",
+                "source": "microsoft/BuildingFootprints",
+                "tourism": "museum",
+                "website": "https://www.belcourt.com/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Belcourt_Castle%2C_Ledge_Road_side%2C_Newport%2C_Rhode_Island.jpg/1280px-Belcourt_Castle%2C_Ledge_Road_side%2C_Newport%2C_Rhode_Island.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 1225567916,
+            "lat": 41.4551232,
+            "lon": -71.3053733,
+            "tags": {
+                "landuse": "tourism",
+                "name": "Rough Point Museum",
+                "operator": "Newport Restoration Foundation",
+                "tourism": "museum",
+                "website": "https://www.newportrestoration.org/roughpoint"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Rough_Point%2C_Newport.jpg/1280px-Rough_Point%2C_Newport.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 1334903238,
+            "lat": 41.4925268,
+            "lon": -71.3210037,
+            "tags": {
+                "addr:city": "Newport",
+                "addr:housenumber": "54",
+                "addr:postcode": "02840",
+                "addr:state": "RI",
+                "addr:street": "Washington Street",
+                "building": "house",
+                "fee": "yes",
+                "name": "Hunter House",
+                "opening_hours": "Su,Mo 09:30-15:30",
+                "operator": "Preservation Society of Newport County",
+                "tourism": "museum",
+                "wikidata": "Q15226908"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Hunter_House%2C_Newport%2C_RI_edit1.jpg/1280px-Hunter_House%2C_Newport%2C_RI_edit1.jpg",
+            "image_source": "wikipedia_verified"
+        }
+    ]
+}

@@ -1,0 +1,470 @@
+{
+    "city_metadata": {
+        "city_name": "Fairbanks",
+        "state_code": "AK",
+        "state_full": "Alaska",
+        "city_summary": "Fairbanks is a home rule city and the borough seat of the Fairbanks North Star Borough, Alaska, United States. Fairbanks is the largest city in the interior region of Alaska and the second most populous in the state. The 2020 census put the population of the city proper at 32,515 and the population of the Fairbanks North Star Borough at 95,655, making it the second most populous metropolitan area in Alaska, after Anchorage.",
+        "city_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Main_School_NRHP_Fairbanks%2C_AK_%282%29.JPG/1280px-Main_School_NRHP_Fairbanks%2C_AK_%282%29.JPG",
+        "city_lat": 64.84361111,
+        "city_lon": -147.72305556,
+        "source": "wikipedia_verified_engine"
+    },
+    "attractions": [
+        {
+            "type": "node",
+            "id": 401410246,
+            "lat": 64.8436939,
+            "lon": -147.7177846,
+            "tags": {
+                "addr:city": "Fairbanks",
+                "addr:housenumber": "500",
+                "addr:postcode": "99701",
+                "addr:state": "AK",
+                "addr:street": "2nd Avenue",
+                "check_date:opening_hours": "2024-08-30",
+                "name": "Fairbanks Ice Museum",
+                "opening_hours": "Mo-Su 10:00-20:00",
+                "tourism": "museum",
+                "website": "https://icemuseum.com/",
+                "wikidata": "Q19864904"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Lacey_Street_Theater_NRHP_Fairbanks%2C_AK%282%29.JPG/1280px-Lacey_Street_Theater_NRHP_Fairbanks%2C_AK%282%29.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 655128315,
+            "lat": 64.8631414,
+            "lon": -147.7175611,
+            "tags": {
+                "name": "Alaska Bird Observatory",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 3721874128,
+            "lat": 64.8444592,
+            "lon": -147.7274092,
+            "tags": {
+                "addr:city": "Fairbanks",
+                "addr:housenumber": "825",
+                "addr:postcode": "99701",
+                "addr:state": "AK",
+                "addr:street": "1st Avenue",
+                "name": "Alaska Mining Hall of Fame",
+                "tourism": "museum",
+                "website": "http://www.alaskamininghalloffame.org/museum.php"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Oddfellows_House_NRHP_Fairbanks%2C_AK.JPG/1280px-Oddfellows_House_NRHP_Fairbanks%2C_AK.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 4176016215,
+            "lat": 64.8464393,
+            "lon": -147.7139885,
+            "tags": {
+                "name": "Moose Antler Arch",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/SOUTH_FRONT_-_Log_Building%2C_Cushman_Street%2C_Fairbanks%2C_Fairbanks_North_Star_Borough%2C_AK_HABS_AK%2C6-FAIBA%2C11-1.tif/lossy-page1-1280px-SOUTH_FRONT_-_Log_Building%2C_Cushman_Street%2C_Fairbanks%2C_Fairbanks_North_Star_Borough%2C_AK_HABS_AK%2C6-FAIBA%2C11-1.tif.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 4176039082,
+            "lat": 64.8437216,
+            "lon": -147.7186051,
+            "tags": {
+                "addr:city": "Fairbanks",
+                "addr:housenumber": "519",
+                "addr:state": "AK",
+                "addr:street": "1st Avenue",
+                "name": "Bouchard's International Dog Mushing and Sled Museum",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Lacey_Street_Theater_NRHP_Fairbanks%2C_AK%282%29.JPG/1280px-Lacey_Street_Theater_NRHP_Fairbanks%2C_AK%282%29.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 6244650112,
+            "lat": 64.8385799,
+            "lon": -147.7709171,
+            "tags": {
+                "name": "Gold Rush Town",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Wickersham_House_NRHP_Fairbanks%2C_AK.JPG/1280px-Wickersham_House_NRHP_Fairbanks%2C_AK.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 6244650113,
+            "lat": 64.8394854,
+            "lon": -147.7719873,
+            "tags": {
+                "name": "Gold Rush Town",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/SS_Nenana_sternwheeler_2011.jpg/1280px-SS_Nenana_sternwheeler_2011.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 6244650145,
+            "lat": 64.8385183,
+            "lon": -147.7759248,
+            "tags": {
+                "name": "Gold Rush Mining Valley",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/SS_Nenana_sternwheeler_2011.jpg/1280px-SS_Nenana_sternwheeler_2011.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 6244650146,
+            "lat": 64.8400122,
+            "lon": -147.7727813,
+            "tags": {
+                "name": "Steam Locomotive 1899 TVRR Engine No.1",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/SS_Nenana_sternwheeler_2011.jpg/1280px-SS_Nenana_sternwheeler_2011.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 6244650989,
+            "lat": 64.8381044,
+            "lon": -147.7722019,
+            "tags": {
+                "name": "Harding Railroad Car",
+                "start_date": "1905",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Harding_Railroad_Car_NRHP_Fairbanks%2C_AK.JPG/1280px-Harding_Railroad_Car_NRHP_Fairbanks%2C_AK.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 6244811638,
+            "lat": 64.8387458,
+            "lon": -147.7723186,
+            "tags": {
+                "name": "Nenana's Center Diorama",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/SS_Nenana_sternwheeler_2011.jpg/1280px-SS_Nenana_sternwheeler_2011.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 6244811639,
+            "lat": 64.8408082,
+            "lon": -147.7748197,
+            "tags": {
+                "name": "Alaska Rkaayeh Native Village",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Pioneer_Air_Museum%2C_Fairbanks.jpg/1280px-Pioneer_Air_Museum%2C_Fairbanks.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 6244829132,
+            "lat": 64.8386472,
+            "lon": -147.7735028,
+            "tags": {
+                "name": "Bear Gallery",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/SS_Nenana_sternwheeler_2011.jpg/1280px-SS_Nenana_sternwheeler_2011.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 6244829133,
+            "lat": 64.8386803,
+            "lon": -147.773838,
+            "tags": {
+                "name": "Art Gallery",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/SS_Nenana_sternwheeler_2011.jpg/1280px-SS_Nenana_sternwheeler_2011.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 6244900318,
+            "lat": 64.8406953,
+            "lon": -147.774636,
+            "tags": {
+                "name": "Native House",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Pioneer_Air_Museum%2C_Fairbanks.jpg/1280px-Pioneer_Air_Museum%2C_Fairbanks.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 6244900319,
+            "lat": 64.840986,
+            "lon": -147.7749673,
+            "tags": {
+                "name": "Native House",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Pioneer_Air_Museum%2C_Fairbanks.jpg/1280px-Pioneer_Air_Museum%2C_Fairbanks.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 6244900320,
+            "lat": 64.8403355,
+            "lon": -147.774168,
+            "tags": {
+                "name": "Totem Pole",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Pioneer_Air_Museum%2C_Fairbanks.jpg/1280px-Pioneer_Air_Museum%2C_Fairbanks.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 6244900321,
+            "lat": 64.8403486,
+            "lon": -147.774408,
+            "tags": {
+                "name": "Totem Pole",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Pioneer_Air_Museum%2C_Fairbanks.jpg/1280px-Pioneer_Air_Museum%2C_Fairbanks.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 13463572333,
+            "lat": 64.8497719,
+            "lon": -147.7231884,
+            "tags": {
+                "addr:city": "Fairbanks",
+                "addr:housenumber": "991",
+                "addr:postcode": "99701",
+                "addr:state": "AK",
+                "addr:street": "Charles Street",
+                "addr:unit": "Bay 1",
+                "name": "Denali Backroads",
+                "operator": "Denali Backroads Adventures, LLC",
+                "tourism": "attraction",
+                "website": "https://denalibackroads.com"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Illinois_Street_and_Slaterville_aerial_1953.jpg/1280px-Illinois_Street_and_Slaterville_aerial_1953.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 36827106,
+            "lat": 64.839398,
+            "lon": -147.7742705,
+            "tags": {
+                "addr:city": "Fairbanks",
+                "addr:housenumber": "2300",
+                "addr:postcode": "99701",
+                "addr:state": "AK",
+                "addr:street": "Airport Way",
+                "alt_name": "Alaska 67",
+                "date": "May 27, 1967",
+                "name": "Pioneer Park",
+                "operator": "Fairbanks North Star Borough",
+                "phone": "+1-907-459-1087",
+                "tourism": "theme_park",
+                "website": "https://www.pioneerpark.us/462/Pioneer-Park"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/SS_Nenana_sternwheeler_2011.jpg/1280px-SS_Nenana_sternwheeler_2011.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 60726077,
+            "lat": 64.8394838,
+            "lon": -147.7750985,
+            "tags": {
+                "addr:city": "Fairbanks",
+                "addr:housenumber": "2300",
+                "addr:postcode": "99707",
+                "addr:state": "AK",
+                "addr:street": "Airport Way",
+                "building": "yes",
+                "check_date:opening_hours": "2024-08-30",
+                "fee": "yes",
+                "fee:conditional": "no @ age < 11",
+                "name": "Pioneer Air Museum",
+                "opening_hours": "May 25-Sep 02 Tu,Su 16:00-20:00; May 25-Sep 02 We-Sa 12:00-20:00;",
+                "seasonal": "yes",
+                "tourism": "museum",
+                "website": "https://pioneerair.museum/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Pioneer_Air_Museum%2C_Fairbanks.jpg/1280px-Pioneer_Air_Museum%2C_Fairbanks.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 60726078,
+            "lat": 64.8392726,
+            "lon": -147.7708314,
+            "tags": {
+                "building": "yes",
+                "name": "Pioneer Hall",
+                "opening_hours": "Mo-Su 11:00-20:00",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Wickersham_House_NRHP_Fairbanks%2C_AK.JPG/1280px-Wickersham_House_NRHP_Fairbanks%2C_AK.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 60779996,
+            "lat": 64.8424577,
+            "lon": -147.7214267,
+            "tags": {
+                "building": "yes",
+                "name": "Fairbanks Children's Museum",
+                "tourism": "museum",
+                "website": "https://www.fairbankschildrensmuseum.com/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/93/AK-Fairbanks_1933_1_Ref.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 153506054,
+            "lat": 64.8725465,
+            "lon": -147.7404833,
+            "tags": {
+                "boundary": "protected_area",
+                "leisure": "nature_reserve",
+                "name": "Creamer's Field Migratory Waterfowl Refuge",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "way",
+            "id": 368354970,
+            "lat": 64.8387727,
+            "lon": -147.7636313,
+            "tags": {
+                "addr:city": "Fairbanks",
+                "addr:housenumber": "1150",
+                "addr:postcode": "99701",
+                "addr:state": "AK",
+                "addr:street": "Wilbur Street",
+                "building": "yes",
+                "man_made": "works",
+                "name": "Ruth Burnett Sport Fish Hatchery",
+                "phone": "+1-907-371-6215",
+                "tourism": "attraction",
+                "website": "https://www.adfg.alaska.gov/index.cfm?adfg=fishingSportStockingHatcheries.ruthburnett",
+                "works:type": "fish_hatchery"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Growden_Memorial_Park%2C_ballpark_in_Fairbanks%2C_Alaska.jpg/1280px-Growden_Memorial_Park%2C_ballpark_in_Fairbanks%2C_Alaska.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 550198313,
+            "lat": 64.86082,
+            "lon": -147.7137252,
+            "tags": {
+                "addr:city": "Fairbanks",
+                "addr:housenumber": "212",
+                "addr:postcode": "99701",
+                "addr:state": "AK",
+                "addr:street": "Wedgewood Drive",
+                "building": "yes",
+                "check_date:opening_hours": "2024-08-30",
+                "contact:facebook": "https://www.facebook.com/FountainheadMuseum",
+                "fee": "yes",
+                "fee:conditional": "no @ age < 6",
+                "name": "Fountainhead Antique Auto Museum",
+                "opening_hours": "May 05-Sep 18 Mo-Sa 11:00-17:00; Sep 22-May 15 Mo,Tu,Th-Sa off; Sep 22-May 15 We,Su 12:00-16:00; Jan 01, Dec 25 off",
+                "tourism": "museum",
+                "website": "https://www.fountainheadmuseum.com/"
+            }
+        },
+        {
+            "type": "way",
+            "id": 666940044,
+            "lat": 64.8393071,
+            "lon": -147.7726428,
+            "tags": {
+                "building": "yes",
+                "name": "Roella's Carousel",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/SS_Nenana_sternwheeler_2011.jpg/1280px-SS_Nenana_sternwheeler_2011.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 666940045,
+            "lat": 64.8387273,
+            "lon": -147.7719881,
+            "tags": {
+                "building": "yes",
+                "name": "N.C.Co Building",
+                "ref": "69",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/SS_Nenana_sternwheeler_2011.jpg/1280px-SS_Nenana_sternwheeler_2011.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 666940090,
+            "lat": 64.8383424,
+            "lon": -147.7711446,
+            "tags": {
+                "building": "yes",
+                "building:levels": "2",
+                "museum": "person",
+                "name": "Kitty Hensley House",
+                "ref": "11",
+                "tourism": "museum",
+                "website": "https://pioneerpark.us/673/Museums"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Wickersham_House_NRHP_Fairbanks%2C_AK.JPG/1280px-Wickersham_House_NRHP_Fairbanks%2C_AK.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 666940114,
+            "lat": 64.8386523,
+            "lon": -147.7723578,
+            "tags": {
+                "building": "yes",
+                "name": "SS Nenana",
+                "start_date": "1933",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/SS_Nenana_sternwheeler_2011.jpg/1280px-SS_Nenana_sternwheeler_2011.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 666959056,
+            "lat": 64.8404369,
+            "lon": -147.7742619,
+            "tags": {
+                "building": "yes",
+                "fee": "no",
+                "name": "Alaska Rkaayeh Village Museum",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Pioneer_Air_Museum%2C_Fairbanks.jpg/1280px-Pioneer_Air_Museum%2C_Fairbanks.jpg",
+            "image_source": "wikipedia_verified"
+        }
+    ]
+}

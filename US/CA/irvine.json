@@ -1,0 +1,375 @@
+{
+    "city_metadata": {
+        "city_name": "Irvine",
+        "state_code": "CA",
+        "state_full": "California",
+        "city_summary": "Irvine ( UR-vyne) is a planned city in central Orange County, California, United States, in the Los Angeles metropolitan area. It was named in 1888 for the landowner James Irvine. The Irvine Company started developing the area in the 1960s and the city was formally incorporated on December 28, 1971.",
+        "city_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Irvine_City_Hall.jpg/1280px-Irvine_City_Hall.jpg",
+        "city_lat": 33.66944444,
+        "city_lon": -117.82305556,
+        "source": "wikipedia_verified_engine"
+    },
+    "attractions": [
+        {
+            "type": "node",
+            "id": 1883298837,
+            "lat": 33.6719137,
+            "lon": -117.8347082,
+            "tags": {
+                "name": "Flame Thrower",
+                "source": "survey;bing_imagery",
+                "source_ref": "vvvexp97",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1883298838,
+            "lat": 33.6719269,
+            "lon": -117.8345933,
+            "tags": {
+                "name": "Sidewinder",
+                "source": "survey;bing_imagery",
+                "source_ref": "vvvexp97",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1883299570,
+            "lat": 33.6725632,
+            "lon": -117.8338471,
+            "tags": {
+                "name": "Bumper Boats",
+                "source": "survey;bing_imagery",
+                "source_ref": "vvvexp97",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1883304581,
+            "lat": 33.6722771,
+            "lon": -117.8352478,
+            "tags": {
+                "name": "Jumping Jester",
+                "source": "survey;bing_imagery",
+                "source_ref": "vvvexp97",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1883304582,
+            "lat": 33.6723308,
+            "lon": -117.8345633,
+            "tags": {
+                "name": "Lil' Thunder Road",
+                "source": "survey;bing_imagery",
+                "source_ref": "vvvexp97",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 7929313045,
+            "lat": 33.6494089,
+            "lon": -117.742558,
+            "tags": {
+                "addr:city": "Irvine",
+                "addr:housenumber": "805",
+                "addr:postcode": "92618",
+                "addr:state": "CA",
+                "addr:street": "Spectrum Center Drive",
+                "attraction": "big_wheel",
+                "height": "10.81",
+                "name": "Giant Wheel at Irvine Spectrum Center",
+                "opening_hours": "Mo-Su 10:00-23:00",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Irvine_Spectrum_Center_%282013%29_12.jpg/1280px-Irvine_Spectrum_Center_%282013%29_12.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 8004422631,
+            "lat": 33.6718598,
+            "lon": -117.8340641,
+            "tags": {
+                "comment": "Prior to the opening of Palace Park/Boomers in 1990's, this area was used as a child's play area (westmost) and video arcade (eastmost) for Irvine Lanes.",
+                "loc_name": "Laser Storm",
+                "name": "Laser Tag",
+                "old_name": "Laser Storm",
+                "source": "survey;bing_imagery",
+                "source_ref": "vvvexp97",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9874490247,
+            "lat": 33.6713162,
+            "lon": -117.8582164,
+            "tags": {
+                "museum": "art",
+                "name": "Jack and Shanaz Langson Institute and Museum of California Art",
+                "opening_hours": "Tu-Sa 10:00-16:00",
+                "phone": "+1 949-476-0003",
+                "tourism": "museum",
+                "website": "https://imca.uci.edu/"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9874502215,
+            "lat": 33.6419272,
+            "lon": -117.7396043,
+            "tags": {
+                "museum": "children",
+                "name": "Pretend City Children's Museum",
+                "opening_hours": "Tu-Su 10:00-12:30,13:30-16:00",
+                "phone": "+1-949-428-3900",
+                "tourism": "museum",
+                "website": "https://www.pretendcity.org/",
+                "wikidata": "Q20714948"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/60/Pretend-city-front.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 12350468663,
+            "lat": 33.6475151,
+            "lon": -117.8287055,
+            "tags": {
+                "name": "The Balls",
+                "name:fr": "Les boules",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Anteater_Recreation_Center_1.jpg/1280px-Anteater_Recreation_Center_1.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 99039054,
+            "lat": 33.6751356,
+            "lon": -117.758114,
+            "tags": {
+                "historic": "yes",
+                "name": "Old Towne Irvine",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/2014_12_07_D7000_029.JPG/1280px-2014_12_07_D7000_029.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 106818650,
+            "lat": 33.6725846,
+            "lon": -117.7430934,
+            "tags": {
+                "attraction": "air_baloon",
+                "barrier": "fence",
+                "name": "Great Park Balloon",
+                "tourism": "attraction",
+                "website": "https://www.cityofirvine.org/great-park/great-park-balloon-carousel"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Championship_Soccer_Stadium_NW_View_2024-08-03.jpg/1280px-Championship_Soccer_Stadium_NW_View_2024-08-03.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 177929805,
+            "lat": 33.6721039,
+            "lon": -117.8341958,
+            "tags": {
+                "fixme": "Where is the official property line between bowling alley/Boomers in the parking lot?",
+                "loc_name": "Palace Park",
+                "name": "Boomers! Irvine",
+                "old_name": "Palace Park",
+                "old_name_2": "Irvine Recreation Center",
+                "source": "survey;bing_imagery",
+                "source_ref": "vvvexp97",
+                "tourism": "theme_park"
+            }
+        },
+        {
+            "type": "way",
+            "id": 177929889,
+            "lat": 33.6719427,
+            "lon": -117.8337241,
+            "tags": {
+                "addr:city": "Irvine",
+                "addr:housenumber": "3409,3415",
+                "addr:postcode": "92612",
+                "addr:state": "CA",
+                "addr:street": "Michelson Drive",
+                "building": "yes",
+                "comment": "Prior to the opening of Palace Park/Boomers in 1990's, this area was used as a child's play area (westmost) and video arcade (eastmost) for Irvine Lanes.",
+                "height": "8.75",
+                "leisure": "sports_centre",
+                "loc_name": "Laser Storm",
+                "name": "Irvine Lanes",
+                "old_name": "Laser Storm",
+                "source": "bing_imagery",
+                "source_ref": "vvvexp97",
+                "sport": "10pin",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "way",
+            "id": 177930154,
+            "lat": 33.6721923,
+            "lon": -117.8342431,
+            "tags": {
+                "access": "permissive",
+                "barrier": "fence",
+                "leisure": "pitch",
+                "name": "Batting Cages",
+                "sport": "baseball",
+                "surface": "concrete",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "way",
+            "id": 177930445,
+            "lat": 33.6720958,
+            "lon": -117.8346886,
+            "tags": {
+                "name": "Rock Wall",
+                "source": "survey;bing_imagery",
+                "source_ref": "vvvexp97",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "way",
+            "id": 177930481,
+            "lat": 33.6721849,
+            "lon": -117.8350748,
+            "tags": {
+                "building": "yes",
+                "name": "King’s Carousel",
+                "source": "survey;bing_imagery",
+                "source_ref": "vvvexp97",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "way",
+            "id": 177930592,
+            "lat": 33.6722545,
+            "lon": -117.8347653,
+            "tags": {
+                "building": "yes",
+                "name": "Merlin’s Magic Teacups",
+                "source": "survey;bing_imagery",
+                "source_ref": "vvvexp97",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "way",
+            "id": 177930593,
+            "lat": 33.6722826,
+            "lon": -117.8349583,
+            "tags": {
+                "name": "Ye Rockin’ Tug",
+                "source": "survey;bing_imagery",
+                "source_ref": "vvvexp97",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "way",
+            "id": 177930822,
+            "lat": 33.6727198,
+            "lon": -117.8349485,
+            "tags": {
+                "name": "Go Karts",
+                "source": "survey;bing_imagery",
+                "source_ref": "vvvexp97",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "way",
+            "id": 529815877,
+            "lat": 33.6734486,
+            "lon": -117.7418113,
+            "tags": {
+                "attraction": "carousel",
+                "barrier": "fence",
+                "name": "Great Park Carousel",
+                "tourism": "attraction",
+                "website": "https://www.cityofirvine.org/great-park/great-park-balloon-carousel"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Championship_Soccer_Stadium_NW_View_2024-08-03.jpg/1280px-Championship_Soccer_Stadium_NW_View_2024-08-03.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 1211108937,
+            "lat": 33.6635917,
+            "lon": -117.8322212,
+            "tags": {
+                "addr:city": "Irvine",
+                "addr:housenumber": "5",
+                "addr:postcode": "92612",
+                "addr:state": "CA",
+                "addr:street": "San Joaquin",
+                "building": "yes",
+                "height": "11.93",
+                "museum": "local",
+                "name": "Irvine Historical Society",
+                "phone": "+1-949-786-4112",
+                "tourism": "museum",
+                "website": "http://irvinehistory.org/"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 108342,
+            "lat": 34.18944444,
+            "lon": -118.875,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Mount-Clef-Ridge-Wildwood-Thousand-Oaks-Mountclef.jpg/1280px-Mount-Clef-Ridge-Wildwood-Thousand-Oaks-Mountclef.jpg",
+            "description": "Thousand Oaks is the second-largest city in Ventura County, California, located in the northwestern part of Greater Los Angeles.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Thousand Oaks, California",
+                "wikipedia": "en:Thousand Oaks, California",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 45330,
+            "lat": 33.67,
+            "lon": -117.78,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/North_Laguna_Aerial_photo_by_D_Ramey_Logan_alt.jpg/1280px-North_Laguna_Aerial_photo_by_D_Ramey_Logan_alt.jpg",
+            "description": "Orange County, officially the County of Orange, often initialized: O.C., is located in the Greater Los Angeles area in Southern California, United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Orange County, California",
+                "wikipedia": "en:Orange County, California",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 7831437,
+            "lat": 33.6375,
+            "lon": -117.74972222,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Pennywise_on_stage_during_KROQ_Epicenter_2013_at_Verizon_Wireless_Amphitheater_%28formally_Irvine_Meadows%29_2013-09-22_18-26.jpg/1280px-Pennywise_on_stage_during_KROQ_Epicenter_2013_at_Verizon_Wireless_Amphitheater_%28formally_Irvine_Meadows%29_2013-09-22_18-26.jpg",
+            "description": "Irvine Meadows Amphitheatre (later known as Verizon Wireless Amphitheater) was an amphitheater operating from 1981 to 2016 in Irvine, California.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Irvine Meadows Amphitheatre",
+                "wikipedia": "en:Irvine Meadows Amphitheatre",
+                "tourism": "attraction"
+            }
+        }
+    ]
+}

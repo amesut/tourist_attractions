@@ -1,0 +1,786 @@
+{
+    "city_metadata": {
+        "city_name": "Tucson",
+        "state_code": "AZ",
+        "state_full": "Arizona",
+        "city_summary": "Tucson (; O'odham: Cuk Ṣon; Spanish: Tucsón) is the county seat of and the most populated city in Pima County, Arizona, United States. It is the second-most populous city in Arizona with a population of 542,630 at the 2020 census, behind the capital city, Phoenix, while the Tucson metropolitan statistical area has an estimated 1.08 million residents and is the 52nd-largest metropolitan area in the United States. Tucson and Phoenix anchor the Arizona Sun Corridor.",
+        "city_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/View_of_Tucson_from_Sentinel_Peak_2.jpg/1280px-View_of_Tucson_from_Sentinel_Peak_2.jpg",
+        "city_lat": 32.22166667,
+        "city_lon": -110.92638889,
+        "source": "wikipedia_verified_engine"
+    },
+    "attractions": [
+        {
+            "type": "node",
+            "id": 407919783,
+            "lat": 32.2355764,
+            "lon": -110.955811,
+            "tags": {
+                "addr:city": "Tucson",
+                "addr:housenumber": "1031",
+                "addr:postcode": "85721",
+                "addr:state": "AZ",
+                "addr:street": "Olive Road",
+                "name": "Museum of Art",
+                "tourism": "museum",
+                "website": "https://artmuseum.arizona.edu/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/University_of_Arizona_May_2019_58_%28University_of_Arizona_Museum_of_Art%29.jpg/1280px-University_of_Arizona_May_2019_58_%28University_of_Arizona_Museum_of_Art%29.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 4414001868,
+            "lat": 32.2237005,
+            "lon": -110.971271,
+            "tags": {
+                "name": "Arizona Historical Society Downtown Museum",
+                "tourism": "museum",
+                "website": "https://arizonahistoricalsociety.org/museum/arizona-history-museum/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Fox_Theatre_%28Tucson%2C_Arizona%29_from_SW_1.JPG/1280px-Fox_Theatre_%28Tucson%2C_Arizona%29_from_SW_1.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 4663097738,
+            "lat": 32.1868159,
+            "lon": -110.8745186,
+            "tags": {
+                "historic": "aircraft",
+                "name": "A10 Thunderbolt",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 4663097740,
+            "lat": 32.1863923,
+            "lon": -110.8744836,
+            "tags": {
+                "historic": "aircraft",
+                "name": "F4 Phantom",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 4663098124,
+            "lat": 32.1860274,
+            "lon": -110.8721207,
+            "tags": {
+                "historic": "aircraft",
+                "name": "C 130",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 4663098125,
+            "lat": 32.1853627,
+            "lon": -110.8747944,
+            "tags": {
+                "historic": "aircraft",
+                "name": "U2",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 4663098128,
+            "lat": 32.1863203,
+            "lon": -110.8718185,
+            "tags": {
+                "historic": "aircraft",
+                "name": "O1 Bird Dog",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 4663098129,
+            "lat": 32.1862292,
+            "lon": -110.8716416,
+            "tags": {
+                "historic": "aircraft",
+                "name": "OV 10 Bronco",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 8443948918,
+            "lat": 32.216114,
+            "lon": -110.9740562,
+            "tags": {
+                "name": "Community Mural",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/2012WikiProjectNRHP_Downtown_Tucson_AZ_Barrios_Chris_Gillmor_011.JPG/1280px-2012WikiProjectNRHP_Downtown_Tucson_AZ_Barrios_Chris_Gillmor_011.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 8443949023,
+            "lat": 32.2040575,
+            "lon": -110.9652203,
+            "tags": {
+                "name": "Selena Mural",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Santa_Cruz_Catholic_Church_%28Tucson%29_from_E_2.JPG/1280px-Santa_Cruz_Catholic_Church_%28Tucson%29_from_E_2.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 8443949024,
+            "lat": 32.2275423,
+            "lon": -110.9699838,
+            "tags": {
+                "name": "Goddess of Agave",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Stone_Avenue_underpass_%28Tucson%29_from_S_2.JPG/1280px-Stone_Avenue_underpass_%28Tucson%29_from_S_2.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 8443949328,
+            "lat": 32.2159292,
+            "lon": -110.9744817,
+            "tags": {
+                "name": "La Pilita Mural",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/El_Tiradito_shrine_%28Tucson%2C_Arizona%29_2.JPG/1280px-El_Tiradito_shrine_%28Tucson%2C_Arizona%29_2.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 8443949329,
+            "lat": 32.2519139,
+            "lon": -110.9783948,
+            "tags": {
+                "name": "Mural No tell Motel",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 8443950319,
+            "lat": 32.2252185,
+            "lon": -110.9653008,
+            "tags": {
+                "name": "Butterfly Mural",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Coronado_Hotel%2C_TUS.jpg/1280px-Coronado_Hotel%2C_TUS.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 9077643496,
+            "lat": 32.2481461,
+            "lon": -110.9080915,
+            "tags": {
+                "name": "Water Harvesting Feature",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9077961444,
+            "lat": 32.2479913,
+            "lon": -110.9085924,
+            "tags": {
+                "name": "Zen Garden Ramada",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9077961445,
+            "lat": 32.2479697,
+            "lon": -110.9085153,
+            "tags": {
+                "name": "Wildlife/Woodlands Ramada",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9077961446,
+            "lat": 32.2479845,
+            "lon": -110.90841,
+            "tags": {
+                "name": "Floral Patio",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9077961447,
+            "lat": 32.2479709,
+            "lon": -110.9083007,
+            "tags": {
+                "name": "Kitchen Courtyard",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9077961448,
+            "lat": 32.247976,
+            "lon": -110.9081901,
+            "tags": {
+                "name": "Cactus and Succulent Ramada",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9077961449,
+            "lat": 32.2479987,
+            "lon": -110.9089434,
+            "tags": {
+                "name": "Chrysalis Exhibit",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9077961463,
+            "lat": 32.248008,
+            "lon": -110.9093133,
+            "tags": {
+                "name": "Cattletank History Wall",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9078198742,
+            "lat": 32.248736,
+            "lon": -110.9076771,
+            "tags": {
+                "name": "Sig Boysen Home Composting Site",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9950244877,
+            "lat": 32.2792523,
+            "lon": -111.0106113,
+            "tags": {
+                "historic": "railway_car",
+                "model": "Rio Grande Steel Sided Caboose",
+                "name": "Rio Grande Steel Sided Caboose 01433",
+                "operator": "Gadsden-Pacific Division Toy Train Operating Museum",
+                "tourism": "attraction",
+                "website": "https://gpdtrains.org/exhibits/actual-size/"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10577042439,
+            "lat": 32.2499355,
+            "lon": -110.8418881,
+            "tags": {
+                "addr:city": "Tucson",
+                "addr:housenumber": "7000",
+                "addr:postcode": "85715",
+                "addr:state": "AZ",
+                "addr:street": "East Tanque Verde Road",
+                "name": "Tucson Desert Art Museum",
+                "tourism": "museum",
+                "website": "https://tucsondart.org/"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10665391032,
+            "lat": 32.1761295,
+            "lon": -110.8829404,
+            "tags": {
+                "historic": "aircraft",
+                "name": "F86",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 13243325341,
+            "lat": 32.2484223,
+            "lon": -110.9089613,
+            "tags": {
+                "attraction": "model_railway",
+                "description": "Model railroad with buildings made from natural materials",
+                "name": "The Great Garden Express",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 13612645947,
+            "lat": 32.2242445,
+            "lon": -110.9737999,
+            "tags": {
+                "addr:city": "Tucson",
+                "addr:housenumber": "196",
+                "addr:postcode": "85701",
+                "addr:state": "AZ",
+                "addr:street": "North Court Avenue",
+                "museum": "history",
+                "name": "Presidio San Agustin Del Tucson",
+                "tourism": "museum",
+                "website": "https://tucsonpresidio.com"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Tucson_Presidio_Reconstruction.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 32942742,
+            "lat": 32.2312162,
+            "lon": -110.956103,
+            "tags": {
+                "building": "university",
+                "fee": "no",
+                "name": "Arizona State Museum South",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/University_of_Arizona_May_2019_04_%28Arizona_State_Museum%29.jpg/1280px-University_of_Arizona_May_2019_04_%28Arizona_State_Museum%29.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 32974694,
+            "lat": 32.2325207,
+            "lon": -110.9557594,
+            "tags": {
+                "addr:city": "Tucson",
+                "addr:full": "1013 East University Boulevard",
+                "addr:housenumber": "1013",
+                "addr:state": "AZ",
+                "building": "university",
+                "fee": "yes",
+                "name": "Arizona State Museum",
+                "opening_hours": "Tu-Sa 10:00-14:00",
+                "source": "local_knowledge",
+                "tourism": "museum",
+                "website": "https://statemuseum.arizona.edu/",
+                "wheelchair": "yes",
+                "wikidata": "Q4306514"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/University_of_Arizona_May_2019_04_%28Arizona_State_Museum%29.jpg/1280px-University_of_Arizona_May_2019_04_%28Arizona_State_Museum%29.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 34616884,
+            "lat": 32.223431,
+            "lon": -110.9749746,
+            "tags": {
+                "addr:city": "Tucson",
+                "addr:housenumber": "140",
+                "addr:postcode": "85701",
+                "addr:state": "AZ",
+                "addr:street": "North Main Avenue",
+                "building": "yes",
+                "email": "info@TucsonMuseumofArt.org",
+                "fee": "yes",
+                "museum": "art",
+                "name": "Tucson Museum of Art",
+                "opening_hours": "Th-Su 10:00-17:00",
+                "phone": "+1 520 624 2333",
+                "tourism": "museum",
+                "website": "https://www.tucsonmuseumofart.org/",
+                "wheelchair": "yes",
+                "wikidata": "Q18325616"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Cordova_house_%28Tucson%2C_Arizona%29_from_SE_1.JPG/1280px-Cordova_house_%28Tucson%2C_Arizona%29_from_SE_1.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 34616930,
+            "lat": 32.2239066,
+            "lon": -110.9747187,
+            "tags": {
+                "addr:city": "Tucson",
+                "addr:housenumber": "173",
+                "addr:postcode": "85701",
+                "addr:state": "AZ",
+                "addr:street": "North Meyer Avenue",
+                "building": "historic",
+                "building:material": "adobe",
+                "heritage": "2",
+                "museum": "history",
+                "name": "La Casa Cordova",
+                "name:en": "Cordova House",
+                "ref:nrhp": "72000198",
+                "start_date": "1848",
+                "tourism": "museum",
+                "website": "https://www.tucsonmuseumofart.org/la-casa-cordova/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Cordova_house_%28Tucson%2C_Arizona%29_from_SE_1.JPG/1280px-Cordova_house_%28Tucson%2C_Arizona%29_from_SE_1.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 34689625,
+            "lat": 32.2248991,
+            "lon": -110.9661556,
+            "tags": {
+                "landuse": "railway",
+                "name": "Old Pueblo Trolley Barn",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Tucson_May_2019_31_%28Southern_Arizona_Transportation_Museum%29.jpg/1280px-Tucson_May_2019_31_%28Southern_Arizona_Transportation_Museum%29.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 34690363,
+            "lat": 32.219191,
+            "lon": -110.9692376,
+            "tags": {
+                "addr:city": "Tucson",
+                "addr:housenumber": "200",
+                "addr:postcode": "85701",
+                "addr:state": "AZ",
+                "addr:street": "South 6th Avenue",
+                "building": "yes",
+                "fee": "yes",
+                "name": "Tucson Children's Museum",
+                "opening_hours": "May Mo[-1]-Sep Mo[1] Mo-Su 09:00-17:00; Sep Tu[1]-May Su[-1] 09:00-17:00; Nov Th[4] off, Dec 25 off, easter off",
+                "tourism": "museum",
+                "website": "https://childrensmuseumtucson.org/",
+                "wheelchair": "yes"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/29/The_Cathedral_of_Saint_Augustine%2C_the_mother_church_of_the_Roman_Catholic_Diocese_of_Tucson%2C_Arizona.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 35070707,
+            "lat": 32.2086402,
+            "lon": -110.9202126,
+            "tags": {
+                "name": "Reid Park Zoo",
+                "opening_hours": "09:00-16:00",
+                "tourism": "zoo",
+                "wikidata": "Q7309977"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Reid_Park_Zoo_Entrance.JPG/1280px-Reid_Park_Zoo_Entrance.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 42342366,
+            "lat": 32.223718,
+            "lon": -110.9673459,
+            "tags": {
+                "name": "Southern Arizona Transportation Museum",
+                "tourism": "museum",
+                "wikidata": "Q7569633"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Tucson_May_2019_31_%28Southern_Arizona_Transportation_Museum%29.jpg/1280px-Tucson_May_2019_31_%28Southern_Arizona_Transportation_Museum%29.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 118506486,
+            "lat": 32.1397761,
+            "lon": -110.8680476,
+            "tags": {
+                "building": "yes",
+                "name": "390th Memorial Museum",
+                "opening_hours": "10:00-16:30",
+                "tourism": "museum"
+            }
+        },
+        {
+            "type": "way",
+            "id": 118506489,
+            "lat": 32.1378709,
+            "lon": -110.8677838,
+            "tags": {
+                "addr:city": "Tucson",
+                "addr:housenumber": "6000",
+                "addr:postcode": "85756",
+                "addr:state": "AZ",
+                "addr:street": "East Valencia Road",
+                "ele": "847",
+                "fee": "yes",
+                "gnis:feature_id": "15519",
+                "landuse": "commercial",
+                "museum": "aerospace",
+                "name": "Pima Air & Space Museum",
+                "note": "Last admittance at 3 PM",
+                "opening_hours": "Mo-Su 09:00-17:00",
+                "phone": "+1-520-618-4810",
+                "tourism": "museum",
+                "website": "https://pimaair.org/",
+                "wikidata": "Q3062422",
+                "wikipedia": "en:Pima Air & Space Museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Pima-air-and-space-MCB.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 236507294,
+            "lat": 32.2694772,
+            "lon": -110.9495415,
+            "tags": {
+                "addr:city": "Tucson",
+                "addr:housenumber": "1405",
+                "addr:postcode": "85719",
+                "addr:state": "AZ",
+                "addr:street": "East Kleindale Road",
+                "name": "H. H. Franklin Auto Museum",
+                "tourism": "museum"
+            }
+        },
+        {
+            "type": "way",
+            "id": 240591239,
+            "lat": 32.2875053,
+            "lon": -110.9683112,
+            "tags": {
+                "addr:city": "Tucson",
+                "addr:county": "US",
+                "addr:housenumber": "221",
+                "addr:postcode": "85705",
+                "addr:state": "AZ",
+                "addr:street": "Wetmore Road",
+                "email": "info@funtasticks.com",
+                "name": "Funtasticks",
+                "phone": "+1-520-888-4653",
+                "phone:mnemonic": "+1-520-888-GOLF",
+                "tourism": "theme_park",
+                "website": "https://www.funtasticks.com/"
+            }
+        },
+        {
+            "type": "way",
+            "id": 240893822,
+            "lat": 32.2464962,
+            "lon": -110.8547779,
+            "tags": {
+                "name": "Golf 'n Stuff",
+                "tourism": "theme_park"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/7c/TrailDustTown_2.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 275869011,
+            "lat": 32.2657321,
+            "lon": -110.8955336,
+            "tags": {
+                "addr:housenumber": "4455",
+                "addr:street": "East Camp Lowell Drive",
+                "changing_table": "yes",
+                "check_date": "2024-10-25",
+                "landuse": "commercial",
+                "museum": "art",
+                "name": "The Mini Time Machine Museum",
+                "opening_hours": "Tu-Su 09:00-16:00; PH off",
+                "operator:type": "private",
+                "toilets": "yes",
+                "tourism": "museum",
+                "website": "https://www.theminitimemachine.org/"
+            }
+        },
+        {
+            "type": "way",
+            "id": 276161742,
+            "lat": 32.2160139,
+            "lon": -110.972583,
+            "tags": {
+                "name": "Barrio Histórico District",
+                "name:en": "Barrio Historic District",
+                "place": "neighbourhood",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/2012WikiProjectNRHP_Downtown_Tucson_AZ_Barrios_Chris_Gillmor_011.JPG/1280px-2012WikiProjectNRHP_Downtown_Tucson_AZ_Barrios_Chris_Gillmor_011.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 441860663,
+            "lat": 32.2797137,
+            "lon": -111.0106557,
+            "tags": {
+                "addr:city": "Tucson",
+                "addr:housenumber": "3975",
+                "addr:postcode": "85705",
+                "addr:state": "AZ",
+                "addr:street": "North Miller Avenue",
+                "building": "museum",
+                "fee": "yes",
+                "museum": "railway",
+                "name": "Gadsden-Pacific Division Toy Train Operating Museum",
+                "opening_hours": "Sep-May Su 13:00-17:00",
+                "phone": "+1-520-888-2222",
+                "tourism": "museum",
+                "website": "https://gpdtrains.org/"
+            }
+        },
+        {
+            "type": "way",
+            "id": 464194199,
+            "lat": 32.2106344,
+            "lon": -110.991712,
+            "tags": {
+                "name": "The big \"A\"",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Sentinel_Peak_%28Arizona%29.jpg/1280px-Sentinel_Peak_%28Arizona%29.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 529116792,
+            "lat": 32.2239239,
+            "lon": -110.9754396,
+            "tags": {
+                "addr:city": "Tucson",
+                "addr:housenumber": "180",
+                "addr:state": "AZ",
+                "addr:street": "North Main Avenue",
+                "building": "house",
+                "name": "J. Knox Corbett House",
+                "start_date": "1907",
+                "tourism": "museum",
+                "website": "https://www.tucsonmuseumofart.org/j-knox-corbett-house/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Cordova_house_%28Tucson%2C_Arizona%29_from_SE_1.JPG/1280px-Cordova_house_%28Tucson%2C_Arizona%29_from_SE_1.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 619557591,
+            "lat": 32.2442954,
+            "lon": -110.9802768,
+            "tags": {
+                "addr:city": "Tucson",
+                "addr:state": "AZ",
+                "description": "The Miracle Mile Historic District encompasses an area surrounding a former section of U.S. Route 80 and U.S. Route 89 through Tucson, Arizona protecting historic businesses and attractions that date from the late 1930s to the early 1960s.",
+                "heritage": "2",
+                "heritage:operator": "nrhp",
+                "historic": "district",
+                "name": "Miracle Mile Historic District",
+                "nrhp:criteria": "(A);(C)",
+                "nrhp:inscription_date": "2017-12-11",
+                "operator": "National Register of Historic Places",
+                "ref:nrhp": "100001208",
+                "source": "https://www.tucsonaz.gov/files/preservation/ghostranch.nrnom_.final_.9xii11.pdf; https://preservetucson.org/wp-content/uploads/2017/12/Miracle-Mile-Boudary-Map-090617_reduced.pdf",
+                "start_date": "1937",
+                "tourism": "attraction",
+                "wikidata": "Q55075344",
+                "wikipedia": "en:Miracle Mile Historic District"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Tucson_Inn%2C_1956.jpg/1280px-Tucson_Inn%2C_1956.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 633129172,
+            "lat": 32.2181449,
+            "lon": -110.9406543,
+            "tags": {
+                "addr:city": "Tucson",
+                "addr:housenumber": "331",
+                "addr:postcode": "85719",
+                "addr:state": "AZ",
+                "addr:street": "South Olsen Avenue",
+                "building": "yes",
+                "name": "Ignite Sign Art Museum",
+                "tourism": "museum"
+            }
+        },
+        {
+            "type": "way",
+            "id": 663682559,
+            "lat": 32.2243716,
+            "lon": -110.9734972,
+            "tags": {
+                "area": "yes",
+                "historic": "yes",
+                "name": "Tucson Presidio",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Tucson_Presidio_Reconstruction.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 663694042,
+            "lat": 32.2255757,
+            "lon": -110.9762849,
+            "tags": {
+                "addr:city": "Tucson",
+                "addr:postcode": "85701",
+                "addr:state": "AZ",
+                "addr:street": "North Main Avenue",
+                "area": "yes",
+                "name": "Snob Hollow",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/04/Group_of_Apaches.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 973885341,
+            "lat": 32.1742983,
+            "lon": -110.9778357,
+            "tags": {
+                "building": "yes",
+                "name": "Oasis Raspados Mural",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "way",
+            "id": 985197155,
+            "lat": 32.2337172,
+            "lon": -110.9606984,
+            "tags": {
+                "addr:city": "Tucson",
+                "addr:housenumber": "920",
+                "addr:state": "AZ",
+                "addr:street": "North 1st Avenue",
+                "building": "yes",
+                "building:levels": "1",
+                "fee": "no",
+                "museum": "history",
+                "name": "Postal History Foundation",
+                "opening_hours": "Mo-Fr 08:30-14:30; PH off",
+                "tourism": "museum",
+                "website": "https://postalhistoryfoundation.org/",
+                "wheelchair": "limited"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/60/Masjed_UA.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 1455846779,
+            "lat": 32.1378627,
+            "lon": -110.8602286,
+            "tags": {
+                "landuse": "commercial",
+                "museum": "military",
+                "name": "Tucson Military Vehicle Museum",
+                "opening_hours": "Mo-Su 09:00-17:00",
+                "tourism": "museum"
+            }
+        }
+    ]
+}

@@ -1,0 +1,411 @@
+{
+    "city_metadata": {
+        "city_name": "Asheville",
+        "state_code": "NC",
+        "state_full": "North Carolina",
+        "city_summary": "Asheville ( ASH-vill) is a city in Buncombe County, North Carolina, United States. Located at the confluence of the French Broad and Swannanoa rivers, it is the county seat of Buncombe County. It is the most populous city in Western North Carolina and the state's 11th-most populous city with a population of 94,589 at the 2020 census.",
+        "city_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Asheville_at_dusk_%28cropped%29.jpg/1280px-Asheville_at_dusk_%28cropped%29.jpg",
+        "city_lat": 35.59555556,
+        "city_lon": -82.55194444,
+        "source": "wikipedia_verified_engine"
+    },
+    "attractions": [
+        {
+            "type": "node",
+            "id": 12018305515,
+            "lat": 35.5964253,
+            "lon": -82.5566329,
+            "tags": {
+                "addr:city": "Asheville",
+                "addr:housenumber": "1",
+                "addr:postcode": "28801",
+                "addr:state": "NC",
+                "addr:street": "Battle Square",
+                "addr:unit": "1B",
+                "name": "Asheville Pinball Museum",
+                "opening_hours": "Mo 13:00-18:00; We-Fr 14:00-21:00; Sa 12:00-21:00; Su 13:00-18:00",
+                "phone": "+1 828 776 5671",
+                "tourism": "museum",
+                "website": "https://ashevillepinball.com/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/6a/The_Catholic_Basilica_of_St._Lawrence_in_Asheville%2C_North_Carolina.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 33129913,
+            "lat": 35.5771785,
+            "lon": -82.4957786,
+            "tags": {
+                "access": "yes",
+                "area": "yes",
+                "name": "Western N.C. Nature Center",
+                "ownership": "municipal",
+                "source": "NCOnemap",
+                "tourism": "zoo",
+                "wikidata": "Q7988117"
+            }
+        },
+        {
+            "type": "way",
+            "id": 379472904,
+            "lat": 35.5945454,
+            "lon": -82.5510334,
+            "tags": {
+                "addr:city": "Asheville",
+                "addr:housenumber": "2",
+                "addr:postcode": "28801",
+                "addr:state": "NC",
+                "addr:street": "South Pack Square",
+                "building": "yes",
+                "fee": "yes",
+                "name": "Asheville Art Museum",
+                "opening_hours": "11:00-18:00; Tu off",
+                "tourism": "museum",
+                "website": "https://www.ashevilleart.org/",
+                "wheelchair": "yes",
+                "wikidata": "Q4804909"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Asheville_Art_Museum_at_Night.jpg/1280px-Asheville_Art_Museum_at_Night.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 490446943,
+            "lat": 35.5960698,
+            "lon": -82.5505004,
+            "tags": {
+                "addr:city": "Asheville",
+                "addr:postcode": "28801",
+                "addr:state": "NC",
+                "addr:street": "College Street",
+                "building": "yes",
+                "name": "Black Mountain College Museum + Arts Center",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Pack_Square_Park_5.jpg/1280px-Pack_Square_Park_5.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 602619251,
+            "lat": 35.6134269,
+            "lon": -82.5671086,
+            "tags": {
+                "access": "yes",
+                "addr:city": "Asheville",
+                "addr:housenumber": "151",
+                "addr:postcode": "28804",
+                "addr:state": "NC",
+                "addr:street": "W.T. Weaver Boulevard",
+                "description": "A collection of various greenery that is found in North Carolina.",
+                "email": "office@ashevillebotanicalgardens.org",
+                "garden:type": "botanical",
+                "leisure": "garden",
+                "name": "Botanical Gardens at Asheville",
+                "opening_hours": "sunrise-sunset",
+                "phone": "+1-828252-5190",
+                "tourism": "attraction",
+                "website": "https://ashevillebotanicalgardens.org/",
+                "wikidata": "Q4948448",
+                "wikipedia": "en:Botanical Gardens at Asheville"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Asheville_Botanical_Gardens_2003.jpg/1280px-Asheville_Botanical_Gardens_2003.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 952347622,
+            "lat": 35.5973149,
+            "lon": -82.5521431,
+            "tags": {
+                "addr:city": "Asheville",
+                "addr:housenumber": "56",
+                "addr:postcode": "28801",
+                "addr:state": "NC",
+                "addr:street": "Broadway Street",
+                "building": "yes",
+                "building:levels": "2",
+                "contact:phone": "+1 828 258-1262",
+                "name": "Bob Moog Foundation",
+                "roof:colour": "grey",
+                "roof:shape": "flat",
+                "tourism": "museum",
+                "website": "https://moogfoundation.org/projects/the-moogseum/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Asheville_Masonic_Temple.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 955565293,
+            "lat": 35.5949606,
+            "lon": -82.5535144,
+            "tags": {
+                "addr:housenumber": "43",
+                "addr:postcode": "28801",
+                "addr:street": "Patton Avenue",
+                "building": "yes",
+                "contact:facebook": "Asheville.Science",
+                "contact:instagram": "asheville_science",
+                "email": "info@ashevillescience.org",
+                "name": "Asheville Museum of Science",
+                "opening_hours": "Mo-Sa 10:00-17:00; Su 13:00-17:00",
+                "phone": "+1-828-254-7162",
+                "tourism": "museum",
+                "website": "https://ashevillescience.org/"
+            }
+        },
+        {
+            "type": "way",
+            "id": 1359853850,
+            "lat": 35.6112661,
+            "lon": -82.5636492,
+            "tags": {
+                "name": "Great-horned owl habitat",
+                "tourism": "zoo",
+                "zoo": "wildlife_park"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Asheville_Botanical_Gardens_2003.jpg/1280px-Asheville_Botanical_Gardens_2003.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 1381391529,
+            "lat": 35.5951382,
+            "lon": -82.5548322,
+            "tags": {
+                "area": "yes",
+                "name": "Ironland",
+                "tourism": "attraction",
+                "wikidata": "Q127371088"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Ball1521ed.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 1838353,
+            "lat": 35.58722222,
+            "lon": -82.54916667,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/01/McCormick_Field_entrance.JPG",
+            "description": "HomeTrust Park (formerly Lewis McCormick Field) is a baseball stadium in Asheville, North Carolina.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "HomeTrust Park",
+                "wikipedia": "en:HomeTrust Park",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 23956501,
+            "lat": 34,
+            "lon": -83,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Raleigh_Skyline.jpg/1280px-Raleigh_Skyline.jpg",
+            "description": "The Piedmont Atlantic megaregion, or Southeast Megalopolis, is a neologism created by the Regional Plan Association for an area of the Southeastern United States that contains parts of the states of Alabama, Georgia, Tennessee, South Carolina, and North Carolina.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Piedmont Atlantic megaregion",
+                "wikipedia": "en:Piedmont Atlantic megaregion",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 21285939,
+            "lat": 35.5949,
+            "lon": -82.5505,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Jackson_Building_in_Asheville%2C_NC_IMG_5181.JPG/1280px-Jackson_Building_in_Asheville%2C_NC_IMG_5181.JPG",
+            "description": "The Jackson Building is a 140 ft (43m) 15-story building in downtown Asheville, North Carolina, which was completed in 1924 in Pack Square.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Jackson Building (Asheville, North Carolina)",
+                "wikipedia": "en:Jackson Building (Asheville, North Carolina)",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 1007219,
+            "lat": 35.56445,
+            "lon": -82.54041,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Biltmorevillage.JPG/1280px-Biltmorevillage.JPG",
+            "description": "Biltmore Village, formerly  Best, is a small village that is now entirely in the city limits of Asheville, North Carolina.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Biltmore Village",
+                "wikipedia": "en:Biltmore Village",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 1585221,
+            "lat": 35.5303,
+            "lon": -82.6049,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Asheville_Outlet_Mall_%2817359241436%29.jpg/1280px-Asheville_Outlet_Mall_%2817359241436%29.jpg",
+            "description": "Tanger Outlets Asheville is a shopping mall located just off Andrew Jackson Highway (I-26/US 74) on Brevard Road (NC 191) in Asheville, North Carolina, United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Tanger Outlets Asheville",
+                "wikipedia": "en:Tanger Outlets Asheville",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 877635,
+            "lat": 35.47694444,
+            "lon": -83.32055556,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e0/CherokeeMainStreet.jpg",
+            "description": "Cherokee  (Cherokee: ᏣᎳᎩ, romanized: Tsalagi) is a census-designated place (CDP) in Swain and Jackson counties in Western North Carolina, United States, within the Qualla Boundary land trust.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Cherokee, North Carolina",
+                "wikipedia": "en:Cherokee, North Carolina",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 11817282,
+            "lat": 35.62055556,
+            "lon": -82.54222222,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/The_Omni_Grove_Park_Inn%2C_2013.jpg/1280px-The_Omni_Grove_Park_Inn%2C_2013.jpg",
+            "description": "The Grove Park Inn is a historic resort hotel on the western-facing slope of Sunset Mountain within the Blue Ridge Mountains, in Asheville, North Carolina.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "The Omni Grove Park Inn",
+                "wikipedia": "en:The Omni Grove Park Inn",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 127737,
+            "lat": 35.74083333,
+            "lon": -81.70027778,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Train_Depot%2C_Morganton%2C_North_Carolina_%282008%29.jpg/1280px-Train_Depot%2C_Morganton%2C_North_Carolina_%282008%29.jpg",
+            "description": "Morganton is a city in and the county seat of Burke County, North Carolina, United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Morganton, North Carolina",
+                "wikipedia": "en:Morganton, North Carolina",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 6136516,
+            "lat": 35.45138889,
+            "lon": -82.28694444,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Bat_Cave_North_Carolina_Fire_and_Rescue_Tanker_Truck.jpg/1280px-Bat_Cave_North_Carolina_Fire_and_Rescue_Tanker_Truck.jpg",
+            "description": "Bat Cave is an unincorporated community in Henderson County, North Carolina, United States and is part of the Asheville Metropolitan Statistical Area.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Bat Cave, North Carolina",
+                "wikipedia": "en:Bat Cave, North Carolina",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 21650,
+            "lat": 36,
+            "lon": -80,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Flag_of_North_Carolina.svg/1280px-Flag_of_North_Carolina.svg.png",
+            "description": "North Carolina (  KAYR-ə-LIE-nə) is a state in the Southeastern and South Atlantic regions of the United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "North Carolina",
+                "wikipedia": "en:North Carolina",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 17735459,
+            "lat": 35.5913,
+            "lon": -82.5511,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/The_Orange_Peel_Sign%2C_Asheville%2C_NC_%2846019878064%29.jpg/1280px-The_Orange_Peel_Sign%2C_Asheville%2C_NC_%2846019878064%29.jpg",
+            "description": "The Orange Peel is a music venue located in downtown Asheville, North Carolina.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "The Orange Peel",
+                "wikipedia": "en:The Orange Peel",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 30865160,
+            "lat": 35.23,
+            "lon": -80.84,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Uptown_Charlotte_2018_taking_by_DJI_Phantom_4_pro.jpg/1280px-Uptown_Charlotte_2018_taking_by_DJI_Phantom_4_pro.jpg",
+            "description": "The Charlotte metropolitan area (also referred to informally as Metrolina and to a lesser extent as Greater Charlotte) is a metropolitan area of the U.S. states of North and South Carolina, containing the city of Charlotte, North Carolina.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Charlotte metropolitan area",
+                "wikipedia": "en:Charlotte metropolitan area",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 55976230,
+            "lat": 35.1205928,
+            "lon": -84.252337,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/FieldsoftheWood2.jpg/1280px-FieldsoftheWood2.jpg",
+            "description": "Fields of the Wood is a Christian religious park of more than 200 acres (81 ha) in Cherokee County, North Carolina, owned by the Church of God of Prophecy—a Holiness Pentecostal denomination.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Fields of the Wood",
+                "wikipedia": "en:Fields of the Wood",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 150844,
+            "lat": 35.2375,
+            "lon": -82.34694444,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Saluda_Historic_District.jpg/1280px-Saluda_Historic_District.jpg",
+            "description": "Saluda is a city in Polk and Henderson counties in the U.S. state of North Carolina.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Saluda, North Carolina",
+                "wikipedia": "en:Saluda, North Carolina",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 1196267,
+            "lat": 36.11111111,
+            "lon": -81.81138889,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Grandfather_Mountain-27527-1.jpg/1280px-Grandfather_Mountain-27527-1.jpg",
+            "description": "Grandfather Mountain is a mountain, a non-profit attraction, and a North Carolina state park\nnear Linville, North Carolina.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Grandfather Mountain",
+                "wikipedia": "en:Grandfather Mountain",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 33632042,
+            "lat": 35.600947,
+            "lon": -82.554014,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/MoogFest_Monument.jpg/1280px-MoogFest_Monument.jpg",
+            "description": "Moogfest was a music and technology festival held in Durham, North Carolina, that honored engineer Robert Moog and his inventions.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Moogfest",
+                "wikipedia": "en:Moogfest",
+                "tourism": "attraction"
+            }
+        }
+    ]
+}

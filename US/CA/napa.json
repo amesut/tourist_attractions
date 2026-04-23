@@ -1,0 +1,358 @@
+{
+    "city_metadata": {
+        "city_name": "Napa",
+        "state_code": "CA",
+        "state_full": "California",
+        "city_summary": "Napa is the largest city in and the county seat of Napa County and a principal city of Wine Country in Northern California, United States. Located in the North Bay region of the Bay Area, the city had a population of 76,921 as of the July, 2024. Napa is a major tourist destination in California, known for its wineries, restaurants, and arts culture.",
+        "city_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/City_of_Napa_by_the_Napa_River_%28cropped%29.JPG/1280px-City_of_Napa_by_the_Napa_River_%28cropped%29.JPG",
+        "city_lat": 38.30472222,
+        "city_lon": -122.29888889,
+        "source": "wikipedia_verified_engine"
+    },
+    "attractions": [
+        {
+            "type": "node",
+            "id": 5874052685,
+            "lat": 38.3024007,
+            "lon": -122.2836192,
+            "tags": {
+                "addr:street": "McKinstry Street",
+                "name": "Napa Valley Wine Train",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9760142083,
+            "lat": 38.2981369,
+            "lon": -122.2871474,
+            "tags": {
+                "museum": "history",
+                "name": "Napa County Historical Society",
+                "tourism": "museum",
+                "website": "https://napahistory.org/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/US_Post_Office-Napa_Franklin_Station%2C_1352_2nd_St.%2C_Napa%2C_CA_9-5-2010_3-10-39_PM.JPG/1280px-US_Post_Office-Napa_Franklin_Station%2C_1352_2nd_St.%2C_Napa%2C_CA_9-5-2010_3-10-39_PM.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 1139088654,
+            "lat": 38.295176,
+            "lon": -122.301012,
+            "tags": {
+                "area": "yes",
+                "name": "Balloons Above the Valley",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 7734108,
+            "lat": 38.4012015,
+            "lon": -122.33017772,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/26/TTB_Map_Napa_Valley_AVA.png",
+            "description": "Napa Valley is an American Viticultural Area (AVA) in Napa County, California.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Napa Valley AVA",
+                "wikipedia": "en:Napa Valley AVA",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 107794,
+            "lat": 38.30472222,
+            "lon": -122.29888889,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/City_of_Napa_by_the_Napa_River_%28cropped%29.JPG/1280px-City_of_Napa_by_the_Napa_River_%28cropped%29.JPG",
+            "description": "Napa is the largest city in and the county seat of Napa County and a principal city of Wine Country in Northern California, United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Napa, California",
+                "wikipedia": "en:Napa, California",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 107792,
+            "lat": 38.58138889,
+            "lon": -122.58277778,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Castello_di_Amorosa_courtyard_2_%28cropped%29.JPG/1280px-Castello_di_Amorosa_courtyard_2_%28cropped%29.JPG",
+            "description": "Calistoga (Wappo: Nilektsonoma) is a city in Napa County, California, United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Calistoga, California",
+                "wikipedia": "en:Calistoga, California",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 15406648,
+            "lat": 38.65361111,
+            "lon": -122.48277778,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Aetna_Springs_Resort%2C_1600_Aetna_Springs_Rd.%2C_Pope_Valley%2C_CA_10-22-2011_4-34-16_PM.JPG/1280px-Aetna_Springs_Resort%2C_1600_Aetna_Springs_Rd.%2C_Pope_Valley%2C_CA_10-22-2011_4-34-16_PM.JPG",
+            "description": "The Aetna Springs Resort is a historic resort located in Pope Valley in the north eastern part of Napa County, California, United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Aetna Springs Resort",
+                "wikipedia": "en:Aetna Springs Resort",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 3313909,
+            "lat": 38.40305556,
+            "lon": -122.36222222,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Veterans_Home_of_California_Yountville_%28cropped%29.jpg",
+            "description": "Yountville ( or ) is an incorporated town in Napa County, in the Wine Country of California, United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Yountville, California",
+                "wikipedia": "en:Yountville, California",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 3352200,
+            "lat": 38.29972222,
+            "lon": -122.28444444,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Napa_Opera_House%2C_1018-1030_Main_St.%2C_Napa%2C_CA_9-5-2010_2-32-51_PM.JPG/1280px-Napa_Opera_House%2C_1018-1030_Main_St.%2C_Napa%2C_CA_9-5-2010_2-32-51_PM.JPG",
+            "description": "The Napa Valley Opera House is a historic multi-venue performance space in Napa, California currently home to Blue Note Napa and JaM Cellars Ballroom.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Napa Valley Opera House",
+                "wikipedia": "en:Napa Valley Opera House",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 2753046,
+            "lat": 34.41066944,
+            "lon": -119.68736111,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Stearns_Wharf_by_Don_Ramey_Logan.jpg/1280px-Stearns_Wharf_by_Don_Ramey_Logan.jpg",
+            "description": "Stearns Wharf is a pier at the cross section of the end of State Street and Cabrillo Boulevard, in the harbor in Santa Barbara, California, United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Stearns Wharf",
+                "wikipedia": "en:Stearns Wharf",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 15937788,
+            "lat": 33.81,
+            "lon": -117.92,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Sleeping_Beauty_Castle_-_February_2024.png/1280px-Sleeping_Beauty_Castle_-_February_2024.png",
+            "description": "Disneyland is a theme park at the Disneyland Resort in Anaheim, California, United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Disneyland",
+                "wikipedia": "en:Disneyland",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 5407,
+            "lat": 37,
+            "lon": -120,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Flag_of_California.svg/1280px-Flag_of_California.svg.png",
+            "description": "California () is a state in the Western United States that lies on the Pacific Coast.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "California",
+                "wikipedia": "en:California",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 221646,
+            "lat": 49.88805556,
+            "lon": -119.49555556,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Kelowna_city_view_from_Knox_Mountain.jpg/1280px-Kelowna_city_view_from_Knox_Mountain.jpg",
+            "description": "Kelowna (  kə-LOH-nə) is a city on Okanagan Lake in the Okanagan Valley in the southern interior of British Columbia, Canada.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Kelowna",
+                "wikipedia": "en:Kelowna",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 206763,
+            "lat": 37.11666667,
+            "lon": -121.85,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Russian_Ridge-Wildflowers.jpg/1280px-Russian_Ridge-Wildflowers.jpg",
+            "description": "The Santa Cruz Mountains (Mutsun Ohlone: Mak-sah-re-jah, \"Sharp Ridged Mountain of the Eagle\" or \"People of the Eagle Mountain\") are a mountain range in central and Northern California, United States, constituting a part of the Pacific Coast Ranges.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Santa Cruz Mountains",
+                "wikipedia": "en:Santa Cruz Mountains",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 107587,
+            "lat": 38.7525,
+            "lon": -122.615,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Middletown%2C_California_-_September_2023_-_Sarah_Stierch.jpg/1280px-Middletown%2C_California_-_September_2023_-_Sarah_Stierch.jpg",
+            "description": "Middletown is a census-designated place (CDP) in Lake County, California, United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Middletown, California",
+                "wikipedia": "en:Middletown, California",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 741921,
+            "lat": 38.27277778,
+            "lon": -120.29055556,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/75/Calaveras_Big_Trees_State_Park_-_South_Grove%2C_CA_-_panoramio_%288%29.jpg",
+            "description": "Calaveras Big Trees State Park is a state park of California, United States, preserving two groves of giant sequoia trees.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Calaveras Big Trees State Park",
+                "wikipedia": "en:Calaveras Big Trees State Park",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 48664,
+            "lat": 37.85,
+            "lon": -119.51666667,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Half_Dome_with_Eastern_Yosemite_Valley_%2850MP%29.jpg/1280px-Half_Dome_with_Eastern_Yosemite_Valley_%2850MP%29.jpg",
+            "description": "Yosemite National Park ( yoh-SEM-ih-tee) is a national park of the United States in California.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Yosemite National Park",
+                "wikipedia": "en:Yosemite National Park",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 297293,
+            "lat": 33.36666667,
+            "lon": 126.53333333,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Hallasan_Above.jpg",
+            "description": "Jeju Province (Jeju and Korean: 제주도; Hanja: 濟州道; RR: Jejudo), officially Jeju Special Self-Governing Province (Jeju: 제주특벨ᄌᆞ치도; Korean: 제주특별자치도; Hanja: 濟州特別自治道; RR: Jeju Teukbyeoljachi-do), is the southernmost province of South Korea, consisting of eight inhabited and 55 uninhabited islands, including Marado, Udo, the Chuja Archipelago, and the country's largest island, Jeju Island.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Jeju Province",
+                "wikipedia": "en:Jeju Province",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 29070731,
+            "lat": 37.46,
+            "lon": -122.42972222,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Bluffs100407_%2828_of_28%29.JPG/1280px-Bluffs100407_%2828_of_28%29.JPG",
+            "description": "The Half Moon Bay Art and Pumpkin Festival is an annual festival held in the coastside community of Half Moon Bay, California, for one weekend during pumpkin harvest season.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Half Moon Bay Art and Pumpkin Festival",
+                "wikipedia": "en:Half Moon Bay Art and Pumpkin Festival",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 108092,
+            "lat": 35.36722222,
+            "lon": -120.84666667,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Morrow_Bay_2012_2.jpg/1280px-Morrow_Bay_2012_2.jpg",
+            "description": "Morro Bay (Morro, Spanish for \"Hill\") is a seaside city in San Luis Obispo County, California, United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Morro Bay, California",
+                "wikipedia": "en:Morro Bay, California",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 108243,
+            "lat": 38.44861111,
+            "lon": -122.70472222,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Old_Santa_Rosa_Post_Office%2C_Downtown_Santa_Rosa%2C2.jpg",
+            "description": "Santa Rosa (Spanish for \"Saint Rose\") is a city in and the county seat of Sonoma County, in the North Bay region of the Bay Area in California.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Santa Rosa, California",
+                "wikipedia": "en:Santa Rosa, California",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 60053,
+            "lat": 37.3493,
+            "lon": -121.9415,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Mission_Santa_Clara.jpg/1280px-Mission_Santa_Clara.jpg",
+            "description": "Mission Santa Clara de Asís (Spanish: Misión Santa Clara de Asís) is a Spanish mission in the city of Santa Clara, California.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Mission Santa Clara de Asís",
+                "wikipedia": "en:Mission Santa Clara de Asís",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 26661212,
+            "lat": 35.64083333,
+            "lon": -120.65388889,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Pasorobles2.JPG/1280px-Pasorobles2.JPG",
+            "description": "Paso Robles ( PASS-ə ROH-bəlz), officially El Paso de Robles (Spanish for The Pass of Oaks), is a city in San Luis Obispo County, California, United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Paso Robles, California",
+                "wikipedia": "en:Paso Robles, California",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 7954681,
+            "lat": 45.50888889,
+            "lon": -73.55416667,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Mtl_from_mont_royal_%28cropped%29.jpg/1280px-Mtl_from_mont_royal_%28cropped%29.jpg",
+            "description": "Montreal (French: Montréal) is the largest city in the province of Quebec, the second-largest in Canada, and the eighth-largest in North America.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Montreal",
+                "wikipedia": "en:Montreal",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 108226,
+            "lat": 38.31111111,
+            "lon": -122.48388889,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Sonoma_County_California_Incorporated_and_Unincorporated_areas_Boyes_Hot_Springs_Highlighted.svg/1280px-Sonoma_County_California_Incorporated_and_Unincorporated_areas_Boyes_Hot_Springs_Highlighted.svg.png",
+            "description": "Boyes Hot Springs (also called Boyes Springs or The Springs) is a census-designated place (CDP) in Sonoma Valley, Sonoma County, California, United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Boyes Hot Springs, California",
+                "wikipedia": "en:Boyes Hot Springs, California",
+                "tourism": "attraction"
+            }
+        }
+    ]
+}

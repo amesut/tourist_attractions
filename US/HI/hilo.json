@@ -1,0 +1,267 @@
+{
+    "city_metadata": {
+        "city_name": "Hilo",
+        "state_code": "HI",
+        "state_full": "Hawaii",
+        "city_summary": "Hilo (, HEE-low; Hawaiian pronunciation: [ˈhilo]) is the largest settlement in and the county seat of Hawaiʻi County, Hawaii, United States, which encompasses the Island of Hawaiʻi, and is a census-designated place (CDP). The population was 44,186 according to the 2020 census. It is the fourth-largest settlement in the state of Hawaiʻi, the largest settlement in the state outside of Oahu, and the largest settlement in the state outside of the Greater Honolulu Area.",
+        "city_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Hawaii_County_Hawaii_Incorporated_and_Unincorporated_areas_Hilo_Highlighted.svg/1280px-Hawaii_County_Hawaii_Incorporated_and_Unincorporated_areas_Hilo_Highlighted.svg.png",
+        "city_lat": 19.70555556,
+        "city_lon": -155.08583333,
+        "source": "wikipedia_verified_engine"
+    },
+    "attractions": [
+        {
+            "type": "node",
+            "id": 2065645542,
+            "lat": 19.7153925,
+            "lon": -155.1305636,
+            "tags": {
+                "name": "Boiling Pots",
+                "tourism": "attraction",
+                "waterway": "rapids"
+            }
+        },
+        {
+            "type": "node",
+            "id": 2878542602,
+            "lat": 19.724764,
+            "lon": -155.0882109,
+            "tags": {
+                "addr:city": "Hilo",
+                "addr:country": "US",
+                "addr:housenumber": "141",
+                "addr:postcode": "96720",
+                "addr:state": "HI",
+                "addr:street": "Kalakaua Street",
+                "check_date:opening_hours": "2024-10-08",
+                "museum": "art",
+                "name": "East Hawaiʻi Cultural Center",
+                "name:ja": "イーストハワイ文化センター",
+                "opening_hours": "Tu-Fr 10:00-16:00; Sa 10:00-14:00",
+                "tourism": "museum",
+                "website": "https://www.ehcc.org/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/East_Hawaii_Cultural_Center.jpg/1280px-East_Hawaii_Cultural_Center.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 4722581529,
+            "lat": 19.6544829,
+            "lon": -155.0742263,
+            "tags": {
+                "name": "Panaewa Rainforest Zoo",
+                "tiger:mtfcc": "S1400",
+                "tourism": "zoo",
+                "wikidata": "Q7129731"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Pana%27ewa-zoo-hawaiian-homestead.jpg/1280px-Pana%27ewa-zoo-hawaiian-homestead.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 10096592080,
+            "lat": 19.7266984,
+            "lon": -155.0869856,
+            "tags": {
+                "addr:floor": "2",
+                "check_date": "2022-10-12",
+                "level": "1",
+                "museum": "technology",
+                "name": "Kenyan K. Beale Community Robotics Center",
+                "opening_hours": "Sa 10:00-14:00",
+                "operator": "Hawaiʻi Science & Technology Museum",
+                "tourism": "museum",
+                "website": "https://hawaiisciencemuseum.org/kenyan-k-beals-community-robotics-center/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Volcano-Block-Building.jpg/1280px-Volcano-Block-Building.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 10806853004,
+            "lat": 19.6867967,
+            "lon": -155.1306747,
+            "tags": {
+                "name": "Kaumana Caves",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Kaumana_Cave.jpg/1280px-Kaumana_Cave.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 438292610,
+            "lat": 19.7259283,
+            "lon": -155.0867338,
+            "tags": {
+                "addr:city": "Hilo",
+                "addr:housenumber": "130",
+                "addr:postcode": "96720",
+                "addr:state": "HI",
+                "addr:street": "Kamehameha Avenue",
+                "building": "commercial",
+                "building:levels": "2",
+                "check_date:opening_hours": "2024-10-08",
+                "fee": "yes",
+                "fee:conditional": "no @ age < 6",
+                "name": "Pacific Tsunami Museum",
+                "name:ja": "パシフィック・ツナミ・ミュージアム",
+                "opening_hours": "Mo-Su 10:00-16:00; Tu 09:00-16:00",
+                "phone": "+1-808-935-0926",
+                "tourism": "museum",
+                "website": "https://tsunami.org/",
+                "wikidata": "Q7122743",
+                "wikipedia": "en:Pacific Tsunami Museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Hilo_Pacific_Tsnumai_Museum_Big_island_Hawaii_Park_%2846226726062%29.jpg/1280px-Hilo_Pacific_Tsnumai_Museum_Big_island_Hawaii_Park_%2846226726062%29.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 462013668,
+            "lat": 19.7193543,
+            "lon": -155.075948,
+            "tags": {
+                "air_conditioning": "no",
+                "building": "yes",
+                "building:levels": "2",
+                "check_date:opening_hours": "2023-02-24",
+                "museum": "art",
+                "name": "Wailoa Center",
+                "name:ja": "ワイロア・センター",
+                "opening_hours": "Mo-Fr 09:00-16:00; PH off",
+                "toilets": "yes",
+                "toilets:access": "customers",
+                "tourism": "museum",
+                "website": "https://www.wailoacenter.com/",
+                "wheelchair": "yes"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Park_in_Hilo_-_panoramio.jpg/1280px-Park_in_Hilo_-_panoramio.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 557071355,
+            "lat": 19.7220306,
+            "lon": -155.0910137,
+            "tags": {
+                "addr:city": "Hilo",
+                "addr:postcode": "96720",
+                "addr:state": "HI",
+                "building": "yes",
+                "building:colour": "white",
+                "building:levels": "2",
+                "ele": "10",
+                "gnis:feature_id": "1905504",
+                "historic": "building",
+                "museum": "history",
+                "name": "Lyman House Memorial Museum",
+                "roof:colour": "azure",
+                "roof:shape": "gabled",
+                "source": "USGS Geonames",
+                "tourism": "museum",
+                "wikidata": "Q6708046"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Lyman_House_Museum%2C_Hilo.jpg/1280px-Lyman_House_Museum%2C_Hilo.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 654460533,
+            "lat": 19.7084946,
+            "lon": -155.0638037,
+            "tags": {
+                "building": "yes",
+                "museum": "history",
+                "name": "Hawaii Japanese Center",
+                "tourism": "museum"
+            }
+        },
+        {
+            "type": "way",
+            "id": 843717073,
+            "lat": 19.7221836,
+            "lon": -155.0907024,
+            "tags": {
+                "addr:city": "Hilo",
+                "addr:country": "US",
+                "addr:housenumber": "276",
+                "addr:postcode": "96720",
+                "addr:state": "HI",
+                "addr:street": "Haili Street",
+                "building": "yes",
+                "building:colour": "cornsilk",
+                "building:levels": "2",
+                "building:levels:underground": "1",
+                "check_date:opening_hours": "2024-10-08",
+                "fee": "yes",
+                "museum": "history",
+                "name": "Lyman Museum",
+                "opening_hours": "Mo-Fr 10:00-16:30; PH off",
+                "roof:colour": "azure",
+                "roof:shape": "gabled",
+                "tourism": "museum",
+                "website": "https://lymanmuseum.com"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Saint_Joseph_Catholic_Church_in_Hilo.jpg/1280px-Saint_Joseph_Catholic_Church_in_Hilo.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 110474,
+            "lat": 19.65,
+            "lon": -155.99416667,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Kona_Mauka.jpg/1280px-Kona_Mauka.jpg",
+            "description": "Kailua-Kona is an unincorporated community and, under the name Kailua, a census-designated place (CDP) in Hawaii County, Hawaii, United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Kailua-Kona, Hawaii",
+                "wikipedia": "en:Kailua-Kona, Hawaii",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 14037074,
+            "lat": 19.69722222,
+            "lon": -155.06333333,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Prince_Kuhio_Plaza%2C_Hilo_-_Outside_View%2C_Sears_and_T.J._Maxx.jpg/1280px-Prince_Kuhio_Plaza%2C_Hilo_-_Outside_View%2C_Sears_and_T.J._Maxx.jpg",
+            "description": "Prince Kūhiō Plaza is a single-level regional shopping mall in Hilo, Hawaii.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Prince Kuhio Plaza",
+                "wikipedia": "en:Prince Kuhio Plaza",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 23423482,
+            "lat": 19.430221,
+            "lon": -155.258207,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Volcano_Art_Center.jpg/1280px-Volcano_Art_Center.jpg",
+            "description": "Volcano House is the name of a series of historic hotels built at the edge of Kīlauea, within the grounds of Hawai'i Volcanoes National Park on the Island of Hawai'i.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Volcano House",
+                "wikipedia": "en:Volcano House",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 573488,
+            "lat": 19.38333333,
+            "lon": -155.2,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/P%C4%81hoehoe_and_Aa_flows_at_Hawaii.jpg/1280px-P%C4%81hoehoe_and_Aa_flows_at_Hawaii.jpg",
+            "description": "Hawaiʻi Volcanoes National Park is a national park of the United States, located on the island of Hawaiʻi in the state of Hawaii.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Hawaiʻi Volcanoes National Park",
+                "wikipedia": "en:Hawaiʻi Volcanoes National Park",
+                "tourism": "attraction"
+            }
+        }
+    ]
+}

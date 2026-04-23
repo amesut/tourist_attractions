@@ -1,0 +1,403 @@
+{
+    "city_metadata": {
+        "city_name": "Reno",
+        "state_code": "NV",
+        "state_full": "Nevada",
+        "city_summary": "Reno (, REE-noh) is a city in the northwest section of the U.S. state of Nevada, along the Nevada–California border. It is the county seat and most populous city of Washoe County. Sitting in the High Eastern Sierra foothills, in the Truckee River valley, on the eastern side of the Sierra Nevada, it is about 23 miles (37 km) northeast of Lake Tahoe.",
+        "city_image": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Reno%2C_Nevada_%2816931715632%29.jpg",
+        "city_lat": 39.52722222,
+        "city_lon": -119.82194444,
+        "source": "wikipedia_verified_engine"
+    },
+    "attractions": [
+        {
+            "type": "node",
+            "id": 4797674491,
+            "lat": 39.5376568,
+            "lon": -119.8121809,
+            "tags": {
+                "museum": "nature",
+                "name": "Museum of Natural History",
+                "opening_hours": "09:00-16:00",
+                "operator": "University of Nevada, Reno",
+                "phone": "+1-775-784-1302",
+                "tourism": "museum",
+                "website": "https://www.unr.edu/natural-history"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Morrill_Hall%2C_2008-11-08.JPG/1280px-Morrill_Hall%2C_2008-11-08.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 4929860384,
+            "lat": 39.530005,
+            "lon": -119.8125636,
+            "tags": {
+                "addr:city": "Reno",
+                "addr:housenumber": "300",
+                "addr:postcode": "89501",
+                "addr:state": "NV",
+                "addr:street": "North Center Street",
+                "name": "International Bowling Museum & Hall of Fame",
+                "operator": "National Bowling Stadium",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/National_Bowling_Stadium%2C_Reno.JPG/1280px-National_Bowling_Stadium%2C_Reno.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 230472384,
+            "lat": 39.5216997,
+            "lon": -119.8089596,
+            "tags": {
+                "addr:city": "Reno",
+                "addr:housenumber": "490",
+                "addr:postcode": "89501",
+                "addr:state": "NV",
+                "addr:street": "South Center Street",
+                "building": "commercial",
+                "fee": "yes",
+                "museum": "children;science",
+                "name": "Terry Lee Wells Nevada Discovery Museum",
+                "opening_hours": "Tu,Th-Sa 10:00-17:00; We 10:00-20:00; Su 12:00-17:00",
+                "phone": "+17757861000",
+                "toilets": "yes",
+                "toilets:access": "customers",
+                "tourism": "museum",
+                "website": "https://nvdm.org/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Exterior_of_the_Terry_Lee_Wells_Nevada_Discovery_Museum.jpg/1280px-Exterior_of_the_Terry_Lee_Wells_Nevada_Discovery_Museum.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 369728721,
+            "lat": 39.5208351,
+            "lon": -119.8132517,
+            "tags": {
+                "addr:city": "Reno",
+                "addr:housenumber": "160",
+                "addr:postcode": "89501",
+                "addr:state": "NV",
+                "addr:street": "West Liberty Street",
+                "building": "yes",
+                "fee": "yes",
+                "name": "Nevada Museum of Art",
+                "tourism": "museum",
+                "website": "https://www.nevadaart.org/",
+                "wikidata": "Q14705238"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/JOSEPH_GIRAUD_HOUSE%2C_RENO%2C_WASHOE_COUNTY.jpg/1280px-JOSEPH_GIRAUD_HOUSE%2C_RENO%2C_WASHOE_COUNTY.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 1323925035,
+            "lat": 39.5281346,
+            "lon": -119.813659,
+            "tags": {
+                "advertising": "sign",
+                "inscription": "Reno The Biggest Little City in the World",
+                "layer": "1",
+                "luminous": "yes",
+                "name": "Reno Arch",
+                "operator": "City of Reno",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Reno_during_COVID_%2850306695522%29.jpg/1280px-Reno_during_COVID_%2850306695522%29.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 1350127617,
+            "lat": 39.5258341,
+            "lon": -119.8088632,
+            "tags": {
+                "addr:city": "Reno",
+                "addr:housenumber": "10",
+                "addr:postcode": "89501",
+                "addr:state": "NV",
+                "addr:street": "Lake Street",
+                "building": "yes",
+                "contact:phone": "+1 775-333-9300",
+                "max_level": "0",
+                "min_level": "0",
+                "name": "National Automobile Museum",
+                "opening_hours": "Mo-Sa 09:30-17:30; Su 10:00-16:00",
+                "tourism": "museum",
+                "website": "https://automuseum.org/",
+                "wikidata": "Q5558180",
+                "wikipedia": "en:National Automobile Museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/National_Automobile_Museum_Reno.jpg/1280px-National_Automobile_Museum_Reno.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 239274,
+            "lat": 39.53777778,
+            "lon": -119.81388889,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/University_of_Nevada%2C_Reno_logo.svg/1280px-University_of_Nevada%2C_Reno_logo.svg.png",
+            "description": "The University of Nevada, Reno (Nevada, the University of Nevada, or UNR) is a public land-grant research university in Reno, Nevada, United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "University of Nevada, Reno",
+                "wikipedia": "en:University of Nevada, Reno",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 124384,
+            "lat": 36.08194444,
+            "lon": -115.12472222,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Las_Vegas%2C_Planet_Hollywood.jpg/1280px-Las_Vegas%2C_Planet_Hollywood.jpg",
+            "description": "Paradise is an unincorporated town and census-designated place (CDP) in Clark County, Nevada, United States, adjacent to the city of Las Vegas.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Paradise, Nevada",
+                "wikipedia": "en:Paradise, Nevada",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 47737,
+            "lat": 36.1672,
+            "lon": -115.1486,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Las_Vegas_from_above_%2840064746644%29.jpg/1280px-Las_Vegas_from_above_%2840064746644%29.jpg",
+            "description": "Las Vegas, colloquially referred to as Vegas, is the most populous city in the U.S. state of Nevada and the seat of Clark County.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Las Vegas",
+                "wikipedia": "en:Las Vegas",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 31544997,
+            "lat": 39.521944,
+            "lon": -119.833056,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Food_Truck_Friday_at_Idlewild_Park%2C_Reno%2C_Nevada_-_28442376623.jpg/1280px-Food_Truck_Friday_at_Idlewild_Park%2C_Reno%2C_Nevada_-_28442376623.jpg",
+            "description": "Idlewild Park is a large, 49 acre community park close to downtown Reno, Nevada on the Truckee River.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Idlewild Park (Reno, Nevada)",
+                "wikipedia": "en:Idlewild Park (Reno, Nevada)",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 664039,
+            "lat": 39.3075,
+            "lon": -119.64833333,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Virginia_City%2C_Nevada.jpg/1280px-Virginia_City%2C_Nevada.jpg",
+            "description": "Virginia City is a historic town in Storey County, Nevada, United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Virginia City, Nevada",
+                "wikipedia": "en:Virginia City, Nevada",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 14308,
+            "lat": 36.01555556,
+            "lon": -114.73777778,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Ansel_Adams_-_National_Archives_79-AAB-01.jpg/1280px-Ansel_Adams_-_National_Archives_79-AAB-01.jpg",
+            "description": "The Hoover Dam is a concrete arch-gravity dam in the Black Canyon of the Colorado River, on the boundary between the U.S. states of Nevada and Arizona.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Hoover Dam",
+                "wikipedia": "en:Hoover Dam",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 7237525,
+            "lat": 39.474183,
+            "lon": -119.782476,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Meadowood_Mall%2C_Reno%2C_Nevada_%2818201371195%29.jpg/1280px-Meadowood_Mall%2C_Reno%2C_Nevada_%2818201371195%29.jpg",
+            "description": "Meadowood Mall is a one-level, 901,357-square-foot (83,738.8 m2) super-regional mall in Reno, Nevada, managed by Simon Property Group, which owns 50% of it.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Meadowood Mall",
+                "wikipedia": "en:Meadowood Mall",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 1404360,
+            "lat": 37.63916667,
+            "lon": -115.75416667,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Little_A%27Le%27Inn_Rachel_NV_2.jpg",
+            "description": "Rachel is a census-designated place (CDP) in Lincoln County, Nevada, United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Rachel, Nevada",
+                "wikipedia": "en:Rachel, Nevada",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 124417,
+            "lat": 40.83888889,
+            "lon": -115.74027778,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/2012-09-30_14_28_33_View_of_downtown_Elko_in_Nevada_from_a_bluff_to_the_south.jpg/1280px-2012-09-30_14_28_33_View_of_downtown_Elko_in_Nevada_from_a_bluff_to_the_south.jpg",
+            "description": "Elko is a city in and the county seat of Elko County, Nevada, United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Elko, Nevada",
+                "wikipedia": "en:Elko, Nevada",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 140899,
+            "lat": 39,
+            "lon": -120,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Tahoe_North_Shore_from_the_East_Shore.jpg/1280px-Tahoe_North_Shore_from_the_East_Shore.jpg",
+            "description": "Lake Tahoe () is a freshwater lake in the Sierra Nevada of the Western United States, straddling the border between California and Nevada.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Lake Tahoe",
+                "wikipedia": "en:Lake Tahoe",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 1043247,
+            "lat": 36.90388889,
+            "lon": -116.82916667,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Rhyolite2.jpg/1280px-Rhyolite2.jpg",
+            "description": "Rhyolite is a ghost town in Nye County, Nevada, United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Rhyolite, Nevada",
+                "wikipedia": "en:Rhyolite, Nevada",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 1617143,
+            "lat": 36.17083333,
+            "lon": -115.14416667,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/LasVegas-FremontStreet.jpg/1280px-LasVegas-FremontStreet.jpg",
+            "description": "The Fremont Street Experience (FSE) is a pedestrian mall and attraction in downtown Las Vegas, Nevada.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Fremont Street Experience",
+                "wikipedia": "en:Fremont Street Experience",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 12049177,
+            "lat": 39.31027778,
+            "lon": -119.64944444,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/19/Virginia_City_Nevada_USA.jpg",
+            "description": "Virginia City Historic District is a National Historic Landmark District encompassing the former mining villages of Virginia City and Gold Hill, both in Storey County, as well as Dayton and Silver City, both to the south in adjacent Lyon County, Nevada, United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Virginia City Historic District (Virginia City, Nevada)",
+                "wikipedia": "en:Virginia City Historic District (Virginia City, Nevada)",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 742340,
+            "lat": 36.13361111,
+            "lon": -115.16583333,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Stardust_Hotel_And_Casino.jpg/1280px-Stardust_Hotel_And_Casino.jpg",
+            "description": "The Stardust Resort and Casino was a casino resort located on 60 acres (24 ha) along the Las Vegas Strip in Winchester, Nevada.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Stardust Resort and Casino",
+                "wikipedia": "en:Stardust Resort and Casino",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 124364,
+            "lat": 36.03333333,
+            "lon": -114.98333333,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Lake_Las_Vegas_aerial_view.jpg/1280px-Lake_Las_Vegas_aerial_view.jpg",
+            "description": "Henderson is a city in Clark County, Nevada, United States, about 16 miles (26 km) southeast of  Las Vegas.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Henderson, Nevada",
+                "wikipedia": "en:Henderson, Nevada",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 357074,
+            "lat": 36.25,
+            "lon": -114.39,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Lake_Mead_in_July_2022_by_Landsat.jpg/1280px-Lake_Mead_in_July_2022_by_Landsat.jpg",
+            "description": "Lake Mead is a reservoir formed by the Hoover Dam on the Colorado River in the Southwestern United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Lake Mead",
+                "wikipedia": "en:Lake Mead",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 124454,
+            "lat": 40.18,
+            "lon": -118.47666667,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Lovelock_Nevada_-_aerial.jpg/1280px-Lovelock_Nevada_-_aerial.jpg",
+            "description": "Lovelock is the county seat of Pershing County, Nevada, United States, in which it is the only incorporated city.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Lovelock, Nevada",
+                "wikipedia": "en:Lovelock, Nevada",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 16737164,
+            "lat": 39.32916667,
+            "lon": -119.88583333,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Mount_Rose_Ski_Tahoe_-_panoramio_%281%29.jpg/1280px-Mount_Rose_Ski_Tahoe_-_panoramio_%281%29.jpg",
+            "description": "Mount Rose Ski Tahoe (commonly known as Mount Rose) is a ski resort in Nevada, United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Mount Rose Ski Tahoe",
+                "wikipedia": "en:Mount Rose Ski Tahoe",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 1160716,
+            "lat": 37.79111111,
+            "lon": -114.38888889,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/View_E%2C_Main_Street%2C_Panaca%2C_NV%2C_2012_-_panoramio.jpg/1280px-View_E%2C_Main_Street%2C_Panaca%2C_NV%2C_2012_-_panoramio.jpg",
+            "description": "Panaca is an unincorporated town in eastern Lincoln County, Nevada, United States, on State Route 319, about 1 mile (1.6 kilometers) east of U.S. Route 93, near the border with Utah.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Panaca, Nevada",
+                "wikipedia": "en:Panaca, Nevada",
+                "tourism": "attraction"
+            }
+        }
+    ]
+}

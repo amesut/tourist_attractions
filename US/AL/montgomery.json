@@ -1,0 +1,534 @@
+{
+    "city_metadata": {
+        "city_name": "Montgomery",
+        "state_code": "AL",
+        "state_full": "Alabama",
+        "city_summary": "Montgomery is the capital city of the U.S. state of Alabama and the seat of Montgomery County. It was named for Continental Army Major-General Richard Montgomery and stands beside the Alabama River on the Gulf Coastal Plain.\nThe population was 200,603 at the 2020 census.",
+        "city_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Aerial_view_of_Montgomery%2C_Alabama_LCCN2011646683.jpg/1280px-Aerial_view_of_Montgomery%2C_Alabama_LCCN2011646683.jpg",
+        "city_lat": 32.3675,
+        "city_lon": -86.3,
+        "source": "wikipedia_verified_engine"
+    },
+    "attractions": [
+        {
+            "type": "node",
+            "id": 1420524958,
+            "lat": 32.3767064,
+            "lon": -86.311225,
+            "tags": {
+                "addr:city": "Montgomery",
+                "addr:postcode": "36104",
+                "addr:state": "AL",
+                "name": "Rosa Parks Library and Museum",
+                "tourism": "museum",
+                "website": "https://www.troy.edu/student-life-resources/arts-culture/rosa-parks-museum/index.html"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Rosa_Parks_Library_and_Museum.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 1421455902,
+            "lat": 32.36811,
+            "lon": -86.2873739,
+            "tags": {
+                "name": "W. A. Gayle Planetarium",
+                "source": "Bing",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Front_of_W._A._Gayle_Planetarium.jpg/1280px-Front_of_W._A._Gayle_Planetarium.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 1427520471,
+            "lat": 32.3818065,
+            "lon": -86.3140399,
+            "tags": {
+                "addr:city": "Montgomery",
+                "addr:housenumber": "255",
+                "addr:postcode": "36104",
+                "addr:state": "AL",
+                "addr:street": "Commerce Street",
+                "attraction": "boat_ride",
+                "name": "Harriott II Riverboat",
+                "operator": "City of Montgomery",
+                "phone": "+1-334-625-2100",
+                "source": "Bing",
+                "tourism": "attraction",
+                "website": "https://www.funinmontgomery.com/Home/Components/FacilityDirectory/FacilityDirectory/224/3052"
+            }
+        },
+        {
+            "type": "node",
+            "id": 5621495281,
+            "lat": 52.5607246,
+            "lon": -3.1484469,
+            "tags": {
+                "name": "Cloverlands Model Car Collection",
+                "tourism": "museum",
+                "website": "https://fbhvc.co.uk/museums/cloverlands-model-car-museum",
+                "wikidata": "Q113370296"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Old_Bell_Museum_Exterior.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 6456553549,
+            "lat": 32.379818,
+            "lon": -86.3111165,
+            "tags": {
+                "name": "Escapology Montgomery",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Steiner-Lobman-Teague_03.jpg/1280px-Steiner-Lobman-Teague_03.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 12553864083,
+            "lat": 52.5606717,
+            "lon": -3.1489161,
+            "tags": {
+                "fee": "yes",
+                "name": "The Old Bell Museum",
+                "tourism": "museum",
+                "wikidata": "Q20713381",
+                "wikipedia": "en:The Old Bell Museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Old_Bell_Museum_Exterior.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 39242293,
+            "lat": 39.2272978,
+            "lon": -84.354196,
+            "tags": {
+                "addr:city": "Cincinnati",
+                "addr:housenumber": "9440",
+                "addr:postcode": "45242",
+                "addr:state": "OH",
+                "addr:street": "Montgomery Road",
+                "amenity": "restaurant",
+                "brand:wikipedia": "en:Montgomery Inn",
+                "building": "yes",
+                "cuisine": "ribs;american",
+                "name": "Montgomery Inn",
+                "opening_hours": "Mo-Fr 11:00-22:30; Sa 15:00-23:00; Su 15:00-21:30",
+                "phone": "+1-513-791-3482",
+                "tourism": "attraction",
+                "website": "https://www.montgomeryinn.com/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Universalist_Church_Historic_District_Montgomery_OH_USA.JPG/1280px-Universalist_Church_Historic_District_Montgomery_OH_USA.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 95131775,
+            "lat": 32.3761269,
+            "lon": -86.3032781,
+            "tags": {
+                "addr:city": "Montgomery",
+                "addr:housenumber": "400",
+                "addr:postcode": "36104",
+                "addr:state": "AL",
+                "addr:street": "Washington Avenue",
+                "building": "yes",
+                "name": "Civil Rights Memorial Center",
+                "source": "bing",
+                "tourism": "museum",
+                "wikidata": "Q2974874",
+                "wikipedia": "en:Civil Rights Memorial"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Montgomery_Civil_Rights_Memorial.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 128573048,
+            "lat": 32.3746295,
+            "lon": -86.309111,
+            "tags": {
+                "building": "yes",
+                "historic": "yes",
+                "name": "Greyhound Bus Station;Freedom Rides Museum",
+                "source": "Bing",
+                "tourism": "museum",
+                "website": "https://ahc.alabama.gov/properties/freedomrides/freedomrides.aspx",
+                "wikidata": "Q5608420"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Old_Montgomery_Greyhound_Station_May2009.jpg/1280px-Old_Montgomery_Greyhound_Station_May2009.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 128681693,
+            "lat": 32.3761406,
+            "lon": -86.2999377,
+            "tags": {
+                "addr:state": "AL",
+                "building": "yes",
+                "ele": "83",
+                "gnis:feature_id": "142541",
+                "name": "First White House of the Confederacy",
+                "tourism": "museum",
+                "wikidata": "Q5454078",
+                "wikipedia": "en:First White House of the Confederacy"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/First_White_House_of_the_Confederacy%2C_Montgomery%2C_North_view_20160713_1.jpg/1280px-First_White_House_of_the_Confederacy%2C_Montgomery%2C_North_view_20160713_1.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 128681794,
+            "lat": 32.4056147,
+            "lon": -86.2699497,
+            "tags": {
+                "area": "yes",
+                "name": "Alabama Agricultural Center",
+                "source": "Bing",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Garrett_Coliseum_Feb_2010_01.jpg/1280px-Garrett_Coliseum_Feb_2010_01.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 128681797,
+            "lat": 32.4204533,
+            "lon": -86.2774147,
+            "tags": {
+                "leisure": "park",
+                "name": "Montgomery Zoo",
+                "source": "Bing",
+                "tourism": "zoo",
+                "wikidata": "Q6905834"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Montgomery_Zoo%2C_Montgomery%2C_Alabama_LCCN2010637637.tif/lossy-page1-1280px-Montgomery_Zoo%2C_Montgomery%2C_Alabama_LCCN2010637637.tif.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 129382639,
+            "lat": 32.3509776,
+            "lon": -86.206472,
+            "tags": {
+                "addr:city": "Montgomery",
+                "addr:housenumber": "1",
+                "addr:postcode": "36117",
+                "addr:state": "AL",
+                "addr:street": "Museum Drive",
+                "building": "yes",
+                "museum": "art",
+                "name": "Montgomery Museum of Fine Arts",
+                "tourism": "museum",
+                "website": "https://mmfa.org/",
+                "wikidata": "Q1946291",
+                "wikipedia": "en:Montgomery Museum of Fine Arts"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Montgomery_Museum_of_Fine_Arts_01.jpg/1280px-Montgomery_Museum_of_Fine_Arts_01.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 540511562,
+            "lat": 32.360264,
+            "lon": -86.2895482,
+            "tags": {
+                "building": "yes",
+                "name": "Center for the Study of Civil Rights and African-American Culture",
+                "office": "educational_institution",
+                "operator": "Alabama State University",
+                "tourism": "museum",
+                "website": "http://www.lib.alasu.edu/natctr/"
+            }
+        },
+        {
+            "type": "way",
+            "id": 572752294,
+            "lat": 31.9528581,
+            "lon": -81.0902854,
+            "tags": {
+                "addr:city": "Savannah",
+                "addr:housenumber": "9924",
+                "addr:postcode": "31401",
+                "addr:state": "GA",
+                "addr:street": "Pin Point Avenue",
+                "check_date:opening_hours": "2023-02-20",
+                "fee": "yes",
+                "name": "Pin Point Heritage Museum",
+                "opening_hours": "Th-Sa 09:00-16:00; Jan 01,Dec 25 off; Nov Th[4] off",
+                "tourism": "museum",
+                "website": "https://www.chsgeorgia.org/PHM/"
+            }
+        },
+        {
+            "type": "way",
+            "id": 611926111,
+            "lat": 32.3587277,
+            "lon": -86.2923011,
+            "tags": {
+                "addr:city": "Montgomery",
+                "addr:housenumber": "919",
+                "addr:postcode": "36106",
+                "addr:state": "AL",
+                "addr:street": "Felder Avenue",
+                "building": "yes",
+                "name": "F. Scott & Zelda Fitzgerald Museum",
+                "opening_hours": "Tu-Su 10:00-15:00",
+                "tourism": "museum",
+                "website": "https://www.thefitzgeraldmuseum.org/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/F._Scott_Fitzgerald_and_his_wife_Zelda_leased_a_home_at_919_Felder_near_Zelda%27s_parents_in_Montgomery%2C_Alabama_LCCN2010637647.tif/lossy-page1-1280px-F._Scott_Fitzgerald_and_his_wife_Zelda_leased_a_home_at_919_Felder_near_Zelda%27s_parents_in_Montgomery%2C_Alabama_LCCN2010637647.tif.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 687885013,
+            "lat": 32.3730347,
+            "lon": -86.2960476,
+            "tags": {
+                "building": "yes",
+                "name": "Dexter Parsonage Museum",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Dexter_Baptist_Pastorium_Apr2009_01.jpg/1280px-Dexter_Baptist_Pastorium_Apr2009_01.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 687885014,
+            "lat": 32.373176,
+            "lon": -86.2960927,
+            "tags": {
+                "building": "yes",
+                "name": "Dexter Parsonage Interpretive Center",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Dexter_Baptist_Pastorium_Apr2009_01.jpg/1280px-Dexter_Baptist_Pastorium_Apr2009_01.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 688506995,
+            "lat": 32.3794803,
+            "lon": -86.3106763,
+            "tags": {
+                "addr:city": "Montgomery",
+                "addr:housenumber": "118",
+                "addr:postcode": "36104",
+                "addr:state": "AL",
+                "addr:street": "Commerce Street",
+                "building": "yes",
+                "fee": "yes",
+                "name": "Hank Williams Museum",
+                "opening_hours": "Mo 10:00-16:00; Tu-Sa 09:00-16:00; Su 13:00-16:00",
+                "phone": "+1 334-262-3600",
+                "tourism": "museum",
+                "website": "https://www.thehankwilliamsmuseum.net/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/The_Legacy_Museum_Lobby_at_The_Legacy_Museum_-_From_Enslavement_to_Mass_Incarceration.jpg/1280px-The_Legacy_Museum_Lobby_at_The_Legacy_Museum_-_From_Enslavement_to_Mass_Incarceration.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 688507000,
+            "lat": 32.3798347,
+            "lon": -86.3103689,
+            "tags": {
+                "building": "yes",
+                "name": "The Legacy Museum: From Enslavement to Mass Incarceration",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/The_Legacy_Museum_Lobby_at_The_Legacy_Museum_-_From_Enslavement_to_Mass_Incarceration.jpg/1280px-The_Legacy_Museum_Lobby_at_The_Legacy_Museum_-_From_Enslavement_to_Mass_Incarceration.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 810162094,
+            "lat": 32.4179173,
+            "lon": -86.2780485,
+            "tags": {
+                "building": "yes",
+                "name": "Mann Wildlife Learning Museum",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Montgomery_Zoo%2C_Montgomery%2C_Alabama_LCCN2010637637.tif/lossy-page1-1280px-Montgomery_Zoo%2C_Montgomery%2C_Alabama_LCCN2010637637.tif.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 826340808,
+            "lat": 32.3824835,
+            "lon": -86.3083307,
+            "tags": {
+                "addr:city": "Montgomery",
+                "addr:housenumber": "400",
+                "addr:postcode": "36104",
+                "addr:state": "AL",
+                "addr:street": "North Court Street",
+                "building": "yes",
+                "name": "The Legacy Museum",
+                "tourism": "museum",
+                "website": "https://museumandmemorial.eji.org/visit",
+                "wikidata": "Q52162112",
+                "wikipedia": "en:The_Legacy_Museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/The_Legacy_Museum_Lobby_at_The_Legacy_Museum_-_From_Enslavement_to_Mass_Incarceration.jpg/1280px-The_Legacy_Museum_Lobby_at_The_Legacy_Museum_-_From_Enslavement_to_Mass_Incarceration.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 828316304,
+            "lat": 32.3726909,
+            "lon": -86.2960085,
+            "tags": {
+                "addr:city": "Montgomery",
+                "addr:housenumber": "333",
+                "addr:postcode": "36104",
+                "addr:state": "AL",
+                "addr:street": "South Jackson Street",
+                "building": "yes",
+                "museum": "history",
+                "name": "Dr. Richard Harris House",
+                "opening_hours": "Tu-Sa 10:00-16:00",
+                "phone": "+1 334 220 9979",
+                "tourism": "museum",
+                "website": "https://richardharrishouse.com"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Dexter_Baptist_Pastorium_Apr2009_01.jpg/1280px-Dexter_Baptist_Pastorium_Apr2009_01.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 841875137,
+            "lat": 32.3769531,
+            "lon": -86.3004459,
+            "tags": {
+                "name": "Avenue of Flags",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Alabama_State_Capitol%2C_Montgomery%2C_West_view_20160713_1.jpg/1280px-Alabama_State_Capitol%2C_Montgomery%2C_West_view_20160713_1.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 967879573,
+            "lat": 44.9032609,
+            "lon": -72.6397182,
+            "tags": {
+                "alt_name": "Blackfalls Covered Bridge",
+                "bridge": "covered",
+                "layer": "1",
+                "length": "15.09",
+                "man_made": "bridge",
+                "name": "Fuller Covered Bridge",
+                "tourism": "attraction",
+                "width": "5",
+                "wikidata": "Q5508244",
+                "wikipedia": "en:Fuller Covered Bridge"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Fuller_Covered_Bridge.jpg/1280px-Fuller_Covered_Bridge.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 1028142995,
+            "lat": 44.858584,
+            "lon": -72.6125588,
+            "tags": {
+                "attraction": "historic",
+                "covered": "yes",
+                "historic": "bridge",
+                "layer": "1",
+                "man_made": "bridge",
+                "name": "Hutchins Covered Bridge",
+                "start_date": "1883",
+                "tourism": "attraction",
+                "wikidata": "Q5950607",
+                "wikipedia": "en:Hutchins Covered Bridge"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/HutchinsBridge%28new%29.JPG/1280px-HutchinsBridge%28new%29.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 1028147668,
+            "lat": 44.8676772,
+            "lon": -72.6479505,
+            "tags": {
+                "heritage": "2",
+                "heritage:operator": "nrhp",
+                "historic": "yes",
+                "layer": "1",
+                "man_made": "bridge",
+                "maxheight": "2.87",
+                "maxweight": "7.2",
+                "name": "West Hill Covered Bridge",
+                "start_date": "1883",
+                "tourism": "attraction",
+                "wikidata": "Q7985380",
+                "wikipedia": "en:West Hill Covered Bridge"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/CreameryBridge.JPG/1280px-CreameryBridge.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 1038791200,
+            "lat": 44.9072372,
+            "lon": -72.6556117,
+            "tags": {
+                "attraction": "historic",
+                "bridge": "covered",
+                "historic": "yes",
+                "layer": "1",
+                "man_made": "bridge",
+                "name": "Longley Covered Bridge",
+                "tourism": "attraction",
+                "wikidata": "Q6674073",
+                "wikipedia": "en:Longley Covered Bridge"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/LongleyBridge.JPG/1280px-LongleyBridge.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 1038791204,
+            "lat": 44.8996622,
+            "lon": -72.6446364,
+            "tags": {
+                "bridge": "covered",
+                "historic": "yes",
+                "layer": "1",
+                "man_made": "bridge",
+                "name": "Comstock Covered Bridge",
+                "tourism": "attraction",
+                "wikidata": "Q5157693",
+                "wikipedia": "en:Comstock Covered Bridge (Montgomery, Vermont)"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ComstockBridge.JPG/1280px-ComstockBridge.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 1279569904,
+            "lat": 32.4038105,
+            "lon": -86.2492859,
+            "tags": {
+                "addr:city": "Maxwell-Gunter Annex",
+                "addr:housenumber": "550",
+                "addr:postcode": "36115",
+                "addr:state": "AL",
+                "addr:street": "McDonald St",
+                "addr:unit": "Bldg 1210",
+                "building": "yes",
+                "name": "Air Force Enlisted Heritage Hall",
+                "ref": "1210",
+                "tourism": "museum"
+            }
+        }
+    ]
+}

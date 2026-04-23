@@ -1,0 +1,654 @@
+{
+    "city_metadata": {
+        "city_name": "Concord",
+        "state_code": "NH",
+        "state_full": "New Hampshire",
+        "city_summary": "Concord () is the capital city of the U.S. state of New Hampshire, and the seat of Merrimack County. As of the 2020 census, the population was 43,976, making it the 3rd most populous city in the state, after Manchester and Nashua.\nThe area was first settled by Europeans in 1659.",
+        "city_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/New_Hampshire_State_House_6.JPG/1280px-New_Hampshire_State_House_6.JPG",
+        "city_lat": 43.20666667,
+        "city_lon": -71.53805556,
+        "source": "wikipedia_verified_engine"
+    },
+    "attractions": [
+        {
+            "type": "node",
+            "id": 366495284,
+            "lat": 43.2072801,
+            "lon": -71.5355716,
+            "tags": {
+                "addr:state": "NH",
+                "ele": "82",
+                "gnis:feature_id": "1917190",
+                "import_uuid": "gnis.57871b70-0100-4405-bb30-88b2e001a944",
+                "name": "Museum of the New Hampshire Historical Society",
+                "source": "USGS Geonames",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Lake_Winnipesaukee_mystery_stone_at_the_New_Hampshire_Historical_Society%2C_Concord_NH.jpg/1280px-Lake_Winnipesaukee_mystery_stone_at_the_New_Hampshire_Historical_Society%2C_Concord_NH.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 4447535290,
+            "lat": 42.4431706,
+            "lon": -71.3402107,
+            "tags": {
+                "historic": "boundary_stone",
+                "name": "Thoreau Bean Field",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Walden_Pond_outlook.jpg/1280px-Walden_Pond_outlook.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 4782299767,
+            "lat": 37.9736445,
+            "lon": -122.03531,
+            "tags": {
+                "name": "Concord Historical Museum",
+                "tourism": "museum",
+                "website": "https://www.concordhistorical.org/"
+            }
+        },
+        {
+            "type": "node",
+            "id": 5113023151,
+            "lat": 42.4651117,
+            "lon": -71.3584698,
+            "tags": {
+                "ele": "36",
+                "gnis:feature_id": "617309",
+                "name": "Egg Rock",
+                "natural": "rock",
+                "tourism": "attraction",
+                "wikidata": "Q5347824",
+                "wikipedia": "en:Egg Rock"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Egg_Rock_1904.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 6217094413,
+            "lat": 44.428508,
+            "lon": -71.8865647,
+            "tags": {
+                "name": "Concord Museum",
+                "tourism": "museum",
+                "website": "https://concordmuseum.org/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Concord_VT_8-16-2025b.jpg/1280px-Concord_VT_8-16-2025b.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 7077777337,
+            "lat": 42.4568702,
+            "lon": -71.3926477,
+            "tags": {
+                "name": "Diamond Crossing",
+                "railway": "railway_crossing",
+                "tourism": "attraction",
+                "wikimedia_commons": "File:Former_diamond_at_West_Concord_station,_May_2017.JPG"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Outbound_train_at_West_Concord_station%2C_May_2017.JPG/1280px-Outbound_train_at_West_Concord_station%2C_May_2017.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 7124980944,
+            "lat": 43.2098608,
+            "lon": -71.5401734,
+            "tags": {
+                "addr:city": "Concord",
+                "addr:housenumber": "62",
+                "addr:state": "NH",
+                "addr:street": "North State Street",
+                "name": "Mary Baker Eddy House",
+                "operator": "Longyear Museum",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f2/ConcordNH_FosterAndCleavesHouses.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 9061025843,
+            "lat": 43.2240971,
+            "lon": -71.5330625,
+            "tags": {
+                "name": "Mercury-Redstone Plaza",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b2/McAuliffeShepardDiscoveryCenter.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 13254466917,
+            "lat": 42.4592036,
+            "lon": -71.3350477,
+            "tags": {
+                "name": "Little Women House",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Alcott_school_of_philosophy.jpeg/1280px-Alcott_school_of_philosophy.jpeg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 31198945,
+            "lat": 37.9741351,
+            "lon": -122.0505119,
+            "tags": {
+                "addr:city": "Concord",
+                "addr:housenumber": "1950",
+                "addr:street": "Waterworld Parkway",
+                "leisure": "water_park",
+                "name": "Hurricane Harbor",
+                "operator": "Six Flags Entertainment Corporation",
+                "source": "http://static.sixflags.com/website/files/hhco_park-map.pdf",
+                "tourism": "attraction",
+                "website": "https://www.sixflags.com/hurricaneharborconcord",
+                "wikidata": "Q14684248",
+                "wikipedia": "en:Six Flags Hurricane Harbor Concord"
+            }
+        },
+        {
+            "type": "way",
+            "id": 114625592,
+            "lat": 37.9894474,
+            "lon": -122.0218073,
+            "tags": {
+                "ALAND": "13853",
+                "AREAID": "110169761424",
+                "AWATER": "0",
+                "COUNTYFP": "013",
+                "MTFCC": "K2180",
+                "STATEFP": "06",
+                "Tiger:MTFCC": "K2180",
+                "name": "Pixieland Amusement Park",
+                "source": "Tiger2009",
+                "tourism": "theme_park",
+                "website": "https://www.pixieland.com/"
+            }
+        },
+        {
+            "type": "way",
+            "id": 128879264,
+            "lat": 42.4407416,
+            "lon": -71.3818079,
+            "tags": {
+                "addr:city": "Concord",
+                "addr:housenumber": "64B",
+                "addr:postcode": "01742",
+                "addr:state": "MA",
+                "addr:street": "Old Road to Nine Acre Corner",
+                "building": "yes",
+                "name": "Ayshire Horse Farm",
+                "tourism": "attraction",
+                "website": "https://www.arrowheadfarminc.com/about.html"
+            }
+        },
+        {
+            "type": "way",
+            "id": 137258270,
+            "lat": 35.3609103,
+            "lon": -80.6872175,
+            "tags": {
+                "addr:city": "Concord",
+                "addr:housenumber": "5555",
+                "addr:postcode": "28027",
+                "addr:state": "NC",
+                "addr:street": "Concord Pkwy S",
+                "area": "yes",
+                "name": "zMAX Dragway",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Lowe%27s_Motor_Speedway_zMax_Drag_Strip.jpg/1280px-Lowe%27s_Motor_Speedway_zMax_Drag_Strip.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 139813557,
+            "lat": 42.4408401,
+            "lon": -71.3348539,
+            "tags": {
+                "building": "yes",
+                "fee": "no",
+                "name": "Thoreau Cabin replica",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Walden_Pond_outlook.jpg/1280px-Walden_Pond_outlook.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 174458879,
+            "lat": 37.9896959,
+            "lon": -122.0218862,
+            "tags": {
+                "name": "Tea Cups",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "way",
+            "id": 174458882,
+            "lat": 37.9896141,
+            "lon": -122.0219935,
+            "tags": {
+                "name": "Frog Hopper",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "way",
+            "id": 174458887,
+            "lat": 37.9892801,
+            "lon": -122.0217503,
+            "tags": {
+                "name": "Red Baron Airplanes",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "way",
+            "id": 174461645,
+            "lat": 37.989335,
+            "lon": -122.0216368,
+            "tags": {
+                "landuse": "grass",
+                "name": "Windy Grove Cars",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "way",
+            "id": 174461648,
+            "lat": 37.9896877,
+            "lon": -122.0216509,
+            "tags": {
+                "name": "Dragon Roller Coaster",
+                "source": "http://www.pixieland.com/Our_Rides.html",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "way",
+            "id": 190836755,
+            "lat": 43.2072452,
+            "lon": -71.5395029,
+            "tags": {
+                "addr:city": "Concord",
+                "addr:housenumber": "30",
+                "addr:postcode": "03301",
+                "addr:state": "NH",
+                "addr:street": "Park Street",
+                "building": "yes",
+                "name": "New Hampshire Historical Society",
+                "opening_hours": "Tu-Sa 09:30-17:00",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/New_Hampshire_Historical_Society_headquarters_and_library.jpg/1280px-New_Hampshire_Historical_Society_headquarters_and_library.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 212581928,
+            "lat": 42.4687772,
+            "lon": -71.3111067,
+            "tags": {
+                "addr:city": "Concord",
+                "addr:housenumber": "341",
+                "addr:postcode": "01742",
+                "addr:state": "MA",
+                "addr:street": "Virginia Road",
+                "alt_name": "Wheeler-Minot Farmhouse",
+                "alt_name:es": "Hacienda Wheeler-Minot",
+                "building": "yes",
+                "building:architecture": "Colonial, Georgiana",
+                "email": "info@thoreaufarm.org",
+                "heritage": "2",
+                "heritage:operator": "nrhp",
+                "historic": "building",
+                "name": "Thoreau Farm - Birthplace of Henry David Thoreau",
+                "name:en": "Thoreau Farm - Birthplace of Henry David Thoreau",
+                "name:es": "Granja Thoreau - Lugar de nacimiento de Henry David Thoreau",
+                "name:etymology:wikidata": "Q131149",
+                "nrhp:criteria": "C",
+                "nrhp:inscription_date": "2004-03-18",
+                "ref:nrhp": "4000190",
+                "start_date": "1730",
+                "tourism": "attraction",
+                "website": "https://thoreaufarm.org/",
+                "wikidata": "Q6948294",
+                "wikipedia": "en:Wheeler-Minot Farmhouse"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Wheeler-Minot_Farmhouse%2C_Concord_MA.jpg/1280px-Wheeler-Minot_Farmhouse%2C_Concord_MA.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 212582895,
+            "lat": 42.4590866,
+            "lon": -71.3350763,
+            "tags": {
+                "addr:city": "Concord",
+                "addr:country": "US",
+                "addr:housenumber": "399",
+                "addr:postcode": "01742",
+                "addr:state": "MA",
+                "addr:street": "Lexington Road",
+                "building": "yes",
+                "gnis:feature_id": "1973434;598649",
+                "internet_access": "wlan",
+                "name": "Orchard House Museum",
+                "old_name": "Orchard House",
+                "opening_hours": "Mo-Sa 10:00-16:30, Su 11:00-16:30",
+                "operator": "Louisa May Alcott's Orchard House, Inc.",
+                "source": "USGS Geonames",
+                "tourism": "museum",
+                "wikidata": "Q7100190",
+                "wikipedia": "en:Orchard House"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Orchard_House_from_Little_Women.jpeg/1280px-Orchard_House_from_Little_Women.jpeg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 212582908,
+            "lat": 42.4591831,
+            "lon": -71.3353819,
+            "tags": {
+                "addr:city": "Concord",
+                "addr:postcode": "01742",
+                "addr:state": "MA",
+                "building": "yes",
+                "name": "Bronson Alcott School of Philosophy",
+                "tourism": "museum",
+                "wikidata": "Q5158860",
+                "wikipedia": "en:Concord School of Philosophy"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Alcott_school_of_philosophy.jpeg/1280px-Alcott_school_of_philosophy.jpeg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 212582944,
+            "lat": 42.4589687,
+            "lon": -71.3362196,
+            "tags": {
+                "addr:city": "Concord",
+                "addr:country": "US",
+                "addr:housenumber": "375",
+                "addr:postcode": "01742",
+                "addr:state": "MA",
+                "addr:street": "Lexington Road",
+                "building": "yes",
+                "name": "Orchard House Business Office",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Orchard_House_from_Little_Women.jpeg/1280px-Orchard_House_from_Little_Women.jpeg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 212583263,
+            "lat": 42.4576266,
+            "lon": -71.3434311,
+            "tags": {
+                "addr:housenumber": "18",
+                "addr:street": "Cambridge Turnpike",
+                "building": "yes",
+                "building:levels": "2",
+                "ele": "42",
+                "gnis:feature_id": "598648",
+                "heritage": "2",
+                "heritage:operator": "nrhp",
+                "historic": "house",
+                "museum": "house",
+                "name": "Ralph Waldo Emerson House",
+                "nrhp:inscription_date": "1966-10-15",
+                "nrhp:nhl": "yes",
+                "phone": "+1-978-369-2236",
+                "ref:nrhp": "66000365",
+                "start_date": "1828",
+                "tourism": "museum",
+                "website": "https://www.ralphwaldoemersonhouse.org/",
+                "wikidata": "Q7288218",
+                "wikipedia": "en:Ralph Waldo Emerson House"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Ralph_Waldo_Emerson_House_%28Concord%2C_MA%29.JPG/1280px-Ralph_Waldo_Emerson_House_%28Concord%2C_MA%29.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 212586007,
+            "lat": 42.4388892,
+            "lon": -71.3787368,
+            "tags": {
+                "addr:city": "Concord",
+                "addr:housenumber": "429",
+                "addr:place": "Captain Miles House",
+                "addr:postcode": "01742",
+                "addr:state": "MA",
+                "addr:street": "Williams Road",
+                "building": "yes",
+                "name": "Captain Miles House",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "way",
+            "id": 212586178,
+            "lat": 42.4729232,
+            "lon": -71.3807775,
+            "tags": {
+                "access": "no",
+                "addr:city": "Concord",
+                "addr:country": "US",
+                "addr:housenumber": "448",
+                "addr:postcode": "01742",
+                "addr:state": "MA",
+                "addr:street": "Barretts Mill Road",
+                "building": "yes",
+                "historic": "yes",
+                "name": "Colonel Barrett House",
+                "tourism": "attraction",
+                "wikidata": "Q5141768",
+                "wikipedia": "en:Col. James Barrett Farm"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Colonel_James_Barrett_House.jpg/1280px-Colonel_James_Barrett_House.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 239363438,
+            "lat": 42.4683152,
+            "lon": -71.3492372,
+            "tags": {
+                "addr:city": "Concord",
+                "addr:country": "US",
+                "addr:housenumber": "269",
+                "addr:postcode": "01742",
+                "addr:state": "MA",
+                "addr:street": "Monument Street",
+                "building": "yes",
+                "historic": "building",
+                "name": "Old Manse",
+                "source": "USGS Geonames",
+                "tourism": "attraction",
+                "wikidata": "Q4439852"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Old_Manse_from_afar.jpg/1280px-Old_Manse_from_afar.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 247250768,
+            "lat": 43.2243598,
+            "lon": -71.5324395,
+            "tags": {
+                "addr:city": "Concord",
+                "addr:housenumber": "2",
+                "addr:postcode": "03301",
+                "addr:state": "NH",
+                "addr:street": "Institute Drive",
+                "building": "yes",
+                "building:levels": "2",
+                "name": "McAuliffe-Shepard Discovery Center",
+                "name:etymology:wikidata": "Q229674;Q174979",
+                "tourism": "museum",
+                "wikidata": "Q6800008",
+                "wikipedia": "en:McAuliffe-Shepard Discovery Center"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b2/McAuliffeShepardDiscoveryCenter.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 373908765,
+            "lat": 42.4420758,
+            "lon": -71.3424746,
+            "tags": {
+                "access": "yes",
+                "addr:city": "Concord",
+                "addr:postcode": "01742",
+                "addr:state": "MA",
+                "historic": "archaeological_site",
+                "name": "Thoreau Cabin site",
+                "source": "USGS Geonames",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Walden_Pond_outlook.jpg/1280px-Walden_Pond_outlook.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 376300909,
+            "lat": 42.4935191,
+            "lon": -71.35543,
+            "tags": {
+                "historic": "archaeological_site",
+                "landuse": "quarry",
+                "name": "Limestone quarries",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Estabrook_Woods_pond_P1100146.jpg/1280px-Estabrook_Woods_pond_P1100146.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 377642447,
+            "lat": 42.4911546,
+            "lon": -71.354305,
+            "tags": {
+                "name": "Lime Kiln Ruins",
+                "ruins": "yes",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Estabrook_Woods_pond_P1100146.jpg/1280px-Estabrook_Woods_pond_P1100146.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 377642448,
+            "lat": 42.4883447,
+            "lon": -71.3495498,
+            "tags": {
+                "name": "Saw Mill Ruin",
+                "ruins": "yes",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "way",
+            "id": 467085801,
+            "lat": 37.9733912,
+            "lon": -122.0347552,
+            "tags": {
+                "addr:city": "Concord",
+                "addr:housenumber": "1721",
+                "addr:postcode": "94520",
+                "addr:state": "CA",
+                "addr:street": "Amador Avenue",
+                "building": "yes",
+                "name": "Galindo House and Gardens",
+                "tourism": "museum",
+                "website": "https://concordhistorical.org/visit-us/galindo/",
+                "wikidata": "Q5292628",
+                "wikipedia": "en:Don Francisco Galindo House"
+            }
+        },
+        {
+            "type": "way",
+            "id": 712417653,
+            "lat": 42.1784239,
+            "lon": -84.6435474,
+            "tags": {
+                "addr:city": "Concord",
+                "addr:housenumber": "200",
+                "addr:postcode": "49237-9526",
+                "addr:state": "MI",
+                "addr:street": "Hanover Street",
+                "building": "church",
+                "name": "Concord Universalist Church",
+                "note": "Closed in the 90s.  Operated by the Hubbard Museum.",
+                "operator": "Hubbard Memorial Museum Foundation",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Mann_House_4.jpg/1280px-Mann_House_4.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 990220990,
+            "lat": 35.3589499,
+            "lon": -80.6737333,
+            "tags": {
+                "addr:city": "Concord",
+                "addr:housenumber": "4545",
+                "addr:postcode": "28027",
+                "addr:state": "NC",
+                "addr:street": "Concord Parkway South",
+                "building": "yes",
+                "name": "Morrison Motor Car Museum",
+                "tourism": "museum"
+            }
+        },
+        {
+            "type": "way",
+            "id": 1452540971,
+            "lat": -33.8553036,
+            "lon": 151.1044867,
+            "tags": {
+                "addr:housenumber": "1",
+                "addr:street": "Bent Street",
+                "building": "yes",
+                "museum": "history",
+                "name": "City of Canada Bay Museum",
+                "opening_hours": "We,Sa 10:00-16:00",
+                "operator": "City of Canada Bay Heritage Society",
+                "operator:type": "community",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c0/City_Of_Canada_Bay_Museum_Outside.jpg/1280px-City_Of_Canada_Bay_Museum_Outside.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 1500122599,
+            "lat": 42.4358825,
+            "lon": -71.3380989,
+            "tags": {
+                "name": "Emerson's Cliff",
+                "natural": "cliff",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Walden_Pond_outlook.jpg/1280px-Walden_Pond_outlook.jpg",
+            "image_source": "wikipedia_verified"
+        }
+    ]
+}

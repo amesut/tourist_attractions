@@ -1,0 +1,368 @@
+{
+    "city_metadata": {
+        "city_name": "Ithaca",
+        "state_code": "NY",
+        "state_full": "New York",
+        "city_summary": "Ithaca () is a city in the U.S. state of New York. It is situated on the southern shore of Cayuga Lake in the Finger Lakes region of Upstate New York. With a population of 32,108 as of the 2020 census, Ithaca is the largest community in the Ithaca metropolitan statistical area, which includes all 103,558 residents of Tompkins County, of which it is the county seat.",
+        "city_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Flowers_in_Ithaca_Downtown.jpg/1280px-Flowers_in_Ithaca_Downtown.jpg",
+        "city_lat": 42.44333333,
+        "city_lon": -76.5,
+        "source": "wikipedia_verified_engine"
+    },
+    "attractions": [
+        {
+            "type": "way",
+            "id": 1193782692,
+            "lat": 43.2913912,
+            "lon": -84.6089723,
+            "tags": {
+                "addr:city": "Ithaca",
+                "addr:housenumber": "129",
+                "addr:postcode": "48847",
+                "addr:state": "MI",
+                "addr:street": "West Center Street",
+                "building": "yes",
+                "name": "Gratiot County Area Historical Museum",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Ithaca%2C_MI_location.png/1280px-Ithaca%2C_MI_location.png",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 2236832,
+            "lat": 42.43945,
+            "lon": -76.4972,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Ithaca_Commons_%28New_York%29.jpg/1280px-Ithaca_Commons_%28New_York%29.jpg",
+            "description": "The Ithaca Commons is a two-block pedestrian mall in the business improvement district known as Downtown Ithaca that serves as the city's cultural and economic center.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Ithaca Commons",
+                "wikipedia": "en:Ithaca Commons",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 26703220,
+            "lat": 42.452851,
+            "lon": -76.4916,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Ithaca_Falls_Ithaca_New_York.JPG",
+            "description": "Ithaca Falls is a waterfall located within the city of Ithaca, New York.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Ithaca Falls",
+                "wikipedia": "en:Ithaca Falls",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 37685680,
+            "lat": 42.4396966,
+            "lon": -76.498887,
+            "image_url": "https://upload.wikimedia.org/wikipedia/en/5/50/SaganWalk.Map.jpg",
+            "description": "The Sciencenter's Sagan Planet Walk is a walkable scale model of the Solar System, located in Ithaca, New York.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Sagan Planet Walk",
+                "wikipedia": "en:Sagan Planet Walk",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 2222971,
+            "lat": 42.46111111,
+            "lon": -76.50361111,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Willows_after_the_rain.jpg",
+            "description": "Stewart Park is a municipal park operated by the City of Ithaca, New York on the southern end of Cayuga Lake, the largest of New York's Finger Lakes.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Stewart Park (Ithaca, New York)",
+                "wikipedia": "en:Stewart Park (Ithaca, New York)",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 568311,
+            "lat": 42.4,
+            "lon": -76.53,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Buttermilk_Falls%2C_June_2022.jpg/1280px-Buttermilk_Falls%2C_June_2022.jpg",
+            "description": "Buttermilk Falls State Park is a 811-acre (3.28 km2) state park located southwest of Ithaca, New York, United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Buttermilk Falls State Park",
+                "wikipedia": "en:Buttermilk Falls State Park",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 7954422,
+            "lat": 42.4492,
+            "lon": -76.4839,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Cornell_University_seal.svg/1280px-Cornell_University_seal.svg.png",
+            "description": "Cornell University ( korr-NEHL) is a private Ivy League research university based in Ithaca, New York, United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Cornell University",
+                "wikipedia": "en:Cornell University",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 1621083,
+            "lat": 42.4,
+            "lon": -76.574,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Lucifer_Falls%2C_Robert_Treman_State_Park.jpg/1280px-Lucifer_Falls%2C_Robert_Treman_State_Park.jpg",
+            "description": "Robert H. Treman State Park is a 1,110-acre (4.5 km2) state park located in Tompkins County, in the Finger Lakes region of New York in the United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Robert H. Treman State Park",
+                "wikipedia": "en:Robert H. Treman State Park",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 25132316,
+            "lat": 42.43916667,
+            "lon": -76.49972222,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/State_Theater%2C_Ithaca%2C_New_York.jpg/1280px-State_Theater%2C_Ithaca%2C_New_York.jpg",
+            "description": "State Theatre of Ithaca is a historic, 1600-seat theatre located at Ithaca in Tompkins County, New York that hosts various events from bands, to plays, to comedy acts, to silent films, and more.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "State Theater (Ithaca, New York)",
+                "wikipedia": "en:State Theater (Ithaca, New York)",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 8210131,
+            "lat": 43,
+            "lon": -76,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_New_York.svg/1280px-Flag_of_New_York.svg.png",
+            "description": "New York, also called New York State, is a state located in the northeastern United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "New York (state)",
+                "wikipedia": "en:New York (state)",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 447990,
+            "lat": 43,
+            "lon": -76,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/af/4thlakesunrise.jpg",
+            "description": "Upstate New York is a geographic region of New York State that lies north and northwest of the New York City metropolitan area of downstate New York.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Upstate New York",
+                "wikipedia": "en:Upstate New York",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 31187052,
+            "lat": 42.44,
+            "lon": -76.49694444,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/04/Museum_of_the_Earth.jpg",
+            "description": "The Ithaca Discovery Trail is a collaboration among hands-on museums and the public library in Tompkins County, New York.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Ithaca Discovery Trail",
+                "wikipedia": "en:Ithaca Discovery Trail",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 23432233,
+            "lat": 42.48333333,
+            "lon": -76.49166667,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Pyramid_Mall_Howlands_JW_Rhodes%2C_Ithaca_New_York.jpg/1280px-Pyramid_Mall_Howlands_JW_Rhodes%2C_Ithaca_New_York.jpg",
+            "description": "The Shops at Ithaca Mall, formerly known as the Pyramid Mall Ithaca, is a shopping center located in Lansing, New York, just north of the city of Ithaca.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "The Shops at Ithaca Mall",
+                "wikipedia": "en:The Shops at Ithaca Mall",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 3666534,
+            "lat": 42.44944444,
+            "lon": -76.47222222,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Nevin_Welcome_Center_at_the_Cornell_Botanic_Gardens.jpg/1280px-Nevin_Welcome_Center_at_the_Cornell_Botanic_Gardens.jpg",
+            "description": "The Cornell Botanic Gardens is a botanical garden located adjacent to the Cornell University campus in Ithaca, New York.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Cornell Botanic Gardens",
+                "wikipedia": "en:Cornell Botanic Gardens",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 17566957,
+            "lat": 46.10361111,
+            "lon": 19.66777778,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Synagogue_in_Subotica.jpg/1280px-Synagogue_in_Subotica.jpg",
+            "description": "The Subotica Synagogue, officially the Jakab and Komor Square Synagogue in Subotica (Serbian: Синагога на тргу Јакаба и Комора, Суботица; Hungarian: Jakab és Komor téri zsinagóga, Szabadka), is a former Neolog Jewish congregation and synagogue, located in Subotica, Serbia.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Subotica Synagogue",
+                "wikipedia": "en:Subotica Synagogue",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 6309,
+            "lat": 42.68805556,
+            "lon": -76.70222222,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Cayuga_Lake%2C_May_2025.jpg/1280px-Cayuga_Lake%2C_May_2025.jpg",
+            "description": "Cayuga Lake ( kə-YOO-ghə,  kay-YOO-ghə, or  kye-YOO-ghə)  is a Finger Lake in central New York state.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Cayuga Lake",
+                "wikipedia": "en:Cayuga Lake",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 494518,
+            "lat": -7.56666667,
+            "lon": 110.81666667,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Kraton_Solo.jpg/1280px-Kraton_Solo.jpg",
+            "description": "Surakarta (Javanese: ꦯꦸꦫꦏꦂꦠ, Pegon: سوراكارتا), known colloquially as Solo (Javanese: ꦱꦭ; Sålå), is a major city in Central Java, Indonesia.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Surakarta",
+                "wikipedia": "en:Surakarta",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 1410103,
+            "lat": 42.46,
+            "lon": -76.52,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Allan_H._Treman_State_Marine_Park%2C_Ithaca%2C_New_York_-_Marina_2.jpg",
+            "description": "Allan H. Treman State Marine Park is a 91-acre (0.37 km2) state park and marina located in the City of Ithaca in Tompkins County, New York, United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Allan H. Treman State Marine Park",
+                "wikipedia": "en:Allan H. Treman State Marine Park",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 494778,
+            "lat": 24.73333333,
+            "lon": 46.57555556,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/At-Turaif_District_of_Diriyah%2C_Saudi_Arabia.jpg/1280px-At-Turaif_District_of_Diriyah%2C_Saudi_Arabia.jpg",
+            "description": "Diriyah (Arabic: الدِرْعِيّة, romanized: ad-Dir‘īyah, lit. 'place of armor'; formerly romanized as Dereyeh and Dariyya) is a town and governorate in Saudi Arabia.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Diriyah",
+                "wikipedia": "en:Diriyah",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 45579,
+            "lat": 40.71361111,
+            "lon": -73.82805556,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Flushing_Meadows_May_2024_64.jpg/1280px-Flushing_Meadows_May_2024_64.jpg",
+            "description": "Queens is the largest by area of the five boroughs of New York City, coextensive with Queens County, in the U.S. state of New York.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Queens",
+                "wikipedia": "en:Queens",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 177097,
+            "lat": 25.69666667,
+            "lon": 32.64444444,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/35/LuxorHotelsIbnWalidSt.jpg",
+            "description": "Luxor is a city in southern Egypt.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Luxor",
+                "wikipedia": "en:Luxor",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 259851,
+            "lat": 43.97555556,
+            "lon": -75.90638889,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Public_Square%2C_Watertown%2C_New_York.jpg/1280px-Public_Square%2C_Watertown%2C_New_York.jpg",
+            "description": "Watertown is a city in and the county seat of Jefferson County, New York, United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Watertown, New York",
+                "wikipedia": "en:Watertown, New York",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 2262708,
+            "lat": 42.45084,
+            "lon": -76.486463,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Johnson-museum-of-art-cornell.JPG/1280px-Johnson-museum-of-art-cornell.JPG",
+            "description": "The Herbert F. Johnson Museum of Art (\"The Johnson Museum\") is an art museum located on the northwest corner of the Arts Quad on the main campus of Cornell University in Ithaca, New York.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Herbert F. Johnson Museum of Art",
+                "wikipedia": "en:Herbert F. Johnson Museum of Art",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 2082057,
+            "lat": 43.074,
+            "lon": -76.221,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Nysfair2008.jpg/1280px-Nysfair2008.jpg",
+            "description": "The New York State Fair, also known as the Great New York State Fair, is a 13-day showcase of agriculture, entertainment, education, and technology.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "New York State Fair",
+                "wikipedia": "en:New York State Fair",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 7817030,
+            "lat": 42.44902778,
+            "lon": -76.48013889,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Cornell_Bailey_Hall_March09.jpg/1280px-Cornell_Bailey_Hall_March09.jpg",
+            "description": "Bailey Hall is the largest auditorium at Cornell University, an Ivy League university in Ithaca, New York.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Bailey Hall (Ithaca, New York)",
+                "wikipedia": "en:Bailey Hall (Ithaca, New York)",
+                "tourism": "attraction"
+            }
+        }
+    ]
+}

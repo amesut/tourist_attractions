@@ -1,0 +1,405 @@
+{
+    "city_metadata": {
+        "city_name": "Provo",
+        "state_code": "UT",
+        "state_full": "Utah",
+        "city_summary": "Provo ( PROH-voh) is a city in and the county seat of Utah County, Utah, United States. It is 43 miles (69 km) south of Salt Lake City along the Wasatch Front, and lies between the cities of Orem to the north and Springville to the south. With a population at the 2020 census of 115,162, Provo is the fourth-largest city in Utah and the principal city in the Provo-Orem metropolitan area, which had a population of 526,810 at the 2010 census.",
+        "city_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Downtown_Provo.jpg/1280px-Downtown_Provo.jpg",
+        "city_lat": 40.24444444,
+        "city_lon": -111.66083333,
+        "source": "wikipedia_verified_engine"
+    },
+    "attractions": [
+        {
+            "type": "node",
+            "id": 9493904656,
+            "lat": 40.2500202,
+            "lon": -111.6578089,
+            "tags": {
+                "addr:city": "Provo",
+                "addr:housenumber": "1200",
+                "addr:postcode": "84604",
+                "addr:state": "UT",
+                "addr:street": "North University Avenue",
+                "leisure": "bowling_alley",
+                "name": "Fat Cats",
+                "opening_hours": "Mo-Sa 12:00-24:00",
+                "phone": "+1 801-373-1863",
+                "sport": "10pin;miniature_golf;arcade",
+                "tourism": "attraction",
+                "website": "https://www.fatcatsfun.com/locations/provo/center-info/"
+            }
+        },
+        {
+            "type": "way",
+            "id": 40746193,
+            "lat": 40.2507956,
+            "lon": -111.647997,
+            "tags": {
+                "building": "university",
+                "building:levels": "2",
+                "building:levels:underground": "1",
+                "name": "BYU Museum of Art",
+                "operator": "Brigham Young University",
+                "short_name": "MOA",
+                "tourism": "museum",
+                "wikidata": "Q4967319"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/MOA_North_entrance.JPG/1280px-MOA_North_entrance.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 81106082,
+            "lat": 40.2483383,
+            "lon": -111.6207088,
+            "tags": {
+                "addr:city": "Provo",
+                "addr:housenumber": "700",
+                "addr:postcode": "84604",
+                "addr:state": "UT",
+                "addr:street": "Hike the Y",
+                "artist_name": "Brigham Young University",
+                "hillside_letters": "Y",
+                "man_made": "geoglyph",
+                "name": "The \"Y\"",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "way",
+            "id": 83852440,
+            "lat": 40.2534258,
+            "lon": -111.6473256,
+            "tags": {
+                "addr:city": "Provo",
+                "addr:housenumber": "645",
+                "addr:postcode": "84602",
+                "addr:state": "UT",
+                "addr:street": "East 1430 North",
+                "building": "yes",
+                "fee": "no",
+                "name": "Monte L. Bean Life Science Museum",
+                "opening_hours": "Mo-Sa 10:00-21:00; Su 10:00-17:00",
+                "short_name": "MLBM",
+                "tourism": "museum",
+                "website": "https://mlbean.byu.edu/",
+                "wikidata": "Q6904799"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/The_main_entrance_of_the_Monte_L._Bean_Life_Science_Museum.tif/lossy-page1-1280px-The_main_entrance_of_the_Monte_L._Bean_Life_Science_Museum.tif.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 83861539,
+            "lat": 40.2565151,
+            "lon": -111.6569959,
+            "tags": {
+                "addr:city": "Provo",
+                "addr:housenumber": "1683",
+                "addr:postcode": "84602",
+                "addr:state": "UT",
+                "addr:street": "North Canyon Road",
+                "building": "yes",
+                "name": "BYU Museum of Paleontology",
+                "opening_hours": "Mo-Fr 09:00-17:00",
+                "operator": "Brigham Young University",
+                "operator:type": "private",
+                "tourism": "museum",
+                "website": "https://geology.byu.edu/museum/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/BYU_MP.JPG/1280px-BYU_MP.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 83863016,
+            "lat": 40.2629943,
+            "lon": -111.6578206,
+            "tags": {
+                "addr:city": "Provo",
+                "addr:housenumber": "2201 N",
+                "addr:postcode": "84602",
+                "addr:state": "UT",
+                "addr:street": "Canyon Road",
+                "building": "yes",
+                "name": "BYU Museum of Peoples and Cultures",
+                "opening_hours": "Mo-Fr 09:00-17:00, Tu 09:00-19:00",
+                "operator": "Brigham Young University",
+                "operator:type": "private",
+                "tourism": "museum",
+                "website": "https://mpc.byu.edu/"
+            }
+        },
+        {
+            "type": "way",
+            "id": 83865215,
+            "lat": 40.2364376,
+            "lon": -111.6369379,
+            "tags": {
+                "leisure": "water_park",
+                "name": "Splash Summit Water Park",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Peaks_Ice_Arena_%2835720941122%29.jpg/1280px-Peaks_Ice_Arena_%2835720941122%29.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 220973412,
+            "lat": 40.2538325,
+            "lon": -111.656401,
+            "tags": {
+                "addr:city": "Provo",
+                "addr:housenumber": "1501",
+                "addr:postcode": "84604",
+                "addr:state": "UT",
+                "addr:street": "North Canyon Road",
+                "building": "yes",
+                "museum": "history",
+                "name": "Museum of Mormon Mexican History",
+                "tourism": "museum"
+            }
+        },
+        {
+            "type": "way",
+            "id": 543708190,
+            "lat": 40.2414442,
+            "lon": -111.6668269,
+            "tags": {
+                "building": "yes",
+                "fee": "no",
+                "name": "Daughters of the Utah Pioneers Museum",
+                "opening_hours": "We,Fr,Sa 13:00-16:00",
+                "operator": "Daughters of the Utah Pioneers",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Thomas_N._Taylor_House.jpg/1280px-Thomas_N._Taylor_House.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 3683539,
+            "lat": 40.40666667,
+            "lon": -111.52694444,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Deer_Creek_Reservoir.jpg/1280px-Deer_Creek_Reservoir.jpg",
+            "description": "The Deer Creek Dam and Reservoir hydroelectric facilities are on the Provo River in western Wasatch County, Utah, United States, about 16 miles (26 km) northeast of Provo.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Deer Creek Dam and Reservoir",
+                "wikipedia": "en:Deer Creek Dam and Reservoir",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 136959,
+            "lat": 39.6875,
+            "lon": -110.865,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Helperseptember2023.jpg/1280px-Helperseptember2023.jpg",
+            "description": "Helper is a city in Carbon County, Utah, United States, approximately 110 miles (180 km) southeast of Salt Lake City and 7 miles (11 km) northwest of the city of Price.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Helper, Utah",
+                "wikipedia": "en:Helper, Utah",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 82058,
+            "lat": 40.2497,
+            "lon": -111.6492,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Brigham_Young_University_medallion.svg/1280px-Brigham_Young_University_medallion.svg.png",
+            "description": "Brigham Young University (BYU) is a private research university in Provo, Utah, United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Brigham Young University",
+                "wikipedia": "en:Brigham Young University",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 31716,
+            "lat": 39,
+            "lon": -111,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Flag_of_Utah.svg/1280px-Flag_of_Utah.svg.png",
+            "description": "Utah is a landlocked state in the Mountain West subregion of the  Western United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Utah",
+                "wikipedia": "en:Utah",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 11180295,
+            "lat": 40.26833333,
+            "lon": -111.60444444,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Squaw_Peak_Provo%2C_Utah.JPG/1280px-Squaw_Peak_Provo%2C_Utah.JPG",
+            "description": "Rock Canyon is located in the Wasatch Mountains, in east Provo, Utah, United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Rock Canyon (Provo, Utah)",
+                "wikipedia": "en:Rock Canyon (Provo, Utah)",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 53837,
+            "lat": 40.76083333,
+            "lon": -111.89111111,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Salt_Lake_Union_Pacific_Railroad_Station%2C_South_Temple_at_400_West%2C_Central_City_West%2C_Salt_Lake_City%2C_UT%2C_USA.jpg/1280px-Salt_Lake_Union_Pacific_Railroad_Station%2C_South_Temple_at_400_West%2C_Central_City_West%2C_Salt_Lake_City%2C_UT%2C_USA.jpg",
+            "description": "Salt Lake City, often shortened to Salt Lake or SLC, is the capital and most populous city of the U.S. state of Utah.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Salt Lake City",
+                "wikipedia": "en:Salt Lake City",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 1061639,
+            "lat": 40.77041667,
+            "lon": -111.89313889,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/S.L._Tabernacle_on_Temple_Square.jpg/1280px-S.L._Tabernacle_on_Temple_Square.jpg",
+            "description": "The Salt Lake Tabernacle, formerly known as the Mormon Tabernacle, is located on Temple Square in Salt Lake City, in the U.S. state of Utah.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Salt Lake Tabernacle",
+                "wikipedia": "en:Salt Lake Tabernacle",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 23867396,
+            "lat": 40.68194444,
+            "lon": -112.26305556,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Lake_Point.jpg/1280px-Lake_Point.jpg",
+            "description": "Lake Point is a city on the eastern edge of northern Tooele County, Utah, United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Lake Point, Utah",
+                "wikipedia": "en:Lake Point, Utah",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 1160716,
+            "lat": 37.79111111,
+            "lon": -114.38888889,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/View_E%2C_Main_Street%2C_Panaca%2C_NV%2C_2012_-_panoramio.jpg/1280px-View_E%2C_Main_Street%2C_Panaca%2C_NV%2C_2012_-_panoramio.jpg",
+            "description": "Panaca is an unincorporated town in eastern Lincoln County, Nevada, United States, on State Route 319, about 1 mile (1.6 kilometers) east of U.S. Route 93, near the border with Utah.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Panaca, Nevada",
+                "wikipedia": "en:Panaca, Nevada",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 52259,
+            "lat": 41.16666667,
+            "lon": -112.53333333,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Great_Salt_Lake_by_Sentinel-2.jpg/1280px-Great_Salt_Lake_by_Sentinel-2.jpg",
+            "description": "The Great Salt Lake is the largest saltwater lake in the Western Hemisphere and the eighth-largest terminal lake in the world.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Great Salt Lake",
+                "wikipedia": "en:Great Salt Lake",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 12404202,
+            "lat": 40.39305556,
+            "lon": -111.63972222,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Emerald_Lake_below_Timpanogos_Glacier.jpg",
+            "description": "Emerald Lake is a small proglacial lake near the summit of Mount Timpanogos in the middle of the Mount Timpanogos Wilderness in the Wasatch Range in northeastern Utah County, Utah, United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Emerald Lake (Mount Timpanogos Wilderness)",
+                "wikipedia": "en:Emerald Lake (Mount Timpanogos Wilderness)",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 12998877,
+            "lat": 40.43333333,
+            "lon": -111.73333333,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/American_Fork_Canyon_from_Timpanogos_Cave_entrance.jpg/1280px-American_Fork_Canyon_from_Timpanogos_Cave_entrance.jpg",
+            "description": "American Fork Canyon is a canyon in the Wasatch Mountains of Utah, United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "American Fork Canyon",
+                "wikipedia": "en:American Fork Canyon",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 1623974,
+            "lat": 34.05280556,
+            "lon": -118.43391667,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Los_Angeles_Temple_2.jpg",
+            "description": "The Los Angeles California Temple (formerly the Los Angeles Temple), the tenth operating and the second-largest temple operated by the Church of Jesus Christ of Latter-day Saints (LDS Church), is on Santa Monica Boulevard in the Westwood district of Los Angeles, California, United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Los Angeles California Temple",
+                "wikipedia": "en:Los Angeles California Temple",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 137058,
+            "lat": 40.65305556,
+            "lon": -112.00666667,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Salt_Lake_County_Utah_incorporated_and_unincorporated_areas_Kearns_highlighted.svg/1280px-Salt_Lake_County_Utah_incorporated_and_unincorporated_areas_Kearns_highlighted.svg.png",
+            "description": "Kearns ( kurnz) is a city in Salt Lake County, Utah, United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Kearns, Utah",
+                "wikipedia": "en:Kearns, Utah",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 543502,
+            "lat": 43.818,
+            "lon": -111.785,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Brigham_Young_University%E2%80%93Idaho_medallion.svg/1280px-Brigham_Young_University%E2%80%93Idaho_medallion.svg.png",
+            "description": "Brigham Young University–Idaho (BYU–Idaho or BYUI) is a private college in Rexburg, Idaho.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Brigham Young University–Idaho",
+                "wikipedia": "en:Brigham Young University–Idaho",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 7052389,
+            "lat": 40.7498,
+            "lon": -111.814,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Hogle_zoo_entrance.JPG/1280px-Hogle_zoo_entrance.JPG",
+            "description": "Utah's Hogle Zoo () is a 42-acre (17 ha) Association of Zoos and Aquariums (AZA) and the World Association of Zoos and Aquariums (WAZA) accredited facility.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Utah's Hogle Zoo",
+                "wikipedia": "en:Utah's Hogle Zoo",
+                "tourism": "attraction"
+            }
+        }
+    ]
+}

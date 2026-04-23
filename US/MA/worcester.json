@@ -1,0 +1,528 @@
+{
+    "city_metadata": {
+        "city_name": "Worcester",
+        "state_code": "MA",
+        "state_full": "Massachusetts",
+        "city_summary": "Worcester (  WUUST-ər, locally [ˈwɪstə] ) is a city in the U.S. state of Massachusetts. The principal city of Central Massachusetts, Worcester is both the second-most populous city in the state, and the 113th most populous city in the United States. Named after Worcester, England, the city had 206,518 people at the 2020 census, also making it the second-most populous city in New England, after Boston.",
+        "city_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Worcester%2C_Massachusetts.jpg/1280px-Worcester%2C_Massachusetts.jpg",
+        "city_lat": 42.2714,
+        "city_lon": -71.7989,
+        "source": "wikipedia_verified_engine"
+    },
+    "attractions": [
+        {
+            "type": "node",
+            "id": 267047343,
+            "lat": 52.1907787,
+            "lon": -2.2241121,
+            "tags": {
+                "amenity": "fountain",
+                "drinking_water": "no",
+                "name": "South Quay Fountains",
+                "tourism": "attraction",
+                "wheelchair": "yes"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Glover%27s_Needle%2C_Worcester.jpg/1280px-Glover%27s_Needle%2C_Worcester.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 1032152899,
+            "lat": 42.2721882,
+            "lon": -71.8024562,
+            "tags": {
+                "name": "Salisbury Mansion",
+                "tourism": "museum",
+                "website": "https://www.worcesterhistory.org/museum/salisbury-mansion/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Salisbury_Mansion%2C_Worcester_MA.jpg/1280px-Salisbury_Mansion%2C_Worcester_MA.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 1037716490,
+            "lat": 42.264898,
+            "lon": -71.8045405,
+            "tags": {
+                "name": "Worcester Historical Museum",
+                "tourism": "museum",
+                "website": "https://www.worcesterhistory.org/",
+                "wikidata": "Q8034187"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Worcester_Historical_Museum_in_Massachusetts.jpg/1280px-Worcester_Historical_Museum_in_Massachusetts.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 3053244065,
+            "lat": 52.192143,
+            "lon": -2.1838977,
+            "tags": {
+                "addr:city": "Worcester",
+                "addr:housename": "Charles Hastings Education Centre",
+                "addr:postcode": "WR5 1DD",
+                "addr:street": "Charles Hastings Way",
+                "fee": "no",
+                "name": "The George Marshall Medical Museum",
+                "note": "Closed on Bank Holidays",
+                "opening_hours": "Mo-Fr 09:00-17:00",
+                "tourism": "museum",
+                "website": "https://medicalmuseum.org.uk/georgemarshallmuseum",
+                "wikidata": "Q113369883"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Worcestershire_Royal_Hospital_-_geograph.org.uk_-_1203400.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 5587054218,
+            "lat": 42.3240412,
+            "lon": -71.803315,
+            "tags": {
+                "advertisment": "sign",
+                "name": "North Worcester Business Association",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 5591065576,
+            "lat": 42.2364232,
+            "lon": -71.7957204,
+            "tags": {
+                "name": "Blackstone River Valley Heritage Center",
+                "tourism": "museum",
+                "website": "https://blackstoneheritagecorridor.org/happening-now/worcester-heritage-center/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Quinsigamond_Fire_Station.jpg/1280px-Quinsigamond_Fire_Station.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 5830049985,
+            "lat": 52.1952381,
+            "lon": -2.2121852,
+            "tags": {
+                "addr:housenumber": "unit 11",
+                "addr:postcode": "WR4 9EL",
+                "addr:street": "Shrub Hill Road",
+                "name": "Vertical Limit Climbing Gym",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Worcester_Shrub_Hill_2024.jpg/1280px-Worcester_Shrub_Hill_2024.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 5919998483,
+            "lat": 42.2878975,
+            "lon": -71.7654161,
+            "tags": {
+                "name": "Mine Shaft",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 5936199541,
+            "lat": 42.2871099,
+            "lon": -71.851742,
+            "tags": {
+                "name": "Thinking Rock",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 6762838320,
+            "lat": 42.3182632,
+            "lon": -71.807574,
+            "tags": {
+                "ford": "yes",
+                "name": "Ford on Rocks",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 6762838397,
+            "lat": 42.3229822,
+            "lon": -71.8115827,
+            "tags": {
+                "name": "Continues to Marchen Drive",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 6762838400,
+            "lat": 42.321776,
+            "lon": -71.8157643,
+            "tags": {
+                "name": "Continues to Tent Platform",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 6762838412,
+            "lat": 42.3224164,
+            "lon": -71.806907,
+            "tags": {
+                "name": "Vernal Pools",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 6828104457,
+            "lat": 52.1899333,
+            "lon": -2.2189005,
+            "tags": {
+                "addr:city": "Worcester",
+                "addr:housename": "Tudor House",
+                "addr:postcode": "WR1 2NA",
+                "addr:street": "Friar Street",
+                "fee": "no",
+                "museum": "history",
+                "name": "Tudor House Museum",
+                "name:en": "Tudor House Museum",
+                "opening_hours": "We-Sa 10:00-16:00",
+                "source": "estimate",
+                "tourism": "museum",
+                "website": "https://www.tudorhouse.org.uk/",
+                "wheelchair": "limited",
+                "wikidata": "Q17548160"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/The_Greyfriars%2C_Friar_Street%2C_Worcester_%283919913061%29.jpg/1280px-The_Greyfriars%2C_Friar_Street%2C_Worcester_%283919913061%29.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 8754211306,
+            "lat": 42.2571916,
+            "lon": -71.7991739,
+            "tags": {
+                "name": "Worcester Wall",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9349862817,
+            "lat": 52.2051766,
+            "lon": -2.2222778,
+            "tags": {
+                "name": "35 The Lane",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9554986611,
+            "lat": 42.2654556,
+            "lon": -71.7667335,
+            "tags": {
+                "name": "The Explorer Express Train",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/28_01112017_CityScience-by-Charlene_Leith-Bushey.jpg/1280px-28_01112017_CityScience-by-Charlene_Leith-Bushey.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 11234595773,
+            "lat": 52.1803431,
+            "lon": -2.2257356,
+            "tags": {
+                "name": "Diglis Fish Pass Viewing Gallery",
+                "operator": "Unlocking the Severn",
+                "reservation": "recommended",
+                "start_date": "2021",
+                "tourism": "attraction",
+                "website": "https://www.unlockingthesevern.co.uk/diglis-island-fish-pass-tours/",
+                "wheelchair": "no"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Cycle_path_to_Diglis_Bridge_-_geograph.org.uk_-_6328127.jpg/1280px-Cycle_path_to_Diglis_Bridge_-_geograph.org.uk_-_6328127.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 12090216266,
+            "lat": 52.1905423,
+            "lon": -2.2187766,
+            "tags": {
+                "addr:city": "Worcester",
+                "addr:housenumber": "14",
+                "addr:postcode": "WR1 2LZ",
+                "addr:street": "Friar Street",
+                "fee": "yes",
+                "name": "Greyfriars",
+                "operator": "National Trust",
+                "tourism": "museum",
+                "website": "https://www.nationaltrust.org.uk/visit/worcestershire-herefordshire/greyfriars-house-and-garden",
+                "wheelchair": "limited"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/The_Greyfriars%2C_Friar_Street%2C_Worcester_%283919913061%29.jpg/1280px-The_Greyfriars%2C_Friar_Street%2C_Worcester_%283919913061%29.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 12524842450,
+            "lat": 52.1964747,
+            "lon": -2.2220921,
+            "tags": {
+                "fee": "no",
+                "fixme": "location within building?",
+                "name": "Worcestershire Yeomanry Cavalry Museum",
+                "tourism": "museum",
+                "website": "https://worcsyeomanry.com",
+                "wikidata": "Q113369851"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Worcester_City_Museum_%26_Art_Gallery%2C_England_-_DSCF0780.JPG/1280px-Worcester_City_Museum_%26_Art_Gallery%2C_England_-_DSCF0780.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 12532249120,
+            "lat": 42.2709263,
+            "lon": -71.8004451,
+            "tags": {
+                "addr:city": "Worcester",
+                "addr:housenumber": "2",
+                "addr:postcode": "01608",
+                "addr:state": "MA",
+                "addr:street": "Main Street",
+                "check_date": "2025-01-25",
+                "contact:facebook": "http://www.facebook.com/majortaylormuseum",
+                "contact:instagram": "http://www.instagram.com/majortaylormuseum",
+                "contact:linkedin": "http://www.linkedin.com/company/major-taylor-museum",
+                "contact:twitter": "http://www.twitter.com/majormuseum",
+                "description": "* Open Saturdays and Sundays by appointment only\n* Advance reservations are required for all adult and student groups of 10 or more",
+                "email": "majortaylormuseum@gmail.com",
+                "facebook": "http://www.facebook.com/majortaylormuseum",
+                "fee": "no",
+                "museum": "history",
+                "name": "Major Taylor Museum",
+                "opening_hours": "Tu-Th 10:00-16:00",
+                "phone": "+1-781-809-0200",
+                "tourism": "museum",
+                "twitter": "http://www.twitter.com/majormuseum",
+                "website": "https://majortaylormuseum.org/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Worcester_County_Courthouse%2C_Massachusetts.jpg/1280px-Worcester_County_Courthouse%2C_Massachusetts.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 12558876652,
+            "lat": 52.1986157,
+            "lon": -2.2144666,
+            "tags": {
+                "alt_name": "Worcestershire Museum Of Freemasonry",
+                "amenity": "library",
+                "fixme": "location within building?",
+                "name": "Worcestershire Masonic Library and Museum",
+                "tourism": "museum",
+                "website": "http://www.worcestermasonicmuseum.co.uk/",
+                "wikidata": "Q113369629"
+            }
+        },
+        {
+            "type": "node",
+            "id": 12559160092,
+            "lat": 52.1963823,
+            "lon": -2.2220197,
+            "tags": {
+                "fee": "no",
+                "fixme": "location within building?",
+                "name": "Mercian Regiment Museum (Worcestershire)",
+                "note": "announced in 2024 a plan to move to The Commandery; date unspecified",
+                "tourism": "museum",
+                "website": "https://www.worcestershireandmercianregimentmuseum.org",
+                "wikidata": "Q113369737"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Worcester_City_Museum_%26_Art_Gallery%2C_England_-_DSCF0780.JPG/1280px-Worcester_City_Museum_%26_Art_Gallery%2C_England_-_DSCF0780.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 89633213,
+            "lat": 42.2730239,
+            "lon": -71.8019937,
+            "tags": {
+                "addr:city": "Worcester",
+                "addr:housenumber": "55",
+                "addr:state": "MA",
+                "addr:street": "Salisbury Street",
+                "building": "yes",
+                "ele": "161",
+                "gnis:feature_id": "604301",
+                "historic": "yes",
+                "museum": "art",
+                "name": "Worcester Art Museum",
+                "opening_hours": "We-Su 10:00-17:00",
+                "source": "USGS Geonames",
+                "tourism": "museum;gallery",
+                "website": "https://www.worcesterart.org/",
+                "wikidata": "Q847508",
+                "wikipedia": "en:Worcester Art Museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Worcester_Art_Museum_%28Massachusetts%29.jpg/1280px-Worcester_Art_Museum_%28Massachusetts%29.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 117716632,
+            "lat": 42.2645319,
+            "lon": -71.7672034,
+            "tags": {
+                "addr:housenumber": "222",
+                "addr:street": "Harrington Way",
+                "name": "EcoTarium",
+                "old_name": "New England Science Center;Worcester Science Center",
+                "phone": "+1 508-929-2700",
+                "tourism": "museum",
+                "website": "https://www.ecotarium.org/",
+                "wikidata": "Q5333127"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/28_01112017_CityScience-by-Charlene_Leith-Bushey.jpg/1280px-28_01112017_CityScience-by-Charlene_Leith-Bushey.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 224967203,
+            "lat": 52.1887301,
+            "lon": -2.2208069,
+            "tags": {
+                "HE_ref": "1389728",
+                "addr:city": "Worcester",
+                "addr:postcode": "WR1 2LA",
+                "addr:street": "College Yard",
+                "alt_name": "Worcester Cathedral",
+                "amenity": "place_of_worship",
+                "building": "cathedral",
+                "building:architecture": "norman;gothic",
+                "denomination": "anglican",
+                "diocese": "Diocese of Worcester",
+                "heritage": "2",
+                "heritage:operator": "Historic England",
+                "heritage:website": "https://historicengland.org.uk/listing/the-list/list-entry/1389728",
+                "listed_status": "Grade I",
+                "name": "Cathedral Church of Christ and the Blessed Mary, the Virgin of Worcester",
+                "ref:GB:nhle": "1389728",
+                "religion": "christian",
+                "toilets:wheelchair": "yes",
+                "tourism": "attraction",
+                "website": "https://www.worcestercathedral.co.uk/",
+                "wheelchair": "yes",
+                "wikidata": "Q1630367",
+                "wikipedia": "en:Worcester Cathedral",
+                "year_of_construction": "1084–1504"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Cromwell_at_the_Battle_of_Worcester%2C_1651.jpg/1280px-Cromwell_at_the_Battle_of_Worcester%2C_1651.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 266147107,
+            "lat": 52.1872,
+            "lon": -2.2190042,
+            "tags": {
+                "building": "yes",
+                "fee": "yes",
+                "name": "Museum of Royal Worcester",
+                "opening_hours": "Mo-Sa 10:00-17:00; Su 10:00-16:00",
+                "source": "bing",
+                "tourism": "museum",
+                "wheelchair": "yes",
+                "wikidata": "Q540718",
+                "wikipedia": "en:Museum of Royal Worcester"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Former_school%2C_Severn_Street%2C_Worcester_-_geograph.org.uk_-_6431092.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 266149681,
+            "lat": 52.1878621,
+            "lon": -2.2167895,
+            "tags": {
+                "addr:city": "Worcester",
+                "addr:postcode": "WR1 2HU",
+                "addr:street": "Sidbury",
+                "building": "yes",
+                "fee": "yes",
+                "fhrs:id": "685561",
+                "heritage": "2",
+                "heritage:operator": "eh",
+                "listed_status": "Grade I",
+                "name": "The Commandery",
+                "source": "bing",
+                "tourism": "museum",
+                "wikidata": "Q7726974",
+                "wikipedia": "en:The Commandery"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/8f/The_Commandery%2C_Worcester_-_geograph.org.uk_-_1745750.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 271835824,
+            "lat": 52.1963825,
+            "lon": -2.2222267,
+            "tags": {
+                "building": "yes",
+                "fee": "no",
+                "heritage": "2",
+                "heritage:operator": "Historic England",
+                "listed_status": "Grade II*",
+                "name": "City Art Gallery & Museum",
+                "opening_hours": "Tu-Sa 10:00-16:00; Su 10:00-15:00",
+                "source": "visual survey;bing",
+                "tourism": "museum",
+                "wikidata": "Q8034152",
+                "wikipedia": "en:Worcester City Art Gallery & Museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Worcester_City_Museum_%26_Art_Gallery%2C_England_-_DSCF0780.JPG/1280px-Worcester_City_Museum_%26_Art_Gallery%2C_England_-_DSCF0780.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 702395760,
+            "lat": 52.1905433,
+            "lon": -2.2186202,
+            "tags": {
+                "building": "yes",
+                "fee": "yes",
+                "heritage": "2",
+                "heritage:operator": "Historic England",
+                "listed_status": "Grade I",
+                "name": "Greyfriars",
+                "opening_hours:url": "https://www.nationaltrust.org.uk/visit/worcestershire-herefordshire/greyfriars-house-and-garden#place-opening-times",
+                "operator": "National Trust",
+                "source": "bing",
+                "tourism": "attraction",
+                "website": "https://www.nationaltrust.org.uk/visit/worcestershire-herefordshire/greyfriars-house-and-garden",
+                "wheelchair": "limited",
+                "wikidata": "Q5608384",
+                "wikipedia": "en:Greyfriars, Worcester"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/The_Greyfriars%2C_Friar_Street%2C_Worcester_%283919913061%29.jpg/1280px-The_Greyfriars%2C_Friar_Street%2C_Worcester_%283919913061%29.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 1335753170,
+            "lat": 42.2818512,
+            "lon": -71.779762,
+            "tags": {
+                "name": "Green Hill Park Farm Petting Zoo",
+                "tourism": "zoo",
+                "zoo": "petting_zoo"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Massachusetts_Vietnam_Memorial-entrance.jpg/1280px-Massachusetts_Vietnam_Memorial-entrance.jpg",
+            "image_source": "wikipedia_verified"
+        }
+    ]
+}

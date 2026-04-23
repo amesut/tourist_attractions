@@ -1,0 +1,393 @@
+{
+    "city_metadata": {
+        "city_name": "Billings",
+        "state_code": "MT",
+        "state_full": "Montana",
+        "city_summary": "Billings is the most populous city in the U.S. state of Montana. The population was 117,116 at the 2020 census, while the Billings metropolitan area has an estimated 193,000 people. Located in the south-central portion of the state, it is the seat of Yellowstone County.",
+        "city_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Billings%2C_Montana_skyline_in_2024.jpg/1280px-Billings%2C_Montana_skyline_in_2024.jpg",
+        "city_lat": 45.78361111,
+        "city_lon": -108.50611111,
+        "source": "wikipedia_verified_engine"
+    },
+    "attractions": [
+        {
+            "type": "node",
+            "id": 12957248307,
+            "lat": 45.7809407,
+            "lon": -108.509736,
+            "tags": {
+                "check_date": "2025-06-27",
+                "museum": "technology",
+                "name": "Wise Wonders",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/7b/St_Patrick_Co-Cathedral%2C_-_Billings%2C_MT.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 7940798,
+            "lat": 49.7546324,
+            "lon": 8.8041016,
+            "tags": {
+                "name": "Steinbruchsee",
+                "natural": "water",
+                "tourism": "attraction",
+                "water": "quarry",
+                "wikidata": "Q113662462"
+            }
+        },
+        {
+            "type": "way",
+            "id": 477166946,
+            "lat": 45.8023372,
+            "lon": -108.5376948,
+            "tags": {
+                "building": "yes",
+                "name": "Peter Yegen Jr. Yellowstone County Museum",
+                "tourism": "museum"
+            }
+        },
+        {
+            "type": "way",
+            "id": 549785008,
+            "lat": 45.7315849,
+            "lon": -108.6227024,
+            "tags": {
+                "addr:city": "Billings",
+                "addr:housenumber": "2100",
+                "addr:postcode": "59106",
+                "addr:state": "MT",
+                "addr:street": "South Shiloh Road",
+                "name": "Zoo Montana",
+                "tourism": "zoo",
+                "wikidata": "Q8074029"
+            }
+        },
+        {
+            "type": "way",
+            "id": 635454777,
+            "lat": 45.7858314,
+            "lon": -108.5071233,
+            "tags": {
+                "addr:city": "Billings",
+                "addr:housenumber": "401",
+                "addr:postcode": "59101",
+                "addr:state": "MT",
+                "addr:street": "North 27th Street",
+                "building": "yes",
+                "check_date:opening_hours": "2023-03-16",
+                "fee": "yes",
+                "fee:conditional": "no @ (age < 6); no @ members",
+                "name": "Yellowstone Art Museum",
+                "opening_hours": "Tu-Su 10:00-17:00; Th 10:00-20:00",
+                "tourism": "museum",
+                "website": "https://www.artmuseum.org/",
+                "wheelchair": "yes",
+                "wikidata": "Q8051982"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Yellowstone_Art_Museum%2C_2024.jpg/1280px-Yellowstone_Art_Museum%2C_2024.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 635810916,
+            "lat": 45.7806215,
+            "lon": -108.5055855,
+            "tags": {
+                "building": "yes",
+                "check_date:opening_hours": "2023-03-16",
+                "fee": "yes",
+                "name": "Western Heritage Center",
+                "opening_hours": "Tu-Sa 10:00-17:00",
+                "operator": "Smithsonian Institute",
+                "tourism": "museum",
+                "website": "https://www.ywhc.org/",
+                "wheelchair": "yes",
+                "wikidata": "Q7987904",
+                "wikipedia": "en:Western Heritage Center"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Parmly_Billings_Memorial_Library.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 641316336,
+            "lat": 45.7796359,
+            "lon": -108.5160385,
+            "tags": {
+                "addr:city": "Billings",
+                "addr:housenumber": "914",
+                "addr:postcode": "59101",
+                "addr:state": "MT",
+                "addr:street": "Division Street",
+                "building": "yes",
+                "check_date:opening_hours": "2023-03-16",
+                "fee": "yes",
+                "fee:conditional": "no @ (age < 6)",
+                "material": "brick",
+                "name": "Moss Mansion Museum",
+                "opening_hours": "Feb 01-May 31 12:00-15:00; Feb 01-May 31,Jun 01-Aug 31 Tu off; Jun 01-Aug 31 Mo-Sa 10:00-16:00; Jun 01-Aug 31 Su 12:00-15:00; PH off",
+                "tourism": "museum",
+                "website": "https://mossmansion.com/",
+                "wheelchair": "limited",
+                "wikidata": "Q6916586",
+                "wikipedia": "en:Moss Mansion"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Moss_Mansion%2C_2025.jpg/1280px-Moss_Mansion%2C_2025.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 19978,
+            "lat": 47,
+            "lon": -110,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Flag_of_Montana.svg/1280px-Flag_of_Montana.svg.png",
+            "description": "Montana (  mon-TAN-ə) is a landlocked state in the Mountain West subregion of the Western United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Montana",
+                "wikipedia": "en:Montana",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 123563,
+            "lat": 45.66166667,
+            "lon": -110.58027778,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Livingston%2C_Montana_aerial_view_of_town.jpg/1280px-Livingston%2C_Montana_aerial_view_of_town.jpg",
+            "description": "Livingston is a city in and the county seat of Park County, Montana, United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Livingston, Montana",
+                "wikipedia": "en:Livingston, Montana",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 185973,
+            "lat": 43.87888889,
+            "lon": -103.45916667,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Mount_Rushmore_detail_view_%28100MP%29.jpg/1280px-Mount_Rushmore_detail_view_%28100MP%29.jpg",
+            "description": "The Mount Rushmore National Memorial is a national memorial centered on a colossal sculpture carved into the granite face of Mount Rushmore (Lakota: Tȟuŋkášila Šákpe, or Six Grandfathers) in the Black Hills near Keystone, South Dakota, United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Mount Rushmore",
+                "wikipedia": "en:Mount Rushmore",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 2842506,
+            "lat": 48.20833333,
+            "lon": -109.5175,
+            "image_url": "https://upload.wikimedia.org/wikipedia/en/1/18/Little_Belts.PNG",
+            "description": "The Bears Paw Mountains (Bear Paw Mountains, Bear's Paw Mountains or Bearpaw  Mountains) are an insular-montane island range in the Central Montana Alkalic Province in north-central Montana, United States, located approximately 10 miles south of Havre, Montana.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Bears Paw Mountains",
+                "wikipedia": "en:Bears Paw Mountains",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 1477666,
+            "lat": 47.77805556,
+            "lon": -106.68138889,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Fort_Peck_Lake.jpeg/1280px-Fort_Peck_Lake.jpeg",
+            "description": "Fort Peck Lake, or Lake Fort Peck, is a major reservoir in Montana, formed by the Fort Peck Dam on the Missouri River.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Fort Peck Lake",
+                "wikipedia": "en:Fort Peck Lake",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 123354,
+            "lat": 47.49166667,
+            "lon": -111.28916667,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Central_Ave_and_Civic_Center_2.JPG/1280px-Central_Ave_and_Civic_Center_2.JPG",
+            "description": "Great Falls is the third most populous city in the U.S. state of Montana and the county seat of Cascade County.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Great Falls, Montana",
+                "wikipedia": "en:Great Falls, Montana",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 257453,
+            "lat": 45.90222222,
+            "lon": -112.65666667,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/31/Butte_uptown.jpg",
+            "description": "Butte ( BYEWT) is a consolidated city-county in and the county seat of Silver Bow County, Montana, United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Butte, Montana",
+                "wikipedia": "en:Butte, Montana",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 123412,
+            "lat": 48.54277778,
+            "lon": -109.68027778,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Hill_County_Montana_Incorporated_and_Unincorporated_areas_Havre_Highlighted.svg/1280px-Hill_County_Montana_Incorporated_and_Unincorporated_areas_Havre_Highlighted.svg.png",
+            "description": "Havre ( HAV-ər) is the county seat of and the largest city in Hill County, Montana, United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Havre, Montana",
+                "wikipedia": "en:Havre, Montana",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 8835752,
+            "lat": 45.191,
+            "lon": -109.335,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Red_Lodge_Palisades.jpg/1280px-Red_Lodge_Palisades.jpg",
+            "description": "Red Lodge Mountain is an alpine ski area in the western United States, located in south-central Montana along the eastern front of the Beartooth Mountains, west of the town of Red Lodge.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Red Lodge Mountain",
+                "wikipedia": "en:Red Lodge Mountain",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 20547477,
+            "lat": 42.34972222,
+            "lon": -83.01805556,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Mount_Elliott_Cemetery.jpg/1280px-Mount_Elliott_Cemetery.jpg",
+            "description": "The Eastside Historic Cemetery District is a historic district bounded by Elmwood Avenue, Mt.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Eastside Historic Cemetery District",
+                "wikipedia": "en:Eastside Historic Cemetery District",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 108611,
+            "lat": 38.15888889,
+            "lon": -107.75055556,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Ridgway%2C_Colorado.JPG/1280px-Ridgway%2C_Colorado.JPG",
+            "description": "The Town of Ridgway is a home rule municipality that is the most populous municipality in Ouray County, Colorado, United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Ridgway, Colorado",
+                "wikipedia": "en:Ridgway, Colorado",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 3087731,
+            "lat": 44.003,
+            "lon": -121.677,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Pine_Marten_Express.JPG/1280px-Pine_Marten_Express.JPG",
+            "description": "Mount Bachelor ski resort (stylized as Mt.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Mount Bachelor ski area",
+                "wikipedia": "en:Mount Bachelor ski area",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 31924254,
+            "lat": 47.74472222,
+            "lon": -107.77583333,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/American_Prairie_Reserve_2021_03.jpg/1280px-American_Prairie_Reserve_2021_03.jpg",
+            "description": "American Prairie (formerly known as American Prairie Reserve or APR) is a prairie-based nature reserve in Central Montana, United States, on a shortgrass prairie ecosystem with migration corridors and native wildlife.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "American Prairie (nature reserve)",
+                "wikipedia": "en:American Prairie (nature reserve)",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 123343,
+            "lat": 45.16055556,
+            "lon": -109.1575,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Carbon_County_Montana_Incorporated_and_Unincorporated_areas_Bearcreek_Highlighted.svg/1280px-Carbon_County_Montana_Incorporated_and_Unincorporated_areas_Bearcreek_Highlighted.svg.png",
+            "description": "Bearcreek is an incorporated town in Carbon County, Montana, United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Bearcreek, Montana",
+                "wikipedia": "en:Bearcreek, Montana",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 32578,
+            "lat": 44,
+            "lon": -72.7,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Vermont.svg/1280px-Flag_of_Vermont.svg.png",
+            "description": "Vermont ( ) is a landlocked state in the New England region of the Northeastern United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Vermont",
+                "wikipedia": "en:Vermont",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 34340,
+            "lat": 44.6,
+            "lon": -110.5,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/73/Grand_Canyon_of_yellowstone.jpg",
+            "description": "Yellowstone National Park is a national park of the United States located in the northwest corner of the state of Wyoming, with small portions extending into Montana and Idaho.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Yellowstone National Park",
+                "wikipedia": "en:Yellowstone National Park",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 35476021,
+            "lat": 45.33777778,
+            "lon": -110.69222222,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Chico_hot_springs_in_1912.jpg",
+            "description": "Chico Hot Springs are located near Pray, Montana.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Chico Hot Springs",
+                "wikipedia": "en:Chico Hot Springs",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 92359,
+            "lat": 40.85027778,
+            "lon": -73.87833333,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Bronx_Zoo_001.jpg/1280px-Bronx_Zoo_001.jpg",
+            "description": "The Bronx Zoo (also historically the Bronx Zoological Park and the Bronx Zoological Gardens) is a zoo within Bronx Park in the Bronx, New York City.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Bronx Zoo",
+                "wikipedia": "en:Bronx Zoo",
+                "tourism": "attraction"
+            }
+        }
+    ]
+}

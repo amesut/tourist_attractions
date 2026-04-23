@@ -1,0 +1,950 @@
+{
+    "city_metadata": {
+        "city_name": "Sacramento",
+        "state_code": "CA",
+        "state_full": "California",
+        "city_summary": "Sacramento is the capital city of the U.S. state of California. The county seat of Sacramento County, it is located at the confluence of the Sacramento and American Rivers in the Sacramento Valley. It is the fourth-most populous city in Northern California, sixth-most populous city in the state, and 35th-most populous city in the United States, with a population of 524,943 at the 2020 census.",
+        "city_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Sacramento%2C_CA_skyline_%28cropped%29.jpg/1280px-Sacramento%2C_CA_skyline_%28cropped%29.jpg",
+        "city_lat": 38.58166667,
+        "city_lon": -121.49444444,
+        "source": "wikipedia_verified_engine"
+    },
+    "attractions": [
+        {
+            "type": "node",
+            "id": 335920079,
+            "lat": -20.1074631,
+            "lon": -46.8953012,
+            "tags": {
+                "int_name": "Serra da Canastra",
+                "leisure": "nature_reserve",
+                "name": "Parque Nacional da Serra da Canastra",
+                "name:en": "Serra da Canastra National Park",
+                "name:es": "Parque Nacional de la Sierra de Canastra",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 358836203,
+            "lat": 38.5910163,
+            "lon": -121.4352315,
+            "tags": {
+                "ele": "11",
+                "gnis:feature_id": "1820164",
+                "historic:name": "Waterworld USA",
+                "name": "Raging Waters Sacramento",
+                "tourism": "theme_park",
+                "website": "https://www.rwsac.com/",
+                "wikidata": "Q3417493"
+            }
+        },
+        {
+            "type": "node",
+            "id": 368173324,
+            "lat": 38.5762942,
+            "lon": -121.4977331,
+            "tags": {
+                "addr:state": "CA",
+                "building": "yes",
+                "ele": "6",
+                "gnis:feature_id": "2061374",
+                "name": "Leland Stanford Mansion",
+                "source": "USGS Geonames",
+                "tourism": "museum",
+                "website": "http://www.parks.ca.gov/?page_id=489",
+                "wikidata": "Q6520801"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/24/Stanford_Mansion_%28Sacramento%2C_California%29.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 368174474,
+            "lat": 38.5743238,
+            "lon": -121.4956483,
+            "tags": {
+                "addr:city": "Sacramento",
+                "addr:housenumber": "1020",
+                "addr:postcode": "95814",
+                "addr:state": "CA",
+                "addr:street": "O Street",
+                "ele": "7",
+                "fee": "yes",
+                "former_name": "Golden State Museum",
+                "gnis:feature_id": "2061347",
+                "name": "The California Museum",
+                "opening_hours": "Tu-Sa 10:00-17:00; Su 12:00-17:00",
+                "phone": "+1-916-653-7524",
+                "source": "USGS Geonames",
+                "tourism": "museum",
+                "website": "https://www.californiamuseum.org/",
+                "wikidata": "Q7720978"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/California_Museum.jpg/1280px-California_Museum.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 368174602,
+            "lat": 38.5990726,
+            "lon": -121.496038,
+            "tags": {
+                "addr:city": "Sacramento",
+                "addr:housenumber": "551",
+                "addr:postcode": "95811",
+                "addr:state": "CA",
+                "addr:street": "Sequoia Pacific Boulevard",
+                "ele": "8",
+                "gnis:feature_id": "1820410",
+                "name": "Sacramento Archives and Museum Collection Center Library",
+                "source": "USGS Geonames",
+                "tourism": "museum",
+                "website": "http://www.centerforsacramentohistory.org/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Area_code_916.svg/1280px-Area_code_916.svg.png",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 368174612,
+            "lat": 38.5771169,
+            "lon": -121.5061707,
+            "tags": {
+                "addr:city": "sacramento",
+                "addr:housenumber": "216",
+                "addr:postcode": "95814",
+                "addr:state": "CA",
+                "addr:street": "O Street",
+                "ele": "7",
+                "fee": "yes",
+                "gnis:feature_id": "1820058",
+                "name": "Crocker Art Museum",
+                "phone": "+1-916-808-7000",
+                "source": "USGS Geonames",
+                "tourism": "museum",
+                "website": "www.crockerartmuseum.org",
+                "wheelchair": "limited",
+                "wikidata": "Q3003161",
+                "wikipedia": "en:Crocker Art Museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Crocker_Museum_entrance.jpg/1280px-Crocker_Museum_entrance.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 3934608747,
+            "lat": -20.0944183,
+            "lon": -46.8421125,
+            "tags": {
+                "name": "acesso Cachoeira da Parida",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 4356738101,
+            "lat": 38.5763316,
+            "lon": -121.49386,
+            "tags": {
+                "csp:unitcode": "357",
+                "name": "California State Capitol Museum",
+                "tourism": "museum",
+                "website": "https://capitolmuseum.ca.gov/",
+                "wikidata": "Q5021012",
+                "wikipedia": "en:California State Capitol Museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Sacramento%2C-California---State-Capitol.jpg/1280px-Sacramento%2C-California---State-Capitol.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 5068486965,
+            "lat": 38.712006,
+            "lon": -9.1405862,
+            "tags": {
+                "addr:city": "Lisboa",
+                "addr:housename": "Igreja do Convento de Santa Maria do Carmo",
+                "addr:postcode": "1200-092",
+                "addr:street": "Largo do Carmo",
+                "alt_name": "Ruínas e Museu Arqueológico do Carmo;Ruínas do Carmo;Museu do Carmo",
+                "charge": "7.00 EUR",
+                "check_date": "2024-05-06",
+                "contact:email": "secretaria@arqueologos.pt",
+                "contact:phone": "+351 213 478 629;+351 213 460 473",
+                "contact:skype": "aap_mac2016",
+                "contact:website": "www.museuarqueologicodocarmo.pt",
+                "description": "O espólio museológico da Associação dos Arqueólogos Portugueses, que deu origem ao Museu Arqueológico do Carmo (MAC), encontra-se instalado, desde 1864, nas denominadas Ruínas do Carmo, classificadas como Monumento Nacional, correspondendo à anti",
+                "email": "secretaria@arqueologos.pt",
+                "fee": "yes",
+                "internet_access": "wlan",
+                "internet_access:fee": "no",
+                "museum": "archaeological",
+                "name": "Museu Arqueológico do Carmo",
+                "name:ru": "Монастырь Кармелитов",
+                "opening_hours": "Oct-May: Tu-Su 10:00-18:00; Jun-Sep: Tu-Su 10:00-19:00; Jan 01,May 01,Dec 25 off",
+                "operator": "Associação dos Arqueólogos Portugueses",
+                "payment:cash": "yes",
+                "payment:coins": "yes",
+                "payment:credit_cards": "yes",
+                "payment:cryptocurrencies": "no",
+                "payment:debit_cards": "yes",
+                "payment:notes": "yes",
+                "short_name": "MAC",
+                "source": "dadosabertos.cm-lisboa.pt",
+                "start_date": "1864",
+                "subject": "archaeology",
+                "tourism": "museum",
+                "website": "www.museuarqueologicodocarmo.pt/",
+                "wikidata": "Q1146790",
+                "wikimedia_commons": "Category:Museu Arqueológico do Carmo",
+                "wikipedia": "pt:Museu Arqueológico do Carmo"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Lisbon09.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 5073093222,
+            "lat": 38.7122726,
+            "lon": -9.1407119,
+            "tags": {
+                "access": "yes",
+                "addr:city": "Lisboa",
+                "addr:postcode": "1200-092",
+                "addr:street": "Largo do Carmo",
+                "alt_name": "Museu da Divisão História e Cultura da Guarda Nacional Republicana;Museu da GNR;Museu Guarda Nacional Republicana",
+                "check_date": "2024-05-06",
+                "contact:phone": "+351 213 217 222",
+                "contact:website": "http://www.arquivomuseugnr.pt/",
+                "museum": "military",
+                "name": "Museu da Guarda Nacional Republicana",
+                "name:pt": "Museu da Guarda Nacional Republicana",
+                "opening_hours": "Mo-Sa 10:00-18:00",
+                "subject": "military",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/COA_pt_garde_nationale_r%C3%A9publicaine.svg/1280px-COA_pt_garde_nationale_r%C3%A9publicaine.svg.png",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 6751919309,
+            "lat": 38.5393831,
+            "lon": -121.5017292,
+            "tags": {
+                "name": "Humpty Dumpty's Bridge",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/LWBSacramentoZoo.JPG/1280px-LWBSacramentoZoo.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 6751919313,
+            "lat": 38.5395457,
+            "lon": -121.501493,
+            "tags": {
+                "name": "King Aurthur's Castle",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/LWBSacramentoZoo.JPG/1280px-LWBSacramentoZoo.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 6751919327,
+            "lat": 38.5392128,
+            "lon": -121.5017074,
+            "tags": {
+                "name": "Fairytale Town Box Office",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/LWBSacramentoZoo.JPG/1280px-LWBSacramentoZoo.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 6751919328,
+            "lat": 38.5393392,
+            "lon": -121.5014022,
+            "tags": {
+                "name": "Mary's Little Lambs",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/LWBSacramentoZoo.JPG/1280px-LWBSacramentoZoo.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 6751932389,
+            "lat": 38.539205,
+            "lon": -121.5014667,
+            "tags": {
+                "name": "Old Woman in the Shoe Slide",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/LWBSacramentoZoo.JPG/1280px-LWBSacramentoZoo.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 6751932428,
+            "lat": 38.5394834,
+            "lon": -121.5016729,
+            "tags": {
+                "name": "Wishing Well",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/LWBSacramentoZoo.JPG/1280px-LWBSacramentoZoo.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 6751932439,
+            "lat": 38.5397675,
+            "lon": -121.5017261,
+            "tags": {
+                "name": "Pirate Ship",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/LWBSacramentoZoo.JPG/1280px-LWBSacramentoZoo.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 6751932521,
+            "lat": 38.5393637,
+            "lon": -121.5010154,
+            "tags": {
+                "name": "The Tipi",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/William_Land_Park_Sacramento_-_panoramio.jpg/1280px-William_Land_Park_Sacramento_-_panoramio.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 6751932616,
+            "lat": 38.5395969,
+            "lon": -121.5009361,
+            "tags": {
+                "name": "The Crooked Mile",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/William_Land_Park_Sacramento_-_panoramio.jpg/1280px-William_Land_Park_Sacramento_-_panoramio.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 6751932697,
+            "lat": 38.539575,
+            "lon": -121.5006357,
+            "tags": {
+                "name": "Red Tractor",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/William_Land_Park_Sacramento_-_panoramio.jpg/1280px-William_Land_Park_Sacramento_-_panoramio.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 6751932805,
+            "lat": 38.5397637,
+            "lon": -121.5005595,
+            "tags": {
+                "name": "Farmer Brown's Barn",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/William_Land_Park_Sacramento_-_panoramio.jpg/1280px-William_Land_Park_Sacramento_-_panoramio.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 6751932846,
+            "lat": 38.539774,
+            "lon": -121.5007947,
+            "tags": {
+                "name": "Owl's Tree House",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/William_Land_Park_Sacramento_-_panoramio.jpg/1280px-William_Land_Park_Sacramento_-_panoramio.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 6751932848,
+            "lat": 38.5399931,
+            "lon": -121.500645,
+            "tags": {
+                "name": "Mother Goose Stage",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/William_Land_Park_Sacramento_-_panoramio.jpg/1280px-William_Land_Park_Sacramento_-_panoramio.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 6751932909,
+            "lat": 38.5402173,
+            "lon": -121.5014429,
+            "tags": {
+                "name": "The Tortoise and The Hare",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/William_Land_Park_Sacramento_-_panoramio.jpg/1280px-William_Land_Park_Sacramento_-_panoramio.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 6751933079,
+            "lat": 38.5398436,
+            "lon": -121.5017466,
+            "tags": {
+                "name": "The Alphabet Garden",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/LWBSacramentoZoo.JPG/1280px-LWBSacramentoZoo.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 6751985724,
+            "lat": 38.5400231,
+            "lon": -121.5015461,
+            "tags": {
+                "name": "McGreggor's Garden",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/William_Land_Park_Sacramento_-_panoramio.jpg/1280px-William_Land_Park_Sacramento_-_panoramio.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 6754525822,
+            "lat": 38.5402304,
+            "lon": -121.5012112,
+            "tags": {
+                "name": "The Children's Theatre",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/William_Land_Park_Sacramento_-_panoramio.jpg/1280px-William_Land_Park_Sacramento_-_panoramio.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 6754525853,
+            "lat": 38.540276,
+            "lon": -121.5008189,
+            "tags": {
+                "name": "Cinderella's Coach",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/William_Land_Park_Sacramento_-_panoramio.jpg/1280px-William_Land_Park_Sacramento_-_panoramio.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 6754525864,
+            "lat": 38.5402776,
+            "lon": -121.5009349,
+            "tags": {
+                "name": "Jack and the Beanstalk",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/William_Land_Park_Sacramento_-_panoramio.jpg/1280px-William_Land_Park_Sacramento_-_panoramio.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 6754564987,
+            "lat": 38.5399073,
+            "lon": -121.5014982,
+            "tags": {
+                "name": "Urashima Taro (Japanese Garden)",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/William_Land_Park_Sacramento_-_panoramio.jpg/1280px-William_Land_Park_Sacramento_-_panoramio.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 6754565012,
+            "lat": 38.5403908,
+            "lon": -121.5010978,
+            "tags": {
+                "name": "The Little Engine That Could",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/William_Land_Park_Sacramento_-_panoramio.jpg/1280px-William_Land_Park_Sacramento_-_panoramio.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 6754565019,
+            "lat": 38.5403442,
+            "lon": -121.5013386,
+            "tags": {
+                "name": "Peter Rabbit and his Sisters",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/William_Land_Park_Sacramento_-_panoramio.jpg/1280px-William_Land_Park_Sacramento_-_panoramio.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 6754565023,
+            "lat": 38.540172,
+            "lon": -121.500586,
+            "tags": {
+                "name": "The Three Billy Goats Gruff",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/William_Land_Park_Sacramento_-_panoramio.jpg/1280px-William_Land_Park_Sacramento_-_panoramio.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 6754565024,
+            "lat": 38.5401507,
+            "lon": -121.5005089,
+            "tags": {
+                "name": "Three Little Pigs",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/William_Land_Park_Sacramento_-_panoramio.jpg/1280px-William_Land_Park_Sacramento_-_panoramio.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 6754565076,
+            "lat": 38.5401359,
+            "lon": -121.5007973,
+            "tags": {
+                "name": "The Cheese Stands Alone",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/William_Land_Park_Sacramento_-_panoramio.jpg/1280px-William_Land_Park_Sacramento_-_panoramio.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 6754565077,
+            "lat": 38.540074,
+            "lon": -121.5009891,
+            "tags": {
+                "name": "Jack and Jill Hill",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/William_Land_Park_Sacramento_-_panoramio.jpg/1280px-William_Land_Park_Sacramento_-_panoramio.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 6754565078,
+            "lat": 38.5399943,
+            "lon": -121.5010025,
+            "tags": {
+                "name": "Mother Goose",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/William_Land_Park_Sacramento_-_panoramio.jpg/1280px-William_Land_Park_Sacramento_-_panoramio.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 6754565079,
+            "lat": 38.5400792,
+            "lon": -121.5011473,
+            "tags": {
+                "name": "Rabbit Hole Slide",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/William_Land_Park_Sacramento_-_panoramio.jpg/1280px-William_Land_Park_Sacramento_-_panoramio.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 6762756666,
+            "lat": 38.5385333,
+            "lon": -121.5045839,
+            "tags": {
+                "name": "Giraffe Viewing Deck",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Camp_Sutterville_plaque_historical_marker_666_with_pillar_in_background.jpg/1280px-Camp_Sutterville_plaque_historical_marker_666_with_pillar_in_background.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 6762756722,
+            "lat": 38.5389826,
+            "lon": -121.5028658,
+            "tags": {
+                "name": "Conservation Carousel",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/LWBSacramentoZoo.JPG/1280px-LWBSacramentoZoo.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 6762756829,
+            "lat": 38.5392452,
+            "lon": -121.5028589,
+            "tags": {
+                "name": "Sacramento Zoo Train",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/LWBSacramentoZoo.JPG/1280px-LWBSacramentoZoo.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 6765519239,
+            "lat": 38.5399156,
+            "lon": -121.5031779,
+            "tags": {
+                "name": "Kilimanjaro Climb",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/LWBSacramentoZoo.JPG/1280px-LWBSacramentoZoo.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 13125177001,
+            "lat": 38.4970548,
+            "lon": -121.4844188,
+            "tags": {
+                "addr:housenumber": "2251",
+                "addr:postcode": "95822",
+                "addr:street": "Florin Road",
+                "name": "Sojourner Truth African Heritage Museum",
+                "opening_hours": "Th-Sa 12:00-17:00",
+                "tourism": "museum",
+                "website": "https://www.sojoartsmuseum.org/"
+            }
+        },
+        {
+            "type": "way",
+            "id": 25295103,
+            "lat": 38.5703206,
+            "lon": -121.5117675,
+            "tags": {
+                "addr:city": "Sacramento",
+                "addr:housenumber": "2200",
+                "addr:postcode": "95818",
+                "addr:state": "CA",
+                "addr:street": "Front Street",
+                "building": "yes",
+                "ele": "6",
+                "gnis:feature_id": "1820031",
+                "name": "California Automobile Museum",
+                "nonsquare": "yes",
+                "source": "USGS Geonames",
+                "tourism": "museum",
+                "website": "https://www.calautomuseum.org/",
+                "wikidata": "Q5020253"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/California_Automobile_Museum_-_panoramio.jpg/1280px-California_Automobile_Museum_-_panoramio.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 40186321,
+            "lat": 38.5730354,
+            "lon": -121.471727,
+            "tags": {
+                "addr:city": "Sacramento",
+                "addr:housenumber": "2618",
+                "addr:postcode": "95816",
+                "addr:state": "CA",
+                "addr:street": "K Street",
+                "air_conditioning": "yes",
+                "attribution": "CASIL CSP_Opbdys072008",
+                "building": "yes",
+                "building:levels": "1",
+                "csp:globalid": "{17E2B67D-5AF8-46EC-957E-FF1097298AA0}",
+                "csp:unitcode": "309",
+                "fee": "yes",
+                "museum": "local_history",
+                "name": "State Indian Museum (SHP)",
+                "opening_hours": "Mo-Su 10:00-17:00",
+                "operator": "California State Parks",
+                "operator:type": "government",
+                "park:type": "state_historic_park",
+                "payment:apple_pay": "yes",
+                "payment:credit_cards": "yes",
+                "phone": "+1 916-324-0971",
+                "tourism": "museum",
+                "website": "https://www.parks.ca.gov/?page_id=486",
+                "wheelchair": "yes"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/K_Street_%2851719048898%29.jpg/1280px-K_Street_%2851719048898%29.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 96301719,
+            "lat": 38.7121864,
+            "lon": -9.1402612,
+            "tags": {
+                "addr:street": "Largo do Carmo",
+                "alt_name": "Igreja do Convento do Carmo;Museu Arqueológico do Carmo;Ruínas do Carmo",
+                "amenity": "place_of_worship",
+                "denomination": "roman_catholic",
+                "description": "Antigo convento carmelita de Nª Sra. do Vencimento do Monte do Carmo, mandado construír, em 1389, pelo Condestável D. Nuno Álvares Pereira, ficou concluído nas primeiras décadas do séc. XV. Profundamente afectado pelo terramoto de 1755, não volto",
+                "end_date": "1755",
+                "heritage": "2",
+                "heritage:operator": "pc",
+                "heritage:website": "https://imovel.patrimoniocultural.gov.pt/detalhes.php?code=72498",
+                "heritage:website:sipa": "http://monumentos.pt/Site/APP_PagesUser/SIPA.aspx?id=6521",
+                "historic": "monastery",
+                "name": "Igreja do Convento de Santa Maria do Carmo",
+                "name:ko": "카르무 산타마리아 수도원 교회",
+                "operator": "Associação dos Arqueólogos Portugueses, Dec. nº 8 630, de 09 Fevereiro 1997",
+                "pc:inscription_date": "1907-01-17",
+                "protection_title": "Monumento Nacional",
+                "ref:ipa": "6521",
+                "ref:pc": "72498",
+                "related_law": "Decreto de 16-06-1910, DG, n.º 136, de 23-06-1910",
+                "religion": "christian",
+                "ruins": "yes",
+                "short_protection_title": "MN",
+                "source": "dadosabertos.cm-lisboa.pt",
+                "start_date": "1389",
+                "tourism": "attraction",
+                "wikidata": "Q96576011",
+                "wikimedia_commons": "Category:Igreja do Convento do Carmo (Lisbon)"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Lisbon09.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 96359446,
+            "lat": 38.710871,
+            "lon": -9.1427635,
+            "tags": {
+                "addr:city": "Lisboa",
+                "addr:country": "PT",
+                "addr:housename": "Igreja do Loreto",
+                "addr:postcode": "1200-108",
+                "addr:street": "Largo do Chiado",
+                "alt_name": "Igreja dos Italianos",
+                "alt_name:es": "Iglesia_Loreto",
+                "amenity": "place_of_worship",
+                "building": "church",
+                "denomination": "roman_catholic",
+                "description": "No Chiado, sobre um pequeno adro a que se acede por escadaria de 2 lanços rectos murados e convergentes em patamar, foi erigida a Igreja de Nª Sra. do Loreto ou Igreja dos Italianos, em 1518, a pedido da comunidade italiana residente em Portugal.",
+                "email": "loreto@dehonianos.org",
+                "name": "Igreja do Loreto",
+                "phone": "+351 213 423655",
+                "ref:aml": "24782",
+                "religion": "christian",
+                "source": "dadosabertos.cm-lisboa.pt",
+                "source:name": "CICL",
+                "tourism": "attraction",
+                "website": "https://www.dehonianos.org/portal/pastoral_ver.asp?artigoid=81",
+                "wikidata": "Q1657876",
+                "wikimedia_commons": "Category:Igreja de Nossa Senhora do Loreto (Lisbon)",
+                "wikipedia": "pt:Igreja do Loreto"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Lisbon_10064_Lisboa_Pra%C3%A7a_Lu%C3%ADs_de_Cam%C3%B5es_2006_Luca_Galuzzi_%28cropped%29.jpg/1280px-Lisbon_10064_Lisboa_Pra%C3%A7a_Lu%C3%ADs_de_Cam%C3%B5es_2006_Luca_Galuzzi_%28cropped%29.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 226891766,
+            "lat": 38.591462,
+            "lon": -121.4322554,
+            "tags": {
+                "alt_name": "California State Fair Grounds",
+                "area": "yes",
+                "name": "Cal Expo",
+                "tourism": "theme_park"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/State_Fair_2014.jpg/1280px-State_Fair_2014.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 230157306,
+            "lat": 38.5372433,
+            "lon": -121.5017582,
+            "tags": {
+                "addr:housenumber": "1350",
+                "addr:postcode": "95822",
+                "addr:street": "17th Avenue",
+                "check_date": "2026-03-28",
+                "check_date:opening_hours": "2026-03-28",
+                "name": "Funderland",
+                "opening_hours": "Mo-Fr 11:00-17:00; Sa-Su 10:00-18:00",
+                "phone": "+1-916-456-0131",
+                "tourism": "theme_park",
+                "website": "http://funderlandpark.com"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Camp_Sutterville_plaque_historical_marker_666_with_pillar_in_background.jpg/1280px-Camp_Sutterville_plaque_historical_marker_666_with_pillar_in_background.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 239938789,
+            "lat": -20.0724625,
+            "lon": -47.3970403,
+            "tags": {
+                "addr:city": "Sacramento",
+                "name": "Águas do Vale Náutico Clube",
+                "operator": "Clube aquático águas do Vale",
+                "tourism": "theme_park"
+            }
+        },
+        {
+            "type": "way",
+            "id": 331194228,
+            "lat": 38.5811151,
+            "lon": -121.5066528,
+            "tags": {
+                "addr:city": "Sacramento",
+                "addr:housenumber": "1200",
+                "addr:state": "CA",
+                "addr:street": "Front Street",
+                "destroyed:building": "yes",
+                "ele": "10",
+                "gnis:feature_id": "1820103",
+                "name": "Old Sacramento Schoolhouse Museum",
+                "note": "This building has been demolished - a Native American garden will be replacing it soon - Note from Spatiala in December 2025",
+                "source": "USGS Geonames",
+                "source:geometry": "Bing",
+                "tourism": "museum",
+                "website": "https://www.scoe.net/oldsacschoolhouse/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/75/DBuild1.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 331194233,
+            "lat": 38.5813991,
+            "lon": -121.5046498,
+            "tags": {
+                "addr:city": "Sacramento",
+                "addr:housenumber": "1119",
+                "addr:state": "CA",
+                "addr:street": "2nd Street",
+                "building": "yes",
+                "ele": "9",
+                "gnis:feature_id": "2061257",
+                "name": "The California State Military Museum",
+                "source": "USGS Geonames",
+                "source:geometry": "Bing",
+                "tourism": "museum",
+                "website": "https://www.militarymuseum.org/",
+                "wikidata": "Q5021044",
+                "wikipedia": "en:California State Military Museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/CaliforniaMuseumofMilitaryHistory2.JPG/1280px-CaliforniaMuseumofMilitaryHistory2.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 504407078,
+            "lat": 38.5848335,
+            "lon": -121.5049744,
+            "tags": {
+                "addr:city": "Sacramento",
+                "addr:housenumber": "101",
+                "addr:postcode": "95814",
+                "addr:state": "CA",
+                "addr:street": "I Street",
+                "building": "yes",
+                "check_date": "2025-04-23",
+                "fee": "yes",
+                "gnis:feature_id": "1820069",
+                "name": "Sacramento History Museum",
+                "opening_hours": "10:00-17:00",
+                "phone": "+1-916-8087059",
+                "tourism": "museum",
+                "website": "http://www.historicoldsac.org/",
+                "wheelchair": "yes"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/SacramentoHistoryMuseum.jpg/1280px-SacramentoHistoryMuseum.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 612462636,
+            "lat": 38.5741489,
+            "lon": -121.4345469,
+            "tags": {
+                "addr:city": "Sacramento",
+                "addr:housenumber": "5380",
+                "addr:postcode": "95819",
+                "addr:state": "CA",
+                "addr:street": "Elvas Avenue",
+                "building": "yes",
+                "ele": "12",
+                "gnis:feature_id": "2061386",
+                "name": "Medical History Museum",
+                "source": "USGS Geonames",
+                "tourism": "museum"
+            }
+        },
+        {
+            "type": "way",
+            "id": 663319284,
+            "lat": 38.7119243,
+            "lon": -9.1408356,
+            "tags": {
+                "alt_name": "Chafariz do Carmo",
+                "amenity": "fountain",
+                "description": "A sua construção teve início em 1769, com as obras do Largo resultantes da urbanização pombalina. Provavelmente segundo projecto do então Marechal de Campo, D. Miguel Ângelo de Blasco.",
+                "drinking_water": "yes",
+                "historic": "fountain",
+                "man_made": "water_tap",
+                "name": "Chafariz do Largo do Carmo",
+                "natural": "water",
+                "operator": "Câmara Municipal de Lisboa",
+                "source": "dadosabertos.cm-lisboa.pt",
+                "source:name": "Turismo / CICL",
+                "source:pkey": "44f5be11-73bc-4825-a573-fa7ddd92247d",
+                "tourism": "attraction",
+                "wikidata": "Q1058764",
+                "wikimedia_commons": "Category:Chafariz do Carmo"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Lisbon09.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 983636771,
+            "lat": 38.5931885,
+            "lon": -121.5054188,
+            "tags": {
+                "addr:city": "Sacramento",
+                "addr:housenumber": "400",
+                "addr:postcode": "95811",
+                "addr:state": "CA",
+                "addr:street": "Jibboom Street",
+                "building": "construction",
+                "construction": "public",
+                "name": "SMUD Museum of Science and Curiosity",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/33/PG%26E_PowerHouse.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 998478223,
+            "lat": 38.5105013,
+            "lon": -121.4356028,
+            "tags": {
+                "area": "yes",
+                "name": "Little Saigon",
+                "tourism": "attraction"
+            }
+        }
+    ]
+}

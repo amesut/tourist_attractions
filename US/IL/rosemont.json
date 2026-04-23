@@ -1,0 +1,438 @@
+{
+    "city_metadata": {
+        "city_name": "Rosemont",
+        "state_code": "IL",
+        "state_full": "Illinois",
+        "city_summary": "Rosemont is a village in Cook County, Illinois, United States, located immediately northwest of Chicago. As of the 2020 census, the village had a population of 3,952. The village was incorporated in 1956, though it had been settled long before that.",
+        "city_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/River_Road%2C_Rosemont%2C_Illinois.JPG/1280px-River_Road%2C_Rosemont%2C_Illinois.JPG",
+        "city_lat": 41.99083333,
+        "city_lon": -87.87388889,
+        "source": "wikipedia_verified_engine"
+    },
+    "attractions": [
+        {
+            "type": "node",
+            "id": 1330276671,
+            "lat": 45.560399,
+            "lon": -73.5601941,
+            "tags": {
+                "name": "La cloche de la paix",
+                "name:en": "The Peace Bell",
+                "name:fr": "La cloche de la paix",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Montreal_Insectarium_2017.jpg/1280px-Montreal_Insectarium_2017.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 4012150293,
+            "lat": 41.9921847,
+            "lon": -87.8639965,
+            "tags": {
+                "addr:city": "Rosemont",
+                "addr:housenumber": "9513",
+                "addr:postcode": "60018",
+                "addr:state": "IL",
+                "addr:street": "West Higgins Road",
+                "museum": "art",
+                "name": "Museum of Hummels",
+                "source": "http://www.rosemont.com/community/museum-of-hummels/",
+                "tourism": "museum",
+                "website": "https://rosemont.com/museum-of-hummels/"
+            }
+        },
+        {
+            "type": "node",
+            "id": 5013108029,
+            "lat": 45.5440869,
+            "lon": -73.5618043,
+            "tags": {
+                "addr:housenumber": "2925",
+                "addr:street": "Rue Rachel Est",
+                "name": "Anciens ateliers Angus",
+                "name:fr": "Anciens ateliers Angus",
+                "opening_hours": "Mo-Su 08:00-21:00",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11150514855,
+            "lat": 45.5591306,
+            "lon": -73.5653996,
+            "tags": {
+                "name": "Jardins-jeune",
+                "name:en": "Youth Gardens",
+                "name:fr": "Jardins-jeune",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Parc_Maisonneuve_25.jpg/1280px-Parc_Maisonneuve_25.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 46866398,
+            "lat": 45.5610089,
+            "lon": -73.5580401,
+            "tags": {
+                "addr:housenumber": "4581",
+                "addr:street": "Rue Sherbrooke Est",
+                "attribution": "Natural Resources Canada",
+                "building": "yes",
+                "canvec:CODE": "2010252",
+                "canvec:UUID": "11CF452AD665E5F4E0409C8467120387",
+                "check_date:opening_hours": "2023-15-09",
+                "fee": "yes",
+                "image": "https://web.archive.org/web/20230102200348/https://westnordost.de/p/126654.jpg",
+                "internet_access": "wlan",
+                "internet_access:fee": "no",
+                "internet_access:operator": "ZAP",
+                "internet_access:password": "no",
+                "internet_access:ssid": "MTLWiFi",
+                "name": "Insectarium de Montréal",
+                "name:en": "Montreal Insectarium",
+                "name:fr": "Insectarium de Montréal",
+                "opening_hours": "Tu-Su 09:00-17:00",
+                "opening_hours:url": "https://espacepourlavie.ca/horaires",
+                "outdoor_seating": "no",
+                "phone": "+1-514-868-3000",
+                "source": "CanVec_Import_2009",
+                "toilets:wheelchair": "yes",
+                "tourism": "museum",
+                "website": "https://espacepourlavie.ca/insectarium",
+                "wheelchair": "yes",
+                "wikidata": "Q124618345"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Montreal_Insectarium_2017.jpg/1280px-Montreal_Insectarium_2017.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 89333409,
+            "lat": 45.556365,
+            "lon": -73.5582242,
+            "tags": {
+                "area": "yes",
+                "attraction": "formal_garden",
+                "name": "Plantes vivaces",
+                "name:en": "Perennials",
+                "name:fr": "Plantes vivaces",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Botanical_Gardens_H.JPG/1280px-Botanical_Gardens_H.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 89533645,
+            "lat": 45.5601039,
+            "lon": -73.5580701,
+            "tags": {
+                "area": "yes",
+                "attraction": "formal_garden",
+                "name": "Le Jardin aquatique",
+                "name:en": "Aquatic Garden",
+                "name:fr": "Le Jardin aquatique",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Montreal_Insectarium_2017.jpg/1280px-Montreal_Insectarium_2017.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 89908829,
+            "lat": 45.5570792,
+            "lon": -73.5597609,
+            "tags": {
+                "area": "yes",
+                "attraction": "formal_garden",
+                "name": "Jardin nourriecier",
+                "name:en": "Food Garden",
+                "name:fr": "Jardin nourriecier",
+                "tourism": "attraction",
+                "wheelchair": "limited"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Botanical_Gardens_H.JPG/1280px-Botanical_Gardens_H.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 108708378,
+            "lat": 45.5581456,
+            "lon": -73.5599195,
+            "tags": {
+                "area": "yes",
+                "attraction": "formal_garden",
+                "name": "Jardin alpin",
+                "name:en": "Alpine Garden",
+                "name:fr": "Jardin alpin",
+                "tourism": "attraction",
+                "wheelchair": "limited",
+                "wikidata": "Q124051816"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Botanical_Gardens_H.JPG/1280px-Botanical_Gardens_H.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 108708381,
+            "lat": 45.5582534,
+            "lon": -73.5638484,
+            "tags": {
+                "area": "yes",
+                "attraction": "formal_garden",
+                "name": "Le Jardin des arbustes",
+                "name:en": "Shrub Garden",
+                "name:fr": "Le Jardin des arbustes",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Parc_Maisonneuve_25.jpg/1280px-Parc_Maisonneuve_25.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 182776577,
+            "lat": 45.5604008,
+            "lon": -73.5660076,
+            "tags": {
+                "leaf_type": "mixed",
+                "name": "Le Jardin des éricacées Leslie-Hancock",
+                "name:en": "Leslie Hancock Ericaceae Garden",
+                "name:fr": "Le Jardin des éricacées Leslie-Hancock",
+                "natural": "wood",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Parc_Maisonneuve_25.jpg/1280px-Parc_Maisonneuve_25.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 1126550006,
+            "lat": 45.5607208,
+            "lon": -73.5581227,
+            "tags": {
+                "building": "yes",
+                "fee": "yes",
+                "image": "https://web.archive.org/web/20230102200348/https://westnordost.de/p/126654.jpg",
+                "internet_access": "wlan",
+                "internet_access:fee": "no",
+                "internet_access:operator": "ZAP",
+                "internet_access:password": "no",
+                "internet_access:ssid": "MTLWiFi",
+                "name": "Le Dôme",
+                "tourism": "museum",
+                "website": "https://espacepourlavie.ca/le-dome"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Montreal_Insectarium_2017.jpg/1280px-Montreal_Insectarium_2017.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 1202818325,
+            "lat": 45.5572209,
+            "lon": -73.5606561,
+            "tags": {
+                "area": "yes",
+                "attraction": "formal_garden",
+                "name": "Jardin des nouveautés",
+                "name:en": "Garden of Innovations",
+                "name:fr": "Jardin des nouveautés",
+                "tourism": "attraction",
+                "wheelchair": "yes"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Botanical_Gardens_H.JPG/1280px-Botanical_Gardens_H.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 1202822073,
+            "lat": 45.5596717,
+            "lon": -73.5575652,
+            "tags": {
+                "area": "yes",
+                "attraction": "formal_garden",
+                "garden:style": "rosarium",
+                "name": "Le Roseraie",
+                "name:en": "Rose Garden",
+                "name:fr": "Le Roseraie",
+                "tourism": "attraction",
+                "wikidata": "Q124056814"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Montreal_Insectarium_2017.jpg/1280px-Montreal_Insectarium_2017.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 1202822075,
+            "lat": 45.5603306,
+            "lon": -73.5604359,
+            "tags": {
+                "area": "yes",
+                "attraction": "formal_garden",
+                "name": "Le Jardin japonais",
+                "name:en": "Japanese Garden",
+                "name:fr": "Le Jardin japonais",
+                "tourism": "attraction",
+                "wheelchair": "yes"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Parc_Maisonneuve_25.jpg/1280px-Parc_Maisonneuve_25.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 1263570621,
+            "lat": 45.5592249,
+            "lon": -73.5585943,
+            "tags": {
+                "area": "yes",
+                "name": "Le Jardin de Chine",
+                "name:en": "Chinese Garden",
+                "name:fr": "Le Jardin de Chine",
+                "toilets:wheelchair": "yes",
+                "tourism": "attraction",
+                "wheelchair": "limited",
+                "wikidata": "Q124089135"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Montreal_Insectarium_2017.jpg/1280px-Montreal_Insectarium_2017.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 1263570623,
+            "lat": 45.5597545,
+            "lon": -73.5612768,
+            "tags": {
+                "area": "yes",
+                "name": "Jardin des Premières-Nations",
+                "name:en": "First Nations Garden",
+                "name:fr": "Jardin des Premières-Nations",
+                "tourism": "attraction",
+                "wikidata": "Q124290447"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Parc_Maisonneuve_25.jpg/1280px-Parc_Maisonneuve_25.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 1263570624,
+            "lat": 45.5586701,
+            "lon": -73.561777,
+            "tags": {
+                "attraction": "formal_garden",
+                "name": "Ruisseau fleuri",
+                "name:en": "Flowery Brook",
+                "name:fr": "Ruisseau fleuri",
+                "tourism": "attraction",
+                "wheelchair": "limited"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Parc_Maisonneuve_25.jpg/1280px-Parc_Maisonneuve_25.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 1263570625,
+            "lat": 45.5580317,
+            "lon": -73.5613278,
+            "tags": {
+                "attraction": "formal_garden",
+                "name": "Lilas",
+                "name:en": "Lilacs",
+                "name:fr": "Lilas",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Botanical_Gardens_H.JPG/1280px-Botanical_Gardens_H.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 1263570697,
+            "lat": 45.5577536,
+            "lon": -73.5619399,
+            "tags": {
+                "attraction": "formal_garden",
+                "name": "Le Jardin des plantes médicinales",
+                "name:en": "Medicinal Plants Garden",
+                "name:fr": "Le Jardin des plantes médicinales",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Botanical_Gardens_H.JPG/1280px-Botanical_Gardens_H.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 1263570698,
+            "lat": 45.5576824,
+            "lon": -73.5621086,
+            "tags": {
+                "attraction": "formal_garden",
+                "name": "Le Jardin des plantes toxiques",
+                "name:en": "Toxic Plants Garden",
+                "name:fr": "Le Jardin des plantes toxiques",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Botanical_Gardens_H.JPG/1280px-Botanical_Gardens_H.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 1263570700,
+            "lat": 45.5576636,
+            "lon": -73.5616591,
+            "tags": {
+                "attraction": "formal_garden",
+                "name": "Le Jardin de monastère",
+                "name:en": "Monastery Garden",
+                "name:fr": "Le Jardin de monastère",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Botanical_Gardens_H.JPG/1280px-Botanical_Gardens_H.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 1263570701,
+            "lat": 45.5574189,
+            "lon": -73.5620208,
+            "tags": {
+                "attraction": "formal_garden",
+                "name": "Coin du Québec",
+                "name:en": "Quebec Corner",
+                "name:fr": "Coin du Québec",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Botanical_Gardens_H.JPG/1280px-Botanical_Gardens_H.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 1304186045,
+            "lat": 45.5617641,
+            "lon": -73.5618328,
+            "tags": {
+                "area": "yes",
+                "name": "Le Jardin d'ombre",
+                "name:en": "Shade Garden",
+                "name:fr": "Le Jardin d'ombre",
+                "tourism": "attraction",
+                "wheelchair": "limited"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Parc_Maisonneuve_25.jpg/1280px-Parc_Maisonneuve_25.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 39897760,
+            "lat": 41.9105,
+            "lon": -87.6349,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/56/Zanies-Nashville.JPG",
+            "description": "Zanies Comedy Club, located in Chicago, Illinois, was founded in November 1978 by Rick Uchwat.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Zanies Comedy Club",
+                "wikipedia": "en:Zanies Comedy Club",
+                "tourism": "attraction"
+            }
+        }
+    ]
+}

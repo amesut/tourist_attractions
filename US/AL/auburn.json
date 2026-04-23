@@ -1,0 +1,393 @@
+{
+    "city_metadata": {
+        "city_name": "Auburn",
+        "state_code": "AL",
+        "state_full": "Alabama",
+        "city_summary": "Auburn is a city in Lee County, Alabama, United States. It is the largest city in eastern Alabama. The population was 76,143 at the 2020 census.",
+        "city_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Auburn_Alabama_City_Hall.JPG/1280px-Auburn_Alabama_City_Hall.JPG",
+        "city_lat": 32.60833333,
+        "city_lon": -85.50138889,
+        "source": "wikipedia_verified_engine"
+    },
+    "attractions": [
+        {
+            "type": "node",
+            "id": 367795398,
+            "lat": 44.0820176,
+            "lon": -70.2497766,
+            "tags": {
+                "addr:state": "ME",
+                "ele": "68",
+                "gnis:feature_id": "1908764",
+                "name": "Auburn Fire Department Museum",
+                "source": "USGS Geonames",
+                "tourism": "museum"
+            }
+        },
+        {
+            "type": "node",
+            "id": 367795399,
+            "lat": 44.0981108,
+            "lon": -70.2238057,
+            "tags": {
+                "addr:state": "ME",
+                "ele": "43",
+                "gnis:feature_id": "1908756",
+                "name": "Androscoggin County Historical Museum",
+                "source": "USGS Geonames",
+                "tourism": "museum",
+                "website": "https://androhistory.org/museum-library-2/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/10/AuburnME_MainStreetHD_Downtown.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 368167592,
+            "lat": 38.8964396,
+            "lon": -121.0769867,
+            "tags": {
+                "addr:city": "Auburn",
+                "addr:housenumber": "101",
+                "addr:state": "CA",
+                "addr:street": "Maple Street",
+                "ele": "374",
+                "gnis:feature_id": "1723451",
+                "name": "Placer County Museum",
+                "source": "USGS Geonames",
+                "tourism": "museum"
+            }
+        },
+        {
+            "type": "node",
+            "id": 368174063,
+            "lat": 38.8912878,
+            "lon": -121.0727233,
+            "tags": {
+                "addr:state": "CA",
+                "ele": "386",
+                "gnis:feature_id": "1723453",
+                "name": "Placer County Historical Museum",
+                "source": "USGS Geonames",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Placer_County_Courthouse_%282025%29-L1007436.jpg/1280px-Placer_County_Courthouse_%282025%29-L1007436.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 2130277079,
+            "lat": -34.0261907,
+            "lon": 138.684365,
+            "tags": {
+                "addr:postcode": "5451",
+                "addr:street": "St Vincent Street",
+                "addr:suburb": "Auburn",
+                "description": "A unique Old Police Station and Courthouse featuring variety of stone work and handsawn Redgum.",
+                "name": "Auburn Old Police Station and Courthouse Museum National Trust",
+                "operator": "Vincent Street Auburn",
+                "phone": "+61 8 8849 2262",
+                "source": "National Trust",
+                "tourism": "museum",
+                "website": "https://www.nationaltrust.org.au/places/auburn-old-police-station-and-courthouse-museum/"
+            }
+        },
+        {
+            "type": "node",
+            "id": 2419518198,
+            "lat": 38.8917138,
+            "lon": -121.075657,
+            "tags": {
+                "name": "Bernard House",
+                "tourism": "museum",
+                "website": "https://www.placer.ca.gov/Facilities/Facility/Details/Bernhard-Museum-77"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Placer_County_Courthouse_%282025%29-L1007436.jpg/1280px-Placer_County_Courthouse_%282025%29-L1007436.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 4760950294,
+            "lat": 32.5961541,
+            "lon": -85.4833883,
+            "tags": {
+                "name": "Founders' Oak",
+                "natural": "tree",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Donald_E._Davis_Arboretum_footbridge_2011_DSCN5480.jpg/1280px-Donald_E._Davis_Arboretum_footbridge_2011_DSCN5480.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 4760950355,
+            "lat": 32.6050083,
+            "lon": -85.4826767,
+            "tags": {
+                "name": "Civil War Cannon Lathe",
+                "opening_hours": "24/7",
+                "tourism": "attraction",
+                "wheelchair": "yes"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b0/AuburnUniversity-SamfordHall.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 4760950363,
+            "lat": 32.6053803,
+            "lon": -85.482551,
+            "tags": {
+                "name": "University Seal",
+                "opening_hours": "24/7",
+                "tourism": "attraction",
+                "wheelchair": "yes"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Langdon_Hall.jpg/1280px-Langdon_Hall.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 8071437217,
+            "lat": -33.8598605,
+            "lon": 151.0179275,
+            "tags": {
+                "attraction": "aviary",
+                "name": "Auburn Aviary",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Lakeviewgarden.jpg/1280px-Lakeviewgarden.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 8948960142,
+            "lat": 42.7915999,
+            "lon": -111.0016064,
+            "tags": {
+                "addr:city": "Auburn",
+                "addr:housenumber": "395",
+                "addr:postcode": "83111",
+                "addr:state": "WY",
+                "addr:street": "1st West Street",
+                "museum": "history",
+                "name": "Old Rock Church Museum",
+                "operator": "Star Valley Historical Society",
+                "tourism": "museum",
+                "website": "https://starvalleyhs.lincolncountywy.org/Old_Rock_Church.html"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/be/Rock_Church.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 12084177833,
+            "lat": 42.1857906,
+            "lon": -71.8685659,
+            "tags": {
+                "name": "Path Continues",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 12084177842,
+            "lat": 42.191169,
+            "lon": -71.8700263,
+            "tags": {
+                "name": "Path Continues",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 12084184298,
+            "lat": 42.1997569,
+            "lon": -71.8665151,
+            "tags": {
+                "name": "Path Continues",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "way",
+            "id": 40262259,
+            "lat": 47.2991461,
+            "lon": -122.2183969,
+            "tags": {
+                "addr:city": "Auburn",
+                "addr:housenumber": "918",
+                "addr:postcode": "98002",
+                "addr:state": "WA",
+                "addr:street": "H Street Southeast",
+                "building": "yes",
+                "check_date": "2025-02-10",
+                "name": "White River Valley Museum",
+                "opening_hours": "We-Su 12:00-16:00",
+                "phone": "+1-253-288-7433",
+                "tourism": "museum",
+                "website": "https://www.wrvmuseum.org/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Auburn%2C_WA_%E2%80%94_White_River_Valley_Museum.jpg/1280px-Auburn%2C_WA_%E2%80%94_White_River_Valley_Museum.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 52594468,
+            "lat": 47.3309859,
+            "lon": -122.2357157,
+            "tags": {
+                "leisure": "sports_centre",
+                "name": "Emerald Downs",
+                "source": "yahoo_wms",
+                "sport": "horse_racing",
+                "tourism": "attraction",
+                "website": "http://www.emdowns.com/",
+                "wikidata": "Q5370430",
+                "wikipedia": "en:Emerald Downs"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Emerald_Downs.jpg/1280px-Emerald_Downs.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 131619666,
+            "lat": 32.5877518,
+            "lon": -85.4837379,
+            "tags": {
+                "addr:city": "Auburn",
+                "addr:housenumber": "901",
+                "addr:postcode": "36849",
+                "addr:state": "AL",
+                "addr:street": "South College Street",
+                "building": "public",
+                "name": "Julie Collins Smith Museum of Fine Art",
+                "operator": "Auburn University",
+                "start_date": "2003",
+                "tourism": "museum",
+                "wikipedia": "en:Jule Collins Smith Museum of Fine Art"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Cullars_Rotation_Auburn_University.JPG/1280px-Cullars_Rotation_Auburn_University.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 151842965,
+            "lat": 41.3556688,
+            "lon": -85.0571874,
+            "tags": {
+                "building": "yes",
+                "name": "Auburn Cord Duesenberg Automobile Museum",
+                "tourism": "museum",
+                "website": "https://automobilemuseum.org/",
+                "wikidata": "Q3629435",
+                "wikipedia": "en:Auburn Cord Duesenberg Automobile Museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/13/Auburn_Cord_Duesenberg_Museum_2004.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 238539066,
+            "lat": -33.8588545,
+            "lon": 151.0168446,
+            "tags": {
+                "name": "Fauna Reserve",
+                "tourism": "zoo"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Lakeviewgarden.jpg/1280px-Lakeviewgarden.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 436509536,
+            "lat": 38.9025536,
+            "lon": -121.0659677,
+            "tags": {
+                "addr:city": "Auburn",
+                "addr:housenumber": "601",
+                "addr:state": "CA",
+                "addr:street": "Lincoln Way",
+                "building": "yes",
+                "name": "The Gold Rush Museum",
+                "phone": "+1 530-889-6500",
+                "tourism": "museum",
+                "website": "https://www.placer.ca.gov/departments/facility/parks/parks-content/museums/gold-country-museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Auburn_Fire_House_No-_1_2012-09-16_16-18-57.jpg/1280px-Auburn_Fire_House_No-_1_2012-09-16_16-18-57.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 505703848,
+            "lat": 34.014531,
+            "lon": -83.826853,
+            "tags": {
+                "building": "yes",
+                "museum": "history",
+                "name": "Auburn Historic Museum",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Auburn_Historic_District_-_Georgia.JPG/1280px-Auburn_Historic_District_-_Georgia.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 1078848449,
+            "lat": 41.3554275,
+            "lon": -85.0560664,
+            "tags": {
+                "building": "yes",
+                "name": "National Auto & Truck Museum",
+                "tourism": "museum",
+                "website": "https://natmus.org/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/13/Auburn_Cord_Duesenberg_Museum_2004.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 1185614411,
+            "lat": 36.8615746,
+            "lon": -86.713941,
+            "tags": {
+                "addr:city": "Auburn",
+                "addr:housenumber": "433",
+                "addr:postcode": "42206",
+                "addr:state": "KY",
+                "addr:street": "West Main Street",
+                "building": "yes",
+                "name": "Auburn Museum",
+                "tourism": "museum"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 23961131,
+            "lat": 32.627,
+            "lon": -85.447,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Auburn_Mall_Logo_2014.png",
+            "description": "Auburn Mall is a regional shopping mall located in Auburn, Alabama, United States, and combines traditional mall shopping with village streetscape shopping.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Auburn Mall (Alabama)",
+                "wikipedia": "en:Auburn Mall (Alabama)",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 1426846,
+            "lat": 33.755,
+            "lon": -84.37222222,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Ebenezer-Baptist-from-pulpit.jpg/1280px-Ebenezer-Baptist-from-pulpit.jpg",
+            "description": "The Martin Luther King Jr.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Martin Luther King Jr. National Historical Park",
+                "wikipedia": "en:Martin Luther King Jr. National Historical Park",
+                "tourism": "attraction"
+            }
+        }
+    ]
+}

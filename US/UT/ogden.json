@@ -1,0 +1,347 @@
+{
+    "city_metadata": {
+        "city_name": "Ogden",
+        "state_code": "UT",
+        "state_full": "Utah",
+        "city_summary": "Ogden ( OG-dən) is a city in and the county seat of Weber County, Utah, United States, located approximately 10 miles (16 km) east of the Great Salt Lake and 40 miles (64 km) north of Salt Lake City. The population was 87,321 in 2020, according to the United States Census Bureau, making it Utah's eighth largest city. The city served as a major railway hub through much of its history, and still handles a great deal of freight rail traffic which makes it a convenient location for manufacturing and commerce.",
+        "city_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/US_Utah_Ogden_Montage.jpg/1280px-US_Utah_Ogden_Montage.jpg",
+        "city_lat": 41.22777778,
+        "city_lon": -111.96833333,
+        "source": "wikipedia_verified_engine"
+    },
+    "attractions": [
+        {
+            "type": "node",
+            "id": 366386029,
+            "lat": 41.2264945,
+            "lon": -111.9718568,
+            "tags": {
+                "addr:city": "Ogden",
+                "addr:housenumber": "347",
+                "addr:postcode": "84401",
+                "addr:street": "22nd Street",
+                "ele": "1334",
+                "gnis:feature_id": "2432505",
+                "name": "Treehouse Childrens Museum",
+                "tourism": "museum",
+                "website": "https://www.treehousemuseum.org/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Ogden_Temple_%282015%29.jpg/1280px-Ogden_Temple_%282015%29.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 443188816,
+            "lat": 41.2147633,
+            "lon": -111.9899714,
+            "tags": {
+                "name": "Fort Buenaventura",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Fort_Buenaventura_replica_-_17_April_2021.jpg/1280px-Fort_Buenaventura_replica_-_17_April_2021.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 2283661352,
+            "lat": 41.2376811,
+            "lon": -111.937983,
+            "tags": {
+                "addr:housenumber": "1544",
+                "addr:street": "Park Boulevard",
+                "name": "Elizabeth Dee Shaw Stewart Museum",
+                "operator": "Weber County",
+                "source": "survey",
+                "tourism": "museum",
+                "website": "https://www.go-utah.com/The-Elizabeth-Dee-Shaw-Stewart-Museum/"
+            }
+        },
+        {
+            "type": "node",
+            "id": 2334497521,
+            "lat": 41.2207325,
+            "lon": -111.979685,
+            "tags": {
+                "fee": "yes",
+                "name": "Utah State Railroad Museum",
+                "tourism": "museum",
+                "website": "https://www.ogdencity.com/1337/Visit"
+            }
+        },
+        {
+            "type": "node",
+            "id": 2334497535,
+            "lat": 41.2210472,
+            "lon": -111.979696,
+            "tags": {
+                "fee": "yes",
+                "name": "The Browning – Kimball Classic Car Museum",
+                "tourism": "museum",
+                "website": "https://ogdencity.com/1334/Golden-Age-of-Motorcars-Ongoing"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/UnionStationOgden.jpeg/1280px-UnionStationOgden.jpeg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 2334497543,
+            "lat": 41.2208777,
+            "lon": -111.9796645,
+            "tags": {
+                "fee": "yes",
+                "name": "John M. Browning Firearms Museum",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/UnionStationOgden.jpeg/1280px-UnionStationOgden.jpeg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 52287835,
+            "lat": 41.226502,
+            "lon": -111.9718685,
+            "tags": {
+                "addr:city": "Ogden",
+                "addr:housenumber": "347",
+                "addr:postcode": "84401",
+                "addr:state": "UT",
+                "addr:street": "22nd Street",
+                "building": "yes",
+                "building:levels": "2",
+                "gnis:feature_id": "2432505",
+                "museum": "children",
+                "name": "Elizabeth Stewart Treehouse Museum",
+                "opening_hours": "Tu-Sa 10:00-16:30",
+                "phone": "+1-801-394-9663",
+                "tourism": "museum",
+                "website": "https://www.treehousemuseum.org/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Ogden_Temple_%282015%29.jpg/1280px-Ogden_Temple_%282015%29.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 1460864677,
+            "lat": 41.1950298,
+            "lon": -111.9306869,
+            "tags": {
+                "area": "yes",
+                "description": "Letter \"W\"",
+                "man_made": "geoglyph",
+                "material": "limestone",
+                "name": "The W",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 53837,
+            "lat": 40.76083333,
+            "lon": -111.89111111,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Salt_Lake_Union_Pacific_Railroad_Station%2C_South_Temple_at_400_West%2C_Central_City_West%2C_Salt_Lake_City%2C_UT%2C_USA.jpg/1280px-Salt_Lake_Union_Pacific_Railroad_Station%2C_South_Temple_at_400_West%2C_Central_City_West%2C_Salt_Lake_City%2C_UT%2C_USA.jpg",
+            "description": "Salt Lake City, often shortened to Salt Lake or SLC, is the capital and most populous city of the U.S. state of Utah.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Salt Lake City",
+                "wikipedia": "en:Salt Lake City",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 31716,
+            "lat": 39,
+            "lon": -111,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Flag_of_Utah.svg/1280px-Flag_of_Utah.svg.png",
+            "description": "Utah is a landlocked state in the Mountain West subregion of the  Western United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Utah",
+                "wikipedia": "en:Utah",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 52259,
+            "lat": 41.16666667,
+            "lon": -112.53333333,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Great_Salt_Lake_by_Sentinel-2.jpg/1280px-Great_Salt_Lake_by_Sentinel-2.jpg",
+            "description": "The Great Salt Lake is the largest saltwater lake in the Western Hemisphere and the eighth-largest terminal lake in the world.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Great Salt Lake",
+                "wikipedia": "en:Great Salt Lake",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 4485403,
+            "lat": 40.523,
+            "lon": -112.151,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/2019_Bingham_Canyon_Mine_04.jpg/1280px-2019_Bingham_Canyon_Mine_04.jpg",
+            "description": "The Bingham Canyon Mine, more commonly known as Kennecott Copper Mine among locals, is an open-pit mining operation extracting a large porphyry copper deposit southwest of Salt Lake City, Utah, in the Oquirrh Mountains.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Bingham Canyon Mine",
+                "wikipedia": "en:Bingham Canyon Mine",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 712489,
+            "lat": 40.77055556,
+            "lon": -111.89194444,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Salt_Lake_Temple%2C_Utah_-_Sept_2004.jpg/1280px-Salt_Lake_Temple%2C_Utah_-_Sept_2004.jpg",
+            "description": "The Salt Lake Temple is a temple of the Church of Jesus Christ of Latter-day Saints on Temple Square in Salt Lake City, Utah, United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Salt Lake Temple",
+                "wikipedia": "en:Salt Lake Temple",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 136959,
+            "lat": 39.6875,
+            "lon": -110.865,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Helperseptember2023.jpg/1280px-Helperseptember2023.jpg",
+            "description": "Helper is a city in Carbon County, Utah, United States, approximately 110 miles (180 km) southeast of Salt Lake City and 7 miles (11 km) northwest of the city of Price.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Helper, Utah",
+                "wikipedia": "en:Helper, Utah",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 543502,
+            "lat": 43.818,
+            "lon": -111.785,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Brigham_Young_University%E2%80%93Idaho_medallion.svg/1280px-Brigham_Young_University%E2%80%93Idaho_medallion.svg.png",
+            "description": "Brigham Young University–Idaho (BYU–Idaho or BYUI) is a private college in Rexburg, Idaho.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Brigham Young University–Idaho",
+                "wikipedia": "en:Brigham Young University–Idaho",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 1581879,
+            "lat": 32.68861111,
+            "lon": -117.24583333,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Fort_rosecrans_cemetery.jpg/1280px-Fort_rosecrans_cemetery.jpg",
+            "description": "Fort Rosecrans National Cemetery is a federal military cemetery in San Diego, California.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Fort Rosecrans National Cemetery",
+                "wikipedia": "en:Fort Rosecrans National Cemetery",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 1309105,
+            "lat": 53.1919,
+            "lon": -2.8906,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Chester_Cathedral_ext_Hamilton_001.JPG/1280px-Chester_Cathedral_ext_Hamilton_001.JPG",
+            "description": "Chester Cathedral is a Church of England cathedral and the mother church of the Diocese of Chester.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Chester Cathedral",
+                "wikipedia": "en:Chester Cathedral",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 1623974,
+            "lat": 34.05280556,
+            "lon": -118.43391667,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Los_Angeles_Temple_2.jpg",
+            "description": "The Los Angeles California Temple (formerly the Los Angeles Temple), the tenth operating and the second-largest temple operated by the Church of Jesus Christ of Latter-day Saints (LDS Church), is on Santa Monica Boulevard in the Westwood district of Los Angeles, California, United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Los Angeles California Temple",
+                "wikipedia": "en:Los Angeles California Temple",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 7052389,
+            "lat": 40.7498,
+            "lon": -111.814,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Hogle_zoo_entrance.JPG/1280px-Hogle_zoo_entrance.JPG",
+            "description": "Utah's Hogle Zoo () is a 42-acre (17 ha) Association of Zoos and Aquariums (AZA) and the World Association of Zoos and Aquariums (WAZA) accredited facility.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Utah's Hogle Zoo",
+                "wikipedia": "en:Utah's Hogle Zoo",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 15880388,
+            "lat": 30.5414,
+            "lon": -97.8202,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/HEB_Center_at_Cedar_Park_2022.jpg/1280px-HEB_Center_at_Cedar_Park_2022.jpg",
+            "description": "H-E-B Center at Cedar Park is an indoor arena located in Cedar Park, Texas, near Austin.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "H-E-B Center at Cedar Park",
+                "wikipedia": "en:H-E-B Center at Cedar Park",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 82058,
+            "lat": 40.2497,
+            "lon": -111.6492,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Brigham_Young_University_medallion.svg/1280px-Brigham_Young_University_medallion.svg.png",
+            "description": "Brigham Young University (BYU) is a private research university in Provo, Utah, United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Brigham Young University",
+                "wikipedia": "en:Brigham Young University",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 23867396,
+            "lat": 40.68194444,
+            "lon": -112.26305556,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Lake_Point.jpg/1280px-Lake_Point.jpg",
+            "description": "Lake Point is a city on the eastern edge of northern Tooele County, Utah, United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Lake Point, Utah",
+                "wikipedia": "en:Lake Point, Utah",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 1490376,
+            "lat": 21.75,
+            "lon": 88.75,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Save_the_sundarbans_20.jpg/1280px-Save_the_sundarbans_20.jpg",
+            "description": "Sundarbans (Bengali: সুন্দরবন; pronounced ) is a mangrove forest area in the Ganges Delta formed by the confluence of the Ganges, Brahmaputra and Meghna Rivers in the Bay of Bengal.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Sundarbans",
+                "wikipedia": "en:Sundarbans",
+                "tourism": "attraction"
+            }
+        }
+    ]
+}

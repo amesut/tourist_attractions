@@ -1,0 +1,229 @@
+{
+    "city_metadata": {
+        "city_name": "Casper",
+        "state_code": "WY",
+        "state_full": "Wyoming",
+        "city_summary": "Casper is a city in, and the county seat of, Natrona County, Wyoming, United States. Casper is the second-most populous city in the state after Cheyenne, with the population at 59,038 as of the 2020 census. Casper is nicknamed \"The Oil City\" and has a long history of oil boomtown and cowboy culture, dating back to the development of the nearby Salt Creek Oil Field.",
+        "city_image": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Casperskyline1to1.jpg",
+        "city_lat": 42.85,
+        "city_lon": -106.325,
+        "source": "wikipedia_verified_engine"
+    },
+    "attractions": [
+        {
+            "type": "node",
+            "id": 10860538336,
+            "lat": 42.8317601,
+            "lon": -106.3235766,
+            "tags": {
+                "name": "Tate Geological Museum",
+                "tourism": "museum"
+            }
+        },
+        {
+            "type": "way",
+            "id": 28137548,
+            "lat": 42.8663259,
+            "lon": -106.3371551,
+            "tags": {
+                "addr:city": "Casper",
+                "addr:housenumber": "1501",
+                "addr:postcode": "82601",
+                "addr:state": "WY",
+                "addr:street": "North Poplar Street",
+                "building": "yes",
+                "name": "National Historic Trails Interpretive Center",
+                "tourism": "museum",
+                "website": "https://nhtcf.org/",
+                "wikidata": "Q14714812",
+                "wikipedia": "en:National Historic Trails Interpretive Center"
+            }
+        },
+        {
+            "type": "way",
+            "id": 28498172,
+            "lat": 42.8333688,
+            "lon": -106.3230422,
+            "tags": {
+                "addr:city": "Casper",
+                "addr:housenumber": "125",
+                "addr:postcode": "82601",
+                "addr:state": "WY",
+                "addr:street": "College Drive",
+                "building": "yes",
+                "name": "Ida Goodstein Visual Arts Center",
+                "tourism": "museum"
+            }
+        },
+        {
+            "type": "way",
+            "id": 28512868,
+            "lat": 42.826009,
+            "lon": -106.3292855,
+            "tags": {
+                "addr:city": "Casper",
+                "addr:housenumber": "2332",
+                "addr:postcode": "82601",
+                "addr:state": "WY",
+                "addr:street": "Lisco Drive",
+                "building": "yes",
+                "museum": "nature",
+                "name": "Tate Geological Museum",
+                "tourism": "museum"
+            }
+        },
+        {
+            "type": "way",
+            "id": 317891022,
+            "lat": 42.8469757,
+            "lon": -106.3230463,
+            "tags": {
+                "addr:city": "Casper",
+                "addr:housenumber": "222",
+                "addr:postcode": "82601",
+                "addr:state": "WY",
+                "addr:street": "East Collins Drive",
+                "building": "yes",
+                "museum": "science",
+                "name": "The Science Zone",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/OutletCasperWY.jpg/1280px-OutletCasperWY.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 317891025,
+            "lat": 42.8480269,
+            "lon": -106.3201439,
+            "tags": {
+                "addr:city": "Casper",
+                "addr:housenumber": "400",
+                "addr:postcode": "82601",
+                "addr:state": "WY",
+                "addr:street": "East Collins Drive",
+                "building": "yes",
+                "check_date:opening_hours": "2023-05-06",
+                "fee": "yes",
+                "fee:conditional": "no @ (age < 3)",
+                "name": "Nicolaysen Art Museum",
+                "opening_hours": "Tu-Sa 10:00-17:00",
+                "tourism": "museum",
+                "website": "https://thenic.org/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/OutletCasperWY.jpg/1280px-OutletCasperWY.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 978122935,
+            "lat": 42.8363221,
+            "lon": -106.3707816,
+            "tags": {
+                "addr:city": "Casper",
+                "addr:housenumber": "4001",
+                "addr:postcode": "82604",
+                "addr:state": "WY",
+                "addr:street": "Fort Caspar Road",
+                "building": "yes",
+                "fee": "yes",
+                "name": "Fort Caspar Museum",
+                "opening_hours": "Mo-Su 08:00-17:00",
+                "phone": "+1 307 235-8400",
+                "tourism": "museum",
+                "website": "https://www.fortcasparwyoming.com/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/FortCasperWY.jpg/1280px-FortCasperWY.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 986630411,
+            "lat": 42.8351727,
+            "lon": -106.3206053,
+            "tags": {
+                "addr:city": "Casper",
+                "addr:housenumber": "405",
+                "addr:postcode": "82601",
+                "addr:state": "WY",
+                "addr:street": "East 15th Street",
+                "building": "yes",
+                "fee": "yes",
+                "museum": "history",
+                "name": "Werner Wildlife Museum",
+                "opening_hours": "Mo-Fr 10:00-16:00",
+                "tourism": "museum"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 33611,
+            "lat": 43,
+            "lon": -107,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Wyoming.svg/1280px-Flag_of_Wyoming.svg.png",
+            "description": "Wyoming (  wy-OH-ming) is a landlocked state in the Mountain West subregion of the Western United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Wyoming",
+                "wikipedia": "en:Wyoming",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 5413804,
+            "lat": 43.59,
+            "lon": -110.89,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Jackson_hole_new_tram.jpg/1280px-Jackson_hole_new_tram.jpg",
+            "description": "Jackson Hole Mountain Resort (JHMR) is a ski resort in the western United States in Teton Village, Wyoming.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Jackson Hole Mountain Resort",
+                "wikipedia": "en:Jackson Hole Mountain Resort",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 17390674,
+            "lat": 42.74496111,
+            "lon": -106.33942778,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Hogadonlodge.JPG/1280px-Hogadonlodge.JPG",
+            "description": "Hogadon Basin Ski Area is a ski resort located 11 miles (18 km) south of Casper, Wyoming on Casper Mountain.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Hogadon Ski Area",
+                "wikipedia": "en:Hogadon Ski Area",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 68420297,
+            "lat": 44.495,
+            "lon": -109.1625,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/32/Cedar_Mountain%2C_Buffalo_Bill_Reservoir.jpg",
+            "description": "Cedar Mountain, also known as Spirit Mountain, is a prominent 7,880-foot-elevation (2,400-meter) summit located in Park County, Wyoming, United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Cedar Mountain (Wyoming)",
+                "wikipedia": "en:Cedar Mountain (Wyoming)",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 45474,
+            "lat": 43.83333333,
+            "lon": -110.70083333,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Barns_grand_tetons.jpg/1280px-Barns_grand_tetons.jpg",
+            "description": "Grand Teton National Park is a national park of the United States in northwestern Wyoming.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Grand Teton National Park",
+                "wikipedia": "en:Grand Teton National Park",
+                "tourism": "attraction"
+            }
+        }
+    ]
+}

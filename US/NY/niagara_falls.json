@@ -1,0 +1,895 @@
+{
+    "city_metadata": {
+        "city_name": "Niagara Falls",
+        "state_code": "NY",
+        "state_full": "New York",
+        "city_summary": "Niagara Falls is a city in Niagara County, New York, United States. As of the 2020 census, the city had a total population of 48,671. It is adjacent to the Niagara River, across from the city of Niagara Falls, Ontario, and named after the famed Niagara Falls which they share.",
+        "city_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Niagara_Falls_001.JPG/1280px-Niagara_Falls_001.JPG",
+        "city_lat": 43.1,
+        "city_lon": -79.01666667,
+        "source": "wikipedia_verified_engine"
+    },
+    "attractions": [
+        {
+            "type": "node",
+            "id": 291955805,
+            "lat": 43.0878703,
+            "lon": -79.0729674,
+            "tags": {
+                "addr:city": "Niagara Falls",
+                "addr:housenumber": "5920",
+                "addr:postcode": "L2G 3K9",
+                "addr:province": "ON",
+                "addr:street": "Niagara Parkway",
+                "name": "Hornblower Niagara Cruises",
+                "old_name": "Maid of the Mist (Canadian side)",
+                "payment:american_express": "yes",
+                "payment:cash": "yes",
+                "payment:debit_cards": "yes",
+                "payment:mastercard": "yes",
+                "payment:visa": "yes",
+                "phone": "+1-855-264-2427;+1-905-394-3030",
+                "ref:vatin": "851074716 RT00001",
+                "toilets:wheelchair": "no",
+                "tourism": "attraction",
+                "wheelchair": "yes",
+                "wheelchair:description": "There is a winding ramp and an elevator to take you down to dock level. Plastic ponchos are supplied and you can ask for an extra one to cover your motor or basket."
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Maid-of-the-mists-funicular.jpg/1280px-Maid-of-the-mists-funicular.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 357606425,
+            "lat": 43.1207823,
+            "lon": -79.0703945,
+            "tags": {
+                "ele": "171",
+                "gnis:county_id": "063",
+                "gnis:created": "06/01/1991",
+                "gnis:feature_id": "978409",
+                "gnis:state_id": "36",
+                "name": "Whirlpool Rapids",
+                "tourism": "attraction",
+                "waterway": "rapids",
+                "wikidata": "Q7023799",
+                "wikipedia": "en:Niagara Whirlpool"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Niagara_Whirlpool_2.JPG/1280px-Niagara_Whirlpool_2.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 835489653,
+            "lat": 43.0874868,
+            "lon": -79.072122,
+            "tags": {
+                "addr:city": "Niagara Falls",
+                "addr:housenumber": "5920",
+                "addr:street": "Niagara Parkway",
+                "amenity": "ferry_terminal",
+                "ferry": "yes",
+                "name": "Niagara City Cruises",
+                "old_name": "Hornblower Niagara Cruises",
+                "operator": "Hornblower Niagara City Cruises",
+                "phone": "+1-855-264-2427",
+                "public_transport": "station",
+                "toilets:wheelchair": "no",
+                "tourism": "attraction",
+                "website": "https://www.cityexperiences.com/niagara-ca/city-cruises/niagara/",
+                "wheelchair": "yes",
+                "wheelchair:description": "Everything ramped. Plastic ponchos given. No wheelchair access to upper level of boat but lower level very good. Be prepared to get wet."
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Upper_Steel_Arch_Bridge.jpg/1280px-Upper_Steel_Arch_Bridge.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 1016751014,
+            "lat": 43.1180207,
+            "lon": -79.0688194,
+            "tags": {
+                "addr:city": "Niagara Falls",
+                "addr:housenumber": "3850",
+                "addr:province": "ON",
+                "addr:street": "Niagara Parkway",
+                "aerialway": "station",
+                "hst_number": "R121978324",
+                "name": "Whirlpool Aero Car",
+                "payment:interac": "yes",
+                "phone": "+1 877-642-7275",
+                "public_transport": "station",
+                "tourism": "attraction",
+                "website": "http://www.niagaraparks.com/niagara-falls-attractions/whirlpool-aero-car.html",
+                "wheelchair": "no",
+                "wikidata": "Q903727",
+                "wikipedia": "en:Whirlpool Aero Car"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Niagara_Whirlpool_with_aerocar.JPG/1280px-Niagara_Whirlpool_with_aerocar.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 1613500251,
+            "lat": 43.0909474,
+            "lon": -79.07398,
+            "tags": {
+                "fee": "yes",
+                "name": "Movieland Wax Museum of Stars",
+                "opening_hours:url": "https://www.cliftonhill.com/info/hours",
+                "tourism": "museum",
+                "website": "https://www.cliftonhill.com/attractions/movieland-wax-museum-stars",
+                "wikidata": "Q123235977",
+                "wikipedia": "en:Movieland Wax Museum of the Stars (Ontario)"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1885284046,
+            "lat": 43.0911679,
+            "lon": -79.073576,
+            "tags": {
+                "name": "Niagara's 200 FT Drop",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1885295340,
+            "lat": 43.0907856,
+            "lon": -79.0755179,
+            "tags": {
+                "addr:city": "Niagara Falls",
+                "addr:housenumber": "4950",
+                "addr:postcode": "L2G 3N4",
+                "addr:province": "ON",
+                "addr:street": "Clifton Hill",
+                "amenity": "ferris_wheel",
+                "check_date": "2025-05-18",
+                "email": "info@cliftonhill.com",
+                "name": "The Niagara SkyWheel",
+                "opening_hours": "Mo-Su 09:30-00:00",
+                "phone": "+1-905-358-4793",
+                "tourism": "attraction",
+                "website": "https://www.cliftonhill.com/attractions/niagara-skywheel",
+                "wheelchair": "yes",
+                "wheelchair:description": "A small ramp used to push chair or scooter into gondola",
+                "wikidata": "Q1217710",
+                "wikipedia": "en:Niagara SkyWheel"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Niagara_Falls_Skywheel_by_night_03.jpg/1280px-Niagara_Falls_Skywheel_by_night_03.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 3580486879,
+            "lat": 43.0933544,
+            "lon": -79.0742599,
+            "tags": {
+                "name": "Nightmares",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 4274833320,
+            "lat": 43.0893437,
+            "lon": -79.0913631,
+            "tags": {
+                "addr:city": "Niagara Falls",
+                "addr:housenumber": "5810",
+                "addr:postcode": "L2G 1S9",
+                "addr:street": "Ferry Street",
+                "name": "Niagara Falls History Museum",
+                "phone": "+1-905-358-5082",
+                "toilets:wheelchair": "yes",
+                "tourism": "museum",
+                "website": "https://niagarafallsmuseums.ca/",
+                "wikidata": "Q106522076",
+                "wikipedia": "en:Niagara Falls History Museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Lundy%27s_Lane_Historical_Museum.jpg/1280px-Lundy%27s_Lane_Historical_Museum.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 4839284673,
+            "lat": 43.0916072,
+            "lon": -79.0757436,
+            "tags": {
+                "fee": "yes",
+                "name": "Ripley's Odditorium",
+                "phone": "+1-905-356-2238",
+                "tourism": "museum",
+                "website": "https://www.ripleys.com/niagarafalls/ripleys-believe-it-or-not/",
+                "wikimedia_commons": "Category:Ripley's Believe It or Not! Niagara Falls"
+            }
+        },
+        {
+            "type": "node",
+            "id": 4839284674,
+            "lat": 43.0924064,
+            "lon": -79.0758087,
+            "tags": {
+                "check_date": "2025-05-18",
+                "fee": "yes",
+                "name": "Louis Tussaud's Waxworks",
+                "operator": "Ripley's",
+                "tourism": "museum",
+                "website": "https://www.ripleys.com/niagarafalls/louis-tussauds-waxworks/",
+                "wheelchair": "limited"
+            }
+        },
+        {
+            "type": "node",
+            "id": 5182843221,
+            "lat": 42.9966562,
+            "lon": -79.0275117,
+            "tags": {
+                "addr:housenumber": "12678",
+                "addr:street": "Niagara Parkway",
+                "name": "Ebenezer Settlement",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 5514483922,
+            "lat": 43.079516,
+            "lon": -79.0790822,
+            "tags": {
+                "addr:city": "Niagara Falls",
+                "addr:housenumber": "6650",
+                "addr:street": "Niagara Parkway",
+                "name": "Journey Behind the Falls",
+                "phone": "+1-905-354-1551",
+                "tourism": "attraction",
+                "wheelchair": "yes",
+                "wheelchair:description": "Entrance inside Table Rock"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Journey_behind_the_falls_01.JPG/1280px-Journey_behind_the_falls_01.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 5514483923,
+            "lat": 43.0793363,
+            "lon": -79.0791993,
+            "tags": {
+                "addr:city": "Niagara Falls",
+                "addr:housenumber": "6650",
+                "addr:street": "Niagara Parkway",
+                "name": "Niagara’s Fury",
+                "phone": "+1-905-358-3268",
+                "tourism": "attraction",
+                "website": "https://www.niagaraparks.com/visit/attractions/niagaras-fury/",
+                "wheelchair": "yes",
+                "wheelchair:description": "Located on the upper level of Table Rock"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Niagara_falls_victoria_park_04.07.2012_12-14-42.jpg/1280px-Niagara_falls_victoria_park_04.07.2012_12-14-42.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 5514520621,
+            "lat": 43.1110199,
+            "lon": -79.0604469,
+            "tags": {
+                "addr:city": "Niagara Falls",
+                "addr:housenumber": "4430",
+                "addr:street": "River Road",
+                "name": "White Water Walk",
+                "payment:interac": "yes",
+                "phone": "+1-905-374-1221",
+                "ref:vatin": "R121978324",
+                "tourism": "attraction",
+                "website": "https://www.niagaraparks.com/visit/attractions/white-water-walk/",
+                "wheelchair": "yes",
+                "wheelchair:description": "An elevator takes you 70 metres down into a gorge. A 10% discount applies at any Niagara Parks attraction that a person using a mobility device cannot experience in its entirety"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Whirlpool_Rapids_Bridge_2009.jpg/1280px-Whirlpool_Rapids_Bridge_2009.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 5514538123,
+            "lat": 43.0724852,
+            "lon": -79.0768387,
+            "tags": {
+                "addr:city": "Niagara Falls",
+                "fee": "8$/5",
+                "name": "Floral Showhouse",
+                "phone": "+1-905-354-1721",
+                "toilets:wheelchair": "yes",
+                "tourism": "attraction",
+                "website": "https://www.niagaraparks.com/visit/nature-garden/floral-showhouse/",
+                "wheelchair": "yes",
+                "wheelchair:description": "Double automatic entrance doors. Ramps everywhere. Minimal parking and entrance fee. Absolutely gorgeous."
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Toronto_Power_Generating_Station_in_Niagara_Falls_-_082025.jpg/1280px-Toronto_Power_Generating_Station_in_Niagara_Falls_-_082025.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 5525509821,
+            "lat": 43.1240761,
+            "lon": -79.0685208,
+            "tags": {
+                "addr:city": "Niagara Falls",
+                "addr:housenumber": "3500",
+                "addr:street": "Niagara Parkway",
+                "name": "Thompson Point",
+                "tourism": "attraction",
+                "wheelchair": "yes",
+                "wheelchair:description": "The cable car that travels high above the Whirlpool, starting at Colt’s Point and connecting just below the look-out at Thompson Point is not accessible. There is accessible parking at the Point."
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Niagara_Whirlpool_Spanish_Aero_Car.jpg/1280px-Niagara_Whirlpool_Spanish_Aero_Car.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 5525842446,
+            "lat": 43.0914486,
+            "lon": -79.0748968,
+            "tags": {
+                "addr:city": "Niagara Falls",
+                "addr:street": "Clifton Hill",
+                "name": "Clifton Hill",
+                "tourism": "attraction",
+                "wheelchair": "limited",
+                "wikidata": "Q5133241"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/View_from_Skylon_Tower_2023m.jpg/1280px-View_from_Skylon_Tower_2023m.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 5551089121,
+            "lat": 43.1164289,
+            "lon": -79.0705991,
+            "tags": {
+                "addr:city": "Niagara Falls",
+                "addr:housenumber": "3950",
+                "addr:postcode": "L2E 7M8",
+                "addr:street": "Victoria Avenue",
+                "name": "Great Wolf Lodge",
+                "phone": "+1-905-354-4888",
+                "toilets:wheelchair": "yes",
+                "tourism": "theme_park",
+                "website": "https://www.greatwolf.com/niagara",
+                "wheelchair": "yes"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Niagara_Whirlpool_with_aerocar.JPG/1280px-Niagara_Whirlpool_with_aerocar.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 5564856422,
+            "lat": 43.1363495,
+            "lon": -79.0548954,
+            "tags": {
+                "addr:city": "Niagara Falls",
+                "addr:housenumber": "2565",
+                "addr:postcode": "L2E 2S7",
+                "addr:street": "Niagara Parkway",
+                "name": "Niagara Parks Botanical Gardens",
+                "phone": "+1-905-356-8119",
+                "toilets:wheelchair": "yes",
+                "tourism": "attraction",
+                "website": "https://www.niagaraparks.com/visit/nature-garden/botanical-gardens-2/",
+                "wheelchair": "yes"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Niagara_Parks_Butterfly_Conservatory_building%2C_2010_B.jpg/1280px-Niagara_Parks_Butterfly_Conservatory_building%2C_2010_B.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 5564862622,
+            "lat": 43.0904069,
+            "lon": -79.0721049,
+            "tags": {
+                "addr:city": "Niagara Falls",
+                "addr:housenumber": "5825",
+                "addr:postcode": "L2G 3K9",
+                "addr:street": "River Road",
+                "name": "Oakes Garden Theatre",
+                "phone": "+1-877-642-7275",
+                "toilets:wheelchair": "yes",
+                "tourism": "attraction",
+                "website": "https://www.niagaraparks.com/visit/nature-garden/oakes-garden-theatre/",
+                "wheelchair": "yes"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Maid_of_the_mist_on_board_04.07.2012_16-09-57.jpg/1280px-Maid_of_the_mist_on_board_04.07.2012_16-09-57.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 5564900222,
+            "lat": 43.0723049,
+            "lon": -79.0780697,
+            "tags": {
+                "addr:city": "Niagara Falls",
+                "addr:housenumber": "6345",
+                "addr:postcode": "L2E 6X8",
+                "addr:street": "Niagara Pkwy",
+                "name": "Queen Victoria Park",
+                "phone": "+1-905-358-1814",
+                "toilets:wheelchair": "yes",
+                "tourism": "attraction",
+                "website": "https://www.niagaraparks.com/visit/nature-garden/queen-victoria-park/",
+                "wheelchair": "yes"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Rankine_Generating_Station_in_Niagara_Falls%2C_Ontario_082025.jpg/1280px-Rankine_Generating_Station_in_Niagara_Falls%2C_Ontario_082025.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 5661429020,
+            "lat": 43.090907,
+            "lon": -79.0767665,
+            "tags": {
+                "addr:city": "Niagara Falls",
+                "addr:housenumber": "4960",
+                "addr:postcode": "L2G 3N4",
+                "addr:street": "Clifton Hill",
+                "name": "Niagara Speedway",
+                "tourism": "attraction",
+                "website": "https://www.cliftonhill.com/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Niagara_Falls_Skywheel_by_night_03.jpg/1280px-Niagara_Falls_Skywheel_by_night_03.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 5743852396,
+            "lat": 43.1043991,
+            "lon": -79.071174,
+            "tags": {
+                "addr:city": "Niagara Falls",
+                "addr:housenumber": "4694",
+                "addr:street": "Morrison Street",
+                "name": "Niagara Falls Jade Museum",
+                "tourism": "museum"
+            }
+        },
+        {
+            "type": "node",
+            "id": 5924799580,
+            "lat": 43.0922688,
+            "lon": -79.0715749,
+            "tags": {
+                "addr:city": "Niagara Falls,",
+                "addr:housenumber": "5685",
+                "addr:postcode": "L2G 7T5",
+                "addr:street": "Falls Avenue",
+                "name": "Adventure City",
+                "phone": "+1-905-374-4446x4958",
+                "tourism": "attraction",
+                "website": "https://fallsavenueresort.com/attractions/adventure-city/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Brock_Hotel_Exterior.jpg/1280px-Brock_Hotel_Exterior.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 5941673885,
+            "lat": 43.0914675,
+            "lon": -79.0754915,
+            "tags": {
+                "addr:housenumber": "4960",
+                "addr:street": "Clifton Hill",
+                "name": "Wizard's Indoor Golf",
+                "tourism": "attraction",
+                "website": "https://www.cliftonhill.com/attractions/wizards-golf-glow-dark-mini-putt"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Niagara_Falls_Skywheel_by_night_03.jpg/1280px-Niagara_Falls_Skywheel_by_night_03.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 7799183057,
+            "lat": 43.0919263,
+            "lon": -79.0749099,
+            "tags": {
+                "name": "Mystery Maze",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/View_from_Skylon_Tower_2023m.jpg/1280px-View_from_Skylon_Tower_2023m.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 7799210708,
+            "lat": 43.0918858,
+            "lon": -79.0754677,
+            "tags": {
+                "name": "The Crystal Cave",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 8075956990,
+            "lat": 43.0921539,
+            "lon": -79.0767055,
+            "tags": {
+                "addr:housenumber": "5020",
+                "addr:street": "Centre Street",
+                "check_date": "2025-05-18",
+                "contact:facebook": "https://www.facebook.com/RockWorldNiagara/",
+                "fee": "yes",
+                "name": "Rock Legends Wax Museum",
+                "tourism": "museum"
+            }
+        },
+        {
+            "type": "node",
+            "id": 8148958906,
+            "lat": 43.0918628,
+            "lon": -79.0755987,
+            "tags": {
+                "name": "House of Frankenstein",
+                "tourism": "attraction",
+                "website": "https://www.houseoffrankenstein.ca/"
+            }
+        },
+        {
+            "type": "node",
+            "id": 8148958907,
+            "lat": 43.0919196,
+            "lon": -79.0755437,
+            "tags": {
+                "attraction": "roller_coaster",
+                "name": "Frank'N Coaster",
+                "tourism": "attraction",
+                "website": "https://www.houseoffrankenstein.ca/",
+                "wikimedia_commons": "File:Burger King - Clifton Hills.jpg"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9947621193,
+            "lat": 43.0751394,
+            "lon": -79.0793364,
+            "tags": {
+                "name": "The Tunnel at Niagara Parks Power Station",
+                "tourism": "attraction",
+                "website": "https://www.niagaraparks.com/visit/attractions/niagara-parks-power-station/the-tunnel-niagara-falls"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Rankine_Generating_Station_in_Niagara_Falls%2C_Ontario_082025.jpg/1280px-Rankine_Generating_Station_in_Niagara_Falls%2C_Ontario_082025.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 10050163588,
+            "lat": 43.0901061,
+            "lon": -79.0677809,
+            "tags": {
+                "boundary": "marker",
+                "direction": "46",
+                "historic": "memorial",
+                "inscription": "United States | Canada International Boundary Line /  Erected by the International Boundary Commission Washington D.C., and Ottawa, Canada",
+                "material": "metal",
+                "memorial": "plaque",
+                "name": "International Boundary Line",
+                "tourism": "attraction",
+                "website": "https://www.internationalboundarycommission.org/",
+                "wheelchair": "yes",
+                "wikimedia_commons": "File:International boundary line plaque Rainbow Bridge Niagara Falls.jpg"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Rainbow_Bridge_from_Niagara_Falls_Observation_Tower.jpeg/1280px-Rainbow_Bridge_from_Niagara_Falls_Observation_Tower.jpeg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 10065625313,
+            "lat": 43.0887933,
+            "lon": -79.0735463,
+            "tags": {
+                "layer": "2",
+                "name": "Zipline To The Falls",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Maid-of-the-mists-funicular.jpg/1280px-Maid-of-the-mists-funicular.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 12847303040,
+            "lat": 43.0912464,
+            "lon": -79.0742039,
+            "tags": {
+                "name": "The Haunted House",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "way",
+            "id": 56539663,
+            "lat": 43.0783958,
+            "lon": -79.0757835,
+            "tags": {
+                "alt_name": "Niagara Falls",
+                "alt_name:cs": "Niagarské vodopády",
+                "alt_name:fr": "Chutes du Niagara",
+                "alt_name:pl": "Wodospad Niagara",
+                "alt_name:ru": "Ниагарский водопад",
+                "alt_name:sk": "Niagarské vodopády",
+                "alt_name:sl": "Niagarski slapov",
+                "area": "yes",
+                "height": "51",
+                "loc_name": "Canadian Falls",
+                "name": "Horseshoe Falls",
+                "name:cs": "Podkova",
+                "name:fr": "Chutes du Fer-à-Cheval",
+                "name:pl": "Wodospad Podkowa",
+                "name:ru": "Водопад \"Подкова\"",
+                "name:sk": "Podkova",
+                "name:sl": "Podkvasti slapovi",
+                "tourism": "attraction",
+                "waterway": "waterfall",
+                "wheelchair": "yes",
+                "wheelchair:description": "All viewpoints are accessible but may be hard to see for people sitting in a wheelchair",
+                "wikidata": "Q1373778",
+                "wikipedia": "en:Horseshoe Falls"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Aerial_view_of_the_Canadian_Falls_%28Horseshoe_Falls%29_and_the_Hornblower_Niagara_Cruises_boat%3B_Niagara_Falls.JPG/1280px-Aerial_view_of_the_Canadian_Falls_%28Horseshoe_Falls%29_and_the_Hornblower_Niagara_Cruises_boat%3B_Niagara_Falls.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 87441146,
+            "lat": 43.1204679,
+            "lon": -79.0686216,
+            "tags": {
+                "aerialway": "cable_car",
+                "name": "Whirlpool Aero Car",
+                "tourism": "attraction",
+                "wikidata": "Q903727",
+                "wikipedia": "en:Whirlpool Aero Car"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Niagara_Whirlpool_with_aerocar.JPG/1280px-Niagara_Whirlpool_with_aerocar.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 158294521,
+            "lat": 43.1371056,
+            "lon": -79.0555436,
+            "tags": {
+                "addr:city": "Niagara Falls",
+                "addr:housename": "Butterfly Conservatory",
+                "addr:housenumber": "2565",
+                "addr:street": "Niagara Parkway",
+                "building": "yes",
+                "name": "Butterfly Conservatory",
+                "phone": "+1-905-358-0025",
+                "toilets:wheelchair": "yes",
+                "tourism": "attraction",
+                "website": "https://www.niagaraparks.com/visit/attractions/butterfly-conservatory/",
+                "wheelchair": "yes",
+                "wheelchair:description": "All accessible except for one small detour area."
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Niagara_Parks_Butterfly_Conservatory_building%2C_2010_B.jpg/1280px-Niagara_Parks_Butterfly_Conservatory_building%2C_2010_B.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 158460345,
+            "lat": 43.1473536,
+            "lon": -79.0455302,
+            "tags": {
+                "addr:housenumber": "14000",
+                "addr:street": "Niagara Parkway",
+                "building": "yes",
+                "name": "Sir Adam Beck Power Stations",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/43/Adam_Beck_Complex.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 167518960,
+            "lat": 43.092644,
+            "lon": -79.0687493,
+            "tags": {
+                "addr:city": "Niagara Falls",
+                "addr:country": "CA",
+                "addr:housenumber": "5651",
+                "addr:postcode": "L2E 7M7",
+                "addr:province": "ON",
+                "addr:street": "River Road",
+                "building": "yes",
+                "building:levels": "3",
+                "hst_number": "825918709",
+                "name": "Bird Kingdom",
+                "opening_hours": "Mo-Su 09:30-17:00",
+                "payment:interac": "yes",
+                "phone": "+1-905-356-8888",
+                "source": "Bing",
+                "toilets:wheelchair": "yes",
+                "tourism": "attraction",
+                "website": "https://www.birdkingdom.ca/",
+                "wheelchair:description": "Fifty thousand square feet, fully accessible, except the Java House.",
+                "wikidata": "Q4915879"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/DSC09756_-_Bird_Kingdom_%2836408930553%29.jpg/1280px-DSC09756_-_Bird_Kingdom_%2836408930553%29.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 178404800,
+            "lat": 43.0745103,
+            "lon": -79.0788203,
+            "tags": {
+                "addr:city": "Niagara Falls",
+                "addr:housenumber": "7005",
+                "addr:postcode": "L2E 6T2",
+                "addr:province": "ON",
+                "addr:street": "Niagara Parkway",
+                "building": "yes",
+                "building:colour": "grey",
+                "building:levels": "2",
+                "building:material": "stone",
+                "comment": "Reopened to the public as a tourism attraction in July 2021 and renamed as Niagara Parks Power Station;tunnel opened in June 2022.",
+                "disused:generator:source": "hydro",
+                "disused:plant:output:electricity": "76.4 MW",
+                "disused:power": "generator",
+                "ele": "4",
+                "fee": "yes",
+                "hst_number": "R121978324",
+                "museum": "technology",
+                "name": "Niagara Parks Power Station",
+                "old_name": "Rankine Generating Station",
+                "opening_hours": "Mo-Su 10:00-18:00",
+                "operator": "Niagara Parks Commission",
+                "operator:type": "government",
+                "phone": "+1 877 642 7275",
+                "source": "NRCan-CanVec-10.0",
+                "start_date": "1905",
+                "tourism": "museum",
+                "website": "https://www.niagaraparks.com/visit/attractions/niagara-parks-power-station",
+                "wikidata": "Q7023741",
+                "wikipedia": "en:Niagara Parks Commission"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Rankine_Generating_Station_in_Niagara_Falls%2C_Ontario_082025.jpg/1280px-Rankine_Generating_Station_in_Niagara_Falls%2C_Ontario_082025.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 199513553,
+            "lat": 43.1011364,
+            "lon": -79.0737514,
+            "tags": {
+                "museum": "military",
+                "name": "Niagara Falls Armoury;Niagara Falls Museum",
+                "name:en": "Niagara Military Museum",
+                "opening_hours": "Th-Sa 11:00-16:00",
+                "tourism": "museum",
+                "website": "https://nmm.life"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Marshall_House_Jun_09.JPG/1280px-Marshall_House_Jun_09.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 232194135,
+            "lat": 43.0907977,
+            "lon": -79.0755419,
+            "tags": {
+                "ele": "15",
+                "name": "Skywheel",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Niagara_Falls_Skywheel_by_night_03.jpg/1280px-Niagara_Falls_Skywheel_by_night_03.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 241004747,
+            "lat": 43.0851404,
+            "lon": -79.0796926,
+            "tags": {
+                "addr:housenumber": "5200",
+                "addr:street": "Robinson Street",
+                "building": "yes",
+                "building:levels": "3",
+                "building:material": "concrete",
+                "ele": "3",
+                "fax": "+1-905-356-8699",
+                "man_made": "tower",
+                "name": "Skylon Tower",
+                "phone": "+1-905-356-2651",
+                "roof:material": "concrete",
+                "tourism": "attraction",
+                "tower:type": "observation",
+                "website": "https://www.skylon.com/",
+                "wikipedia": "en:Skylon Tower"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Ilievaart-falls0805_7584smaller.jpg/1280px-Ilievaart-falls0805_7584smaller.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 374827331,
+            "lat": 43.0922874,
+            "lon": -79.0748379,
+            "tags": {
+                "building": "yes",
+                "name": "Upside Down House",
+                "tourism": "attraction",
+                "wheelchair": "no"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/View_from_Skylon_Tower_2023m.jpg/1280px-View_from_Skylon_Tower_2023m.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 440870335,
+            "lat": 43.1074612,
+            "lon": -79.0729838,
+            "tags": {
+                "addr:city": "Niagara Falls",
+                "addr:housenumber": "4602",
+                "addr:postcode": "L2E 4B7",
+                "addr:province": "Ontario",
+                "addr:street": "Victoria Avenue",
+                "building": "yes",
+                "name": "The Evel Knievel Daredevil Museum",
+                "tourism": "museum"
+            }
+        },
+        {
+            "type": "way",
+            "id": 815915576,
+            "lat": 43.0614521,
+            "lon": -79.0787129,
+            "tags": {
+                "attraction": "roller_coaster",
+                "building": "yes",
+                "fee": "yes",
+                "name": "Dragon Mountain",
+                "note": "This roller coaster is reportedly not in operation, as of late 2024.",
+                "roller_coaster": "station",
+                "tourism": "attraction",
+                "wikidata": "Q689345",
+                "wikipedia": "en:Dragon Mountain"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/6c/BowtieDragonMountain.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 816924553,
+            "lat": 43.0897536,
+            "lon": -79.0966174,
+            "tags": {
+                "addr:housenumber": "6151",
+                "addr:street": "Lundys Lane",
+                "building": "yes",
+                "check_date:opening_hours": "2023-11-02",
+                "name": "Battle Ground Hotel Museum",
+                "opening_hours": "May 19-Aug 27 We-Su 10:00-17:00",
+                "seasonal": "yes",
+                "tourism": "museum",
+                "website": "https://nfexchange.ca/museum/visit-the-niagara-falls-museums/battle-ground-hotel-museum",
+                "wheelchair": "limited"
+            }
+        },
+        {
+            "type": "way",
+            "id": 984744835,
+            "lat": 43.1236124,
+            "lon": -79.0683725,
+            "tags": {
+                "building": "yes",
+                "building:levels": "1",
+                "name": "Whirlpool Adventure Course",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Niagara_Whirlpool_Spanish_Aero_Car.jpg/1280px-Niagara_Whirlpool_Spanish_Aero_Car.jpg",
+            "image_source": "wikipedia_verified"
+        }
+    ]
+}

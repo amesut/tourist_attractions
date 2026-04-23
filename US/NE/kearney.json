@@ -1,0 +1,291 @@
+{
+    "city_metadata": {
+        "city_name": "Kearney",
+        "state_code": "NE",
+        "state_full": "Nebraska",
+        "city_summary": "Kearney ( KAR-nee) is a city in and the county seat of Buffalo County, Nebraska, United States. The population was 33,790 in the 2020 census, making it the 5th most populous city in Nebraska. It is home to the University of Nebraska at Kearney.",
+        "city_image": "https://upload.wikimedia.org/wikipedia/commons/7/75/GPRRAMKearney.jpg",
+        "city_lat": 40.70166667,
+        "city_lon": -99.0825,
+        "source": "wikipedia_verified_engine"
+    },
+    "attractions": [
+        {
+            "type": "node",
+            "id": 366492372,
+            "lat": 40.7312672,
+            "lon": -99.085993,
+            "tags": {
+                "addr:city": "Kearney",
+                "addr:housenumber": "5827",
+                "addr:postcode": "68845",
+                "addr:state": "NE",
+                "addr:street": "4th Avenue",
+                "contact:website": "http://kearneychildrensmuseum.org/",
+                "ele": "655",
+                "gnis:feature_id": "1875193",
+                "import_uuid": "gnis.57871b70-0100-4405-bb30-88b2e001a944",
+                "name": "Kearney Area Childrens Museum",
+                "source": "USGS Geonames",
+                "tourism": "museum"
+            }
+        },
+        {
+            "type": "way",
+            "id": 140213931,
+            "lat": 40.6699723,
+            "lon": -99.0384658,
+            "tags": {
+                "addr:city": "Kearney",
+                "addr:country": "US",
+                "addr:housenumber": "3060",
+                "addr:postcode": "68847",
+                "addr:state": "NE",
+                "addr:street": "East 1st Street",
+                "building": "yes",
+                "fax": "+1-308-338-0411",
+                "layer": "1",
+                "name": "The Great Platte River Road Archway",
+                "phone": "+1-308-237-1000",
+                "phone:tollfree": "+1-877-511-ARCH",
+                "source:outline": "bing",
+                "tourism": "attraction",
+                "website": "https://archway.org/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Archway_%28Kearney_NE%29_over_I-80.jpg/1280px-Archway_%28Kearney_NE%29_over_I-80.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 379695258,
+            "lat": 40.6844189,
+            "lon": -99.0922076,
+            "tags": {
+                "addr:city": "Kearney",
+                "addr:housenumber": "710",
+                "addr:postcode": "68848",
+                "addr:state": "NE",
+                "addr:street": "West 11th Street",
+                "area": "yes",
+                "ele": "654",
+                "gnis:feature_id": "1875191",
+                "name": "Trails and Rails Museum",
+                "opening_hours:url": "https://www.bchs.us/",
+                "source": "USGS Geonames",
+                "tourism": "museum",
+                "website": "https://www.bchs.us/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Bartlett_House_%28Kearney%2C_Nebraska%29_2.jpg/1280px-Bartlett_House_%28Kearney%2C_Nebraska%29_2.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 421567214,
+            "lat": 40.6824091,
+            "lon": -99.1079333,
+            "tags": {
+                "name": "Elizabeth Thomsic Hillard Memorial Labyrinth",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "way",
+            "id": 572422664,
+            "lat": 40.6996235,
+            "lon": -99.0810916,
+            "tags": {
+                "addr:city": "Kearney",
+                "addr:housenumber": "2401",
+                "addr:postcode": "68847",
+                "addr:state": "NE",
+                "addr:street": "Central Avenue",
+                "building": "yes",
+                "ele": "656",
+                "gnis:feature_id": "1875192",
+                "import_uuid": "gnis.57871b70-0100-4405-bb30-88b2e001a944",
+                "name": "Museum of Nebraska Art",
+                "source": "USGS Geonames",
+                "tourism": "museum",
+                "website": "https://mona.unk.edu/mona/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Masonic_Temple_and_World_Theater_Building_%28cropped%29.JPG/1280px-Masonic_Temple_and_World_Theater_Building_%28cropped%29.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 1038108504,
+            "lat": 40.6777935,
+            "lon": -99.0894336,
+            "tags": {
+                "addr:city": "Kearney",
+                "addr:housenumber": "500",
+                "addr:postcode": "68845",
+                "addr:state": "NE",
+                "addr:street": "West 4th Street",
+                "building": "retail",
+                "name": "Big Apple Fun Center",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "way",
+            "id": 1049374618,
+            "lat": 40.6737149,
+            "lon": -99.0820406,
+            "tags": {
+                "addr:city": "Kearney",
+                "addr:housenumber": "131",
+                "addr:postcode": "68847",
+                "addr:state": "NE",
+                "addr:street": "Central Avenue",
+                "building": "yes",
+                "name": "Fort Kearney Museum",
+                "tourism": "museum"
+            }
+        },
+        {
+            "type": "way",
+            "id": 1195614450,
+            "lat": 39.3727575,
+            "lon": -94.3621092,
+            "tags": {
+                "addr:city": "Kearney",
+                "addr:housenumber": "101",
+                "addr:postcode": "64060",
+                "addr:state": "MO",
+                "addr:street": "South Jefferson Street",
+                "building": "yes",
+                "name": "Kearney Historic Museum",
+                "shop": "art",
+                "tourism": "museum"
+            }
+        },
+        {
+            "type": "way",
+            "id": 1196046717,
+            "lat": 40.6708183,
+            "lon": -99.045505,
+            "tags": {
+                "building": "yes",
+                "name": "Nebraska Firefighters Museum & Education Center",
+                "tourism": "museum"
+            }
+        },
+        {
+            "type": "way",
+            "id": 1359718283,
+            "lat": 39.3780876,
+            "lon": -94.3735388,
+            "tags": {
+                "addr:city": "Kearney",
+                "addr:housenumber": "650",
+                "addr:postcode": "64060",
+                "addr:state": "MO",
+                "addr:street": "North Jefferson St",
+                "name": "Fun Farm Pumpkin Patch",
+                "phone": "+18166280028",
+                "tourism": "zoo",
+                "website": "https://funfarmpumpkinpatch.com/",
+                "zoo": "petting_zoo"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 4911,
+            "lat": 47.55472222,
+            "lon": 7.59055556,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Basel_-_M%C3%BCnsterpfalz1.jpg/1280px-Basel_-_M%C3%BCnsterpfalz1.jpg",
+            "description": "Basel ( BAH-zəl; German: [ˈbaːzl̩] ), also known as Basle (English:  BAHL), is a city in northwestern Switzerland on the river Rhine (at the transition from the High to the Upper Rhine).",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Basel",
+                "wikipedia": "en:Basel",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 3392185,
+            "lat": 40.50472222,
+            "lon": -98.95055556,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Harold_Warp_Pioneer_Village%2C_Minden%2C_Nebraska_LCCN2017708657.tif/lossy-page1-1280px-Harold_Warp_Pioneer_Village%2C_Minden%2C_Nebraska_LCCN2017708657.tif.jpg",
+            "description": "Pioneer Village is a museum and tourist attraction along U.S. Highway 6 in Minden, Nebraska, United States, featured in many roadside and historical attraction guides.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Pioneer Village (Nebraska)",
+                "wikipedia": "en:Pioneer Village (Nebraska)",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 123704,
+            "lat": 40.71916667,
+            "lon": -99.37055556,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Elm_Creek%2C_Nebraska_with_train_3.JPG/1280px-Elm_Creek%2C_Nebraska_with_train_3.JPG",
+            "description": "Elm Creek is a village in Buffalo County, Nebraska, United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Elm Creek, Nebraska",
+                "wikipedia": "en:Elm Creek, Nebraska",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 27862,
+            "lat": -33.86777778,
+            "lon": 151.21,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Sydney_Opera_House_and_Harbour_Bridge_Dusk_%282%29_2019-06-21.jpg/1280px-Sydney_Opera_House_and_Harbour_Bridge_Dusk_%282%29_2019-06-21.jpg",
+            "description": "Sydney is the capital city of the state of New South Wales, and is the most populous city in Australia.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Sydney",
+                "wikipedia": "en:Sydney",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 1492281,
+            "lat": 41.89535,
+            "lon": -87.62432,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/20070513_Magnificent_Mile.JPG/1280px-20070513_Magnificent_Mile.JPG",
+            "description": "The Magnificent Mile (sometimes locally abbreviated to the Mag Mile) is the approximately one-mile-long stretch of Michigan Avenue from the Chicago River to Oak Street on the Near North Side of Chicago, Illinois.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Magnificent Mile",
+                "wikipedia": "en:Magnificent Mile",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 23513440,
+            "lat": 40.20296111,
+            "lon": -100.62611111,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Sutton_House_%28McCook%2C_Nebraska%29_from_SE_2.JPG/1280px-Sutton_House_%28McCook%2C_Nebraska%29_from_SE_2.JPG",
+            "description": "The Harvey P. Sutton House, also known as the H.P. Sutton House, is a six-bedroom, 4,000-square-foot (370 m2) Frank Lloyd Wright designed Prairie School home at 602 Norris Avenue in McCook, Nebraska.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Harvey P. Sutton House",
+                "wikipedia": "en:Harvey P. Sutton House",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 323058,
+            "lat": 40.8175,
+            "lon": -96.70138889,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Seal_of_the_University_of_Nebraska.svg/1280px-Seal_of_the_University_of_Nebraska.svg.png",
+            "description": "The University of Nebraska–Lincoln (Nebraska, NU, or UNL) is a public land-grant research university in Lincoln, Nebraska, United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "University of Nebraska–Lincoln",
+                "wikipedia": "en:University of Nebraska–Lincoln",
+                "tourism": "attraction"
+            }
+        }
+    ]
+}

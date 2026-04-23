@@ -1,0 +1,453 @@
+{
+    "city_metadata": {
+        "city_name": "Corpus Christi",
+        "state_code": "TX",
+        "state_full": "Texas",
+        "city_summary": "Corpus Christi ( KOR-pəs KRIS-tee; Latin for 'Body of Christ') is a coastal city in the U.S. state of Texas. It is the county seat and largest city of Nueces County in South Texas, with portions extending into Aransas, Kleberg, and San Patricio counties. With a population of 317,863 at the 2020 census, Corpus Christi is the eighth-most populous city in Texas.",
+        "city_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Corpus_Christi_skyline.jpg/1280px-Corpus_Christi_skyline.jpg",
+        "city_lat": 27.74277778,
+        "city_lon": -97.40194444,
+        "source": "wikipedia_verified_engine"
+    },
+    "attractions": [
+        {
+            "type": "node",
+            "id": 8217846188,
+            "lat": 27.8070843,
+            "lon": -97.3956277,
+            "tags": {
+                "addr:city": "Corpus Christi",
+                "addr:housenumber": "1617",
+                "addr:postcode": "78401",
+                "addr:state": "TX",
+                "addr:street": "North Chaparral Street",
+                "museum": "history",
+                "name": "Museum Of Hispanic Culture",
+                "tourism": "museum",
+                "website": "https://ichtx.org/"
+            }
+        },
+        {
+            "type": "node",
+            "id": 8217846211,
+            "lat": 27.806076,
+            "lon": -97.3957725,
+            "tags": {
+                "addr:city": "Corpus Christi",
+                "addr:housenumber": "1517",
+                "addr:postcode": "78401",
+                "addr:state": "TX",
+                "addr:street": "North Chaparral Street",
+                "museum": "history",
+                "name": "Tejano Civil Rights Museum",
+                "phone": "+1-361-452-3650",
+                "tourism": "museum",
+                "website": "https://www.tejanomuseum.org/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/AmericanBankCenterCorpus_%28cropped%29.jpg/1280px-AmericanBankCenterCorpus_%28cropped%29.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 12312772777,
+            "lat": 27.815957,
+            "lon": -97.3915768,
+            "tags": {
+                "name": "Fan Pavillion",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Texas_State_Aquarium_Exterior.jpg/1280px-Texas_State_Aquarium_Exterior.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 40420020,
+            "lat": 27.810386,
+            "lon": -97.3931513,
+            "tags": {
+                "addr:city": "Corpus Christi",
+                "addr:housenumber": "1902",
+                "addr:postcode": "78401",
+                "addr:state": "TX",
+                "addr:street": "North Shoreline Boulevard",
+                "building": "yes",
+                "email": "art.museum@tamucc.edu",
+                "height": "25.54",
+                "museum": "art",
+                "name": "Art Museum of South Texas",
+                "opening_hours": "Tu-Sa 10:00-17:00; Su 13:00-17:00",
+                "phone": "+1 361 825 3500",
+                "tourism": "museum",
+                "website": "https://www.artmuseumofsouthtexas.org/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Art_Museum_of_South_Texas_--_Corpus.jpg/1280px-Art_Museum_of_South_Texas_--_Corpus.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 146419239,
+            "lat": 27.8072761,
+            "lon": -97.3934661,
+            "tags": {
+                "addr:housename": "American Bank Center",
+                "addr:housenumber": "1901",
+                "addr:postcode": "78401",
+                "addr:street": "N. Shoreline Blvd.",
+                "building": "yes",
+                "building:levels": "5",
+                "height": "33.75",
+                "leisure": "stadium",
+                "name": "American Bank Center",
+                "sport": "ice_hockey",
+                "tourism": "attraction",
+                "wikidata": "Q3298928"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/AmericanBankCenterCorpus_%28cropped%29.jpg/1280px-AmericanBankCenterCorpus_%28cropped%29.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 165614046,
+            "lat": 27.8148955,
+            "lon": -97.3887845,
+            "tags": {
+                "addr:city": "Corpus Christi",
+                "addr:housenumber": "2914",
+                "addr:postcode": "78402",
+                "addr:state": "TX",
+                "addr:street": "North Shoreline Boulevard",
+                "building": "ship",
+                "ele": "0",
+                "fee": "yes",
+                "fixme": "One day tourism=museum will render as an outline. On that day remove building=ship. Till then, I'm a floating building.",
+                "heritage": "2",
+                "heritage:operator": "nrhp",
+                "historic": "ship",
+                "museum": "military",
+                "name": "USS Lexington Museum on the Bay",
+                "opening_hours": "09:00-18:00",
+                "phone": "+1 361-888-4873",
+                "ref": "CV-16",
+                "ref:nrhp": "03001043",
+                "ship:type": "aircraft_carrier",
+                "source": "USGS Geonames",
+                "start_date": "1942",
+                "tourism": "museum",
+                "website": "https://www.usslexington.com/",
+                "wikidata": "Q1423093",
+                "wikipedia": "en:USS Lexington (CV-16)"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/eb/USS_Lexington_%28CVA-16%29_underway_at_sea_on_16_August_1958.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 203382608,
+            "lat": 27.7941497,
+            "lon": -97.3960567,
+            "tags": {
+                "historic": "memorial",
+                "name": "World War Memorial",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Old_map-Corpus_Christi-1887.jpg/1280px-Old_map-Corpus_Christi-1887.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 264399306,
+            "lat": 27.8103026,
+            "lon": -97.3951716,
+            "tags": {
+                "addr:city": "Corpus Christi",
+                "addr:housenumber": "1900",
+                "addr:postcode": "78401",
+                "addr:state": "TX",
+                "addr:street": "North Chaparral Street",
+                "building": "yes",
+                "email": "ccmuseum@cctexas.com",
+                "height": "15.88",
+                "museum": "history",
+                "name": "Corpus Christi Museum of Science and History",
+                "opening_hours": "Tu-Sa 10:00-17:00",
+                "phone": "+1 361-826-4667",
+                "tourism": "museum",
+                "website": "https://ccmuseum.com/",
+                "wikidata": "Q17511249",
+                "wikipedia": "en:Corpus Christi Museum of Science and History"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Corpus_christi_museum_of_science_history.jpg/1280px-Corpus_christi_museum_of_science_history.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 386523435,
+            "lat": 27.8088986,
+            "lon": -97.3964998,
+            "tags": {
+                "addr:city": "Corpus Christi",
+                "addr:housenumber": "1809",
+                "addr:postcode": "78401",
+                "addr:state": "TX",
+                "addr:street": "N. Chaparral Street",
+                "building": "yes",
+                "height": "19.68",
+                "name": "Texas State Museum of Asian Cultures",
+                "opening_hours": "Tu-Sa 11:00-17:00",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Corpus_christi_museum_of_science_history.jpg/1280px-Corpus_christi_museum_of_science_history.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 525821525,
+            "lat": 27.7980775,
+            "lon": -97.461214,
+            "tags": {
+                "addr:city": "Corpus Christi",
+                "addr:housenumber": "5410",
+                "addr:postcode": "78408",
+                "addr:state": "TX",
+                "addr:street": "Leopard Street",
+                "building": "yes",
+                "check_date:opening_hours": "2022-02-19",
+                "fee": "yes",
+                "height": "10.1",
+                "name": "Selena Museum",
+                "opening_hours": "Mo-Fr 10:00-16:00",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a3/KKTX_1360NewsRadio_logo.png",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 531061602,
+            "lat": 27.7944982,
+            "lon": -97.3941179,
+            "tags": {
+                "addr:city": "Corpus Christi",
+                "addr:housenumber": "309A",
+                "addr:postcode": "78401",
+                "addr:state": "TX",
+                "addr:street": "North Water Street",
+                "building": "yes",
+                "fax": "+1 361 887 7075",
+                "height": "8.25",
+                "name": "Texas Surf Museum",
+                "opening_hours": "Mo-Sa 11:00-19:00; Su 11:00-17:00",
+                "phone": "+1 361 882 2364",
+                "tourism": "museum",
+                "website": "https://www.texassurfmuseum.org/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Old_map-Corpus_Christi-1887.jpg/1280px-Old_map-Corpus_Christi-1887.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 619593937,
+            "lat": 27.8095485,
+            "lon": -97.3977363,
+            "tags": {
+                "addr:city": "Corpus Christi",
+                "addr:housenumber": "702",
+                "addr:postcode": "78401",
+                "addr:state": "TX",
+                "addr:street": "East Port Avenue",
+                "leisure": "water_park",
+                "name": "Hurricane Alley",
+                "phone": "+1 361 883 9283",
+                "tourism": "theme_park",
+                "website": "http://hurricanealleycc.com"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/92/Whataburge0r_Field.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 695725236,
+            "lat": 27.6734141,
+            "lon": -97.2964762,
+            "tags": {
+                "addr:city": "Corpus Christi",
+                "addr:housenumber": "9605",
+                "addr:postcode": "78418",
+                "addr:state": "TX",
+                "addr:street": "South Padre Island Drive",
+                "name": "Funtrackers Family Fun Center",
+                "phone": "+1 361 937 9400",
+                "tourism": "theme_park",
+                "website": "https://funtrackers.com/"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 151217,
+            "lat": 27.74277778,
+            "lon": -97.40194444,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Corpus_Christi_skyline.jpg/1280px-Corpus_Christi_skyline.jpg",
+            "description": "Corpus Christi ( KOR-pəs KRIS-tee; Latin for 'Body of Christ') is a coastal city in the U.S. state of Texas.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Corpus Christi, Texas",
+                "wikipedia": "en:Corpus Christi, Texas",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 26054670,
+            "lat": 31.69083333,
+            "lon": -106.32722222,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/YsletaMission.JPG/1280px-YsletaMission.JPG",
+            "description": "The Ysleta Mission, located in the Ysleta del Sur Pueblo within the municipality of El Paso, Texas, is recognized as the oldest continuously operated parish in the State of Texas.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Ysleta Mission",
+                "wikipedia": "en:Ysleta Mission",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 29810,
+            "lat": 31,
+            "lon": -99,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Flag_of_Texas.svg/1280px-Flag_of_Texas.svg.png",
+            "description": "Texas (  TEK-səss) is the most populous state in the Southern United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Texas",
+                "wikipedia": "en:Texas",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 11235565,
+            "lat": 29.425,
+            "lon": -98.49388889,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/SATX_Downtown.jpg/1280px-SATX_Downtown.jpg",
+            "description": "Greater San Antonio, officially designated San Antonio–New Braunfels, is an eight-county metropolitan area in the U.S. state of Texas defined by the Office of Management and Budget (OMB).",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Greater San Antonio",
+                "wikipedia": "en:Greater San Antonio",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 5205116,
+            "lat": 28.15252,
+            "lon": -96.97665,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Big_tree.jpg/1280px-Big_tree.jpg",
+            "description": "The \"Big Tree\", near the town of Rockport, Texas, is one of the most famous live oaks in the world after being named \"Texas State Champion Virginia Live Oak\" (Quercus virginiana) in 1969.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "The Big Tree, Rockport",
+                "wikipedia": "en:The Big Tree, Rockport",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 53848,
+            "lat": 29.425,
+            "lon": -98.4939,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/San_Antonio_Botanical_Garden_Overlook_View.jpg/1280px-San_Antonio_Botanical_Garden_Overlook_View.jpg",
+            "description": "San Antonio ( SAN an-TOH-nee-oh; Spanish for \"Saint Anthony\") is a city in the U.S. state of Texas.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "San Antonio",
+                "wikipedia": "en:San Antonio",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 135441,
+            "lat": 28.04861111,
+            "lon": -97.04111111,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Rockport%2C_Texas.jpg/1280px-Rockport%2C_Texas.jpg",
+            "description": "Rockport is a city and county seat of Aransas County, Texas, United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Rockport, Texas",
+                "wikipedia": "en:Rockport, Texas",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 135823,
+            "lat": 31.75916667,
+            "lon": -106.48861111,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/El_Paso_Cityscape_%28cropped%29.jpg/1280px-El_Paso_Cityscape_%28cropped%29.jpg",
+            "description": "El Paso (English:  ; Spanish: [el ˈpaso] , lit. 'the route' or 'the pass') is a city in and the county seat of El Paso County, Texas, United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "El Paso, Texas",
+                "wikipedia": "en:El Paso, Texas",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 71438381,
+            "lat": 26.136835,
+            "lon": -97.173648,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Sea_Turtle_Inc_entrance_south.jpg/1280px-Sea_Turtle_Inc_entrance_south.jpg",
+            "description": "Sea Turtle, Inc.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Sea Turtle, Inc.",
+                "wikipedia": "en:Sea Turtle, Inc.",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 135930,
+            "lat": 30.26388889,
+            "lon": -98.87472222,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Downtown_Fredericksburg%2C_TX_IMG_0406.JPG/1280px-Downtown_Fredericksburg%2C_TX_IMG_0406.JPG",
+            "description": "Fredericksburg is a city in and the county seat of Gillespie County, Texas, United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Fredericksburg, Texas",
+                "wikipedia": "en:Fredericksburg, Texas",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 135900,
+            "lat": 29.59944444,
+            "lon": -95.61416667,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Sugarland_Town_Square.jpg/1280px-Sugarland_Town_Square.jpg",
+            "description": "Sugar Land is the largest city in Fort Bend County, Texas, United States, located in the southwestern part of the Houston–The Woodlands–Sugar Land metropolitan area.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Sugar Land, Texas",
+                "wikipedia": "en:Sugar Land, Texas",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 4547724,
+            "lat": 38.8733,
+            "lon": -76.9953,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b7/USNavyMuseumLogo.jpg",
+            "description": "The National Museum of the United States Navy, or U.S. Navy Museum for short, is the flagship museum of the United States Navy and is located in the former Breech Mechanism Shop of the old Naval Gun Factory on the grounds of the Washington Navy Yard in Washington, D.C., United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "National Museum of the United States Navy",
+                "wikipedia": "en:National Museum of the United States Navy",
+                "tourism": "attraction"
+            }
+        }
+    ]
+}

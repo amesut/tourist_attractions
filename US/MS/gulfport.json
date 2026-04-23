@@ -1,0 +1,234 @@
+{
+    "city_metadata": {
+        "city_name": "Gulfport",
+        "state_code": "MS",
+        "state_full": "Mississippi",
+        "city_summary": "Gulfport ( GUHLF-port) is a port city in Harrison County, Mississippi, United States, and its co-county seat. It had a population of 72,926 at the 2020 census, making it the second-most populous city in Mississippi after Jackson. The Gulfport–Biloxi metropolitan area had a population of 416,259.",
+        "city_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/FightingSeabee_NavalConstructionBattalionCenter_Gulfport%2CMS.jpg/1280px-FightingSeabee_NavalConstructionBattalionCenter_Gulfport%2CMS.jpg",
+        "city_lat": 30.40166667,
+        "city_lon": -89.07611111,
+        "source": "wikipedia_verified_engine"
+    },
+    "attractions": [
+        {
+            "type": "node",
+            "id": 4414441989,
+            "lat": 30.3640559,
+            "lon": -89.0901356,
+            "tags": {
+                "name": "Ship Island Excursions",
+                "name:en": "Ship Island Excursions",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/GulfportPostOffice%26CustomsHouse.jpg/1280px-GulfportPostOffice%26CustomsHouse.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 11042990319,
+            "lat": 30.3880937,
+            "lon": -89.0620717,
+            "tags": {
+                "addr:city": "Gulfport",
+                "addr:country": "US",
+                "addr:housenumber": "615",
+                "addr:postcode": "39507",
+                "addr:state": "MS",
+                "addr:street": "Pass Road",
+                "email": "marketing@traintastic.com",
+                "museum": "model_train",
+                "name": "TrainTastic",
+                "old_name": "Mississippi Coast Model Railroad Museum",
+                "opening_hours": "Tu-Sa 10:00-17:00; Su 13:00-17:00; May Mo[-1]-Sep Mo[1] Mo 10:00-17:00",
+                "operator": "Mississippi Coast Model Railroad Museum",
+                "phone": "+1 228 284 5731",
+                "tourism": "museum",
+                "website": "https://traintastic.com/",
+                "wikidata": "Q120612970"
+            }
+        },
+        {
+            "type": "way",
+            "id": 166088509,
+            "lat": 30.3894283,
+            "lon": -89.0581836,
+            "tags": {
+                "addr:city": "Gulfport",
+                "addr:housenumber": "429",
+                "addr:postcode": "39507",
+                "addr:street": "Pass Road",
+                "building": "yes",
+                "description": "Former furniture store",
+                "name": "Mississippi Aviation Heritage Museum",
+                "source": "MGC",
+                "tourism": "museum"
+            }
+        },
+        {
+            "type": "way",
+            "id": 522742306,
+            "lat": 27.7425601,
+            "lon": -82.7055267,
+            "tags": {
+                "building": "yes",
+                "height": "13.1100000000",
+                "name": "Gulfport History Museum",
+                "tourism": "museum"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 122283,
+            "lat": 30.40166667,
+            "lon": -89.07611111,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/FightingSeabee_NavalConstructionBattalionCenter_Gulfport%2CMS.jpg/1280px-FightingSeabee_NavalConstructionBattalionCenter_Gulfport%2CMS.jpg",
+            "description": "Gulfport ( GUHLF-port) is a port city in Harrison County, Mississippi, United States, and its co-county seat.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Gulfport, Mississippi",
+                "wikipedia": "en:Gulfport, Mississippi",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 129294,
+            "lat": 31.31583333,
+            "lon": -89.30861111,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Hattiesburg_Flags.jpg/1280px-Hattiesburg_Flags.jpg",
+            "description": "Hattiesburg is a city in the U.S. state of Mississippi, located primarily in Forrest County (where it is the county seat and most populous city) and extending west into Lamar County.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Hattiesburg, Mississippi",
+                "wikipedia": "en:Hattiesburg, Mississippi",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 65279663,
+            "lat": 30.36777778,
+            "lon": -89.08833333,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Mississippi_Aquarium_sign.jpg/1280px-Mississippi_Aquarium_sign.jpg",
+            "description": "Mississippi Aquarium is a nonprofit public aquarium located in Gulfport, Mississippi; it opened August 29, 2020, on the 15th anniversary of Hurricane Katrina, replacing the Marine Life Oceanarium, which was destroyed by the hurricane.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Mississippi Aquarium",
+                "wikipedia": "en:Mississippi Aquarium",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 8543451,
+            "lat": 30.363614,
+            "lon": -89.102244,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/IslandViewCasinoResortSign.jpg/1280px-IslandViewCasinoResortSign.jpg",
+            "description": "The Island View Casino is a casino and hotel located in Gulfport, Mississippi.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Island View Casino",
+                "wikipedia": "en:Island View Casino",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 12074057,
+            "lat": 30.39081,
+            "lon": -88.862094,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Margaritaville_Resort_Biloxi.jpg",
+            "description": "Margaritaville Resort Biloxi is a resort hotel in Biloxi on the Mississippi Gulf Coast.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Margaritaville Resort Biloxi",
+                "wikipedia": "en:Margaritaville Resort Biloxi",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 16949861,
+            "lat": 33,
+            "lon": -90,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Flag_of_Mississippi.svg/1280px-Flag_of_Mississippi.svg.png",
+            "description": "Mississippi (  MISS-iss-IP-ee) is a state in the Southeastern and Deep South regions of the United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Mississippi",
+                "wikipedia": "en:Mississippi",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 124692,
+            "lat": 33.51861111,
+            "lon": -90.20055556,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Greenwood%2C_Mississippi_%282022%29.jpg/1280px-Greenwood%2C_Mississippi_%282022%29.jpg",
+            "description": "Greenwood is a city in and the county seat of Leflore County, Mississippi, United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Greenwood, Mississippi",
+                "wikipedia": "en:Greenwood, Mississippi",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 192309,
+            "lat": 30.18888889,
+            "lon": -90.10138889,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Lake_Pontchartrain_by_Sentinel-2.jpg/1280px-Lake_Pontchartrain_by_Sentinel-2.jpg",
+            "description": "Lake Pontchartrain ( PON-chə-trayn; French: Lac Pontchartrain, pronounced [lak pɔ̃ʃaʁtrɛ̃] ) is an estuary located in southeastern Louisiana in the United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Lake Pontchartrain",
+                "wikipedia": "en:Lake Pontchartrain",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 2203833,
+            "lat": 30.36444444,
+            "lon": -86.9675,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Gulf_Islands_NS.jpg",
+            "description": "Gulf Islands National Seashore is an American national seashore that offers recreation opportunities and preserves natural and historic resources along the Gulf of Mexico barrier islands of Florida, Alabama, and Mississippi.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Gulf Islands National Seashore",
+                "wikipedia": "en:Gulf Islands National Seashore",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 135823,
+            "lat": 31.75916667,
+            "lon": -106.48861111,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/El_Paso_Cityscape_%28cropped%29.jpg/1280px-El_Paso_Cityscape_%28cropped%29.jpg",
+            "description": "El Paso (English:  ; Spanish: [el ˈpaso] , lit. 'the route' or 'the pass') is a city in and the county seat of El Paso County, Texas, United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "El Paso, Texas",
+                "wikipedia": "en:El Paso, Texas",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 92995,
+            "lat": 27.9475,
+            "lon": -82.45861111,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Downtown_Tampa%2C_Florida.jpg/1280px-Downtown_Tampa%2C_Florida.jpg",
+            "description": "Tampa (  TAM-pə) is a major city on the Gulf Coast of the U.S. state of Florida and the county seat of Hillsborough County.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Tampa, Florida",
+                "wikipedia": "en:Tampa, Florida",
+                "tourism": "attraction"
+            }
+        }
+    ]
+}

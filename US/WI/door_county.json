@@ -1,0 +1,417 @@
+{
+    "city_metadata": {
+        "city_name": "Door County",
+        "state_code": "WI",
+        "state_full": "Wisconsin",
+        "city_summary": "Door County is the easternmost county in the U.S. state of Wisconsin. Its population was 30,066 at the 2020 census. Its county seat and largest city is Sturgeon Bay, with a population of 9,646.",
+        "city_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Fish_Creek%2C_Wisconsin.jpg/1280px-Fish_Creek%2C_Wisconsin.jpg",
+        "city_lat": 45.02,
+        "city_lon": -87.01,
+        "source": "wikipedia_verified_engine"
+    },
+    "attractions": [
+        {
+            "type": "node",
+            "id": 10049883214,
+            "lat": 45.1545034,
+            "lon": -87.1695347,
+            "tags": {
+                "name": "Ephraim Fire Museum",
+                "tourism": "museum",
+                "website": "https://ephraim.wi.gov/ephraim-fire-museum/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/EphraimMoravianChurchMay2011.jpg/1280px-EphraimMoravianChurchMay2011.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 11258100046,
+            "lat": 45.4072116,
+            "lon": -86.9442865,
+            "tags": {
+                "name": "Thorstein Veblen Study Cabin",
+                "tourism": "museum",
+                "website": "http://www.islandheritageconservancy.com/ihc-veblencabin.html"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/01/Little_Lake_%28Wisconsin%29.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 11258100314,
+            "lat": 45.4074261,
+            "lon": -86.9444023,
+            "tags": {
+                "name": "Jens Jacobson's Cabin",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/01/Little_Lake_%28Wisconsin%29.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 11258115455,
+            "lat": 45.4074167,
+            "lon": -86.9448103,
+            "tags": {
+                "name": "Jacobson's Museum",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/01/Little_Lake_%28Wisconsin%29.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 74298047,
+            "lat": 44.8302636,
+            "lon": -87.3829022,
+            "tags": {
+                "addr:city": "Sturgeon Bay",
+                "addr:housenumber": "120",
+                "addr:postcode": "54235",
+                "addr:state": "WI",
+                "addr:street": "North Madison Avenue",
+                "building": "yes",
+                "name": "Door County Maritime Museum",
+                "opening_hours": "Jan-Mar 10:00-16:00; Apr-Dec 10:00-17:00",
+                "tourism": "museum",
+                "website": "https://www.dcmm.org/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Cana_Island_Lighthouse_Sep2013.jpg/1280px-Cana_Island_Lighthouse_Sep2013.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 121511028,
+            "lat": 45.1619,
+            "lon": -87.1720615,
+            "tags": {
+                "building": "yes",
+                "name": "Anderson Store Museum",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Peter_Peterson_House.jpg/1280px-Peter_Peterson_House.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 121642604,
+            "lat": 45.3939542,
+            "lon": -86.9181471,
+            "tags": {
+                "addr:city": "Washington Island",
+                "addr:housenumber": "1675",
+                "addr:postcode": "54246",
+                "addr:state": "WI",
+                "addr:street": "Jackson Harbor Road",
+                "gnis:feature_id": "1838085",
+                "leisure": "park",
+                "museum": "history",
+                "name": "Washington Island Farm Museum",
+                "source": "USGS Geonames",
+                "tourism": "museum"
+            }
+        },
+        {
+            "type": "way",
+            "id": 329968313,
+            "lat": 45.0269159,
+            "lon": -87.2887768,
+            "tags": {
+                "addr:city": "Egg Harbor",
+                "addr:housenumber": "7340",
+                "addr:postcode": "54209",
+                "addr:state": "WI",
+                "addr:street": "WI-42",
+                "name": "Egg Harbor Fun Park",
+                "tourism": "theme_park"
+            }
+        },
+        {
+            "type": "way",
+            "id": 547179913,
+            "lat": 45.1539171,
+            "lon": -87.1690649,
+            "tags": {
+                "building": "yes",
+                "name": "Historic Iverson House",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/EphraimMoravianChurchMay2011.jpg/1280px-EphraimMoravianChurchMay2011.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 547179916,
+            "lat": 45.1559824,
+            "lon": -87.1688257,
+            "tags": {
+                "building": "yes",
+                "name": "Pioneer School",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/GibraltarDistrictSchool2EphraimWisconsinMay2011.jpg/1280px-GibraltarDistrictSchool2EphraimWisconsinMay2011.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 547179917,
+            "lat": 45.1558675,
+            "lon": -87.1686663,
+            "tags": {
+                "building": "yes",
+                "name": "Pioneer Cabin",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/GibraltarDistrictSchool2EphraimWisconsinMay2011.jpg/1280px-GibraltarDistrictSchool2EphraimWisconsinMay2011.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 547179952,
+            "lat": 45.161919,
+            "lon": -87.1711179,
+            "tags": {
+                "addr:city": "Ephraim",
+                "addr:housenumber": "3060",
+                "addr:postcode": "54211",
+                "addr:state": "WI",
+                "addr:street": "Anderson Lane",
+                "building": "yes",
+                "information": "Ephraim_Historical_Foundation",
+                "name": "Ephraim Historical Foundation",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Peter_Peterson_House.jpg/1280px-Peter_Peterson_House.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 555333115,
+            "lat": 45.0883069,
+            "lon": -87.0484738,
+            "tags": {
+                "building": "yes",
+                "name": "Oil House",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Cana_Island_Lighthouse%2C_Door_County%2C_Wisconsin%2C_October_2016.jpg/1280px-Cana_Island_Lighthouse%2C_Door_County%2C_Wisconsin%2C_October_2016.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 555333118,
+            "lat": 45.0883419,
+            "lon": -87.0485833,
+            "tags": {
+                "building": "yes",
+                "name": "Two-Seat Privy",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Cana_Island_Lighthouse%2C_Door_County%2C_Wisconsin%2C_October_2016.jpg/1280px-Cana_Island_Lighthouse%2C_Door_County%2C_Wisconsin%2C_October_2016.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 1018447889,
+            "lat": 45.3945772,
+            "lon": -86.9322103,
+            "tags": {
+                "addr:city": "Washington Island",
+                "addr:housenumber": "1799",
+                "addr:postcode": "54246",
+                "addr:state": "WI",
+                "addr:street": "Main Road",
+                "building": "yes",
+                "facebook": "https://www.facebook.com/WIArtandNatureCenter",
+                "museum": "nature",
+                "name": "Art & Nature Center",
+                "opening_hours": "Mo-Sa 10:30-16:00; Su 11:00-16:00; Sep 17-Jun 19 off",
+                "other_name": "Washington Island Arts",
+                "tourism": "gallery;museum",
+                "website": "https://wianc.org/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Community_of_Washington_and_Washington_Harbor_on_northwestern_Washington_Island%2C_Door_County%2C_Wisconsin_2020_%28cropped%29.png/1280px-Community_of_Washington_and_Washington_Harbor_on_northwestern_Washington_Island%2C_Door_County%2C_Wisconsin_2020_%28cropped%29.png",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 1018460587,
+            "lat": 45.2908181,
+            "lon": -87.0232257,
+            "tags": {
+                "addr:city": "Ellison Bay",
+                "addr:housenumber": "12731",
+                "addr:postcode": "54210",
+                "addr:state": "WI",
+                "addr:street": "State Highway 42",
+                "area": "yes",
+                "name": "Island Clipper (aka Voight's Marine Service)",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Aerial_view_of_Gills_Rock%2C_Door_County%2C_Wisconsin_2020_%28cropped%29.png/1280px-Aerial_view_of_Gills_Rock%2C_Door_County%2C_Wisconsin_2020_%28cropped%29.png",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 1018719426,
+            "lat": 44.7347233,
+            "lon": -87.6667061,
+            "tags": {
+                "addr:city": "Brussels",
+                "addr:housenumber": "1255",
+                "addr:postcode": "54204",
+                "addr:state": "WI",
+                "addr:street": "County Road DK",
+                "building": "yes",
+                "name": "Belgian Heritage Center",
+                "tourism": "museum"
+            }
+        },
+        {
+            "type": "way",
+            "id": 1026280819,
+            "lat": 45.2921056,
+            "lon": -87.0212807,
+            "tags": {
+                "addr:city": "Ellison Bay",
+                "addr:housenumber": "12724",
+                "addr:postcode": "54210",
+                "addr:state": "WI",
+                "addr:street": "West Wisconsin Bay Road",
+                "branch": "Gills Rock",
+                "building": "yes",
+                "fee": "yes",
+                "name": "Door County Maritime Museum",
+                "opening_hours": "May 27-29: Fr-Su 10:00-17:00; Jun 04-Oct 15: 10:00-17:00",
+                "tourism": "museum",
+                "website": "https://www.dcmm.org/gills-rock-museum/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Aerial_view_of_Gills_Rock%2C_Door_County%2C_Wisconsin_2020_%28cropped%29.png/1280px-Aerial_view_of_Gills_Rock%2C_Door_County%2C_Wisconsin_2020_%28cropped%29.png",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 1026303027,
+            "lat": 45.1275299,
+            "lon": -87.2464192,
+            "tags": {
+                "addr:city": "Fish Creek",
+                "addr:housenumber": "4167",
+                "addr:postcode": "54212",
+                "addr:state": "WI",
+                "addr:street": "Main Street",
+                "building": "yes",
+                "charge": "5 USD",
+                "fee": "yes",
+                "museum": "history",
+                "name": "Alexander Noble House Museum",
+                "opening_hours": "Tu-Su 10:00-15:00",
+                "phone": "+1-920-559-6234",
+                "tourism": "museum",
+                "website": "https://www.historicnoble.org/museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/AlexanderNobleHouse2011FishCreekWisconsin.jpg/1280px-AlexanderNobleHouse2011FishCreekWisconsin.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 1026370696,
+            "lat": 44.7760503,
+            "lon": -87.5109358,
+            "tags": {
+                "addr:city": "Sturgeon Bay",
+                "addr:housenumber": "2189",
+                "addr:postcode": "54235",
+                "addr:state": "WI",
+                "addr:street": "County Road DK",
+                "building": "retail",
+                "name": "Renard's Cheese & Deli",
+                "opening_hours": "Mo-Fr 08:00-17:00; Sa 09:00-16:00; Su 09:00-16:00",
+                "opening_hours:url": "https://www.renardscheese.com/locations/",
+                "phone": "+1-855-512-3272",
+                "shop": "cheese;gift",
+                "tourism": "attraction",
+                "website": "https://www.renardscheese.com/"
+            }
+        },
+        {
+            "type": "way",
+            "id": 1128299473,
+            "lat": 44.8351927,
+            "lon": -87.3750611,
+            "tags": {
+                "addr:city": "Sturgeon Bay",
+                "addr:housenumber": "18",
+                "addr:postcode": "54235",
+                "addr:state": "WI",
+                "addr:street": "North 4th Avenue",
+                "building": "yes",
+                "email": "DCMuseum@co.door.wi.us",
+                "name": "Door County Museum and Archives",
+                "opening_hours": "Mo-Fr 10:00-16:30",
+                "source": "microsoft/BuildingFootprints;USGS Geonames",
+                "tourism": "museum",
+                "website": "https://doorcountymuseum.org/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/CarnegieFreeLibrarySturgeonBayWisconsin.jpg/1280px-CarnegieFreeLibrarySturgeonBayWisconsin.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 90981,
+            "lat": 45.02,
+            "lon": -87.01,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Fish_Creek%2C_Wisconsin.jpg/1280px-Fish_Creek%2C_Wisconsin.jpg",
+            "description": "Door County is the easternmost county in the U.S. state of Wisconsin.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Door County, Wisconsin",
+                "wikipedia": "en:Door County, Wisconsin",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 2431551,
+            "lat": 44.9,
+            "lon": -87.3,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/04/Map_of_Wisconsin_highlighting_Door_Peninsula.PNG",
+            "description": "The Door Peninsula is a peninsula  in eastern Wisconsin, separating the southern part of the Green Bay from Lake Michigan.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Door Peninsula",
+                "wikipedia": "en:Door Peninsula",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 82667790,
+            "lat": 44.8432,
+            "lon": -87.3577,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Hill_Raceway_Arial_Shot.jpg/1280px-Hill_Raceway_Arial_Shot.jpg",
+            "description": "The Hill Raceway (formerly Thunderhill Raceway) is a dirt racing track located in John Miles County Park, in Sturgeon Bay, Wisconsin on the Door County Fairgrounds.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "The Hill Raceway",
+                "wikipedia": "en:The Hill Raceway",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 90963,
+            "lat": 44.59,
+            "lon": -87.44,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Kewaunee_County_Courthouse.jpg/1280px-Kewaunee_County_Courthouse.jpg",
+            "description": "Kewaunee County is a county located in the U.S. state of Wisconsin.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Kewaunee County, Wisconsin",
+                "wikipedia": "en:Kewaunee County, Wisconsin",
+                "tourism": "attraction"
+            }
+        }
+    ]
+}

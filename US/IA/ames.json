@@ -1,0 +1,268 @@
+{
+    "city_metadata": {
+        "city_name": "Ames",
+        "state_code": "IA",
+        "state_full": "Iowa",
+        "city_summary": "Ames () is a city in Story County, Iowa, United States, located approximately 30 miles (48 km) north of Des Moines in central Iowa. It is the home of Iowa State University (ISU). According to the 2020 census, Ames had a population of 66,427, making it the state's ninth-most populous city.",
+        "city_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Reiman_Gardens_33.jpg/1280px-Reiman_Gardens_33.jpg",
+        "city_lat": 42.01805556,
+        "city_lon": -93.62,
+        "source": "wikipedia_verified_engine"
+    },
+    "attractions": [
+        {
+            "type": "node",
+            "id": 367089331,
+            "lat": 42.0214767,
+            "lon": -93.6362991,
+            "tags": {
+                "addr:city": "Ames",
+                "addr:housenumber": "1800",
+                "addr:postcode": "50011",
+                "addr:state": "IA",
+                "addr:street": "Center Drive",
+                "addr:unit": "295",
+                "air_conditioning": "yes",
+                "ele": "274",
+                "gnis:feature_id": "1999242",
+                "museum": "art",
+                "name": "Brunnier Art Museum",
+                "operator": "Iowa State University",
+                "operator:type": "public",
+                "phone": "+1-515-294-3342",
+                "source": "USGS Geonames",
+                "tourism": "museum",
+                "website": "https://www.museums.iastate.edu/visit/brunnier-art-museum/",
+                "wikidata": "Q18342357"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Iowa_State_Center.jpg/1280px-Iowa_State_Center.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 8044697327,
+            "lat": 42.0097054,
+            "lon": -93.6391765,
+            "tags": {
+                "name": "Elwood the Gnome",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "way",
+            "id": 48305319,
+            "lat": 42.9054069,
+            "lon": -8.6951061,
+            "tags": {
+                "alt_name": "A Ponte Maceira",
+                "bicycle": "yes",
+                "bridge": "yes",
+                "highway": "footway",
+                "historic": "bridge",
+                "layer": "1",
+                "loc_name": "A Ponte Vella",
+                "man_made": "bridge",
+                "name": "A Ponte Vella",
+                "surface": "cobblestone",
+                "tourism": "attraction",
+                "width": "2",
+                "wikidata": "Q123848534",
+                "wikimedia_commons": "Category:Ponte Maceira",
+                "wikipedia": "gl:Ponte Maceira"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Ponte_Maceira.jpg/1280px-Ponte_Maceira.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 158023219,
+            "lat": 42.0271646,
+            "lon": -93.64396,
+            "tags": {
+                "addr:city": "Ames",
+                "addr:housenumber": "601",
+                "addr:postcode": "50011",
+                "addr:state": "IA",
+                "addr:street": "Farm House Lane",
+                "boundary": "protected_area",
+                "building": "university",
+                "building:levels": "3",
+                "fee": "donation",
+                "height": "30",
+                "heritage": "2",
+                "heritage:operator": "nrhp",
+                "museum": "local_history",
+                "name": "Farm House Museum",
+                "nrhp:criteria": "(A),(B)",
+                "nrhp:inscription_date": "July 19, 1964",
+                "nrhp:nhl": "yes",
+                "protection_title": "protected_site",
+                "ref:nrhp": "66000339",
+                "tourism": "museum",
+                "website": "https://www.museums.iastate.edu/visit/farm-house-museum",
+                "wikidata": "Q7733447",
+                "wikipedia": "en:The Farm House (Knapp–Wilson House)"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/The_Farm_House_ISU.jpg/1280px-The_Farm_House_ISU.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 237834127,
+            "lat": 42.02574,
+            "lon": -93.6118856,
+            "tags": {
+                "addr:city": "Ames",
+                "addr:housenumber": "416",
+                "addr:postcode": "50010",
+                "addr:state": "IA",
+                "addr:street": "Douglas Avenue",
+                "building": "yes",
+                "building:levels": "2",
+                "museum": "history",
+                "name": "Ames History Museum",
+                "tourism": "museum",
+                "website": "http://www.ameshistory.org/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d1/AmesIA_MasonicTemple.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 1361446772,
+            "lat": 42.9054077,
+            "lon": -8.6950987,
+            "tags": {
+                "alt_name": "A Ponte Maceira",
+                "bicycle": "yes",
+                "bridge": "yes",
+                "highway": "footway",
+                "historic": "bridge",
+                "layer": "1",
+                "loc_name": "A Ponte Vella",
+                "man_made": "bridge",
+                "name": "A Ponte Vella",
+                "surface": "cobblestone",
+                "tourism": "attraction",
+                "width": "2",
+                "wikidata": "Q123848534",
+                "wikimedia_commons": "Category:Ponte Maceira",
+                "wikipedia": "gl:Ponte Maceira"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Ponte_Maceira.jpg/1280px-Ponte_Maceira.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 14875,
+            "lat": 42.0262,
+            "lon": -93.648,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Iowa_State_University_wordmark.svg/1280px-Iowa_State_University_wordmark.svg.png",
+            "description": "Iowa State University of Science and Technology (Iowa State University, Iowa State, or ISU) is a public land-grant research university in Ames, Iowa, United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Iowa State University",
+                "wikipedia": "en:Iowa State University",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 112772,
+            "lat": 42.05138889,
+            "lon": -93.87,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/StollBuildingWorks.jpg/1280px-StollBuildingWorks.jpg",
+            "description": "Boone ( BOON) is a city in Des Moines Township and the county seat of Boone County, Iowa, United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Boone, Iowa",
+                "wikipedia": "en:Boone, Iowa",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 26810748,
+            "lat": 42,
+            "lon": -94,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Flag_of_Iowa.svg/1280px-Flag_of_Iowa.svg.png",
+            "description": "Iowa (  EYE-ə-wə) is a landlocked state in the upper Midwestern region of the United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Iowa",
+                "wikipedia": "en:Iowa",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 113988,
+            "lat": 41.96419,
+            "lon": -91.67917,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/National-Czech-and-Slovak-Museum-Library_%28cropped%29.jpg/1280px-National-Czech-and-Slovak-Museum-Library_%28cropped%29.jpg",
+            "description": "Cedar Rapids is a city in Linn County, Iowa, United States, and the county seat.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Cedar Rapids, Iowa",
+                "wikipedia": "en:Cedar Rapids, Iowa",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 114334,
+            "lat": 42.5025,
+            "lon": -94.17083333,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Fort_Dodge_Iowa.jpg/1280px-Fort_Dodge_Iowa.jpg",
+            "description": "Fort Dodge is a city in and the county seat of Webster County, Iowa, United States, along the Des Moines River.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Fort Dodge, Iowa",
+                "wikipedia": "en:Fort Dodge, Iowa",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 558005,
+            "lat": 42.10805556,
+            "lon": -72.58166667,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Springfield_Arsenal_as_seen_from_south_facade.jpg/1280px-Springfield_Arsenal_as_seen_from_south_facade.jpg",
+            "description": "The Springfield Armory, more formally known as the United States Armory and Arsenal at Springfield located in the city of Springfield, Massachusetts, was the primary center for the manufacture of United States military firearms from 1777 until its closing in 1968.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Springfield Armory",
+                "wikipedia": "en:Springfield Armory",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 22910587,
+            "lat": 38.01,
+            "lon": -80.97055556,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/90/Clifftopstage.jpg",
+            "description": "The Appalachian String Band Music Festival (often referred to simply as \"Clifftop\") is a weeklong gathering of thousands of string band musicians and their friends from across the country and around the world, who each year since 1990 have assembled near the New River Gorge in West Virginia in late July/early August to celebrate the evolving tradition of old-time music and the community of people who keep it thriving by preserving and contributing to that tradition.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Appalachian String Band Music Festival",
+                "wikipedia": "en:Appalachian String Band Music Festival",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 173602,
+            "lat": 42.64666667,
+            "lon": -71.31027778,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Boott_mill_rooftop_view.jpg",
+            "description": "Lowell National Historical Park is a National Historical Park of the United States located in Lowell, Massachusetts.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Lowell National Historical Park",
+                "wikipedia": "en:Lowell National Historical Park",
+                "tourism": "attraction"
+            }
+        }
+    ]
+}

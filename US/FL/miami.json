@@ -1,0 +1,915 @@
+{
+    "city_metadata": {
+        "city_name": "Miami",
+        "state_code": "FL",
+        "state_full": "Florida",
+        "city_summary": "Miami is a coastal city in the U.S. state of Florida. It is the second-most populous city proper in Florida, with a population of 442,241 at the 2020 census. The Miami metropolitan area in South Florida has an estimated 6.39 million residents, ranking as the fifth-largest metropolitan area in the Southeast and eighth-largest metropolitan area in the United States.",
+        "city_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Villa_Vizcaya_20110228.jpg/1280px-Villa_Vizcaya_20110228.jpg",
+        "city_lat": 25.77416667,
+        "city_lon": -80.19361111,
+        "source": "wikipedia_verified_engine"
+    },
+    "attractions": [
+        {
+            "type": "node",
+            "id": 99280684,
+            "lat": 25.813414,
+            "lon": -80.19342,
+            "tags": {
+                "name": "Miami Design District",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Miami_neighborhoodsmap.png/1280px-Miami_neighborhoodsmap.png",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 185593840,
+            "lat": -28.0620247,
+            "lon": 153.4407414,
+            "tags": {
+                "created_by": "Potlatch 0.5d",
+                "name": "North Nobby",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Underneath_the_Nobby%27s_Head_Aerial_Cableway%2C_Gold_Coast%2C_Queensland.jpg/1280px-Underneath_the_Nobby%27s_Head_Aerial_Cableway%2C_Gold_Coast%2C_Queensland.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 367827528,
+            "lat": 25.7647222,
+            "lon": -80.2311111,
+            "tags": {
+                "addr:state": "FL",
+                "ele": "3",
+                "gnis:feature_id": "2077982",
+                "name": "Latin American Art Museum",
+                "source": "USGS Geonames",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/16/Calle-ocho-festival-2001.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 367827603,
+            "lat": 25.765691,
+            "lon": -80.207946,
+            "tags": {
+                "addr:state": "FL",
+                "ele": "4",
+                "gnis:feature_id": "2449751",
+                "name": "Museum of the Americas",
+                "source": "USGS Geonames",
+                "tourism": "museum",
+                "website": "https://www.museumamericas.com/"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1327328960,
+            "lat": 25.7865085,
+            "lon": -80.174973,
+            "tags": {
+                "attraction": "animal",
+                "is_in:theme_park": "Jungle Island",
+                "name": "Lemur Encounter",
+                "species:wikipedia": "en:Liger",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Two_different_macaws_-Jungle_Island_-Miami-6a.jpg/1280px-Two_different_macaws_-Jungle_Island_-Miami-6a.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 1327329025,
+            "lat": 25.7856261,
+            "lon": -80.174047,
+            "tags": {
+                "attraction": "animal",
+                "name": "Gigant Tortoise",
+                "species:wikidata": "Q27885022",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Two_different_macaws_-Jungle_Island_-Miami-6a.jpg/1280px-Two_different_macaws_-Jungle_Island_-Miami-6a.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 1327333405,
+            "lat": 25.7867974,
+            "lon": -80.1747762,
+            "tags": {
+                "attraction": "animal",
+                "is_in:theme_park": "Jungle Island",
+                "name": "Primates",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Two_different_macaws_-Jungle_Island_-Miami-6a.jpg/1280px-Two_different_macaws_-Jungle_Island_-Miami-6a.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 1327333408,
+            "lat": 25.786732,
+            "lon": -80.1743203,
+            "tags": {
+                "attraction": "animal",
+                "is_in:theme_park": "Jungle Island",
+                "name": "Flamingo Encounter",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Two_different_macaws_-Jungle_Island_-Miami-6a.jpg/1280px-Two_different_macaws_-Jungle_Island_-Miami-6a.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 2308861708,
+            "lat": 25.7782099,
+            "lon": -80.1861767,
+            "tags": {
+                "name": "Tour Boat Boarding",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Bayfront_Plaza_2020.jpg/1280px-Bayfront_Plaza_2020.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 4587210554,
+            "lat": 25.7656438,
+            "lon": -80.2199727,
+            "tags": {
+                "name": "Calle Ocho Walk of Fame",
+                "name:en": "Calle Ocho Walk of Fame",
+                "name:es": "Paseo de la Fama",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/en/9/94/Twerpremiercalzada.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 4770384121,
+            "lat": 25.7466736,
+            "lon": -80.1779538,
+            "tags": {
+                "name": "Miami seaplane tour",
+                "name:en": "Miami seaplane tour",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 4850880823,
+            "lat": -28.0629961,
+            "lon": 153.4280633,
+            "tags": {
+                "addr:street": "Sonia Street",
+                "name": "Pizzey Park Pine Forest",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Pizzey_Park_lake.jpg/1280px-Pizzey_Park_lake.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 5613530547,
+            "lat": 25.774401,
+            "lon": -80.185476,
+            "tags": {
+                "amenity": "fountain",
+                "name": "Mildred and Claude Pepper Fountain",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Bayfront_Plaza_2020.jpg/1280px-Bayfront_Plaza_2020.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 5841492990,
+            "lat": 25.7348701,
+            "lon": -80.1575286,
+            "tags": {
+                "name": "Historic Virginia Key Beach Park",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Virginiakeybeach.jpg/1280px-Virginiakeybeach.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 5934936915,
+            "lat": 36.8722799,
+            "lon": -94.8776822,
+            "tags": {
+                "addr:housenumber": "128",
+                "addr:postcode": "74354",
+                "addr:street": "South Main Street",
+                "name": "Route 66 Vintage Iron",
+                "name:en": "Route 66 Vintage Iron",
+                "tourism": "museum",
+                "website": "http://www.route66vintageiron.com/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Miami_Marathon_Oil_Company_Service_station.jpg/1280px-Miami_Marathon_Oil_Company_Service_station.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 6091331640,
+            "lat": 25.7991027,
+            "lon": -80.1946258,
+            "tags": {
+                "addr:city": "Miami",
+                "addr:housenumber": "2301",
+                "addr:postcode": "33137",
+                "addr:state": "FL",
+                "addr:street": "North Miami Avenue",
+                "name": "PARADOX Museum Miami",
+                "opening_hours": "Mo-Fr 12:00-20:00; Sa 10:00-19:00; Su 10:00-20:00",
+                "tourism": "museum",
+                "website": "https://paradoxmuseummiami.com/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Wynwood_street_art.jpg/1280px-Wynwood_street_art.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 6336778346,
+            "lat": 36.8714819,
+            "lon": -94.8773934,
+            "tags": {
+                "name": "Route 66 Arch",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Miami_Marathon_Oil_Company_Service_station.jpg/1280px-Miami_Marathon_Oil_Company_Service_station.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 6359224089,
+            "lat": 33.3939844,
+            "lon": -110.8794925,
+            "tags": {
+                "addr:city": "Miami",
+                "addr:housenumber": "150",
+                "addr:postcode": "85539",
+                "addr:state": "AZ",
+                "addr:street": "North Plaza Circle",
+                "facebook": "https://www.facebook.com/BullionPlazaCulturalCenterMuseum/",
+                "museum": "history",
+                "name": "Bullion Plaza Cultural Center and Museum",
+                "opening_hours": "Th-Sa 11:00-15:00; Su 12:00-15:00",
+                "phone": "+1 928 473 3700",
+                "tourism": "museum",
+                "website": "https://bullionplazamuseum.org/",
+                "wheelchair": "yes"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Bullion_Plaza_School_central_section_1.JPG/1280px-Bullion_Plaza_School_central_section_1.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 6540203185,
+            "lat": 25.8015043,
+            "lon": -80.1945494,
+            "tags": {
+                "name": "Lock & Load Miami Range",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Wynwood_street_art.jpg/1280px-Wynwood_street_art.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 6575659085,
+            "lat": 25.765556,
+            "lon": -80.2223402,
+            "tags": {
+                "addr:street": "Southwest 8th Street",
+                "name": "Calle Ocho Walk of Fame. West.",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Fred_Thompson_at_Bay_of_Pigs_Museum_%282105194759%29.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 6583009092,
+            "lat": 25.7700877,
+            "lon": -80.1935302,
+            "tags": {
+                "addr:street": "Riverwalk",
+                "name": "Street Art",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Wind_Tower_Miami_se.jpg/1280px-Wind_Tower_Miami_se.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 6583009095,
+            "lat": 25.7689462,
+            "lon": -80.1958978,
+            "tags": {
+                "name": "Miami Riverwalk",
+                "opening_hours": "Mo-Su 06:00-22:00",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Miami_Riverwalk.jpg/1280px-Miami_Riverwalk.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 6583012889,
+            "lat": 25.7709148,
+            "lon": -80.1923196,
+            "tags": {
+                "name": "Julia B. Tuttle's Homestead",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Riverwalk_Metromover_station_Downtown_Miami.jpg/1280px-Riverwalk_Metromover_station_Downtown_Miami.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 6594606197,
+            "lat": 25.7928594,
+            "lon": -80.1856214,
+            "tags": {
+                "addr:street": "North Bayshore Drive",
+                "name": "Large Jewish Throne",
+                "opening_hours": "24/7",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Miami_FL_Womans_Club_library01.jpg/1280px-Miami_FL_Womans_Club_library01.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 6594610095,
+            "lat": 25.7914294,
+            "lon": -80.1926895,
+            "tags": {
+                "addr:street": "Northeast 1st Avenue",
+                "name": "Street Art",
+                "opening_hours": "24/7",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Miami_FL_city_cemetery02.jpg/1280px-Miami_FL_city_cemetery02.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 6594610102,
+            "lat": 25.7995499,
+            "lon": -80.1946837,
+            "tags": {
+                "addr:street": "North Miami Avenue",
+                "name": "Street Art",
+                "opening_hours": "24/7",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Wynwood_street_art.jpg/1280px-Wynwood_street_art.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 6594610287,
+            "lat": 25.7916412,
+            "lon": -80.1911877,
+            "tags": {
+                "addr:street": "Northeast 17th Street",
+                "name": "Street Art",
+                "opening_hours": "24/7",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/S%26S_Diner_Miami_exterior_view_June_2016.jpg/1280px-S%26S_Diner_Miami_exterior_view_June_2016.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 6594610585,
+            "lat": 25.7988271,
+            "lon": -80.1985806,
+            "tags": {
+                "addr:street": "Northwest 1st Place",
+                "name": "Street Art",
+                "opening_hours": "24/7",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Wynwood_street_art.jpg/1280px-Wynwood_street_art.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 8871944117,
+            "lat": 25.7776843,
+            "lon": -80.185741,
+            "tags": {
+                "addr:city": "Miami",
+                "addr:housenumber": "401",
+                "addr:postcode": "33132",
+                "addr:state": "FL",
+                "addr:street": "Biscayne Boulevard",
+                "email": "sales@thrillermiami.com",
+                "name": "Thriller Miami Speedboat Adventures",
+                "note": "Health and safety Measures; Appointment required",
+                "phone": "+1-305-371-3278",
+                "tourism": "attraction",
+                "website": "https://www.thrillermiami.com/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Bayfront_Plaza_2020.jpg/1280px-Bayfront_Plaza_2020.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 9674745317,
+            "lat": 25.7776866,
+            "lon": -80.1734911,
+            "tags": {
+                "name": "Carnival Cruise",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9675672817,
+            "lat": 25.7743163,
+            "lon": -80.1648222,
+            "tags": {
+                "name": "MSC Cruises",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Port_of_Miami_Florida.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 10157798617,
+            "lat": 25.7747237,
+            "lon": -80.1657167,
+            "tags": {
+                "name": "Norwegian Cruise Line",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Port_of_Miami_Florida.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 10162408017,
+            "lat": 25.7723009,
+            "lon": -80.1590068,
+            "tags": {
+                "name": "Royal Caribbean Port",
+                "tourism": "attraction",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11649307028,
+            "lat": 25.7862849,
+            "lon": -80.1753901,
+            "tags": {
+                "attraction": "animal",
+                "is_in:theme_park": "Jungle Island",
+                "name": "Bunnies Encounter",
+                "species:wikipedia": "en:Liger",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Two_different_macaws_-Jungle_Island_-Miami-6a.jpg/1280px-Two_different_macaws_-Jungle_Island_-Miami-6a.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 12022547870,
+            "lat": 25.7653687,
+            "lon": -80.2377228,
+            "tags": {
+                "name": "Insegna LITTLE HAVANA",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 12351907074,
+            "lat": 33.3969471,
+            "lon": -110.8764968,
+            "tags": {
+                "addr:city": "Miami",
+                "addr:postcode": "85539",
+                "addr:state": "AZ",
+                "name": "\"M\" Hill",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Our_Lady_of_the_Blessed_Sacrament_%28Miami%2C_AZ%29_from_E_3.JPG/1280px-Our_Lady_of_the_Blessed_Sacrament_%28Miami%2C_AZ%29_from_E_3.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 12351907075,
+            "lat": 33.3969876,
+            "lon": -110.8768472,
+            "tags": {
+                "addr:city": "Miami",
+                "addr:postcode": "85539",
+                "addr:state": "AZ",
+                "name": "Three Crosses",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Our_Lady_of_the_Blessed_Sacrament_%28Miami%2C_AZ%29_from_E_3.JPG/1280px-Our_Lady_of_the_Blessed_Sacrament_%28Miami%2C_AZ%29_from_E_3.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 12467645482,
+            "lat": 25.7735533,
+            "lon": -80.1631495,
+            "tags": {
+                "name": "Norwegian Port",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Port_of_Miami_Florida.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 12863140343,
+            "lat": 25.7704877,
+            "lon": -80.1551087,
+            "tags": {
+                "name": "MSC Cruises Port",
+                "tourism": "attraction",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "way",
+            "id": 117926304,
+            "lat": 25.7862298,
+            "lon": -80.1757224,
+            "tags": {
+                "addr:city": "Miami",
+                "addr:housenumber": "1111",
+                "addr:postcode": "33132",
+                "addr:street": "Parrot Jungle Trail",
+                "description": "Interactive zoological park.",
+                "name": "Jungle Island",
+                "opening_hours": "We-Su 10:00-17:00; Mo,Tu closed",
+                "tourism": "theme_park",
+                "website": "https://www.jungleisland.com/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Two_different_macaws_-Jungle_Island_-Miami-6a.jpg/1280px-Two_different_macaws_-Jungle_Island_-Miami-6a.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 117927876,
+            "lat": 25.7870726,
+            "lon": -80.1759606,
+            "tags": {
+                "building": "yes",
+                "is_in:theme_park": "Jungle Island",
+                "name": "Serpentarium",
+                "tourism": "zoo"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Two_different_macaws_-Jungle_Island_-Miami-6a.jpg/1280px-Two_different_macaws_-Jungle_Island_-Miami-6a.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 290629021,
+            "lat": 25.7802942,
+            "lon": -80.1897101,
+            "tags": {
+                "addr:city": "Miami",
+                "addr:housenumber": "600",
+                "addr:postcode": "33132",
+                "addr:state": "FL",
+                "addr:street": "Biscayne Boulevard",
+                "building": "yes",
+                "ele": "78",
+                "height": "84.5",
+                "name": "Freedom Tower at Miami Dade College",
+                "ref:miabldg": "32572",
+                "tourism": "attraction",
+                "wikidata": "Q1453542",
+                "wikipedia": "en:Freedom Tower (Miami)"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Freedom_Tower_Downtown_Miami_%2838075844515%29.jpg/1280px-Freedom_Tower_Downtown_Miami_%2838075844515%29.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 301895039,
+            "lat": 25.7443837,
+            "lon": -80.2104967,
+            "tags": {
+                "addr:housenumber": "3251",
+                "addr:postcode": "33129",
+                "addr:street": "South Miami Avenue",
+                "building": "yes",
+                "fee": "yes",
+                "height": "21.5",
+                "name": "Villa Vizcaya",
+                "opening_hours": "We-Mo 09:30-16:30",
+                "phone": "+1-305-250-9133",
+                "ref:miabldg": "7486",
+                "tourism": "museum",
+                "website": "http://www.vizcaya.org",
+                "wikidata": "Q2095464",
+                "wikipedia": "en:Villa Vizcaya"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Villa_Vizcaya_20110228.jpg/1280px-Villa_Vizcaya_20110228.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 311836305,
+            "lat": 25.8011739,
+            "lon": -80.1996624,
+            "tags": {
+                "addr:city": "Miami",
+                "addr:housenumber": "2520",
+                "addr:postcode": "33127",
+                "addr:state": "FL",
+                "addr:street": "Northwest 2nd Avenue",
+                "name": "Wynwood Walls",
+                "opening_hours": "Mo-Sa 10:30-23:00; Su 10:30-21:30",
+                "tourism": "attraction",
+                "wikidata": "Q123138647"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Midtownmiamicenter.jpg/1280px-Midtownmiamicenter.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 319426548,
+            "lat": 25.785299,
+            "lon": -80.1877391,
+            "tags": {
+                "addr:city": "Miami",
+                "addr:housenumber": "1101",
+                "addr:postcode": "33132",
+                "addr:state": "FL",
+                "addr:street": "Biscayne Boulevard",
+                "check_date": "2025-09-20",
+                "contact:facebook": "https://www.facebook.com/FrostScience/",
+                "contact:phone": "+1-305-434-9600",
+                "contact:twitter": "https://twitter.com/frostscience",
+                "contact:website": "https://www.frostscience.org/",
+                "description": "The Phillip and Patricia Frost Museum of Science is a science museum.",
+                "museum": "science",
+                "name": "Patricia and Phillip Frost Museum of Science",
+                "opening_hours": "Mo-Su 10:00-18:00",
+                "operator:type": "university",
+                "tourism": "museum",
+                "wikidata": "Q3307880"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Logo_frost.png",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 396815292,
+            "lat": 25.800868,
+            "lon": -80.2009332,
+            "tags": {
+                "addr:city": "Miami",
+                "addr:housenumber": "299",
+                "addr:postcode": "33127",
+                "addr:state": "FL",
+                "addr:street": "NW 25th Street",
+                "building": "yes",
+                "building:levels": "1",
+                "name": "Museum of Graffiti",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/2026-0120_Hiden_bar.jpg/1280px-2026-0120_Hiden_bar.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 435738306,
+            "lat": 25.7507931,
+            "lon": -80.2141801,
+            "tags": {
+                "addr:city": "Miami",
+                "addr:housenumber": "1200",
+                "addr:postcode": "33145",
+                "addr:state": "FL",
+                "addr:street": "Coral Way",
+                "building": "yes",
+                "description": "Cuban Museum",
+                "height": "15.0",
+                "name": "American Museum of the Cuban Diaspora",
+                "ref:miabldg": "54684",
+                "tourism": "museum",
+                "website": "https://thecuban.org/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/American_Museum_of_the_Cuban_Diaspora.jpg/1280px-American_Museum_of_the_Cuban_Diaspora.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 435748157,
+            "lat": 25.7842481,
+            "lon": -80.2027582,
+            "tags": {
+                "addr:city": "Miami",
+                "addr:housenumber": "480",
+                "addr:postcode": "33136",
+                "addr:state": "FL",
+                "addr:street": "Northwest 11th Street",
+                "building": "yes",
+                "height": "11.8",
+                "name": "Historic Black Police Precinct Courthouse and Museum",
+                "ref:miabldg": "59572",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Booker_T._Washington_High_School.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 435847255,
+            "lat": 25.7986936,
+            "lon": -80.2142568,
+            "tags": {
+                "addr:housenumber": "1100",
+                "addr:postcode": "33127",
+                "addr:street": "Northwest 23rd Street",
+                "building": "yes",
+                "height": "11.8",
+                "museum": "art",
+                "name": "Rubell Museum",
+                "ref:miabldg": "66582",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Miami_Stadium%2C_Miami%2C_Florida_%288006288023%29.jpg/1280px-Miami_Stadium%2C_Miami%2C_Florida_%288006288023%29.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 436033650,
+            "lat": 25.7650074,
+            "lon": -80.2250562,
+            "tags": {
+                "addr:city": "Miami",
+                "addr:housenumber": "1821",
+                "addr:postcode": "33135",
+                "addr:street": "Southwest 9th Street",
+                "building": "yes",
+                "height": "15.2",
+                "name": "Bay of Pigs Museum",
+                "name:es": "Museo Bahía de Cochinos",
+                "ref:miabldg": "76906",
+                "tourism": "museum",
+                "website": "https://www.bayofpigsbrigade2506.com/",
+                "wikidata": "Q4874221"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Fred_Thompson_at_Bay_of_Pigs_Museum_%282105194759%29.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 464463259,
+            "lat": 25.7835874,
+            "lon": -80.1735303,
+            "tags": {
+                "leisure": "garden",
+                "name": "Ichimura Miami Japanese Garden",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Miami_neighborhoodsmap.png/1280px-Miami_neighborhoodsmap.png",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 480955424,
+            "lat": 25.7847528,
+            "lon": -80.1766011,
+            "tags": {
+                "addr:housenumber": "980",
+                "addr:postcode": "33132",
+                "addr:street": "Macarthur Causeway",
+                "building": "museum",
+                "fee": "yes",
+                "height": "20.5",
+                "name": "Miami Children's Museum",
+                "opening_hours": "Mo-Su 10:00-18:00",
+                "ref:miaaddr": "94316",
+                "ref:miabldg": "78623",
+                "tourism": "museum",
+                "website": "https://www.miamichildrensmuseum.org/",
+                "wikidata": "Q3307878"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Miami_neighborhoodsmap.png/1280px-Miami_neighborhoodsmap.png",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 484587327,
+            "lat": 25.7860342,
+            "lon": -80.1863239,
+            "tags": {
+                "addr:city": "Miami",
+                "addr:housenumber": "1103",
+                "addr:postcode": "33132",
+                "addr:state": "FL",
+                "addr:street": "Biscayne Boulevard",
+                "building:levels": "4",
+                "building:min_level": "1",
+                "building:part": "yes",
+                "check_date": "2025-04-23",
+                "museum": "art",
+                "name": "Pérez Art Museum Miami",
+                "opening_hours": "Mo,Fr-Su 11:00-18:00; Tu-We off; Th 11:00-21:00",
+                "short_name": "PAMM",
+                "tourism": "museum",
+                "website": "https://www.pamm.org/",
+                "wikidata": "Q3026874",
+                "wikipedia": "en:Pérez Art Museum Miami"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Omni_night_skyline.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 589514585,
+            "lat": 25.814353,
+            "lon": -80.1943011,
+            "tags": {
+                "addr:city": "Miami",
+                "addr:housenumber": "61",
+                "addr:postcode": "33137",
+                "addr:state": "FL",
+                "addr:street": "Northeast 41st Street",
+                "email": "hello@icamiami.org",
+                "internet_access": "wlan",
+                "name": "Institute of Contemporary Art, Miami",
+                "opening_hours": "Tu-Su 11:00-19:00",
+                "phone": "+1-305-901-5272",
+                "start_date": "2017-12-01",
+                "tourism": "museum",
+                "website": "https://icamiami.org/"
+            }
+        },
+        {
+            "type": "way",
+            "id": 648249520,
+            "lat": 25.7745642,
+            "lon": -80.1965921,
+            "tags": {
+                "addr:city": "Miami",
+                "addr:housenumber": "101",
+                "addr:postcode": "33130",
+                "addr:state": "FL",
+                "addr:street": "West Flagler Street",
+                "name": "HistoryMiami Museum",
+                "phone": "+1 305-375-1492",
+                "tourism": "museum",
+                "website": "https://historymiami.org/",
+                "wikidata": "Q9275937",
+                "wikipedia": "en:HistoryMiami"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Villa_Vizcaya_20110228.jpg/1280px-Villa_Vizcaya_20110228.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 768972798,
+            "lat": 35.6917418,
+            "lon": -100.6370936,
+            "tags": {
+                "addr:city": "Miami",
+                "addr:housenumber": "120",
+                "addr:postcode": "79059",
+                "addr:state": "TX",
+                "addr:street": "East Commercial Street",
+                "building": "yes",
+                "name": "Roberts County Museum",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Roberts_County%2C_Texas%2C_courthouse_from_E_1.JPG/1280px-Roberts_County%2C_Texas%2C_courthouse_from_E_1.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 1196214923,
+            "lat": 36.8728682,
+            "lon": -94.8790071,
+            "tags": {
+                "building": "yes",
+                "layer": "1",
+                "name": "Dobson Museum & Home",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Miami_Marathon_Oil_Company_Service_station.jpg/1280px-Miami_Marathon_Oil_Company_Service_station.jpg",
+            "image_source": "wikipedia_verified"
+        }
+    ]
+}

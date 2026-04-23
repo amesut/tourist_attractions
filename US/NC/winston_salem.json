@@ -1,0 +1,414 @@
+{
+    "city_metadata": {
+        "city_name": "Winston-Salem",
+        "state_code": "NC",
+        "state_full": "North Carolina",
+        "city_summary": "Winston-Salem is a city in Forsyth County, North Carolina, United States, and its county seat. It is the fifth-most populous city in North Carolina and 91st-most populous city in the United States, with a population of 249,545 at the 2020 census. The Winston-Salem metropolitan area has an estimated 705,000 residents, making it the fourth-largest metropolitan area based in North Carolina.",
+        "city_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Winston-Salem_skyline.jpg/1280px-Winston-Salem_skyline.jpg",
+        "city_lat": 36.10277778,
+        "city_lon": -80.26083333,
+        "source": "wikipedia_verified_engine"
+    },
+    "attractions": [
+        {
+            "type": "node",
+            "id": 4942427599,
+            "lat": 36.1558239,
+            "lon": -80.2972691,
+            "tags": {
+                "addr:city": "Winston-Salem",
+                "addr:housenumber": "2147",
+                "addr:postcode": "27106",
+                "addr:state": "NC",
+                "addr:street": "Bethabara Road",
+                "fee": "no",
+                "name": "Bethabara Visitor Center",
+                "phone": "+1 336 924 8191",
+                "tourism": "museum",
+                "website": "https://historicbethabara.org/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/28/Bethabara_Moravian_Church%2C_2147_Bethabara_Road_%28State_Route_1681%29%2C_Old_Town_%28Forsyth_County%2C_North_Carolina%29.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 31267355,
+            "lat": 36.1352281,
+            "lon": -80.2789915,
+            "tags": {
+                "addr:city": "Winston Salem",
+                "addr:housenumber": "1834",
+                "addr:postcode": "27109",
+                "addr:state": "NC",
+                "addr:street": "Wake Forest Road",
+                "amenity": "place_of_worship",
+                "building": "yes",
+                "denomination": "baptist",
+                "name": "Wait Chapel",
+                "religion": "christian",
+                "tourism": "attraction",
+                "wikidata": "Q7960384"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a5/UpperQuad_ACB.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 31274569,
+            "lat": 36.1257863,
+            "lon": -80.2827267,
+            "tags": {
+                "addr:city": "Winston-Salem",
+                "addr:housenumber": "2250",
+                "addr:postcode": "27106",
+                "addr:state": "NC",
+                "addr:street": "Reynolda Road",
+                "building": "yes",
+                "ele": "289",
+                "gnis:feature_id": "1007185",
+                "museum": "art",
+                "name": "Reynolda House",
+                "opening_hours": "Tu-Sa 9:30-16:30; Su 13:30-16:30",
+                "phone": "+1-888-663-1149",
+                "source": "USGS Geonames",
+                "tourism": "museum",
+                "website": "https://reynoldahouse.org/",
+                "wikidata": "Q5291798",
+                "wikipedia": "en:Reynolda House Museum of American Art"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Reynolda_house_front_2021.jpg/1280px-Reynolda_house_front_2021.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 31274573,
+            "lat": 36.1251467,
+            "lon": -80.284248,
+            "tags": {
+                "created_by": "Potlatch 0.10f",
+                "leisure": "garden",
+                "name": "Reynolda Gardens",
+                "tourism": "attraction",
+                "wikidata": "Q7319614"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Reynolda_Gardens_2023.jpg/1280px-Reynolda_Gardens_2023.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 31295942,
+            "lat": 36.119781,
+            "lon": -80.2900736,
+            "tags": {
+                "addr:city": "Winston-Salem",
+                "addr:housenumber": "750",
+                "addr:postcode": "27106",
+                "addr:street": "Marguerite Drive",
+                "building": "yes",
+                "check_date": "2025-10-13",
+                "contact:facebook": "https://www.facebook.com/@NCMA.WinstonSalem/",
+                "contact:instagram": "https://www.instagram.com/ncma.winstonsalem",
+                "contact:linkedin": "https://www.linkedin.com/company/ncmawinstonsalem",
+                "name": "NCMA Winston-Salem (formerly SECCA)",
+                "opening_hours": "We,Fr-Sa 11:00-16:00; Th 11:00-20:00",
+                "phone": "+1-336-725-1904",
+                "source": "Bing, secca.org",
+                "tourism": "museum",
+                "website": "https://ncmawinstonsalem.gov/",
+                "wikidata": "Q373379"
+            }
+        },
+        {
+            "type": "way",
+            "id": 298456898,
+            "lat": 36.0913287,
+            "lon": -80.2439243,
+            "tags": {
+                "building": "yes",
+                "name": "Children's Museum of Winston Salem",
+                "tourism": "museum",
+                "wikidata": "Q5098188"
+            }
+        },
+        {
+            "type": "way",
+            "id": 298458058,
+            "lat": 36.0837344,
+            "lon": -80.2418761,
+            "tags": {
+                "addr:city": "Winston-Salem",
+                "addr:housenumber": "924",
+                "addr:postcode": "27101",
+                "alt_name": "Frank L. Horton Museum Center",
+                "building": "yes",
+                "name": "Museum of Early Southern Decorative Arts",
+                "phone": "+1-336-721-7360",
+                "tourism": "museum",
+                "website": "http://www.mesda.org/",
+                "wikidata": "Q28810791"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/97/St._Phillips_Moravian_Church.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 384413743,
+            "lat": 36.0868669,
+            "lon": -80.2410671,
+            "tags": {
+                "addr:city": "Winston-Salem",
+                "addr:housenumber": "2424",
+                "addr:postcode": "27101",
+                "addr:state": "NC",
+                "building": "yes",
+                "name": "Single Sisters' House Museum",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Old_FIre_House%2C_Salem_Square%2C_Old_Salem%2C_Winston-Salem%2C_NC_%2849036503022%29.jpg/1280px-Old_FIre_House%2C_Salem_Square%2C_Old_Salem%2C_Winston-Salem%2C_NC_%2849036503022%29.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 674519601,
+            "lat": 36.1048847,
+            "lon": -80.2436178,
+            "tags": {
+                "addr:city": "Winston-Salem",
+                "addr:housenumber": "1335",
+                "addr:postcode": "27101",
+                "addr:state": "NC",
+                "addr:street": "North Martin Luther King Jr Drive",
+                "building": "yes",
+                "name": "The Winston Cup Museum Special Event Center",
+                "tourism": "museum"
+            }
+        },
+        {
+            "type": "way",
+            "id": 1110354159,
+            "lat": 36.0972719,
+            "lon": -80.2458438,
+            "tags": {
+                "building": "yes",
+                "fee": "yes",
+                "museum": "children",
+                "name": "Kaledium",
+                "opening_hours": "Mo 09:00-17:00; Sep Mo[1] +1 day-May Mo[-1] -1 day: Mo 09:00-12:00 \"except Forsyth County school holidays; members only\"; Tu-Fr 09:00-17:00; Sa,Su 10:00-17:00",
+                "tourism": "museum",
+                "website": "https://kaleideum.org/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Pepper_Building_in_Winston-Salem.jpg/1280px-Pepper_Building_in_Winston-Salem.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 21650,
+            "lat": 36,
+            "lon": -80,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Flag_of_North_Carolina.svg/1280px-Flag_of_North_Carolina.svg.png",
+            "description": "North Carolina (  KAYR-ə-LIE-nə) is a state in the Southeastern and South Atlantic regions of the United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "North Carolina",
+                "wikipedia": "en:North Carolina",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 23956501,
+            "lat": 34,
+            "lon": -83,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Raleigh_Skyline.jpg/1280px-Raleigh_Skyline.jpg",
+            "description": "The Piedmont Atlantic megaregion, or Southeast Megalopolis, is a neologism created by the Regional Plan Association for an area of the Southeastern United States that contains parts of the states of Alabama, Georgia, Tennessee, South Carolina, and North Carolina.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Piedmont Atlantic megaregion",
+                "wikipedia": "en:Piedmont Atlantic megaregion",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 1465150,
+            "lat": 36.069386,
+            "lon": -80.300113,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/79/Hanes_Mall_satellite_view.png",
+            "description": "Hanes Mall is a shopping mall in Winston-Salem, North Carolina.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Hanes Mall",
+                "wikipedia": "en:Hanes Mall",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 57447,
+            "lat": 35.22722222,
+            "lon": -80.84305556,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Uptown_Charlotte_2018_taking_by_DJI_Phantom_4_pro.jpg/1280px-Uptown_Charlotte_2018_taking_by_DJI_Phantom_4_pro.jpg",
+            "description": "Charlotte is the most populous city in the U.S. state of North Carolina.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Charlotte, North Carolina",
+                "wikipedia": "en:Charlotte, North Carolina",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 1471629,
+            "lat": 35.6295,
+            "lon": -79.7645,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/12/NC_Zoo_Entrance_Sign_2019.jpg",
+            "description": "The North Carolina Zoo, formerly the North Carolina Zoological Park, is a zoo in Asheboro, North Carolina, housing 1,700 animals of more than 250 species, primarily representing Africa and North America.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "North Carolina Zoo",
+                "wikipedia": "en:North Carolina Zoo",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 128268,
+            "lat": 36.50833333,
+            "lon": -80.61527778,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Mount_Airy_Historic_District.jpg/1280px-Mount_Airy_Historic_District.jpg",
+            "description": "Mount Airy () is a city in Surry County, North Carolina, United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Mount Airy, North Carolina",
+                "wikipedia": "en:Mount Airy, North Carolina",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 1942294,
+            "lat": 34.97418056,
+            "lon": -79.61041944,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Rockingham_Speedway.svg/1280px-Rockingham_Speedway.svg.png",
+            "description": "Rockingham Speedway and Entertainment Complex (formerly known as North Carolina Speedway from 1998 to 2007 and North Carolina Motor Speedway from 1965 to 1997) is a 0.94 mi (1.51 km) D-shaped oval track in Rockingham, North Carolina.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Rockingham Speedway",
+                "wikipedia": "en:Rockingham Speedway",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 30865160,
+            "lat": 35.23,
+            "lon": -80.84,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Uptown_Charlotte_2018_taking_by_DJI_Phantom_4_pro.jpg/1280px-Uptown_Charlotte_2018_taking_by_DJI_Phantom_4_pro.jpg",
+            "description": "The Charlotte metropolitan area (also referred to informally as Metrolina and to a lesser extent as Greater Charlotte) is a metropolitan area of the U.S. states of North and South Carolina, containing the city of Charlotte, North Carolina.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Charlotte metropolitan area",
+                "wikipedia": "en:Charlotte metropolitan area",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 1146507,
+            "lat": 35.796,
+            "lon": -78.7119,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/3f/NC_State_Fair.jpg",
+            "description": "The North Carolina State Fair is a U.S. state fair and agricultural exposition held annually in Raleigh, North Carolina.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "North Carolina State Fair",
+                "wikipedia": "en:North Carolina State Fair",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 2133554,
+            "lat": 36.1248,
+            "lon": -80.2842,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Reynolda_Village_1.jpg/1280px-Reynolda_Village_1.jpg",
+            "description": "Reynolda Village is a shopping and business complex in Winston-Salem, North Carolina, created from the servant and agricultural buildings of Reynolda, the former R. J. Reynolds estate.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Reynolda Village",
+                "wikipedia": "en:Reynolda Village",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 93224,
+            "lat": 36.21,
+            "lon": -81.17,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/10/Wilkes_County_Courthouse_1.jpg",
+            "description": "Wilkes County is a county located in the U.S. state of North Carolina.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Wilkes County, North Carolina",
+                "wikipedia": "en:Wilkes County, North Carolina",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 22910587,
+            "lat": 38.01,
+            "lon": -80.97055556,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/90/Clifftopstage.jpg",
+            "description": "The Appalachian String Band Music Festival (often referred to simply as \"Clifftop\") is a weeklong gathering of thousands of string band musicians and their friends from across the country and around the world, who each year since 1990 have assembled near the New River Gorge in West Virginia in late July/early August to celebrate the evolving tradition of old-time music and the community of people who keep it thriving by preserving and contributing to that tradition.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Appalachian String Band Music Festival",
+                "wikipedia": "en:Appalachian String Band Music Festival",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 9629400,
+            "lat": 36.20777778,
+            "lon": -81.78,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Mast_General_Store-27527.jpg/1280px-Mast_General_Store-27527.jpg",
+            "description": "The Mast General Store  is a general store located in Historic Valle Crucis, North Carolina.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Mast General Store",
+                "wikipedia": "en:Mast General Store",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 631392,
+            "lat": 36.341276,
+            "lon": -80.462938,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Big_Pinnacle_of_Pilot_Mountain.jpg/1280px-Big_Pinnacle_of_Pilot_Mountain.jpg",
+            "description": "Pilot Mountain State Park is a North Carolina state park in Surry and Yadkin Counties, North Carolina in the United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Pilot Mountain State Park",
+                "wikipedia": "en:Pilot Mountain State Park",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 7801392,
+            "lat": 36.38444444,
+            "lon": -79.7,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Chinqua_Penn_Plantation.jpg",
+            "description": "Chinqua Penn Plantation is an English manor home in Reidsville, North Carolina in Rockingham County, North Carolina, United States, (about 25 miles north of Greensboro).",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Chinqua Penn Plantation",
+                "wikipedia": "en:Chinqua Penn Plantation",
+                "tourism": "attraction"
+            }
+        }
+    ]
+}

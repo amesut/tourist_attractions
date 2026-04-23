@@ -1,0 +1,396 @@
+{
+    "city_metadata": {
+        "city_name": "Newark",
+        "state_code": "NJ",
+        "state_full": "New Jersey",
+        "city_summary": "Newark ( NEW-ərk, locally  NOORK) is the most populous city in the U.S. state of New Jersey, the county seat of Essex County, and a principal city of the New York metropolitan area. As of the 2020 census, the city's population was 311,549. The Population Estimates Program calculated a population of 317,303 for 2024, making it the 64th-most populous municipality in the nation.",
+        "city_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/2025-09-12_12_24_59_Aerial_view_of_downtown_in_Newark%2C_Essex_County%2C_New_Jersey_from_an_aircraft_which_just_departed_from_Newark_Liberty_International_Airport.jpg/1280px-thumbnail.jpg",
+        "city_lat": 40.7356,
+        "city_lon": -74.1722,
+        "source": "wikipedia_verified_engine"
+    },
+    "attractions": [
+        {
+            "type": "node",
+            "id": 814709194,
+            "lat": 53.0765219,
+            "lon": -0.8062279,
+            "tags": {
+                "addr:city": "Newark",
+                "addr:housenumber": "14",
+                "addr:postcode": "NG24 1JY",
+                "addr:street": "Appleton Gate",
+                "check_date:opening_hours": "2024-06-20",
+                "fee": "yes",
+                "name": "National Civil War Centre",
+                "opening_hours": "Tu-Sa 10:00-16:00; Dec 25 off; Jan 01 off",
+                "tourism": "museum",
+                "website": "https://www.nationalcivilwarcentre.com/",
+                "wheelchair": "yes",
+                "wikidata": "Q44186380"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Palace_Theatre%2C_Appleton_Gate%2C_Newark-on-Trent_-_geograph.org.uk_-_4154619.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 9928455037,
+            "lat": 41.5380974,
+            "lon": -88.5825637,
+            "tags": {
+                "addr:city": "Newark",
+                "addr:housenumber": "9",
+                "addr:postcode": "60541",
+                "addr:street": "East Front Street",
+                "name": "Fern Dell Museum",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Kendall_County_Illinois_Incorporated_and_Unincorporated_areas_Newark_Highlighted.svg/1280px-Kendall_County_Illinois_Incorporated_and_Unincorporated_areas_Newark_Highlighted.svg.png",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 12521394087,
+            "lat": 53.0764287,
+            "lon": -0.8099051,
+            "tags": {
+                "name": "Newark Town Hall Museum and Art Gallery",
+                "tourism": "museum",
+                "wikidata": "Q76891128"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Town_Hall%2C_Newark-on-Trent_%28geograph_3654724%29.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 259617388,
+            "lat": 40.7431587,
+            "lon": -74.1718495,
+            "tags": {
+                "addr:city": "Newark",
+                "addr:housenumber": "49",
+                "addr:postcode": "07102",
+                "addr:state": "NJ",
+                "addr:street": "Washington Street",
+                "building": "yes",
+                "name": "Newark Museum",
+                "phone": "+1-973-596-6550",
+                "tourism": "museum",
+                "website": "https://www.newarkmuseum.org/",
+                "wikidata": "Q4328346",
+                "wikipedia": "en:The Newark Museum of Art"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/The_Newark_Museum_of_Art_%2855175400957%29.jpg/1280px-The_Newark_Museum_of_Art_%2855175400957%29.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 413234886,
+            "lat": 40.7387859,
+            "lon": -74.1685101,
+            "tags": {
+                "addr:city": "Newark",
+                "addr:housenumber": "52",
+                "addr:postcode": "07102",
+                "addr:state": "NJ",
+                "addr:street": "Park Place",
+                "building": "yes",
+                "fee": "yes",
+                "name": "New Jersey Historical Society",
+                "opening_hours": "Tu-Sa 10:00-17:00",
+                "tourism": "museum",
+                "website": "https://jerseyhistory.org/",
+                "wikidata": "Q7009230"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/ESSEX_CLUB%2C_NEWARK%2C_ESSEX_COUNTY%2C_NJ.jpg/1280px-ESSEX_CLUB%2C_NEWARK%2C_ESSEX_COUNTY%2C_NJ.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 1078018057,
+            "lat": 53.0687683,
+            "lon": -0.8215612,
+            "tags": {
+                "archaeological_site": "fortification",
+                "area": "yes",
+                "fortification_type": "sconce",
+                "historic": "archaeological_site",
+                "historic:civilization": "medieval",
+                "name": "Queen's Sconce",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/57/Newark_Rowing_Club_-_geograph.org.uk_-_3112339.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 1192931045,
+            "lat": 40.0561935,
+            "lon": -82.409931,
+            "tags": {
+                "addr:city": "Newark",
+                "addr:postcode": "43055",
+                "addr:state": "OH",
+                "building": "yes",
+                "name": "Licking County Historical Society",
+                "tourism": "museum"
+            }
+        },
+        {
+            "type": "way",
+            "id": 1192933507,
+            "lat": 40.0623734,
+            "lon": -82.4180362,
+            "tags": {
+                "addr:city": "Newark",
+                "addr:housenumber": "303",
+                "addr:postcode": "43055",
+                "addr:state": "OH",
+                "addr:street": "Granville Street",
+                "building": "yes",
+                "name": "Webb House Museum",
+                "tourism": "museum"
+            }
+        },
+        {
+            "type": "way",
+            "id": 1192936305,
+            "lat": 40.0565744,
+            "lon": -82.4099091,
+            "tags": {
+                "addr:city": "Newark",
+                "addr:housenumber": "31",
+                "addr:postcode": "43055",
+                "addr:state": "OH",
+                "addr:street": "North 6th Street",
+                "building": "yes",
+                "name": "The Sherwood-Davidson House Museum",
+                "tourism": "museum"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 21648,
+            "lat": 40,
+            "lon": -74.5,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Flag_of_New_Jersey.svg/1280px-Flag_of_New_Jersey.svg.png",
+            "description": "New Jersey is a state located in both the Mid-Atlantic and Northeastern regions of the United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "New Jersey",
+                "wikipedia": "en:New Jersey",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 493989,
+            "lat": 40.77027778,
+            "lon": -74.17638889,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/2025-09-12_12_26_19_Aerial_view_of_Branch_Brook_Park_within_the_northern_portion_of_Newark%2C_Essex_County%2C_New_Jersey_from_an_aircraft_which_just_departed_from_Newark_Liberty_International_Airport.jpg/1280px-thumbnail.jpg",
+            "description": "Branch Brook Park is a county park of Essex County, New Jersey.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Branch Brook Park",
+                "wikipedia": "en:Branch Brook Park",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 847628,
+            "lat": 40.725,
+            "lon": -74.16111111,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/St._Stephan%27s_Church_-_Ironbound%2C_Newark.jpg/1280px-St._Stephan%27s_Church_-_Ironbound%2C_Newark.jpg",
+            "description": "The Ironbound is a neighborhood in the city of Newark in Essex County, in the U.S. state of New Jersey.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "The Ironbound",
+                "wikipedia": "en:The Ironbound",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 14042088,
+            "lat": 40.73972222,
+            "lon": -74.16916667,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Military_Park%2C_Newark%2C_NJ_-_looking_east.jpg/1280px-Military_Park%2C_Newark%2C_NJ_-_looking_east.jpg",
+            "description": "Military Park is a 6-acre (24,000 m2) city park in downtown Newark in Newark, New Jersey.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Military Park (Newark)",
+                "wikipedia": "en:Military Park (Newark)",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 48449311,
+            "lat": 40.742651,
+            "lon": -74.171779,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/NewarkWashParkskyline.JPG/1280px-NewarkWashParkskyline.JPG",
+            "description": "Harriet Tubman Square (formerly known as Washington Park) is a city square in Downtown Newark, New Jersey.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Harriet Tubman Square",
+                "wikipedia": "en:Harriet Tubman Square",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 1342563,
+            "lat": 40.73611111,
+            "lon": -74.17194444,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/2025-09-12_12_24_59_Aerial_view_of_downtown_in_Newark%2C_Essex_County%2C_New_Jersey_from_an_aircraft_which_just_departed_from_Newark_Liberty_International_Airport.jpg/1280px-thumbnail.jpg",
+            "description": "Downtown Newark is the central business district of Newark in Essex County, in the U.S. state of New Jersey.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Downtown Newark",
+                "wikipedia": "en:Downtown Newark",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 28200587,
+            "lat": 40.72777778,
+            "lon": -74.17638889,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Newark_Symphony_Hall_%2855183936603%29.jpg/1280px-Newark_Symphony_Hall_%2855183936603%29.jpg",
+            "description": "Newark Symphony Hall is a performing arts center located at 1020 Broad Street in Newark, New Jersey.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Newark Symphony Hall",
+                "wikipedia": "en:Newark Symphony Hall",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 125237,
+            "lat": 40.71,
+            "lon": -74.06,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Journal_Square_Jersey_City_November_2021_003.jpg/1280px-Journal_Square_Jersey_City_November_2021_003.jpg",
+            "description": "Jersey City is the second-most populous city in the U.S. state of New Jersey, after Newark.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Jersey City, New Jersey",
+                "wikipedia": "en:Jersey City, New Jersey",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 60537906,
+            "lat": 40.73944444,
+            "lon": -74.16611111,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/First_Landing_Party_of_the_Founders_of_Newark_by_Gutzon_Borglum.jpg/1280px-First_Landing_Party_of_the_Founders_of_Newark_by_Gutzon_Borglum.jpg",
+            "description": "First Landing Party of the Founders of Newark is a marble monument with bas-relief and inscription by sculptor Gutzon Borglum (1867–1941) near the New Jersey Performing Arts Center in Newark, New Jersey.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "First Landing Party of the Founders of Newark",
+                "wikipedia": "en:First Landing Party of the Founders of Newark",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 74817932,
+            "lat": 40.73036111,
+            "lon": -74.17144444,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/QXT%27s_Nightclub_%2855183776231%29.jpg/1280px-QXT%27s_Nightclub_%2855183776231%29.jpg",
+            "description": "QXT's Nightclub is a live music and dance club on Mulberry Street in Newark, New Jersey catering mainly to a goth clientele.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "QXT's Nightclub",
+                "wikipedia": "en:QXT's Nightclub",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 7936393,
+            "lat": 40.74459,
+            "lon": -74.17067,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Newark_Public_Library%2C_New_Jersey.jpg/1280px-Newark_Public_Library%2C_New_Jersey.jpg",
+            "description": "The Newark Public Library (NPL) is a public library system in Newark, New Jersey, United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Newark Public Library",
+                "wikipedia": "en:Newark Public Library",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 624915,
+            "lat": 40.81416667,
+            "lon": -74.07388889,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Meadowlands_Sports_Complex_aerial_1_2018.jpg/1280px-Meadowlands_Sports_Complex_aerial_1_2018.jpg",
+            "description": "The Meadowlands Sports Complex is a sports complex located in East Rutherford, New Jersey, United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Meadowlands Sports Complex",
+                "wikipedia": "en:Meadowlands Sports Complex",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 1652886,
+            "lat": 40.7401467,
+            "lon": -74.1679199,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/New_Jersey_Performing_Arts_Center_%28NJPAC%29%2C_Newark%2C_New_Jersey.jpg/1280px-New_Jersey_Performing_Arts_Center_%28NJPAC%29%2C_Newark%2C_New_Jersey.jpg",
+            "description": "The New Jersey Performing Arts Center (NJPAC), in Downtown Newark in Newark, New Jersey, is one of the largest performing arts centers in the United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "New Jersey Performing Arts Center",
+                "wikipedia": "en:New Jersey Performing Arts Center",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 34848327,
+            "lat": 40.693274,
+            "lon": -74.262046,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Watersphere.JPG",
+            "description": "The Union Watersphere, also known as the Union Water Tower, is a water tower topped with a sphere-shaped water tank  in Union, New Jersey, United States and characterized as the World's Tallest Water Sphere.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Union Watersphere",
+                "wikipedia": "en:Union Watersphere",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 27936129,
+            "lat": 40.718709,
+            "lon": -74.103985,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Aster_newyorkcity_lrg.jpg/1280px-Aster_newyorkcity_lrg.jpg",
+            "description": "There are numerous of vehicular and rail bridges, tunnels, and cuts in Hudson County, New Jersey.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "List of bridges, tunnels, and cuts in Hudson County, New Jersey",
+                "wikipedia": "en:List of bridges, tunnels, and cuts in Hudson County, New Jersey",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 106211,
+            "lat": 39.3625,
+            "lon": -74.425,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/A_sunset_view_of_the_beach_in_Atlantic_City%2C_NJ.jpg/1280px-A_sunset_view_of_the_beach_in_Atlantic_City%2C_NJ.jpg",
+            "description": "Atlantic City, sometimes referred to by its initials A.C., is a seaside resort city in Atlantic County, in the U.S. state of New Jersey.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Atlantic City, New Jersey",
+                "wikipedia": "en:Atlantic City, New Jersey",
+                "tourism": "attraction"
+            }
+        }
+    ]
+}

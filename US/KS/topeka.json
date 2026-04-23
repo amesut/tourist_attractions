@@ -1,0 +1,472 @@
+{
+    "city_metadata": {
+        "city_name": "Topeka",
+        "state_code": "KS",
+        "state_full": "Kansas",
+        "city_summary": "Topeka ( tə-PEE-kə) is the capital city of the U.S. state of Kansas and the county seat of Shawnee County. It is along the Kansas River in the central part of Shawnee County, in northeastern Kansas, in the Central United States. As of the 2020 census, the population of the city was 126,587.",
+        "city_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Kansas_Capitol.jpg/1280px-Kansas_Capitol.jpg",
+        "city_lat": 39.03472222,
+        "city_lon": -95.69555556,
+        "source": "wikipedia_verified_engine"
+    },
+    "attractions": [
+        {
+            "type": "node",
+            "id": 358646665,
+            "lat": 39.0565559,
+            "lon": -95.7757493,
+            "tags": {
+                "addr:city": "Topeka",
+                "addr:postcode": "66606",
+                "addr:state": "KS",
+                "ele": "277",
+                "gnis:feature_id": "2506489",
+                "name": "Kansas State Historical Society - Center for Historical Research",
+                "tourism": "museum",
+                "website": "https://www.kshs.org/p/state-archives-library/11933"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Great_Seal_of_the_State_of_Kansas_Colored.svg/1280px-Great_Seal_of_the_State_of_Kansas_Colored.svg.png",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 1495151901,
+            "lat": 39.05212,
+            "lon": -95.7336386,
+            "tags": {
+                "addr:city": "Topeka",
+                "addr:housenumber": "4400",
+                "addr:postcode": "66604",
+                "addr:state": "KS",
+                "addr:street": "Southwest 10th Avenue",
+                "contact:website": "https://kansasdiscovery.org/",
+                "fee": "yes",
+                "name": "Discovery Center of Kansas",
+                "opening_hours": "Mo off",
+                "tourism": "museum",
+                "website": "https://kansasdiscovery.org/"
+            }
+        },
+        {
+            "type": "way",
+            "id": 194487048,
+            "lat": 39.0659345,
+            "lon": -95.7468306,
+            "tags": {
+                "addr:city": "Topeka",
+                "addr:country": "US",
+                "addr:housenumber": "1",
+                "addr:postcode": "66606",
+                "addr:state": "KS",
+                "addr:street": "Southwest Cedar Crest Road",
+                "building": "yes",
+                "contact:phone": "+1 785 296 3636",
+                "ele": "309",
+                "fixme": "museum may not be the best fit, but tourism=attraction isn't intended to be used by itself",
+                "gnis:feature_id": "2510273",
+                "name": "Cedar Crest Mansion",
+                "note": "opening_hours note a free tour",
+                "opening_hours": "Mo 13:00-15:30",
+                "source": "USGS Geonames;esri_USDOT_Kansas",
+                "tourism": "museum",
+                "wikidata": "Q5056661",
+                "wikipedia": "en:Cedar Crest (mansion)"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/CedarCrest.jpg/1280px-CedarCrest.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 194800516,
+            "lat": 39.0359576,
+            "lon": -95.7029168,
+            "tags": {
+                "addr:city": "Topeka",
+                "addr:housename": "Mulvane Art Museam",
+                "addr:housenumber": "1700",
+                "addr:state": "KS",
+                "addr:street": "Southwest Jewell Avenue",
+                "building": "yes",
+                "contact:phone": "+1 785 670 1124",
+                "ele": "296",
+                "gnis:feature_id": "2510733",
+                "name": "Washburn University - Mulvane Art Museum",
+                "source": "USGS Geonames",
+                "tourism": "museum"
+            }
+        },
+        {
+            "type": "way",
+            "id": 195024187,
+            "lat": 39.0625421,
+            "lon": -95.757884,
+            "tags": {
+                "building": "yes",
+                "historic": "yes",
+                "man_made": "tower",
+                "name": "Menninger Clock Tower",
+                "tourism": "attraction",
+                "tower:type": "clock"
+            }
+        },
+        {
+            "type": "way",
+            "id": 195038875,
+            "lat": 39.0379235,
+            "lon": -95.6764721,
+            "tags": {
+                "addr:city": "Topeka",
+                "addr:housenumber": "1515",
+                "addr:postcode": "66612",
+                "addr:state": "KS",
+                "addr:street": "Southeast Monroe Street",
+                "amenity": "school",
+                "building": "school",
+                "ele": "274",
+                "gnis:feature_id": "2510335;2035609",
+                "leisure": "park",
+                "name": "Brown v Board of Education National Historic Site",
+                "source": "USGS Geonames;esri_USDOT_Kansas",
+                "tourism": "attraction",
+                "website": "https://www.nps.gov/brvb/historyculture/places.htm",
+                "wikidata": "Q991084"
+            }
+        },
+        {
+            "type": "way",
+            "id": 195043175,
+            "lat": 39.0458596,
+            "lon": -95.6825773,
+            "tags": {
+                "addr:city": "Topeka",
+                "addr:housenumber": "1101",
+                "addr:postcode": "66612",
+                "addr:state": "KS",
+                "addr:street": "Southwest Topeka Boulevard",
+                "building": "commercial",
+                "commercial": "unknown",
+                "ele": "290",
+                "gnis:feature_id": "2510385",
+                "historic": "yes",
+                "name": "Charles Curtis House Museum",
+                "source": "USGS Geonames;esri_USDOT_Kansas",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Topeka_High_School_%28EJS%29.JPG/1280px-Topeka_High_School_%28EJS%29.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 195233356,
+            "lat": 39.0564706,
+            "lon": -95.775877,
+            "tags": {
+                "addr:city": "Topeka",
+                "addr:housenumber": "6425",
+                "addr:postcode": "66615-1099",
+                "addr:state": "KS",
+                "addr:street": "Southwest 6th Avenue",
+                "building": "yes",
+                "ele": "277",
+                "facebook": "http://www.facebook.com/121079387906521",
+                "gnis:feature_id": "2510105",
+                "name": "Kansas Museum of History",
+                "source": "USGS Geonames",
+                "tourism": "museum",
+                "website": "https://www.kshs.org/",
+                "wikidata": "Q6365024"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/60/Kansas_Museum_of_History.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 195319064,
+            "lat": 39.0663083,
+            "lon": -95.669452,
+            "tags": {
+                "addr:city": "Topeka",
+                "addr:housename": "Great Overland Station",
+                "addr:housenumber": "200",
+                "addr:postcode": "66608",
+                "addr:state": "KS",
+                "addr:street": "Northwest Railroad Street",
+                "building": "yes",
+                "ele": "268",
+                "email": "contactus@greatoverlandstation.com",
+                "facebook": "http://www.facebook.com/210401037787",
+                "fax": "+1-785-232-6259",
+                "gnis:feature_id": "2510138",
+                "historic": "yes",
+                "name": "Great Overland Station",
+                "phone": "+1 785-232-5533",
+                "source": "USGS Geonames;esri_USDOT_Kansas",
+                "tourism": "museum",
+                "website": "https://www.greatoverlandstation.com/",
+                "wikidata": "Q14689552",
+                "wikipedia": "en:Great Overland Station"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Topeka%2C_KS_Overland_Station_%28511631948%29.jpg/1280px-Topeka%2C_KS_Overland_Station_%28511631948%29.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 195459409,
+            "lat": 39.0553582,
+            "lon": -95.7319244,
+            "tags": {
+                "attraction": "carousel",
+                "name": "Carousel",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Reinisch_Rose_Garden%2C_Gage_Park%2C_Topeka%2C_Kansas01.jpg/1280px-Reinisch_Rose_Garden%2C_Gage_Park%2C_Topeka%2C_Kansas01.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 195459418,
+            "lat": 39.0558094,
+            "lon": -95.7259969,
+            "tags": {
+                "addr:city": "Topeka",
+                "addr:housenumber": "635",
+                "addr:postcode": "66606",
+                "addr:state": "KS",
+                "addr:street": "Southwest Gage Boulevard",
+                "contact:phone": "+1 785-368-9180",
+                "facebook": "http://www.facebook.com/209285239147837",
+                "name": "Topeka Zoo",
+                "tourism": "zoo",
+                "website": "https://topekazoo.org/",
+                "wikidata": "Q7824820"
+            }
+        },
+        {
+            "type": "way",
+            "id": 195910660,
+            "lat": 39.0493502,
+            "lon": -95.6795573,
+            "tags": {
+                "addr:city": "Topeka",
+                "addr:housenumber": "817",
+                "addr:postcode": "66612",
+                "addr:state": "KS",
+                "addr:street": "Southwest Harrison Street",
+                "amenity": "place_of_worship",
+                "building": "church",
+                "contact:phone": "+1 785 233-9601",
+                "denomination": "presbyterian",
+                "ele": "287",
+                "gnis:feature_id": "480149",
+                "historic": "yes",
+                "name": "First Presbyterian Church",
+                "religion": "christian",
+                "source": "esri_USDOT_Kansas",
+                "tourism": "attraction",
+                "website": "http://www.fpctopeka.org/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Great_Seal_of_the_State_of_Kansas_Colored.svg/1280px-Great_Seal_of_the_State_of_Kansas_Colored.svg.png",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 196240174,
+            "lat": 39.0559157,
+            "lon": -95.7756324,
+            "tags": {
+                "addr:city": "Topeka",
+                "addr:housenumber": "6425",
+                "addr:postcode": "66615",
+                "addr:state": "KS",
+                "addr:street": "Southwest 6th Avenue",
+                "leisure": "park",
+                "name": "Kansas State Museum of History, Archives, and Library",
+                "tourism": "museum",
+                "wheelchair": "yes"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/60/Kansas_Museum_of_History.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 197814341,
+            "lat": 39.0532324,
+            "lon": -95.6761643,
+            "tags": {
+                "addr:city": "Topeka",
+                "addr:housenumber": "523",
+                "addr:postcode": "66603",
+                "addr:state": "KS",
+                "addr:street": "Southwest Van Buren Street",
+                "building": "office",
+                "contact:email": "info@orthodoxmuseum.org",
+                "contact:fax": "+1-785-234-2595",
+                "contact:phone": "+1 785 234-5993",
+                "ele": "280",
+                "gnis:feature_id": "2509786",
+                "name": "The Heartland Orthodox Christian Museum",
+                "source": "USGS Geonames;esri_USDOT_Kansas",
+                "tourism": "museum",
+                "website": "http://www.orthodoxmuseum.org/"
+            }
+        },
+        {
+            "type": "way",
+            "id": 429747237,
+            "lat": 39.0469024,
+            "lon": -95.6792258,
+            "tags": {
+                "addr:city": "Topeka",
+                "addr:housenumber": "300",
+                "addr:postcode": "66612",
+                "addr:state": "KS",
+                "addr:street": "Southwest 10th Avenue",
+                "landuse": "governmental",
+                "name": "Kansas State Capitol",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Kansas_State_Capitol_in_summer_2024.jpg/1280px-Kansas_State_Capitol_in_summer_2024.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 3440859,
+            "lat": 38.92661667,
+            "lon": -95.67619722,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Heartland_Park_Topeka.svg/1280px-Heartland_Park_Topeka.svg.png",
+            "description": "Heartland Motorsports Park, formerly known as Heartland Park Topeka, is a multi-purpose motorsports facility 8-mile (13 km) south of downtown Topeka, Kansas near the Topeka Regional Airport.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Heartland Motorsports Park",
+                "wikipedia": "en:Heartland Motorsports Park",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 54030137,
+            "lat": 37.28,
+            "lon": -100.337,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/US-KS-Meade-DaltonGangHideout-2006.01.10-007_%28cropped%29.jpg/1280px-US-KS-Meade-DaltonGangHideout-2006.01.10-007_%28cropped%29.jpg",
+            "description": "The Dalton Gang Hideout and Museum is a tourist attraction in Meade, Kansas.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Dalton Gang Hideout and Museum",
+                "wikipedia": "en:Dalton Gang Hideout and Museum",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 2808833,
+            "lat": 39.034136,
+            "lon": -95.685854,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Landon_Arena.jpg",
+            "description": "The Stormont Vail Events Center, formerly known as Kansas Expocentre, is a 10,000-seat multi-purpose arena built in 1987 in Topeka, Kansas.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Stormont Vail Events Center",
+                "wikipedia": "en:Stormont Vail Events Center",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 114670,
+            "lat": 37.60305556,
+            "lon": -99.29277778,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/New_Big_Well_Museum.jpg/1280px-New_Big_Well_Museum.jpg",
+            "description": "Greensburg is a city in and the county seat of Kiowa County, Kansas, United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Greensburg, Kansas",
+                "wikipedia": "en:Greensburg, Kansas",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 114932,
+            "lat": 37.68888889,
+            "lon": -97.33611111,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Wichita%2C_Kansas_skyline.jpg/1280px-Wichita%2C_Kansas_skyline.jpg",
+            "description": "Wichita ( , WITCH-ih-taw) is the most populous city in the U.S. state of Kansas and the county seat of Sedgwick County.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Wichita, Kansas",
+                "wikipedia": "en:Wichita, Kansas",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 114910,
+            "lat": 38.84027778,
+            "lon": -97.61138889,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Salina_water_tower.jpg/1280px-Salina_water_tower.jpg",
+            "description": "Salina  is a city in and the county seat of Saline County, Kansas, United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Salina, Kansas",
+                "wikipedia": "en:Salina, Kansas",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 7255157,
+            "lat": 38.86166667,
+            "lon": -99.34222222,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Fort_Hays_Blockhouse_01.jpg/1280px-Fort_Hays_Blockhouse_01.jpg",
+            "description": "Fort Hays, originally named Fort Fletcher, was a United States Army fort near Hays, Kansas.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Fort Hays",
+                "wikipedia": "en:Fort Hays",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 114780,
+            "lat": 37.66944444,
+            "lon": -95.46194444,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Aerial_photo_of_Chanute%2C_Kansas_09-04-2013.JPG/1280px-Aerial_photo_of_Chanute%2C_Kansas_09-04-2013.JPG",
+            "description": "Chanute () is a city in Neosho County, Kansas, United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Chanute, Kansas",
+                "wikipedia": "en:Chanute, Kansas",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 17833508,
+            "lat": 39.112352,
+            "lon": -94.62761,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Soldiers_and_Sailors_Memorial_Building_%28front%29.JPG/1280px-Soldiers_and_Sailors_Memorial_Building_%28front%29.JPG",
+            "description": "Memorial Hall, or Soldiers and Sailors Memorial Building, is a multi-purpose auditorium located in Kansas City, Kansas.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Memorial Hall (Kansas City, Kansas)",
+                "wikipedia": "en:Memorial Hall (Kansas City, Kansas)",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 114432,
+            "lat": 39.85166667,
+            "lon": -95.53805556,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/BrownCoKScourthouse.JPG/1280px-BrownCoKScourthouse.JPG",
+            "description": "Hiawatha (Ioway: Hári Wáta pronounced [haːꜜɾi waːꜜtʰɐ]) is the largest city in and the county seat of Brown County, Kansas, United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Hiawatha, Kansas",
+                "wikipedia": "en:Hiawatha, Kansas",
+                "tourism": "attraction"
+            }
+        }
+    ]
+}

@@ -1,0 +1,364 @@
+{
+    "city_metadata": {
+        "city_name": "Bozeman",
+        "state_code": "MT",
+        "state_full": "Montana",
+        "city_summary": "Bozeman ( BOHZ-mən) is a city in and the county seat of Gallatin County, Montana, United States. The 2020 United States census put Bozeman's population at 53,293, making it Montana's fourth-largest city. It is the principal city of the Bozeman, Montana, metropolitan statistical area, consisting of all of Gallatin County, with a population of 118,960.",
+        "city_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Main_St%2C_Bozeman%2C_Montana_%281%29.JPG/1280px-Main_St%2C_Bozeman%2C_Montana_%281%29.JPG",
+        "city_lat": 45.6794,
+        "city_lon": -111.0372,
+        "source": "wikipedia_verified_engine"
+    },
+    "attractions": [
+        {
+            "type": "node",
+            "id": 366093943,
+            "lat": 45.659349,
+            "lon": -111.0549735,
+            "tags": {
+                "addr:city": "Bozeman",
+                "addr:housenumber": "2023",
+                "addr:state": "MT",
+                "addr:street": "Stadium Drive",
+                "alt_name": "American Computer & Robotics Museum",
+                "ele": "1470",
+                "fee": "yes",
+                "gnis:feature_id": "1737883",
+                "name": "American Computer Museum",
+                "opening_hours": "Tu-Su 10:00-16:00",
+                "source": "USGS Geonames",
+                "tourism": "museum",
+                "website": "https://acrmuseum.org/",
+                "wikidata": "Q4743510",
+                "wikipedia": "en:American Computer & Robotics Museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/American_Computer_Museum.JPG/1280px-American_Computer_Museum.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 12517819347,
+            "lat": 45.6790493,
+            "lon": -111.0561598,
+            "tags": {
+                "name": "Graffiti Quonset Hut",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "way",
+            "id": 391850020,
+            "lat": 45.6771149,
+            "lon": -111.0383738,
+            "tags": {
+                "addr:city": "Bozeman",
+                "addr:housenumber": "202",
+                "addr:postcode": "59715",
+                "addr:state": "MT",
+                "addr:street": "South Willson Avenue",
+                "building": "yes",
+                "name": "Children's Museum of Bozeman",
+                "phone": "+1-406-522-9087",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Methodist_Episcopal_Church-JSP1.jpg/1280px-Methodist_Episcopal_Church-JSP1.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 397703511,
+            "lat": 45.6796688,
+            "lon": -111.0422116,
+            "tags": {
+                "addr:city": "Bozeman",
+                "addr:housenumber": "317",
+                "addr:state": "MT",
+                "addr:street": "West Main Street",
+                "building": "yes",
+                "name": "Gallatin History Museum",
+                "opening_hours": "Tu-Sa 10:00-17:00",
+                "phone": "+14065228122",
+                "tourism": "museum",
+                "website": "https://www.gallatinhistorymuseum.org/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Looking_NW_at_Gallatin_County_Courthouse_003_-_Bozeman_Montana_-_2013-07-09.jpg/1280px-Looking_NW_at_Gallatin_County_Courthouse_003_-_Bozeman_Montana_-_2013-07-09.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 552154639,
+            "lat": 45.6707706,
+            "lon": -111.0395136,
+            "tags": {
+                "building": "yes",
+                "fee": "yes",
+                "historic": "building",
+                "name": "Story Mansion",
+                "opening_hours": "\"by reservation only\"",
+                "tourism": "museum"
+            }
+        },
+        {
+            "type": "way",
+            "id": 1008294436,
+            "lat": 45.6587077,
+            "lon": -111.0456145,
+            "tags": {
+                "addr:city": "Bozeman",
+                "addr:housenumber": "600",
+                "addr:postcode": "59717",
+                "addr:state": "MT",
+                "addr:street": "West Kagy Boulevard",
+                "fee": "yes",
+                "image": "https://commons.wikimedia.org/wiki/File:Museum_of_the_Rockies.JPG",
+                "name": "Museum of the Rockies",
+                "opening_hours": "Mo-Su 09:00-16:00",
+                "phone": "+1-406-994-2252",
+                "tourism": "museum",
+                "website": "https://www.museumoftherockies.org/",
+                "wikidata": "Q1628366",
+                "wikipedia": "en:Museum of the Rockies"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Museum_of_the_Rockies.JPG/1280px-Museum_of_the_Rockies.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 123395,
+            "lat": 44.66222222,
+            "lon": -111.10694444,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Westyellowstone.jpg/1280px-Westyellowstone.jpg",
+            "description": "West Yellowstone is a town in Gallatin County, Montana, United States, adjacent to Yellowstone National Park.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "West Yellowstone, Montana",
+                "wikipedia": "en:West Yellowstone, Montana",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 19978,
+            "lat": 47,
+            "lon": -110,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Flag_of_Montana.svg/1280px-Flag_of_Montana.svg.png",
+            "description": "Montana (  mon-TAN-ə) is a landlocked state in the Mountain West subregion of the Western United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Montana",
+                "wikipedia": "en:Montana",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 123563,
+            "lat": 45.66166667,
+            "lon": -110.58027778,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Livingston%2C_Montana_aerial_view_of_town.jpg/1280px-Livingston%2C_Montana_aerial_view_of_town.jpg",
+            "description": "Livingston is a city in and the county seat of Park County, Montana, United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Livingston, Montana",
+                "wikipedia": "en:Livingston, Montana",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 1844074,
+            "lat": 45.275,
+            "lon": -111.4319,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Big_Sky_resort.jpg/1280px-Big_Sky_resort.jpg",
+            "description": "Big Sky Resort, known colloquially as Big Sky, is a ski resort within Big Sky, Montana.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Big Sky Resort",
+                "wikipedia": "en:Big Sky Resort",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 257453,
+            "lat": 45.90222222,
+            "lon": -112.65666667,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/31/Butte_uptown.jpg",
+            "description": "Butte ( BYEWT) is a consolidated city-county in and the county seat of Silver Bow County, Montana, United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Butte, Montana",
+                "wikipedia": "en:Butte, Montana",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 2842506,
+            "lat": 48.20833333,
+            "lon": -109.5175,
+            "image_url": "https://upload.wikimedia.org/wikipedia/en/1/18/Little_Belts.PNG",
+            "description": "The Bears Paw Mountains (Bear Paw Mountains, Bear's Paw Mountains or Bearpaw  Mountains) are an insular-montane island range in the Central Montana Alkalic Province in north-central Montana, United States, located approximately 10 miles south of Havre, Montana.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Bears Paw Mountains",
+                "wikipedia": "en:Bears Paw Mountains",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 123505,
+            "lat": 45.34611111,
+            "lon": -111.73194444,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Ennismainstreet.jpg/1280px-Ennismainstreet.jpg",
+            "description": "Ennis is a town in Madison County, Montana, United States, in the southwestern part of the state.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Ennis, Montana",
+                "wikipedia": "en:Ennis, Montana",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 123354,
+            "lat": 47.49166667,
+            "lon": -111.28916667,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Central_Ave_and_Civic_Center_2.JPG/1280px-Central_Ave_and_Civic_Center_2.JPG",
+            "description": "Great Falls is the third most populous city in the U.S. state of Montana and the county seat of Cascade County.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Great Falls, Montana",
+                "wikipedia": "en:Great Falls, Montana",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 34340,
+            "lat": 44.6,
+            "lon": -110.5,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/73/Grand_Canyon_of_yellowstone.jpg",
+            "description": "Yellowstone National Park is a national park of the United States located in the northwest corner of the state of Wyoming, with small portions extending into Montana and Idaho.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Yellowstone National Park",
+                "wikipedia": "en:Yellowstone National Park",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 2152065,
+            "lat": 46.40833333,
+            "lon": -112.73944444,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Grant-Kohrs_Ranch.jpg",
+            "description": "The Grant–Kohrs Ranch National Historic Site, created in 1972, commemorates the Western cattle industry from its 1850s inception through recent times.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Grant–Kohrs Ranch National Historic Site",
+                "wikipedia": "en:Grant–Kohrs Ranch National Historic Site",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 31924254,
+            "lat": 47.74472222,
+            "lon": -107.77583333,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/American_Prairie_Reserve_2021_03.jpg/1280px-American_Prairie_Reserve_2021_03.jpg",
+            "description": "American Prairie (formerly known as American Prairie Reserve or APR) is a prairie-based nature reserve in Central Montana, United States, on a shortgrass prairie ecosystem with migration corridors and native wildlife.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "American Prairie (nature reserve)",
+                "wikipedia": "en:American Prairie (nature reserve)",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 3594439,
+            "lat": 47.325,
+            "lon": -114.22583333,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Bison_herd_grazing_at_the_National_Bison_Range.jpg/1280px-Bison_herd_grazing_at_the_National_Bison_Range.jpg",
+            "description": "The CSKT Bison Range (BR) is a nature reserve on the Flathead Indian Reservation in western Montana established for the conservation of American bison.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "CSKT Bison Range",
+                "wikipedia": "en:CSKT Bison Range",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 20655610,
+            "lat": 46.38277778,
+            "lon": -112.80111111,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/OldMTPrisonT7CB1.jpg/1280px-OldMTPrisonT7CB1.jpg",
+            "description": "The Montana State Prison is an American men's correctional facility of the Montana Department of Corrections in unincorporated Powell County, Montana, about 3.5 miles (5.6 km) west of Deer Lodge.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Montana State Prison",
+                "wikipedia": "en:Montana State Prison",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 3627963,
+            "lat": 47.57,
+            "lon": -111.12305556,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/GREAT_FALLS_PORTAGE%2C_CASCADE_COUNTY%2C_MONTANA.jpg/1280px-GREAT_FALLS_PORTAGE%2C_CASCADE_COUNTY%2C_MONTANA.jpg",
+            "description": "The Great Falls of the Missouri River are a series of waterfalls on the upper Missouri River in north-central Montana in the United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Great Falls (Missouri River)",
+                "wikipedia": "en:Great Falls (Missouri River)",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 226211,
+            "lat": 48.755,
+            "lon": -113.8,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Mountain_Goat_at_Hidden_Lake.jpg/1280px-Mountain_Goat_at_Hidden_Lake.jpg",
+            "description": "Glacier National Park is a national park of the United States located in northwestern Montana, on the Canada–United States border.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Glacier National Park (U.S.)",
+                "wikipedia": "en:Glacier National Park (U.S.)",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 27711180,
+            "lat": 41.8417,
+            "lon": -79.0061,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Allegheny_NFH_entrance_sign.png/1280px-Allegheny_NFH_entrance_sign.png",
+            "description": "The Allegheny National Fish Hatchery is a fish hatchery administered by the United States Fish and Wildlife Service on the north bank of the Allegheny River.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Allegheny National Fish Hatchery",
+                "wikipedia": "en:Allegheny National Fish Hatchery",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 38321711,
+            "lat": 47.167,
+            "lon": -111.834,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Hardy_Bridge_-_looking_NE_-_Cascade_County_Montana_US_-_2009.jpg/1280px-Hardy_Bridge_-_looking_NE_-_Cascade_County_Montana_US_-_2009.jpg",
+            "description": "Hardy Bridge is a Warren through truss, three-span, two-lane bridge in the western United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Hardy Bridge",
+                "wikipedia": "en:Hardy Bridge",
+                "tourism": "attraction"
+            }
+        }
+    ]
+}

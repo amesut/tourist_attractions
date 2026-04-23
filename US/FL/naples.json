@@ -1,0 +1,403 @@
+{
+    "city_metadata": {
+        "city_name": "Naples",
+        "state_code": "FL",
+        "state_full": "Florida",
+        "city_summary": "Naples is a city in Collier County, Florida, United States. As of the 2020 census, the population was 19,115, down from 19,539 at the 2010 census. Naples is a principal city of the Naples–Marco Island metropolitan area, which had a population of about 375,752 as of 2020.",
+        "city_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Bayside_www.florida-infos.com_-_panoramio_%281%29.jpg/1280px-Bayside_www.florida-infos.com_-_panoramio_%281%29.jpg",
+        "city_lat": 26.13611111,
+        "city_lon": -81.79444444,
+        "source": "wikipedia_verified_engine"
+    },
+    "attractions": [
+        {
+            "type": "node",
+            "id": 4555299724,
+            "lat": 26.1321265,
+            "lon": -81.8042381,
+            "tags": {
+                "addr:city": "Naples",
+                "addr:housenumber": "137",
+                "addr:state": "FL",
+                "addr:street": "12th Avenue South",
+                "alt_name": "Naples Historical Society's Historic Palm Cottage",
+                "name": "Naples Historical Society",
+                "tourism": "museum",
+                "website": "https://www.napleshistoricalsociety.org/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Naples_FL_Palm_Cottage01.jpg/1280px-Naples_FL_Palm_Cottage01.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 13230505772,
+            "lat": 26.1401892,
+            "lon": -81.7918893,
+            "tags": {
+                "addr:city": "Naples",
+                "addr:housenumber": "1100",
+                "addr:postcode": "34102",
+                "addr:state": "FL",
+                "addr:street": "6th Avenue South",
+                "addr:unit": "Unit 212",
+                "level": "1",
+                "name": "House of Siberians",
+                "phone": "+1-239-234-6630",
+                "sport": "yoga",
+                "tourism": "attraction",
+                "website": "https://house-of-siberians-llc.square.site"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Naples_FL_SCL_depot01.jpg/1280px-Naples_FL_SCL_depot01.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 166311233,
+            "lat": 26.1315525,
+            "lon": -81.8077311,
+            "tags": {
+                "addr:city": "Naples",
+                "addr:housenumber": "25",
+                "addr:state": "FL",
+                "addr:street": "12th Avenue South",
+                "man_made": "pier",
+                "name": "Naples Pier",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Naples_FL_Palm_Cottage01.jpg/1280px-Naples_FL_Palm_Cottage01.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 459600631,
+            "lat": 26.1618665,
+            "lon": -81.7765549,
+            "tags": {
+                "addr:city": "Naples",
+                "addr:housenumber": "2500",
+                "addr:postcode": "34104",
+                "addr:state": "FL",
+                "addr:street": "South Horseshoe Drive",
+                "alt_name": "Revs Institute for Automotive Research, Inc.",
+                "building": "yes",
+                "name": "Revs Institute, Inc.",
+                "tourism": "museum",
+                "website": "https://revsinstitute.org/"
+            }
+        },
+        {
+            "type": "way",
+            "id": 1001719001,
+            "lat": 26.1427578,
+            "lon": -81.7929998,
+            "tags": {
+                "addr:city": "Naples",
+                "addr:housenumber": "1051",
+                "addr:postcode": "34102",
+                "addr:state": "FL",
+                "addr:street": "5th Avenue South",
+                "building": "yes",
+                "name": "Naples Depot Museum",
+                "opening_hours": "Mo-Sa 09:00-16:00",
+                "operator": "Collier County Museum",
+                "tourism": "museum",
+                "website": "https://www.colliermuseums.com/locations/naples_depot"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Naples_FL_SCL_depot01.jpg/1280px-Naples_FL_SCL_depot01.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 1001719002,
+            "lat": 26.1430827,
+            "lon": -81.7930463,
+            "tags": {
+                "addr:city": "Naples",
+                "addr:housenumber": "401",
+                "addr:postcode": "34102",
+                "addr:state": "FL",
+                "addr:street": "10th Street South",
+                "building": "yes",
+                "name": "Naples Train Museum",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Naples_FL_SCL_depot01.jpg/1280px-Naples_FL_SCL_depot01.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 1483600999,
+            "lat": 43.9705667,
+            "lon": -70.6098148,
+            "tags": {
+                "addr:city": "Naples",
+                "addr:housenumber": "21",
+                "addr:postcode": "04055",
+                "addr:state": "ME",
+                "addr:street": "Village Green Lane",
+                "building": "yes",
+                "ele": "94",
+                "gnis:feature_id": "1912764",
+                "museum": "local",
+                "name": "Naples Historical Society Museum",
+                "source": "USGS Geonames",
+                "tourism": "museum",
+                "website": "https://www.townofnaples.org/museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Union_Church_Naples_Maine.jpg/1280px-Union_Church_Naples_Maine.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 109319,
+            "lat": 26.37083333,
+            "lon": -81.79083333,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Bonita_Beach.JPG/1280px-Bonita_Beach.JPG",
+            "description": "Bonita Springs is a city in Lee County, Florida, United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Bonita Springs, Florida",
+                "wikipedia": "en:Bonita Springs, Florida",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 73610,
+            "lat": 26.58,
+            "lon": -81.92,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Base_Operations_at_Page_Field.jpg/1280px-Base_Operations_at_Page_Field.jpg",
+            "description": "Lee County is located in southwestern Florida, United States, on the Gulf Coast.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Lee County, Florida",
+                "wikipedia": "en:Lee County, Florida",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 16172116,
+            "lat": 24.54650556,
+            "lon": -81.79747778,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Southernmost_point_buoy%2C_NE_view.jpg/1280px-Southernmost_point_buoy%2C_NE_view.jpg",
+            "description": "The Southernmost Point Buoy is an anchored concrete buoy in Key West, Florida that claims to mark the southernmost point in the continental United States — though it is neither the true southernmost point of the continental US nor of Key West — and was established as a tourist attraction by the city on September 10, 1983.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Southernmost Point Buoy",
+                "wikipedia": "en:Southernmost Point Buoy",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 109328,
+            "lat": 26.62333333,
+            "lon": -81.85555556,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Fort_Myers_FL_Downtown_HD_1933_crths_pano01.jpg/1280px-Fort_Myers_FL_Downtown_HD_1933_crths_pano01.jpg",
+            "description": "Fort Myers (or Ft.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Fort Myers, Florida",
+                "wikipedia": "en:Fort Myers, Florida",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 109495,
+            "lat": 24.555,
+            "lon": -81.78194444,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Southernmost_point_buoy%2C_NE_view.jpg/1280px-Southernmost_point_buoy%2C_NE_view.jpg",
+            "description": "Key West (Spanish: Cayo Hueso [kaʝo ˈweso]) is an island in the Straits of Florida, at the southern end of the U.S. state of Florida.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Key West",
+                "wikipedia": "en:Key West",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 6275852,
+            "lat": 25.90138889,
+            "lon": -81.30333333,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Smallest_post_office%2C_Ochopee%2C_Florida_-_panoramio.jpg/1280px-Smallest_post_office%2C_Ochopee%2C_Florida_-_panoramio.jpg",
+            "description": "Ochopee is an unincorporated community in Collier County, Florida, United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Ochopee, Florida",
+                "wikipedia": "en:Ochopee, Florida",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 109218,
+            "lat": 27.30027778,
+            "lon": -81.37361111,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Lake_Placid_FL_depot_museum08.jpg/1280px-Lake_Placid_FL_depot_museum08.jpg",
+            "description": "Lake Placid is a town in Highlands County, Florida, United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Lake Placid, Florida",
+                "wikipedia": "en:Lake Placid, Florida",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 87003,
+            "lat": 26,
+            "lon": -80.7,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Everglades_Pa-Hay-Oke_Swamp.jpg/1280px-Everglades_Pa-Hay-Oke_Swamp.jpg",
+            "description": "The Everglades is a natural region of flooded grasslands in the southern portion of the U.S. state of Florida, comprising the southern half of a large drainage basin within the Neotropical realm.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Everglades",
+                "wikipedia": "en:Everglades",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 4438199,
+            "lat": 28.41083333,
+            "lon": -81.4625,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/SeaWorld_Orlando_001.jpg/1280px-SeaWorld_Orlando_001.jpg",
+            "description": "SeaWorld Orlando is an animal theme park located just outside Orlando, Florida.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "SeaWorld Orlando",
+                "wikipedia": "en:SeaWorld Orlando",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 109220,
+            "lat": 27.49333333,
+            "lon": -81.45694444,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Sebring%2C_FL%2C_USA_-_panoramio_-_William_%E2%80%9CPatrick%E2%80%9D_Ma%E2%80%A6_%282%29.jpg/1280px-Sebring%2C_FL%2C_USA_-_panoramio_-_William_%E2%80%9CPatrick%E2%80%9D_Ma%E2%80%A6_%282%29.jpg",
+            "description": "Sebring ( SEE-bring) is a city in and the county seat of Highlands County, Florida, United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Sebring, Florida",
+                "wikipedia": "en:Sebring, Florida",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 32616,
+            "lat": 45.4375,
+            "lon": 12.33583333,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Venezia_aerial_view.jpg/1280px-Venezia_aerial_view.jpg",
+            "description": "Venice is a city in northeastern Italy and the capital of the region of Veneto.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Venice",
+                "wikipedia": "en:Venice",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 8217339,
+            "lat": 25.7861,
+            "lon": -80.1742,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Two_different_macaws_-Jungle_Island_-Miami-6a.jpg/1280px-Two_different_macaws_-Jungle_Island_-Miami-6a.jpg",
+            "description": "Jungle Island, formerly Parrot Jungle, is a relaunched eco-adventure park on Watson Island, Miami, Florida, United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Jungle Island",
+                "wikipedia": "en:Jungle Island",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 6145830,
+            "lat": 29.88138889,
+            "lon": -81.28833333,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/St_Aug_Alligator_Farm_sign02.jpg/1280px-St_Aug_Alligator_Farm_sign02.jpg",
+            "description": "The St.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "St. Augustine Alligator Farm Zoological Park",
+                "wikipedia": "en:St. Augustine Alligator Farm Zoological Park",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 1127761,
+            "lat": 28.225089,
+            "lon": -80.713978,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Brevard_Zoo_Monument_Sign.jpg/1280px-Brevard_Zoo_Monument_Sign.jpg",
+            "description": "The Brevard Zoo is a nonprofit zoological organization accredited by the Association of Zoos and Aquariums, and is located on 75-acres (30 ha) of land in Melbourne, Florida.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Brevard Zoo",
+                "wikipedia": "en:Brevard Zoo",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 18933066,
+            "lat": 28,
+            "lon": -82,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Flag_of_Florida.svg/1280px-Flag_of_Florida.svg.png",
+            "description": "Florida (  FLORR-ih-də; Spanish: [floˈɾiða] ) is a state in the Southeastern and South Atlantic\nregions of the United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Florida",
+                "wikipedia": "en:Florida",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 38166,
+            "lat": 43.95,
+            "lon": 4.8075,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Vue_a%C3%A9rienne_2_JP_Campomar.jpg/1280px-Vue_a%C3%A9rienne_2_JP_Campomar.jpg",
+            "description": "Avignon (, US also , French: [aviɲɔ̃] ; Provençal: Avinhon (Classical norm) or Avignoun (Mistralian norm), IPA: [aviˈɲun]; Latin: Avenio) is the prefecture of the Vaucluse department in the Provence-Alpes-Côte d'Azur region of southern France.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Avignon",
+                "wikipedia": "en:Avignon",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 11295110,
+            "lat": 24.5590437,
+            "lon": -81.8073156,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Key_West_Aquarium.jpg/1280px-Key_West_Aquarium.jpg",
+            "description": "The Key West Aquarium is the only public aquarium in Key West, Florida, United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Key West Aquarium",
+                "wikipedia": "en:Key West Aquarium",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 73749699,
+            "lat": 25.393226,
+            "lon": -80.501207,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Alligators_-_Everglades_Alligator_Farm_-_Florida_City%2C_Florida_-_DSC09187.jpg/1280px-Alligators_-_Everglades_Alligator_Farm_-_Florida_City%2C_Florida_-_DSC09187.jpg",
+            "description": "Everglades Alligator Farm is a wildlife park in Miami-Dade County, Florida, nearby the city of Homestead and the entrance of Everglades National Park.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Everglades Alligator Farm",
+                "wikipedia": "en:Everglades Alligator Farm",
+                "tourism": "attraction"
+            }
+        }
+    ]
+}

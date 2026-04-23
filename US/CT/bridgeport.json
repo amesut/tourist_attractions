@@ -1,0 +1,414 @@
+{
+    "city_metadata": {
+        "city_name": "Bridgeport",
+        "state_code": "CT",
+        "state_full": "Connecticut",
+        "city_summary": "Bridgeport is the most populous city in the U.S. state of Connecticut and the fifth-most populous city in New England, with a population of 148,654 in 2020. Located in eastern Fairfield County at the mouth of the Pequonnock River on Long Island Sound, it is a port city 60 miles (97 km) from Manhattan and 40 miles (64 km) from The Bronx. It borders the towns of Trumbull to the north, Fairfield to the west, and Stratford to the east.",
+        "city_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Bridgeport%2C_Connecticut.jpg/1280px-Bridgeport%2C_Connecticut.jpg",
+        "city_lat": 41.18638889,
+        "city_lon": -73.19555556,
+        "source": "wikipedia_verified_engine"
+    },
+    "attractions": [
+        {
+            "type": "node",
+            "id": 367140295,
+            "lat": 41.2150394,
+            "lon": -73.2331951,
+            "tags": {
+                "addr:city": "Bridgeport",
+                "addr:housenumber": "4450",
+                "addr:postcode": "06606",
+                "addr:state": "CT",
+                "addr:street": "Park Avenue",
+                "ele": "70",
+                "gnis:feature_id": "1943051",
+                "name": "Discovery Museum and Planetarium",
+                "phone": "+1-203-372-3521",
+                "source": "USGS Geonames",
+                "tourism": "museum",
+                "website": "https://www.discoverymuseum.org/",
+                "wikidata": "Q5281942",
+                "wikimedia_commons": "File:DiscoveryMuseumBPT.jpg",
+                "wikipedia": "en:Discovery Museum and Planetarium"
+            }
+        },
+        {
+            "type": "node",
+            "id": 367140313,
+            "lat": 41.1749763,
+            "lon": -73.1906187,
+            "tags": {
+                "addr:state": "CT",
+                "ele": "14",
+                "gnis:feature_id": "1942245",
+                "museum": "art",
+                "name": "Housatonic Museum of Art",
+                "source": "USGS Geonames",
+                "tourism": "museum",
+                "website": "https://museum.housatonic.edu/",
+                "wikidata": "Q5913507",
+                "wikipedia": "en:Housatonic Museum of Art"
+            }
+        },
+        {
+            "type": "node",
+            "id": 12282038373,
+            "lat": 41.8315361,
+            "lon": -87.6566736,
+            "tags": {
+                "addr:city": "Chicago",
+                "addr:housenumber": "1200",
+                "addr:postcode": "60609",
+                "addr:state": "IL",
+                "addr:street": "West 35th Street",
+                "museum": "transport",
+                "name": "Chicago Maritime Museum",
+                "opening_hours": "Tu-Su 10:00-16:00",
+                "tourism": "museum",
+                "website": "https://www.chicagomaritimemuseum.org/"
+            }
+        },
+        {
+            "type": "node",
+            "id": 13201205528,
+            "lat": 41.8305279,
+            "lon": -87.6512007,
+            "tags": {
+                "addr:city": "Chicago",
+                "addr:housenumber": "3500",
+                "addr:postcode": "60609",
+                "addr:state": "IL",
+                "addr:street": "South Morgan Street",
+                "addr:unit": "3F",
+                "museum": "art",
+                "name": "Heritage Museum of Asian Art",
+                "tourism": "museum",
+                "website": "https://heritageasianart.org/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Spiegel_Office_Building_Chicago_IL.jpg/1280px-Spiegel_Office_Building_Chicago_IL.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 42155119,
+            "lat": 38.2567588,
+            "lon": -119.2283774,
+            "tags": {
+                "attribution": "Mono County GIS",
+                "building": "historic",
+                "historic": "jail",
+                "name": "Old Mono County Jail",
+                "start_date": "1883",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/The_Mono_County_Courthouse_in_Bridgeport%2C_California_LCCN2013633800.jpg/1280px-The_Mono_County_Courthouse_in_Bridgeport%2C_California_LCCN2013633800.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 42155124,
+            "lat": 38.2567914,
+            "lon": -119.2306517,
+            "tags": {
+                "addr:city": "Bridgeport",
+                "addr:housenumber": "123",
+                "addr:street": "Emigrant Street",
+                "attribution": "Mono County GIS",
+                "building": "yes",
+                "fee": "yes",
+                "name": "Mono County Museum",
+                "operator": "Mono County Historical Society",
+                "phone": "+1-760-932-5281",
+                "tourism": "museum",
+                "website": "http://www.monocomuseum.org/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/The_Mono_County_Courthouse_in_Bridgeport%2C_California_LCCN2013633800.jpg/1280px-The_Mono_County_Courthouse_in_Bridgeport%2C_California_LCCN2013633800.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 206485500,
+            "lat": 41.1756712,
+            "lon": -73.1881506,
+            "tags": {
+                "building": "yes",
+                "email": "info@barnum-museum.org",
+                "museum": "history",
+                "name": "Barnum Museum",
+                "phone": "+1-203-331-1104",
+                "ref:nrhp": "72001300",
+                "start_date": "1893",
+                "tourism": "museum",
+                "website": "https://barnum-museum.org",
+                "wikidata": "Q4862010",
+                "wikipedia": "en:Barnum Museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/The_Barnum_Museum%2C_Bridgeport%2C_Connecticut_LCCN2011631848.tif/lossy-page1-1280px-The_Barnum_Museum%2C_Bridgeport%2C_Connecticut_LCCN2011631848.tif.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 283887070,
+            "lat": 34.9485406,
+            "lon": -85.711505,
+            "tags": {
+                "addr:city": "Bridgeport",
+                "landuse": "commercial",
+                "name": "Bridgeport Depot Museum",
+                "operator": "Bridgeport Area Historical Association",
+                "tourism": "museum",
+                "wikipedia": "en:Bridgeport Depot Museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Bridgeport-Depot-Museum-al1.jpg/1280px-Bridgeport-Depot-Museum-al1.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 462669596,
+            "lat": 41.2108736,
+            "lon": -73.1818019,
+            "tags": {
+                "addr:city": "Bridgeport",
+                "addr:housenumber": "1875",
+                "addr:postcode": "06610",
+                "addr:state": "CT",
+                "addr:street": "Noble Avenue",
+                "alt_name": "Beardsley Zoo",
+                "ele": "32",
+                "gnis:feature_id": "1941684",
+                "image": "https://commons.wikimedia.org/wiki/File:Entrance,_Beardsley_Zoo,_2009-11-06.jpg",
+                "name": "Beardsley Zoological Gardens",
+                "tourism": "zoo",
+                "website": "https://www.beardsleyzoo.org/",
+                "wikidata": "Q4876689",
+                "wikipedia": "en:Beardsley Zoo"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Entrance%2C_Beardsley_Zoo%2C_2009-11-06.jpg/1280px-Entrance%2C_Beardsley_Zoo%2C_2009-11-06.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 469342326,
+            "lat": 41.6793622,
+            "lon": -103.0950187,
+            "tags": {
+                "building": "yes",
+                "name": "Pioneer Trails Museum",
+                "tourism": "museum"
+            }
+        },
+        {
+            "type": "way",
+            "id": 1316841695,
+            "lat": 38.2454048,
+            "lon": -119.2052651,
+            "tags": {
+                "amenity": "public_bath",
+                "bath:open_air": "yes",
+                "bath:type": "hot_spring",
+                "name": "Travertine Hot Spring",
+                "nudism": "customary",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Travertine_Hot_Springs_%285113679437%29.jpg/1280px-Travertine_Hot_Springs_%285113679437%29.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 7354855,
+            "lat": 41.172,
+            "lon": -73.222,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Ptbarnumgravemountaingrove.jpg/1280px-Ptbarnumgravemountaingrove.jpg",
+            "description": "Mountain Grove Cemetery is a historic cemetery in Bridgeport, Connecticut, United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Mountain Grove Cemetery, Bridgeport",
+                "wikipedia": "en:Mountain Grove Cemetery, Bridgeport",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 6466,
+            "lat": 41.6,
+            "lon": -72.7,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Flag_of_Connecticut.svg/1280px-Flag_of_Connecticut.svg.png",
+            "description": "Connecticut (  kə-NET-ih-kət) is a state in the New England region of the Northeastern United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Connecticut",
+                "wikipedia": "en:Connecticut",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 152159,
+            "lat": 41.22416667,
+            "lon": -73.05972222,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Milfordluft_2.jpg/1280px-Milfordluft_2.jpg",
+            "description": "Milford is a coastal city in New Haven County, Connecticut, United States, between New Haven and Bridgeport.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Milford, Connecticut",
+                "wikipedia": "en:Milford, Connecticut",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 535486,
+            "lat": 41.2103,
+            "lon": -73.1815,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Entrance%2C_Beardsley_Zoo%2C_2009-11-06.jpg/1280px-Entrance%2C_Beardsley_Zoo%2C_2009-11-06.jpg",
+            "description": "Connecticut's Beardsley Zoo, located in Bridgeport, Connecticut, is the only Association of Zoos and Aquariums (AZA)–accredited zoo in the state of Connecticut.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Connecticut's Beardsley Zoo",
+                "wikipedia": "en:Connecticut's Beardsley Zoo",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 380061,
+            "lat": 41.20444444,
+            "lon": -73.12972222,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/MMDA-Photos_-_2021-05-03_-_Town_Hall%2C_Stratford%2C_Connecticut%2C_USA.jpg/1280px-MMDA-Photos_-_2021-05-03_-_Town_Hall%2C_Stratford%2C_Connecticut%2C_USA.jpg",
+            "description": "Stratford is a town in Fairfield County, Connecticut, United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Stratford, Connecticut",
+                "wikipedia": "en:Stratford, Connecticut",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 28371803,
+            "lat": 41.1747,
+            "lon": -73.1987,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Nathaniel_Wheeler_Memorial_Fountain.jpg/1280px-Nathaniel_Wheeler_Memorial_Fountain.jpg",
+            "description": "The Nathaniel Wheeler Memorial Fountain is located in Bridgeport, Connecticut at the intersection of Fairfield and Park avenues.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Nathaniel Wheeler Memorial Fountain",
+                "wikipedia": "en:Nathaniel Wheeler Memorial Fountain",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 72301514,
+            "lat": 52.376111,
+            "lon": 4.883889,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Amsterdam_Tulip_Museum%2C_Amsterdam_%282018%29_01.jpg/1280px-Amsterdam_Tulip_Museum%2C_Amsterdam_%282018%29_01.jpg",
+            "description": "Amsterdam Tulip Museum (2004) ATM is a small museum in Amsterdam.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Amsterdam Tulip Museum",
+                "wikipedia": "en:Amsterdam Tulip Museum",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 256965,
+            "lat": 41.55611111,
+            "lon": -73.04138889,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Waterbury%2C_Connecticut_3.jpg/1280px-Waterbury%2C_Connecticut_3.jpg",
+            "description": "Waterbury is a city in the U.S. state of Connecticut.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Waterbury, Connecticut",
+                "wikipedia": "en:Waterbury, Connecticut",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 182648,
+            "lat": 40.747,
+            "lon": -73.987,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/USA-NYC-Koreatown99.jpg/1280px-USA-NYC-Koreatown99.jpg",
+            "description": "Koreatown (Korean: 코리아타운; RR: Koriataun), shortened to K-Town, is a Korean enclave in Midtown Manhattan, New York City, centered on 32nd Street between Madison Avenue and the intersection with Sixth Avenue and Broadway, which is known as Greeley Square.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Koreatown, Manhattan",
+                "wikipedia": "en:Koreatown, Manhattan",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 34049713,
+            "lat": 41.1745,
+            "lon": -73.2021,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/The_Klein_Memorial_Auditorium%2C_Bridgeport%2C_Conn_%2871465%29.jpg/1280px-The_Klein_Memorial_Auditorium%2C_Bridgeport%2C_Conn_%2871465%29.jpg",
+            "description": "The Klein Memorial Auditorium is a 1400-seat proscenium theater located at 910 Fairfield Avenue in Bridgeport, Connecticut, United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Klein Memorial Auditorium",
+                "wikipedia": "en:Klein Memorial Auditorium",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 126936,
+            "lat": 41.30833333,
+            "lon": -74.14722222,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Nairiman.jpg/1280px-Nairiman.jpg",
+            "description": "Harriman is a village in Orange County, New York, United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Harriman, New York",
+                "wikipedia": "en:Harriman, New York",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 9935584,
+            "lat": 41.9,
+            "lon": -71.86666667,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Quietcorner.png",
+            "description": "Northeastern Connecticut, dubbed the Quiet Corner in 1985, is a historic region of the state of Connecticut, located in the northeastern corner of the state.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Quiet Corner",
+                "wikipedia": "en:Quiet Corner",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 5855712,
+            "lat": 41.23694444,
+            "lon": -73.03777778,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Connecticut_Post_Mall_%28Milford%2C_Connecticut%29_%2840680222403%29.jpg/1280px-Connecticut_Post_Mall_%28Milford%2C_Connecticut%29_%2840680222403%29.jpg",
+            "description": "The Connecticut Post Mall is a super-regional shopping center located on U.S. Route 1 in Milford, Connecticut.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Connecticut Post Mall",
+                "wikipedia": "en:Connecticut Post Mall",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 12670114,
+            "lat": 41.76555556,
+            "lon": -87.62777778,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/59/Midway_Airport_Airfield.jpg",
+            "description": "The South Side is one of the three major geographical \"sides\" of the city of Chicago, Illinois, United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "South Side, Chicago",
+                "wikipedia": "en:South Side, Chicago",
+                "tourism": "attraction"
+            }
+        }
+    ]
+}

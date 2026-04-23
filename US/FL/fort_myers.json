@@ -1,0 +1,380 @@
+{
+    "city_metadata": {
+        "city_name": "Fort Myers",
+        "state_code": "FL",
+        "state_full": "Florida",
+        "city_summary": "Fort Myers (or Ft. Myers) is a city in and the county seat of Lee County, Florida, United States. As of the 2020 census, the population was 86,395; it was estimated to have grown to 95,949 in 2022, making it the 25th-most populous city in Florida.",
+        "city_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Fort_Myers_FL_Downtown_HD_1933_crths_pano01.jpg/1280px-Fort_Myers_FL_Downtown_HD_1933_crths_pano01.jpg",
+        "city_lat": 26.62333333,
+        "city_lon": -81.85555556,
+        "source": "wikipedia_verified_engine"
+    },
+    "attractions": [
+        {
+            "type": "node",
+            "id": 1973627751,
+            "lat": 26.6401898,
+            "lon": -81.8588577,
+            "tags": {
+                "name": "Imaginarium Science Center",
+                "tourism": "museum",
+                "website": "https://theimag.org/",
+                "wikidata": "Q16901498",
+                "wikipedia": "en:Imaginarium Science Center"
+            }
+        },
+        {
+            "type": "node",
+            "id": 7089244587,
+            "lat": 26.6015565,
+            "lon": -81.7816378,
+            "tags": {
+                "name": "Nature Walk",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 7089244588,
+            "lat": 26.5996366,
+            "lon": -81.7825369,
+            "tags": {
+                "name": "Nature walk entrence",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 7089244688,
+            "lat": 26.6015347,
+            "lon": -81.7822241,
+            "tags": {
+                "name": "Nature walk entrence",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "way",
+            "id": 173402900,
+            "lat": 26.6404396,
+            "lon": -81.8593708,
+            "tags": {
+                "addr:city": "Fort Myers",
+                "addr:housenumber": "2000",
+                "addr:postcode": "33916",
+                "addr:state": "FL",
+                "addr:street": "Cranford ave",
+                "building": "yes",
+                "name": "IMAG History & Science Center",
+                "tourism": "museum",
+                "website": "https://www.theimag.org/"
+            }
+        },
+        {
+            "type": "way",
+            "id": 173429342,
+            "lat": 26.642532,
+            "lon": -81.8628668,
+            "tags": {
+                "addr:city": "Fort Myers",
+                "addr:housename": "The Florida Native Butterfly Society",
+                "addr:housenumber": "1815-4",
+                "addr:postcode": "33901",
+                "addr:street": "Fowler Street",
+                "description": "The Florida Native Butterfly Society is a nonprofit organization dedicated to the protection and preservation of Florida’s native butterfly species.",
+                "name": "The Florida Native Butterfly Society",
+                "operator": "The Butterflly Estates",
+                "phone": "+1-239-690-2359",
+                "tourism": "attraction",
+                "website": "https://www.thebutterflyestates.com/",
+                "wheelchair": "yes"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Fort_Myers_FL_history_museum04.jpg/1280px-Fort_Myers_FL_history_museum04.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 173429347,
+            "lat": 26.6427496,
+            "lon": -81.862995,
+            "tags": {
+                "addr:housenumber": "1815",
+                "addr:postcode": "33901",
+                "addr:street": "Fowler Street",
+                "name": "The Butterfly Estates",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Fort_Myers_FL_history_museum04.jpg/1280px-Fort_Myers_FL_history_museum04.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 375139613,
+            "lat": 26.6399971,
+            "lon": -81.8660677,
+            "tags": {
+                "addr:city": "Fort Myers",
+                "addr:housenumber": "2031",
+                "addr:postcode": "33901",
+                "addr:state": "FL",
+                "addr:street": "Jackson Street",
+                "building": "yes",
+                "ele": "4",
+                "email": "info@museumofhistory.org",
+                "gnis:feature_id": "2449003",
+                "name": "City of Fort Myers Southwest Florida Museum of History",
+                "phone": "+1-239-321-7430",
+                "source": "USGS Geonames",
+                "tourism": "museum",
+                "website": "https://swflmuseumofhistory.com/",
+                "wikidata": "Q17062165",
+                "wikipedia": "en:Southwest Florida Museum of History"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Fort_Myers_FL_history_museum04.jpg/1280px-Fort_Myers_FL_history_museum04.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 428108217,
+            "lat": 26.6447438,
+            "lon": -81.8718367,
+            "tags": {
+                "building": "yes",
+                "name": "Sydney Berne Davis Art Center",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/en/thumb/4/47/OldCourthouseLeeCountyFL.jpg/1280px-OldCourthouseLeeCountyFL.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 556161901,
+            "lat": 26.6421834,
+            "lon": -81.8472417,
+            "tags": {
+                "addr:city": "Fort Myers",
+                "addr:housenumber": "1936",
+                "addr:postcode": "33916",
+                "addr:state": "FL",
+                "addr:street": "Henderson Avenue",
+                "building": "yes",
+                "name": "Williams Academy Black History Museum",
+                "operator": "The Lee County Black History Society",
+                "tourism": "museum",
+                "website": "http://leecountyblackhistorysociety.org/website/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Paul_Laurence_Dunbar_School.jpg/1280px-Paul_Laurence_Dunbar_School.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 109328,
+            "lat": 26.62333333,
+            "lon": -81.85555556,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Fort_Myers_FL_Downtown_HD_1933_crths_pano01.jpg/1280px-Fort_Myers_FL_Downtown_HD_1933_crths_pano01.jpg",
+            "description": "Fort Myers (or Ft.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Fort Myers, Florida",
+                "wikipedia": "en:Fort Myers, Florida",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 73610,
+            "lat": 26.58,
+            "lon": -81.92,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Base_Operations_at_Page_Field.jpg/1280px-Base_Operations_at_Page_Field.jpg",
+            "description": "Lee County is located in southwestern Florida, United States, on the Gulf Coast.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Lee County, Florida",
+                "wikipedia": "en:Lee County, Florida",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 109028,
+            "lat": 26.14111111,
+            "lon": -80.14444444,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Skyline_of_Fort_Lauderdale%2C_Nov-15.jpg/1280px-Skyline_of_Fort_Lauderdale%2C_Nov-15.jpg",
+            "description": "Fort Lauderdale (, LAW-dər-dayl) is a coastal city located in the U.S. state of Florida, 30 miles (48 km) north of Miami along the Atlantic Ocean.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Fort Lauderdale, Florida",
+                "wikipedia": "en:Fort Lauderdale, Florida",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 109319,
+            "lat": 26.37083333,
+            "lon": -81.79083333,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Bonita_Beach.JPG/1280px-Bonita_Beach.JPG",
+            "description": "Bonita Springs is a city in Lee County, Florida, United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Bonita Springs, Florida",
+                "wikipedia": "en:Bonita Springs, Florida",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 6128345,
+            "lat": 26.64388889,
+            "lon": -81.86833333,
+            "image_url": "https://upload.wikimedia.org/wikipedia/en/thumb/5/5f/UnitedAleHouse.jpg/1280px-UnitedAleHouse.jpg",
+            "description": "The Fort Myers Downtown Commercial District is a U.S. historic district (designated as such on January 26, 1990) located in Fort Myers, Florida.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Fort Myers Downtown Commercial District",
+                "wikipedia": "en:Fort Myers Downtown Commercial District",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 7320150,
+            "lat": 26.65709,
+            "lon": -81.84199,
+            "image_url": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c6/TerryPark.jpg/1280px-TerryPark.jpg",
+            "description": "The Terry Park Ballfield (also known as the Park T. Pigott Memorial Stadium) is a historic site in Fort Myers, Florida, United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Terry Park Ballfield",
+                "wikipedia": "en:Terry Park Ballfield",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 508935,
+            "lat": 26.19555556,
+            "lon": -80.16111111,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Fort_Lauderdale_Stadium.jpg/1280px-Fort_Lauderdale_Stadium.jpg",
+            "description": "Fort Lauderdale Stadium was a baseball stadium located in Fort Lauderdale, Florida, next to Lockhart Stadium which was built for soccer and outdoors events.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Fort Lauderdale Stadium",
+                "wikipedia": "en:Fort Lauderdale Stadium",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 109495,
+            "lat": 24.555,
+            "lon": -81.78194444,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Southernmost_point_buoy%2C_NE_view.jpg/1280px-Southernmost_point_buoy%2C_NE_view.jpg",
+            "description": "Key West (Spanish: Cayo Hueso [kaʝo ˈweso]) is an island in the Straits of Florida, at the southern end of the U.S. state of Florida.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Key West",
+                "wikipedia": "en:Key West",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 109790,
+            "lat": 29.88916667,
+            "lon": -81.30416667,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Aerial_view_of_the_Castillo_de_San_Marcos%2C_St._Augustine%2C_FL_2025-05-20.jpg/1280px-Aerial_view_of_the_Castillo_de_San_Marcos%2C_St._Augustine%2C_FL_2025-05-20.jpg",
+            "description": "St.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "St. Augustine, Florida",
+                "wikipedia": "en:St. Augustine, Florida",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 109220,
+            "lat": 27.49333333,
+            "lon": -81.45694444,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Sebring%2C_FL%2C_USA_-_panoramio_-_William_%E2%80%9CPatrick%E2%80%9D_Ma%E2%80%A6_%282%29.jpg/1280px-Sebring%2C_FL%2C_USA_-_panoramio_-_William_%E2%80%9CPatrick%E2%80%9D_Ma%E2%80%A6_%282%29.jpg",
+            "description": "Sebring ( SEE-bring) is a city in and the county seat of Highlands County, Florida, United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Sebring, Florida",
+                "wikipedia": "en:Sebring, Florida",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 109218,
+            "lat": 27.30027778,
+            "lon": -81.37361111,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Lake_Placid_FL_depot_museum08.jpg/1280px-Lake_Placid_FL_depot_museum08.jpg",
+            "description": "Lake Placid is a town in Highlands County, Florida, United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Lake Placid, Florida",
+                "wikipedia": "en:Lake Placid, Florida",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 109756,
+            "lat": 27.35833333,
+            "lon": -82.54361111,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Sarasota_Skyline.jpeg/1280px-Sarasota_Skyline.jpeg",
+            "description": "Sarasota () is a city in and the county seat of Sarasota County, Florida, United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Sarasota, Florida",
+                "wikipedia": "en:Sarasota, Florida",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 16846,
+            "lat": 37,
+            "lon": -86,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Flag_of_Kentucky.svg/1280px-Flag_of_Kentucky.svg.png",
+            "description": "Kentucky (US:  , UK: ), officially the Commonwealth of Kentucky, is a landlocked state in the Southeastern region of the United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Kentucky",
+                "wikipedia": "en:Kentucky",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 18933066,
+            "lat": 28,
+            "lon": -82,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Flag_of_Florida.svg/1280px-Flag_of_Florida.svg.png",
+            "description": "Florida (  FLORR-ih-də; Spanish: [floˈɾiða] ) is a state in the Southeastern and South Atlantic\nregions of the United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Florida",
+                "wikipedia": "en:Florida",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 271048,
+            "lat": 42.20972222,
+            "lon": -79.46694444,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/ChautauquaInst_HallPhilosophy.jpg/1280px-ChautauquaInst_HallPhilosophy.jpg",
+            "description": "The Chautauqua Institution ( shə-TAW-kwə) is a 501(c)(3) nonprofit education center and summer resort for adults and youth located on 2,070 acres (840 ha) in Chautauqua, New York, 17 miles (27 km) northwest of Jamestown in the western southern tier of New York state.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Chautauqua Institution",
+                "wikipedia": "en:Chautauqua Institution",
+                "tourism": "attraction"
+            }
+        }
+    ]
+}

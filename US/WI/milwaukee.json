@@ -1,0 +1,1475 @@
+{
+    "city_metadata": {
+        "city_name": "Milwaukee",
+        "state_code": "WI",
+        "state_full": "Wisconsin",
+        "city_summary": "Milwaukee is the most populous city in the U.S. state of Wisconsin. It is located on the western shore of Lake Michigan at the confluence of the Milwaukee, Menomonee, and Kinnickinnic Rivers. Milwaukee is the 31st-most populous city in the United States and the fifth-most populous city in the Midwest, with a population of 577,222 at the 2020 census.",
+        "city_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Milwaukee_Skyline_w_New_NW_Mutual_Building_2025_by_Isaac_Rowlett.jpg/1280px-Milwaukee_Skyline_w_New_NW_Mutual_Building_2025_by_Isaac_Rowlett.jpg",
+        "city_lat": 43.05,
+        "city_lon": -87.95,
+        "source": "wikipedia_verified_engine"
+    },
+    "attractions": [
+        {
+            "type": "node",
+            "id": 1099272485,
+            "lat": 43.0185903,
+            "lon": -87.9129351,
+            "tags": {
+                "alt_name": "The Polish Moon",
+                "alt_name_1": "The Mexican Moon",
+                "amenity": "clock",
+                "display": "analog",
+                "faces": "4",
+                "historic": "yes",
+                "name": "Allen-Bradley Clock Tower",
+                "start_date": "1962",
+                "tourism": "attraction",
+                "visibility": "area",
+                "wikidata": "Q7355659",
+                "wikipedia": "en:Rockwell Automation Headquarters and Allen-Bradley Clock Tower"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Milwaukee_August_2024_047_%28Rockwell_Automation_Headquarters%29.jpg/1280px-Milwaukee_August_2024_047_%28Rockwell_Automation_Headquarters%29.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 3928144247,
+            "lat": 43.0762684,
+            "lon": -87.8835488,
+            "tags": {
+                "addr:city": "Milwaukee",
+                "addr:country": "US",
+                "addr:housenumber": "3209",
+                "addr:postcode": "53211",
+                "addr:state": "WI",
+                "addr:street": "North Maryland Avenue",
+                "alt_name": "Thomas A. Greene Memorial Museum",
+                "alt_name_1": "Greene Geological Museum",
+                "alt_name_2": "Greene Museum",
+                "contact:website": "https://uwm.edu/geosciences/greene-museum/",
+                "museum": "geology",
+                "name": "Thomas A. Greene Geological Museum",
+                "opening_hours": "Mo 11:00-13:00; Tu 12:00-14:00, 15:00-17:00; We 11:00-13:00, 14:00-16:00; Th 11:00-13:00, 15:00-17:00",
+                "operator": "University of Wisconsin-Milwaukee",
+                "tourism": "museum",
+                "website": "https://uwm.edu/geosciences/greene-museum/",
+                "wikidata": "Q7786877",
+                "wikipedia": "en:Thomas A. Greene Memorial Museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Marquette_vs._Milwaukee_women%27s_soccer_2023_12_%28opening_kick-off%29.jpg/1280px-Marquette_vs._Milwaukee_women%27s_soccer_2023_12_%28opening_kick-off%29.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 3969316625,
+            "lat": 43.0415262,
+            "lon": -87.9049581,
+            "tags": {
+                "contact:website": "http://easttown.com/?page_id=745",
+                "fee": "no",
+                "name": "Jazz in the Park",
+                "opening_hours": "May 31-Sep 01 Th 17:00-21:00",
+                "operator": "East Town Association",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 4039188836,
+            "lat": 43.0386397,
+            "lon": -87.8997134,
+            "tags": {
+                "addr:city": "MIlwaukee",
+                "addr:housenumber": "929",
+                "addr:postcode": "53202-5406",
+                "addr:state": "WI",
+                "addr:street": "East Wisconsin Avenue",
+                "contact:email": "questions@bbcmkids.org",
+                "contact:fax": "+1 414 291 0906",
+                "contact:phone": "+1 414 390 5437",
+                "contact:website": "https://www.bbcmkids.org",
+                "ele": "184",
+                "entrance": "yes",
+                "fee": "yes",
+                "gnis:feature_id": "1876121",
+                "museum": "children",
+                "name": "Betty Brinn Children's Museum",
+                "opening_hours": "Mo-Sa 09:00-16:30; Su 12:00-17:00",
+                "source": "USGS Geonames",
+                "start_date": "1995-04-04",
+                "tourism": "museum",
+                "website": "https://www.bbcmkids.org/",
+                "wikidata": "Q54952695"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Milwaukee_August_2022_057_%28Betty_Brinn_Children%27s_Museum%29.jpg/1280px-Milwaukee_August_2022_057_%28Betty_Brinn_Children%27s_Museum%29.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 4085960589,
+            "lat": 43.0480211,
+            "lon": -87.8948706,
+            "tags": {
+                "contact:email": "info@jewishmuseummilwaukee.org",
+                "contact:facebook": "https://www.facebook.com/JewishMuseumMilwaukee",
+                "contact:phone": "+1 414 390 5730",
+                "contact:website": "https://jewishmuseummilwaukee.org/",
+                "fee": "yes",
+                "fee:conditional": "no @ age < 6",
+                "name": "Jewish Museum Milwaukee",
+                "opening_hours": "Mo-Th 10:00-17:00; Fr 10:00-15:00; Su 12:00-16:00; Th[3] 10:00-19:00",
+                "operator": "Milwaukee Jewish Federation",
+                "religion": "jewish",
+                "start_date": "2008",
+                "tourism": "museum",
+                "wheelchair": "yes",
+                "wikidata": "Q18152694",
+                "wikipedia": "en:Jewish Museum Milwaukee"
+            }
+        },
+        {
+            "type": "node",
+            "id": 5209737593,
+            "lat": 43.0601514,
+            "lon": -87.9158059,
+            "tags": {
+                "access": "customers",
+                "contact:email": "contact@abhmuseum.org",
+                "contact:website": "https://abhmuseum.org",
+                "entrance": "yes",
+                "name": "America’s Black Holocaust Museum",
+                "short_name": "ABHM",
+                "source": "http://milwaukeenns.org/2018/06/13/community-to-get-first-look-at-new-americas-black-holocaust-museum/",
+                "start_date": "1988-06-19",
+                "tourism": "museum",
+                "website": "https://www.abhmuseum.org/",
+                "wikidata": "Q4742513",
+                "wikipedia": "en:America's Black Holocaust Museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Chief-Lippert-Fire-Station_Mar10.jpg/1280px-Chief-Lippert-Fire-Station_Mar10.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 5249939695,
+            "lat": 42.9483382,
+            "lon": -87.9017226,
+            "tags": {
+                "addr:city": "Milwaukee",
+                "addr:housenumber": "5300",
+                "addr:postcode": "53207",
+                "addr:street": "South Howell Avenue",
+                "contact:email": "flymitchell@mitchellgallery.org",
+                "contact:phone": "+1 414 747 4503",
+                "contact:website": "http://www.mitchellgallery.org",
+                "museum": "aerospace",
+                "name": "Mitchell Gallery of Flight",
+                "opening_hours": "24/7",
+                "tourism": "museum",
+                "wikidata": "Q6881221",
+                "wikipedia": "en:Mitchell Gallery of Flight"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/MKE_Gallery_of_Flight.jpg/1280px-MKE_Gallery_of_Flight.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 5686202809,
+            "lat": 43.0422709,
+            "lon": -87.9050369,
+            "tags": {
+                "contact:website": "http://easttown.com/?page_id=375",
+                "fee": "no",
+                "name": "Bastille Days",
+                "opening_hours": "Jul 12-13 Th-Fr 11:00-23:30; Jul 14 10:00-23:30; Jul 15 11:00-20:00",
+                "operator": "East Town Association",
+                "start_date": "1981",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Cathedral_Square_Park.jpg/1280px-Cathedral_Square_Park.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 5691019465,
+            "lat": 43.0328279,
+            "lon": -87.8992765,
+            "tags": {
+                "branch": "Milwaukee",
+                "contact:email": "info@milwaukeepride.org",
+                "contact:phone": "+1 414 931 1669",
+                "contact:website": "http://pridefest.com",
+                "fee": "yes",
+                "name": "PrideFest",
+                "operator": "Milwaukee Pride, Incorporated",
+                "start_date": "1987",
+                "tourism": "attraction",
+                "wikidata": "Q7242733",
+                "wikipedia": "en:PrideFest Milwaukee"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/German_Fest_2023_22_%28Glockenspiel_Show%29.jpg/1280px-German_Fest_2023_22_%28Glockenspiel_Show%29.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 5691019466,
+            "lat": 43.0328729,
+            "lon": -87.8992228,
+            "tags": {
+                "branch": "Milwaukee",
+                "contact:email": "info@polishfest.org",
+                "contact:website": "http://www.polishfest.org",
+                "description": "America's Largest Polish Festival",
+                "fee": "yes",
+                "name": "Polish Fest",
+                "opening_hours": "Jun 15-16 12:00-24:00; Jun 17 12:00-20:00",
+                "start_date": "1981",
+                "tourism": "attraction",
+                "wikidata": "Q7209905",
+                "wikipedia": "en:Polish Fest"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/German_Fest_2023_22_%28Glockenspiel_Show%29.jpg/1280px-German_Fest_2023_22_%28Glockenspiel_Show%29.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 5691019467,
+            "lat": 43.0329185,
+            "lon": -87.8991927,
+            "tags": {
+                "contact:website": "https://www.milwaukeetacofest.com",
+                "fee": "yes",
+                "name": "Milwaukee Taco Fest",
+                "opening_hours": "Jun 22 11:00-18:00",
+                "start_date": "2013",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/German_Fest_2023_22_%28Glockenspiel_Show%29.jpg/1280px-German_Fest_2023_22_%28Glockenspiel_Show%29.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 5691019468,
+            "lat": 43.0329729,
+            "lon": -87.8991538,
+            "tags": {
+                "contact:email": "info@irishfest.com",
+                "contact:phone": "+1 414 476 3378",
+                "contact:website": "https://irishfest.com",
+                "fee": "yes",
+                "name": "Milwaukee Irish Fest",
+                "opening_hours": "Aug 15 17:00-22:00; Aug 16 16:00-24:00; Aug 17 12:00-24:00; Aug 18 11:00-22:00",
+                "start_date": "1981",
+                "tourism": "attraction",
+                "wikidata": "Q6861757",
+                "wikipedia": "en:Milwaukee Irish Fest"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/German_Fest_2023_22_%28Glockenspiel_Show%29.jpg/1280px-German_Fest_2023_22_%28Glockenspiel_Show%29.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 5691019469,
+            "lat": 43.0330322,
+            "lon": -87.899131,
+            "tags": {
+                "contact:email": "info@mexicanfiesta.org",
+                "contact:fax": "+1 414 383 6677",
+                "contact:phone": "+1 414 383 7066",
+                "contact:website": "https://www.mexicanfiesta.org",
+                "description": "Be Part of the Tradition!",
+                "fee": "yes",
+                "name": "Mexican Fiesta",
+                "opening_hours": "Aug 23-25 12:00-24:00",
+                "start_date": "1973",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/German_Fest_2023_22_%28Glockenspiel_Show%29.jpg/1280px-German_Fest_2023_22_%28Glockenspiel_Show%29.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 5691019470,
+            "lat": 43.033106,
+            "lon": -87.899121,
+            "tags": {
+                "contact:email": "malc@milwaukeelabor.org",
+                "contact:fax": "+1 414 771 0509",
+                "contact:phone": "+1 414 771 7070",
+                "contact:website": "https://milwaukeelabor.org/laborfest/",
+                "name": "Laborfest",
+                "opening_hours": "Sep 02 11:00-17:00",
+                "operator": "Milwaukee Area Labor Council AFL-CIO",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/German_Fest_2023_22_%28Glockenspiel_Show%29.jpg/1280px-German_Fest_2023_22_%28Glockenspiel_Show%29.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 5691019471,
+            "lat": 43.0331574,
+            "lon": -87.8991184,
+            "tags": {
+                "contact:email": "info@germanfest.com",
+                "contact:fax": "+1 414 464 3164",
+                "contact:phone": "+1 414 464 9444",
+                "contact:website": "https://germanfest.com",
+                "descent": "A Milwaukee Tradition",
+                "description": "Milwaukee’s Original Haus Party",
+                "fee": "yes",
+                "name": "German Fest",
+                "opening_hours": "Jul 26 15:00-24:00; Jul 27 12:00-24:00; Jul 28 12:00-21:00",
+                "start_date": "1981",
+                "tourism": "attraction",
+                "wikidata": "Q5551101",
+                "wikipedia": "en:German Fest"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/German_Fest_2023_22_%28Glockenspiel_Show%29.jpg/1280px-German_Fest_2023_22_%28Glockenspiel_Show%29.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 5691019472,
+            "lat": 43.0332611,
+            "lon": -87.8991457,
+            "tags": {
+                "contact:facebook": "https://www.facebook.com/pg/festaitalianamilwaukee/",
+                "contact:phone": "+1 414 223 2808",
+                "contact:website": "http://festaitaliana.com",
+                "fee": "yes",
+                "name": "Festa Italiana",
+                "opening_hours": "Jul 19 15:00-24:00; Jul 20 12:00-24:00; Jul 21 12:00-23:00",
+                "start_date": "1978-08-04",
+                "tourism": "attraction",
+                "wikidata": "Q5445646",
+                "wikipedia": "en:Festa Italiana"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/German_Fest_2023_22_%28Glockenspiel_Show%29.jpg/1280px-German_Fest_2023_22_%28Glockenspiel_Show%29.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 5691019473,
+            "lat": 43.0333112,
+            "lon": -87.8991678,
+            "tags": {
+                "contact:email": "info@blackartsfestmke.com",
+                "contact:website": "http://blackartsfestmke.com",
+                "fee": "yes",
+                "name": "Black Arts Fest MKE",
+                "opening_hours": "Aug 3 12:00-24:00",
+                "start_date": "2018-08-04",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/German_Fest_2023_22_%28Glockenspiel_Show%29.jpg/1280px-German_Fest_2023_22_%28Glockenspiel_Show%29.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 5691854239,
+            "lat": 43.0332133,
+            "lon": -87.8991288,
+            "tags": {
+                "contact:phone": "+1 920 350 3378",
+                "contact:website": "https://petfestmke.com",
+                "fee": "no",
+                "name": "Fromm Petfest",
+                "opening_hours": "Sep 21 10:00-18:00",
+                "operator": "Fromm Family Foods",
+                "start_date": "2013",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/German_Fest_2023_22_%28Glockenspiel_Show%29.jpg/1280px-German_Fest_2023_22_%28Glockenspiel_Show%29.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 5691854240,
+            "lat": 43.0333711,
+            "lon": -87.8992008,
+            "tags": {
+                "contact:email": "info@biggigbbq.com",
+                "contact:facebook": "https://www.facebook.com/pg/biggigbbq/",
+                "contact:phone": "+1 414 273 2680",
+                "contact:website": "https://www.biggigbbq.com",
+                "fee": "no",
+                "name": "Big Gig BBQ",
+                "opening_hours": "Sep 02 12:00-19:00",
+                "operator": "Milwaukee World Festival",
+                "start_date": "2016-09-04",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/German_Fest_2023_22_%28Glockenspiel_Show%29.jpg/1280px-German_Fest_2023_22_%28Glockenspiel_Show%29.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 5706795573,
+            "lat": 43.0422796,
+            "lon": -87.9121182,
+            "tags": {
+                "contact:website": "https://www.marcuscenter.org/shows/live-at-peck/",
+                "name": "Live at Peck",
+                "seasonal": "yes",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 5711565697,
+            "lat": 43.0712675,
+            "lon": -87.9141359,
+            "tags": {
+                "branch": "Milwaukee",
+                "contact:email": "agriffin@northcotthouse.org",
+                "contact:phone": "+1 414 372 3770",
+                "contact:website": "https://www.juneteenthdaymilwaukee.com/",
+                "name": "Juneteenth Day",
+                "opening_hours": "Jun 19 10:00-18:00",
+                "operator": "Northcott Neighborhood House",
+                "source": "http://city.milwaukee.gov/ImageLibrary/Groups/ccCouncil/News/2018/District01/JuneteenthcelebrationisTuesday.pdf",
+                "start_date": "1971",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 5711565698,
+            "lat": 43.0601931,
+            "lon": -87.885492,
+            "tags": {
+                "contact:website": "https://www.theeastside.org/happenings/summer-soulstice/",
+                "name": "Summer Soulstice Music Festival",
+                "opening_hours": "Jun 22 12:00-24:00",
+                "operator": "East Side Business Improvement District",
+                "start_date": "2000",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/25/Milwaukee_East_Side.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 5711565699,
+            "lat": 43.0379134,
+            "lon": -87.8981989,
+            "tags": {
+                "addr:city": "Milwaukee",
+                "addr:housenumber": "700",
+                "addr:postcode": "53202",
+                "addr:street": "North Art Museum Drive",
+                "contact:phone": "+1 414 224 3200",
+                "contact:website": "http://lfoa.mam.org",
+                "name": "Lakefront Festival of Art",
+                "opening_hours": "Jun 19-21",
+                "short_name": "LFOA",
+                "source": "https://urbanmilwaukee.com/2018/06/19/photo-gallery-56th-annual-lakefront-festival-of-art/",
+                "start_date": "1957",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 5732852272,
+            "lat": 43.0468903,
+            "lon": -87.9113664,
+            "tags": {
+                "amenity": "bench",
+                "name": "AJ Bombers Chairs",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 6038269380,
+            "lat": 43.0327715,
+            "lon": -87.902298,
+            "tags": {
+                "contact:website": "http://iccmilwaukee.com/taste-of-italy/",
+                "fee": "yes",
+                "name": "Taste of Italy",
+                "opening_hours": "Apr 22 11:30-15:30",
+                "start_date": "1995",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/German_Fest_2023_22_%28Glockenspiel_Show%29.jpg/1280px-German_Fest_2023_22_%28Glockenspiel_Show%29.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 6319730609,
+            "lat": 43.0576871,
+            "lon": -87.9025327,
+            "tags": {
+                "contact:website": "https://www.coa-yfc.org/skyline/",
+                "fee": "no",
+                "name": "Skyline Music",
+                "opening_hours": "week 28-35 Tu 17:30-20:30",
+                "operator": "COA Youth & Family Centers",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/94/BlueDressPark.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 6561509684,
+            "lat": 43.0331263,
+            "lon": -87.8995192,
+            "tags": {
+                "alt_name": "The Big Gig",
+                "contact:phone": "+1 414 273 2680",
+                "contact:website": "https://summerfest.com",
+                "fee": "yes",
+                "name": "Summerfest",
+                "opening_hours": "Jun 26-30,Jul 02-07 12:00-24:00",
+                "operator": "Milwaukee World Festival",
+                "start_date": "1968",
+                "tourism": "attraction",
+                "wikidata": "Q7637556",
+                "wikipedia": "en:Summerfest"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/German_Fest_2023_22_%28Glockenspiel_Show%29.jpg/1280px-German_Fest_2023_22_%28Glockenspiel_Show%29.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 6654169495,
+            "lat": 43.042309,
+            "lon": -87.9135136,
+            "tags": {
+                "alt_name": "River Rhythms Summer Concert Series",
+                "contact:website": "https://www.westown.org/neighborhood-events/river-rhythms-2/about/",
+                "fee": "no",
+                "name": "River Rhythms",
+                "opening_hours": "Jun-Aug: We 18:30-21:00",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 7952174970,
+            "lat": 43.0257081,
+            "lon": -88.0129707,
+            "tags": {
+                "name": "Spin City",
+                "tourism": "theme_park"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Pettit_National_Ice_Center.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 8294913926,
+            "lat": 43.0302545,
+            "lon": -87.9171745,
+            "tags": {
+                "name": "Living The Legend Rivet Walls",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Harley-Davidson_Museum_0057.jpg/1280px-Harley-Davidson_Museum_0057.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 11918490317,
+            "lat": 43.0421003,
+            "lon": -87.967965,
+            "tags": {
+                "addr:city": "Milwaukee",
+                "addr:housenumber": "4251",
+                "addr:postcode": "53208",
+                "addr:state": "WI",
+                "addr:street": "West State Street",
+                "image": "https://www.millerbrewerytour.com/sites/tours/files/2019-08/MillerTours-Hero-Small.jpg",
+                "name": "Miller Brewery Tour",
+                "operator": "Miller Brewing",
+                "payment:credit_cards": "yes",
+                "phone": "+14149312337",
+                "tourism": "attraction",
+                "website": "https://millerbrewerytour.com/"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11925647516,
+            "lat": 43.0458403,
+            "lon": -87.9862983,
+            "tags": {
+                "addr:city": "Milwaukee",
+                "addr:housenumber": "1130",
+                "addr:postcode": "53208",
+                "addr:state": "WI",
+                "addr:street": "North 60th Street",
+                "museum": "nature",
+                "name": "The Little Nature Museum",
+                "opening_hours": "Mo-Fr 16:00-17:00; Sa,Su,PH 11:00-12:00, 15:00-16:00",
+                "tourism": "museum"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11929715843,
+            "lat": 43.0420812,
+            "lon": -87.9680703,
+            "tags": {
+                "addr:city": "Milwaukee",
+                "addr:housenumber": "4251",
+                "addr:postcode": "53208",
+                "addr:state": "WI",
+                "addr:street": "West State Street",
+                "name": "Miller Visitor Center",
+                "operator": "Millery Brewery",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 12228462674,
+            "lat": 43.076846,
+            "lon": -87.8803999,
+            "tags": {
+                "addr:city": "Milwaukee",
+                "addr:housenumber": "2311",
+                "addr:postcode": "53211",
+                "addr:state": "WI",
+                "addr:street": "East Hartford Avenue",
+                "fee": "no",
+                "level": "3",
+                "museum": "history",
+                "name": "American Geographical Society",
+                "opening_hours": "Mo-Fr 09:00-16:30",
+                "operator": "University Of Wisconsin - Milwaukee",
+                "operator:type": "university",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/37/Golda_Meir_Library.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 12720680008,
+            "lat": 43.0297218,
+            "lon": -87.9105555,
+            "tags": {
+                "addr:city": "Milwaukee",
+                "addr:housenumber": "170",
+                "addr:postcode": "53204",
+                "addr:state": "WI",
+                "addr:street": "South 1st Street",
+                "charge": "5 USD",
+                "fee": "yes",
+                "level": "1",
+                "museum": "art",
+                "name": "National Bobblehead Hall of Fame and Museum",
+                "opening_hours": "Mo-Fr 10:00-18:00; Sa-Su 10:00-17:00",
+                "phone": "+1-800-414-1482",
+                "tourism": "museum",
+                "website": "https://www.bobbleheadhall.com/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/National_Bobblehead_Hall_of_Fame_and_Museum_August_2023_02_%28A-Z_display%29.jpg/1280px-National_Bobblehead_Hall_of_Fame_and_Museum_August_2023_02_%28A-Z_display%29.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 12946542136,
+            "lat": 43.0488849,
+            "lon": -87.9615398,
+            "tags": {
+                "addr:city": "Milwaukee",
+                "addr:housenumber": "3824",
+                "addr:postcode": "53208",
+                "addr:state": "WI",
+                "addr:street": "West Vliet Street",
+                "name": "Hmong Museum & Gift Shop",
+                "operator": "Hmong American Friendship Association",
+                "tourism": "museum",
+                "website": "https://hmongfriendship.org/museum-gift-shop/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Harley_Davidson_logo.gif",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 52040959,
+            "lat": 43.0312286,
+            "lon": -88.040304,
+            "tags": {
+                "addr:city": "Milwaukee",
+                "addr:country": "US",
+                "addr:housenumber": "10001",
+                "addr:postcode": "53226",
+                "addr:state": "WI",
+                "addr:street": "West Bluemound Road",
+                "contact:website": "https://milwaukeezoo.org/",
+                "fee": "yes",
+                "layer": "-1",
+                "name": "Milwaukee County Zoo",
+                "operator": "Milwaukee County Park Commission",
+                "phone": "+1-414-771-3040",
+                "start_date": "1961",
+                "tourism": "zoo",
+                "wikidata": "Q11781326",
+                "wikipedia": "en:Milwaukee County Zoo"
+            }
+        },
+        {
+            "type": "way",
+            "id": 53219920,
+            "lat": 43.0352729,
+            "lon": -87.9171422,
+            "tags": {
+                "addr:city": "Milwaukee",
+                "addr:housenumber": "422",
+                "addr:postcode": "53203",
+                "addr:street": "North 5th Street",
+                "amenity": "cafe",
+                "building": "warehouse",
+                "building:architect": "Burnham & Root",
+                "building:levels": "2",
+                "building:material": "cream_city_brick",
+                "building:use": "retail",
+                "contact:email": "info@stonecreekcoffee.com",
+                "contact:phone": "+1 414 431 2157",
+                "contact:website": "http://www.stonecreekcoffee.com/factory-cafe",
+                "cuisine": "coffee_shop",
+                "drive_through": "no",
+                "internet_access": "wlan",
+                "internet_access:fee": "no",
+                "name": "The Stone Creek Coffee Factory",
+                "name:1888": "Davidson & Sons",
+                "name:1891": "Magie Bros. Oil Company",
+                "name:1893": "Crystal Soap Company of Milwaukee",
+                "name:1919": "Crystal Soap / Palmolive",
+                "name:1924": "vacant",
+                "name:1946": "Herlic Corporation",
+                "name:1953": "Freedman – Mathews Corporation",
+                "name:1958": "Boston Store Warehouse",
+                "name:1965": "Modern Fixture",
+                "name:1967": "Basic Fixtures, Inc.",
+                "name:1975": "Programmer Cleaners, Inc.",
+                "name:1992": "5th Street Antiques",
+                "name:1999": "The Stone Creek Coffee Factory",
+                "opening_hours": "Mo-Fr 06:00-17:00; Sa,Su 07:00-17:00",
+                "operator": "Stone Creek Coffee",
+                "outdoor_seating": "yes",
+                "service_times": "Mo-Fr 08:30-16:30",
+                "smoking": "outside",
+                "source": "https://www.wisconsinhistory.org/Records/Property/HI109249;http://assessments.milwaukee.gov/remast.asp?taxkey=3610877000",
+                "start_date": "1888",
+                "takeaway": "yes",
+                "toilets": "yes",
+                "tourism": "attraction",
+                "tourism:hours": "free sun: 12:00",
+                "wheelchair": "yes",
+                "wikimedia_commons": "File:Milwaukee (WIS) Near South Side, Stone Creek Coffee Roasters (4721739899).jpg"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Milwaukee_Intermodal_Station.jpg/1280px-Milwaukee_Intermodal_Station.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 53814592,
+            "lat": 43.0407226,
+            "lon": -87.9213387,
+            "tags": {
+                "addr:city": "Milwaukee",
+                "addr:housenumber": "800",
+                "addr:postcode": "53233",
+                "addr:street": "West Wells Street",
+                "alt_name": "MPM",
+                "building": "civic",
+                "building:architect": "Eschweiler & Eschweiler & Sielaff",
+                "building:architecture": "contemporary",
+                "building:levels": "7",
+                "building:material": "limestone",
+                "contact:phone": "+1 888 700 9069;+1 414 278 2702",
+                "contact:website": "https://www.mpm.edu",
+                "fee": "yes",
+                "internet_access": "wlan",
+                "internet_access:fee": "no",
+                "name": "Milwaukee Public Museum",
+                "opening_hours": "Mo-We,Fr-Su 09:00-17:00; Th 09:00-20:00",
+                "operator": "Milwaukee Public Museum, Inc",
+                "short_name": "MPM",
+                "source": "https://www.wisconsinhistory.org/Records/Property/HI41847;http://assessments.milwaukee.gov/remast.asp?taxkey=3611701115",
+                "start_date": "1962",
+                "toilets": "yes",
+                "tourism": "museum",
+                "wheelchair": "yes",
+                "wikidata": "Q6861802",
+                "wikimedia_commons": "Category:Milwaukee Public Museum",
+                "wikipedia": "en:Milwaukee Public Museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/49/Milwaukee_Public_Museum.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 54622334,
+            "lat": 43.0264178,
+            "lon": -87.9456323,
+            "tags": {
+                "addr:city": "Milwaukee",
+                "addr:housenumber": "524",
+                "addr:postcode": "53215",
+                "addr:state": "WI",
+                "addr:street": "South Layton Boulevard",
+                "alt_name": "Mitchell Park Domes",
+                "building": "greenhouse",
+                "contact:facebook": "https://www.facebook.com/MitchellParkDomes/",
+                "contact:foursquare": "https://foursquare.com/v/mitchell-park-horticultural-conservatory-the-domes/4b3a74fbf964a520cb6725e3",
+                "contact:phone": "+1 414 257 5611",
+                "contact:tripadvisor": "https://www.tripadvisor.com/Attraction_Review-g60097-d183453-Reviews-Mitchell_Park_Horticultural_Conservatory_The_Domes-Milwaukee_Wisconsin.html",
+                "contact:website": "https://county.milwaukee.gov/EN/Parks/Explore/The-Domes",
+                "contact:yelp": "https://www.yelp.com/biz/mitchell-park-conservatory-milwaukee",
+                "fee": "yes",
+                "firearms": "no",
+                "leisure": "garden",
+                "name": "Mitchell Park Horticultural Conservatory",
+                "opening_hours": "Mo-Fr 09:00-17:00; Sa, Su 09:00-16:00",
+                "short_name": "Mitchell Park Domes",
+                "tourism": "attraction",
+                "wheelchair": "yes",
+                "wikidata": "Q2745210",
+                "wikipedia": "en:Mitchell Park Horticultural Conservatory"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Mitchell_Park_Horticultural_Conservatory.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 55205380,
+            "lat": 43.0369091,
+            "lon": -87.8957396,
+            "tags": {
+                "addr:city": "Milwaukee",
+                "addr:housenumber": "500",
+                "addr:postcode": "53202",
+                "addr:street": "North Harbor Drive",
+                "building": "retail",
+                "building:architect": "Jim Shields - HGA Architects",
+                "building:architect:2006": "Jim Shields - HGA Architects",
+                "building:architect:2017": "Eppstein Uhen Architects",
+                "building:architecture": "modernism",
+                "building:colour": "white",
+                "building:levels": "3",
+                "building:levels:underground": "1",
+                "building:material": "glass",
+                "contact:phone": "+1 414 765 9966",
+                "contact:website": "https://www.discoveryworld.org",
+                "fee": "yes",
+                "height": "38 ft",
+                "layer": "2",
+                "name": "Discovery World Science + Technology Center",
+                "opening_hours": "Apr-Sep Mo-Fr 09:00-16:00; Sa-Su 10:00-17:00; PH off; Sep-Apr Tu-Fr 09:00-16:00; Sa-Su 10:00-17:00; PH off",
+                "roof:colour": "white",
+                "short_name": "Discovery World",
+                "start_date": "2006",
+                "tourism": "museum",
+                "wikidata": "Q5281988",
+                "wikipedia": "en:Discovery World (museum)"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Milwaukee_October_2025_52_%28Discovery_World%29.jpg/1280px-Milwaukee_October_2025_52_%28Discovery_World%29.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 66210783,
+            "lat": 43.0301319,
+            "lon": -88.0392165,
+            "tags": {
+                "name": "Camel Rides",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "way",
+            "id": 66211495,
+            "lat": 43.0302862,
+            "lon": -88.0381385,
+            "tags": {
+                "fee": "no",
+                "name": "Goat Yard",
+                "species:wikidata": "Q2934",
+                "species:wikipedia": "en:Goat",
+                "surface": "concrete",
+                "tourism": "zoo",
+                "zoo": "petting_zoo"
+            }
+        },
+        {
+            "type": "way",
+            "id": 66213526,
+            "lat": 43.0326747,
+            "lon": -88.0383434,
+            "tags": {
+                "attraction": "animal",
+                "name": "Taylor Family Humboldt Penguin Exhibit",
+                "natural": "bare_rock",
+                "species:wikidata": "Q224151",
+                "species:wikipedia": "en:Humboldt penguin",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "way",
+            "id": 66215790,
+            "lat": 43.0316633,
+            "lon": -88.037807,
+            "tags": {
+                "name": "Zoo Terrace",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "way",
+            "id": 66319682,
+            "lat": 43.0304359,
+            "lon": -88.040042,
+            "tags": {
+                "attraction": "animal",
+                "fixme": "Which species?",
+                "name": "Zebra",
+                "natural": "grassland",
+                "species:wikidata": "Q32789",
+                "species:wikipedia": "en:Zebra",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "way",
+            "id": 66319720,
+            "lat": 43.0300578,
+            "lon": -88.0404747,
+            "tags": {
+                "attraction": "animal",
+                "name": "Giraffe",
+                "natural": "sand",
+                "species:wikidata": "Q15083",
+                "species:wikipedia": "en:Northern giraffe",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "way",
+            "id": 66488571,
+            "lat": 43.0317302,
+            "lon": -88.0412527,
+            "tags": {
+                "attraction": "animal",
+                "name": "African Water Hole",
+                "natural": "bare_rock",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "way",
+            "id": 66489696,
+            "lat": 43.0314513,
+            "lon": -88.0403568,
+            "tags": {
+                "attraction": "animal",
+                "name": "African Savanna",
+                "natural": "grassland",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "way",
+            "id": 66491679,
+            "lat": 43.0311362,
+            "lon": -88.0416944,
+            "tags": {
+                "attraction": "animal",
+                "name": "South America",
+                "natural": "sand",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "way",
+            "id": 66492009,
+            "lat": 43.030795,
+            "lon": -88.0414968,
+            "tags": {
+                "attraction": "animal",
+                "name": "Bactrian Camel",
+                "natural": "grassland",
+                "species:wikidata": "Q132922",
+                "species:wikipedia": "en:Bactrian camel",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "way",
+            "id": 66518581,
+            "lat": 43.0310156,
+            "lon": -88.0448015,
+            "tags": {
+                "attraction": "animal",
+                "name": "Caribou & Sandhill Crane",
+                "natural": "grassland",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "way",
+            "id": 66518831,
+            "lat": 43.0310331,
+            "lon": -88.0435233,
+            "tags": {
+                "attraction": "animal",
+                "name": "Elk",
+                "natural": "grassland",
+                "species:wikidata": "Q180404",
+                "species:wikipedia": "en:Elk",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "way",
+            "id": 66518990,
+            "lat": 43.0308639,
+            "lon": -88.0430484,
+            "tags": {
+                "attraction": "animal",
+                "name": "Prairie Dog",
+                "natural": "grassland",
+                "species:wikidata": "Q7237854",
+                "species:wikipedia": "en:Prairie Dog (album)",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "way",
+            "id": 66519766,
+            "lat": 43.0300434,
+            "lon": -88.0418503,
+            "tags": {
+                "attraction": "animal",
+                "name": "Grizzly Bear",
+                "natural": "bare_rock",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "way",
+            "id": 66529446,
+            "lat": 43.0286443,
+            "lon": -88.0408434,
+            "tags": {
+                "animal": "Bongo;Guineafowl;Grey-crowned Crane",
+                "attraction": "animal",
+                "name": "African Forest",
+                "natural": "grassland",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "way",
+            "id": 66530075,
+            "lat": 43.0337325,
+            "lon": -88.0385076,
+            "tags": {
+                "attraction": "animal",
+                "name": "Idamel Wilmont Borchert Flamingo Exhibit",
+                "natural": "grassland",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "way",
+            "id": 66539824,
+            "lat": 43.0340922,
+            "lon": -88.0398345,
+            "tags": {
+                "animal": "Whooping Crane",
+                "attraction": "animal",
+                "name": "Wong Family Pheasantry",
+                "natural": "grassland",
+                "species:wikidata": "Q457477",
+                "species:wikipedia": "en:Whooping crane",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "way",
+            "id": 69291698,
+            "lat": 43.0418788,
+            "lon": -87.9141354,
+            "tags": {
+                "addr:city": "Milwaukee",
+                "addr:housenumber": "910",
+                "addr:postcode": "53203-1591",
+                "addr:street": "North Doctor Martin Luther King Junior Drive",
+                "architect": "Kirchhoff & Rose",
+                "architect:wikidata": "Q22952200",
+                "building": "commercial",
+                "building:architecture": "beaux_arts",
+                "building:levels": "2",
+                "building:levels:underground": "1",
+                "building:material": "stone",
+                "email": "info@milwaukeehistory.net",
+                "fee": "yes",
+                "gnis:feature_id": "2118038",
+                "heritage": "2",
+                "heritage:operator": "nrhp",
+                "heritage:website": "https://npgallery.nps.gov/AssetDetail/NRIS/73000086",
+                "historic": "building",
+                "name": "Milwaukee County Historical Center",
+                "nrhp:criteria": "(A),(C)",
+                "nrhp:inscription_date": "1973-03-14",
+                "old_name": "Second Ward Savings Bank",
+                "opening_hours": "Mo-Sa 09:30-17:00; PH closed",
+                "owner": "Milwaukee County",
+                "phone": "+1 414 273 8288",
+                "ref:nrhp": "73000086",
+                "short_name": "MCHS",
+                "source": "https://www.wisconsinhistory.org/Records/Property/HI16299;http://assessments.milwaukee.gov/remast.asp?taxkey=3610557100",
+                "start_date": "1913",
+                "tourism": "museum",
+                "website": "https://milwaukeehistory.net",
+                "wikidata": "Q15958727",
+                "wikimedia_commons": "File:Milwaukee Historical Center Apr10.jpg",
+                "wikipedia": "en:Milwaukee County Historical Society"
+            }
+        },
+        {
+            "type": "way",
+            "id": 111981538,
+            "lat": 43.0392576,
+            "lon": -87.9379295,
+            "tags": {
+                "addr:city": "Milwaukee",
+                "addr:housenumber": "2000",
+                "addr:postcode": "53233",
+                "addr:state": "WI",
+                "addr:street": "West Wisconsin Avenue",
+                "architect": "George Bowman Ferry",
+                "architect:wikidata": "Q5537166",
+                "building": "house",
+                "building:architecture": "flemish_renaissance_revival",
+                "building:levels": "2",
+                "heritage": "2",
+                "heritage:operator": "nrhp",
+                "heritage:website": "https://npgallery.nps.gov/AssetDetail/NRIS/75000073",
+                "historic": "house",
+                "name": "Captain Frederick Pabst Mansion",
+                "nrhp:criteria": "(B),(C)",
+                "nrhp:inscription_date": "1975-04-21",
+                "ref:nrhp": "75000073",
+                "roof:levels": "1",
+                "tourism": "museum",
+                "website": "https://www.pabstmansion.com/",
+                "wikidata": "Q7121826",
+                "wikimedia_commons": "Category:Pabst Mansion",
+                "wikipedia": "en:Pabst Mansion"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Milwaukee%2C_pabst_mansion_01.jpg/1280px-Milwaukee%2C_pabst_mansion_01.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 184577081,
+            "lat": 43.0318242,
+            "lon": -87.9163864,
+            "tags": {
+                "addr:city": "Milwaukee",
+                "addr:housenumber": "400",
+                "addr:postcode": "53201",
+                "addr:state": "WI",
+                "building": "retail",
+                "building:architect": "James Biber - Pentagram",
+                "building:levels": "3",
+                "name": "Harley-Davidson Museum",
+                "source": "http://www.harley-davidson.com/en_us/media/downloads/hd_museum/spaces_chrome.pdf",
+                "start_date": "2008",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Harley-Davidson_Museum_0057.jpg/1280px-Harley-Davidson_Museum_0057.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 398288370,
+            "lat": 43.0423128,
+            "lon": -87.9163038,
+            "tags": {
+                "contact:email": "accounts@wihalloffame.com",
+                "contact:phone": "+1 414 727 3605",
+                "contact:website": "http://www.wihalloffame.com",
+                "name": "Wisconsin Athletic Walk of Fame",
+                "operator": "Wisconsin Athletic Hall of Fame LLC",
+                "start_date": "1951",
+                "tourism": "attraction",
+                "wikidata": "Q8027114",
+                "wikipedia": "en:Wisconsin Athletic Hall of Fame"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/UWMPantherArena.jpg/1280px-UWMPantherArena.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 403385111,
+            "lat": 43.0656774,
+            "lon": -87.8714176,
+            "tags": {
+                "addr:city": "Milwaukee",
+                "addr:housenumber": "2650",
+                "addr:postcode": "53211",
+                "addr:state": "WI",
+                "addr:street": "North Wahl Avenue",
+                "alt_name": "North Point Lighthouse and Keeper's Quarters",
+                "building": "yes",
+                "building:levels": "2",
+                "building:part": "yes",
+                "building:use": "retail",
+                "contact:phone": "+1 414 332 6754",
+                "contact:website": "http://northpointlighthouse.org",
+                "height": "74 ft",
+                "heritage": "2",
+                "heritage:operator": "nrhp",
+                "heritage:website": "https://www.nps.gov/subjects/nationalregister/index.htm",
+                "historic": "lighthouse",
+                "museum": "history",
+                "name": "North Point Lighthouse",
+                "nrhp:criteria": "(C), (D)",
+                "nrhp:inscription_date": "1993-04-22",
+                "opening_hours": "Sa-Su 13:00-16:00",
+                "operator": "North Point Lighthouse Museum",
+                "protection_title": "North Point Lighthouse Museum",
+                "ref:nrhp": "93000339",
+                "roof:levels": "1",
+                "source:housenumber": "Note 91282",
+                "source_ref": "https://catalog.archives.gov/id/106781700",
+                "start_date": "1879",
+                "tourism": "museum",
+                "wikidata": "Q7056375",
+                "wikipedia": "en:North Point Light"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/North_Point_Lighthouse.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 659573030,
+            "lat": 43.1415878,
+            "lon": -88.0448471,
+            "tags": {
+                "addr:city": "Milwaukee",
+                "addr:housenumber": "6814",
+                "addr:postcode": "53224-4306",
+                "addr:state": "WI",
+                "addr:street": "North 107th Street",
+                "building": "yes",
+                "fee": "no",
+                "museum": "history",
+                "name": "Salem Landmark Church and WELS Museum",
+                "operator": "Salem Lutheran Church",
+                "operator:type": "religious",
+                "tourism": "museum"
+            }
+        },
+        {
+            "type": "way",
+            "id": 662971181,
+            "lat": 43.0340872,
+            "lon": -88.0393448,
+            "tags": {
+                "building": "yes",
+                "building:part": "zoo",
+                "name": "Herb & Nada Mahler Family Aviary",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "way",
+            "id": 662972612,
+            "lat": 43.0325914,
+            "lon": -88.0443313,
+            "tags": {
+                "building": "yes",
+                "building:part": "zoo",
+                "name": "Small Mammals Building",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "way",
+            "id": 662972818,
+            "lat": 43.0312914,
+            "lon": -88.0410154,
+            "tags": {
+                "building": "yes",
+                "building:part": "zoo",
+                "name": "Big Cat Country",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "way",
+            "id": 662972832,
+            "lat": 43.0309454,
+            "lon": -88.0421219,
+            "tags": {
+                "area": "yes",
+                "building": "yes",
+                "name": "Pony Rides",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "way",
+            "id": 662983810,
+            "lat": 43.0330479,
+            "lon": -88.0408995,
+            "tags": {
+                "building": "yes",
+                "building:part": "zoo",
+                "name": "Primates of the World",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "way",
+            "id": 662983811,
+            "lat": 43.0330821,
+            "lon": -88.0402562,
+            "tags": {
+                "building": "yes",
+                "building:part": "zoo",
+                "layer": "1",
+                "name": "Stearns Family Apes of Africa",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "way",
+            "id": 663642418,
+            "lat": 42.9880453,
+            "lon": -87.9344695,
+            "tags": {
+                "addr:city": "Milwaukee",
+                "addr:housenumber": "1615",
+                "addr:postcode": "53215",
+                "addr:state": "WI",
+                "addr:street": "West Oklahoma Avenue",
+                "building": "yes",
+                "museum": "history",
+                "name": "Milwaukee Fire Education Center and Museum",
+                "tourism": "museum"
+            }
+        },
+        {
+            "type": "way",
+            "id": 731213865,
+            "lat": 43.0288613,
+            "lon": -87.9723594,
+            "tags": {
+                "contact:website": "https://www.mlb.com/brewers/ballpark/attractions/walk-of-fame",
+                "name": "Walk of Fame",
+                "start_date": "2001",
+                "tourism": "attraction",
+                "wikidata": "Q6861691",
+                "wikipedia": "en:American Family Field Walk of Fame"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/en/d/dc/Harvey_Kuenn%27s_Walk_of_Fame_plaque.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 795425350,
+            "lat": 43.0682855,
+            "lon": -87.9470243,
+            "tags": {
+                "addr:city": "Milwaukee",
+                "addr:housenumber": "2620",
+                "addr:postcode": "53210",
+                "addr:state": "WI",
+                "addr:street": "West Center Street",
+                "contact:email": "info@wbhsm.org",
+                "contact:facebook": "https://www.facebook.com/WIBlackhistoricalsociety/",
+                "contact:phone": "+1 414 372 7677",
+                "contact:website": "http://www.wbhsm.org/",
+                "name": "Wisconsin Black Historical Society",
+                "opening_hours": "Mo-Fr 11:00-16:00; Sa 10:00-12:30; PH off",
+                "short_name": "WBHS",
+                "source": "http://assessments.milwaukee.gov/; https://www.wisconsinhistory.org/Records/Property/HI115499; https://www.wisconsinhistory.org/Records/Property/HI115498; https://onmilwaukee.com/raisemke/articles/wisconsin-black-historical-society.html",
+                "start_date": "1987",
+                "tourism": "museum"
+            }
+        },
+        {
+            "type": "way",
+            "id": 1054075532,
+            "lat": 43.0106387,
+            "lon": -87.9486207,
+            "tags": {
+                "architect": "Frank Lloyd Wright",
+                "heritage": "2",
+                "heritage:operator": "nrhp",
+                "heritage:ref": "85002166",
+                "heritage:website": "https://npgallery.nps.gov/AssetDetail/NRIS/85002166",
+                "historic": "district",
+                "name": "American System Built Homes-Burnham Street District",
+                "nrhp:inscription_date": "1985-09-12",
+                "ref:nrhp": "85002166",
+                "tourism": "attraction",
+                "wikidata": "Q4745212",
+                "wikimedia_commons": "Category:American_System_Built_Homes",
+                "wikipedia": "en:American System-Built Homes#Burnham Street Historic District, Milwaukee"
+            }
+        },
+        {
+            "type": "way",
+            "id": 1061241822,
+            "lat": 43.0308562,
+            "lon": -88.0388034,
+            "tags": {
+                "name": "Northwestern Mutual Family Farm",
+                "operator": "Milwaukee County Zoo",
+                "tourism": "zoo",
+                "zoo": "petting_zoo"
+            }
+        },
+        {
+            "type": "way",
+            "id": 1061241823,
+            "lat": 43.0290364,
+            "lon": -88.041257,
+            "tags": {
+                "area": "yes",
+                "name": "Adventure Africa",
+                "tourism": "attraction",
+                "zoo": "biozone"
+            }
+        },
+        {
+            "type": "way",
+            "id": 1061241824,
+            "lat": 43.0308002,
+            "lon": -88.0408094,
+            "tags": {
+                "area": "yes",
+                "name": "Africa/Asia/South America",
+                "tourism": "attraction",
+                "zoo": "biozone"
+            }
+        },
+        {
+            "type": "way",
+            "id": 1061241826,
+            "lat": 43.0305407,
+            "lon": -88.0434166,
+            "tags": {
+                "area": "yes",
+                "name": "North America",
+                "tourism": "attraction",
+                "zoo": "biozone"
+            }
+        }
+    ]
+}

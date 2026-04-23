@@ -1,0 +1,364 @@
+{
+    "city_metadata": {
+        "city_name": "West Palm Beach",
+        "state_code": "FL",
+        "state_full": "Florida",
+        "city_summary": "West Palm Beach is a city in and the county seat of Palm Beach County, Florida, United States. It is located immediately to the west of the adjacent Palm Beach, which is situated on a barrier island across the Lake Worth Lagoon.\nIt is the largest city in Palm Beach County, and at the time of the 2020 census, its population was 117,415.",
+        "city_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Map_of_Florida_highlighting_West_Palm_Beach.svg/1280px-Map_of_Florida_highlighting_West_Palm_Beach.svg.png",
+        "city_lat": 26.74694444,
+        "city_lon": -80.13111111,
+        "source": "wikipedia_verified_engine"
+    },
+    "attractions": [
+        {
+            "type": "wikipedia_node",
+            "id": 109634,
+            "lat": 26.74694444,
+            "lon": -80.13111111,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Map_of_Florida_highlighting_West_Palm_Beach.svg/1280px-Map_of_Florida_highlighting_West_Palm_Beach.svg.png",
+            "description": "West Palm Beach is a city in and the county seat of Palm Beach County, Florida, United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "West Palm Beach, Florida",
+                "wikipedia": "en:West Palm Beach, Florida",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 73647,
+            "lat": 26.71,
+            "lon": -80.05,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Palm_Beach_Florida_photo_by_D_Ramey_Logan.jpg/1280px-Palm_Beach_Florida_photo_by_D_Ramey_Logan.jpg",
+            "description": "Palm Beach County is a county in the southeastern part of Florida, located in the Miami metropolitan area.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Palm Beach County, Florida",
+                "wikipedia": "en:Palm Beach County, Florida",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 72008,
+            "lat": 28.3,
+            "lon": -80.7,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Titusville%2C_FL%2C_Courthouse%2C_Brevard_County%2C_08-07-2010_%285%29.JPG/1280px-Titusville%2C_FL%2C_Courthouse%2C_Brevard_County%2C_08-07-2010_%285%29.JPG",
+            "description": "Brevard County ( brə-VARD) is a county in the U.S. state of Florida.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Brevard County, Florida",
+                "wikipedia": "en:Brevard County, Florida",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 109495,
+            "lat": 24.555,
+            "lon": -81.78194444,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Southernmost_point_buoy%2C_NE_view.jpg/1280px-Southernmost_point_buoy%2C_NE_view.jpg",
+            "description": "Key West (Spanish: Cayo Hueso [kaʝo ˈweso]) is an island in the Straits of Florida, at the southern end of the U.S. state of Florida.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Key West",
+                "wikipedia": "en:Key West",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 109319,
+            "lat": 26.37083333,
+            "lon": -81.79083333,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Bonita_Beach.JPG/1280px-Bonita_Beach.JPG",
+            "description": "Bonita Springs is a city in Lee County, Florida, United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Bonita Springs, Florida",
+                "wikipedia": "en:Bonita Springs, Florida",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 109622,
+            "lat": 26.78,
+            "lon": -80.06722222,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Welcome_to_Riviera_Beach_Florida_Sign_%2844179413804%29.jpg/1280px-Welcome_to_Riviera_Beach_Florida_Sign_%2844179413804%29.jpg",
+            "description": "Riviera Beach is a city in Palm Beach County, Florida, United States, which was incorporated on September 29, 1922.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Riviera Beach, Florida",
+                "wikipedia": "en:Riviera Beach, Florida",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 44745,
+            "lat": 26.37777778,
+            "lon": -80.11388889,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/North_Boca_Raton_Florida_Aerial_photo_Don_Ramey_Logan.jpg/1280px-North_Boca_Raton_Florida_Aerial_photo_Don_Ramey_Logan.jpg",
+            "description": "Boca Raton ( BOH-kə rə-TOHN; Spanish: Boca Ratón [ˈboka raˈton]) is a city in Palm Beach County, Florida, United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Boca Raton, Florida",
+                "wikipedia": "en:Boca Raton, Florida",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 109509,
+            "lat": 30.42361111,
+            "lon": -86.63055556,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Fort_Walton_Beach_City_Hall.JPG/1280px-Fort_Walton_Beach_City_Hall.JPG",
+            "description": "Fort Walton Beach, often referred to by the initialism FWB, is a city in southern Okaloosa County, Florida, United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Fort Walton Beach, Florida",
+                "wikipedia": "en:Fort Walton Beach, Florida",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 7585432,
+            "lat": 26.685387,
+            "lon": -80.186269,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/93/Perfect_Vodka_Amphitheatre_Entrance.jpg",
+            "description": "The iTHINK Financial Amphitheatre is a 20,000-seat open-air (Approx.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "ITHINK Financial Amphitheatre",
+                "wikipedia": "en:ITHINK Financial Amphitheatre",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 109028,
+            "lat": 26.14111111,
+            "lon": -80.14444444,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Skyline_of_Fort_Lauderdale%2C_Nov-15.jpg/1280px-Skyline_of_Fort_Lauderdale%2C_Nov-15.jpg",
+            "description": "Fort Lauderdale (, LAW-dər-dayl) is a coastal city located in the U.S. state of Florida, 30 miles (48 km) north of Miami along the Atlantic Ocean.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Fort Lauderdale, Florida",
+                "wikipedia": "en:Fort Lauderdale, Florida",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 6785762,
+            "lat": 26.707,
+            "lon": -80.06,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Kravis_CIMG0279.JPG/1280px-Kravis_CIMG0279.JPG",
+            "description": "The Kravis Center for the Performing Arts (often referred to as the Kravis Center) is a performing arts center in downtown West Palm Beach, Florida.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Kravis Center for the Performing Arts",
+                "wikipedia": "en:Kravis Center for the Performing Arts",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 41145046,
+            "lat": 26.70034167,
+            "lon": -80.04119444,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/PB_FL_Everglades_Club01.jpg/1280px-PB_FL_Everglades_Club01.jpg",
+            "description": "The Everglades Club is a social club in Palm Beach, Florida.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Everglades Club",
+                "wikipedia": "en:Everglades Club",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 72010,
+            "lat": 26.193535,
+            "lon": -80.476683,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Florida-Hollywood-Water_Tank.jpg/1280px-Florida-Hollywood-Water_Tank.jpg",
+            "description": "Broward County ( BROURD) is a county in Florida, United States, located in the Miami metropolitan area.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Broward County, Florida",
+                "wikipedia": "en:Broward County, Florida",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 73610,
+            "lat": 26.58,
+            "lon": -81.92,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Base_Operations_at_Page_Field.jpg/1280px-Base_Operations_at_Page_Field.jpg",
+            "description": "Lee County is located in southwestern Florida, United States, on the Gulf Coast.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Lee County, Florida",
+                "wikipedia": "en:Lee County, Florida",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 109793,
+            "lat": 27.40416667,
+            "lon": -80.39111111,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Fort_Pierce_Inlet_State_Park.jpg/1280px-Fort_Pierce_Inlet_State_Park.jpg",
+            "description": "Fort Pierce is a city in and the county seat of St.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Fort Pierce, Florida",
+                "wikipedia": "en:Fort Pierce, Florida",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 24078185,
+            "lat": 38.89416667,
+            "lon": -77.0275,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Waldorf_Astoria_Washington_DC_-_Old_Post_Office_%2853840296568%29.jpg/1280px-Waldorf_Astoria_Washington_DC_-_Old_Post_Office_%2853840296568%29.jpg",
+            "description": "The Old Post Office, listed on the National Register of Historic Places as the Old Post Office and Clock Tower, is located at 1100 Pennsylvania Avenue, N.W. in Washington, D.C. It is a contributing property to the Pennsylvania Avenue National Historic Site.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Old Post Office (Washington, D.C.)",
+                "wikipedia": "en:Old Post Office (Washington, D.C.)",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 627857,
+            "lat": 25.50027778,
+            "lon": -80.445,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/12/Coral_Castle_1.jpg",
+            "description": "Coral Castle is an oolite limestone structure created by the Latvian-American eccentric Edward Leedskalnin (1887–1951).",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Coral Castle",
+                "wikipedia": "en:Coral Castle",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 704778,
+            "lat": 30.33222222,
+            "lon": -87.14166667,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Pensacola_Beach%2C_United_States_%28Unsplash%29.jpg/1280px-Pensacola_Beach%2C_United_States_%28Unsplash%29.jpg",
+            "description": "Pensacola Beach is an unincorporated community located on Santa Rosa Island, a barrier island, in Escambia County, Florida, United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Pensacola Beach, Florida",
+                "wikipedia": "en:Pensacola Beach, Florida",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 53846,
+            "lat": 25.77416667,
+            "lon": -80.19361111,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Villa_Vizcaya_20110228.jpg/1280px-Villa_Vizcaya_20110228.jpg",
+            "description": "Miami is a coastal city in the U.S. state of Florida.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Miami",
+                "wikipedia": "en:Miami",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 74643,
+            "lat": 27.9,
+            "lon": -82.74,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Clearwater_Beach%2C_Florida_%2835188097760%29.jpg/1280px-Clearwater_Beach%2C_Florida_%2835188097760%29.jpg",
+            "description": "Pinellas County (US: , pih-NEL-əss) is located on the west central coast of the U.S. state of Florida.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Pinellas County, Florida",
+                "wikipedia": "en:Pinellas County, Florida",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 11447343,
+            "lat": 27.979931,
+            "lon": -82.827232,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Clearwater_Beach_%2854357452307%29.jpg/1280px-Clearwater_Beach_%2854357452307%29.jpg",
+            "description": "Clearwater Beach is a beach located in Clearwater, Florida, United States, on a barrier island in the Gulf of Mexico.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Clearwater Beach",
+                "wikipedia": "en:Clearwater Beach",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 568483,
+            "lat": 25.781875,
+            "lon": -80.136262,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Ocean_drive_day_2009j.JPG/1280px-Ocean_drive_day_2009j.JPG",
+            "description": "South Beach, is a neighborhood in Miami Beach, Florida.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "South Beach",
+                "wikipedia": "en:South Beach",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 100582,
+            "lat": 28.54,
+            "lon": -81.38,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Lake-eola-park-orlando-florida.jpg/1280px-Lake-eola-park-orlando-florida.jpg",
+            "description": "Orlando (  or-LAN-doh) is a city in and the county seat of Orange County, Florida, United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Orlando, Florida",
+                "wikipedia": "en:Orlando, Florida",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 8217339,
+            "lat": 25.7861,
+            "lon": -80.1742,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Two_different_macaws_-Jungle_Island_-Miami-6a.jpg/1280px-Two_different_macaws_-Jungle_Island_-Miami-6a.jpg",
+            "description": "Jungle Island, formerly Parrot Jungle, is a relaunched eco-adventure park on Watson Island, Miami, Florida, United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Jungle Island",
+                "wikipedia": "en:Jungle Island",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 18933066,
+            "lat": 28,
+            "lon": -82,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Flag_of_Florida.svg/1280px-Flag_of_Florida.svg.png",
+            "description": "Florida (  FLORR-ih-də; Spanish: [floˈɾiða] ) is a state in the Southeastern and South Atlantic\nregions of the United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Florida",
+                "wikipedia": "en:Florida",
+                "tourism": "attraction"
+            }
+        }
+    ]
+}

@@ -1,0 +1,413 @@
+{
+    "city_metadata": {
+        "city_name": "El Paso",
+        "state_code": "TX",
+        "state_full": "Texas",
+        "city_summary": "El Paso (English:  ; Spanish: [el ˈpaso] , lit. 'the route' or 'the pass') is a city in and the county seat of El Paso County, Texas, United States. It is the 22nd-most populous city in the U.S., sixth-most populous city in Texas, and the most populous city in West Texas with a population of 678,815 at the 2020 census. The El Paso metropolitan area has an estimated 879,000 residents.",
+        "city_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/El_Paso_Cityscape_%28cropped%29.jpg/1280px-El_Paso_Cityscape_%28cropped%29.jpg",
+        "city_lat": 31.75916667,
+        "city_lon": -106.48861111,
+        "source": "wikipedia_verified_engine"
+    },
+    "attractions": [
+        {
+            "type": "node",
+            "id": 600061695,
+            "lat": 28.7272288,
+            "lon": -17.8837529,
+            "tags": {
+                "archaeological_site": "petroglyph",
+                "historic": "archaeological_site",
+                "name": "Petroglifos",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 945106831,
+            "lat": 28.6516907,
+            "lon": -17.8799745,
+            "tags": {
+                "addr:city": "El Paso",
+                "addr:housenumber": "4",
+                "addr:postcode": "38750",
+                "addr:street": "Calle Manuel Taño",
+                "fee": "yes",
+                "name": "Las Hilanderas Museo de Seda",
+                "opening_hours": "Mo-Fr 10:00-14:00",
+                "tourism": "museum",
+                "website": "http://lashilanderaselpaso.com"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/47/El_Paso_map.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 1992628258,
+            "lat": 28.7273369,
+            "lon": -17.8840958,
+            "tags": {
+                "archaeological_site": "petroglyph",
+                "historic": "archaeological_site",
+                "name": "Petroglifos",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 8809297817,
+            "lat": 28.7025037,
+            "lon": -17.8927272,
+            "tags": {
+                "name": "Pino Monumental",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9527558517,
+            "lat": 28.7130679,
+            "lon": -17.8780611,
+            "tags": {
+                "name": "Antigua presa de agua",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Idafe.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 9527558617,
+            "lat": 28.7099061,
+            "lon": -17.8768345,
+            "tags": {
+                "name": "Cascada de los Colores",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Idafe.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 9547907719,
+            "lat": 28.6869011,
+            "lon": -17.8604622,
+            "tags": {
+                "archaeological_site": "petroglyph",
+                "historic": "archaeological_site",
+                "name": "Petroglifos",
+                "name:en": "Petroglyphs",
+                "name:es": "Petroglifos",
+                "tourism": "attraction",
+                "wheelchair": "no"
+            }
+        },
+        {
+            "type": "node",
+            "id": 12018560201,
+            "lat": 40.7385527,
+            "lon": -89.0165293,
+            "tags": {
+                "addr:city": "El Paso",
+                "addr:housenumber": "1",
+                "addr:postcode": "61738",
+                "addr:state": "IL",
+                "addr:street": "West Front Street",
+                "history": "voting_rights",
+                "museum": "history",
+                "name": "Project XV Museum",
+                "opening_hours": "closed",
+                "source": "https://pantagraph.com/news/local/history/el-pasos-project-xv-museum-granted-4-000-from-landmarks-illinois/article_019e63ac-34ad-11ef-8159-0beab1c4666c.html",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Railroad_depot%2C_El_Paso%2C_IL.jpg/1280px-Railroad_depot%2C_El_Paso%2C_IL.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 12619080885,
+            "lat": -47.1830608,
+            "lon": -67.1395044,
+            "tags": {
+                "name": "Museo Facón Grande",
+                "tourism": "museum"
+            }
+        },
+        {
+            "type": "node",
+            "id": 12619080887,
+            "lat": -47.1831483,
+            "lon": -67.139373,
+            "tags": {
+                "name": "Representación del Fusilamiento de “Facón Grande”",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 13052380212,
+            "lat": 28.6552423,
+            "lon": -17.8900654,
+            "tags": {
+                "addr:housenumber": "90",
+                "addr:street": "Calle Paso de Abajo",
+                "description": "Benehauno es el centro de interpretación de las estaciones de petroglifos prehispánicos hallados en El Paso.",
+                "name": "Benehauno - Centro de interpretación de petroglifos",
+                "opening_hours": "Mo-Fr 10:00-15:00; Sa 09:30-13:30",
+                "tourism": "museum",
+                "website": "https://holaelpaso.es/hotspot/benehauno/"
+            }
+        },
+        {
+            "type": "way",
+            "id": 28664134,
+            "lat": 31.7626067,
+            "lon": -106.4771414,
+            "tags": {
+                "area": "yes",
+                "email": "magoffin-home@thc.texas.gov",
+                "fee": "yes",
+                "name": "Magoffin Home State Historic Site",
+                "opening_hours": "Tu-Su 09:00-17:00",
+                "operator": "Texas Historical Commission",
+                "phone": "+1-915-533-5147",
+                "tourism": "attraction",
+                "website": "https://www.thc.texas.gov/historic-sites/magoffin-home-state-historic-site",
+                "wikidata": "Q14711004"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Magoffin_home_2009.jpg/1280px-Magoffin_home_2009.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 166559946,
+            "lat": 31.7590536,
+            "lon": -106.4908221,
+            "tags": {
+                "architect": "Snøhetta",
+                "building": "yes",
+                "museum": "children;science",
+                "name": "La Nube Science Discovery Center",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/La_Nube_building.jpg/1280px-La_Nube_building.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 262818915,
+            "lat": 31.7585773,
+            "lon": -106.4903403,
+            "tags": {
+                "addr:city": "El Paso",
+                "addr:housenumber": "1",
+                "addr:place": "Arts Festival Plaza",
+                "addr:postcode": "79901",
+                "addr:state": "TX",
+                "building": "yes",
+                "building:levels": "2",
+                "ele": "1133",
+                "fax": "+1-915-212-0301",
+                "fee": "no",
+                "museum": "art",
+                "name": "El Paso Museum of Art",
+                "name:fr": "Musée d'art d'El Paso",
+                "name:pl": "Muzeum Sztuki w El Paso",
+                "name:pt": "Museu de Arte de El Paso",
+                "opening_hours": "Tu-Sa 9:00-17:00; Th 9:00-21:00; Su 12:00-17:00",
+                "operator": "City of El Paso",
+                "phone": "+1-915-212-0300",
+                "tourism": "museum",
+                "website": "https://www.elpasoartmuseum.org/",
+                "wikidata": "Q5351782",
+                "wikipedia": "en:El Paso Museum of Art"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/El_Paso_Museum_of_Art._El_Paso%2C_Texas.jpg/1280px-El_Paso_Museum_of_Art._El_Paso%2C_Texas.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 332630700,
+            "lat": 31.8127001,
+            "lon": -106.5544286,
+            "tags": {
+                "area": "yes",
+                "name": "Bob-0",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "way",
+            "id": 388753229,
+            "lat": 28.722351,
+            "lon": -17.8376739,
+            "tags": {
+                "archaeological_site": "bigstone",
+                "historic": "archaeological_site",
+                "name": "La Erita",
+                "natural": "rock",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "way",
+            "id": 423702823,
+            "lat": 31.7693538,
+            "lon": -106.5058747,
+            "tags": {
+                "building": "yes",
+                "level": "2",
+                "name": "El Paso Centennial Museum",
+                "tourism": "museum"
+            }
+        },
+        {
+            "type": "way",
+            "id": 529552187,
+            "lat": 31.7601645,
+            "lon": -106.4915752,
+            "tags": {
+                "addr:city": "El Paso",
+                "addr:housenumber": "510",
+                "addr:postcode": "77901",
+                "addr:street": "North Santa Fe Street",
+                "building": "yes",
+                "check_date:opening_hours": "2023-07-24",
+                "fee": "no",
+                "name": "El Paso Museum of History",
+                "name:en": "El Paso Museum of History",
+                "name:es": "Museo de Historia de El Paso",
+                "opening_hours": "We-Sa 10:00-18:00; PH off",
+                "tourism": "museum",
+                "website": "https://epmuseumofhistory.org/",
+                "wheelchair": "yes",
+                "wikidata": "Q15911438"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/El_Paso_Museum_of_History_2.jpg/1280px-El_Paso_Museum_of_History_2.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 537018039,
+            "lat": 31.770741,
+            "lon": -106.4818488,
+            "tags": {
+                "addr:city": "El Paso",
+                "addr:housenumber": "1211",
+                "addr:postcode": "79902",
+                "addr:state": "TX",
+                "addr:street": "Montana Avenue",
+                "architect": "Trost & Trost",
+                "building": "yes",
+                "check_date:opening_hours": "2023-07-17",
+                "construction_date": "1910",
+                "museum": "art",
+                "name": "International Museum of Art",
+                "opening_hours": "We-Fr 10:00-17:00; Sa,Su 13:00-17:00",
+                "tourism": "museum",
+                "website": "https://internationalmuseumofart.org/",
+                "wikidata": "Q107322568"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/41/El_Paso_Intl_Museum_of_Art.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 562928759,
+            "lat": 31.8644385,
+            "lon": -106.5816495,
+            "tags": {
+                "addr:city": "El Paso",
+                "addr:housenumber": "251",
+                "addr:postcode": "79932",
+                "addr:street": "East Redd Road",
+                "name": "Adventure Zone",
+                "opening_hours": "Mo-Th 11:00-21:00; Fr,Sa 10:00-23:00; Su 12:00-22:00",
+                "phone": "+1 915 585 9663",
+                "tourism": "theme_park",
+                "website": "http://www.adventurezoneelpaso.com/"
+            }
+        },
+        {
+            "type": "way",
+            "id": 658643469,
+            "lat": 31.8424512,
+            "lon": -106.486445,
+            "tags": {
+                "addr:city": "El Paso",
+                "addr:housenumber": "1331",
+                "addr:postcode": "79930",
+                "addr:state": "TX",
+                "addr:street": "McKelligon Canyon Road",
+                "building": "yes",
+                "name": "Franklin Mountains State Park Headquarters",
+                "tourism": "museum",
+                "website": "https://tpwd.texas.gov/state-parks/franklin-mountains"
+            }
+        },
+        {
+            "type": "way",
+            "id": 1001562728,
+            "lat": 31.7623246,
+            "lon": -106.4919642,
+            "tags": {
+                "addr:state": "TX",
+                "building": "yes",
+                "ele": "1224",
+                "gnis:feature_id": "2014178",
+                "name": "El Paso Holocaust Museum and Study Center",
+                "source": "USGS Geonames",
+                "tourism": "museum",
+                "wikidata": "Q5351776",
+                "wikipedia": "en:El Paso Holocaust Museum and Study Center"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/WestStar_Tower_2022-05-29.jpg/1280px-WestStar_Tower_2022-05-29.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 1118504817,
+            "lat": 31.6823675,
+            "lon": -106.3195204,
+            "tags": {
+                "addr:city": "El Paso",
+                "addr:housenumber": "305",
+                "addr:state": "TX",
+                "addr:street": "Yaya Lane",
+                "building": "yes",
+                "fee": "no",
+                "name": "Ysleta del Sur Pueblo Cultural Center",
+                "tourism": "museum",
+                "website": "https://www.ysletadelsurpueblo.org/tourism-hospitality/cultural-center"
+            }
+        },
+        {
+            "type": "way",
+            "id": 1462712446,
+            "lat": 31.7604079,
+            "lon": -106.4908563,
+            "tags": {
+                "building": "yes",
+                "name": "Mexican American Cultural Center (MACC)",
+                "tourism": "museum",
+                "year_of_construction": "2025"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Main_Library_El_Paso.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 135823,
+            "lat": 31.75916667,
+            "lon": -106.48861111,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/El_Paso_Cityscape_%28cropped%29.jpg/1280px-El_Paso_Cityscape_%28cropped%29.jpg",
+            "description": "El Paso (English:  ; Spanish: [el ˈpaso] , lit. 'the route' or 'the pass') is a city in and the county seat of El Paso County, Texas, United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "El Paso, Texas",
+                "wikipedia": "en:El Paso, Texas",
+                "tourism": "attraction"
+            }
+        }
+    ]
+}

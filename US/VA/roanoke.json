@@ -1,0 +1,380 @@
+{
+    "city_metadata": {
+        "city_name": "Roanoke",
+        "state_code": "VA",
+        "state_full": "Virginia",
+        "city_summary": "Roanoke ( ROH-ə-nohk) is an independent city in Virginia, United States. It lies in Southwest Virginia along the Roanoke River, within the Blue Ridge range of the greater Appalachian Mountains. Roanoke is about 50 miles (80 km) north of the Virginia–North Carolina border and 250 miles (400 km) southwest of Washington, D.C., along Interstate 81.",
+        "city_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Roanoke_City_%28Virginia%29_from_Mill_Mountain_Star_at_Dusk.jpg/1280px-Roanoke_City_%28Virginia%29_from_Mill_Mountain_Star_at_Dusk.jpg",
+        "city_lat": 37.27055556,
+        "city_lon": -79.9425,
+        "source": "wikipedia_verified_engine"
+    },
+    "attractions": [
+        {
+            "type": "node",
+            "id": 1228035014,
+            "lat": 37.273527,
+            "lon": -79.93797,
+            "tags": {
+                "addr:housenumber": "101",
+                "addr:postcode": "24016",
+                "addr:street": "Shenandoah Avenue",
+                "name": "O. Winston Link Museum",
+                "tourism": "museum",
+                "website": "https://roanokehistory.org"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Winston_Link_Museum.jpg/1280px-Winston_Link_Museum.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 4811270526,
+            "lat": 37.2508882,
+            "lon": -79.9323807,
+            "tags": {
+                "heritage": "2",
+                "heritage:operator": "nrhp",
+                "historic": "yes",
+                "name": "Roanoke Star",
+                "ref:nrhp": "99001375",
+                "tourism": "attraction",
+                "wikidata": "Q7339809",
+                "wikipedia": "en:Roanoke Star"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Roanoke_star.jpg/1280px-Roanoke_star.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 10552761038,
+            "lat": 37.2729652,
+            "lon": -79.9446197,
+            "tags": {
+                "material": "metal",
+                "name": "Jupiter Missile",
+                "operator": "Virginia Museum of Transportation",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/62/Roanoke_Warehouse_Historic_District.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 10940294705,
+            "lat": 37.2715633,
+            "lon": -79.9395578,
+            "tags": {
+                "addr:postcode": "24011",
+                "name": "Roanoke Pinball Museum",
+                "opening_hours": "Tu-Sa 11:00-20:00; Su 13:00-18:00",
+                "tourism": "museum",
+                "website": "https://roanokepinball.org"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Woods_JR.jpg/1280px-Woods_JR.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 11047020653,
+            "lat": 37.2728111,
+            "lon": -79.9448072,
+            "tags": {
+                "description": "The original cab of NS 8661 is on display here. This cab is from a GE C39-8.",
+                "name": "Norfolk Southern 8661",
+                "operator": "Virginia Museum of Transportation",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/62/Roanoke_Warehouse_Historic_District.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 11463565768,
+            "lat": 40.9617478,
+            "lon": -85.3737638,
+            "tags": {
+                "addr:city": "Roanoke",
+                "addr:housenumber": "102",
+                "addr:postcode": "46783",
+                "addr:state": "IN",
+                "addr:street": "1st Street",
+                "museum": "history",
+                "name": "Roanoke Area Heritage Center",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Huntington_County_Indiana_Incorporated_and_Unincorporated_areas_Roanoke_Highlighted_1865016.svg/1280px-Huntington_County_Indiana_Incorporated_and_Unincorporated_areas_Roanoke_Highlighted_1865016.svg.png",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 106781743,
+            "lat": 37.2732024,
+            "lon": -79.9470477,
+            "tags": {
+                "addr:city": "Roanoke",
+                "addr:housenumber": "303",
+                "addr:postcode": "24016",
+                "addr:state": "VA",
+                "addr:street": "Norfolk Avenue Southwest",
+                "fee": "yes",
+                "name": "Virginia Museum of Transportation",
+                "opening_hours": "Tu-Sa 10:00-17:00; Su 13:00-17:00",
+                "phone": "+1-540-342-5670",
+                "source": "bing;esri_USDOT_Virginia",
+                "tourism": "museum",
+                "website": "https://www.vmt.org/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Virginiamuseumoftransportation.jpg/1280px-Virginiamuseumoftransportation.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 106781754,
+            "lat": 37.272774,
+            "lon": -79.9383189,
+            "tags": {
+                "addr:city": "Roanoke",
+                "addr:housenumber": "110",
+                "addr:postcode": "24011",
+                "addr:state": "VA",
+                "addr:street": "Salem Avenue Southeast",
+                "building": "yes",
+                "building:levels": "2",
+                "layer": "1",
+                "name": "Taubman Museum of Art",
+                "phone": "+1-540-342-5760",
+                "tourism": "museum",
+                "type": "multipolygon",
+                "website": "https://www.taubmanmuseum.org/",
+                "wikidata": "Q7688652",
+                "wikipedia": "en:Taubman Museum of Art"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/93/Taubman_Museum_of_Art.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 392332472,
+            "lat": 40.7993442,
+            "lon": -89.2066228,
+            "tags": {
+                "addr:city": "Roanoke",
+                "addr:postcode": "61561",
+                "addr:state": "IL",
+                "addr:street": "West Victory Avenue",
+                "building": "yes",
+                "name": "Hunzinger Museum",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Broad_east_of_Main_in_Roanoke.jpg/1280px-Broad_east_of_Main_in_Roanoke.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 496247734,
+            "lat": 37.2475325,
+            "lon": -79.9368151,
+            "tags": {
+                "name": "Mill Mountain Zoo",
+                "tourism": "zoo",
+                "wikidata": "Q6858365"
+            }
+        },
+        {
+            "type": "way",
+            "id": 766785188,
+            "lat": 32.9984539,
+            "lon": -97.2290863,
+            "tags": {
+                "building": "yes",
+                "museum": "history",
+                "name": "Roanoke Engine 1",
+                "operator": "City of Roanoke",
+                "operator:type": "public",
+                "tourism": "museum"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 74546,
+            "lat": 35.889,
+            "lon": -75.661,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Roanoke_NASA_World_Wind.jpg/1280px-Roanoke_NASA_World_Wind.jpg",
+            "description": "Roanoke Island () is an island in Dare County, bordered by the Outer Banks of North Carolina.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Roanoke Island",
+                "wikipedia": "en:Roanoke Island",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 75798,
+            "lat": 37.29583333,
+            "lon": -80.05555556,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/60/RCSeal2.gif",
+            "description": "Roanoke College is a private liberal arts college in Salem, Virginia.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Roanoke College",
+                "wikipedia": "en:Roanoke College",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 32432,
+            "lat": 38,
+            "lon": -79,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Flag_of_Virginia.svg/1280px-Flag_of_Virginia.svg.png",
+            "description": "Virginia, officially the Commonwealth of Virginia, is a state in the Southeastern and Mid-Atlantic regions of the United States between the Atlantic Coast and the Appalachian Mountains.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Virginia",
+                "wikipedia": "en:Virginia",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 1836876,
+            "lat": 37.05722222,
+            "lon": -79.59638889,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/SmithMtnLake_VA.JPG/1280px-SmithMtnLake_VA.JPG",
+            "description": "Smith Mountain Lake is a large reservoir in the Roanoke Region of Virginia, United States, located southeast of the City of Roanoke and southwest of Lynchburg.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Smith Mountain Lake",
+                "wikipedia": "en:Smith Mountain Lake",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 18502356,
+            "lat": 37.56888889,
+            "lon": -80.26194444,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Paint_Bank_train_station.jpg/1280px-Paint_Bank_train_station.jpg",
+            "description": "Paint Bank is an unincorporated community in northern Craig County, Virginia, United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Paint Bank, Virginia",
+                "wikipedia": "en:Paint Bank, Virginia",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 23956501,
+            "lat": 34,
+            "lon": -83,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Raleigh_Skyline.jpg/1280px-Raleigh_Skyline.jpg",
+            "description": "The Piedmont Atlantic megaregion, or Southeast Megalopolis, is a neologism created by the Regional Plan Association for an area of the Southeastern United States that contains parts of the states of Alabama, Georgia, Tennessee, South Carolina, and North Carolina.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Piedmont Atlantic megaregion",
+                "wikipedia": "en:Piedmont Atlantic megaregion",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 25962997,
+            "lat": 37.34,
+            "lon": -79.94083333,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Old_Tombstone_listed_on_the_NRHP_in_Roanoke_County_Virginia.JPG",
+            "description": "Old Tombstone, also known as the Denton Monument, is a folk art tombstone listed on both the National Register of Historic Places and the Virginia Landmarks Register in the town of Hollins, Virginia, United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Old Tombstone",
+                "wikipedia": "en:Old Tombstone",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 193371,
+            "lat": 36.95,
+            "lon": -76.4,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Core_of_Hampton_Roads_by_Sentinel-2.jpg/1280px-Core_of_Hampton_Roads_by_Sentinel-2.jpg",
+            "description": "Hampton Roads is a body of water in the United States that serves as a wide channel for the James, Nansemond, and Elizabeth rivers between Old Point Comfort and Sewell's Point near the point at which Chesapeake Bay flows into the Atlantic Ocean.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Hampton Roads",
+                "wikipedia": "en:Hampton Roads",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 8836910,
+            "lat": 37.23827778,
+            "lon": -79.85194444,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Explore_Park_Visitor_Center.jpg",
+            "description": "Explore Park is a 1,100-acre (450 ha) passive recreation facility operated by the Roanoke County Department of Parks, Recreation and Tourism.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Explore Park",
+                "wikipedia": "en:Explore Park",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 137555,
+            "lat": 37.20555556,
+            "lon": -82.29472222,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Haysi%2C_Virginia.jpg/1280px-Haysi%2C_Virginia.jpg",
+            "description": "Haysi (  HAY-sye) is a town in Dickenson County, Virginia, United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Haysi, Virginia",
+                "wikipedia": "en:Haysi, Virginia",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 91343,
+            "lat": 38.0299,
+            "lon": -78.479,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Charlottesville_Downtown_Mall.jpg/1280px-Charlottesville_Downtown_Mall.jpg",
+            "description": "Charlottesville, colloquially known as C'ville, is an independent city in Virginia, United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Charlottesville, Virginia",
+                "wikipedia": "en:Charlottesville, Virginia",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 57898,
+            "lat": 36.84694444,
+            "lon": -76.28527778,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/The_Wisconsin_Battleship_in_Norfolk%2C_VA.jpg/1280px-The_Wisconsin_Battleship_in_Norfolk%2C_VA.jpg",
+            "description": "Norfolk (locally   NOR-fək) is an independent city in the U.S. commonwealth of Virginia.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Norfolk, Virginia",
+                "wikipedia": "en:Norfolk, Virginia",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 132982,
+            "lat": 40.60166667,
+            "lon": -75.47722222,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/2018_-_Center_Square_-_Looking_Northeast_-_12_Oct_-_Allentown_PA.jpg/1280px-2018_-_Center_Square_-_Looking_Northeast_-_12_Oct_-_Allentown_PA.jpg",
+            "description": "Allentown is a city in eastern Pennsylvania, United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Allentown, Pennsylvania",
+                "wikipedia": "en:Allentown, Pennsylvania",
+                "tourism": "attraction"
+            }
+        }
+    ]
+}

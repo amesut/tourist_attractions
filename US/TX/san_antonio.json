@@ -1,0 +1,1944 @@
+{
+    "city_metadata": {
+        "city_name": "San Antonio",
+        "state_code": "TX",
+        "state_full": "Texas",
+        "city_summary": "San Antonio ( SAN an-TOH-nee-oh; Spanish for \"Saint Anthony\") is a city in the U.S. state of Texas. It is the seventh-most populous city in the United States, the second-most populous city in Texas (after Houston), and the second-most populous city in the Southern U.S., with a population of 1.43 million at the 2020 census. The Greater San Antonio metropolitan area, with an estimated 2.76 million residents, ranks as the third-largest metropolitan area in Texas and the 24th-largest in the nation.",
+        "city_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/San_Antonio_Botanical_Garden_Overlook_View.jpg/1280px-San_Antonio_Botanical_Garden_Overlook_View.jpg",
+        "city_lat": 29.425,
+        "city_lon": -98.4939,
+        "source": "wikipedia_verified_engine"
+    },
+    "attractions": [
+        {
+            "type": "node",
+            "id": 368164997,
+            "lat": 29.4166014,
+            "lon": -98.4908493,
+            "tags": {
+                "addr:state": "TX",
+                "ele": "193",
+                "gnis:feature_id": "2014329",
+                "name": "San Antonio Art League Museum",
+                "source": "USGS Geonames",
+                "tourism": "museum",
+                "website": "https://www.saalm.org/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Anton_Wulff_House%2C_San_Antonio_TX.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 368164999,
+            "lat": 29.4157728,
+            "lon": -98.4890113,
+            "tags": {
+                "addr:state": "TX",
+                "ele": "194",
+                "gnis:feature_id": "2014332",
+                "name": "Texas Highway Patrol Museum",
+                "official_name": "Texas Highway Patrol Hall of Fame and Museum",
+                "source": "USGS Geonames",
+                "tourism": "museum"
+            }
+        },
+        {
+            "type": "node",
+            "id": 368165000,
+            "lat": 29.461343,
+            "lon": -98.4380715,
+            "tags": {
+                "addr:state": "TX",
+                "ele": "214",
+                "gnis:feature_id": "2014334",
+                "name": "United States Army Medical Department Museum",
+                "source": "USGS Geonames",
+                "tourism": "museum",
+                "website": "https://armymedicalmuseum.org/",
+                "wikidata": "Q7889492"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/United_States_Army_Medical_Department_Museum.jpg/1280px-United_States_Army_Medical_Department_Museum.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 368165769,
+            "lat": 29.4482878,
+            "lon": -98.4664055,
+            "tags": {
+                "addr:state": "TX",
+                "ele": "221",
+                "gnis:feature_id": "2037056",
+                "name": "Fort Sam Houston Museum",
+                "source": "USGS Geonames",
+                "tourism": "museum",
+                "website": "https://history.army.mil/museums/fieldmuseums/fshmuseum/index.html"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Pershing_House%2C_Fort_Sam_Houston%2C_San_Antonio%2C_Texas_%28cropped%29.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 922146339,
+            "lat": 29.4311015,
+            "lon": -98.4922459,
+            "tags": {
+                "name": "Visitor's Center Museum",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Ursuline_Academy%2C_San_Antonio%2C_Texas.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 928665332,
+            "lat": 29.4094598,
+            "lon": -98.4955912,
+            "tags": {
+                "name": "San Angel Folk Art",
+                "opening_hours": "Mo-Sa 11:00-17:00; Su 11:00-15:00",
+                "shop": "art",
+                "tourism": "museum",
+                "website": "https://sanangelfolkart.com/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Carl_guenther_house_2012.jpg/1280px-Carl_guenther_house_2012.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 928666211,
+            "lat": 29.4088943,
+            "lon": -98.4957601,
+            "tags": {
+                "name": "Bent Easel Art Gallery",
+                "shop": "art",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Carl_guenther_house_2012.jpg/1280px-Carl_guenther_house_2012.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 928666306,
+            "lat": 29.4095089,
+            "lon": -98.4956099,
+            "tags": {
+                "name": "Cactus Bra Gallery",
+                "shop": "art",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Carl_guenther_house_2012.jpg/1280px-Carl_guenther_house_2012.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 928666307,
+            "lat": 29.4094131,
+            "lon": -98.4955724,
+            "tags": {
+                "name": "Alba DeLeon Studio",
+                "shop": "art",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Carl_guenther_house_2012.jpg/1280px-Carl_guenther_house_2012.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 928666308,
+            "lat": 29.4093523,
+            "lon": -98.4955482,
+            "tags": {
+                "name": "Stone Metal Press",
+                "shop": "art",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Carl_guenther_house_2012.jpg/1280px-Carl_guenther_house_2012.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 928666309,
+            "lat": 29.4097962,
+            "lon": -98.49539,
+            "tags": {
+                "name": "ArmonArt",
+                "shop": "art",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Carl_guenther_house_2012.jpg/1280px-Carl_guenther_house_2012.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 928666310,
+            "lat": 29.4092845,
+            "lon": -98.4955241,
+            "tags": {
+                "name": "Magical Realism Photography Studio",
+                "shop": "art",
+                "tourism": "museum",
+                "website": "http://www.magicalrealismstudio.com/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Carl_guenther_house_2012.jpg/1280px-Carl_guenther_house_2012.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 928668524,
+            "lat": 29.4263278,
+            "lon": -98.488853,
+            "tags": {
+                "amenity": "pub",
+                "fee": "yes",
+                "indoor_seating": "yes",
+                "name": "Buckhorn Saloon and Museum",
+                "official_name": "Buckhorn Saloon and Museum and Texas Ranger Museum",
+                "outdoor_seating": "no",
+                "payment:credit_cards": "yes",
+                "payment:debit_cards": "yes",
+                "tourism": "museum",
+                "website": "https://www.buckhornmuseum.com/",
+                "wheelchair": "yes",
+                "wikidata": "Q4983163"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/51/Buckhorn_Saloon_SA_2011-12-11.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 928671453,
+            "lat": 29.4235094,
+            "lon": -98.4845536,
+            "tags": {
+                "name": "River boat boarding",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Shops_at_the_Rivercenter_San_Antonio.jpg/1280px-Shops_at_the_Rivercenter_San_Antonio.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 928671464,
+            "lat": 29.4228301,
+            "lon": -98.4880501,
+            "tags": {
+                "name": "River boat boarding",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Hilton_Palacio_del_Rio.jpg/1280px-Hilton_Palacio_del_Rio.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 928680816,
+            "lat": 29.4250675,
+            "lon": -98.4907975,
+            "tags": {
+                "name": "River boat boarding",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Jeremiah_dashiell_house_2014.jpg/1280px-Jeremiah_dashiell_house_2014.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 928681408,
+            "lat": 29.4332692,
+            "lon": -98.4846044,
+            "tags": {
+                "name": "boat ride boarding",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/ProvidenceHighSA.JPG/1280px-ProvidenceHighSA.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 928725830,
+            "lat": 29.4614381,
+            "lon": -98.5225476,
+            "tags": {
+                "addr:city": "San Antonio",
+                "addr:housenumber": "1800",
+                "addr:postcode": "78201",
+                "addr:state": "TX",
+                "addr:street": "Fredericksburg Road",
+                "amenity": "community_centre",
+                "name": "Centro Cultural Aztlan Galeria Expresion",
+                "tourism": "museum",
+                "website": "https://centroaztlan.org/"
+            }
+        },
+        {
+            "type": "node",
+            "id": 933663143,
+            "lat": 29.415976,
+            "lon": -98.4903176,
+            "tags": {
+                "name": "Villa Finale Visitor Center",
+                "tourism": "museum",
+                "website": "https://villafinale.org/visit/"
+            }
+        },
+        {
+            "type": "node",
+            "id": 933670106,
+            "lat": 29.4127038,
+            "lon": -98.491479,
+            "tags": {
+                "name": "Robert Hughes Gallery",
+                "shop": "art",
+                "tourism": "museum"
+            }
+        },
+        {
+            "type": "node",
+            "id": 933683292,
+            "lat": 29.4125321,
+            "lon": -98.4882121,
+            "tags": {
+                "name": "Robot Art Gallery",
+                "shop": "art",
+                "tourism": "museum"
+            }
+        },
+        {
+            "type": "node",
+            "id": 942916526,
+            "lat": 29.6475458,
+            "lon": -98.471715,
+            "tags": {
+                "access": "no",
+                "fee": "no",
+                "name": "Bear Cave",
+                "natural": "cave_entrance",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 942916540,
+            "lat": 29.647364,
+            "lon": -98.4700949,
+            "tags": {
+                "name": "Cub Cave",
+                "natural": "cave_entrance",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1139920807,
+            "lat": 0.0013517,
+            "lon": -78.4589262,
+            "tags": {
+                "name": "Casa De Carlota Jaramillo",
+                "tourism": "museum"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1348750521,
+            "lat": 29.3176188,
+            "lon": -98.4500404,
+            "tags": {
+                "information": "office",
+                "name": "Mission Espada Visitor's Center",
+                "opening_hours": "Mo-Su 09:00-17:00",
+                "tourism": "museum",
+                "website": "https://npplan.com/parks-by-state/texas-national-parks/san-antonio-missions-national-historical-park-park-at-a-glance/san-antonio-missions-national-historical-park-mission-espada/",
+                "wheelchair": "yes"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Mission_Espada_Chapel2.JPG/1280px-Mission_Espada_Chapel2.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 1381612021,
+            "lat": 29.5683607,
+            "lon": -98.7680941,
+            "tags": {
+                "name": "Hoffmann Hayfield",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 2511778665,
+            "lat": 29.4432345,
+            "lon": -98.4814736,
+            "tags": {
+                "name": "River boat boarding",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Hotel-Emma-Exterior.jpg/1280px-Hotel-Emma-Exterior.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 2624377278,
+            "lat": 29.4705734,
+            "lon": -98.4706771,
+            "tags": {
+                "description": "Water from the Edward's Aquifer bubbles up here and feeds the San Antonio River.",
+                "name": "Little Blue Hole",
+                "natural": "spring",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 2915634190,
+            "lat": 29.4523662,
+            "lon": -98.6971697,
+            "tags": {
+                "name": "Rio Loco",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Great-White-SeaWorld-San-Antonio.jpg/1280px-Great-White-SeaWorld-San-Antonio.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 2915634221,
+            "lat": 29.4522564,
+            "lon": -98.6963838,
+            "tags": {
+                "name": "The Great White",
+                "tourism": "attraction",
+                "wikidata": "Q3115987"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Great-White-SeaWorld-San-Antonio.jpg/1280px-Great-White-SeaWorld-San-Antonio.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 3031390021,
+            "lat": 0.0233712,
+            "lon": -78.4810708,
+            "tags": {
+                "name": "Museo Templo del Sol",
+                "tourism": "museum"
+            }
+        },
+        {
+            "type": "node",
+            "id": 4158546807,
+            "lat": -11.7400805,
+            "lon": -76.6098225,
+            "tags": {
+                "name": "Puente Autisha",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 4216106310,
+            "lat": -3.0520799,
+            "lon": -78.2053617,
+            "tags": {
+                "access": "permit",
+                "addr:city": "Limón Indanza",
+                "addr:country": "EC",
+                "addr:district": "Coangos",
+                "addr:postcode": "140605",
+                "addr:province": "Morona-Santiago Province",
+                "alt_name": "Cueva de los Tayos de Coangos",
+                "archaeological_site": "necropolis",
+                "contact:phone": "+593 99 769 7610",
+                "description": "Entrada a la Cueva de los Tayos de Coangos",
+                "description:en": "Zona administrada por los indígenas shuar, entrada a Cueva de los Tayos",
+                "ele": "539",
+                "historic": "archaeological_site",
+                "historic:civilization": "precolumbian",
+                "length": "4600",
+                "name": "Cueva de los Tayos",
+                "name:es": "Cave of the Oilbirds",
+                "name:hu": "Tayos barlang",
+                "natural": "cave_entrance",
+                "operator": "Zona administrada por los indígenas shuar",
+                "tourism": "attraction",
+                "url": "https://en.wikipedia.org/wiki/Cueva_de_los_Tayos",
+                "website": "https://www.tayos.org/",
+                "wheelchair": "no",
+                "wikidata": "Q5192642",
+                "wikipedia": "es:Cueva de los Tayos"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/85/Corredor_-_Cueva_de_los_Tayos.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 4265752897,
+            "lat": 15.3063677,
+            "lon": 120.8564161,
+            "tags": {
+                "name": "Feria",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Markerantoniojf-c.JPG/1280px-Markerantoniojf-c.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 4265802589,
+            "lat": 15.3128535,
+            "lon": 120.8434683,
+            "tags": {
+                "addr:postcode": "3108",
+                "addr:street": "Zaragoza - San Antonio Road",
+                "name": "Novich Resort",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 4601915990,
+            "lat": 14.5625453,
+            "lon": 121.0076378,
+            "tags": {
+                "name": "CIBI II Philippines",
+                "name:en": "CIBI II Philippines",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 4712496197,
+            "lat": 9.87676,
+            "lon": -84.1291022,
+            "tags": {
+                "addr:city": "San Antonio",
+                "addr:postcode": "11003",
+                "addr:street": "Calle Cerro San Miguel",
+                "name": "Cruz de Alajuelita",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 5341930221,
+            "lat": 29.6163668,
+            "lon": -98.4594192,
+            "tags": {
+                "name": "EOG Resources",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 5827860590,
+            "lat": 29.5826257,
+            "lon": -98.7654798,
+            "tags": {
+                "historic": "archaeological_site",
+                "name": "Dinosaur Tracks",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 6346369285,
+            "lat": 29.5687142,
+            "lon": -98.5417848,
+            "tags": {
+                "name": "Diane Llyod",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 6415383999,
+            "lat": -0.0043218,
+            "lon": -78.4518454,
+            "tags": {
+                "addr:street": "Avenida Equinoccial",
+                "internet_access": "wlan",
+                "name": "Insectario del parque Unasur",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_UNASUR.svg/1280px-Flag_of_UNASUR.svg.png",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 7072480472,
+            "lat": 29.4542616,
+            "lon": -98.4705593,
+            "tags": {
+                "addr:city": "San Antonio",
+                "addr:housenumber": "1017",
+                "addr:postcode": "78209",
+                "addr:state": "TX",
+                "addr:street": "East Mulberry Avenue",
+                "name": "South Texas Museum of Popular Culture \"TexPop\"",
+                "tourism": "museum",
+                "website": "http://texpopsa.org/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Rodriquez_bridge_brackenridge_2011.jpg/1280px-Rodriquez_bridge_brackenridge_2011.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 7811375120,
+            "lat": 29.452862,
+            "lon": -98.6989334,
+            "tags": {
+                "name": "Riptide Rescue",
+                "operator": "SeaWorld San Antonio",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/af/Texas_Stingray_roller_coaster_logo.png",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 7811375121,
+            "lat": 29.4528498,
+            "lon": -98.6986929,
+            "tags": {
+                "name": "Sea Swinger",
+                "operator": "SeaWorld San Antonio",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/af/Texas_Stingray_roller_coaster_logo.png",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 7814146561,
+            "lat": 29.4531708,
+            "lon": -98.696382,
+            "tags": {
+                "name": "Wave Breaker: The Rescue Coaster",
+                "operator": "SeaWorld San Antonio",
+                "tourism": "attraction",
+                "wikidata": "Q28126845"
+            }
+        },
+        {
+            "type": "node",
+            "id": 7841807471,
+            "lat": 29.4524057,
+            "lon": -98.6989007,
+            "tags": {
+                "name": "Texas Stingray",
+                "operator": "SeaWorld San Antonio",
+                "tourism": "attraction",
+                "wikidata": "Q81772169",
+                "wikipedia": "en:Texas Stingray"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/af/Texas_Stingray_roller_coaster_logo.png",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 7852121583,
+            "lat": 29.4548026,
+            "lon": -98.7004259,
+            "tags": {
+                "name": "Journey to Atlantis",
+                "operator": "SeaWorld San Antonio",
+                "tourism": "attraction",
+                "wikidata": "Q917240",
+                "wikipedia": "en:Journey to Atlantis"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/af/Texas_Stingray_roller_coaster_logo.png",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 7855978974,
+            "lat": 29.4556551,
+            "lon": -98.6964078,
+            "tags": {
+                "name": "Steel Eel",
+                "operator": "SeaWorld San Antonio",
+                "tourism": "attraction",
+                "wikidata": "Q1471807",
+                "wikipedia": "en:Steel Eel"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/SteelEel.JPG/1280px-SteelEel.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 9515138061,
+            "lat": 29.453849,
+            "lon": -98.6997293,
+            "tags": {
+                "name": "Tidal Surge",
+                "operator": "SeaWorld San Antonio",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/af/Texas_Stingray_roller_coaster_logo.png",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 10140484195,
+            "lat": 29.5495719,
+            "lon": -98.438796,
+            "tags": {
+                "name": "Wallaceville",
+                "operator": "Texas Transportation Museum",
+                "tourism": "museum"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10280975393,
+            "lat": 9.8643618,
+            "lon": -84.1453485,
+            "tags": {
+                "name": "Antigua Quesera",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10281034814,
+            "lat": 9.8676589,
+            "lon": -84.1448353,
+            "tags": {
+                "name": "Antigua Lechería",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 12259558320,
+            "lat": 9.8792672,
+            "lon": -84.1251947,
+            "tags": {
+                "addr:city": "San Antonio",
+                "name": "La Cruz Caída",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 12525003001,
+            "lat": 0.0114331,
+            "lon": -78.4313398,
+            "tags": {
+                "contact:facebook": "turismo.pucara.pogio.rumicucho",
+                "name": "Entrada a Pucará de Rumicucho",
+                "name:en": "Entrence to Pucará de Rumicucho",
+                "opening_hours": "Mo-Su 09:00-17:00",
+                "phone": "+593 98 186 6185",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 12570407001,
+            "lat": -5.7e-06,
+            "lon": -78.4559758,
+            "tags": {
+                "name": "Museum Punto Cerro (this is only one real museum on equator)",
+                "name:en": "Museum Punto Cerro (this is only one real museum on equator)",
+                "phone": "097 916 3566",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Mitad_del_Mundo%2C_Quito%2C_Ecuador%2C_2015-07-22%2C_DD_15.JPG/1280px-Mitad_del_Mundo%2C_Quito%2C_Ecuador%2C_2015-07-22%2C_DD_15.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 12610603204,
+            "lat": -0.0031024,
+            "lon": -78.4547897,
+            "tags": {
+                "name": "Fundación Guasamin",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Mitad_del_Mundo%2C_Quito%2C_Ecuador%2C_2015-07-22%2C_DD_15.JPG/1280px-Mitad_del_Mundo%2C_Quito%2C_Ecuador%2C_2015-07-22%2C_DD_15.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 12610603205,
+            "lat": -0.0014746,
+            "lon": -78.4551385,
+            "tags": {
+                "name": "Museo del cacao",
+                "opening_hours": "Mo-Su 10:00-17:00",
+                "phone": "+593 2239 4803",
+                "tourism": "museum",
+                "website": "https://mitaddelmundo.gob.ec/experiencia-del-cacao/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Mitad_del_Mundo%2C_Quito%2C_Ecuador%2C_2015-07-22%2C_DD_15.JPG/1280px-Mitad_del_Mundo%2C_Quito%2C_Ecuador%2C_2015-07-22%2C_DD_15.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 28733859,
+            "lat": 29.4231551,
+            "lon": -98.497282,
+            "tags": {
+                "area": "yes",
+                "name": "Casa Navarro State Historical Site",
+                "tourism": "attraction",
+                "website": "http://www.vistcasanavarro.com"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Casa_Navarro_State_Historic_Site_July_2017_12_%28main_house%29.jpg/1280px-Casa_Navarro_State_Historic_Site_July_2017_12_%28main_house%29.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 30446984,
+            "lat": 29.4856395,
+            "lon": -98.4570384,
+            "tags": {
+                "addr:city": "San Antonio",
+                "addr:country": "US",
+                "addr:housenumber": "6000",
+                "addr:postcode": "78209",
+                "addr:state": "TX",
+                "addr:street": "North New Braunfels Avenue",
+                "alt_name": "McNay Museum of Art",
+                "gnis:feature_id": "1346300",
+                "name": "McNay Art Museum",
+                "tourism": "museum",
+                "website": "https://www.mcnayart.org/",
+                "wikidata": "Q286389",
+                "wikipedia": "en:McNay Art Museum"
+            }
+        },
+        {
+            "type": "way",
+            "id": 49090299,
+            "lat": 9.8986327,
+            "lon": -84.0473133,
+            "tags": {
+                "leisure": "park",
+                "name": "Parque de San Antonio",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "way",
+            "id": 60903789,
+            "lat": 29.4613247,
+            "lon": -98.4770578,
+            "tags": {
+                "leisure": "garden",
+                "name": "Japanese Tea Garden",
+                "tourism": "attraction",
+                "wikidata": "Q7413336",
+                "wikipedia": "en:San Antonio Japanese Tea Garden"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/San_Antonio_Japanese_Tea_Garden_2022.jpg/1280px-San_Antonio_Japanese_Tea_Garden_2022.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 62352883,
+            "lat": -0.0029068,
+            "lon": -78.4550219,
+            "tags": {
+                "building": "yes",
+                "name": "Planetario",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Mitad_del_Mundo%2C_Quito%2C_Ecuador%2C_2015-07-22%2C_DD_15.JPG/1280px-Mitad_del_Mundo%2C_Quito%2C_Ecuador%2C_2015-07-22%2C_DD_15.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 62352884,
+            "lat": -0.0031701,
+            "lon": -78.4550141,
+            "tags": {
+                "building": "yes",
+                "name": "Francia",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Mitad_del_Mundo%2C_Quito%2C_Ecuador%2C_2015-07-22%2C_DD_15.JPG/1280px-Mitad_del_Mundo%2C_Quito%2C_Ecuador%2C_2015-07-22%2C_DD_15.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 62352888,
+            "lat": -0.0030059,
+            "lon": -78.4552339,
+            "tags": {
+                "building": "yes",
+                "name": "Ecuador",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Mitad_del_Mundo%2C_Quito%2C_Ecuador%2C_2015-07-22%2C_DD_15.JPG/1280px-Mitad_del_Mundo%2C_Quito%2C_Ecuador%2C_2015-07-22%2C_DD_15.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 62352890,
+            "lat": -0.0027516,
+            "lon": -78.4552846,
+            "tags": {
+                "building": "yes",
+                "name": "Chiquitus",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Mitad_del_Mundo%2C_Quito%2C_Ecuador%2C_2015-07-22%2C_DD_15.JPG/1280px-Mitad_del_Mundo%2C_Quito%2C_Ecuador%2C_2015-07-22%2C_DD_15.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 62352893,
+            "lat": -0.0006753,
+            "lon": -78.4544977,
+            "tags": {
+                "name": "Museo de Sitio Intiñan",
+                "operator": "EcuadorTur",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Mitad_del_Mundo%2C_Quito%2C_Ecuador%2C_2015-07-22%2C_DD_15.JPG/1280px-Mitad_del_Mundo%2C_Quito%2C_Ecuador%2C_2015-07-22%2C_DD_15.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 78485919,
+            "lat": 29.4190703,
+            "lon": -98.4835734,
+            "tags": {
+                "addr:city": "San Antonio",
+                "addr:housenumber": "739",
+                "addr:postcode": "78205",
+                "addr:state": "TX",
+                "addr:street": "East César E. Chávez Boulevard",
+                "building": "yes",
+                "building:part": "no",
+                "communication:radio": "yes",
+                "gnis:feature_id": "1348670",
+                "man_made": "tower",
+                "name": "Tower of the Americas",
+                "tourism": "attraction",
+                "tower:type": "observation",
+                "website": "https://www.toweroftheamericas.com/",
+                "wikidata": "Q1300520",
+                "wikipedia": "en:Tower of the Americas"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/San_Antonio_May_2018_8_%28Tower_of_the_Americas%29.jpg/1280px-San_Antonio_May_2018_8_%28Tower_of_the_Americas%29.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 78486005,
+            "lat": 29.4217177,
+            "lon": -98.4888274,
+            "tags": {
+                "name": "La Villita",
+                "place": "neighbourhood",
+                "tourism": "attraction",
+                "website": "https://www.lavillitasanantonio.com",
+                "wikidata": "Q6465837",
+                "wikipedia": "en:La Villita"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/La_Villita%2C_San_Antonio.jpg/1280px-La_Villita%2C_San_Antonio.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 78490961,
+            "lat": 29.4637358,
+            "lon": -98.4734907,
+            "tags": {
+                "addr:city": "San Antonio",
+                "addr:housenumber": "3903",
+                "addr:postcode": "78212",
+                "addr:state": "TX",
+                "addr:street": "North Saint Mary's Street",
+                "area": "yes",
+                "fee": "yes",
+                "name": "San Antonio Zoo",
+                "opening_hours": "Mo-Su 09:00-17:00",
+                "toilets": "yes",
+                "tourism": "zoo",
+                "website": "https://sazoo.org/",
+                "wheelchair": "yes",
+                "wikidata": "Q8214801",
+                "wikipedia": "en:San Antonio Zoo"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a5/San_Antonio_Zoo_entrance_-Texas_-USA-9Mar2009.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 78601534,
+            "lat": 29.4248802,
+            "lon": -98.4959831,
+            "tags": {
+                "amenity": "attraction",
+                "historic": "yes",
+                "name": "Spanish Governor's Palace",
+                "tourism": "museum",
+                "wikidata": "Q6564718"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/San_Antonio_TX_Spanish_Govenors_Palace.jpg/1280px-San_Antonio_TX_Spanish_Govenors_Palace.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 78602493,
+            "lat": 29.4372883,
+            "lon": -98.4821584,
+            "tags": {
+                "addr:city": "San Antonio",
+                "addr:housenumber": "200",
+                "addr:postcode": "78215",
+                "addr:street": "West Jones Avenue",
+                "building": "yes",
+                "fee": "yes",
+                "museum": "art",
+                "name": "San Antonio Museum of Art",
+                "opening_hours:url": "https://www.samuseum.org/visit/",
+                "phone": "+1 210 978 8100",
+                "short_name": "SAMA",
+                "tourism": "museum",
+                "website": "https://www.samuseum.org/",
+                "wheelchair": "yes",
+                "wikidata": "Q1647706",
+                "wikipedia": "en:San Antonio Museum of Art"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Lone_Star_Brewery_%281_of_1%29.jpg/1280px-Lone_Star_Brewery_%281_of_1%29.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 78603680,
+            "lat": 29.4085479,
+            "lon": -98.4952932,
+            "tags": {
+                "addr:city": "San Anonio",
+                "addr:country": "US",
+                "addr:housenumber": "116",
+                "addr:place": "Blue Star",
+                "addr:postcode": "78204",
+                "addr:state": "TX",
+                "building": "yes",
+                "check_date:opening_hours": "2023-07-06",
+                "fee": "no",
+                "name": "Contemporary at Blue Star",
+                "opening_hours": "We 12:00-17:00; Th,Fr 12:00-20:00; Sa,Su 10:00-18:00; PH off",
+                "tourism": "museum",
+                "website": "https://contemporarysa.org/",
+                "wheelchair": "yes"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Carl_guenther_house_2012.jpg/1280px-Carl_guenther_house_2012.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 79540597,
+            "lat": 29.5397321,
+            "lon": -98.3914726,
+            "tags": {
+                "addr:city": "San Antonio",
+                "addr:housenumber": "5223",
+                "addr:postcode": "78233",
+                "addr:state": "TX",
+                "addr:street": "David Edwards Drive",
+                "addr:unit": "Drive",
+                "name": "Morgan's Wonderland",
+                "tourism": "theme_park",
+                "wheelchair": "yes",
+                "wheelchair:description": "The Ultra Accessible Amusement Park for Everyone",
+                "wikidata": "Q6911528"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/be/Morgans_Wounderland_Entrance.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 79584872,
+            "lat": 29.4252996,
+            "lon": -98.4985835,
+            "tags": {
+                "amenity": "arts_centre",
+                "building": "yes",
+                "check_date:opening_hours": "2023-02-17",
+                "fee": "no",
+                "name": "Centro de Artes",
+                "opening_hours": "We-Fr 10:30-17:00; Sa,Su 12:00-17:00",
+                "tourism": "museum",
+                "was:name": "Museo Alameda",
+                "website": "https://www.getcreativesanantonio.com/Galleries/Centro-de-Artes"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Market_Square_SA.JPG/1280px-Market_Square_SA.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 79586918,
+            "lat": 29.4197486,
+            "lon": -98.4859725,
+            "tags": {
+                "building": "yes",
+                "name": "Instituto Cultural de Mexico",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/en/7/71/San-Japan-2019-Logo-Transparency.png",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 80007887,
+            "lat": 29.4261176,
+            "lon": -98.4871696,
+            "tags": {
+                "building": "yes",
+                "name": "Alamo Vistor Center and Museum (coming 2027)",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/AlamoMemorial-0727.jpg/1280px-AlamoMemorial-0727.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 80014075,
+            "lat": 29.4141137,
+            "lon": -98.494346,
+            "tags": {
+                "name": "Villa Finale",
+                "tourism": "museum",
+                "wikidata": "Q16934173"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Norton_polk_mathis_house_2014.jpg/1280px-Norton_polk_mathis_house_2014.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 80652441,
+            "lat": 29.4285556,
+            "lon": -98.4395412,
+            "tags": {
+                "name": "San Antonio Stock Show and Rodeo",
+                "note": "permanent barns, displays and attractions",
+                "sport": "equestrian",
+                "tourism": "attraction",
+                "website": "https://www.sarodeo.com/",
+                "wikidata": "Q3946804",
+                "wikipedia": "en:San Antonio Stock Show & Rodeo"
+            }
+        },
+        {
+            "type": "way",
+            "id": 80678322,
+            "lat": 29.4415008,
+            "lon": -98.498684,
+            "tags": {
+                "depth": "haunted house",
+                "name": "Terror Mansion",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/VIA_Metropolitan_Transit_logo.svg/1280px-VIA_Metropolitan_Transit_logo.svg.png",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 80906385,
+            "lat": 29.4192039,
+            "lon": -98.4873867,
+            "tags": {
+                "leisure": "park",
+                "name": "Yanaguana Garden",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/17/Fairmount_Hotel_SA_2011-12-12.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 81139601,
+            "lat": 29.5386304,
+            "lon": -98.3922176,
+            "tags": {
+                "building": "yes",
+                "depth": "boarding for Off-Road Adventure ride",
+                "name": "Off-Road Adventure Ride",
+                "tourism": "attraction",
+                "wheelchair": "yes"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/be/Morgans_Wounderland_Entrance.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 81206016,
+            "lat": 29.4298591,
+            "lon": -98.4943124,
+            "tags": {
+                "addr:city": "San Antonio",
+                "addr:housenumber": "445",
+                "addr:postcode": "78205",
+                "addr:state": "TX",
+                "addr:street": "North Main Avenue",
+                "building": "yes",
+                "name": "Artpace",
+                "phone": "+1-210-212-4900",
+                "tourism": "museum",
+                "website": "https://artpace.org/",
+                "wikidata": "Q4801400",
+                "wikipedia": "en:Artpace"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Artpace_san_antonio.jpg/1280px-Artpace_san_antonio.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 100052450,
+            "lat": 29.4253147,
+            "lon": -98.4874734,
+            "tags": {
+                "building": "yes",
+                "name": "Louis Tussaud’s Waxworks",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Photo_of_Toribio_Losoya_Sculpture_San_Antonio_TX_USA.jpg/1280px-Photo_of_Toribio_Losoya_Sculpture_San_Antonio_TX_USA.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 100052465,
+            "lat": 29.4254857,
+            "lon": -98.4872511,
+            "tags": {
+                "building": "yes",
+                "name": "Ripley's Believe It or Not! Odditorium",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Photo_of_Toribio_Losoya_Sculpture_San_Antonio_TX_USA.jpg/1280px-Photo_of_Toribio_Losoya_Sculpture_San_Antonio_TX_USA.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 100440240,
+            "lat": 29.4261999,
+            "lon": -98.4841271,
+            "tags": {
+                "addr:housenumber": "801",
+                "addr:postcode": "78205",
+                "addr:street": "East Houston Street",
+                "building": "yes",
+                "name": "San Antonio Fire Museum",
+                "old_name": "Central Fire Headquarters",
+                "opening_hours": "Tu-Sa 10:00-16:00",
+                "tourism": "museum",
+                "website": "https://www.sanantoniofiremuseum.org/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d1/View_of_the_Alamo_grounds_from_the_Crockett_Hotel_-_panoramio.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 104337886,
+            "lat": -0.001102,
+            "lon": -78.4545966,
+            "tags": {
+                "highway": "footway",
+                "name": "La Mitad Del Mundo",
+                "name:ru": "Середина мира",
+                "source": "GPS Data Logger",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Mitad_del_Mundo%2C_Quito%2C_Ecuador%2C_2015-07-22%2C_DD_15.JPG/1280px-Mitad_del_Mundo%2C_Quito%2C_Ecuador%2C_2015-07-22%2C_DD_15.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 119891489,
+            "lat": 29.3662135,
+            "lon": -98.480291,
+            "tags": {
+                "name": "Former Mission 4 Drive In",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/WilsonHarris1.jpg/1280px-WilsonHarris1.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 144952369,
+            "lat": 29.4126942,
+            "lon": -98.4953412,
+            "tags": {
+                "building": "house",
+                "gnis:feature_id": "2032325",
+                "name": "Steves Homestead Museum",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Edward_steves_homestead.jpg/1280px-Edward_steves_homestead.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 222852036,
+            "lat": 29.5490112,
+            "lon": -98.4364075,
+            "tags": {
+                "addr:city": "San Antonio",
+                "addr:housenumber": "11731",
+                "addr:postcode": "78247",
+                "addr:state": "TX",
+                "addr:street": "Wetmore Road",
+                "fee": "yes",
+                "gnis:feature_id": "1377057",
+                "museum": "transport",
+                "name": "Texas Transportation Museum",
+                "opening_hours": "Fr 9:00-15:00; Sa-Su 10:00-17:00",
+                "tourism": "museum",
+                "website": "https://www.txtransportationmuseum.org/",
+                "wheelchair": "limited",
+                "wikidata": "Q7708193",
+                "wikipedia": "en:Texas Transportation Museum"
+            }
+        },
+        {
+            "type": "way",
+            "id": 263122128,
+            "lat": 29.4094472,
+            "lon": -98.4955703,
+            "tags": {
+                "building": "yes",
+                "name": "Blue Star Contemporary Art Center",
+                "tourism": "museum",
+                "website": "https://www.bluestarartscomplex.com/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Carl_guenther_house_2012.jpg/1280px-Carl_guenther_house_2012.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 287365666,
+            "lat": 29.4566007,
+            "lon": -98.6998665,
+            "tags": {
+                "addr:city": "San Antonio",
+                "addr:country": "US",
+                "addr:housenumber": "10500",
+                "addr:postcode": "78251",
+                "addr:state": "TX",
+                "addr:street": "Sea World Drive",
+                "name": "SeaWorld San Antonio",
+                "operator": "United Parks & Resorts",
+                "tourism": "theme_park",
+                "website": "https://seaworld.com/san-antonio/",
+                "wikidata": "Q567864",
+                "wikipedia": "en:SeaWorld San Antonio"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Entrance_to_Sea_World%2C_San_Antonio%2C_Texas%2C_June_4%2C_2007.JPG/1280px-Entrance_to_Sea_World%2C_San_Antonio%2C_Texas%2C_June_4%2C_2007.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 287654398,
+            "lat": 29.4591977,
+            "lon": -98.6982091,
+            "tags": {
+                "leisure": "water_park",
+                "name": "Aquatica San Antonio",
+                "operator": "https://aquatica.com/san-antonio/",
+                "tourism": "theme_park",
+                "website": "https://aquatica.com/san-antonio/",
+                "wikidata": "Q54864681"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Entrance_to_Sea_World%2C_San_Antonio%2C_Texas%2C_June_4%2C_2007.JPG/1280px-Entrance_to_Sea_World%2C_San_Antonio%2C_Texas%2C_June_4%2C_2007.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 318893780,
+            "lat": 14.564303,
+            "lon": 121.0118687,
+            "tags": {
+                "building": "yes",
+                "museum": "art",
+                "name": "Altro Mondo Creative Space",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Centro_escolar_university_makati_campus.jpg/1280px-Centro_escolar_university_makati_campus.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 337650172,
+            "lat": 29.4228867,
+            "lon": -98.4888509,
+            "tags": {
+                "addr:housenumber": "210",
+                "addr:postcode": "78205",
+                "addr:street": "West Market Street",
+                "name": "Briscoe Western Art Museum",
+                "tourism": "museum",
+                "website": "https://www.briscoemuseum.org/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Rosita%27s_Bridge_Aug_2012.jpg/1280px-Rosita%27s_Bridge_Aug_2012.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 358546838,
+            "lat": 29.452597,
+            "lon": -98.4721597,
+            "tags": {
+                "addr:city": "San Antonio",
+                "addr:housenumber": "2800",
+                "addr:postcode": "78209",
+                "addr:state": "TX",
+                "addr:street": "Broadway",
+                "building": "yes",
+                "museum": "children",
+                "name": "The DoSeum",
+                "tourism": "museum",
+                "website": "https://www.thedoseum.org/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Rodriquez_bridge_brackenridge_2011.jpg/1280px-Rodriquez_bridge_brackenridge_2011.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 368488495,
+            "lat": 29.3623527,
+            "lon": -98.4798391,
+            "tags": {
+                "amenity": "place_of_worship",
+                "building": "church",
+                "denomination": "catholic",
+                "ele": "178",
+                "gnis:feature_id": "1367515",
+                "historic": "church",
+                "name": "Mission San José",
+                "official_name": "Mission San José y San Miguel de Aguayo",
+                "religion": "christian",
+                "tourism": "attraction",
+                "wikidata": "Q6878730",
+                "wikipedia": "en:Mission San José (Texas)"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Mission_San_Jos%C3%A9_San_Antonio.JPG/1280px-Mission_San_Jos%C3%A9_San_Antonio.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 388681607,
+            "lat": -0.002186,
+            "lon": -78.4537983,
+            "tags": {
+                "addr:city": "Quito",
+                "addr:street": "Avenida Manuel Cordova Galarza",
+                "name": "Museo Plaza de Toros",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Mitad_del_Mundo%2C_Quito%2C_Ecuador%2C_2015-07-22%2C_DD_15.JPG/1280px-Mitad_del_Mundo%2C_Quito%2C_Ecuador%2C_2015-07-22%2C_DD_15.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 402797537,
+            "lat": 29.4452862,
+            "lon": -98.4976958,
+            "tags": {
+                "amenity": "college",
+                "building": "yes",
+                "name": "Scobee Planetarium",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/75/SAC_summer08_%283%29.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 482560057,
+            "lat": 10.2581486,
+            "lon": -85.4915456,
+            "tags": {
+                "addr:city": "San Antonio",
+                "country": "CR",
+                "name": "Ecomuseo de la Cerámica Chorotega",
+                "tourism": "museum"
+            }
+        },
+        {
+            "type": "way",
+            "id": 498111413,
+            "lat": -33.6228091,
+            "lon": -71.6009141,
+            "tags": {
+                "addr:city": "San Antonio",
+                "addr:country": "CL",
+                "addr:housenumber": "1453",
+                "addr:street": "Avenida Alcalde Doctor Olegario Henríquez Escalante",
+                "building": "yes",
+                "museum": "nature",
+                "name": "Museo de Historia Natural e Histórico de San Antonio",
+                "old_name": "Museo Municipal de Ciencias Naturales y Arqueología de San Antonio",
+                "operator": "Municipalidad de San Antonio",
+                "operator:type": "public",
+                "short_name": "MUSA",
+                "tourism": "museum",
+                "wikidata": "Q5652540",
+                "wikipedia": "es:Museo de Historia Natural e Histórico de San Antonio"
+            }
+        },
+        {
+            "type": "way",
+            "id": 554788735,
+            "lat": 29.4617199,
+            "lon": -98.468172,
+            "tags": {
+                "building": "yes",
+                "museum": "science",
+                "name": "HEBuddy Treehouse",
+                "operator": "Witte Museum",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Brackenridge_Park_Bridge%2C_San_Antonio%2C_TX.jpg/1280px-Brackenridge_Park_Bridge%2C_San_Antonio%2C_TX.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 554788744,
+            "lat": 29.4619987,
+            "lon": -98.4672946,
+            "tags": {
+                "addr:city": "San Antonio",
+                "addr:housenumber": "3801",
+                "addr:postcode": "78209",
+                "addr:state": "TX",
+                "addr:street": "Broadway",
+                "building": "yes",
+                "name": "The Witte Museum",
+                "opening_hours": "Mo, We-Sa 10:00-17:00; Tu 10:00-20:00, Su 12:00-17:00",
+                "tourism": "museum",
+                "website": "https://www.wittemuseum.org/",
+                "wikidata": "Q14711412"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Brackenridge_Park_Bridge%2C_San_Antonio%2C_TX.jpg/1280px-Brackenridge_Park_Bridge%2C_San_Antonio%2C_TX.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 554788769,
+            "lat": 29.4608067,
+            "lon": -98.467606,
+            "tags": {
+                "building": "yes",
+                "name": "B. Naylor Morton Research and Collections Center",
+                "opening_hours": "Mo-Fr 10:00-17:00",
+                "operator": "Witte Museum",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Brackenridge_Park_Bridge%2C_San_Antonio%2C_TX.jpg/1280px-Brackenridge_Park_Bridge%2C_San_Antonio%2C_TX.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 555029922,
+            "lat": 29.4629462,
+            "lon": -98.4836126,
+            "tags": {
+                "bell_tower": "campanile",
+                "building": "yes",
+                "height": "50.5",
+                "man_made": "tower",
+                "name": "Murchison Tower",
+                "tourism": "attraction",
+                "tower:construction": "brick",
+                "tower:type": "bell_tower"
+            }
+        },
+        {
+            "type": "way",
+            "id": 569484543,
+            "lat": 29.5929778,
+            "lon": -98.5974335,
+            "tags": {
+                "addr:city": "San Antonio",
+                "addr:housenumber": "15915",
+                "addr:postcode": "78257",
+                "addr:state": "TX",
+                "addr:street": "Interstate 10 West",
+                "building": "yes",
+                "name": "iFLY",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "way",
+            "id": 574681797,
+            "lat": 29.5931237,
+            "lon": -98.5941409,
+            "tags": {
+                "addr:city": "San Antonio",
+                "addr:housenumber": "5527",
+                "addr:postcode": "78257",
+                "addr:state": "TX",
+                "addr:street": "North Loop 1604 West",
+                "building": "yes",
+                "name": "Andretti Indoor Karting and Games",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "way",
+            "id": 636447828,
+            "lat": 29.3440126,
+            "lon": -98.4441333,
+            "tags": {
+                "addr:city": "San Antonio",
+                "addr:housenumber": "8081",
+                "addr:postcode": "78235",
+                "addr:state": "TX",
+                "addr:street": "Inner Circle Road",
+                "building": "yes",
+                "gnis:feature_id": "2032340",
+                "name": "Hangar 9 Museum",
+                "tourism": "museum"
+            }
+        },
+        {
+            "type": "way",
+            "id": 699021563,
+            "lat": 29.5408634,
+            "lon": -98.3931866,
+            "tags": {
+                "addr:city": "San Antonio",
+                "addr:housenumber": "5223",
+                "addr:postcode": "78233",
+                "addr:state": "TX",
+                "addr:street": "David Edwards Drive",
+                "leisure": "water_park",
+                "name": "Morgan's Inspiration Island",
+                "tourism": "theme_park"
+            }
+        },
+        {
+            "type": "way",
+            "id": 763508034,
+            "lat": 29.5482511,
+            "lon": -98.434842,
+            "tags": {
+                "air_conditioning": "yes",
+                "building": "yes",
+                "building:levels": "1",
+                "name": "Zucht Display Building",
+                "operator": "Texas Transportation Museum",
+                "operator:type": "charitable",
+                "tourism": "museum"
+            }
+        },
+        {
+            "type": "way",
+            "id": 763508037,
+            "lat": 29.5476292,
+            "lon": -98.4350221,
+            "tags": {
+                "air_conditioning": "yes",
+                "building": "yes",
+                "building:levels": "1",
+                "name": "Longhorn Depot",
+                "opening_hours": "Sa-Su 09:00-16:00",
+                "operator": "Texas Transportation Museum",
+                "operator:type": "charitable",
+                "tourism": "museum"
+            }
+        },
+        {
+            "type": "way",
+            "id": 837230505,
+            "lat": 29.4541618,
+            "lon": -98.6966084,
+            "tags": {
+                "name": "Wave Breaker: The Rescue Coaster",
+                "operator": "SeaWorld San Antonio",
+                "tourism": "attraction",
+                "wikidata": "Q28126845",
+                "wikipedia": "en:Wave Breaker: The Rescue Coaster"
+            }
+        },
+        {
+            "type": "way",
+            "id": 837282995,
+            "lat": 29.5481419,
+            "lon": -98.4359637,
+            "tags": {
+                "building": "yes",
+                "name": "Garden Railroad",
+                "operator": "Texas Transportation Museum",
+                "operator:type": "charitable",
+                "tourism": "museum"
+            }
+        },
+        {
+            "type": "way",
+            "id": 858803548,
+            "lat": -16.5149846,
+            "lon": -68.115408,
+            "tags": {
+                "bridge": "viaduct",
+                "bridge:structure": "suspension",
+                "layer": "1",
+                "loc_name": "Puentes Trillizos",
+                "man_made": "bridge",
+                "material": "concrete",
+                "name": "Puente Independencia",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Puentes_Trillizos_La_Paz.jpg/1280px-Puentes_Trillizos_La_Paz.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 895746402,
+            "lat": 29.5479483,
+            "lon": -98.4352994,
+            "tags": {
+                "building": "yes",
+                "museum": "railway",
+                "name": "Pullman McKeever",
+                "tourism": "museum"
+            }
+        },
+        {
+            "type": "way",
+            "id": 895746403,
+            "lat": 29.5478478,
+            "lon": -98.4351046,
+            "tags": {
+                "building": "yes",
+                "museum": "railway",
+                "name": "ASTF Superintendent's Car #404",
+                "tourism": "museum"
+            }
+        },
+        {
+            "type": "way",
+            "id": 895746404,
+            "lat": 29.5480453,
+            "lon": -98.4354866,
+            "tags": {
+                "building": "yes",
+                "museum": "railway",
+                "name": "MC&SA #6",
+                "tourism": "museum"
+            }
+        },
+        {
+            "type": "way",
+            "id": 895746405,
+            "lat": 29.5477854,
+            "lon": -98.43525,
+            "tags": {
+                "building": "yes",
+                "museum": "railway",
+                "name": "Party Caboose",
+                "tourism": "museum"
+            }
+        },
+        {
+            "type": "way",
+            "id": 895746406,
+            "lat": 29.5476932,
+            "lon": -98.4351702,
+            "tags": {
+                "building": "yes",
+                "museum": "railway",
+                "name": "Union Pacific Caboose",
+                "tourism": "museum"
+            }
+        },
+        {
+            "type": "way",
+            "id": 1016448804,
+            "lat": 29.463312,
+            "lon": -98.4477835,
+            "tags": {
+                "building": "yes",
+                "name": "Army Medical Museum",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/AMEDD_Regimental_Flag.jpg/1280px-AMEDD_Regimental_Flag.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 1032723529,
+            "lat": 29.4521644,
+            "lon": -98.6992815,
+            "tags": {
+                "name": "Texas Stingray",
+                "operator": "SeaWorld San Antonio",
+                "tourism": "attraction",
+                "wikidata": "Q81772169",
+                "wikipedia": "en:Texas Stingray"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/af/Texas_Stingray_roller_coaster_logo.png",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 1032723531,
+            "lat": 29.4516064,
+            "lon": -98.6986064,
+            "tags": {
+                "name": "Texas Stingray",
+                "operator": "SeaWorld San Antonio",
+                "tourism": "attraction",
+                "wikidata": "Q81772169",
+                "wikipedia": "en:Texas Stingray"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/af/Texas_Stingray_roller_coaster_logo.png",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 1032723534,
+            "lat": 29.451814,
+            "lon": -98.6990265,
+            "tags": {
+                "name": "Texas Stingray",
+                "operator": "SeaWorld San Antonio",
+                "tourism": "attraction",
+                "wikidata": "Q81772169",
+                "wikipedia": "en:Texas Stingray"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/af/Texas_Stingray_roller_coaster_logo.png",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 1032723536,
+            "lat": 29.4516689,
+            "lon": -98.6986194,
+            "tags": {
+                "name": "Texas Stingray",
+                "operator": "SeaWorld San Antonio",
+                "tourism": "attraction",
+                "wikidata": "Q81772169",
+                "wikipedia": "en:Texas Stingray"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/af/Texas_Stingray_roller_coaster_logo.png",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 1073612408,
+            "lat": 29.4512099,
+            "lon": -98.5244551,
+            "tags": {
+                "name": "Air Castles",
+                "tourism": "theme_park"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Bexar_County_Courthouse_2015.jpg/1280px-Bexar_County_Courthouse_2015.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 1093984733,
+            "lat": 29.4623355,
+            "lon": -98.4729811,
+            "tags": {
+                "addr:city": "San Antonio",
+                "addr:housenumber": "3903",
+                "addr:postcode": "78212",
+                "addr:state": "TX",
+                "addr:street": "North Saint Mary's Street",
+                "name": "Kiddie Park",
+                "opening_hours": "Mo-Sa 09:00-17:00, Sa,Su 09:00-19:00",
+                "tourism": "theme_park",
+                "website": "https://www.kiddiepark.com/",
+                "wheelchair": "yes"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a5/San_Antonio_Zoo_entrance_-Texas_-USA-9Mar2009.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 1115624165,
+            "lat": 29.4625188,
+            "lon": -98.4667022,
+            "tags": {
+                "addr:city": "San Antonio",
+                "addr:housenumber": "3801",
+                "addr:postcode": "78209",
+                "addr:state": "TX",
+                "addr:street": "Broadway",
+                "building": "yes",
+                "name": "The Witte Museum",
+                "opening_hours": "Mo, We-Sa 10:00-17:00; Tu 10:00-20:00, Su 12:00-17:00",
+                "tourism": "museum",
+                "website": "https://www.wittemuseum.org/",
+                "wikidata": "Q14711412"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Brackenridge_Park_Bridge%2C_San_Antonio%2C_TX.jpg/1280px-Brackenridge_Park_Bridge%2C_San_Antonio%2C_TX.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 1178482349,
+            "lat": 29.5495503,
+            "lon": -98.4388026,
+            "tags": {
+                "building": "yes",
+                "name": "Western Town",
+                "operator": "Texas Transportation Museum",
+                "operator:type": "charitable",
+                "tourism": "museum"
+            }
+        },
+        {
+            "type": "way",
+            "id": 1274314626,
+            "lat": 29.4257599,
+            "lon": -98.4851649,
+            "tags": {
+                "building": "museum",
+                "name": "Ralston Family Collections Center",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Alamo_Plaza.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 1295552496,
+            "lat": 29.3395654,
+            "lon": -98.475851,
+            "tags": {
+                "name": "Texas Air Museum, Stinson Chapter",
+                "tourism": "museum",
+                "website": "https://www.texasairmuseum.org/"
+            }
+        },
+        {
+            "type": "way",
+            "id": 1344880055,
+            "lat": 0.023362,
+            "lon": -78.4810616,
+            "tags": {
+                "building": "service",
+                "building:levels": "2",
+                "height": "7",
+                "layer": "1",
+                "museum": "museo",
+                "name": "Museo Templo del Sol \"Pintor Cristobal Ortega Maila\"",
+                "tourism": "museum"
+            }
+        },
+        {
+            "type": "way",
+            "id": 1417400989,
+            "lat": 29.5972176,
+            "lon": -98.6097733,
+            "tags": {
+                "attraction": "teacup",
+                "name": "Kinderstein",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Kiddee_Koaster_at_Fiesta_Texas.jpg/1280px-Kiddee_Koaster_at_Fiesta_Texas.jpg",
+            "image_source": "wikipedia_verified"
+        }
+    ]
+}

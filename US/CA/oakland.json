@@ -1,0 +1,1539 @@
+{
+    "city_metadata": {
+        "city_name": "Oakland",
+        "state_code": "CA",
+        "state_full": "California",
+        "city_summary": "Oakland is a city in the East Bay region of the San Francisco Bay Area in the U.S. state of California. It is the county seat of and the most populous city in Alameda County, California, with a population of 440,646 in 2020. A major West Coast port, Oakland is the most populous city in the East Bay, the third most populous city in the Bay Area, and the eighth most populous city in California.",
+        "city_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/OAKLAND%2C_CA%2C_USA_-_Skyline_and_Bridge_%28cropped%29.JPG/1280px-OAKLAND%2C_CA%2C_USA_-_Skyline_and_Bridge_%28cropped%29.JPG",
+        "city_lat": 37.80444444,
+        "city_lon": -122.27083333,
+        "source": "wikipedia_verified_engine"
+    },
+    "attractions": [
+        {
+            "type": "node",
+            "id": 212294398,
+            "lat": 37.7494794,
+            "lon": -122.1449218,
+            "tags": {
+                "name": "Adventure Landing",
+                "tourism": "theme_park"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Oakland_Zoo_entrance.jpg/1280px-Oakland_Zoo_entrance.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 367089578,
+            "lat": 41.3097186,
+            "lon": -95.3970748,
+            "tags": {
+                "addr:state": "IA",
+                "contact:facebook": "https://www.facebook.com/Nishnamuseum/",
+                "ele": "335",
+                "gnis:feature_id": "1949391",
+                "name": "Nishna Heritage Museum",
+                "source": "USGS Geonames",
+                "tourism": "museum",
+                "website": "https://oaklandhistoricalsociety.wordpress.com/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Downtown_Oakland%2C_Iowa.jpg/1280px-Downtown_Oakland%2C_Iowa.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 558566894,
+            "lat": 37.809192,
+            "lon": -122.2837241,
+            "tags": {
+                "addr:housenumber": "1034",
+                "addr:street": "14th Street",
+                "name": "Ebony Museum Of Art",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Beth_Eden_Baptist_Church_in_Oakland%2C_California_%28cropped%29.png",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 1064600797,
+            "lat": 37.8061524,
+            "lon": -122.276398,
+            "tags": {
+                "name": "African American Museum and Library at Oakland",
+                "tourism": "museum",
+                "wikidata": "Q4689671",
+                "wikipedia": "en:African American Museum and Library at Oakland"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/45/African_American_Museum_and_Library_at_Oakland_%282008%29.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 1233090415,
+            "lat": 37.7871296,
+            "lon": -122.217453,
+            "tags": {
+                "name": "Peralta Hacienda Historical",
+                "tourism": "museum",
+                "website": "https://www.peraltahacienda.org/",
+                "wikidata": "Q30258057"
+            }
+        },
+        {
+            "type": "node",
+            "id": 2007233086,
+            "lat": 37.751381,
+            "lon": -122.1468787,
+            "tags": {
+                "attraction": "animal",
+                "name": "Zebra",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Oakland_Zoo_entrance.jpg/1280px-Oakland_Zoo_entrance.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 2007236631,
+            "lat": 37.7507944,
+            "lon": -122.1467619,
+            "tags": {
+                "attraction": "animal",
+                "name": "Hyena",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Oakland_Zoo_entrance.jpg/1280px-Oakland_Zoo_entrance.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 2007238376,
+            "lat": 37.7509342,
+            "lon": -122.1463681,
+            "tags": {
+                "attraction": "animal",
+                "name": "Slender-Tailed Meerkat",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Oakland_Zoo_entrance.jpg/1280px-Oakland_Zoo_entrance.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 2007240037,
+            "lat": 37.7505714,
+            "lon": -122.1456573,
+            "tags": {
+                "attraction": "animal",
+                "name": "Bird's House",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Oakland_Zoo_entrance.jpg/1280px-Oakland_Zoo_entrance.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 2007246611,
+            "lat": 37.7503107,
+            "lon": -122.1457621,
+            "tags": {
+                "attraction": "animal",
+                "name": "Giraffes, Common Eland, Egyptian Goose",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Oakland_Zoo_entrance.jpg/1280px-Oakland_Zoo_entrance.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 2007250832,
+            "lat": 37.7504998,
+            "lon": -122.1466413,
+            "tags": {
+                "attraction": "animal",
+                "name": "Warthogs",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Oakland_Zoo_entrance.jpg/1280px-Oakland_Zoo_entrance.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 2007252859,
+            "lat": 37.7505321,
+            "lon": -122.1471812,
+            "tags": {
+                "attraction": "animal",
+                "name": "Hamadryas Baboons",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Oakland_Zoo_entrance.jpg/1280px-Oakland_Zoo_entrance.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 2007272370,
+            "lat": 37.7495466,
+            "lon": -122.1479676,
+            "tags": {
+                "attraction": "animal",
+                "name": "Lemurs",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Oakland_Zoo_entrance.jpg/1280px-Oakland_Zoo_entrance.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 2007274615,
+            "lat": 37.7499497,
+            "lon": -122.1479586,
+            "tags": {
+                "attraction": "animal",
+                "name": "Alligators",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Oakland_Zoo_entrance.jpg/1280px-Oakland_Zoo_entrance.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 2007276986,
+            "lat": 37.749749,
+            "lon": -122.1476899,
+            "tags": {
+                "attraction": "animal",
+                "name": "Otters",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Oakland_Zoo_entrance.jpg/1280px-Oakland_Zoo_entrance.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 2007281636,
+            "lat": 37.750357,
+            "lon": -122.1481091,
+            "tags": {
+                "attraction": "animal",
+                "name": "Pot Belly Pig",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Oakland_Zoo_entrance.jpg/1280px-Oakland_Zoo_entrance.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 2007342564,
+            "lat": 37.7494141,
+            "lon": -122.1459833,
+            "tags": {
+                "attraction": "animal",
+                "name": "Blue and Gold Macaw",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Oakland_Zoo_entrance.jpg/1280px-Oakland_Zoo_entrance.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 2007704893,
+            "lat": 37.7504469,
+            "lon": -122.1480369,
+            "tags": {
+                "attraction": "animal",
+                "name": "Guinea Hog",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Oakland_Zoo_entrance.jpg/1280px-Oakland_Zoo_entrance.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 2007792376,
+            "lat": 37.7498975,
+            "lon": -122.1469364,
+            "tags": {
+                "attraction": "animal",
+                "name": "Rainforest Aviary",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Oakland_Zoo_entrance.jpg/1280px-Oakland_Zoo_entrance.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 2007796328,
+            "lat": 37.7496999,
+            "lon": -122.1465597,
+            "tags": {
+                "attraction": "animal",
+                "name": "Chimpanzee",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Oakland_Zoo_entrance.jpg/1280px-Oakland_Zoo_entrance.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 2007796329,
+            "lat": 37.749904,
+            "lon": -122.1466872,
+            "tags": {
+                "attraction": "animal",
+                "name": "Squirrel Monkeys",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Oakland_Zoo_entrance.jpg/1280px-Oakland_Zoo_entrance.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 2011841131,
+            "lat": 37.7489436,
+            "lon": -122.1479222,
+            "tags": {
+                "attraction": "animal",
+                "name": "Emu",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Oakland_Zoo_entrance.jpg/1280px-Oakland_Zoo_entrance.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 2011841132,
+            "lat": 37.7486942,
+            "lon": -122.1475999,
+            "tags": {
+                "attraction": "animal",
+                "name": "Wallaroo",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Oakland_Zoo_entrance.jpg/1280px-Oakland_Zoo_entrance.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 2011882711,
+            "lat": 37.7483339,
+            "lon": -122.1460338,
+            "tags": {
+                "attraction": "animal",
+                "name": "Muntjac",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Oakland_Zoo_entrance.jpg/1280px-Oakland_Zoo_entrance.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 2011882715,
+            "lat": 37.7485191,
+            "lon": -122.1461096,
+            "tags": {
+                "attraction": "animal",
+                "name": "Sika Deer",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Oakland_Zoo_entrance.jpg/1280px-Oakland_Zoo_entrance.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 2011882718,
+            "lat": 37.7487422,
+            "lon": -122.1465798,
+            "tags": {
+                "attraction": "animal",
+                "name": "Sun Bear",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Oakland_Zoo_entrance.jpg/1280px-Oakland_Zoo_entrance.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 2011888027,
+            "lat": 37.7496295,
+            "lon": -122.1483908,
+            "tags": {
+                "attraction": "animal",
+                "name": "Bat Exhibit",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Oakland_Zoo_entrance.jpg/1280px-Oakland_Zoo_entrance.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 2011928936,
+            "lat": 37.7505774,
+            "lon": -122.1449383,
+            "tags": {
+                "attraction": "animal",
+                "name": "Camel",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Oakland_Zoo_entrance.jpg/1280px-Oakland_Zoo_entrance.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 2011946652,
+            "lat": 37.7510767,
+            "lon": -122.1461537,
+            "tags": {
+                "attraction": "animal",
+                "name": "Aviary",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Oakland_Zoo_entrance.jpg/1280px-Oakland_Zoo_entrance.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 2011948347,
+            "lat": 37.7508214,
+            "lon": -122.1465516,
+            "tags": {
+                "attraction": "animal",
+                "name": "Velvet Monkey",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Oakland_Zoo_entrance.jpg/1280px-Oakland_Zoo_entrance.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 2011954171,
+            "lat": 37.7516077,
+            "lon": -122.1463204,
+            "tags": {
+                "attraction": "animal",
+                "name": "Elephant",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Oakland_Zoo_entrance.jpg/1280px-Oakland_Zoo_entrance.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 2011954174,
+            "lat": 37.7508694,
+            "lon": -122.1454405,
+            "tags": {
+                "attraction": "animal",
+                "name": "Lion",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Oakland_Zoo_entrance.jpg/1280px-Oakland_Zoo_entrance.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 2011969834,
+            "lat": 37.7496463,
+            "lon": -122.1456049,
+            "tags": {
+                "attraction": "animal",
+                "name": "Tiger",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Oakland_Zoo_entrance.jpg/1280px-Oakland_Zoo_entrance.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 2011973592,
+            "lat": 37.7500513,
+            "lon": -122.1474181,
+            "tags": {
+                "attraction": "animal",
+                "name": "Rabbits",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Oakland_Zoo_entrance.jpg/1280px-Oakland_Zoo_entrance.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 2140741589,
+            "lat": 37.749707,
+            "lon": -122.144859,
+            "tags": {
+                "attraction": "carousel",
+                "name": "Red Baron",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Oakland_Zoo_entrance.jpg/1280px-Oakland_Zoo_entrance.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 3078414081,
+            "lat": 37.7429269,
+            "lon": -122.1411054,
+            "tags": {
+                "name": "Dunsmuir House and Gardens",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/da/Dunsmuir-house.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 3931265731,
+            "lat": 37.7981283,
+            "lon": -122.2639813,
+            "tags": {
+                "name": "Friday Nights @ OMCA with Off the Grid",
+                "opening_hours": "Apr-Oct: Fr 17:00-21:00",
+                "tourism": "attraction",
+                "website": "https://museumca.org/friday-nights-omca"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Sign_outside_the_Oakland_Museum_of_California.jpg/1280px-Sign_outside_the_Oakland_Museum_of_California.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 3934330594,
+            "lat": 37.7797914,
+            "lon": -122.2281853,
+            "tags": {
+                "name": "Cohen Bray House",
+                "source": "Bing",
+                "tourism": "museum",
+                "website": "https://www.cohenbrayhouse.org/"
+            }
+        },
+        {
+            "type": "node",
+            "id": 3946662772,
+            "lat": 37.8019816,
+            "lon": -122.274411,
+            "tags": {
+                "addr:city": "Oakland",
+                "addr:housenumber": "921",
+                "addr:postcode": "94607",
+                "addr:state": "CA",
+                "addr:street": "Washington Street",
+                "check_date": "2023-03-12",
+                "name": "The Museum of Art and Digital Entertainment",
+                "name:en": "The MADE",
+                "operator": "The Museum of Art and Digital Entertainment",
+                "tourism": "museum",
+                "website": "https://themade.org/",
+                "wikidata": "Q6940761",
+                "wikipedia": "en:Museum of Art and Digital Entertainment"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/MADE_Logo.svg/1280px-MADE_Logo.svg.png",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 4306821004,
+            "lat": 37.7491536,
+            "lon": -122.1464854,
+            "tags": {
+                "attraction": "animal",
+                "name": "Coatimumdi",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Oakland_Zoo_entrance.jpg/1280px-Oakland_Zoo_entrance.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 4306821005,
+            "lat": 37.7490756,
+            "lon": -122.1464736,
+            "tags": {
+                "attraction": "animal",
+                "name": "Cotton Topped Tamarin",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Oakland_Zoo_entrance.jpg/1280px-Oakland_Zoo_entrance.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 4438569695,
+            "lat": 37.8085466,
+            "lon": -122.2599504,
+            "tags": {
+                "name": "Pinocchio's Castle",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Fairyland_shoe_entrance.jpg/1280px-Fairyland_shoe_entrance.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 4438569696,
+            "lat": 37.8085619,
+            "lon": -122.2598311,
+            "tags": {
+                "name": "Peter Rabbit's Village",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Fairyland_shoe_entrance.jpg/1280px-Fairyland_shoe_entrance.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 4438616516,
+            "lat": 37.8086587,
+            "lon": -122.2601134,
+            "tags": {
+                "name": "Willie the Whale",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Fairyland_shoe_entrance.jpg/1280px-Fairyland_shoe_entrance.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 4438616527,
+            "lat": 37.8089466,
+            "lon": -122.2605986,
+            "tags": {
+                "name": "Three Billy Goats Gruff",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Fairyland_shoe_entrance.jpg/1280px-Fairyland_shoe_entrance.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 4438616542,
+            "lat": 37.8091002,
+            "lon": -122.2608293,
+            "tags": {
+                "name": "Fairy Music Farm",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Fairyland_shoe_entrance.jpg/1280px-Fairyland_shoe_entrance.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 4438616564,
+            "lat": 37.8086939,
+            "lon": -122.2596249,
+            "tags": {
+                "name": "Rapunzel's Castle",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Fairyland_shoe_entrance.jpg/1280px-Fairyland_shoe_entrance.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 4438616565,
+            "lat": 37.8087474,
+            "lon": -122.2596042,
+            "tags": {
+                "name": "Hey, Diddle Diddle",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Fairyland_shoe_entrance.jpg/1280px-Fairyland_shoe_entrance.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 4438616566,
+            "lat": 37.8087946,
+            "lon": -122.259865,
+            "tags": {
+                "name": "Little Miss Muffet",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Fairyland_shoe_entrance.jpg/1280px-Fairyland_shoe_entrance.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 4438616568,
+            "lat": 37.8089323,
+            "lon": -122.2599917,
+            "tags": {
+                "name": "Oswald the Bubble Elf",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Fairyland_shoe_entrance.jpg/1280px-Fairyland_shoe_entrance.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 4438616569,
+            "lat": 37.8088756,
+            "lon": -122.2599508,
+            "tags": {
+                "name": "Ching Lung the Happy Dragon",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Fairyland_shoe_entrance.jpg/1280px-Fairyland_shoe_entrance.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 4438616570,
+            "lat": 37.8088417,
+            "lon": -122.2600219,
+            "tags": {
+                "name": "The Three Little Pigs",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Fairyland_shoe_entrance.jpg/1280px-Fairyland_shoe_entrance.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 4438616571,
+            "lat": 37.8089292,
+            "lon": -122.2597819,
+            "tags": {
+                "name": "Mary Had a Little Lamb",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Fairyland_shoe_entrance.jpg/1280px-Fairyland_shoe_entrance.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 5826815932,
+            "lat": 37.7518384,
+            "lon": -122.1404044,
+            "tags": {
+                "attraction": "animal",
+                "name": "Bison",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Knowland_Park_in_Oakland_California.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 5826815933,
+            "lat": 37.7515489,
+            "lon": -122.1392772,
+            "tags": {
+                "attraction": "animal",
+                "name": "Black Bear",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Knowland_Park_in_Oakland_California.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 5826815934,
+            "lat": 37.7534496,
+            "lon": -122.1388232,
+            "tags": {
+                "attraction": "animal",
+                "name": "California Condor",
+                "note": "approximate location",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Knowland_Park_in_Oakland_California.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 5826815935,
+            "lat": 37.7532916,
+            "lon": -122.1392765,
+            "tags": {
+                "attraction": "animal",
+                "name": "Eagle",
+                "note": "approximate location",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Knowland_Park_in_Oakland_California.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 5826815936,
+            "lat": 37.7489811,
+            "lon": -122.1458289,
+            "tags": {
+                "attraction": "animal",
+                "name": "Flamingo",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Oakland_Zoo_entrance.jpg/1280px-Oakland_Zoo_entrance.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 5826815937,
+            "lat": 37.7496189,
+            "lon": -122.1460858,
+            "tags": {
+                "attraction": "animal",
+                "name": "Gibbon",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Oakland_Zoo_entrance.jpg/1280px-Oakland_Zoo_entrance.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 5826815938,
+            "lat": 37.7536791,
+            "lon": -122.1384625,
+            "tags": {
+                "attraction": "animal",
+                "name": "Gray Wolf",
+                "note": "approximate location",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Knowland_Park_in_Oakland_California.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 5826815939,
+            "lat": 37.752271,
+            "lon": -122.1391149,
+            "tags": {
+                "attraction": "animal",
+                "name": "Grizzly Bear",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Knowland_Park_in_Oakland_California.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 5826815940,
+            "lat": 37.7531071,
+            "lon": -122.1382412,
+            "tags": {
+                "attraction": "animal",
+                "name": "Jaguar",
+                "note": "approximate location",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Knowland_Park_in_Oakland_California.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 5826815941,
+            "lat": 37.7516699,
+            "lon": -122.1381188,
+            "tags": {
+                "attraction": "animal",
+                "name": "Mountain Lion",
+                "note": "approximate location",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Knowland_Park_in_Oakland_California.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 5826815942,
+            "lat": 37.7493485,
+            "lon": -122.1463949,
+            "tags": {
+                "attraction": "animal",
+                "name": "Siamang",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Oakland_Zoo_entrance.jpg/1280px-Oakland_Zoo_entrance.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 5826815943,
+            "lat": 37.749645,
+            "lon": -122.1447334,
+            "tags": {
+                "attraction": "roller_coaster",
+                "name": "Tiger Trek",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Oakland_Zoo_entrance.jpg/1280px-Oakland_Zoo_entrance.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 6304043969,
+            "lat": 37.8023693,
+            "lon": -122.2612388,
+            "tags": {
+                "attraction": "boat_ride",
+                "name": "Gondola Servizio",
+                "tourism": "attraction",
+                "website": "https://gondolaservizio.com/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Cameron-Stanford_House_%28Oakland%2C_CA%29.JPG/1280px-Cameron-Stanford_House_%28Oakland%2C_CA%29.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 7566907154,
+            "lat": 44.5474989,
+            "lon": -69.7196314,
+            "tags": {
+                "addr:city": "Oakland",
+                "addr:housenumber": "7",
+                "addr:postcode": "04963",
+                "addr:state": "ME",
+                "addr:street": "Railroad Avenue",
+                "name": "Oakland historical artifacts & photo museum",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/22/Oakland_Public_Library%2C_Oakland%2C_ME.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 7566918810,
+            "lat": 44.5482049,
+            "lon": -69.7153267,
+            "tags": {
+                "addr:city": "Oakland",
+                "addr:housenumber": "25",
+                "addr:postcode": "04963",
+                "addr:state": "ME",
+                "addr:street": "Main Street",
+                "name": "Mc Cartney House Museum",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/22/Oakland_Public_Library%2C_Oakland%2C_ME.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 10028418263,
+            "lat": 37.8184631,
+            "lon": -122.1806867,
+            "tags": {
+                "addr:city": "Oakland",
+                "addr:housenumber": "10000",
+                "addr:state": "CA",
+                "addr:street": "Skyline Boulevard",
+                "fee": "yes",
+                "name": "Chabot Space and Science Center",
+                "old_name": "Chabot Observatory and Science Center",
+                "tourism": "museum",
+                "website": "https://chabotspace.org/",
+                "wikidata": "Q5066015",
+                "wikipedia": "en:Chabot Space and Science Center"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Chabot_SSC_entrance.jpg/1280px-Chabot_SSC_entrance.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 11504046286,
+            "lat": 37.7833129,
+            "lon": -122.1818531,
+            "tags": {
+                "addr:city": "Oakland",
+                "addr:housenumber": "5000",
+                "addr:postcode": "94613",
+                "addr:state": "CA",
+                "addr:street": "MacArthur Boulevard",
+                "email": "millsartmuseum@northeastern.edu",
+                "museum": "art",
+                "name": "Mills College Art Museum",
+                "opening_hours": "Tu-Su 11:00-16:00, We 11:00-19:30",
+                "operator": "Northeastern University Mills College",
+                "operator:type": "university",
+                "phone": "+1-510-430-2164",
+                "tourism": "museum",
+                "website": "https://mcam.mills.edu/"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11540615450,
+            "lat": 37.805109,
+            "lon": -122.270908,
+            "tags": {
+                "addr:city": "Oakland",
+                "addr:housenumber": "1427",
+                "addr:state": "CA",
+                "addr:street": "Broadway",
+                "fee": "no",
+                "name": "Black Panther Party Museum",
+                "old_name": "Dr. Huey P. Newton Center for Research and Action",
+                "opening_hours": "We-Sa 10:00-15:00",
+                "operator": "Dr. Huey P. Newton Foundation",
+                "tourism": "museum",
+                "website": "https://hueypnewtonfoundation.org/black-panther-party-museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Oak_Cathdrl_1.jpg/1280px-Oak_Cathdrl_1.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 12280059353,
+            "lat": 37.8316605,
+            "lon": -122.2443516,
+            "tags": {
+                "name": "Mountain View Cemetery Docent Tours",
+                "opening_hours": "Sa[2,4] 10:00-12:00",
+                "tourism": "attraction",
+                "website": "https://www.mountainviewcemetery.org/friends/docent-tours"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Chapel-chimes_%2819045532981%29.jpg/1280px-Chapel-chimes_%2819045532981%29.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 12366102211,
+            "lat": 28.556637,
+            "lon": -81.6405074,
+            "tags": {
+                "name": "Bird Feeder",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 12837139728,
+            "lat": 41.0182933,
+            "lon": -74.2576894,
+            "tags": {
+                "leaf_cycle": "deciduous",
+                "leaf_type": "broadleaved",
+                "name": "Great Oak Tree",
+                "natural": "tree",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 13527361189,
+            "lat": 37.8014698,
+            "lon": -122.2743152,
+            "tags": {
+                "addr:city": "Oakland",
+                "addr:housenumber": "902",
+                "addr:street": "Washington Street",
+                "name": "Sneaker Museum",
+                "tourism": "museum",
+                "website": "https://www.sneakermuseumoakland.org/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Oldoakland02262006.JPG/1280px-Oldoakland02262006.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 24026035,
+            "lat": 37.8792009,
+            "lon": -122.2466936,
+            "tags": {
+                "addr:housenumber": "1",
+                "addr:postcode": "94720",
+                "addr:state": "CA",
+                "addr:street": "Centennial Drive",
+                "building": "museum",
+                "contact:facebook": "LawrenceHallofScience",
+                "contact:instagram": "lawrencehallofscience",
+                "ele": "353",
+                "gnis:feature_id": "1676020",
+                "museum": "science",
+                "name": "Lawrence Hall of Science",
+                "opening_hours": "Mo-Su 10:00-17:00",
+                "source": "USGS Geonames",
+                "tourism": "museum",
+                "website": "https://www.lawrencehallofscience.org/",
+                "wheelchair": "yes",
+                "wikidata": "Q14683059",
+                "wikimedia_commons": "Category:Lawrence Hall of Science",
+                "wikipedia": "en:Lawrence Hall of Science"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/ec/The_Lawrence_Hall_of_Science_logo.png",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 25169933,
+            "lat": 37.8087589,
+            "lon": -122.2602553,
+            "tags": {
+                "addr:housenumber": "699",
+                "area": "yes",
+                "barrier": "fence",
+                "contact:facebook": "https://www.facebook.com/ChildrensFairyland",
+                "contact:instagram": "https://www.instagram.com/fairylandca/",
+                "contact:twitter": "https://twitter.com/fairylandca",
+                "name": "Children's Fairyland",
+                "phone": "+1-510-452-2259",
+                "tourism": "theme_park",
+                "website": "https://www.fairyland.org/",
+                "wheelchair": "limited",
+                "wikidata": "Q5098081"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Fairyland_shoe_entrance.jpg/1280px-Fairyland_shoe_entrance.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 25347777,
+            "lat": 37.8014439,
+            "lon": -122.2621892,
+            "tags": {
+                "addr:housenumber": "1418",
+                "building": "house",
+                "check_date:opening_hours": "2024-11-05",
+                "contact:website": "https://cshouse.org/",
+                "fee": "yes",
+                "gnis:feature_id": "1661730",
+                "historic": "house",
+                "name": "Camron-Stanford House",
+                "opening_hours": "Su 11:00-15:00",
+                "start_date": "1876",
+                "tourism": "museum",
+                "wheelchair": "limited",
+                "wikidata": "Q60750538"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Cameron-Stanford_House_%28Oakland%2C_CA%29.JPG/1280px-Cameron-Stanford_House_%28Oakland%2C_CA%29.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 37013153,
+            "lat": 37.8063658,
+            "lon": -122.2566135,
+            "tags": {
+                "alt_name": "Junior Center of Arts & Science",
+                "building": "yes",
+                "name": "Junior Center of Art and Science",
+                "tourism": "museum",
+                "website": "https://www.juniorcenter.org/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Women%27s_Athletic_Club_of_Alameda_County_03.jpg/1280px-Women%27s_Athletic_Club_of_Alameda_County_03.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 37013177,
+            "lat": 37.8071471,
+            "lon": -122.2559646,
+            "tags": {
+                "building": "yes",
+                "check_date:opening_hours": "2024-04-03",
+                "name": "Rotary Nature Center (Closed for renovation)",
+                "opening_hours:signed": "no",
+                "tourism": "museum",
+                "website": "http://www2.oaklandnet.com/Government/o/opr/s/RotaryNatureCenter/index.htm"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Women%27s_Athletic_Club_of_Alameda_County_03.jpg/1280px-Women%27s_Athletic_Club_of_Alameda_County_03.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 87083433,
+            "lat": 39.4098474,
+            "lon": -79.4089209,
+            "tags": {
+                "addr:city": "Oakland",
+                "addr:housenumber": "117",
+                "addr:postcode": "21550",
+                "addr:state": "MD",
+                "addr:street": "East Liberty Street",
+                "building": "train_station",
+                "name": "Baltimore and Ohio Railroad Station",
+                "old_name": "Oakland",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/LibertyStreet_OaklandMD_2577.jpg/1280px-LibertyStreet_OaklandMD_2577.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 154966215,
+            "lat": 37.8060553,
+            "lon": -122.2770321,
+            "tags": {
+                "addr:housenumber": "672",
+                "addr:street": "13th Street",
+                "building": "detached",
+                "name": "Thornton House",
+                "name_1": "Urban Strategies Council",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/8b/1stUnitarianChurch_OaklandCA.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 154966219,
+            "lat": 37.8048029,
+            "lon": -122.2778699,
+            "tags": {
+                "addr:state": "CA",
+                "ele": "11",
+                "gnis:feature_id": "1693048",
+                "heritage": "2",
+                "leisure": "garden",
+                "name": "Pardee Home Museum",
+                "source": "USGS Geonames",
+                "tourism": "museum",
+                "website": "https://pardeehome.org/",
+                "wikidata": "Q7136531"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/6b/PardeeHouse_OaklandCA.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 170937280,
+            "lat": 37.7953385,
+            "lon": -122.2801063,
+            "tags": {
+                "addr:city": "Oakland",
+                "addr:housenumber": "540",
+                "addr:postcode": "94607",
+                "addr:state": "CA",
+                "addr:street": "Water Street",
+                "building": "ship",
+                "description": "Potomac was a major symbol of FDR's presidency during 1936-45; briefings, meetings, and decisions were made on board, and she provided transportation to a rendezvous with Winston Churchill to arrange the Atlantic Charter in 1940. Formerly USCGC Electra.",
+                "ele": "00",
+                "gnis:feature_id": "2559456",
+                "heritage": "2",
+                "heritage:operator": "nrhp",
+                "heritage:website": "https://www.nps.gov/subjects/nationalregister/index.htm",
+                "historic": "ship",
+                "museum": "military",
+                "name": "USS Potomac",
+                "nrhp:criteria": "(A)",
+                "nrhp:inscription_date": "1987-02-20",
+                "nrhp:nhl": "yes",
+                "old_name": "USCGC Electra",
+                "protection_title": "The Potomac Association",
+                "ref": "AG-25",
+                "ref:nrhp": "87000068",
+                "ship:type": "cutter",
+                "source_ref": "https://catalog.archives.gov/id/75611912",
+                "start_date": "1934",
+                "tourism": "museum",
+                "website": "https://www.usspotomac.org/history/",
+                "wikidata": "Q3547436",
+                "wikipedia": "en:USS Potomac (AG-25)"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Uss-potomac-at-oakland.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 170937282,
+            "lat": 37.7956928,
+            "lon": -122.2806207,
+            "tags": {
+                "addr:city": "Oakland",
+                "addr:postcode": "94607",
+                "addr:state": "CA",
+                "addr:street": "Jack London Square",
+                "alt_name": "Lightship WAL-605, Relief",
+                "building": "ship",
+                "heritage": "2",
+                "heritage:operator": "nrhp",
+                "heritage:website": "https://www.nps.gov/subjects/nationalregister/index.htm",
+                "historic": "ship",
+                "name": "Lightship Relief",
+                "nrhp:criteria": "(A)",
+                "nrhp:inscription_date": "1989-12-20",
+                "nrhp:nhl": "yes",
+                "protection_title": "Add Title",
+                "ref": "WLV-605",
+                "ref:nrhp": "89002462",
+                "ship:type": "lightship",
+                "source_ref": "Source",
+                "start_date": "1950",
+                "tourism": "museum",
+                "website": "http://www.uslightshiprelief.org/",
+                "wikidata": "Q7892546",
+                "wikipedia": "en:United States lightship Relief (WLV-605)"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Lightship_Relief_%28Oakland%2C_CA%29.JPG/1280px-Lightship_Relief_%28Oakland%2C_CA%29.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 190531367,
+            "lat": 37.7495372,
+            "lon": -122.1451673,
+            "tags": {
+                "attraction": "train",
+                "building": "train_station",
+                "name": "Outback Express Adventure Train",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Oakland_Zoo_entrance.jpg/1280px-Oakland_Zoo_entrance.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 221589153,
+            "lat": 37.750747,
+            "lon": -122.1439632,
+            "tags": {
+                "addr:housenumber": "9777",
+                "contact:website": "https://www.oaklandzoo.org/",
+                "name": "Oakland Zoo",
+                "note": "approximate boundaries",
+                "opening_hours": "Mo-Fr 10:00-16:30; Sa-Su 9:30-16:30",
+                "tourism": "zoo",
+                "wikidata": "Q2008530"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Oakland_Zoo_entrance.jpg/1280px-Oakland_Zoo_entrance.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 415116944,
+            "lat": 37.7429883,
+            "lon": -122.1411153,
+            "tags": {
+                "building": "historic",
+                "museum": "history",
+                "name": "Dunsmuir House",
+                "source": "Bing",
+                "tourism": "museum",
+                "wikidata": "Q5315691"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/da/Dunsmuir-house.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 446616710,
+            "lat": 37.8081233,
+            "lon": -122.2609039,
+            "tags": {
+                "building": "yes",
+                "building:levels": "2",
+                "name": "Old West Junction",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Fairyland_shoe_entrance.jpg/1280px-Fairyland_shoe_entrance.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 446616734,
+            "lat": 37.8087053,
+            "lon": -122.2605088,
+            "tags": {
+                "building": "yes",
+                "layer": "1",
+                "name": "Noah's Ark",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Fairyland_shoe_entrance.jpg/1280px-Fairyland_shoe_entrance.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 446617511,
+            "lat": 37.8085588,
+            "lon": -122.2600811,
+            "tags": {
+                "name": "The Merry Miller Pond",
+                "natural": "water",
+                "tourism": "attraction",
+                "water": "pond"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Fairyland_shoe_entrance.jpg/1280px-Fairyland_shoe_entrance.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 446617529,
+            "lat": 37.8088694,
+            "lon": -122.2607349,
+            "tags": {
+                "name": "The Alice in Wonderland Tunnel",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Fairyland_shoe_entrance.jpg/1280px-Fairyland_shoe_entrance.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 446619543,
+            "lat": 37.8087808,
+            "lon": -122.260087,
+            "tags": {
+                "building": "yes",
+                "name": "Wishing Well",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Fairyland_shoe_entrance.jpg/1280px-Fairyland_shoe_entrance.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 446619545,
+            "lat": 37.809069,
+            "lon": -122.2607303,
+            "tags": {
+                "building": "yes",
+                "name": "The Chapel of Peace",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Fairyland_shoe_entrance.jpg/1280px-Fairyland_shoe_entrance.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 446619548,
+            "lat": 37.8089116,
+            "lon": -122.2609326,
+            "tags": {
+                "name": "Play Island",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Fairyland_shoe_entrance.jpg/1280px-Fairyland_shoe_entrance.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 446619551,
+            "lat": 37.8092265,
+            "lon": -122.2607406,
+            "tags": {
+                "building": "yes",
+                "name": "The Crooked Man's House",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Fairyland_shoe_entrance.jpg/1280px-Fairyland_shoe_entrance.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 666599941,
+            "lat": 37.7299866,
+            "lon": -122.2129126,
+            "tags": {
+                "building": "yes",
+                "name": "San Francisco Air Tours",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/05/BoeingSchoolxx_%285729224654%29.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 681668529,
+            "lat": 37.80537,
+            "lon": -122.2955689,
+            "tags": {
+                "area": "yes",
+                "name": "The Music They Played on 7th Street Oakland Walk of Fame",
+                "start_date": "2015",
+                "tourism": "attraction",
+                "website": "https://www.westcoastbluessociety.org/the-music-they-played-on-7th-stree"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Blue_Line_train_at_West_Oakland_station%2C_March_2025.jpg/1280px-Blue_Line_train_at_West_Oakland_station%2C_March_2025.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 971491396,
+            "lat": 39.4100206,
+            "lon": -79.4082353,
+            "tags": {
+                "addr:city": "Oakland",
+                "addr:housenumber": "108",
+                "addr:postcode": "21550",
+                "addr:state": "MD",
+                "addr:street": "East Liberty Street",
+                "building:part": "yes",
+                "email": "info@garrettcountymuseums.com",
+                "fee": "no",
+                "museum": "transport",
+                "name": "Garrett County Museum of Transportation",
+                "opening_hours": "We-Sa 10:00-15:00",
+                "operator": "Garrett County Historical Society",
+                "phone": "+1 301-334-3226",
+                "source": "esri/USA_NAD_Addresses",
+                "toilets": "yes",
+                "tourism": "museum",
+                "website": "https://garrettcountymuseums.org",
+                "wheelchair": "yes"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/LibertyStreet_OaklandMD_2577.jpg/1280px-LibertyStreet_OaklandMD_2577.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 971491397,
+            "lat": 39.4089218,
+            "lon": -79.408231,
+            "tags": {
+                "addr:city": "Oakland",
+                "addr:housenumber": "107",
+                "addr:postcode": "21550",
+                "addr:state": "MD",
+                "addr:street": "South 2nd Street",
+                "building": "yes",
+                "museum": "local_history",
+                "name": "Garrett County Historical Museum",
+                "operator": "Garrett County Historical Society",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Garrett_County_Courthouse.jpg/1280px-Garrett_County_Courthouse.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 998484446,
+            "lat": 37.7905264,
+            "lon": -122.247102,
+            "tags": {
+                "area": "yes",
+                "name": "Little Saigon",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/St_james_apostle_oakland.JPG/1280px-St_james_apostle_oakland.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 1185263099,
+            "lat": 41.0297307,
+            "lon": -74.236344,
+            "tags": {
+                "addr:housenumber": "474",
+                "addr:postcode": "07436",
+                "addr:street": "Ramapo Valley Road",
+                "building": "yes",
+                "building:levels": "2",
+                "name": "Oakland Historical Society",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/HENDRICK_VAN_ALLEN_HOUSE%2C_OAKLAND%2C_BERGEN_COUNTY%2C_NJ.jpg/1280px-HENDRICK_VAN_ALLEN_HOUSE%2C_OAKLAND%2C_BERGEN_COUNTY%2C_NJ.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 1293222528,
+            "lat": 37.7330934,
+            "lon": -122.2122176,
+            "tags": {
+                "museum": "aviation",
+                "name": "Oakland Aviation Museum",
+                "old_name": "Western Aerospace Museum",
+                "tourism": "museum",
+                "website": "https://www.oaklandaviationmuseum.org/",
+                "wikidata": "Q7073969",
+                "wikipedia": "en:Oakland Aviation Museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/BT-13An59842OAMdec08_%284418612013%29.jpg/1280px-BT-13An59842OAMdec08_%284418612013%29.jpg",
+            "image_source": "wikipedia_verified"
+        }
+    ]
+}

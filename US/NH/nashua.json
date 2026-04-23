@@ -1,0 +1,367 @@
+{
+    "city_metadata": {
+        "city_name": "Nashua",
+        "state_code": "NH",
+        "state_full": "New Hampshire",
+        "city_summary": "Nashua () is a city in southern New Hampshire, United States. As of the 2020 census, it had a population of 91,322, the second-largest in northern New England after nearby Manchester. It is one of two county seats of New Hampshire's most populous county, Hillsborough; the other being Manchester.",
+        "city_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Nashua_NH_Main_Street_50.JPG/1280px-Nashua_NH_Main_Street_50.JPG",
+        "city_lat": 42.7575,
+        "city_lon": -71.46444444,
+        "source": "wikipedia_verified_engine"
+    },
+    "attractions": [
+        {
+            "type": "node",
+            "id": 367089592,
+            "lat": 42.9588647,
+            "lon": -92.526573,
+            "tags": {
+                "addr:state": "IA",
+                "ele": "296",
+                "gnis:feature_id": "1948584",
+                "name": "Chickasaw County Museum",
+                "source": "USGS Geonames",
+                "tourism": "museum"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1696917362,
+            "lat": 42.7518006,
+            "lon": -71.4622241,
+            "tags": {
+                "name": "Labyrinth",
+                "tourism": "attraction",
+                "website": "http://www.nashualabyrinth.org/"
+            }
+        },
+        {
+            "type": "node",
+            "id": 4808460322,
+            "lat": 42.708509,
+            "lon": -71.5160458,
+            "tags": {
+                "addr:street": "Main Dunstable Road",
+                "name": "Yudicky Farm - Conservation Area",
+                "name:en": "Yudicky Farm - Conservation Area",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "way",
+            "id": 52733477,
+            "lat": 42.7143958,
+            "lon": -71.4432288,
+            "tags": {
+                "building": "yes",
+                "name": "District 1 Schoolhouse",
+                "tourism": "museum",
+                "website": "https://www.nashuaschoolhouse.com/"
+            }
+        },
+        {
+            "type": "way",
+            "id": 53786126,
+            "lat": 42.7159984,
+            "lon": -71.4420353,
+            "tags": {
+                "name": "Fun World",
+                "tourism": "theme_park",
+                "website": "http://www.funworldnh.com/",
+                "wikidata": "Q5508621"
+            }
+        },
+        {
+            "type": "way",
+            "id": 54528138,
+            "lat": 42.7140987,
+            "lon": -71.4409164,
+            "tags": {
+                "addr:city": "Nashua",
+                "addr:housenumber": "100",
+                "addr:postcode": "03060",
+                "addr:state": "NH",
+                "addr:street": "Adventure Way",
+                "building": "yes",
+                "leisure": "sports_centre",
+                "name": "SkyVenture",
+                "opening_hours": "Mo-Fr 11:00-21:00; Sa 10:00-21:00; Su 10:00-20:00 || \"sport activities start at 2 p.m.\"",
+                "phone": "+1-603-897-0002",
+                "sport": "surfing;parachuting",
+                "tourism": "attraction",
+                "website": "https://www.skyventurenh.com/"
+            }
+        },
+        {
+            "type": "way",
+            "id": 275399353,
+            "lat": 42.7664324,
+            "lon": -71.4684393,
+            "tags": {
+                "addr:city": "Nashua",
+                "addr:housenumber": "5",
+                "addr:postcode": "03064",
+                "addr:street": "Abbott Street",
+                "alt_name": "Florence H. Speare Memorial",
+                "building": "yes",
+                "name": "Nashua Historical Society",
+                "tourism": "museum",
+                "website": "https://www.nashuahistoricalsociety.org/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/8a/NashuaNH_AbbotHouse.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 21134,
+            "lat": 43.5,
+            "lon": -71.5,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Flag_of_New_Hampshire.svg/1280px-Flag_of_New_Hampshire.svg.png",
+            "description": "New Hampshire ( HAMP-shər) is a state in the New England region of the Northeastern United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "New Hampshire",
+                "wikipedia": "en:New Hampshire",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 19248011,
+            "lat": 42.763172,
+            "lon": -71.46444,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Nashua_Public_Library_Nov_2020.jpg/1280px-Nashua_Public_Library_Nov_2020.jpg",
+            "description": "The Nashua Public Library (NPL) is the public library of Nashua, New Hampshire.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Nashua Public Library",
+                "wikipedia": "en:Nashua Public Library",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 1922854,
+            "lat": 42.76908611,
+            "lon": -71.47319444,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Holman_Stadium%2C_Nashua_NH.jpg/1280px-Holman_Stadium%2C_Nashua_NH.jpg",
+            "description": "Holman Stadium is a baseball stadium in Nashua, New Hampshire.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Holman Stadium (Nashua)",
+                "wikipedia": "en:Holman Stadium (Nashua)",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 3620648,
+            "lat": 43.206748,
+            "lon": -71.538127,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/New_Hampshire_State_House.jpg/1280px-New_Hampshire_State_House.jpg",
+            "description": "The New Hampshire State House, located in Concord at 107 North Main Street, is the state capitol building of New Hampshire.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "New Hampshire State House",
+                "wikipedia": "en:New Hampshire State House",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 30377635,
+            "lat": 42.780575,
+            "lon": -71.463275,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Greeley_Park%2C_Nashua%2C_NH.jpg",
+            "description": "Greeley Park is a public park in Nashua, New Hampshire, United States, occupying 125 acres (51 ha) extending from the Merrimack River, across Concord Street, to Manchester Street.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Greeley Park",
+                "wikipedia": "en:Greeley Park",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 37397,
+            "lat": 28.371,
+            "lon": -81.55,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Spaceship_Earth%2C_EPCOT.jpg/1280px-Spaceship_Earth%2C_EPCOT.jpg",
+            "description": "Epcot (stylized in capital letters as EPCOT) is a theme park at the Walt Disney World Resort in Bay Lake, Florida.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Epcot",
+                "wikipedia": "en:Epcot",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 5495008,
+            "lat": 42.20388889,
+            "lon": -79.42055556,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Carousel_Midway_Park_Jul_12.jpg/1280px-Carousel_Midway_Park_Jul_12.jpg",
+            "description": "Midway State Park, located in Maple Springs, New York, was established in 1898 by the Jamestown & Lake Erie Railway as a picnic ground.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Midway State Park",
+                "wikipedia": "en:Midway State Park",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 2672834,
+            "lat": 42.75055556,
+            "lon": -71.50416667,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Mine_Falls_Park%2C_Nashua_New_Hampshire.JPG/1280px-Mine_Falls_Park%2C_Nashua_New_Hampshire.JPG",
+            "description": "Mine Falls Park is a 325-acre (132 ha) park in the city of Nashua, New Hampshire, United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Mine Falls Park",
+                "wikipedia": "en:Mine Falls Park",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 532238,
+            "lat": 42.95611111,
+            "lon": -71.43277778,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Mall_of_New_Hampshire_entrance_next_to_JCPenney_on_March_18%2C_2025.jpg/1280px-Mall_of_New_Hampshire_entrance_next_to_JCPenney_on_March_18%2C_2025.jpg",
+            "description": "The Mall of New Hampshire is a shopping mall located in the Lower South Willow neighborhood of Manchester, New Hampshire.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "The Mall of New Hampshire",
+                "wikipedia": "en:The Mall of New Hampshire",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 4072463,
+            "lat": 42.76833333,
+            "lon": -71.23083333,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/The_Mall_at_Rockingham_Park_%28Salem%2C_New_Hampshire%29.jpg/1280px-The_Mall_at_Rockingham_Park_%28Salem%2C_New_Hampshire%29.jpg",
+            "description": "The Mall at Rockingham Park is the largest shopping mall in the state of New Hampshire, with 1,024,171 square feet (95,148.6 m2) of floor space.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "The Mall at Rockingham Park",
+                "wikipedia": "en:The Mall at Rockingham Park",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 31204599,
+            "lat": 44.42638889,
+            "lon": -71.49583333,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/62/Santa%27s_Village_Jefferson_welcome_sign.jpg",
+            "description": "Santa's Village is a Christmas-themed amusement park located in Jefferson, New Hampshire.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Santa's Village (Jefferson, New Hampshire)",
+                "wikipedia": "en:Santa's Village (Jefferson, New Hampshire)",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 1645518,
+            "lat": 42.3,
+            "lon": -72,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Flag_of_Massachusetts.svg/1280px-Flag_of_Massachusetts.svg.png",
+            "description": "Massachusetts (   MASS-ə-CHOO-sits, -⁠zits; Massachusett: Muhsachuweesut [məhswatʃəwiːsət]), officially the Commonwealth of Massachusetts, is a state in the New England region of the Northeastern United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Massachusetts",
+                "wikipedia": "en:Massachusetts",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 1077986,
+            "lat": 42.98638889,
+            "lon": -71.46222222,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/SNHU_Arena_in_Manchester%2C_NH.jpg/1280px-SNHU_Arena_in_Manchester%2C_NH.jpg",
+            "description": "The SNHU Arena (Southern New Hampshire University Arena) is an indoor events arena in Manchester, New Hampshire, and seats 9,852 for ice hockey, 11,140 for basketball and up to 11,770 for concerts.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "SNHU Arena",
+                "wikipedia": "en:SNHU Arena",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 213160,
+            "lat": 44.1606203,
+            "lon": -71.6834169,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/63/Old_Man_of_the_Mountain_4-26-03_%28cropped%29.jpg",
+            "description": "The Old Man of the Mountain, also called the Great Stone Face and the Profile, was a series of five granite cliff ledges on Cannon Mountain in Franconia, New Hampshire, United States, that appeared to be the jagged profile of a human face when viewed from the north.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Old Man of the Mountain",
+                "wikipedia": "en:Old Man of the Mountain",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 77520,
+            "lat": 33.83611111,
+            "lon": -117.88972222,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Sleeping_beauty_castle_dlr_2019.jpg/1280px-Sleeping_beauty_castle_dlr_2019.jpg",
+            "description": "Anaheim ( AN-ə-hyme) is a city in northern Orange County, California, United States, part of the Greater Los Angeles area.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Anaheim, California",
+                "wikipedia": "en:Anaheim, California",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 379369,
+            "lat": 44.27388889,
+            "lon": -71.33194444,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Mount_Washington_Cog_Railway_October_2021_015_edit.jpg/1280px-Mount_Washington_Cog_Railway_October_2021_015_edit.jpg",
+            "description": "The Mount Washington Cog Railway, also known as the Cog, is the world's first mountain-climbing cog railway (rack-and-pinion railway).",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Mount Washington Cog Railway",
+                "wikipedia": "en:Mount Washington Cog Railway",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 4692621,
+            "lat": 43.11146389,
+            "lon": -70.79445556,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Inn_at_Green_Acre_Baha%27i_School_03.jpg/1280px-Inn_at_Green_Acre_Baha%27i_School_03.jpg",
+            "description": "Green Acre Baháʼí School is a conference facility in Eliot, Maine, in the United States, and is one of three leading institutions owned by the National Spiritual Assembly of the Baháʼís of the United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Green Acre Baháʼí School",
+                "wikipedia": "en:Green Acre Baháʼí School",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 14348394,
+            "lat": 44.53305556,
+            "lon": -71.17,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Nansen_01_2026.jpg/1280px-Nansen_01_2026.jpg",
+            "description": "Nansen Ski Jump, also known as The Big Nansen and The Sleeping Giant, is a ski jump located along Route 16 in Milan, New Hampshire.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Nansen Ski Jump",
+                "wikipedia": "en:Nansen Ski Jump",
+                "tourism": "attraction"
+            }
+        }
+    ]
+}

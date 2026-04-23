@@ -1,0 +1,958 @@
+{
+    "city_metadata": {
+        "city_name": "Omaha",
+        "state_code": "NE",
+        "state_full": "Nebraska",
+        "city_summary": "Omaha is the most populous city in the U.S. state of Nebraska. It is located in the Midwestern United States along the Missouri River, about 10 mi (15 km) north of the mouth of the Platte River. Omaha had a population of 486,051 at the 2020 census, making it the 41st-most populous U.S. city.",
+        "city_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/City_of_Omaha%2C_Nebraska_Skyline_on_the_Missouri_River_%2830899969517%29.jpg/1280px-City_of_Omaha%2C_Nebraska_Skyline_on_the_Missouri_River_%2830899969517%29.jpg",
+        "city_lat": 41.25861111,
+        "city_lon": -95.9375,
+        "source": "wikipedia_verified_engine"
+    },
+    "attractions": [
+        {
+            "type": "node",
+            "id": 366492278,
+            "lat": 41.3141643,
+            "lon": -95.9925149,
+            "tags": {
+                "addr:state": "NE",
+                "ele": "377",
+                "gnis:feature_id": "1900035",
+                "import_uuid": "gnis.57871b70-0100-4405-bb30-88b2e001a944",
+                "name": "Omaha Home for the Boys Visitors Center and History Museum",
+                "source": "USGS Geonames",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/02/AM_590_ESPN_Omaha_logo.png",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 366492280,
+            "lat": 41.3420696,
+            "lon": -95.9609595,
+            "tags": {
+                "addr:city": "Omaha",
+                "addr:housenumber": "9000",
+                "addr:postcode": "68112",
+                "addr:state": "NE",
+                "addr:street": "North 30th Street",
+                "ele": "316",
+                "gnis:feature_id": "1900043",
+                "museum": "railway",
+                "name": "Historic Florence Depot Museum",
+                "source": "USGS Geonames",
+                "tourism": "museum"
+            }
+        },
+        {
+            "type": "node",
+            "id": 366492282,
+            "lat": 41.3102521,
+            "lon": -95.9604792,
+            "tags": {
+                "addr:state": "NE",
+                "ele": "335",
+                "fee": "yes",
+                "gnis:feature_id": "1900210",
+                "name": "General Crook House Museum",
+                "opening_hours": "Mo-Fr 10:00-16:00; Sa,Su 13:00-16:00",
+                "source": "USGS Geonames",
+                "tourism": "museum",
+                "website": "https://douglascohistory.org/crook-house-museum/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/General_George_Crook_House_in_Fort_Omaha.jpg/1280px-General_George_Crook_House_in_Fort_Omaha.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 366492283,
+            "lat": 41.3372926,
+            "lon": -95.960945,
+            "tags": {
+                "addr:state": "NE",
+                "ele": "324",
+                "gnis:feature_id": "1900047",
+                "import_uuid": "gnis.57871b70-0100-4405-bb30-88b2e001a944",
+                "name": "Historic Florence Bank Museum",
+                "source": "USGS Geonames",
+                "tourism": "museum",
+                "website": "https://www.visitomaha.com/listings/historic-florence-bank-and-depot-museums/56959/",
+                "wheelchair": "limited"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Bank_of_Florence_NE.JPG/1280px-Bank_of_Florence_NE.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 366492288,
+            "lat": 41.257027,
+            "lon": -96.1183038,
+            "tags": {
+                "addr:state": "NE",
+                "ele": "367",
+                "gnis:feature_id": "1900024",
+                "import_uuid": "gnis.57871b70-0100-4405-bb30-88b2e001a944",
+                "name": "Nebraska Jewish Historical Society: Henry and Dorothy Riekes Museum",
+                "source": "USGS Geonames",
+                "tourism": "museum",
+                "website": "https://nebraskajhs.com/home/hen"
+            }
+        },
+        {
+            "type": "node",
+            "id": 366492289,
+            "lat": 41.2470484,
+            "lon": -95.9336789,
+            "tags": {
+                "addr:state": "NE",
+                "ele": "321",
+                "gnis:feature_id": "1900026",
+                "import_uuid": "gnis.57871b70-0100-4405-bb30-88b2e001a944",
+                "name": "Black Americana Museum",
+                "source": "USGS Geonames",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Moses_Block_Omaha_from_NE_1.JPG/1280px-Moses_Block_Omaha_from_NE_1.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 366492290,
+            "lat": 41.2796346,
+            "lon": -95.9468993,
+            "tags": {
+                "addr:city": "Omaha",
+                "addr:housenumber": "2221",
+                "addr:postcode": "68110",
+                "addr:state": "NE",
+                "addr:street": "North 24th Street",
+                "contact:facebook": "Greatplainsblackhistorymuseum",
+                "ele": "313",
+                "email": "info@GPBlackHistoryMuseum.org",
+                "fee": "no",
+                "gnis:feature_id": "1900027",
+                "name": "Great Plains Black History Museum",
+                "opening_hours": "We-Sa 13:00-17:00",
+                "phone": "+1 402 932 7077",
+                "source": "USGS Geonames",
+                "tourism": "museum",
+                "website": "https://gpblackhistorymuseum.org/",
+                "wikidata": "Q5599769"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Webster_Telephone_Exchange-Afro-American_Museum%2C_North_Omaha.jpg/1280px-Webster_Telephone_Exchange-Afro-American_Museum%2C_North_Omaha.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 366492291,
+            "lat": 41.2119153,
+            "lon": -95.9481391,
+            "tags": {
+                "addr:state": "NE",
+                "alt_name": "Latino Museum",
+                "ele": "357",
+                "fee": "yes",
+                "gnis:feature_id": "1900030",
+                "name": "El Museo Latino",
+                "source": "USGS Geonames",
+                "tourism": "museum",
+                "website": "http://elmuseolatino.org/",
+                "wikidata": "Q5351668"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Omaha_Museo_Latino_detail_1.JPG/1280px-Omaha_Museo_Latino_detail_1.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 366492292,
+            "lat": 41.2013877,
+            "lon": -95.9408471,
+            "tags": {
+                "addr:state": "NE",
+                "ele": "352",
+                "gnis:feature_id": "1900031",
+                "import_uuid": "gnis.57871b70-0100-4405-bb30-88b2e001a944",
+                "name": "Sokol South Omaha Czechoslovak Museum",
+                "source": "USGS Geonames",
+                "tourism": "museum"
+            }
+        },
+        {
+            "type": "node",
+            "id": 366492293,
+            "lat": 41.2549986,
+            "lon": -95.94307,
+            "tags": {
+                "addr:state": "NE",
+                "ele": "338",
+                "gnis:feature_id": "1900032",
+                "import_uuid": "gnis.57871b70-0100-4405-bb30-88b2e001a944",
+                "name": "Omaha Childrens Museum",
+                "source": "USGS Geonames",
+                "tourism": "museum",
+                "website": "https://ocm.org/",
+                "wikidata": "Q17041213"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Ansonia-Apartments-Omaha-NE.jpg/1280px-Ansonia-Apartments-Omaha-NE.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 1989243265,
+            "lat": 41.2240849,
+            "lon": -95.9275505,
+            "tags": {
+                "attraction": "animal",
+                "name": "Okapi",
+                "operator": "Omaha's Henry Doorly Zoo and Aquarium",
+                "source": "zoo website",
+                "species:wikidata": "Q82037",
+                "species:wikipedia": "en:Okapi",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1989243270,
+            "lat": 41.223702,
+            "lon": -95.9262115,
+            "tags": {
+                "attraction": "animal",
+                "name": "Kiewit Corporation Giraffe, White Rhino, Ostrich, & Impala Habitat",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1989263146,
+            "lat": 41.2245631,
+            "lon": -95.9231966,
+            "tags": {
+                "attraction": "animal",
+                "name": "Pink Backed Pelicans",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1989263204,
+            "lat": 41.2253452,
+            "lon": -95.9239044,
+            "tags": {
+                "attraction": "animal",
+                "name": "Monkeys",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 3706226914,
+            "lat": 41.2388362,
+            "lon": -95.9181434,
+            "tags": {
+                "name": "Model Railroad",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 6607641699,
+            "lat": 41.3434702,
+            "lon": -95.9626633,
+            "tags": {
+                "fixme": "Unconfirmed",
+                "name": "Florence Mill Museum",
+                "tourism": "museum",
+                "website": "https://theflorencemill.com/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Florence_Mill_NE.JPG/1280px-Florence_Mill_NE.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 6713654693,
+            "lat": 41.2254498,
+            "lon": -95.9221228,
+            "tags": {
+                "animal": "lion",
+                "attraction": "animal",
+                "name": "Hawk's Foundation Lion's Pride & Habitat",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 6713910872,
+            "lat": 41.2262963,
+            "lon": -95.9223302,
+            "tags": {
+                "animal": "Sable Antelope",
+                "attraction": "animal",
+                "name": "Sable Antelope",
+                "operator": "Omaha's Henry Doorly Zoo and Aquarium",
+                "species:wikidata": "Q239381",
+                "species:wikipedia": "en:Sable antelope",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 6713945708,
+            "lat": 41.2256924,
+            "lon": -95.9217239,
+            "tags": {
+                "attraction": "animal",
+                "name": "Lion Training",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 6714031833,
+            "lat": 41.2261712,
+            "lon": -95.9228917,
+            "tags": {
+                "animal": "tortoise",
+                "attraction": "animal",
+                "name": "Tortoise",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Kenefick_Train_Station_at_Omaha_Zoo.JPG/1280px-Kenefick_Train_Station_at_Omaha_Zoo.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 6714031873,
+            "lat": 41.2256563,
+            "lon": -95.9229284,
+            "tags": {
+                "animal": "bongo",
+                "attraction": "animal",
+                "name": "Bongo",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 6714031890,
+            "lat": 41.2249645,
+            "lon": -95.922725,
+            "tags": {
+                "animal": "cheetah",
+                "attraction": "animal",
+                "name": "Cheetah",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 6725528985,
+            "lat": 41.2242206,
+            "lon": -95.9245472,
+            "tags": {
+                "attraction": "animal",
+                "name": "Grewcock Elephant, Zebra, & Impala Habitat",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 6725528986,
+            "lat": 41.222282,
+            "lon": -95.9263193,
+            "tags": {
+                "animal": "elephant",
+                "attraction": "animal",
+                "name": "Grewcock Elephant Habitat",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 6725529065,
+            "lat": 41.2244861,
+            "lon": -95.9253035,
+            "tags": {
+                "attraction": "animal",
+                "name": "Pygmy Goat Kraal",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 6725559925,
+            "lat": 41.2237654,
+            "lon": -95.9268378,
+            "tags": {
+                "attraction": "animal",
+                "name": "Meerkats",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 6725559926,
+            "lat": 41.2236255,
+            "lon": -95.9269111,
+            "tags": {
+                "attraction": "animal",
+                "name": "Kopje Outcropping",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 6748807649,
+            "lat": 41.2271289,
+            "lon": -95.9282201,
+            "tags": {
+                "animal": "prairie dogs",
+                "attraction": "animal",
+                "name": "Prairie Dogs",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Kenefick_Train_Station_at_Omaha_Zoo.JPG/1280px-Kenefick_Train_Station_at_Omaha_Zoo.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 6751680800,
+            "lat": 41.2272629,
+            "lon": -95.9247472,
+            "tags": {
+                "animal": "red panda",
+                "attraction": "animal",
+                "name": "Red Panda",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Kenefick_Train_Station_at_Omaha_Zoo.JPG/1280px-Kenefick_Train_Station_at_Omaha_Zoo.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 6751680822,
+            "lat": 41.2274974,
+            "lon": -95.9250122,
+            "tags": {
+                "animal": "crane",
+                "attraction": "animal",
+                "name": "Crane",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Kenefick_Train_Station_at_Omaha_Zoo.JPG/1280px-Kenefick_Train_Station_at_Omaha_Zoo.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 6751680881,
+            "lat": 41.2279128,
+            "lon": -95.9254583,
+            "tags": {
+                "attraction": "animal",
+                "name": "Indian Rhino & Père David's Deer",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Kenefick_Train_Station_at_Omaha_Zoo.JPG/1280px-Kenefick_Train_Station_at_Omaha_Zoo.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 6751680904,
+            "lat": 41.2276533,
+            "lon": -95.924815,
+            "tags": {
+                "attraction": "animal",
+                "name": "Tufted Deer",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Kenefick_Train_Station_at_Omaha_Zoo.JPG/1280px-Kenefick_Train_Station_at_Omaha_Zoo.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 6751680935,
+            "lat": 41.22799,
+            "lon": -95.9244319,
+            "tags": {
+                "attraction": "animal",
+                "name": "Sloth Bear",
+                "operator": "Omaha's Henry Doorly Zoo and Aquarium",
+                "species:wikidata": "Q145016",
+                "species:wikipedia": "en:Sloth bear",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Kenefick_Train_Station_at_Omaha_Zoo.JPG/1280px-Kenefick_Train_Station_at_Omaha_Zoo.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 6751680975,
+            "lat": 41.2285592,
+            "lon": -95.925693,
+            "tags": {
+                "attraction": "animal",
+                "name": "Takin & Goral",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Kenefick_Train_Station_at_Omaha_Zoo.JPG/1280px-Kenefick_Train_Station_at_Omaha_Zoo.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 6751680980,
+            "lat": 41.2286614,
+            "lon": -95.9251517,
+            "tags": {
+                "attraction": "animal",
+                "name": "Snow Leopard",
+                "operator": "Omaha's Henry Doorly Zoo and Aquarium",
+                "species:wikidata": "Q30197",
+                "species:wikipedia": "en:Snow leopard",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Kenefick_Train_Station_at_Omaha_Zoo.JPG/1280px-Kenefick_Train_Station_at_Omaha_Zoo.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 6751681033,
+            "lat": 41.2287889,
+            "lon": -95.9242911,
+            "tags": {
+                "attraction": "animal",
+                "name": "Tiger",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Kenefick_Train_Station_at_Omaha_Zoo.JPG/1280px-Kenefick_Train_Station_at_Omaha_Zoo.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 6970569209,
+            "lat": 41.2906102,
+            "lon": -96.1590221,
+            "tags": {
+                "description": "This boulder made national news in November 2019 when CNN and other national news outlets shared the story of 6 vehicles being high centered on the rock within a period of 6 weeks.",
+                "facebook": "https://www.facebook.com/groups/2486192221476339",
+                "loc_name": "Rocko",
+                "name": "West Omaha Rock",
+                "tourism": "attraction",
+                "wikidata": "Q109237829",
+                "wikipedia": "en:West Maple Omaha Rock"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Rocko_2024.png/1280px-Rocko_2024.png",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 10054602474,
+            "lat": 41.2767508,
+            "lon": -95.9011385,
+            "tags": {
+                "name": "Missles",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/94/USS_Hazard_AM-240.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 10054602475,
+            "lat": 41.2766631,
+            "lon": -95.9011327,
+            "tags": {
+                "name": "Old Plane",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/94/USS_Hazard_AM-240.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 10054602476,
+            "lat": 41.2764903,
+            "lon": -95.9010643,
+            "tags": {
+                "historic": "cannon",
+                "name": "Ship Guns",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/ba/USS_Marlin_%28SST-2%29.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 10054602484,
+            "lat": 41.2768212,
+            "lon": -95.9005159,
+            "tags": {
+                "name": "Ship Propellers",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/ba/USS_Marlin_%28SST-2%29.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 30446918,
+            "lat": 41.2362058,
+            "lon": -95.9191459,
+            "tags": {
+                "addr:city": "Omaha",
+                "addr:housenumber": "100",
+                "addr:postcode": "68108",
+                "addr:state": "NE",
+                "addr:street": "Bancroft Street",
+                "alt_name": "Lauritzen Gardens Omaha's Botanical Center",
+                "leisure": "garden",
+                "name": "Lauritzen Gardens",
+                "name1": "Omaha Botanical Center",
+                "opening_hours": "09:00-17:00",
+                "phone": "+1 402-346-4002",
+                "tourism": "attraction",
+                "website": "https://www.lauritzengardens.org/",
+                "wikidata": "Q536819"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Lauritzen_Gardens.gif",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 107367985,
+            "lat": 41.2514214,
+            "lon": -95.9281467,
+            "tags": {
+                "addr:city": "Omaha",
+                "addr:housenumber": "801",
+                "addr:postcode": "68108",
+                "addr:state": "NE",
+                "addr:street": "South 10th Street",
+                "boundary": "protected_area",
+                "building": "yes",
+                "building:levels": "2",
+                "email": "info@durhammuseum.org",
+                "firearms": "no",
+                "heritage": "2",
+                "heritage:operator": "nrhp",
+                "historic_name": "Omaha Union Station",
+                "name": "Durham Museum",
+                "nrhp:criteria": "(C)",
+                "nrhp:inscription_date": "December 23, 2016",
+                "nrhp:nhl": "yes",
+                "old_name": "Durham Western Heritage Museum",
+                "phone": "+1-402-444-5071",
+                "protection_title": "protected_site",
+                "ref:nrhp": "100000870",
+                "tourism": "museum",
+                "website": "https://durhammuseum.org/",
+                "wheelchair": "yes",
+                "wikidata": "Q5316537",
+                "wikimedia_commons": "File:Durham Museum - Omaha, Nebraska Train Station (46277583362).jpg",
+                "wikipedia": "en:Durham Museum, Omaha, Nebraska"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Durham_Museum_Omaha_2021.tif/lossy-page1-1280px-Durham_Museum_Omaha_2021.tif.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 170669296,
+            "lat": 41.2762574,
+            "lon": -95.9011243,
+            "tags": {
+                "addr:city": "Omaha",
+                "addr:housenumber": "2497",
+                "addr:postcode": "68110",
+                "addr:state": "NE",
+                "addr:street": "Freedom Park Road",
+                "boundary": "protected_area",
+                "fax": "+1-402-444-5955",
+                "historic": "ship",
+                "name": "USS Marlin",
+                "phone": "+1-402-444-5900",
+                "protection_title": "protected_site",
+                "ref": "SST-2",
+                "ship:type": "submarine",
+                "start_date": "1953",
+                "tourism": "attraction",
+                "wikidata": "Q5230841",
+                "wikipedia": "en:USS Marlin (SST-2)"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/ba/USS_Marlin_%28SST-2%29.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 173079275,
+            "lat": 41.2768353,
+            "lon": -95.90171,
+            "tags": {
+                "addr:city": "Omaha",
+                "addr:housenumber": "2497",
+                "addr:postcode": "68110",
+                "addr:state": "NE",
+                "addr:street": "Freedom Park Road",
+                "boundary": "protected_area",
+                "building": "yes",
+                "fax": "+1-402-444-6838",
+                "heritage": "2",
+                "heritage:operator": "nrhp",
+                "historic": "ship",
+                "museum": "military",
+                "name": "USS Hazard",
+                "nrhp:criteria": "(A)",
+                "nrhp:inscription_date": "January 14, 1986",
+                "nrhp:nhl": "yes",
+                "phone": "+1-402-444-5955",
+                "protection_title": "protected_site",
+                "ref": "AM-240",
+                "ref:nrhp": "79003712",
+                "ship:type": "minesweeper",
+                "start_date": "1944",
+                "tourism": "museum",
+                "wikidata": "Q7870068",
+                "wikipedia": "en:USS Hazard (AM-240)"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/94/USS_Hazard_AM-240.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 173137262,
+            "lat": 41.2767339,
+            "lon": -95.8999869,
+            "tags": {
+                "historic": "aircraft",
+                "model:wikidata": "Q334759",
+                "model:wikipedia": "en:Douglas A-4 Skyhawk",
+                "name": "A-4 Skyhawk",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/ba/USS_Marlin_%28SST-2%29.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 173137540,
+            "lat": 41.2768925,
+            "lon": -95.9009409,
+            "tags": {
+                "alt_name": "Sikorsky S-62",
+                "historic": "aircraft",
+                "model:wikidata": "Q2164371",
+                "model:wikipedia": "en:Sikorsky HH-52 Seaguard",
+                "name": "HH-52A Seaguard",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/94/USS_Hazard_AM-240.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 186249515,
+            "lat": 41.2038891,
+            "lon": -96.0208756,
+            "tags": {
+                "addr:housenumber": "7003",
+                "addr:postcode": "68117",
+                "addr:street": "Q Street",
+                "name": "Fun-Plex",
+                "source": "bing",
+                "tourism": "theme_park",
+                "website": "https://www.fun-plex.com/",
+                "wikidata": "Q5508618"
+            }
+        },
+        {
+            "type": "way",
+            "id": 188287965,
+            "lat": 41.2274533,
+            "lon": -95.9259557,
+            "tags": {
+                "name": "Simmons Aviary",
+                "source": "bing",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Kenefick_Train_Station_at_Omaha_Zoo.JPG/1280px-Kenefick_Train_Station_at_Omaha_Zoo.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 188311523,
+            "lat": 41.225425,
+            "lon": -95.9265171,
+            "tags": {
+                "addr:city": "Omaha",
+                "addr:housenumber": "3701",
+                "addr:state": "NE",
+                "addr:street": "South 10th Street",
+                "alt_name:en": "Henry Doorly Zoo",
+                "fee": "yes",
+                "fee:url": "http://www.omahazoo.com/hours-and-admission",
+                "name": "Henry Doorly Zoo and Aquarium",
+                "opening_hours": "Apr-Oct 09:00-17:00 open \"zoo\" || 09:00-18:00 open \"buildings\"; Nov-Mar 09:00-16:00 open \"zoo\" || 09:00-17:00 open \"buildings\"; Dec 25 off; PH unknown",
+                "tourism": "zoo",
+                "website": "https://www.omahazoo.com/",
+                "wikidata": "Q674961",
+                "wikipedia": "en:Omaha's Henry Doorly Zoo and Aquarium"
+            }
+        },
+        {
+            "type": "way",
+            "id": 256985023,
+            "lat": 41.2604599,
+            "lon": -95.9457345,
+            "tags": {
+                "addr:city": "Omaha",
+                "addr:housenumber": "2200",
+                "addr:postcode": "68102-1292",
+                "addr:state": "NE",
+                "addr:street": "Dodge Street",
+                "air_conditioning": "yes",
+                "building": "yes",
+                "ele": "355",
+                "fee": "no",
+                "gnis:feature_id": "1900040",
+                "layer": "1",
+                "museum": "art",
+                "name": "Joslyn Art Museum",
+                "phone": "+1-402-342-3300",
+                "source": "USGS Geonames",
+                "tourism": "museum",
+                "website": "https://www.joslyn.org/",
+                "wikidata": "Q1372546",
+                "wikipedia": "en:Joslyn Art Museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Joslyn_Art_Museum_2024.jpg/1280px-Joslyn_Art_Museum_2024.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 1093736213,
+            "lat": 41.2617409,
+            "lon": -95.9719189,
+            "tags": {
+                "access": "yes",
+                "addr:city": "Omaha",
+                "addr:housenumber": "3902",
+                "addr:postcode": "68131",
+                "addr:state": "NE",
+                "addr:street": "Davenport Street",
+                "building": "yes",
+                "ele": "378",
+                "fixme": "Shape needs work",
+                "gnis:feature_id": "1900037",
+                "historic": "manor",
+                "image": "https://commons.wikimedia.org/wiki/File:Joslyn_Castle_from_S_1.JPG",
+                "import_uuid": "gnis.57871b70-0100-4405-bb30-88b2e001a944",
+                "name": "Joslyn Castle",
+                "source": "USGS Geonames",
+                "tourism": "attraction",
+                "website": "https://joslyncastle.com/",
+                "wikidata": "Q6291022",
+                "wikipedia": "en:Joslyn Castle"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Joslyn_Castle_from_S_1.JPG/1280px-Joslyn_Castle_from_S_1.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 1095587460,
+            "lat": 41.2610124,
+            "lon": -95.9722249,
+            "tags": {
+                "building": "house",
+                "name": "The Offut Manor",
+                "tourism": "attraction",
+                "wikidata": "Q130720103"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Joslyn_Castle_from_S_1.JPG/1280px-Joslyn_Castle_from_S_1.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 1101671508,
+            "lat": 41.3350475,
+            "lon": -95.9650164,
+            "tags": {
+                "building": "yes",
+                "museum": "history",
+                "name": "Mormon Trail Center at Winter Quarters",
+                "operator": "LDS Church",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/36/Mormon_Pioneer_Cemetery_Monument_-_June_10%2C_2006.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 1104898133,
+            "lat": 41.2250138,
+            "lon": -95.9246178,
+            "tags": {
+                "fee": "no",
+                "leisure": "garden",
+                "name": "Garden of the Senses",
+                "source": "bing",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "way",
+            "id": 1200664478,
+            "lat": 41.2620041,
+            "lon": -95.9242306,
+            "tags": {
+                "addr:city": "Omaha",
+                "addr:housenumber": "345",
+                "addr:postcode": "68102",
+                "addr:state": "NE",
+                "addr:street": "Riverfront Drive",
+                "building": "museum",
+                "email": "info@kiewitluminarium.org",
+                "museum": "science",
+                "name": "Kiewit Luminarium",
+                "tourism": "museum",
+                "website": "https://kiewitluminarium.org/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/LewisandClarkLandingOmaha.jpg/1280px-LewisandClarkLandingOmaha.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 1301238919,
+            "lat": 41.2575311,
+            "lon": -95.9984246,
+            "tags": {
+                "addr:city": "Omaha",
+                "addr:housenumber": "5505",
+                "addr:postcode": "68132",
+                "addr:state": "NE",
+                "addr:street": "Farnam Street",
+                "building": "detached",
+                "name": "Warren Buffett's Home",
+                "source": "esri_USDOT_Nebraska",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "way",
+            "id": 1353434469,
+            "lat": 41.291137,
+            "lon": -95.9643619,
+            "tags": {
+                "addr:city": "Omaha",
+                "addr:housenumber": "3448",
+                "addr:postcode": "68111",
+                "addr:street": "Evans Street",
+                "building": "yes",
+                "name": "Malcolm X Memorial Foundation",
+                "source": "esri_USDOT_Nebraska",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Malcolm_X_Omaha_historical_marker.jpg/1280px-Malcolm_X_Omaha_historical_marker.jpg",
+            "image_source": "wikipedia_verified"
+        }
+    ]
+}

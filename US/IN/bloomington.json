@@ -1,0 +1,504 @@
+{
+    "city_metadata": {
+        "city_name": "Bloomington",
+        "state_code": "IN",
+        "state_full": "Indiana",
+        "city_summary": "Bloomington is a city in Monroe County, Indiana, United States, and its county seat. The population was 79,168 at the 2020 census. It is the seventh-most populous city in Indiana and the fourth-most populous outside the Indianapolis metropolitan area.",
+        "city_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Bloomington_IN_Kirkwood.jpg/1280px-Bloomington_IN_Kirkwood.jpg",
+        "city_lat": 39.1667,
+        "city_lon": -86.5347,
+        "source": "wikipedia_verified_engine"
+    },
+    "attractions": [
+        {
+            "type": "node",
+            "id": 5739829621,
+            "lat": 44.8533391,
+            "lon": -93.2400927,
+            "tags": {
+                "addr:housenumber": "300",
+                "addr:street": "South Avenue",
+                "level": "2",
+                "name": "Crayola Experience",
+                "opening_hours": "Mo-Sa 10:00-20:00; Su 10:00-19:00",
+                "phone": "+1-952-854-7500",
+                "tourism": "theme_park"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Mall_of_America_49.jpg/1280px-Mall_of_America_49.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 8907525863,
+            "lat": 39.1936807,
+            "lon": -86.5375942,
+            "tags": {
+                "height": "5",
+                "name": "Cascades Falls",
+                "tourism": "attraction",
+                "waterway": "waterfall"
+            }
+        },
+        {
+            "type": "node",
+            "id": 12431986766,
+            "lat": 40.4645499,
+            "lon": -89.0059007,
+            "tags": {
+                "name": "Historic US Route 66 Sign",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/MillerParkPavilion_BloomingtonIL.jpg/1280px-MillerParkPavilion_BloomingtonIL.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 154762561,
+            "lat": 39.1691048,
+            "lon": -86.5197053,
+            "tags": {
+                "addr:city": "Bloomington",
+                "addr:housenumber": "1133",
+                "addr:postcode": "47405",
+                "addr:state": "IN",
+                "addr:street": "East 7th Street",
+                "building": "university",
+                "museum": "art",
+                "name": "Sidney and Lois Eskenazi Museum of Art",
+                "operator": "Indiana University",
+                "tourism": "museum",
+                "wheelchair": "yes",
+                "wikidata": "Q6023573",
+                "wikimedia_commons": "File:IU_Art_Museum.jpg"
+            }
+        },
+        {
+            "type": "way",
+            "id": 154762636,
+            "lat": 39.1700049,
+            "lon": -86.526307,
+            "tags": {
+                "addr:city": "Bloomington",
+                "addr:housenumber": "601",
+                "addr:postcode": "47408",
+                "addr:state": "IN",
+                "addr:street": "East 8th Street",
+                "building": "yes",
+                "museum": "anthropology",
+                "name": "William H. Mathers Museum of World Cultures",
+                "name:pl": "Muzeum Kultur Świata im. Wiliama H. Mathers",
+                "operator": "Indiana University",
+                "operator:type": "public",
+                "tourism": "museum",
+                "wikidata": "Q55075478"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Mathers-Museum-of-World-Cultures.jpg/1280px-Mathers-Museum-of-World-Cultures.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 168056288,
+            "lat": 44.8546882,
+            "lon": -93.2419951,
+            "tags": {
+                "addr:city": "Bloomington",
+                "addr:housenumber": "5000",
+                "addr:postcode": "55425",
+                "addr:state": "MN",
+                "addr:street": "Center Court",
+                "brand": "Nickelodeon",
+                "description": "Nickelodeon Universe is an amusement park located at Mall of America in Bloomington, Minnesota consisting of attractions and rides based on Nickelodeon’s popular franchises.",
+                "email": "info@mallofamerica.com",
+                "internet_access": "wlan",
+                "internet_access:ssid": "MOA Guest",
+                "name": "Nickelodeon Universe",
+                "opening_hours": "Mo-Th 12:00-20:00, Fr-Sa 10:00-21:00, Su 11:00-19:00",
+                "operator": "Mall of America",
+                "payment:cash": "yes",
+                "payment:credit_cards": "yes",
+                "payment:debit_cards": "yes",
+                "phone": "+1 952 883 8800",
+                "tourism": "theme_park",
+                "website": "https://nickelodeonuniverse.com/home/",
+                "wheelchair": "yes",
+                "wikidata": "Q3339833"
+            }
+        },
+        {
+            "type": "way",
+            "id": 245730379,
+            "lat": 39.1643985,
+            "lon": -86.5355297,
+            "tags": {
+                "addr:housename": "Bloomington Monroe County Convention Center",
+                "addr:housenumber": "302",
+                "addr:postcode": "47403",
+                "addr:street": "South College Avenue",
+                "amenity": "conference_centre",
+                "building": "yes",
+                "building:levels": "2",
+                "check_date": "2025-10-31",
+                "name": "Monroe Convention Center",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f2/The_WonderLab_Bearded_Dragon.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 282562743,
+            "lat": 39.1672229,
+            "lon": -86.5319672,
+            "tags": {
+                "addr:city": "Bloomington",
+                "addr:housenumber": "202",
+                "addr:postcode": "47408",
+                "addr:state": "IN",
+                "addr:street": "East 6th Street",
+                "building": "public",
+                "fee": "yes",
+                "museum": "history",
+                "name": "Monroe County History Center",
+                "name:pl": "Historyczne Centrum Hrabstwa Monroe",
+                "opening_hours": "Tu-Fr 10:00-16:00",
+                "phone": "+1-812-332-2517",
+                "tourism": "museum",
+                "website": "https://monroehistory.org/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Monroe_Carnegie_Library_front_and_side%2C_Bloomington.jpg/1280px-Monroe_Carnegie_Library_front_and_side%2C_Bloomington.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 282562763,
+            "lat": 39.1659062,
+            "lon": -86.5366562,
+            "tags": {
+                "addr:city": "Bloomington",
+                "addr:housenumber": "308",
+                "addr:postcode": "47404",
+                "addr:state": "IN",
+                "addr:street": "West 4th Street",
+                "building": "yes",
+                "building:levels": "3",
+                "building:material": "brick",
+                "fee": "yes",
+                "name": "WonderLab Museum",
+                "name:pl": "Muzeum WonderLab",
+                "opening_hours": "Tu-Th 09:00-18:00; Fr,Sa 09:00-17:00; Su 13:00-17:00; Mo off",
+                "phone": "+1-812-337-1337",
+                "roof:colour": "gray",
+                "roof:shape": "flat",
+                "tourism": "museum",
+                "wheelchair": "yes",
+                "wikidata": "Q8031716",
+                "wikipedia": "en:WonderLab"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f2/The_WonderLab_Bearded_Dragon.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 296091148,
+            "lat": 44.8271953,
+            "lon": -93.2863356,
+            "tags": {
+                "addr:city": "Bloomington",
+                "addr:housenumber": "9740",
+                "addr:postcode": "55420",
+                "addr:street": "Grand Avenue South",
+                "building": "yes",
+                "name": "The Works",
+                "phone": "+1-952-888-4262",
+                "tourism": "museum",
+                "website": "https://theworks.org/",
+                "wikidata": "Q7775854"
+            }
+        },
+        {
+            "type": "way",
+            "id": 313436312,
+            "lat": 39.173496,
+            "lon": -86.5374265,
+            "tags": {
+                "addr:city": "Bloomington",
+                "addr:housenumber": "350",
+                "addr:postcode": "47404",
+                "addr:state": "IN",
+                "addr:street": "West 11th Street",
+                "amenity": "restaurant",
+                "building": "yes",
+                "building:material": "brick",
+                "craft": "brewery",
+                "name": "Upland Brewing Company",
+                "phone": "+1-812-336-2337",
+                "roof:colour": "black",
+                "smoking": "isolated",
+                "tourism": "attraction",
+                "website": "https://www.uplandbeer.com/",
+                "wheelchair": "yes"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/J.L._Nichols_House_in_afternoon.jpg/1280px-J.L._Nichols_House_in_afternoon.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 461279061,
+            "lat": 40.469115,
+            "lon": -89.0056266,
+            "tags": {
+                "addr:city": "Bloomington",
+                "addr:housenumber": "1020",
+                "addr:postcode": "61701",
+                "addr:state": "IL",
+                "addr:street": "South Morris Avenue",
+                "name": "Miller Park Zoo",
+                "opening_hours": "09:30-16:30",
+                "operator": "City of Bloomington",
+                "tourism": "zoo",
+                "wikidata": "Q6859211",
+                "wikipedia": "en:Miller Park Zoo"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Miller_Park_Zoo_20251020_0002.jpg/1280px-Miller_Park_Zoo_20251020_0002.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 539336149,
+            "lat": 40.4878147,
+            "lon": -88.9259336,
+            "tags": {
+                "building": "yes",
+                "check_date:opening_hours": "2023-03-10",
+                "fee": "yes",
+                "museum": "aerospace",
+                "name": "Prairie Aviation Museum",
+                "opening_hours": "Sa,Su 11:00-15:00; Nov-Mar off",
+                "seasonal": "yes",
+                "tourism": "museum",
+                "website": "https://prairieaviationmuseum.org/"
+            }
+        },
+        {
+            "type": "way",
+            "id": 549225801,
+            "lat": 40.480014,
+            "lon": -88.9941501,
+            "tags": {
+                "addr:city": "Bloomington",
+                "addr:housenumber": "200",
+                "addr:state": "IL",
+                "addr:street": "North Main Street",
+                "alt_name": "Mclean County Historical Museum",
+                "building": "courthouse",
+                "ele": "251",
+                "fee": "yes",
+                "gnis:feature_id": "1822542",
+                "historic": "courthouse",
+                "museum": "local_history",
+                "name": "McLean County Museum of History",
+                "opening_hours": "Mo-Sa 09:00-17:00; Tu 09:00-21:00; May-Sep: Su 10:00-14:00",
+                "operator": "McLean County Historical Society",
+                "phone": "+1 309 827 0428",
+                "source": "USGS Geonames",
+                "tourism": "museum",
+                "website": "https://www.mchistory.org/",
+                "wheelchair": "yes",
+                "wikidata": "Q14687864",
+                "wikipedia": "en:McLean County Museum of History"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/McLean_County_Courthouse_and_Square_%287436726814%29.jpg/1280px-McLean_County_Courthouse_and_Square_%287436726814%29.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 609862996,
+            "lat": 40.4828661,
+            "lon": -88.9806796,
+            "tags": {
+                "addr:city": "Bloomington",
+                "addr:housenumber": "1000",
+                "addr:postcode": "61701",
+                "addr:state": "IL",
+                "addr:street": "East Monroe Drive",
+                "alt_name": "Clover Lawn",
+                "architect": "Alfred H. Piquenard",
+                "building": "house",
+                "building:architecture": "victorian;italianate",
+                "heritage": "2",
+                "heritage:operator": "nrhp",
+                "historic": "heritage",
+                "museum": "local_history",
+                "name": "David Davis Mansion",
+                "phone": "+1 309-828-1084",
+                "ref:nrhp": "72001479",
+                "tourism": "museum",
+                "website": "https://www.daviddavismansion.org/",
+                "wikidata": "Q5232864",
+                "wikipedia": "en:David Davis Mansion"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Bloomington_Il_David_Davis_Mansion3.JPG/1280px-Bloomington_Il_David_Davis_Mansion3.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 700021241,
+            "lat": 39.1713656,
+            "lon": -86.5351065,
+            "tags": {
+                "building": "yes",
+                "name": "The Farmer House Museum",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Morgan_House%2C_Bloomington%2C_late_afternoon.jpg/1280px-Morgan_House%2C_Bloomington%2C_late_afternoon.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 784206315,
+            "lat": 44.8405996,
+            "lon": -93.3829172,
+            "tags": {
+                "addr:city": "Bloomington",
+                "addr:housenumber": "7515",
+                "addr:postcode": "55438",
+                "addr:state": "MN",
+                "addr:street": "Izaak Walton Road",
+                "building": "yes",
+                "name": "The Izaak Walton League of America",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/MN_220720095029_bush_lake.jpg/1280px-MN_220720095029_bush_lake.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 896860043,
+            "lat": 39.1616926,
+            "lon": -86.5309159,
+            "tags": {
+                "addr:city": "Bloomington",
+                "addr:housenumber": "307",
+                "addr:postcode": "47401",
+                "addr:state": "IN",
+                "addr:street": "East 2nd Street",
+                "building": "university",
+                "name": "Wylie House Museum",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/WylieHouseBloomingtonIndiana.JPG/1280px-WylieHouseBloomingtonIndiana.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 927262602,
+            "lat": 44.8116778,
+            "lon": -93.3080881,
+            "tags": {
+                "addr:city": "Bloomington",
+                "addr:housenumber": "2215",
+                "addr:postcode": "55431",
+                "addr:state": "MN",
+                "addr:street": "West Old Shakopee Road",
+                "building": "yes",
+                "name": "Bloomington Historical Museum",
+                "tourism": "museum"
+            }
+        },
+        {
+            "type": "way",
+            "id": 927273987,
+            "lat": 44.7978329,
+            "lon": -93.34709,
+            "tags": {
+                "addr:city": "Bloomington",
+                "addr:housenumber": "11411",
+                "addr:postcode": "55437",
+                "addr:state": "MN",
+                "addr:street": "Masonic Home Drive",
+                "building": "yes",
+                "name": "Minnesota Masonic Heritage Center",
+                "tourism": "museum"
+            }
+        },
+        {
+            "type": "way",
+            "id": 927279574,
+            "lat": 44.8583561,
+            "lon": -93.221438,
+            "tags": {
+                "addr:city": "Bloomington",
+                "addr:postcode": "55425",
+                "addr:state": "MN",
+                "addr:street": "Appletree Square",
+                "building": "yes",
+                "name": "Northwest Airlines History Center",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/American_Boulevard_station%2C_January_2015.jpg/1280px-American_Boulevard_station%2C_January_2015.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 942928577,
+            "lat": 40.4617087,
+            "lon": -88.9733461,
+            "tags": {
+                "addr:city": "Bloomington",
+                "addr:housenumber": "1501",
+                "addr:postcode": "61701",
+                "addr:state": "IL",
+                "addr:street": "Morrissey Drive",
+                "name": "Grady's Family Fun Park",
+                "tourism": "theme_park",
+                "website": "https://www.gradysfunpark.com/"
+            }
+        },
+        {
+            "type": "way",
+            "id": 1014006177,
+            "lat": 39.1869462,
+            "lon": -86.526427,
+            "tags": {
+                "addr:city": "Bloomington",
+                "addr:housenumber": "711",
+                "addr:postcode": "47408",
+                "addr:state": "IN",
+                "addr:street": "IN-45",
+                "building": "yes",
+                "name": "Elizabeth Sage Costume Collection",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Kaufman_field.jpg/1280px-Kaufman_field.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 7524100,
+            "lat": 40.50925,
+            "lon": -88.98648889,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Normal_Theater.jpg",
+            "description": "The Normal Theater, also known as the Normal Theatre, is a cinema located in the downtown area of Normal, Illinois of the United States of America, which is located in McLean County.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Normal Theater",
+                "wikipedia": "en:Normal Theater",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 26982673,
+            "lat": 39.16583333,
+            "lon": -86.53638889,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f2/The_WonderLab_Bearded_Dragon.jpg",
+            "description": "The WonderLab Museum of Science, Health & Technology is a science museum located in the city of Bloomington, Indiana, United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "WonderLab",
+                "wikipedia": "en:WonderLab",
+                "tourism": "attraction"
+            }
+        }
+    ]
+}

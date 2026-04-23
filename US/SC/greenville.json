@@ -1,0 +1,748 @@
+{
+    "city_metadata": {
+        "city_name": "Greenville",
+        "state_code": "SC",
+        "state_full": "South Carolina",
+        "city_summary": "Greenville ( GREEN-vil; locally  GREEN-vəl) is a city in Greenville County, South Carolina, United States, and its county seat. It is the sixth-most populous city in South Carolina with a population of 70,720 at the 2020 census, while the Greenville metropolitan area has an estimated 997,000 residents and is the largest metropolitan area in the state.\nGreenville is located approximately halfway between Atlanta and Charlotte along I-85; its metro area also includes I-185 and I-385.",
+        "city_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/2024-4-12-Falls_Park_Waterfall_Greenville_South_Carolina_by_Yousef_AbdulHusain.jpg/1280px-2024-4-12-Falls_Park_Waterfall_Greenville_South_Carolina_by_Yousef_AbdulHusain.jpg",
+        "city_lat": 34.86111111,
+        "city_lon": -82.41333333,
+        "source": "wikipedia_verified_engine"
+    },
+    "attractions": [
+        {
+            "type": "node",
+            "id": 367795509,
+            "lat": 45.4631019,
+            "lon": -69.5936658,
+            "tags": {
+                "addr:city": "Greenville",
+                "addr:housenumber": "12",
+                "addr:postcode": "04441",
+                "addr:state": "ME",
+                "addr:street": "Lily Bay Road",
+                "ele": "313",
+                "email": "info@katahdincruises.com",
+                "gnis:feature_id": "1910090",
+                "museum": "local_history",
+                "name": "Moosehead Marine Museum",
+                "opening_hours": "Tu-Sa 09:00-16:00",
+                "phone": "+1-207-695-2716",
+                "source": "USGS Geonames",
+                "tourism": "museum",
+                "website": "https://www.katahdincruises.com/museum/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/34/Panorama%2C_Greenville%2C_ME.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 367795514,
+            "lat": 45.4625463,
+            "lon": -69.5911657,
+            "tags": {
+                "addr:state": "ME",
+                "ele": "321",
+                "gnis:feature_id": "1910127",
+                "name": "Moosehead Marine Museum",
+                "source": "USGS Geonames",
+                "tourism": "museum",
+                "website": "https://www.katahdincruises.com/museum/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/34/Panorama%2C_Greenville%2C_ME.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 446428577,
+            "lat": 34.8449933,
+            "lon": -82.4009308,
+            "tags": {
+                "NHD:ComID": "122313097",
+                "NHD:FCode": "46006",
+                "NHD:FType": "StreamRiver",
+                "NHD:RESOLUTION": "High",
+                "NHD:ReachCode": "3050109000165",
+                "NHD:way_id": "122313097",
+                "attribution": "NHD",
+                "gnis:feature_id": "1225823",
+                "height": "8.54",
+                "name": "Reedy River Falls",
+                "source": "NHD_import_v0.3_20090721150107",
+                "tourism": "attraction",
+                "waterway": "waterfall",
+                "width": "16"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e7/Reedyriverfallspark.jpg/1280px-Reedyriverfallspark.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 449445029,
+            "lat": 33.1132786,
+            "lon": -96.1154271,
+            "tags": {
+                "name": "The Attic",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 449446561,
+            "lat": 33.1259162,
+            "lon": -96.0893517,
+            "tags": {
+                "alt_name": "American Cotton Museum",
+                "fee": "yes",
+                "name": "Audie Murphy and Cotton Museum",
+                "opening_hours": "Tu-Sa 10:00-17:00",
+                "tourism": "museum",
+                "website": "https://cottonmuseum.com/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Audie_Murphy_American_Cotton_Museum_July_2015_46.jpg/1280px-Audie_Murphy_American_Cotton_Museum_July_2015_46.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 510781534,
+            "lat": 34.8553655,
+            "lon": -82.3930058,
+            "tags": {
+                "name": "Kilgore-Lewis House",
+                "opening_hours": "Mo-Fr 10:00-14:00",
+                "phone": "+1 864 232 3020",
+                "tourism": "attraction",
+                "website": "https://www.kilgore-lewis.org/",
+                "wikidata": "Q18151086"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Kilgore-Lewis_House%2C_N_Academy_%28Greenville%2C_South_Carolina%29.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 540291657,
+            "lat": 34.8535783,
+            "lon": -82.3981578,
+            "tags": {
+                "addr:city": "Greenville",
+                "addr:housenumber": "233",
+                "addr:postcode": "29601",
+                "addr:street": "North Main Street",
+                "name": "Greenville Glides",
+                "tourism": "attraction",
+                "website": "https://greenvillesegwaytours.com/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Landmark_Tower%2C_Greenville%2C_SC.jpg/1280px-Landmark_Tower%2C_Greenville%2C_SC.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 806875647,
+            "lat": 34.8431667,
+            "lon": -82.3930858,
+            "tags": {
+                "name": "Rock Quarry Falls",
+                "tourism": "attraction",
+                "waterway": "waterfall"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Pasley-Swimmer2.jpg/1280px-Pasley-Swimmer2.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 4246047117,
+            "lat": 33.4111511,
+            "lon": -91.060693,
+            "tags": {
+                "addr:city": "Greenville",
+                "addr:housenumber": "409",
+                "addr:postcode": "38701",
+                "addr:state": "MS",
+                "addr:street": "Washington Avenue",
+                "name": "Greenville History Museum",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Wetherbee_House.JPG/1280px-Wetherbee_House.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 10746476905,
+            "lat": 30.464883,
+            "lon": -83.6391157,
+            "tags": {
+                "name": "Ray Charles childhood home",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 12323850726,
+            "lat": 38.8929278,
+            "lon": -89.4097095,
+            "tags": {
+                "fee": "no",
+                "mobile": "+1 618-664-6724",
+                "museum": "art",
+                "name": "Richard W. Bock Sculpture Museum",
+                "tourism": "museum"
+            }
+        },
+        {
+            "type": "node",
+            "id": 12694884439,
+            "lat": 35.6086782,
+            "lon": -77.3754695,
+            "tags": {
+                "addr:city": "Greenville",
+                "addr:housenumber": "226",
+                "addr:state": "NC",
+                "addr:street": "West 8th Street",
+                "name": "NC Museum of Natural Sciences at Greenville",
+                "tourism": "museum",
+                "website": "https://naturalsciences.org/visit/greenville"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Jones-Lee_House.JPG/1280px-Jones-Lee_House.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 35939333,
+            "lat": 34.846807,
+            "lon": -82.3875312,
+            "tags": {
+                "addr:city": "Greenville",
+                "addr:housenumber": "150",
+                "addr:postcode": "29601",
+                "addr:state": "SC",
+                "addr:street": "Cleveland Park Drive",
+                "contact:phone": "+1 864 4674300",
+                "contact:website": "https://greenvillezoo.com/",
+                "name": "Greenville Zoo",
+                "start_date": "1960",
+                "tourism": "zoo",
+                "wikidata": "Q5604747",
+                "wikipedia": "en:Greenville Zoo"
+            }
+        },
+        {
+            "type": "way",
+            "id": 38178205,
+            "lat": 34.8758868,
+            "lon": -82.3619559,
+            "tags": {
+                "addr:city": "Greenville",
+                "addr:housenumber": "1700",
+                "addr:postcode": "29614",
+                "addr:state": "SC",
+                "addr:street": "Wade Hampton Boulevard",
+                "building": "yes",
+                "contact:email": "contact@bjumg.org",
+                "contact:facebook": "https://www.facebook.com/bjumg",
+                "height": "29.7",
+                "name": "Bob Jones University Museum & Gallery",
+                "opening_hours": "Tu-Su 14:00-17:00",
+                "operator": "Bob Jones University Museum & Gallery",
+                "phone": "+1 864 770 1331",
+                "tourism": "museum",
+                "website": "https://bjumg.org/",
+                "wikidata": "Q18599988",
+                "wikipedia": "en:Bob Jones University#Museum and gallery"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Crusifix._191%2C8x163cm_Bob_Jones_University_Museum._ca_1370.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 41597094,
+            "lat": 34.8567212,
+            "lon": -82.3958473,
+            "tags": {
+                "addr:city": "Greenville",
+                "addr:housenumber": "430",
+                "addr:postcode": "29601",
+                "addr:state": "SC",
+                "addr:street": "North Main Street",
+                "building": "yes",
+                "name": "American Legion War Museum",
+                "opening_hours": "Sa 10:00-17:00; Su 13:00-17:00",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Springwood_Cemetery_%28Greenville%2C_South_Carolina%29.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 41979284,
+            "lat": 34.8558369,
+            "lon": -82.4004008,
+            "tags": {
+                "addr:city": "Greenville",
+                "addr:housenumber": "300",
+                "addr:postcode": "29601",
+                "addr:state": "SC",
+                "addr:street": "College Street",
+                "building": "yes",
+                "check_date": "2024-12-26",
+                "fee": "yes",
+                "height": "14.9",
+                "name": "The Children's Museum of the Upstate",
+                "opening_hours": "Mo off; Tu-Sa 09:00-16:30; Su 11:00-16:30",
+                "payment:apple_pay": "yes",
+                "payment:cash": "yes",
+                "payment:credit_cards": "yes",
+                "payment:debit_cards": "yes",
+                "phone": "+1 864-233-7755",
+                "toilets": "yes",
+                "tourism": "museum",
+                "website": "https://www.tcmupstate.org/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Greenville_County_Museum_of_Art_building.jpg/1280px-Greenville_County_Museum_of_Art_building.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 41979299,
+            "lat": 34.856495,
+            "lon": -82.4027702,
+            "tags": {
+                "addr:city": "Greenville",
+                "addr:housenumber": "516",
+                "addr:postcode": "29601",
+                "addr:state": "SC",
+                "addr:street": "Buncombe Street",
+                "building": "yes",
+                "height": "19.9",
+                "historic": "Former Coca Cola Bottling Plant",
+                "name": "Sigal Music Museum",
+                "tourism": "museum",
+                "website": "https://sigalmusicmuseum.org/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Upcountry_History_Museum_2017.jpg/1280px-Upcountry_History_Museum_2017.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 48158271,
+            "lat": 34.8412104,
+            "lon": -82.4084138,
+            "tags": {
+                "addr:city": "Greenville",
+                "addr:housenumber": "356",
+                "addr:postcode": "29601",
+                "addr:state": "SC",
+                "addr:street": "Field Street",
+                "building": "yes",
+                "height": "11.8",
+                "name": "Shoeless Joe Jackson Museum and Baseball Library",
+                "opening_hours": "Sa 10:00-14:00",
+                "phone": "+1 864 235 6280",
+                "tourism": "museum",
+                "website": "https://www.shoelessjoejackson.org/",
+                "wikidata": "Q15961572",
+                "wikipedia": "en:Shoeless Joe Jackson Museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Shoeless_Joe_Jackson_Museum%2C_June_2019.jpg/1280px-Shoeless_Joe_Jackson_Museum%2C_June_2019.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 48158345,
+            "lat": 34.8499784,
+            "lon": -82.3872805,
+            "tags": {
+                "addr:city": "Greenville",
+                "addr:housenumber": "15",
+                "addr:postcode": "29601",
+                "addr:state": "SC",
+                "addr:street": "Boyce Avenue",
+                "building": "yes",
+                "height": "14.8",
+                "name": "Museum and Library of Confederate History",
+                "opening_hours": "Mo 10:00-15:00; We 10:00-15:00; Fr 13:00-21:00; Sa 10:00-17:00; Su 13:00-17:00",
+                "phone": "+1 864 421 9039",
+                "tourism": "museum",
+                "website": "http://www.confederatemuseum.org/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Pettigru_Historic_District.jpg/1280px-Pettigru_Historic_District.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 227009663,
+            "lat": 43.1787892,
+            "lon": -85.2605242,
+            "tags": {
+                "addr:city": "Greenville",
+                "addr:housenumber": "516",
+                "addr:state": "MI",
+                "addr:street": "West Cass Street",
+                "building": "yes",
+                "name": "Fighting Falcon Military Museum",
+                "tourism": "museum"
+            }
+        },
+        {
+            "type": "way",
+            "id": 264401113,
+            "lat": 35.6079887,
+            "lon": -77.3744269,
+            "tags": {
+                "addr:city": "Greenville",
+                "addr:country": "US",
+                "addr:housenumber": "802",
+                "addr:postcode": "27834",
+                "addr:state": "NC",
+                "addr:street": "South Evans Street",
+                "building": "yes",
+                "email": "info@gmoa.org",
+                "fax": "+1-252-758-7989",
+                "name": "Greenville Museum of Art",
+                "opening_hours": "Tu-Fr 10:00-16:30; Sa,Su 13:00-16:00",
+                "phone": "+1-252-758-1946",
+                "tourism": "museum",
+                "website": "https://www.gmoa.org/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Jones-Lee_House.JPG/1280px-Jones-Lee_House.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 312091295,
+            "lat": 34.8442231,
+            "lon": -82.3515864,
+            "tags": {
+                "addr:city": "Greenville",
+                "addr:housenumber": "14",
+                "addr:postcode": "29607",
+                "addr:state": "SC",
+                "addr:street": "Airport Road Extension",
+                "building": "commercial",
+                "height": "15.9",
+                "museum": "military",
+                "name": "Military History Center of the Carolinas",
+                "opening_hours": "Mo-Fr off, Sa 10:00-16:00, Su 12:00-16:00",
+                "tourism": "museum",
+                "website": "https://www.milhcc.org/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/KGMU_Greenville_Downtown_001.jpg/1280px-KGMU_Greenville_Downtown_001.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 349671715,
+            "lat": 33.3842171,
+            "lon": -91.0662942,
+            "tags": {
+                "addr:city": "Greenville",
+                "addr:postcode": "38704",
+                "addr:state": "MS",
+                "addr:street": "US 82",
+                "alt_name": "Mississippi Welcome Center",
+                "area": "yes",
+                "contact:website": "http://www.visitmississippi.org/sitepages/welcome-centers#washington-county",
+                "name": "River Road Queen Welcome Center",
+                "name_1": "Washington County Welcome Center",
+                "phone": "+1-662-332-2378",
+                "tourism": "attraction",
+                "website": "http://www.visitmississippi.org/sitepages/welcome-centers#washington-county"
+            }
+        },
+        {
+            "type": "way",
+            "id": 357208538,
+            "lat": 34.8401578,
+            "lon": -82.3080993,
+            "tags": {
+                "addr:city": "Greenville",
+                "addr:housenumber": "402",
+                "addr:postcode": "29615",
+                "addr:state": "SC",
+                "addr:street": "Roper Mountain Road",
+                "building": "yes",
+                "height": "14.0",
+                "museum": "science",
+                "name": "Symmes Hall of Science",
+                "tourism": "museum"
+            }
+        },
+        {
+            "type": "way",
+            "id": 499507053,
+            "lat": 34.8377683,
+            "lon": -82.3086391,
+            "tags": {
+                "addr:city": "Greenville",
+                "addr:housenumber": "402",
+                "addr:postcode": "29615",
+                "addr:state": "SC",
+                "addr:street": "Roper Mountain Road",
+                "building": "yes",
+                "height": "10.6",
+                "museum": "science",
+                "name": "Harrison Hall of Natural Science",
+                "tourism": "museum",
+                "website": "https://www.ropermountain.org/pages.asp?titleid=harrisonhall"
+            }
+        },
+        {
+            "type": "way",
+            "id": 523704178,
+            "lat": 34.8429779,
+            "lon": -82.4194912,
+            "tags": {
+                "addr:city": "Greenville",
+                "addr:housenumber": "700",
+                "addr:postcode": "29601",
+                "addr:street": "Arlington Avenue",
+                "building": "yes",
+                "height": "15.3",
+                "name": "Greenville Cultural Exchange",
+                "tourism": "museum",
+                "website": "http://greenvilleculturalexchange.org"
+            }
+        },
+        {
+            "type": "way",
+            "id": 547104474,
+            "lat": 45.4591968,
+            "lon": -69.5944277,
+            "tags": {
+                "building": "yes",
+                "name": "Center for Moosehead History - Moosehead Historical Society",
+                "tourism": "museum"
+            }
+        },
+        {
+            "type": "way",
+            "id": 819279309,
+            "lat": 40.083581,
+            "lon": -84.6396963,
+            "tags": {
+                "landuse": "recreation_ground",
+                "name": "Darke County Fairgrounds",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "way",
+            "id": 917832390,
+            "lat": 40.1071373,
+            "lon": -84.6363626,
+            "tags": {
+                "addr:state": "OH",
+                "building": "yes",
+                "ele": "316",
+                "gnis:feature_id": "1055512",
+                "museum": "history",
+                "name": "Garst Museum",
+                "source": "USGS Geonames",
+                "tourism": "museum",
+                "wikidata": "Q5524294",
+                "wikipedia": "en:Garst Museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Garst_Museum.jpg/1280px-Garst_Museum.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 965464050,
+            "lat": 41.408073,
+            "lon": -80.3913105,
+            "tags": {
+                "building": "yes",
+                "name": "Canal Museam",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Greenville%2C_Pennsylvania_%288482440742%29.jpg/1280px-Greenville%2C_Pennsylvania_%288482440742%29.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 1019686573,
+            "lat": 34.8571304,
+            "lon": -82.4029283,
+            "tags": {
+                "addr:city": "Greenville",
+                "addr:housenumber": "540",
+                "addr:postcode": "29601",
+                "addr:state": "SC",
+                "addr:street": "Buncombe Street",
+                "building": "yes",
+                "name": "Upcountry History Museum",
+                "opening_hours": "We-Sa 10:00-17:00; Su 13:00-17:00",
+                "phone": "+1-864-467-3100",
+                "tourism": "museum",
+                "website": "https://www.upcountryhistory.org/",
+                "wikidata": "Q7898213"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Upcountry_History_Museum_2017.jpg/1280px-Upcountry_History_Museum_2017.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 1020170995,
+            "lat": 34.8564283,
+            "lon": -82.4006566,
+            "tags": {
+                "addr:city": "Greenville",
+                "addr:housenumber": "420",
+                "addr:postcode": "29601",
+                "addr:state": "SC",
+                "addr:street": "College Street",
+                "building": "yes",
+                "check_date": "2024-12-27",
+                "museum": "art",
+                "name": "The Greenville County Museum of Art",
+                "opening_hours": "Tu-We 11:00-17:00; Th 11:00-20:00; Fr-Sa 11:00-17:00; Su 13:00-17:00",
+                "phone": "+1-864-271-7570",
+                "tourism": "museum",
+                "website": "https://gcma.org/",
+                "wikidata": "Q14709503",
+                "wikipedia": "en:Greenville County Museum of Art"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Greenville_County_Museum_of_Art_building.jpg/1280px-Greenville_County_Museum_of_Art_building.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 1102739893,
+            "lat": 34.8370046,
+            "lon": -82.306578,
+            "tags": {
+                "name": "Living History Farm",
+                "tourism": "museum",
+                "website": "https://www.ropermountain.org/pages.asp?titleid=farm"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Magnolia_Park_Town_Center_%288092809216%29.jpg/1280px-Magnolia_Park_Town_Center_%288092809216%29.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 1102739895,
+            "lat": 34.8390301,
+            "lon": -82.3089735,
+            "tags": {
+                "alt_name": "Roper Mountain Environmental Science Center",
+                "ele": "365",
+                "gnis:feature_id": "1245592",
+                "landuse": "education",
+                "name": "Roper Mountain Science Center",
+                "tourism": "attraction",
+                "website": "https://www.ropermountain.org/",
+                "wikidata": "Q7366737"
+            }
+        },
+        {
+            "type": "way",
+            "id": 1193782514,
+            "lat": 43.1823613,
+            "lon": -85.2550391,
+            "tags": {
+                "addr:city": "Greenville",
+                "addr:housenumber": "213",
+                "addr:postcode": "48838",
+                "addr:state": "MI",
+                "addr:street": "North Franklin Street",
+                "building": "yes",
+                "name": "Flat River Historical Museum",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/WinterInnGreenvilleMi.jpg/1280px-WinterInnGreenvilleMi.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 1195555606,
+            "lat": 38.8910105,
+            "lon": -89.4107904,
+            "tags": {
+                "addr:city": "Greenville",
+                "addr:housenumber": "205",
+                "addr:postcode": "62246",
+                "addr:state": "IL",
+                "addr:street": "South Prairie Street",
+                "building": "yes",
+                "name": "De Moulin Museum",
+                "tourism": "museum"
+            }
+        },
+        {
+            "type": "way",
+            "id": 1331706401,
+            "lat": 38.8929767,
+            "lon": -89.4097335,
+            "tags": {
+                "addr:city": "Greenville",
+                "addr:housenumber": "219",
+                "addr:postcode": "62046",
+                "addr:state": "IL",
+                "addr:street": "East College Avenue",
+                "building": "house",
+                "building:levels": "2",
+                "fee": "no",
+                "museum": "art",
+                "name": "Almira House",
+                "opening_hours": "Sa 10:00-12:00",
+                "roof:levels": "0",
+                "tourism": "museum"
+            }
+        },
+        {
+            "type": "way",
+            "id": 1385892069,
+            "lat": 38.8895136,
+            "lon": -89.4148877,
+            "tags": {
+                "addr:city": "Greenville",
+                "addr:housenumber": "409",
+                "addr:postcode": "62246",
+                "addr:state": "IL",
+                "addr:street": "South 4th Street",
+                "building": "yes",
+                "museum": "local",
+                "name": "Bond County Museum",
+                "opening_hours": "Sa 10:00-12:00",
+                "phone": "+1-618-690-0469",
+                "tourism": "museum"
+            }
+        },
+        {
+            "type": "way",
+            "id": 1432942459,
+            "lat": 38.8727394,
+            "lon": -89.3741069,
+            "tags": {
+                "addr:city": "Greenville",
+                "addr:housenumber": "1395",
+                "addr:postcode": "62246",
+                "addr:state": "IL",
+                "addr:street": "Museum Avenue",
+                "area": "yes",
+                "building": "no",
+                "email": "amheritagemuseum@yahoo.com",
+                "museum": "open_air",
+                "name": "American Farm Heritage Museum",
+                "operator": "American Farm Heritage Museum",
+                "operator:type": "private_non_profit",
+                "phone": "+1-618-664-9733",
+                "tourism": "museum",
+                "website": "http://www.americanfarmheritagemuseum.com/"
+            }
+        },
+        {
+            "type": "way",
+            "id": 1469617796,
+            "lat": 38.8808356,
+            "lon": -89.4081518,
+            "tags": {
+                "building": "yes",
+                "museum": "person",
+                "name": "Robert “Ish” Smith Museum",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Francis_Field%2C_Greenville%2C_IL.JPG/1280px-Francis_Field%2C_Greenville%2C_IL.JPG",
+            "image_source": "wikipedia_verified"
+        }
+    ]
+}

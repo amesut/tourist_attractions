@@ -1,0 +1,360 @@
+{
+    "city_metadata": {
+        "city_name": "Idaho Falls",
+        "state_code": "ID",
+        "state_full": "Idaho",
+        "city_summary": "Idaho Falls is the fourth most populous city in Idaho and the county seat of Bonneville County. It is the state's most populous city outside the Boise metropolitan area. As of the 2020 census, the population of Idaho Falls was 64,818.",
+        "city_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Downtown_Idaho_Falls.jpg/1280px-Downtown_Idaho_Falls.jpg",
+        "city_lat": 43.50055556,
+        "city_lon": -112.02777778,
+        "source": "wikipedia_verified_engine"
+    },
+    "attractions": [
+        {
+            "type": "node",
+            "id": 8816229586,
+            "lat": 43.4934165,
+            "lon": -112.0137969,
+            "tags": {
+                "name": "Collectors Corner Museum",
+                "tourism": "museum"
+            }
+        },
+        {
+            "type": "way",
+            "id": 32062978,
+            "lat": 43.4901276,
+            "lon": -112.0454955,
+            "tags": {
+                "building": "yes",
+                "fee": "yes",
+                "name": "The Art Museum of Eastern Idaho",
+                "old_name": "Eagle Rock Art Museum",
+                "opening_hours": "Tu-Fr 10:00-17:00; Sa 10:00-16:00",
+                "tourism": "museum",
+                "website": "https://www.theartmuseum.org/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Chebro_music_shop_%2851260905636%29.jpg/1280px-Chebro_music_shop_%2851260905636%29.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 32064850,
+            "lat": 43.4906171,
+            "lon": -112.0379078,
+            "tags": {
+                "building": "yes",
+                "check_date:opening_hours": "2023-03-03",
+                "fee": "yes",
+                "name": "The Museum of Idaho",
+                "opening_hours": "Mo-Sa 10:00-18:00; Su 13:00-17:00",
+                "tourism": "museum",
+                "website": "https://museumofidaho.org/",
+                "wheelchair": "yes",
+                "wikidata": "Q39057800"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Idaho_Falls_Public_Library_%2851259600241%29.jpg/1280px-Idaho_Falls_Public_Library_%2851259600241%29.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 957725462,
+            "lat": 43.4721828,
+            "lon": -112.041958,
+            "tags": {
+                "name": "Idaho Falls Zoo at Tautphaus Park",
+                "tourism": "zoo"
+            }
+        },
+        {
+            "type": "way",
+            "id": 957725470,
+            "lat": 43.4732002,
+            "lon": -112.040441,
+            "tags": {
+                "name": "Funland at the Zoo",
+                "tourism": "theme_park"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 110718,
+            "lat": 47.69277778,
+            "lon": -116.78,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Coeur_d%27Alene_aerial%2C_May_2023_%28cropped%29.png/1280px-Coeur_d%27Alene_aerial%2C_May_2023_%28cropped%29.png",
+            "description": "Coeur d'Alene (  KOR də-LAYN; French: Cœur d'Alêne, lit. 'Heart of Awl' French pronunciation: [kœʁ da.lɛn]) is a city in and the county seat of Kootenai County, Idaho, United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Coeur d'Alene, Idaho",
+                "wikipedia": "en:Coeur d'Alene, Idaho",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 1809013,
+            "lat": 42.59527778,
+            "lon": -114.40083333,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Shoshone_Falls%2C_Idaho.jpg/1280px-Shoshone_Falls%2C_Idaho.jpg",
+            "description": "Shoshone Falls ( shoh-SHOHN) is a waterfall in the western United States, on the Snake River in south-central Idaho, approximately three miles (5 km) northeast of the city of Twin Falls.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Shoshone Falls",
+                "wikipedia": "en:Shoshone Falls",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 16089393,
+            "lat": 43.49305556,
+            "lon": -112.04138889,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Colonial_Theater_%2851260904141%29.jpg/1280px-Colonial_Theater_%2851260904141%29.jpg",
+            "description": "The Colonial Theater is a historic theater in Idaho Falls, Idaho, founded in 1919 as a venue for live performances.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Colonial Theatre (Idaho Falls, Idaho)",
+                "wikipedia": "en:Colonial Theatre (Idaho Falls, Idaho)",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 14607,
+            "lat": 45,
+            "lon": -115,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Flag_of_Idaho.svg/1280px-Flag_of_Idaho.svg.png",
+            "description": "Idaho ( , EYE-də-hoe) is a landlocked state in the Pacific Northwest and Mountain West subregions of the Western United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Idaho",
+                "wikipedia": "en:Idaho",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 2310404,
+            "lat": 42.6,
+            "lon": -114.4537,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d9/U.S._Highway_93_bridge_from_within_Snake_River_Canyon.jpeg",
+            "description": "The I. B. Perrine Bridge is a four-lane truss arch span over the Snake River in the western United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Perrine Bridge",
+                "wikipedia": "en:Perrine Bridge",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 402032,
+            "lat": 42.861,
+            "lon": -112.434,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Idaho_State_University_logo.svg/1280px-Idaho_State_University_logo.svg.png",
+            "description": "Idaho State University (ISU) is a public research university in Pocatello, Idaho, United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Idaho State University",
+                "wikipedia": "en:Idaho State University",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 1966305,
+            "lat": 43.655,
+            "lon": -114.40916667,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/da/Baldmountainid.jpg",
+            "description": "Bald Mountain (9,121 feet (2,780 m)) is a mountain in the western United States in south central Idaho, adjacent to the city of Ketchum in Blaine County.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Bald Mountain (Idaho)",
+                "wikipedia": "en:Bald Mountain (Idaho)",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 24714247,
+            "lat": 42.86694444,
+            "lon": -111.90194444,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/51/Chestefield_Idaho_Meeting_House.JPG",
+            "description": "Chesterfield is a ghost town in Caribou County, Idaho, United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Chesterfield, Idaho",
+                "wikipedia": "en:Chesterfield, Idaho",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 14976905,
+            "lat": 42.59388889,
+            "lon": -114.455,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Http-www.magicvalleymall.com_-_panoramio.jpg/1280px-Http-www.magicvalleymall.com_-_panoramio.jpg",
+            "description": "Magic Valley Mall is an enclosed shopping mall located in Twin Falls, Idaho.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Magic Valley Mall",
+                "wikipedia": "en:Magic Valley Mall",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 48988,
+            "lat": 39.7425,
+            "lon": -105.51361111,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Idaho_Springs_in_2006.jpg",
+            "description": "Idaho Springs is a  statutory city in Clear Creek County, Colorado, United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Idaho Springs, Colorado",
+                "wikipedia": "en:Idaho Springs, Colorado",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 855382,
+            "lat": 43.612357,
+            "lon": -116.216147,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/67/BoiseGreenbeltWildlifeSignage.jpg",
+            "description": "The Boise River Greenbelt is a recreational and alternate transportation trail along the banks of the Boise River through Boise, Idaho, United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Boise River Greenbelt",
+                "wikipedia": "en:Boise River Greenbelt",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 123354,
+            "lat": 47.49166667,
+            "lon": -111.28916667,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Central_Ave_and_Civic_Center_2.JPG/1280px-Central_Ave_and_Civic_Center_2.JPG",
+            "description": "Great Falls is the third most populous city in the U.S. state of Montana and the county seat of Cascade County.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Great Falls, Montana",
+                "wikipedia": "en:Great Falls, Montana",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 26893809,
+            "lat": 38.935,
+            "lon": -105.01694444,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Green_Mtn_Falls_landoffice.JPG/1280px-Green_Mtn_Falls_landoffice.JPG",
+            "description": "The Town of Green Mountain Falls is a statutory town located in El Paso and Teller counties of the U.S. of State of Colorado.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Green Mountain Falls, Colorado",
+                "wikipedia": "en:Green Mountain Falls, Colorado",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 11900379,
+            "lat": 41.98555556,
+            "lon": -114.67,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/02/Cactus_Pete%27s_Resort_%26_Casino_-_panoramio.jpg",
+            "description": "Cactus Petes Resort Casino is a hotel and casino located in Jackpot, Nevada.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Cactus Pete's",
+                "wikipedia": "en:Cactus Pete's",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 108506,
+            "lat": 39.53472222,
+            "lon": -107.77277778,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Rifle%2C_Colorado.JPG/1280px-Rifle%2C_Colorado.JPG",
+            "description": "Rifle is a home-rule municipality in, and the most populous community of, Garfield County, Colorado, United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Rifle, Colorado",
+                "wikipedia": "en:Rifle, Colorado",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 108482,
+            "lat": 38.8575,
+            "lon": -104.91277778,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Manitou_Springs_City_Hall.JPG/1280px-Manitou_Springs_City_Hall.JPG",
+            "description": "Manitou Springs is a home rule municipality located at the foot of Pikes Peak in western El Paso County, Colorado, United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Manitou Springs, Colorado",
+                "wikipedia": "en:Manitou Springs, Colorado",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 108618,
+            "lat": 38.06297222,
+            "lon": -102.31159167,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Aerial_view_of_Granada%2C_Colorado.jpg/1280px-Aerial_view_of_Granada%2C_Colorado.jpg",
+            "description": "Granada is a statutory town in Prowers County, Colorado, United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Granada, Colorado",
+                "wikipedia": "en:Granada, Colorado",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 124417,
+            "lat": 40.83888889,
+            "lon": -115.74027778,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/2012-09-30_14_28_33_View_of_downtown_Elko_in_Nevada_from_a_bluff_to_the_south.jpg/1280px-2012-09-30_14_28_33_View_of_downtown_Elko_in_Nevada_from_a_bluff_to_the_south.jpg",
+            "description": "Elko is a city in and the county seat of Elko County, Nevada, United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Elko, Nevada",
+                "wikipedia": "en:Elko, Nevada",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 108569,
+            "lat": 39.26388889,
+            "lon": -103.69222222,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Limon_Colorado.JPG/1280px-Limon_Colorado.JPG",
+            "description": "Limon (pronounced  LYE-mən) is a statutory town in Lincoln County, Colorado, United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Limon, Colorado",
+                "wikipedia": "en:Limon, Colorado",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 108610,
+            "lat": 38.0275,
+            "lon": -107.67333333,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Ouray%2C_Colorado.JPG/1280px-Ouray%2C_Colorado.JPG",
+            "description": "Ouray ( YOOR-ay) is a home rule municipality that is the county seat of Ouray County, Colorado, United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Ouray, Colorado",
+                "wikipedia": "en:Ouray, Colorado",
+                "tourism": "attraction"
+            }
+        }
+    ]
+}

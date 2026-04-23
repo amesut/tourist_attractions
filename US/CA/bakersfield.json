@@ -1,0 +1,365 @@
+{
+    "city_metadata": {
+        "city_name": "Bakersfield",
+        "state_code": "CA",
+        "state_full": "California",
+        "city_summary": "Bakersfield is a city in and the county seat of Kern County, California, United States. The city covers about 151 sq mi (390 km2) near the southern end of the San Joaquin Valley, which is located in the Central Valley region.\nBakersfield's population as of the 2020 Census was 403,455, making it the 47th-most populous city in the United States and the 9th-most populous in California.",
+        "city_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/2009-0726-CA-Bakersfield-FoxTheater_%28cropped%29.jpg/1280px-2009-0726-CA-Bakersfield-FoxTheater_%28cropped%29.jpg",
+        "city_lat": 35.3733,
+        "city_lon": -119.0189,
+        "source": "wikipedia_verified_engine"
+    },
+    "attractions": [
+        {
+            "type": "node",
+            "id": 366668018,
+            "lat": 44.8317142,
+            "lon": -72.8037433,
+            "tags": {
+                "addr:state": "VT",
+                "ele": "155",
+                "gnis:feature_id": "1920721",
+                "name": "President Arthur Birthplace Museum",
+                "source": "USGS Geonames",
+                "tourism": "museum"
+            }
+        },
+        {
+            "type": "node",
+            "id": 368174557,
+            "lat": 35.3927598,
+            "lon": -119.0189959,
+            "tags": {
+                "addr:state": "CA",
+                "ele": "126",
+                "gnis:feature_id": "1839010",
+                "name": "Kern County Museum Historical Reference Library",
+                "source": "USGS Geonames",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Kern_County_Chamber_of_Commerce_Building_Facing_West.jpg/1280px-Kern_County_Chamber_of_Commerce_Building_Facing_West.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 368174566,
+            "lat": 35.3927361,
+            "lon": -119.01899,
+            "tags": {
+                "addr:city": "Bakersfield",
+                "addr:housenumber": "3801",
+                "addr:postcode": "93301",
+                "addr:state": "CA",
+                "addr:street": "Chester Avenue",
+                "ele": "126",
+                "email": "bebe@kerncountymuseum.org",
+                "gnis:feature_id": "1839009",
+                "museum": "local_history",
+                "name": "Kern County Museum and Pioneer Village",
+                "opening_hours": "We-Su 09:00-16:00; PH off",
+                "opening_hours:url": "https://kerncountymuseum.org/hours-and-admission/",
+                "phone": "+1 661 437 3330",
+                "source": "USGS Geonames",
+                "tourism": "museum",
+                "website": "https://kerncountymuseum.org/",
+                "wikidata": "Q6394119"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Kern_County_Chamber_of_Commerce_Building_Facing_West.jpg/1280px-Kern_County_Chamber_of_Commerce_Building_Facing_West.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 108259,
+            "lat": 37.66138889,
+            "lon": -120.99444444,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Gallo_Center_for_the_Arts_Modesto_%28cropped%29.JPG/1280px-Gallo_Center_for_the_Arts_Modesto_%28cropped%29.JPG",
+            "description": "Modesto ( mə-DESS-toh; Spanish pronunciation: [moˈðesto]; Spanish for \"modest\") is the county seat of and the largest city in Stanislaus County, California, United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Modesto, California",
+                "wikipedia": "en:Modesto, California",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 23590252,
+            "lat": 35.338,
+            "lon": -119.034,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Valley_Plaza_Mall.jpg/1280px-Valley_Plaza_Mall.jpg",
+            "description": "Valley Plaza Mall is a shopping mall in Bakersfield, California.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Valley Plaza Mall",
+                "wikipedia": "en:Valley Plaza Mall",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 10311463,
+            "lat": 33.83027778,
+            "lon": -116.54527778,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Palm_Springs_from_the_Museum_Trail.jpg/1280px-Palm_Springs_from_the_Museum_Trail.jpg",
+            "description": "Palm Springs (Cahuilla: Séc-he) is a desert resort city in Riverside County, California, United States, within the Colorado Desert's Coachella Valley.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Palm Springs, California",
+                "wikipedia": "en:Palm Springs, California",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 26956900,
+            "lat": 35.44,
+            "lon": -118.866,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/47/Lake_Ming%2C_California.jpg",
+            "description": "Lake Ming is a man-made recreational lake located in Bakersfield, California.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Lake Ming",
+                "wikipedia": "en:Lake Ming",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 29631,
+            "lat": 38.58166667,
+            "lon": -121.49444444,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Sacramento%2C_CA_skyline_%28cropped%29.jpg/1280px-Sacramento%2C_CA_skyline_%28cropped%29.jpg",
+            "description": "Sacramento is the capital city of the U.S. state of California.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Sacramento, California",
+                "wikipedia": "en:Sacramento, California",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 5407,
+            "lat": 37,
+            "lon": -120,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Flag_of_California.svg/1280px-Flag_of_California.svg.png",
+            "description": "California () is a state in the Western United States that lies on the Pacific Coast.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "California",
+                "wikipedia": "en:California",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 7565305,
+            "lat": 38.5125,
+            "lon": -121.49333333,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/42/Sacramento_Executive_Airport_-_California.jpg",
+            "description": "Sacramento Executive Airport (IATA: SAC, ICAO: KSAC, FAA LID: SAC) is a public airport three miles (5 km) south of downtown Sacramento, in Sacramento County, California, United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Sacramento Executive Airport",
+                "wikipedia": "en:Sacramento Executive Airport",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 750601,
+            "lat": 33.7,
+            "lon": -116.2,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Coachella_Valley_on_a_Fall_Morning.jpg/1280px-Coachella_Valley_on_a_Fall_Morning.jpg",
+            "description": "The Coachella Valley ( koh-CHEL-ə, KOH-ə-) is an arid rift valley in the Colorado Desert of Southern California in Riverside County.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Coachella Valley",
+                "wikipedia": "en:Coachella Valley",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 107538,
+            "lat": 35.75472222,
+            "lon": -118.42527778,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Downtown_Kernville.JPG/1280px-Downtown_Kernville.JPG",
+            "description": "Kernville is a census-designated place (CDP) in the southern Sierra Nevada, in Kern County, California, United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Kernville, California",
+                "wikipedia": "en:Kernville, California",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 108092,
+            "lat": 35.36722222,
+            "lon": -120.84666667,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Morrow_Bay_2012_2.jpg/1280px-Morrow_Bay_2012_2.jpg",
+            "description": "Morro Bay (Morro, Spanish for \"Hill\") is a seaside city in San Luis Obispo County, California, United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Morro Bay, California",
+                "wikipedia": "en:Morro Bay, California",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 10012799,
+            "lat": 34.90472222,
+            "lon": -117.02472222,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Harveyhouse3.JPG/1280px-Harveyhouse3.JPG",
+            "description": "The Barstow Harvey House, also known as Harvey House Railroad Depot and Barstow station, is a historic building in Barstow, California.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Barstow Harvey House",
+                "wikipedia": "en:Barstow Harvey House",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 3231125,
+            "lat": 33.69583333,
+            "lon": -116.37027778,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Living_desert.JPG/1280px-Living_desert.JPG",
+            "description": "The Living Desert Zoo and Gardens, formerly the Living Desert Museum, is a non-profit zoo and desert botanical garden in Palm Desert, in the Colorado Desert, in California in the United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Living Desert Zoo and Gardens",
+                "wikipedia": "en:Living Desert Zoo and Gardens",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 73751165,
+            "lat": 34.607168,
+            "lon": -120.176573,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Ostrichland_USA_feeding_02.jpg/1280px-Ostrichland_USA_feeding_02.jpg",
+            "description": "OstrichLand USA is an ostrich and emu ranch in Santa Barbara County, California, in between the towns of Buellton and Solvang, just off California State Route 246.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "OstrichLand USA",
+                "wikipedia": "en:OstrichLand USA",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 7372510,
+            "lat": 34.558982,
+            "lon": -115.743917,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Roy%27s_Cafe_%26_Motel.jpg",
+            "description": "Roy's Motel and Café is a motel, café, gas station, and auto repair shop on the National Trails Highway, the former U.S. Route 66, in the Mojave Desert town of Amboy in San Bernardino County, California.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Roy's Motel and Café",
+                "wikipedia": "en:Roy's Motel and Café",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 26661212,
+            "lat": 35.64083333,
+            "lon": -120.65388889,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Pasorobles2.JPG/1280px-Pasorobles2.JPG",
+            "description": "Paso Robles ( PASS-ə ROH-bəlz), officially El Paso de Robles (Spanish for The Pass of Oaks), is a city in San Luis Obispo County, California, United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Paso Robles, California",
+                "wikipedia": "en:Paso Robles, California",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 62520,
+            "lat": 34,
+            "lon": -117,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/La_Jolla_Shores_view.jpg/1280px-La_Jolla_Shores_view.jpg",
+            "description": "Southern California (commonly shortened to SoCal) is a geographic and cultural region that generally comprises the southern portion of the U.S. state of California.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Southern California",
+                "wikipedia": "en:Southern California",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 447472,
+            "lat": 31.64,
+            "lon": 74.86,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Golden_Temple_Amritsar_Gurudwara_%28cropped%29.jpg/1280px-Golden_Temple_Amritsar_Gurudwara_%28cropped%29.jpg",
+            "description": "Amritsar, also known as Ambarsar, is the second-largest city in the Indian state of Punjab, after Ludhiana.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Amritsar",
+                "wikipedia": "en:Amritsar",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 21649,
+            "lat": 34,
+            "lon": -106,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Flag_of_New_Mexico.svg/1280px-Flag_of_New_Mexico.svg.png",
+            "description": "New Mexico is a landlocked state in the Southwestern region of the United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "New Mexico",
+                "wikipedia": "en:New Mexico",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 5629172,
+            "lat": 40.77698,
+            "lon": -124.14496,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Sequoia-Park-Zoo.jpg/1280px-Sequoia-Park-Zoo.jpg",
+            "description": "The Sequoia Park Zoo is a zoo located in Eureka, California, operated by the City of Eureka.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Sequoia Park Zoo",
+                "wikipedia": "en:Sequoia Park Zoo",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 22387125,
+            "lat": 34.84083333,
+            "lon": -114.60555556,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/2014_07_19_El_Garces_Needles_CA_02.JPG/1280px-2014_07_19_El_Garces_Needles_CA_02.JPG",
+            "description": "El Garces Intermodal Transportation Facility (also known as Needles station) is an Amtrak intercity rail station and bus depot in downtown Needles, California.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "El Garces Intermodal Transportation Facility",
+                "wikipedia": "en:El Garces Intermodal Transportation Facility",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 13627586,
+            "lat": 43.17777778,
+            "lon": -89.21111111,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/MidgetCarsRacingAngellParkMay2010.jpg/1280px-MidgetCarsRacingAngellParkMay2010.jpg",
+            "description": "Angell Park Speedway is a 1/3 mile (0.54 km) dirt racetrack located in Sun Prairie, Wisconsin.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Angell Park Speedway",
+                "wikipedia": "en:Angell Park Speedway",
+                "tourism": "attraction"
+            }
+        }
+    ]
+}

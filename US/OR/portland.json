@@ -1,0 +1,1743 @@
+{
+    "city_metadata": {
+        "city_name": "Portland",
+        "state_code": "OR",
+        "state_full": "Oregon",
+        "city_summary": "Portland ( PORT-lənd) is the most populous city in the U.S. state of Oregon. Located in the Pacific Northwest at the confluence of the Willamette and Columbia rivers, it is the 28th-most populous city in the United States, sixth-most populous on the West Coast, and fourth-most populous in the Pacific Northwest (after Seattle, Washington, and Vancouver, Canada), with a population of 652,503 at the 2020 census. The Portland metropolitan area, with over 2.54 million residents, is the 26th-largest metropolitan area in the nation.",
+        "city_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Portland_Oregon_Aerial%2C_June_2025.jpg/1280px-Portland_Oregon_Aerial%2C_June_2025.jpg",
+        "city_lat": 45.52,
+        "city_lon": -122.68194444,
+        "source": "wikipedia_verified_engine"
+    },
+    "attractions": [
+        {
+            "type": "node",
+            "id": 290802032,
+            "lat": 18.1951187,
+            "lon": -76.5541102,
+            "tags": {
+                "addr:country": "JM",
+                "description": "Waterfall area in steeply walled gorge. Artificially landscape with pools.",
+                "name": "Somerset Falls",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 367795543,
+            "lat": 43.6507298,
+            "lon": -70.2907675,
+            "tags": {
+                "addr:city": "Portland",
+                "addr:housenumber": "250",
+                "addr:postcode": "04102",
+                "addr:state": "ME",
+                "addr:street": "Thompsons Point Road",
+                "contact:facebook": "https://www.facebook.com/kitetails",
+                "fee": "yes",
+                "gnis:feature_id": "1913207",
+                "name": "Children's Museum & Theatre of Maine",
+                "opening_hours": "We-Su 09:00-16:00",
+                "tourism": "museum",
+                "website": "https://www.kitetails.org/",
+                "wheelchair": "yes",
+                "wikidata": "Q5098174"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Thompson%E2%80%99s_Point%2C_Maine_2023_2.jpg/1280px-Thompson%E2%80%99s_Point%2C_Maine_2023_2.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 368158238,
+            "lat": 36.5833041,
+            "lon": -86.5087772,
+            "tags": {
+                "addr:state": "TN",
+                "alt_name": "Cold Springs School",
+                "ele": "244",
+                "gnis:feature_id": "1320607",
+                "name": "Cold Springs Museum",
+                "source": "USGS Geonames",
+                "tourism": "museum",
+                "website": "http://www.hrhstn.org/cold-springs-school"
+            }
+        },
+        {
+            "type": "node",
+            "id": 430971631,
+            "lat": 45.5101686,
+            "lon": -122.7152738,
+            "tags": {
+                "name": "Cascade Crest",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Zooliner_train_-_Washington_Park_%26_Zoo_Railway%2C_cropped.jpg/1280px-Zooliner_train_-_Washington_Park_%26_Zoo_Railway%2C_cropped.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 596136757,
+            "lat": -38.3459442,
+            "lon": 141.6077191,
+            "tags": {
+                "name": "Maritime Discovery Centre",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 942667370,
+            "lat": 45.528294,
+            "lon": -122.7250787,
+            "tags": {
+                "access": "yes",
+                "alt_name": "Stone House",
+                "historic": "ruins",
+                "historic:civilization": "modern",
+                "name": "Witch's Castle",
+                "panoramax": "d99de73b-56e1-4b70-8815-cdd67f25b11b",
+                "ruins": "building",
+                "tourism": "attraction",
+                "wikidata": "Q105200533",
+                "wikipedia": "en:Stone House (Portland, Oregon)"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Macleay_stone_building.jpg/1280px-Macleay_stone_building.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 1167617649,
+            "lat": 43.6625359,
+            "lon": -70.2530303,
+            "tags": {
+                "addr:city": "Portland",
+                "addr:housename": "Maine Jewish Museum",
+                "addr:housenumber": "267",
+                "addr:postcode": "04101",
+                "addr:state": "ME",
+                "addr:street": "Congress Street",
+                "name": "Maine Jewish Museum",
+                "tourism": "museum",
+                "website": "https://mainejewishmuseum.org/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Bayside_Variety%2C_Portland_ME.jpg/1280px-Bayside_Variety%2C_Portland_ME.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 1604868801,
+            "lat": 50.5142519,
+            "lon": -2.4595132,
+            "tags": {
+                "name": "Pulpit Rock",
+                "natural": "rock",
+                "tourism": "attraction",
+                "wikidata": "Q7259597",
+                "wikipedia": "en:Pulpit Rock, Portland"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Pulpit_Rock%2C_Portland_Bill%2C_Isle_of_Portland%2C_Dorset.jpg/1280px-Pulpit_Rock%2C_Portland_Bill%2C_Isle_of_Portland%2C_Dorset.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 1604868806,
+            "lat": 50.5133026,
+            "lon": -2.4567388,
+            "tags": {
+                "historic": "monument",
+                "name": "Trinity House Obelisk",
+                "tourism": "attraction",
+                "wikidata": "Q7842857",
+                "wikipedia": "en:Trinity House Obelisk"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Trinity_House_obelisk%2C_Portland_Bill_-_geograph.org.uk_-_1099815.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 1604868819,
+            "lat": 50.5581998,
+            "lon": -2.4343819,
+            "tags": {
+                "historic": "ruins",
+                "name": "Verne Redoubt",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Uk_dor_highangle.JPG/1280px-Uk_dor_highangle.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 2774889821,
+            "lat": 18.1440933,
+            "lon": -76.477595,
+            "tags": {
+                "name": "Rafting on the Rio Grande",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 2924967041,
+            "lat": 45.5605183,
+            "lon": -122.6746436,
+            "tags": {
+                "addr:city": "Portland",
+                "addr:housenumber": "5204",
+                "addr:postcode": "97217",
+                "addr:state": "OR",
+                "addr:street": "North Sumner Street",
+                "contact:website": "https://portlandmuseumofmodernart.com/",
+                "name": "Portland Museum of Modern Art",
+                "short_name": "PMOMA",
+                "tourism": "museum",
+                "wikidata": "Q62572135",
+                "wikipedia": "en:Portland Museum of Modern Art"
+            }
+        },
+        {
+            "type": "node",
+            "id": 3036780683,
+            "lat": 18.0305794,
+            "lon": -76.3117493,
+            "tags": {
+                "name": "Reach Falls",
+                "opening_hours": "08:30-16:30",
+                "phone": "+1(876) 276-8663",
+                "source": "KG Ground Survey 2015",
+                "tourism": "attraction",
+                "waterway": "waterfall",
+                "website": "http://www.udcja.com/reach-falls"
+            }
+        },
+        {
+            "type": "node",
+            "id": 3665820220,
+            "lat": -38.3528762,
+            "lon": 141.6031818,
+            "tags": {
+                "fee": "yes",
+                "name": "Powerhouse Motor Car Museum",
+                "operator": "Portland Vintage Car Club",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Portland_cable_tram.JPG/1280px-Portland_cable_tram.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 3717724854,
+            "lat": 45.5352957,
+            "lon": -122.6975828,
+            "tags": {
+                "addr:city": "Portland",
+                "addr:housenumber": "2234",
+                "addr:postcode": "97210",
+                "addr:state": "OR",
+                "addr:street": "Northwest Thurman Street",
+                "name": "The Freakybuttrue Peculiarium and Museum",
+                "phone": "+15032273164",
+                "tourism": "museum",
+                "website": "https://www.peculiarium.com/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Northwest_Portland%2C_Oregon_%282022%29_-_12_%28cropped%29.jpg/1280px-Northwest_Portland%2C_Oregon_%282022%29_-_12_%28cropped%29.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 3763194908,
+            "lat": 45.5143606,
+            "lon": -122.6795678,
+            "tags": {
+                "addr:city": "Portland",
+                "addr:housenumber": "1300",
+                "addr:postcode": "97201",
+                "addr:state": "OR",
+                "addr:street": "Southwest 5th Avenue",
+                "name": "Wells Fargo History Exhibit",
+                "operator": "Wells Fargo",
+                "tourism": "museum",
+                "website": "https://www.wellsfargohistory.com/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/PortlandWellsFargoCenter.jpg/1280px-PortlandWellsFargoCenter.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 4035505070,
+            "lat": 45.5150962,
+            "lon": -122.6763292,
+            "tags": {
+                "addr:city": "Portland",
+                "addr:housenumber": "1111",
+                "addr:postcode": "97204",
+                "addr:state": "OR",
+                "addr:street": "Southwest 2nd Avenue",
+                "name": "Portland Police Museum",
+                "tourism": "museum",
+                "website": "https://www.portlandpolicemuseum.com/",
+                "wikidata": "Q18749145"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Police_museum_-_Portland%2C_Oregon_%28cropped%29.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 4510119681,
+            "lat": 45.5261047,
+            "lon": -122.6747179,
+            "tags": {
+                "addr:city": "Portland",
+                "addr:housenumber": "411",
+                "addr:postcode": "97209",
+                "addr:state": "OR",
+                "addr:street": "Northwest Flanders Street",
+                "addr:unit": "100",
+                "check_date": "2024-06-13",
+                "contact:facebook": "https://www.facebook.com/JAMOpdx",
+                "email": "info@jamo.org",
+                "museum": "history",
+                "name": "Japanese American Museum of Oregon",
+                "old_name": "Oregon Nikkei Legacy Center",
+                "opening_hours": "We-Sa 10:00-16:00; Su 11:00-16:00",
+                "phone": "+1-503-224-1458",
+                "toilets": "yes",
+                "tourism": "museum",
+                "website": "https://jamo.org/",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 4660928507,
+            "lat": 45.5086722,
+            "lon": -122.7112722,
+            "tags": {
+                "name": "Elephant Lands",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Oregon_Zoo_entrance_January_2024.jpeg/1280px-Oregon_Zoo_entrance_January_2024.jpeg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 4660928508,
+            "lat": 45.5089448,
+            "lon": -122.7137934,
+            "tags": {
+                "name": "Primate Forest",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Oregon_Zoo_entrance_January_2024.jpeg/1280px-Oregon_Zoo_entrance_January_2024.jpeg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 4660928509,
+            "lat": 45.5080745,
+            "lon": -122.7147939,
+            "tags": {
+                "name": "Africa",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Oregon_Zoo_entrance_January_2024.jpeg/1280px-Oregon_Zoo_entrance_January_2024.jpeg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 4660928510,
+            "lat": 45.5088815,
+            "lon": -122.7152077,
+            "tags": {
+                "name": "Discovery Zone",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Zooliner_train_-_Washington_Park_%26_Zoo_Railway%2C_cropped.jpg/1280px-Zooliner_train_-_Washington_Park_%26_Zoo_Railway%2C_cropped.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 4660928511,
+            "lat": 45.5093536,
+            "lon": -122.7142977,
+            "tags": {
+                "name": "Pacific Shores",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Zooliner_train_-_Washington_Park_%26_Zoo_Railway%2C_cropped.jpg/1280px-Zooliner_train_-_Washington_Park_%26_Zoo_Railway%2C_cropped.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 4660928512,
+            "lat": 45.5109353,
+            "lon": -122.7154805,
+            "tags": {
+                "name": "Great Northwest",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Westbound_platform_at_Washington_Park_station%2C_February_2018.jpg/1280px-Westbound_platform_at_Washington_Park_station%2C_February_2018.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 4919866421,
+            "lat": 50.5684755,
+            "lon": -2.4440165,
+            "tags": {
+                "addr:postcode": "DT5 1BD",
+                "contact:facebook": "castletownddaycentre",
+                "name": "Castletown D-Day Centre",
+                "opening_hours": "We-Su 10:30-15:30",
+                "phone": "+44 1305 443444",
+                "tourism": "museum",
+                "website": "https://ddaycentre.com/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Uk_dor_portharbour.JPG/1280px-Uk_dor_portharbour.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 5132735083,
+            "lat": 45.5100978,
+            "lon": -122.7182877,
+            "tags": {
+                "name": "\"Peggy\" Locomotive",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Mangels_Carousel_1987_-_Portland_Oregon.jpg/1280px-Mangels_Carousel_1987_-_Portland_Oregon.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 5255083521,
+            "lat": 43.6515761,
+            "lon": -70.2905292,
+            "tags": {
+                "addr:city": "Portland",
+                "addr:housenumber": "106",
+                "addr:postcode": "04102",
+                "addr:state": "ME",
+                "addr:street": "Thompsons Point",
+                "name": "International Cryptozoology Museum",
+                "opening_hours": "We-Mo 11:00-15:30",
+                "tourism": "museum",
+                "website": "https://cryptozoologymuseum.com/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Thompson%E2%80%99s_Point%2C_Maine_2023_2.jpg/1280px-Thompson%E2%80%99s_Point%2C_Maine_2023_2.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 5704168429,
+            "lat": 18.209047,
+            "lon": -76.6735768,
+            "tags": {
+                "name": "Plum Valley",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 6442437042,
+            "lat": 45.5243447,
+            "lon": -122.6736205,
+            "tags": {
+                "addr:city": "Portland",
+                "addr:housenumber": "127",
+                "addr:postcode": "97209",
+                "addr:state": "OR",
+                "addr:street": "Northwest 3rd Avenue",
+                "fee": "yes",
+                "name": "Portland Chinatown Museum",
+                "opening_hours": "Fr-Su 11:00-15:00",
+                "tourism": "museum",
+                "website": "https://www.portlandchinatownmuseum.org/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Portland%2C_Oregon%2C_US_-_August_2025_-_510_%28cropped%29.jpg/1280px-Portland%2C_Oregon%2C_US_-_August_2025_-_510_%28cropped%29.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 6538245685,
+            "lat": 45.5244135,
+            "lon": -122.6725859,
+            "tags": {
+                "addr:housenumber": "131",
+                "addr:street": "Northwest 2nd Avenue",
+                "name": "Portland Walking Tours",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Merchant_Hotel_building_-_Portland%2C_Oregon_%282016%29.jpg/1280px-Merchant_Hotel_building_-_Portland%2C_Oregon_%282016%29.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 6564025317,
+            "lat": 43.655746,
+            "lon": -70.252418,
+            "tags": {
+                "name": "Portland Discovery Land and Sea Tours",
+                "phone": "+1-207-774-0808",
+                "tourism": "attraction",
+                "website": "https://www.portlanddiscovery.com/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Long_Wharf_2024.jpg/1280px-Long_Wharf_2024.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 6595307485,
+            "lat": 18.1777751,
+            "lon": -76.4023822,
+            "tags": {
+                "name": "Cannon Cliff",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/79/Frenchman%27s_cove1.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 6767583137,
+            "lat": 43.6836097,
+            "lon": -70.1935381,
+            "tags": {
+                "name": "Fort McKinley Museum",
+                "opening_hours": "Fr-Su 10:30-14:30",
+                "tourism": "museum",
+                "website": "https://www.diamondcove.com/fort-mckinley-museum-2/"
+            }
+        },
+        {
+            "type": "node",
+            "id": 6773241857,
+            "lat": 45.5243343,
+            "lon": -122.6782058,
+            "tags": {
+                "addr:city": "Portland",
+                "addr:housenumber": "724",
+                "addr:postcode": "97209",
+                "addr:street": "Northwest Davis Street",
+                "name": "Oregon Jewish Museum",
+                "phone": "+1-503-226-3600",
+                "tourism": "museum",
+                "website": "https://www.ojmche.org/",
+                "wikidata": "Q15264274"
+            }
+        },
+        {
+            "type": "node",
+            "id": 6951891044,
+            "lat": 18.1500063,
+            "lon": -76.7174838,
+            "tags": {
+                "alt_name": "Big Dunn Falls, Avocat Falls, Black Bridge Waterfall",
+                "name": "Fish Dun Falls",
+                "tourism": "attraction",
+                "waterway": "waterfall"
+            }
+        },
+        {
+            "type": "node",
+            "id": 6978526280,
+            "lat": 18.0742868,
+            "lon": -76.2960577,
+            "tags": {
+                "name": "Devil's Elbow",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 7039232848,
+            "lat": 18.1819902,
+            "lon": -76.6542935,
+            "tags": {
+                "name": "Bybrook Valley",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 7039486344,
+            "lat": 18.1290492,
+            "lon": -76.6873813,
+            "tags": {
+                "name": "Bremen Valley",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 7061124030,
+            "lat": 18.2119351,
+            "lon": -76.7106253,
+            "tags": {
+                "name": "Prior Park",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 7061702956,
+            "lat": 18.194958,
+            "lon": -76.6765478,
+            "tags": {
+                "historic": "ruins",
+                "name": "Orange Vale Plantation Ruins (18th c.)",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 7061815769,
+            "lat": 18.2006631,
+            "lon": -76.6745228,
+            "tags": {
+                "name": "Quao’s Village",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 7975287429,
+            "lat": 43.6600233,
+            "lon": -70.2459388,
+            "tags": {
+                "name": "Tug Stamford Propeller",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Ocean_Gateway_Terminal_Entrance.jpg/1280px-Ocean_Gateway_Terminal_Entrance.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 9169923137,
+            "lat": 45.5268437,
+            "lon": -122.6320346,
+            "tags": {
+                "addr:city": "Portland",
+                "addr:housenumber": "3131",
+                "addr:postcode": "97232",
+                "addr:state": "OR",
+                "addr:street": "Northeast Glisan Street",
+                "museum": "history",
+                "name": "Hellenic-American Cultural Center & Museum",
+                "opening_hours": "Tu-Fr 11:00-15:00, Su 12:00-13:00",
+                "phone": "+1 503-858-8567",
+                "tourism": "museum",
+                "website": "https://hellenicamericancc.org/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Oregon_Park_Playground_Equipment.jpg/1280px-Oregon_Park_Playground_Equipment.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 9696789164,
+            "lat": 45.5192021,
+            "lon": -122.708754,
+            "tags": {
+                "fee": "yes",
+                "name": "Japanese Arts Learning Center",
+                "tourism": "museum",
+                "website": "https://japanesegarden.org/cultural-village/learning-center/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Japanese_Garden_-1.jpg/1280px-Japanese_Garden_-1.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 10101066129,
+            "lat": 50.5615566,
+            "lon": -2.4486097,
+            "tags": {
+                "name": "Chiswell Walled Garden",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/27/Chiswell_Walled_Garden_-_geograph.org.uk_-_1276431.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 10791218897,
+            "lat": 45.5835558,
+            "lon": -122.7372558,
+            "tags": {
+                "check_date:opening_hours": "2024-07-24",
+                "description": "Portland's nonprofit resident herd, offering an oasis of rural community amidst the built, urban environment.",
+                "email": "ask@thebelmontgoats.org",
+                "fee": "donation",
+                "name": "The Belmont Goats",
+                "opening_hours": "Sa-Su 11:00-14:00",
+                "opening_hours:signed": "no",
+                "operator": "The Belmont Goats",
+                "phone": "+1-971-301-4628",
+                "tourism": "zoo",
+                "website": "https://thebelmontgoats.org",
+                "zoo": "petting_zoo"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/McKenna_Park%2C_Portland%2C_Oregon.JPG/1280px-McKenna_Park%2C_Portland%2C_Oregon.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 10989036267,
+            "lat": 45.5150714,
+            "lon": -122.678692,
+            "tags": {
+                "name": "Liberty Bell",
+                "start_date": "1972",
+                "tourism": "attraction",
+                "wikidata": "Q19720513",
+                "wikipedia": "en:Liberty Bell (Portland, Oregon)"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Bell_outside_City_Hall%2C_Portland%2C_OR_2012.JPG/1280px-Bell_outside_City_Hall%2C_Portland%2C_OR_2012.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 12496751205,
+            "lat": 45.5178451,
+            "lon": -122.5997267,
+            "tags": {
+                "addr:housenumber": "6215",
+                "addr:postcode": "97215",
+                "addr:street": "Southeast Alder Street",
+                "name": "Zymoglyphic Museum",
+                "tourism": "museum",
+                "website": "http://zymoglyphic.org"
+            }
+        },
+        {
+            "type": "node",
+            "id": 12535329052,
+            "lat": 44.4407328,
+            "lon": -76.6689223,
+            "tags": {
+                "addr:city": "Hartington",
+                "addr:housenumber": "5591",
+                "addr:postcode": "K0H 1W0",
+                "addr:province": "on",
+                "addr:street": "Road 38",
+                "name": "South Frontenac Museum",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Hartington_ON.jpg/1280px-Hartington_ON.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 13320166201,
+            "lat": 45.5255987,
+            "lon": -122.6782265,
+            "tags": {
+                "addr:housenumber": "322",
+                "addr:postcode": "97209",
+                "addr:street": "Northwest 8th Avenue",
+                "name": "Northwest Museum of Cartoon",
+                "opening_hours": "We-Su 11:00-17:00",
+                "phone": "+15033099894",
+                "tourism": "museum",
+                "website": "https://nwmoca.org/"
+            }
+        },
+        {
+            "type": "node",
+            "id": 13706436568,
+            "lat": 45.5079629,
+            "lon": -122.6667857,
+            "tags": {
+                "boat:tours": "yes",
+                "name": "Williamette Jetboat Excursions",
+                "tourism": "attraction",
+                "website": "https://willamettejet.com/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d4/USS_Blueback_%28SS-581%29_underway_c1960s.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 35969760,
+            "lat": 45.509665,
+            "lon": -122.7133613,
+            "tags": {
+                "addr:city": "Portland",
+                "addr:housenumber": "4001",
+                "addr:postcode": "97221",
+                "addr:state": "OR",
+                "addr:street": "Southwest Canyon Road",
+                "fee": "yes",
+                "name": "Oregon Zoo",
+                "old_name": "Metro Washington Park Zoo",
+                "opening_hours": "Mar-May: Mo-Su 09:30-17:30",
+                "operator": "Metro",
+                "operator:type": "public",
+                "operator:wikidata": "Q10793118",
+                "phone": "+1-503-226-1561",
+                "tourism": "zoo",
+                "website": "https://www.oregonzoo.org/",
+                "wheelchair": "limited",
+                "wikidata": "Q7101428",
+                "wikipedia": "en:Oregon Zoo"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Oregon_Zoo_entrance_January_2024.jpeg/1280px-Oregon_Zoo_entrance_January_2024.jpeg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 57903098,
+            "lat": 45.5083459,
+            "lon": -122.6659695,
+            "tags": {
+                "addr:city": "Portland",
+                "addr:housenumber": "1945",
+                "addr:postcode": "97214",
+                "addr:state": "OR",
+                "addr:street": "Southeast Water Avenue",
+                "building": "yes",
+                "fee": "yes",
+                "name": "Oregon Museum of Science and Industry",
+                "name:fa": "موزه علم و صنعت اورگان",
+                "phone": "+1-503-797-4000",
+                "short_name": "OMSI",
+                "tourism": "museum",
+                "website": "https://www.omsi.edu/",
+                "wheelchair": "yes",
+                "wikidata": "Q174617",
+                "wikipedia": "en:Oregon Museum of Science and Industry"
+            }
+        },
+        {
+            "type": "way",
+            "id": 58156982,
+            "lat": 45.507874,
+            "lon": -122.6668775,
+            "tags": {
+                "addr:city": "Portland",
+                "addr:housenumber": "1945",
+                "addr:postcode": "97214",
+                "addr:state": "OR",
+                "addr:street": "Southeast Water Avenue",
+                "building": "submarine",
+                "fee": "yes",
+                "heritage": "2",
+                "heritage:operator": "nrhp",
+                "historic": "ship",
+                "museum": "military",
+                "name": "USS Blueback",
+                "opening_hours": "Tu-Su 09:30-17:30",
+                "phone": "+1-503-797-4634",
+                "ref": "SS-581",
+                "ref:nrhp": "08000947",
+                "ship:type": "submarine",
+                "start_date": "1959",
+                "tourism": "museum",
+                "wikidata": "Q2468659",
+                "wikipedia": "en:USS Blueback (SS-581)"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d4/USS_Blueback_%28SS-581%29_underway_c1960s.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 73908289,
+            "lat": 45.5251954,
+            "lon": -122.7162895,
+            "tags": {
+                "access": "yes",
+                "addr:city": "Portland",
+                "addr:housenumber": "3229",
+                "addr:postcode": "97210",
+                "addr:state": "OR",
+                "addr:street": "Northwest Pittock Drive",
+                "architect": "Edward T. Foulkes",
+                "building": "yes",
+                "building:architecture": "renaissance;italianate",
+                "contact:website": "https://www.portland.gov/parks/pittock-mansion",
+                "heritage": "2",
+                "heritage:operator": "nrhp",
+                "historic": "manor",
+                "name": "Pittock Mansion",
+                "name:etymology": "Henry Pittock",
+                "name:etymology:wikidata": "Q3133006",
+                "name:etymology:wikipedia": "en:Henry Pittock",
+                "nrhp:criteria": "(B),(C)",
+                "nrhp:inscription_date": "1974-11-21",
+                "opening_hours": "11:00-16:00; Jul-Aug 10:00-17:00; Nov Th[4] off; Dec 25 off; Jan off",
+                "operator": "City of Portland",
+                "operator:type": "public",
+                "operator:wikidata": "Q6106",
+                "phone": "+1-503-823-3624",
+                "ref:nrhp": "74001709",
+                "tourism": "attraction",
+                "website": "https://pittockmansion.org/",
+                "wikidata": "Q7199133",
+                "wikipedia": "en:Pittock Mansion"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Rear_of_Pittock_Mansion.jpeg/1280px-Rear_of_Pittock_Mansion.jpeg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 117450405,
+            "lat": 45.5201617,
+            "lon": -122.669756,
+            "tags": {
+                "addr:city": "Portland",
+                "addr:housenumber": "198",
+                "addr:postcode": "97204",
+                "addr:state": "OR",
+                "addr:street": "Southwest Naito Parkway",
+                "building": "ship",
+                "contact:facebook": "http://www.facebook.com/OregonMaritimeMuseum/",
+                "description": "museum on a steam-powered boat that is docked here most of the time",
+                "floating": "yes",
+                "heritage": "2",
+                "heritage:operator": "nrhp",
+                "heritage:website": "https://www.nps.gov/subjects/nationalregister/index.htm",
+                "historic": "ship",
+                "museum": "maritime",
+                "name": "Oregon Maritime Museum",
+                "nrhp:criteria": "(C)",
+                "nrhp:inscription_date": "1997-08-14",
+                "opening_hours": "We-Sa 11:00-16:00; Th off",
+                "phone": "+1-503-224-7724",
+                "protection_title": "Oregon Maritime Museum",
+                "ref:nrhp": "97000847",
+                "start_date": "1947",
+                "tourism": "museum",
+                "website": "http://www.oregonmaritimemuseum.org/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Sternwheel_steam_tug_Portland_after_passing_under_Steel_Bridge.jpg/1280px-Sternwheel_steam_tug_Portland_after_passing_under_Steel_Bridge.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 133763431,
+            "lat": 45.4712988,
+            "lon": -122.6622052,
+            "tags": {
+                "access": "customers",
+                "name": "Oaks Amusement Park",
+                "operator": "Oaks Park Association",
+                "tourism": "theme_park",
+                "wheelchair": "limited",
+                "wikidata": "Q14709151",
+                "wikipedia": "en:Oaks Amusement Park"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Oaks_Amusement_Park_entrance_Portland_Oregon.jpg/1280px-Oaks_Amusement_Park_entrance_Portland_Oregon.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 133795912,
+            "lat": 45.4786232,
+            "lon": -122.6359978,
+            "tags": {
+                "fee": "yes",
+                "leisure": "garden",
+                "name": "Crystal Springs Rhododendron Gardens",
+                "name:en": "Crystal Springs Rhododendron Gardens",
+                "operator": "City of Portland",
+                "operator:type": "public",
+                "operator:wikidata": "Q6106",
+                "tourism": "attraction",
+                "website": "https://www.portland.gov/parks/crystal-springs-rhododendron-garden",
+                "wikidata": "Q5191378"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Rhody_Garden_Lake.JPG/1280px-Rhody_Garden_Lake.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 141453085,
+            "lat": 45.5158603,
+            "lon": -122.6821749,
+            "tags": {
+                "addr:city": "Portland",
+                "addr:housenumber": "1200",
+                "addr:postcode": "97205",
+                "addr:state": "OR",
+                "addr:street": "Southwest Park Avenue",
+                "building": "office",
+                "building:levels": "4",
+                "fee": "yes",
+                "name": "Oregon Historical Society",
+                "opening_hours": "Mo-Sa 10:00-17:00; Su 12:00-17:00",
+                "tourism": "museum",
+                "website": "https://www.ohs.org/",
+                "wheelchair": "yes",
+                "wikidata": "Q7101235"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Back_of_Sovereign_Hotel_with_mural_and_OHS_plaza_2014.jpg/1280px-Back_of_Sovereign_Hotel_with_mural_and_OHS_plaza_2014.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 144032773,
+            "lat": 45.4727376,
+            "lon": -122.6621598,
+            "tags": {
+                "attraction": "carousel",
+                "building": "roof",
+                "heritage": "2",
+                "heritage:operator": "nrhp",
+                "historic": "yes",
+                "name": "Herschell–Spillman Noah's Ark Carousel",
+                "ref:nrhp": "87001380",
+                "tourism": "attraction",
+                "wheelchair": "yes",
+                "wikidata": "Q5744362",
+                "wikipedia": "en:Herschell–Spillman Noah's Ark Carousel"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Oaks_Park_carousel_horse_head_-_Portland_Oregon.jpg/1280px-Oaks_Park_carousel_horse_head_-_Portland_Oregon.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 146915329,
+            "lat": 50.5402249,
+            "lon": -2.4300927,
+            "tags": {
+                "addr:postcode": "DT5 1HS",
+                "building": "yes",
+                "email": "Portlandmuseum@googlemail.com",
+                "name": "Portland Museum",
+                "phone": "+44 1305 821804",
+                "tourism": "museum",
+                "website": "https://www.portlandmuseum.co.uk/",
+                "wikidata": "Q7231985",
+                "wikipedia": "en:Portland Museum, Dorset"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Portland_Museum%2C_Wakeham_%28geograph_3161790%29.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 152298037,
+            "lat": 45.5241788,
+            "lon": -122.6816685,
+            "tags": {
+                "addr:city": "Portland",
+                "addr:housenumber": "128",
+                "addr:postcode": "97209",
+                "addr:state": "OR",
+                "addr:street": "Northwest 11th Avenue",
+                "amenity": "theatre",
+                "building": "yes",
+                "building:levels": "3",
+                "height": "12",
+                "name": "Portland Center Stage at The Armory",
+                "old_name": "Portland Armory",
+                "phone": "+1-503-445-3700",
+                "tourism": "attraction",
+                "website": "https://www.pcs.org/",
+                "wheelchair": "yes",
+                "wikidata": "Q5453749",
+                "wikipedia": "en:The Armory (Portland, Oregon)"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/61/Portland-Center-Stage-at-dusk.jpeg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 152299843,
+            "lat": 45.5227117,
+            "lon": -122.6848207,
+            "tags": {
+                "addr:city": "Portland",
+                "addr:housenumber": "406",
+                "addr:postcode": "97205",
+                "addr:state": "OR",
+                "addr:street": "Southwest 14th Avenue",
+                "amenity": "theatre",
+                "building": "yes",
+                "building:levels": "3",
+                "name": "Crystal Ballroom",
+                "operator": "McMenamins",
+                "tourism": "attraction",
+                "website": "https://www.crystalballroompdx.com/",
+                "wheelchair": "yes",
+                "wikidata": "Q5191122"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Crystal_Ballroom_-_Portland%2C_Oregon_%282017%29.jpg/1280px-Crystal_Ballroom_-_Portland%2C_Oregon_%282017%29.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 161313283,
+            "lat": 45.5055708,
+            "lon": -122.6644106,
+            "tags": {
+                "addr:city": "Portland",
+                "addr:housenumber": "110",
+                "addr:postcode": "97214",
+                "addr:state": "OR",
+                "addr:street": "Southeast Caruthers Street",
+                "building": "yes",
+                "contact:email": "reservations@portlandspirit.com",
+                "contact:phone": "+1 503 224 3900",
+                "contact:website": "https://www.portlandspirit.com/",
+                "name": "Portland Spirit",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/OMSI_%26_Water_MAX_Station.jpg/1280px-OMSI_%26_Water_MAX_Station.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 186703050,
+            "lat": 45.5221756,
+            "lon": -122.6698388,
+            "tags": {
+                "amenity": "fountain",
+                "name": "Bill Naito Legacy Fountain",
+                "name:etymology": "William Sumio Naito",
+                "name:etymology:wikidata": "Q4910310",
+                "name:etymology:wikipedia": "en:Bill Naito",
+                "natural": "water",
+                "seasonal": "yes",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/PortlandSaturdayMarket10.jpg/1280px-PortlandSaturdayMarket10.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 220488395,
+            "lat": 43.6631193,
+            "lon": -70.2216353,
+            "tags": {
+                "access": "yes",
+                "camping": "no",
+                "fire": "no",
+                "gnis:feature_id": "579317",
+                "historic": "fort",
+                "material": "stone",
+                "name": "Fort Gorges",
+                "operator": "Friends of Fort Gorges",
+                "owner": "City of Portland",
+                "start_date": "1629",
+                "toilets": "no",
+                "tourism": "attraction",
+                "wikidata": "Q5471234"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Fort_Gorges_in_Portland%2C_Maine.jpg/1280px-Fort_Gorges_in_Portland%2C_Maine.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 257211614,
+            "lat": 45.517801,
+            "lon": -122.6610664,
+            "tags": {
+                "addr:city": "Portland",
+                "addr:housenumber": "701",
+                "addr:postcode": "97214",
+                "addr:state": "OR",
+                "addr:street": "Southeast Grand Avenue",
+                "building": "commercial",
+                "name": "Architectural Heritage Center",
+                "tourism": "museum",
+                "website": "https://visitahc.org/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/West%E2%80%99s_Block_Building_Portland.JPG/1280px-West%E2%80%99s_Block_Building_Portland.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 267340986,
+            "lat": 45.5100964,
+            "lon": -122.7142789,
+            "tags": {
+                "check_date:opening_hours": "2023-07-28",
+                "fee": "no",
+                "name": "Family Farm",
+                "opening_hours:signed": "no",
+                "operator": "Oregon Zoo",
+                "tourism": "zoo",
+                "zoo": "petting_zoo"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Zooliner_train_-_Washington_Park_%26_Zoo_Railway%2C_cropped.jpg/1280px-Zooliner_train_-_Washington_Park_%26_Zoo_Railway%2C_cropped.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 305079053,
+            "lat": 45.5072636,
+            "lon": -122.6611501,
+            "tags": {
+                "addr:city": "Portland",
+                "addr:housenumber": "2250",
+                "addr:postcode": "97214",
+                "addr:state": "OR",
+                "addr:street": "Southeast Water Avenue",
+                "name": "Oregon Rail Heritage Center",
+                "opening_hours": "Th-Su 13:00-17:00",
+                "operator": "Oregon Rail Heritage Foundation",
+                "tourism": "museum",
+                "website": "https://orhf.org/",
+                "wikidata": "Q7101305",
+                "wikipedia": "en:Oregon Rail Heritage Center"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/67/SP%26S_700_on_turntable_at_Oregon_Rail_Heritage_Center%2C_May_2024.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 334261315,
+            "lat": 43.6653773,
+            "lon": -70.2482523,
+            "tags": {
+                "addr:city": "Portland",
+                "addr:housenumber": "138",
+                "addr:postcode": "04101",
+                "addr:state": "ME",
+                "addr:street": "Congress Street",
+                "building": "yes",
+                "ele": "68",
+                "height": "25",
+                "heritage": "2",
+                "heritage:operator": "nrhp",
+                "heritage:website": "https://www.nps.gov/subjects/nationalregister/index.htm",
+                "historic": "maritime",
+                "name": "Portland Observatory",
+                "nrhp:criteria": "(A), (C)",
+                "nrhp:inscription_date": "1973-04-24",
+                "nrhp:nhl": "yes",
+                "phone": "+1-207-774-5561",
+                "protection_title": "City of Portland",
+                "ref:nrhp": "73000122",
+                "source_ref": "https://catalog.archives.gov/id/88685817",
+                "start_date": "1807",
+                "tourism": "attraction",
+                "website": "https://www.portlandlandmarks.org/observatory/",
+                "wikidata": "Q2105180",
+                "wikipedia": "en:Portland Observatory"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Portland_Observatory_2024.jpg/1280px-Portland_Observatory_2024.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 335369251,
+            "lat": 18.1771215,
+            "lon": -76.4498685,
+            "tags": {
+                "alt_name": "Port Antonio's Anglican Church",
+                "amenity": "place_of_worship",
+                "building": "yes",
+                "name": "Christ Church (1840)",
+                "religion": "christian",
+                "source": "KG Ground Survey 2015",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Port_antonio2.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 349171948,
+            "lat": 43.6568504,
+            "lon": -70.2603547,
+            "tags": {
+                "addr:city": "Portland",
+                "addr:housenumber": "489",
+                "addr:postcode": "04101",
+                "addr:state": "ME",
+                "addr:street": "Congress Street",
+                "building": "commercial",
+                "check_date:opening_hours": "2023-02-24",
+                "fee": "yes",
+                "name": "Maine Historical Society",
+                "opening_hours": "We-Sa 10:00-17:00",
+                "tourism": "museum",
+                "website": "https://www.mainehistory.org/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Wadsworth-Longfellow_House_Front.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 349171949,
+            "lat": 43.6569712,
+            "lon": -70.2602119,
+            "tags": {
+                "addr:city": "Portland",
+                "addr:housenumber": "483",
+                "addr:postcode": "04101",
+                "addr:state": "ME",
+                "addr:street": "Congress Street",
+                "building": "yes",
+                "check_date:opening_hours": "2023-02-24",
+                "fee": "yes",
+                "name": "Wadsworth-Longfellow House",
+                "opening_hours": "Jun-Oct Tu-Sa 10:00-17:00",
+                "operator": "Maine Historical Society",
+                "seasonal": "yes",
+                "tourism": "museum",
+                "website": "https://www.mainehistory.org/",
+                "wikidata": "Q7959331"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Wadsworth-Longfellow_House_2024.jpg/1280px-Wadsworth-Longfellow_House_2024.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 357358349,
+            "lat": 45.4413196,
+            "lon": -122.6762187,
+            "tags": {
+                "addr:city": "Portland",
+                "addr:housenumber": "11321",
+                "addr:postcode": "97219",
+                "addr:state": "OR",
+                "addr:street": "South Terwilliger Boulevard",
+                "building": "yes",
+                "museum": "nature",
+                "name": "Tryon Creek Nature Center",
+                "tourism": "museum"
+            }
+        },
+        {
+            "type": "way",
+            "id": 391954362,
+            "lat": 45.5154651,
+            "lon": -122.6725651,
+            "tags": {
+                "area": "yes",
+                "man_made": "pier",
+                "name": "Portland Spirit Dock",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/86/Waterfront_Park%2C_Portland.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 397103375,
+            "lat": 43.6515341,
+            "lon": -70.2607474,
+            "tags": {
+                "addr:city": "Portland",
+                "addr:housenumber": "109",
+                "addr:postcode": "04101",
+                "addr:state": "ME",
+                "addr:street": "Danforth Street",
+                "building": "yes",
+                "name": "Victoria Mansion",
+                "tourism": "museum",
+                "website": "https://www.victoriamansion.org/",
+                "wikidata": "Q7926852",
+                "wikipedia": "en:Victoria Mansion"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Victoria_Mansion%2C_Portland%2C_Maine_USA.jpg/1280px-Victoria_Mansion%2C_Portland%2C_Maine_USA.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 428144716,
+            "lat": 45.4627227,
+            "lon": -122.656739,
+            "tags": {
+                "addr:city": "Portland",
+                "addr:housenumber": "906",
+                "addr:postcode": "97202",
+                "addr:state": "OR",
+                "addr:street": "Southeast Umatilla Street",
+                "building": "detached",
+                "building:levels": "2",
+                "ele": "33.2",
+                "name": "Portland Puppet Museum",
+                "opening_hours": "Th-Su 14:00-20:00",
+                "phone": "+1-503-233-7723",
+                "tourism": "museum",
+                "website": "https://www.puppetmuseum.com/",
+                "wikidata": "Q106696150"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Portland_Puppet_Museum%2C_2021_5.jpg/1280px-Portland_Puppet_Museum%2C_2021_5.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 450184461,
+            "lat": -38.3549098,
+            "lon": 141.6067631,
+            "tags": {
+                "building": "yes",
+                "fee": "no",
+                "name": "Cable Tram Depot",
+                "tourism": "museum",
+                "website": "http://portlandcabletrams.com.au"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Portland_cable_tram.JPG/1280px-Portland_cable_tram.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 460736306,
+            "lat": 43.6540206,
+            "lon": -70.319136,
+            "tags": {
+                "addr:city": "Portland",
+                "addr:housenumber": "1945",
+                "addr:postcode": "04102",
+                "addr:state": "ME",
+                "addr:street": "Congress Street",
+                "addr:unit": "B",
+                "building": "yes",
+                "name": "Elks Club",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/65/PortlandME_StroudwaterHD.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 673283498,
+            "lat": 50.5141208,
+            "lon": -2.4563955,
+            "tags": {
+                "addr:postcode": "DT5 2JT",
+                "building": "yes",
+                "email": "enquiries@thls.org",
+                "man_made": "lighthouse",
+                "name": "Portland Bill Lighthouse",
+                "name:it": "Faro di Portland Bill",
+                "name:pl": "Latarnia morska Portland Bill",
+                "name:ru": "Маяк Портланд-Билл",
+                "opening_hours": "unknown",
+                "phone": "+44 1255 245156",
+                "seamark:fog_signal:category": "diaphone",
+                "seamark:fog_signal:group": "1",
+                "seamark:fog_signal:period": "30",
+                "seamark:landmark:height": "41",
+                "seamark:light:1:character": "Fl",
+                "seamark:light:1:colour": "white",
+                "seamark:light:1:group": "4",
+                "seamark:light:1:height": "43",
+                "seamark:light:1:period": "20",
+                "seamark:light:1:range": "18",
+                "seamark:light:1:sector_end": "141",
+                "seamark:light:1:sector_start": "221",
+                "seamark:light:1:sequence": "0.1+(1.4),0.1+(1.4),0.1+(1.4),0.1+(15.4)",
+                "seamark:light:reference": "A 0294",
+                "seamark:name": "Portland",
+                "seamark:type": "light_major",
+                "tourism": "attraction",
+                "url": "https://www.trinityhouse.co.uk/lighthouses-and-lightvessels/portland-bill-lighthouse",
+                "wikidata": "Q2753005",
+                "wikipedia": "en:Portland Bill Lighthouse"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Portland_Bill_Lighthouse%2C_Dorset%2C_England.jpg/1280px-Portland_Bill_Lighthouse%2C_Dorset%2C_England.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 677500095,
+            "lat": 43.6527465,
+            "lon": -70.1930606,
+            "tags": {
+                "addr:city": "Peaks Island",
+                "addr:housenumber": "45",
+                "addr:postcode": "04108",
+                "addr:state": "ME",
+                "addr:street": "Seashore Avenue",
+                "building": "yes",
+                "heritage": "yes",
+                "museum": "history",
+                "museum_type": "municipal",
+                "name": "Fifth Maine Regiment Museum",
+                "tourism": "museum",
+                "wheelchair": "no",
+                "wikidata": "Q15217658",
+                "wikipedia": "en:Fifth Maine Regiment Community Center"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/91/5th_Maine_Regiment_Museum.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 703341395,
+            "lat": 41.5684952,
+            "lon": -72.6462725,
+            "tags": {
+                "barrier": "wall",
+                "name": "Come On Over Wall",
+                "tourism": "attraction",
+                "wheelchair": "no"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/81/IMG_4116_Arrigoni_Bridge.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 711099828,
+            "lat": 43.6527895,
+            "lon": -70.2690543,
+            "tags": {
+                "addr:city": "Portland",
+                "addr:housenumber": "714",
+                "addr:postcode": "04102",
+                "addr:state": "ME",
+                "addr:street": "Congress Street",
+                "building": "yes",
+                "ele": "38",
+                "gnis:feature_id": "1912773",
+                "name": "Neal Dow House",
+                "tourism": "museum",
+                "wheelchair": "no",
+                "wikidata": "Q6984184",
+                "wikipedia": "en:Neal Dow House"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/DowHouse.JPG/1280px-DowHouse.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 760390684,
+            "lat": 43.6519438,
+            "lon": -70.2638919,
+            "tags": {
+                "addr:state": "ME",
+                "building": "yes",
+                "ele": "35",
+                "gnis:feature_id": "1912907",
+                "name": "Portland Fire Museum",
+                "source": "USGS Geonames",
+                "tourism": "museum",
+                "wikidata": "Q7231924",
+                "wikipedia": "en:Portland Fire Museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Portland_Fire_Museum.jpg/1280px-Portland_Fire_Museum.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 775404924,
+            "lat": 45.5110385,
+            "lon": -122.6843861,
+            "tags": {
+                "check_date": "2025-08-01",
+                "fee": "no",
+                "indoor": "room",
+                "level": "0",
+                "name": "Jordan Schnitzer Museum of Art",
+                "ref": "110",
+                "room": "gallery",
+                "tourism": "museum"
+            }
+        },
+        {
+            "type": "way",
+            "id": 777179685,
+            "lat": 43.6559993,
+            "lon": -70.1981538,
+            "tags": {
+                "addr:city": "Peaks Island",
+                "addr:housenumber": "62",
+                "addr:postcode": "04108",
+                "addr:state": "ME",
+                "addr:street": "Island Avenue",
+                "addr:unit": "1",
+                "building": "yes",
+                "museum": "yes",
+                "name": "Umbrella Cover Museum",
+                "seasonal": "yes",
+                "tourism": "museum",
+                "website": "https://www.umbrellacovermuseum.org/",
+                "wikidata": "Q7881395",
+                "wikipedia": "en:Umbrella Cover Museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Umbrella_cover_museum.jpg/1280px-Umbrella_cover_museum.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 855199799,
+            "lat": 43.660764,
+            "lon": -70.2456943,
+            "tags": {
+                "addr:city": "Portland",
+                "addr:housenumber": "14",
+                "addr:postcode": "04101",
+                "addr:state": "ME",
+                "addr:street": "Ocean Gateway Pier",
+                "building": "yes",
+                "name": "Maine Narrow Gauge Railroad Museum",
+                "operator": "Maine Narrow Gauge Railroad Museum",
+                "tourism": "museum",
+                "wikidata": "Q1885606",
+                "wikipedia": "en:Maine Narrow Gauge Railroad Museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Maine-00598_-_Narrow_Gauge_Train_Station.jpg/1280px-Maine-00598_-_Narrow_Gauge_Train_Station.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 899792680,
+            "lat": 45.5222104,
+            "lon": -122.6706976,
+            "tags": {
+                "addr:city": "Portland",
+                "addr:housenumber": "55",
+                "addr:postcode": "97204",
+                "addr:state": "OR",
+                "addr:street": "Southwest Ash Street",
+                "building": "yes",
+                "building:levels": "1",
+                "name": "Portland Fire & Rescue Historic Museum",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/AnkenySquareAtNight.jpg/1280px-AnkenySquareAtNight.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 961778543,
+            "lat": 41.58762,
+            "lon": -72.6284966,
+            "tags": {
+                "addr:city": "Portland",
+                "addr:housenumber": "492",
+                "addr:postcode": "06480",
+                "addr:state": "CT",
+                "addr:street": "Main Street",
+                "building": "yes",
+                "name": "Portland Historical Society",
+                "tourism": "museum",
+                "website": "http://portlandhistsoc.com/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/38/PortlandCT_RuthCallanderHouse.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 974522976,
+            "lat": 43.6682549,
+            "lon": -70.2402481,
+            "tags": {
+                "name": "East End Beach",
+                "natural": "beach",
+                "source": "Mapbox",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "way",
+            "id": 1062394575,
+            "lat": 50.5580255,
+            "lon": -2.4329965,
+            "tags": {
+                "HE_ref": "1281857",
+                "access": "yes",
+                "addr:postcode": "DT5 1LF",
+                "area": "yes",
+                "historic": "ruins",
+                "listed_status": "Grade II",
+                "name": "Verne High Angle Battery",
+                "opening_hours": "24/7",
+                "tourism": "attraction",
+                "website": "https://www.pastscape.org.uk/hob.aspx?hob_id=1387753",
+                "wikidata": "Q7921969",
+                "wikipedia": "en:Verne High Angle Battery"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Uk_dor_highangle.JPG/1280px-Uk_dor_highangle.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 1098559835,
+            "lat": 43.6831869,
+            "lon": -70.2971541,
+            "tags": {
+                "addr:city": "Portland",
+                "addr:housenumber": "58",
+                "addr:postcode": "04103",
+                "addr:state": "ME",
+                "addr:street": "College Street",
+                "building": "yes",
+                "email": "hirons@une.edu",
+                "museum": "art",
+                "name": "University of New England Art Gallery",
+                "operator": "University of New England",
+                "tourism": "museum",
+                "wheelchair": "yes"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Alumni_Hall_%28University_of_New_England%29.jpg/1280px-Alumni_Hall_%28University_of_New_England%29.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 1192799218,
+            "lat": 43.6577299,
+            "lon": -70.3120507,
+            "tags": {
+                "addr:city": "Portland",
+                "addr:housenumber": "1267",
+                "addr:postcode": "04102",
+                "addr:state": "ME",
+                "addr:street": "Westbrook Street",
+                "building": "yes",
+                "name": "Tate House Museum",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/05/PortlandME_TateHouse_02.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 1193692187,
+            "lat": 40.4368781,
+            "lon": -84.9711919,
+            "tags": {
+                "addr:city": "Portland",
+                "addr:housenumber": "510",
+                "addr:postcode": "47371",
+                "addr:state": "IN",
+                "addr:street": "East Arch Street",
+                "building": "yes",
+                "name": "Museum of the Soldier Inc",
+                "tourism": "museum"
+            }
+        },
+        {
+            "type": "way",
+            "id": 1453455016,
+            "lat": 45.5165483,
+            "lon": -122.6834106,
+            "tags": {
+                "addr:city": "Portland",
+                "addr:housenumber": "1219",
+                "addr:postcode": "97205",
+                "addr:state": "OR",
+                "addr:street": "Southwest Park Avenue",
+                "fee": "yes",
+                "internet_access": "wlan",
+                "museum": "art",
+                "name": "Portland Art Museum",
+                "opening_hours": "Tu-Su 10:00-17:00",
+                "tourism": "museum",
+                "website": "https://portlandartmuseum.org/",
+                "wikidata": "Q279049",
+                "wikipedia": "en:Portland Art Museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Portland_Art_Museum%2C_Portland%2C_Oregon.jpg/1280px-Portland_Art_Museum%2C_Portland%2C_Oregon.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 1473495361,
+            "lat": 45.4714015,
+            "lon": -122.6623606,
+            "tags": {
+                "attraction": "roller_coaster",
+                "name": "Adrenaline Peak",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Adrenaline_Peak_-_Oaks_Amusement_Park.jpg/1280px-Adrenaline_Peak_-_Oaks_Amusement_Park.jpg",
+            "image_source": "wikipedia_verified"
+        }
+    ]
+}

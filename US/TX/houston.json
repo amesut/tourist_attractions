@@ -1,0 +1,1343 @@
+{
+    "city_metadata": {
+        "city_name": "Houston",
+        "state_code": "TX",
+        "state_full": "Texas",
+        "city_summary": "Houston (  HEW-stən) is the most populous city in the U.S. state of Texas and the Southern United States. It is the fourth-most populous city in the United States, with a population of 2.3 million at the 2020 census. The Greater Houston metropolitan area, at 7.8 million residents, is the fifth-most populous metropolitan area in the nation and second-most populous in Texas.",
+        "city_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Texas_medical_center.jpg/1280px-Texas_medical_center.jpg",
+        "city_lat": 29.75666667,
+        "city_lon": -95.36527778,
+        "source": "wikipedia_verified_engine"
+    },
+    "attractions": [
+        {
+            "type": "node",
+            "id": 368164889,
+            "lat": 29.6930202,
+            "lon": -95.5147976,
+            "tags": {
+                "addr:city": "Houston",
+                "addr:housenumber": "7502",
+                "addr:postcode": "77074",
+                "addr:street": "Fondren Road",
+                "ele": "21",
+                "gnis:feature_id": "2014124",
+                "name": "Museum of American Architecture and Decorative Arts",
+                "source": "USGS Geonames",
+                "tourism": "museum",
+                "website": "https://hbu.edu/museums/museum-of-american-architecture-and-decorative-arts/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/View_of_Husky_Field_-_Softball_grandstands.JPG/1280px-View_of_Husky_Field_-_Softball_grandstands.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 368164895,
+            "lat": 29.7554873,
+            "lon": -95.3968178,
+            "tags": {
+                "addr:state": "TX",
+                "ele": "17",
+                "gnis:feature_id": "2014127",
+                "name": "Museum of Printing History",
+                "opening_hours": "closed \"pending relocation\"",
+                "source": "USGS Geonames",
+                "tourism": "museum",
+                "website": "https://www.printingmuseum.org"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/ConsulateNorwayHoustonTX.png/1280px-ConsulateNorwayHoustonTX.png",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 368165698,
+            "lat": 29.7710976,
+            "lon": -95.5702937,
+            "tags": {
+                "addr:city": "Houston",
+                "addr:housenumber": "440",
+                "addr:postcode": "77079",
+                "addr:state": "TX",
+                "addr:street": "Wilchester Boulevard",
+                "ele": "23",
+                "gnis:feature_id": "2032345",
+                "name": "Houston Audubon Society Museum",
+                "source": "USGS Geonames",
+                "tourism": "museum",
+                "website": "https://houstonaudubon.org/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Edith_L._Moore_Nature_Sanctuary%2C_Houston%2C_Texas_%282014%29_-_02.JPG/1280px-Edith_L._Moore_Nature_Sanctuary%2C_Houston%2C_Texas_%282014%29_-_02.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 368165760,
+            "lat": 29.7851,
+            "lon": -95.1872,
+            "tags": {
+                "addr:state": "TX",
+                "ele": "8",
+                "gnis:feature_id": "2471018",
+                "name": "Proctor Museum of Natural Science",
+                "source": "USGS Geonames",
+                "tourism": "museum",
+                "website": "https://www.proctormuseum.us/"
+            }
+        },
+        {
+            "type": "node",
+            "id": 3793383405,
+            "lat": 29.7641065,
+            "lon": -95.3658135,
+            "tags": {
+                "name": "'Burp the Bayou' Red Button",
+                "opening_hours": "24/7",
+                "reservation": "no",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 4289826721,
+            "lat": 29.7144886,
+            "lon": -95.3925052,
+            "tags": {
+                "name": "Dinosaurs at the Houston Zoo",
+                "operator": "Houston Zoo",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Houston_Zoo_Main_Entrance.jpg/1280px-Houston_Zoo_Main_Entrance.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 4395505601,
+            "lat": 54.3999634,
+            "lon": -126.6497203,
+            "tags": {
+                "name": "Worlds Largest Fly Fishing Pole-Houston",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 4641443647,
+            "lat": 29.5519673,
+            "lon": -95.0987958,
+            "tags": {
+                "indoor": "yes",
+                "name": "Astronaut Gallery",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Space_Center_Houston_2025.08.jpg/1280px-Space_Center_Houston_2025.08.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 4641443648,
+            "lat": 29.5519843,
+            "lon": -95.0990254,
+            "tags": {
+                "indoor": "yes",
+                "name": "Space Center Theater",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Space_Center_Houston_2025.08.jpg/1280px-Space_Center_Houston_2025.08.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 4641443649,
+            "lat": 29.5517223,
+            "lon": -95.0985272,
+            "tags": {
+                "indoor": "yes",
+                "name": "International Space Station",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Space_Center_Houston_2025.08.jpg/1280px-Space_Center_Houston_2025.08.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 4641443650,
+            "lat": 29.5521076,
+            "lon": -95.0984897,
+            "tags": {
+                "indoor": "yes",
+                "name": "Mission Mars",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Space_Center_Houston_2025.08.jpg/1280px-Space_Center_Houston_2025.08.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 4641443651,
+            "lat": 29.5521839,
+            "lon": -95.098127,
+            "tags": {
+                "indoor": "yes",
+                "name": "Mission Briefing Center",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Space_Center_Houston_2025.08.jpg/1280px-Space_Center_Houston_2025.08.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 4641443653,
+            "lat": 29.5518737,
+            "lon": -95.098,
+            "tags": {
+                "indoor": "yes",
+                "name": "Destiny Theater",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Space_Center_Houston_2025.08.jpg/1280px-Space_Center_Houston_2025.08.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 4641443654,
+            "lat": 29.5518652,
+            "lon": -95.0977411,
+            "tags": {
+                "indoor": "yes",
+                "name": "7 Starship Gallery",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Space_Shuttle_Independence.jpg/1280px-Space_Shuttle_Independence.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 4641443662,
+            "lat": 29.5517009,
+            "lon": -95.0978762,
+            "tags": {
+                "indoor": "yes",
+                "name": "Kids Space Place",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Space_Center_Houston_2025.08.jpg/1280px-Space_Center_Houston_2025.08.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 4666287189,
+            "lat": 29.7987483,
+            "lon": -95.5616142,
+            "tags": {
+                "addr:housenumber": "10649",
+                "addr:postcode": "77043",
+                "addr:state": "TX",
+                "addr:street": "Haddington Drive",
+                "name": "Texas knife makers supply",
+                "name:en": "Texas knife makers supply",
+                "tourism": "attraction",
+                "website": "https://www.texasknife.com/"
+            }
+        },
+        {
+            "type": "node",
+            "id": 5863731255,
+            "lat": 29.7188849,
+            "lon": -95.3992924,
+            "tags": {
+                "entrance": "yes",
+                "name": "Frog Wall",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Andersonhall_evening.jpg/1280px-Andersonhall_evening.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 5904330425,
+            "lat": 29.7341786,
+            "lon": -95.4256314,
+            "tags": {
+                "name": "Copper Statue",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9823992117,
+            "lat": 29.8591864,
+            "lon": -95.5266368,
+            "tags": {
+                "name": "Jumping World",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11076196556,
+            "lat": 54.4000927,
+            "lon": -126.6497023,
+            "tags": {
+                "name": "Worlds Largest Fly Rod",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 13451301051,
+            "lat": 29.7700363,
+            "lon": -95.4291592,
+            "tags": {
+                "access": "yes",
+                "fee": "no",
+                "garden:style": "flower_garden",
+                "garden:type": "botanical",
+                "leisure": "garden",
+                "name": "Butterfly garden",
+                "tourism": "zoo",
+                "zoo": "wildlife_park"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/02/001_camp_logan_map.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 13591935505,
+            "lat": 29.768238,
+            "lon": -95.431862,
+            "tags": {
+                "alt_name": "Boardwalk",
+                "name": "Wetland Boardwalk",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 13591954552,
+            "lat": 29.7669735,
+            "lon": -95.4320514,
+            "tags": {
+                "name": "Boardwalk Overlook",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 13724398001,
+            "lat": 43.763176,
+            "lon": -91.5679759,
+            "tags": {
+                "addr:housenumber": "126",
+                "addr:postcode": "55943",
+                "addr:street": "East Cedar Street",
+                "check_date": "2026-04-11",
+                "email": "info@internationalowlcenter.org",
+                "level": "0",
+                "name": "International Owl Center",
+                "phone": "+1-507-896-6957",
+                "tourism": "zoo",
+                "website": "https://www.internationalowlcenter.org/"
+            }
+        },
+        {
+            "type": "way",
+            "id": 45776250,
+            "lat": 29.7217374,
+            "lon": -95.3860108,
+            "tags": {
+                "addr:city": "Houston",
+                "addr:housenumber": "1515",
+                "addr:postcode": "77004",
+                "addr:state": "TX",
+                "addr:street": "Hermann Drive",
+                "building": "civic",
+                "building:levels": "2",
+                "name": "John P. McGovern Museum of Health and Medical Science",
+                "tourism": "museum",
+                "website": "http://www.mhms.org",
+                "wikidata": "Q16892188",
+                "wikipedia": "en:The Health Museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/McGovernMuseumHealthHouston.JPG/1280px-McGovernMuseumHealthHouston.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 45776251,
+            "lat": 29.7250693,
+            "lon": -95.3894873,
+            "tags": {
+                "addr:city": "Houston",
+                "addr:housenumber": "5601",
+                "addr:state": "TX",
+                "addr:street": "Main Street",
+                "building": "public",
+                "layer": "1",
+                "museum": "art",
+                "name": "Audrey Jones Beck Building",
+                "operator": "Museum of Fine Arts, Houston",
+                "operator:short": "MFAH",
+                "operator:type": "private_non_profit",
+                "short_name": "Beck Building",
+                "tourism": "museum",
+                "wikidata": "Q119820228"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/2b/HoustonMuseumDistrictSign.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 45776272,
+            "lat": 29.7256095,
+            "lon": -95.3903825,
+            "tags": {
+                "addr:city": "Houston",
+                "addr:housenumber": "1001",
+                "addr:state": "TX",
+                "addr:street": "Bissonnet Street",
+                "building": "public",
+                "building:levels": "2",
+                "museum": "art",
+                "name": "Caroline Weiss Law Building",
+                "name:ko": "MFAH 캐롤라인 와이스 로 빌딩",
+                "operator": "Museum of Fine Arts Houston",
+                "operator:short": "MFAH",
+                "operator:type": "private_non_profit",
+                "short_name": "Law Building",
+                "tourism": "museum",
+                "wikidata": "Q118955205"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Smithsonian-Powers-The_Last_of_the_Tribes-2091.jpg/1280px-Smithsonian-Powers-The_Last_of_the_Tribes-2091.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 51816626,
+            "lat": 29.713373,
+            "lon": -95.3919043,
+            "tags": {
+                "addr:city": "Houston",
+                "addr:housenumber": "6200",
+                "addr:postcode": "77030",
+                "addr:state": "TX",
+                "addr:street": "Hermann Park Drive",
+                "contact:facebook": "https://www.facebook.com/houstonzoo",
+                "contact:instagram": "https://www.instagram.com/houstonzoo",
+                "contact:twitter": "https://twitter.com/houstonzoo",
+                "email": "communications@houstonzoo.org",
+                "name": "Houston Zoo",
+                "phone": "+1-713-533-6500",
+                "tourism": "zoo",
+                "website": "https://www.houstonzoo.org",
+                "wikidata": "Q2753621",
+                "wikipedia": "en:Houston Zoo"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Houston_Zoo_Main_Entrance.jpg/1280px-Houston_Zoo_Main_Entrance.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 53845114,
+            "lat": 29.5987034,
+            "lon": -95.1686863,
+            "tags": {
+                "building": "hangar",
+                "name": "Vietnam War Flight Museum",
+                "ref": "S-390",
+                "tourism": "museum"
+            }
+        },
+        {
+            "type": "way",
+            "id": 55480832,
+            "lat": 29.7473944,
+            "lon": -95.3747898,
+            "tags": {
+                "addr:city": "Houston",
+                "addr:housenumber": "2403",
+                "addr:postcode": "77006",
+                "addr:state": "TX",
+                "addr:street": "Milam Street",
+                "building": "yes",
+                "ele": "15",
+                "gnis:feature_id": "2014108",
+                "name": "Houston Fire Museum",
+                "opening_hours": "closed \"temporarily closed until August 2022 for historic preservation per website\"",
+                "source": "USGS Geonames",
+                "tourism": "museum",
+                "website": "https://www.houstonfiremuseum.org/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Houston_Fire_Station_No._7.jpg/1280px-Houston_Fire_Station_No._7.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 55563504,
+            "lat": 29.7263957,
+            "lon": -95.3914921,
+            "tags": {
+                "addr:city": "Houston",
+                "addr:housenumber": "5216",
+                "addr:postcode": "77006",
+                "addr:state": "TX",
+                "addr:street": "Montrose Boulevard",
+                "building": "yes",
+                "name": "Contemporary Arts Museum Houston",
+                "opening_hours": "Tu-We 10:00-19:00; Th 10:00-21:00; Fr 10:00-19:00; Sa 10:00-18:00; Su 12:00-18:00",
+                "tourism": "museum",
+                "website": "https://camh.org/",
+                "wheelchair": "yes",
+                "wikidata": "Q93691",
+                "wikipedia": "en:Contemporary Arts Museum Houston"
+            }
+        },
+        {
+            "type": "way",
+            "id": 87644497,
+            "lat": 29.7349005,
+            "lon": -95.3980579,
+            "tags": {
+                "addr:city": "Houston",
+                "addr:housename": "Richmond Hall",
+                "addr:housenumber": "1500",
+                "addr:postcode": "77006",
+                "addr:state": "TX",
+                "addr:street": "Richmond Avenue",
+                "building": "yes",
+                "building:name": "Richmond Hall",
+                "building:wikidata": "Q134778001",
+                "museum": "art",
+                "name": "Dan Flavin Installation at Richmond Hall",
+                "operator": "Menil Collection",
+                "tourism": "museum",
+                "website": "https://www.menil.org/visit/flavin.php"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/MenilCollection.JPG/1280px-MenilCollection.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 87657067,
+            "lat": 29.737606,
+            "lon": -95.3962018,
+            "tags": {
+                "addr:city": "Houston",
+                "addr:country": "US",
+                "addr:housenumber": "3900",
+                "addr:postcode": "77006",
+                "addr:state": "TX",
+                "addr:street": "Yupon Street",
+                "building": "yes",
+                "contact:facebook": "RothkoChapel",
+                "contact:instagram": "rothko_chapel",
+                "contact:twitter": "rothkochapel",
+                "fee": "no",
+                "name": "Rothko Chapel",
+                "opening_hours": "Mo-Su 10:00-18:00",
+                "start_date": "1971",
+                "tourism": "museum",
+                "wikidata": "Q2956755",
+                "wikipedia": "en:Rothko Chapel"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Rothko_Chapel_-_1_August_2010.jpg/1280px-Rothko_Chapel_-_1_August_2010.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 87657601,
+            "lat": 29.7366923,
+            "lon": -95.397882,
+            "tags": {
+                "addr:city": "Houston",
+                "addr:housenumber": "1501",
+                "addr:state": "TX",
+                "addr:street": "Branard Street",
+                "building": "yes",
+                "museum": "art",
+                "name": "Cy Twombly Gallery",
+                "operator": "Menil Collection",
+                "owner": "Menil Collection",
+                "tourism": "museum",
+                "website": "https://www.menil.org/collection/CyTwomblyInDepth.php",
+                "wikidata": "Q107317753"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/MenilCollection.JPG/1280px-MenilCollection.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 87657668,
+            "lat": 29.7364485,
+            "lon": -95.3952839,
+            "tags": {
+                "addr:city": "Houston",
+                "addr:housenumber": "4011,4015",
+                "addr:postcode": "77006",
+                "addr:state": "TX",
+                "addr:street": "Yupon Street",
+                "alt_name": "The Fresco Building",
+                "building": "yes",
+                "description": "Currently off-view to the public, previously used to house Byzantine Frescos.",
+                "name": "Byzantine Fresco Chapel Museum",
+                "operator": "Menil Foundation",
+                "operator:type": "private_non_profit",
+                "owner": "Menil Foundation",
+                "tourism": "museum",
+                "website": "http://www.byzantinefrescochapel.org/",
+                "wikidata": "Q5004699",
+                "wikipedia": "en:Byzantine Fresco Chapel"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Rothko_Chapel_-_1_August_2010.jpg/1280px-Rothko_Chapel_-_1_August_2010.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 126148439,
+            "lat": 29.6490602,
+            "lon": -95.2866178,
+            "tags": {
+                "building": "hangar",
+                "name": "Great Silver Fleet Hangar - 1940 Air Terminal Museum",
+                "old_name": "Hanger WR-4",
+                "operator": "Houston Aeronautical Heritage Society",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/84/1940_Air_Terminal_Museum.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 148087198,
+            "lat": 29.7574779,
+            "lon": -95.4205966,
+            "tags": {
+                "check_date": "2026-01-10",
+                "leisure": "park",
+                "name": "Bayou Bend Collection and Gardens",
+                "operator": "Museum of Fine Arts Houston",
+                "tourism": "museum",
+                "website": "https://www.mfah.org/visit/bayou-bend"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/BayouBendPorch.JPG/1280px-BayouBendPorch.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 148087199,
+            "lat": 29.7575324,
+            "lon": -95.4166981,
+            "tags": {
+                "check_date": "2026-03-20",
+                "fee": "yes",
+                "leisure": "garden",
+                "name": "Rienzi",
+                "operator": "Museum of Fine Arts, Houston",
+                "operator:short": "MFAH",
+                "operator:type": "private_non_profit",
+                "tourism": "museum",
+                "wheelchair": "limited"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/BayouBendPorch.JPG/1280px-BayouBendPorch.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 148087202,
+            "lat": 29.7605642,
+            "lon": -95.4217264,
+            "tags": {
+                "addr:city": "Houston",
+                "addr:housenumber": "6003",
+                "addr:postcode": "77007",
+                "addr:state": "TX",
+                "addr:street": "Memorial Drive",
+                "building": "public",
+                "check_date": "2026-03-20",
+                "email": "bayoubend@mfah.org",
+                "fee": "yes",
+                "gnis:feature_id": "2014099",
+                "museum": "art",
+                "name": "Bayou Bend Collection and Gardens",
+                "opening_hours": "Mo-Tu off; We-Sa 10:00-17:00; Su 13:00-17:00",
+                "operator": "Museum of Fine Arts, Houston",
+                "operator:short": "MFAH",
+                "operator:type": "private_non_profit",
+                "phone": "+1-713-639-7750",
+                "tourism": "museum",
+                "website": "https://www.mfah.org/visit/bayou-bend",
+                "wikidata": "Q2892295",
+                "wikipedia": "en:Bayou Bend Collection and Gardens"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/BayouBendPorch.JPG/1280px-BayouBendPorch.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 210993908,
+            "lat": 29.7223873,
+            "lon": -95.3852133,
+            "tags": {
+                "name": "Eco Station",
+                "reservation": "no",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/HoustonChildrenMuseum.JPG/1280px-HoustonChildrenMuseum.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 210993909,
+            "lat": 29.722186,
+            "lon": -95.385341,
+            "tags": {
+                "name": "Weather Station",
+                "reservation": "no",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/HoustonChildrenMuseum.JPG/1280px-HoustonChildrenMuseum.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 210993910,
+            "lat": 29.7221707,
+            "lon": -95.3851618,
+            "tags": {
+                "name": "Flow Works",
+                "reservation": "no",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/HoustonChildrenMuseum.JPG/1280px-HoustonChildrenMuseum.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 210993912,
+            "lat": 29.722511,
+            "lon": -95.3852455,
+            "tags": {
+                "addr:city": "Houston",
+                "addr:housenumber": "1500",
+                "addr:postcode": "77004",
+                "addr:state": "TX",
+                "addr:street": "Binz Street",
+                "ele": "15",
+                "fee": "yes",
+                "gnis:feature_id": "2014102",
+                "name": "Children's Museum of Houston",
+                "phone": "+1 713 522 1138",
+                "source": "USGS Geonames",
+                "tourism": "museum",
+                "website": "https://www.cmhouston.org/",
+                "wikidata": "Q5098176",
+                "wikipedia": "en:Children's Museum of Houston"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/HoustonChildrenMuseum.JPG/1280px-HoustonChildrenMuseum.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 217678285,
+            "lat": 29.7221086,
+            "lon": -95.3897295,
+            "tags": {
+                "addr:city": "Houston",
+                "addr:housenumber": "5555",
+                "addr:postcode": "77030",
+                "addr:state": "TX",
+                "addr:street": "Hermann Park Drive",
+                "building": "civic",
+                "building:levels": "4",
+                "check_date": "2022-10-15",
+                "ele": "15",
+                "fee": "yes",
+                "name": "Houston Museum of Natural Science",
+                "name:ko": "휴스턴 자연과학 박물관",
+                "opening_hours": "Mo-Su 09:00-18:00",
+                "phone": "+1 713-639-4629",
+                "tourism": "museum",
+                "website": "https://www.hmns.org/",
+                "wheelchair": "yes",
+                "wikidata": "Q610401",
+                "wikipedia": "en:Houston Museum of Natural Science"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/HMNS.jpg/1280px-HMNS.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 229203746,
+            "lat": 29.7251235,
+            "lon": -95.3856375,
+            "tags": {
+                "addr:city": "Houston",
+                "addr:housenumber": "5401",
+                "addr:postcode": "77004",
+                "addr:state": "TX",
+                "addr:street": "Caroline Street",
+                "building": "civic",
+                "building:levels": "1",
+                "name": "Holocaust Museum Houston",
+                "name:en": "Holocaust Museum Houston",
+                "opening_hours": "Tu-Sa 10:00-17:00; Su 12:00-17:00; Mo off",
+                "phone": "+1 713 942 8000",
+                "tourism": "museum",
+                "website": "https://hmh.org/",
+                "wheelchair": "yes",
+                "wikidata": "Q325689",
+                "wikipedia": "en:Holocaust Museum Houston"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Holocaust_Museum_Houston_E.jpg/1280px-Holocaust_Museum_Houston_E.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 233155533,
+            "lat": 29.5511263,
+            "lon": -95.0973288,
+            "tags": {
+                "addr:city": "Houston",
+                "addr:housenumber": "1601",
+                "addr:postcode": "77058",
+                "addr:state": "TX",
+                "addr:street": "NASA Parkway",
+                "name": "Space Center Houston",
+                "name:ko": "휴스턴 우주 센터",
+                "opening_hours": "Mo-Su 10:00-17:00",
+                "tourism": "museum",
+                "twitter": "SpaceCenterHou",
+                "website": "https://spacecenter.org/",
+                "wikidata": "Q2749172",
+                "wikipedia": "en:Space Center Houston"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Space_Center_Houston_2025.08.jpg/1280px-Space_Center_Houston_2025.08.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 364021571,
+            "lat": 29.7249252,
+            "lon": -95.3423839,
+            "tags": {
+                "addr:city": "Houston",
+                "addr:country": "US",
+                "addr:housenumber": "4188",
+                "addr:postcode": "77204",
+                "addr:state": "TX",
+                "addr:street": "Elgin Street",
+                "building": "yes",
+                "image": "https://ssl.uh.edu/wtsc_apps/uh_maps/buildings/photos/fa_01.jpg",
+                "name": "Blaffer Art Museum",
+                "opening_hours": "Tu-Sa 10:00-17:00",
+                "phone": "+1-713-743-2255",
+                "ref": "Building 589",
+                "tourism": "museum",
+                "website": "https://blafferartmuseum.org/",
+                "wikidata": "Q4923831",
+                "wikipedia": "en:Blaffer Art Museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/59/Blaffer_Workac.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 383573690,
+            "lat": 29.7645294,
+            "lon": -95.3683334,
+            "tags": {
+                "addr:city": "Houston",
+                "addr:housenumber": "410",
+                "addr:state": "TX",
+                "addr:street": "Bagby Street",
+                "name": "Downtown Aquarium",
+                "operator": "Landry's, Inc.",
+                "tourism": "theme_park"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Houston%2C_Downtown_Aquarium_2012.JPG/1280px-Houston%2C_Downtown_Aquarium_2012.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 429768183,
+            "lat": 29.712025,
+            "lon": -95.393871,
+            "tags": {
+                "addr:city": "Houston",
+                "addr:housenumber": "1510",
+                "addr:postcode": "77030",
+                "addr:state": "TX",
+                "addr:street": "Cambridge Street",
+                "building": "yes",
+                "name": "Pioneer Memorial Log House Museum",
+                "phone": "+1-713-522-0396",
+                "tourism": "museum",
+                "website": "http://www.sanjacintodrt.org/pioneer.htm"
+            }
+        },
+        {
+            "type": "way",
+            "id": 434295606,
+            "lat": 29.7593162,
+            "lon": -95.3712101,
+            "tags": {
+                "building": "yes",
+                "gnis:feature_id": "2032341",
+                "name": "Harris County Heritage Society Museum",
+                "tourism": "museum"
+            }
+        },
+        {
+            "type": "way",
+            "id": 484619239,
+            "lat": 29.7605132,
+            "lon": -95.4217736,
+            "tags": {
+                "check_date": "2026-03-20",
+                "fee": "yes",
+                "leisure": "garden",
+                "name": "Bayou Bend Collection and Gardens",
+                "operator": "Museum of Fine Arts, Houston",
+                "operator:short": "MFAH",
+                "operator:type": "private_non_profit",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/BayouBendPorch.JPG/1280px-BayouBendPorch.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 568745081,
+            "lat": 29.7359849,
+            "lon": -95.378139,
+            "tags": {
+                "addr:city": "Houston",
+                "addr:housenumber": "3816",
+                "addr:postcode": "77004",
+                "addr:state": "TX",
+                "addr:street": "Caroline Street",
+                "building": "yes",
+                "name": "The Buffalo Soldiers National Museum",
+                "name:en": "The Buffalo Soldiers National Museum",
+                "opening_hours": "Tu-Sa 10:00-16:00",
+                "tourism": "museum",
+                "website": "https://www.buffalosoldiermuseum.com/",
+                "wikidata": "Q96742033",
+                "wikipedia": "en:Buffalo Soldiers National Museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Buffalo_Soldiers_National_Museum_entrance.jpg/1280px-Buffalo_Soldiers_National_Museum_entrance.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 569488667,
+            "lat": 29.7809644,
+            "lon": -95.5836182,
+            "tags": {
+                "building": "yes",
+                "layer": "1",
+                "museum": "art",
+                "name": "Altharetta Yeargin Art Museum",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/WESTCHESTERAcadHouston.jpg/1280px-WESTCHESTERAcadHouston.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 690776830,
+            "lat": 29.7540456,
+            "lon": -95.3796778,
+            "tags": {
+                "addr:city": "Houston",
+                "addr:housenumber": "1204",
+                "addr:postcode": "77019",
+                "addr:state": "TX",
+                "addr:street": "Victor Street",
+                "building": "yes",
+                "museum": "history",
+                "name": "Freedman's Town Visitor Center",
+                "opening_hours": "Tu-We 10:00-17:00; Th 10:00-18:00; Fr 10:00-17:00; Sa 09:00-13:00",
+                "operator": "Houston Freedman's Town Conservancy",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Freedmen%27sTownHoustonTX.JPG/1280px-Freedmen%27sTownHoustonTX.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 690776831,
+            "lat": 29.7540417,
+            "lon": -95.3797984,
+            "tags": {
+                "addr:city": "Houston",
+                "addr:housenumber": "1206",
+                "addr:postcode": "77019",
+                "addr:state": "TX",
+                "addr:street": "Victor Street",
+                "building": "yes",
+                "museum": "history",
+                "name": "Gallery 1206",
+                "opening_hours": "Tu-We 10:00-17:00; Th 10:00-18:00; Fr 10:00-17:00; Sa 09:00-13:00",
+                "operator": "Houston Freedman's Town Conservancy",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Freedmen%27sTownHoustonTX.JPG/1280px-Freedmen%27sTownHoustonTX.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 690776833,
+            "lat": 29.7540419,
+            "lon": -95.3798946,
+            "tags": {
+                "addr:city": "Houston",
+                "addr:housenumber": "1208",
+                "addr:postcode": "77019",
+                "addr:state": "TX",
+                "addr:street": "Victor Street",
+                "building": "yes",
+                "museum": "history",
+                "name": "Gallery 1208",
+                "opening_hours": "Tu-We 10:00-17:00; Th 10:00-18:00; Fr 10:00-17:00; Sa 09:00-13:00",
+                "operator": "Houston Freedman's Town Conservancy",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Freedmen%27sTownHoustonTX.JPG/1280px-Freedmen%27sTownHoustonTX.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 690776886,
+            "lat": 29.7559345,
+            "lon": -95.3809157,
+            "tags": {
+                "building": "yes",
+                "historic": "house",
+                "name": "Rutherford B. H. Yates Museum",
+                "opening_hours": "\"by appointment only\"",
+                "tourism": "museum",
+                "website": "https://www.rbhy.org/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Freedmen%27sTownHoustonTX.JPG/1280px-Freedmen%27sTownHoustonTX.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 883673966,
+            "lat": 29.8144891,
+            "lon": -95.4769929,
+            "tags": {
+                "addr:city": "Houston",
+                "addr:housenumber": "11440",
+                "addr:state": "TX",
+                "addr:street": "Hempstead Road",
+                "name": "Speedy's Fast Track",
+                "opening_hours": "Su-Th 12:00-23:00; Fr,Sa 12:00-01:00",
+                "payment:american_express": "yes",
+                "payment:coins": "yes",
+                "payment:discover_card": "yes",
+                "payment:mastercard": "yes",
+                "payment:notes": "yes",
+                "payment:visa": "yes",
+                "tourism": "theme_park",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "way",
+            "id": 894077621,
+            "lat": 29.552107,
+            "lon": -95.0972063,
+            "tags": {
+                "aircraft:type": "Boeing 747",
+                "building": "museum",
+                "historic": "aircraft",
+                "layer": "1",
+                "name": "Shuttle Carrier Aircraft",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Space_Shuttle_Independence.jpg/1280px-Space_Shuttle_Independence.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 894077622,
+            "lat": 29.5520466,
+            "lon": -95.0972127,
+            "tags": {
+                "building": "museum",
+                "layer": "2",
+                "name": "Shuttle Independence",
+                "name:zh": "独立号航天飞机",
+                "tourism": "attraction",
+                "wikidata": "Q994165",
+                "wikipedia": "en:Space Shuttle Independence"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Space_Shuttle_Independence.jpg/1280px-Space_Shuttle_Independence.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 894077626,
+            "lat": 29.5518448,
+            "lon": -95.0957818,
+            "tags": {
+                "building": "roof",
+                "layer": "1",
+                "name": "Falcon 9 Rocket",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Space_Shuttle_Independence.jpg/1280px-Space_Shuttle_Independence.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 945257970,
+            "lat": 29.7265415,
+            "lon": -95.3896283,
+            "tags": {
+                "addr:city": "Houston",
+                "addr:housenumber": "5500",
+                "addr:postcode": "77004",
+                "addr:state": "TX",
+                "addr:street": "Main Street",
+                "architect": "Steven Holl Architects",
+                "building": "public",
+                "building:levels": "2",
+                "museum": "art",
+                "name": "Nancy and Rich Kinder Building",
+                "opening_hours": "We 11:00-17:00; Th 11:00-21:00; Fr,Sa 11:00-18:00; Su 12:30-18:00; Mo-Tu closed",
+                "operator": "Museum of Fine Arts Houston",
+                "operator:short": "MFAH",
+                "operator:type": "private_non_profit",
+                "short_name": "Kinder Building",
+                "smoking": "no",
+                "tourism": "museum",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "way",
+            "id": 1059226634,
+            "lat": 29.7572367,
+            "lon": -95.4170146,
+            "tags": {
+                "addr:city": "Houston",
+                "addr:housenumber": "1406",
+                "addr:postcode": "77019",
+                "addr:state": "TX",
+                "addr:street": "Kirby Drive",
+                "building": "house",
+                "email": "rienzi@mfah.org",
+                "fee": "yes",
+                "museum": "art",
+                "name": "Rienzi",
+                "opening_hours": "Mo-Tu off; We-Sa 10:00-17:00; Su 13:00-17:00",
+                "operator": "Museum of Fine Arts, Houston",
+                "operator:short": "MFAH",
+                "operator:type": "private_non_profit",
+                "phone": "+1-713-639-7800",
+                "tourism": "museum",
+                "website": "https://www.mfah.org/visit/rienzi"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/BayouBendPorch.JPG/1280px-BayouBendPorch.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 1059411614,
+            "lat": 29.7422201,
+            "lon": -95.4141417,
+            "tags": {
+                "addr:city": "Houston",
+                "addr:housenumber": "2201",
+                "addr:postcode": "77098",
+                "addr:state": "TX",
+                "addr:street": "Westheimer Road",
+                "building": "commercial",
+                "museum": "art",
+                "name": "Art of the World Gallery",
+                "opening_hours": "Mo-Sa 10:00-19:00; Su \"by appointment\"",
+                "tourism": "museum",
+                "website": "https://www.artoftheworldgallery.com/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/StAnneSchoolHouston.JPG/1280px-StAnneSchoolHouston.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 1105357781,
+            "lat": 29.7136807,
+            "lon": -95.3935654,
+            "tags": {
+                "access": "customers",
+                "fee": "no",
+                "name": "Domestic Goat",
+                "operator": "Houston Zoo",
+                "species:wikidata": "Q2637507",
+                "species:wikipedia": "en:Anglo-Nubian goat",
+                "tourism": "zoo",
+                "zoo": "petting_zoo"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Children%27s_Memorial_Hermann_Hospital.jpeg/1280px-Children%27s_Memorial_Hermann_Hospital.jpeg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 1135030419,
+            "lat": 29.772023,
+            "lon": -95.3968832,
+            "tags": {
+                "addr:city": "Houston",
+                "addr:housenumber": "140",
+                "addr:postcode": "77007",
+                "addr:state": "TX",
+                "addr:street": "Heights Boulevard",
+                "building": "yes",
+                "check_date": "2023-01-24",
+                "email": "info@artcarmuseum.com",
+                "fax": "+1-713-529-6960",
+                "name": "Art Car Museum",
+                "opening_hours": "We-Su 11:00-18:00",
+                "phone": "+1-713-861-5526",
+                "tourism": "museum",
+                "website": "https://artcarmuseum.com/",
+                "wikidata": "Q4796649",
+                "wikipedia": "en:ArtCar Museum"
+            }
+        },
+        {
+            "type": "way",
+            "id": 1277957314,
+            "lat": 29.7622396,
+            "lon": -95.3403396,
+            "tags": {
+                "building": "yes",
+                "museum": "history",
+                "name": "Houston Maritime Center & Museum",
+                "source": "microsoft/BuildingFootprints",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/TalentoBiling%C3%BCedeHouston.JPG/1280px-TalentoBiling%C3%BCedeHouston.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 1293782242,
+            "lat": 29.6471064,
+            "lon": -95.2864494,
+            "tags": {
+                "addr:housenumber": "8325",
+                "addr:postcode": "77061",
+                "addr:street": "Travelair Street",
+                "fee": "yes",
+                "fee:conditional": "no @ (age <3); no @ members; no @ military",
+                "name": "1940 Air Terminal Museum",
+                "opening_hours": "Tu-Su 10:00-17:00; Dec 24 10:00-13:00; Dec 31 10:00-13:00; Jan 01 off; Jul 04 off; Nov Th[4] off; Dec 25 off",
+                "operator": "Houston Aeronautical Heritage Society",
+                "tourism": "museum",
+                "website": "https://www.1940airterminal.org/",
+                "wikidata": "Q4564680",
+                "wikipedia": "en:1940 Air Terminal Museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/84/1940_Air_Terminal_Museum.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 1295459507,
+            "lat": 29.6046953,
+            "lon": -95.1744975,
+            "tags": {
+                "museum": "aerospace",
+                "name": "Lone Star Flight Museum",
+                "tourism": "museum",
+                "website": "http://www.lonestarflight.org"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Lone_Star_Flight_Museum_at_Ellington_Field.jpg/1280px-Lone_Star_Flight_Museum_at_Ellington_Field.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 1350967965,
+            "lat": 29.7540882,
+            "lon": -95.3797737,
+            "tags": {
+                "addr:city": "Houston",
+                "addr:housenumber": "1204",
+                "addr:postcode": "77019",
+                "addr:state": "TX",
+                "addr:street": "Victor Street",
+                "museum": "history",
+                "name": "Houston Freedman's Town",
+                "opening_hours": "Tu-We 10:00-17:00; Th 10:00-18:00; Fr 10:00-17:00; Sa 09:00-13:00",
+                "operator": "Houston Freedman's Town Conservancy",
+                "operator:type": "private_non_profit",
+                "tourism": "museum",
+                "website": "https://houstonfreedmenstown.org/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Freedmen%27sTownHoustonTX.JPG/1280px-Freedmen%27sTownHoustonTX.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 1431431777,
+            "lat": 29.7221776,
+            "lon": -95.3903188,
+            "tags": {
+                "name": "Cockrell Butterfly Center",
+                "operator": "Houston Museum of Natural Science",
+                "tourism": "zoo",
+                "website": "https://www.hmns.org/cockrell-butterfly-center/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/4b/SamHoustonStatueMemorialHermann.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 1470145904,
+            "lat": 29.5501358,
+            "lon": -95.0949519,
+            "tags": {
+                "aircraft:type": "military",
+                "historic": "aircraft",
+                "manufacturer": "Northrop",
+                "manufacturer:wikidata": "Q912979",
+                "manufacturer:wikipedia": "en:Northrop Corporation",
+                "model": "AT-38B",
+                "model:wikidata": "Q164523",
+                "model:wikipedia": "en:Northrop T-38 Talon",
+                "name": "NASA 900",
+                "ref": "N900NA",
+                "start_date": "1968",
+                "tourism": "attraction",
+                "website": "https://spacecenter.org/meet-our-t-38-jets-in-talon-park/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Space_Shuttle_Independence.jpg/1280px-Space_Shuttle_Independence.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 1470145905,
+            "lat": 29.5500905,
+            "lon": -95.0950283,
+            "tags": {
+                "aircraft:type": "military",
+                "historic": "aircraft",
+                "manufacturer": "Northrop",
+                "manufacturer:wikidata": "Q912979",
+                "manufacturer:wikipedia": "en:Northrop Corporation",
+                "model": "T-38A",
+                "model:wikidata": "Q164523",
+                "model:wikipedia": "en:Northrop T-38 Talon",
+                "name": "NASA 968",
+                "ref": "N968NA",
+                "start_date": "1965",
+                "tourism": "attraction",
+                "website": "https://spacecenter.org/meet-our-t-38-jets-in-talon-park/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Space_Shuttle_Independence.jpg/1280px-Space_Shuttle_Independence.jpg",
+            "image_source": "wikipedia_verified"
+        }
+    ]
+}

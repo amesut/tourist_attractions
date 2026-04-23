@@ -1,0 +1,373 @@
+{
+    "city_metadata": {
+        "city_name": "Saratoga Springs",
+        "state_code": "NY",
+        "state_full": "New York",
+        "city_summary": "Saratoga Springs is a city in Saratoga County, New York, United States. The population was 28,491 at the 2020 census. The name reflects the presence of mineral springs in the area, which has made Saratoga a popular resort destination for over 200 years.",
+        "city_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Downtown_Saratoga_Springs.jpg/1280px-Downtown_Saratoga_Springs.jpg",
+        "city_lat": 43.08305556,
+        "city_lon": -73.78444444,
+        "source": "wikipedia_verified_engine"
+    },
+    "attractions": [
+        {
+            "type": "way",
+            "id": 1077539005,
+            "lat": 40.3756394,
+            "lon": -111.9209439,
+            "tags": {
+                "addr:city": "Saratoga Springs",
+                "addr:housenumber": "212",
+                "addr:postcode": "84045",
+                "addr:state": "UT",
+                "addr:street": "West Pioneer Crossing",
+                "amenity": "cinema",
+                "building": "yes",
+                "name": "Fat Cats",
+                "opening_hours": "Mo-Su 11:00-23:00",
+                "phone": "+1 385-262-7005",
+                "screen": "8",
+                "sport": "10pin;miniature_golf;arcade",
+                "tourism": "attraction",
+                "website": "https://www.fatcatsfun.com/SaratogaSprings",
+                "wikidata": "Q78177179"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 2557873,
+            "lat": 43.05111111,
+            "lon": -73.80388889,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Saratoga_State_Park_Hall_of_Springs_01Aug2008.jpg/1280px-Saratoga_State_Park_Hall_of_Springs_01Aug2008.jpg",
+            "description": "Saratoga Spa State Park is a 2,379-acre (9.63 km2) state park located in Saratoga County, New York in the United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Saratoga Spa State Park",
+                "wikipedia": "en:Saratoga Spa State Park",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 661824,
+            "lat": 43.07166667,
+            "lon": -73.76861111,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Saratoga_Race_Course_aerial_2025.jpg/1280px-Saratoga_Race_Course_aerial_2025.jpg",
+            "description": "Saratoga Race Course is a Thoroughbred horse racing track located on Union Avenue in Saratoga Springs, New York, United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Saratoga Race Course",
+                "wikipedia": "en:Saratoga Race Course",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 5628257,
+            "lat": 43.0553,
+            "lon": -73.8058,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5e/SPACamph.jpg",
+            "description": "Saratoga Performing Arts Center (SPAC) is a large amphitheatre located in Saratoga Springs, New York, on the grounds of Saratoga Spa State Park.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Saratoga Performing Arts Center",
+                "wikipedia": "en:Saratoga Performing Arts Center",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 19331440,
+            "lat": 43.08666667,
+            "lon": -73.78361111,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Broadway_in_downtown_Saratoga_Springs%2C_NY.jpg/1280px-Broadway_in_downtown_Saratoga_Springs%2C_NY.jpg",
+            "description": "The Broadway Historic District is located along Broadway in Saratoga Springs, New York, United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Broadway Historic District (Saratoga Springs, New York)",
+                "wikipedia": "en:Broadway Historic District (Saratoga Springs, New York)",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 32555535,
+            "lat": 43.08279,
+            "lon": -73.81008,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Saratoga_and_North_Creek_train.jpg/1280px-Saratoga_and_North_Creek_train.jpg",
+            "description": "The Saratoga and North Creek Railway was a heritage railway that began operation in July 2011.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Saratoga and North Creek Railway",
+                "wikipedia": "en:Saratoga and North Creek Railway",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 6717195,
+            "lat": 43.0660904,
+            "lon": -73.7902644,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/National_Museum_of_Dance_and_Hall_of_Fame_Front.jpg/1280px-National_Museum_of_Dance_and_Hall_of_Fame_Front.jpg",
+            "description": "The National Museum of Dance and Hall of Fame, in the Saratoga Spa State Park, Saratoga Springs, New York, was established in 1986.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "National Museum of Dance and Hall of Fame",
+                "wikipedia": "en:National Museum of Dance and Hall of Fame",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 4585817,
+            "lat": 43.0795,
+            "lon": -73.78628333,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Opera_House_Grand_Union_Hotel_Saratoga_Springs_New_York_1865.jpg",
+            "description": "The Grand Union Hotel was located on Broadway in Saratoga Springs, New York.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Grand Union Hotel (Saratoga Springs, New York)",
+                "wikipedia": "en:Grand Union Hotel (Saratoga Springs, New York)",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 9330099,
+            "lat": 43.057015,
+            "lon": -73.80466,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/1928_Franklin_Airman_Series_12_Sport_Sedan_%2834894053393%29.jpg/1280px-1928_Franklin_Airman_Series_12_Sport_Sedan_%2834894053393%29.jpg",
+            "description": "The Saratoga Automobile Museum is located in the 2,379-acre (963 ha) Saratoga Spa State Park in Saratoga Springs, New York.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Saratoga Automobile Museum",
+                "wikipedia": "en:Saratoga Automobile Museum",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 127148,
+            "lat": 42.79472222,
+            "lon": -74.61583333,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Sharon_Springs%2C_New_York_2016_424.jpg/1280px-Sharon_Springs%2C_New_York_2016_424.jpg",
+            "description": "Sharon Springs is a village in Schoharie County, New York, United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Sharon Springs, New York",
+                "wikipedia": "en:Sharon Springs, New York",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 4228670,
+            "lat": 43.10221,
+            "lon": -73.7375,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Wilton_Mall_Exterior.jpg/1280px-Wilton_Mall_Exterior.jpg",
+            "description": "Wilton Mall is a regional shopping center, located off Interstate 87 exit 15 in the town of Wilton, directly north of Saratoga Springs, New York.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Wilton Mall",
+                "wikipedia": "en:Wilton Mall",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 13631680,
+            "lat": 43.07902778,
+            "lon": -73.78533333,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Spencertraskmemorial.jpg/1280px-Spencertraskmemorial.jpg",
+            "description": "The Spirit of Life is a 1914 sculpture in Saratoga Springs, New York, by the American sculptor Daniel Chester French.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "The Spirit of Life",
+                "wikipedia": "en:The Spirit of Life",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 8210131,
+            "lat": 43,
+            "lon": -76,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_New_York.svg/1280px-Flag_of_New_York.svg.png",
+            "description": "New York, also called New York State, is a state located in the northeastern United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "New York (state)",
+                "wikipedia": "en:New York (state)",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 447990,
+            "lat": 43,
+            "lon": -76,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/af/4thlakesunrise.jpg",
+            "description": "Upstate New York is a geographic region of New York State that lies north and northwest of the New York City metropolitan area of downstate New York.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Upstate New York",
+                "wikipedia": "en:Upstate New York",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 46710,
+            "lat": 43.84166667,
+            "lon": -73.3875,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Fort_Ticonderoga%2C_Ticonderoga%2C_NY.jpg/1280px-Fort_Ticonderoga%2C_Ticonderoga%2C_NY.jpg",
+            "description": "Fort Ticonderoga (), formerly Fort Carillon, is a large 18th-century star fort in Ticonderoga, New York, United States, built by the New French.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Fort Ticonderoga",
+                "wikipedia": "en:Fort Ticonderoga",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 2082057,
+            "lat": 43.074,
+            "lon": -76.221,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Nysfair2008.jpg/1280px-Nysfair2008.jpg",
+            "description": "The New York State Fair, also known as the Great New York State Fair, is a 13-day showcase of agriculture, entertainment, education, and technology.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "New York State Fair",
+                "wikipedia": "en:New York State Fair",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 26976,
+            "lat": 37.404899,
+            "lon": -122.111118,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Silicon_Valley%2C_facing_southward_towards_Downtown_San_Jose%2C_2014_%28cropped%29.jpg/1280px-Silicon_Valley%2C_facing_southward_towards_Downtown_San_Jose%2C_2014_%28cropped%29.jpg",
+            "description": "Silicon Valley is a region in Northern California that is a global center for high technology and innovation.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Silicon Valley",
+                "wikipedia": "en:Silicon Valley",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 37536,
+            "lat": 40.78222222,
+            "lon": -73.96527778,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Global_Citizen_Festival_Central_Park_New_York_City_from_NYonAir_%2815351915006%29.jpg/1280px-Global_Citizen_Festival_Central_Park_New_York_City_from_NYonAir_%2815351915006%29.jpg",
+            "description": "Central Park is an urban park between the Upper West Side and Upper East Side neighborhoods of Manhattan in New York City, and the first landscaped park in the United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Central Park",
+                "wikipedia": "en:Central Park",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 989428,
+            "lat": 43.62222222,
+            "lon": -73.54666667,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Lake_George_aerial_view_2025.jpg/1280px-Lake_George_aerial_view_2025.jpg",
+            "description": "Lake George (Mohawk: Kaniá:taro’kte, \"Lake-End\")  known as the Queen of the Lakes in the United States, is a long narrow oligotrophic lake located at the southeast base of the Adirondack Mountains, in the northeastern portion of the U.S. state of New York.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Lake George (New York)",
+                "wikipedia": "en:Lake George (New York)",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 151663,
+            "lat": 40.575,
+            "lon": -73.9825,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Coney_Island_beach_and_amusement_parks_%28June_2016%29.jpg/1280px-Coney_Island_beach_and_amusement_parks_%28June_2016%29.jpg",
+            "description": "Coney Island is a neighborhood and entertainment area in the southwestern section of the New York City borough of Brooklyn.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Coney Island",
+                "wikipedia": "en:Coney Island",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 32578,
+            "lat": 44,
+            "lon": -72.7,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Vermont.svg/1280px-Flag_of_Vermont.svg.png",
+            "description": "Vermont ( ) is a landlocked state in the New England region of the Northeastern United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Vermont",
+                "wikipedia": "en:Vermont",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 24976962,
+            "lat": 38.978,
+            "lon": -74.859,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Caribbean_Motel_NJ.JPG/1280px-Caribbean_Motel_NJ.JPG",
+            "description": "The Wildwoods Shore Resort Historic District, or Doo Wop Motel District, is an area in The Wildwoods, New Jersey, that was home to over 300 motels built during the Doo-Wop era of the 1950s and 1960s.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Wildwoods Shore Resort Historic District",
+                "wikipedia": "en:Wildwoods Shore Resort Historic District",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 33018826,
+            "lat": 40.70361111,
+            "lon": -74.01611111,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Battery_Park.JPG/1280px-Battery_Park.JPG",
+            "description": "The Battery, formerly known as Battery Park, is a 25-acre (10 ha) public park located at the southern tip of Manhattan Island in New York City facing New York Harbor.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "The Battery (Manhattan)",
+                "wikipedia": "en:The Battery (Manhattan)",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 54451,
+            "lat": 43.56,
+            "lon": -73.84,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Warren_County_Municipal_Center.JPG/1280px-Warren_County_Municipal_Center.JPG",
+            "description": "Warren County is a county in the U.S. state of New York.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Warren County, New York",
+                "wikipedia": "en:Warren County, New York",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 73352,
+            "lat": 41.49,
+            "lon": -71.31,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Newport_Rhode_Island_Aerial_View.jpg/1280px-Newport_Rhode_Island_Aerial_View.jpg",
+            "description": "Newport is a seaside city on Aquidneck Island in Rhode Island, United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Newport, Rhode Island",
+                "wikipedia": "en:Newport, Rhode Island",
+                "tourism": "attraction"
+            }
+        }
+    ]
+}

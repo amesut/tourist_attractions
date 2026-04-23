@@ -1,0 +1,383 @@
+{
+    "city_metadata": {
+        "city_name": "Meridian",
+        "state_code": "ID",
+        "state_full": "Idaho",
+        "city_summary": "Meridian is a city located in Ada County, Idaho, United States. The population was 117,635 at the 2020 census, making it the second most populous city in the county and Idaho, after Boise, the state capital. Meridian is considered the state's fastest-growing city and among the fastest-growing cities in the United States.",
+        "city_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Meridian_Idaho_Temple%2C_Springtime.jpg/1280px-Meridian_Idaho_Temple%2C_Springtime.jpg",
+        "city_lat": 43.61416667,
+        "city_lon": -116.39888889,
+        "source": "wikipedia_verified_engine"
+    },
+    "attractions": [
+        {
+            "type": "node",
+            "id": 8180644265,
+            "lat": 32.3655805,
+            "lon": -88.6961805,
+            "tags": {
+                "addr:housenumber": "1808",
+                "addr:postcode": "39301",
+                "addr:state": "MS",
+                "addr:street": "4th Street",
+                "email": "soulelivesteam@comcast.net",
+                "fee": "yes",
+                "name": "Mississippi Industrial Heritage Museum",
+                "opening_hours:url": "https://www.industrialheritagemuseum.com/plan-your-visit/",
+                "phone": "+1 601 693 9905",
+                "tourism": "museum",
+                "website": "https://www.industrialheritagemuseum.com/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Soul%C3%A9_Steam_Works_Main_Factory.jpg/1280px-Soul%C3%A9_Steam_Works_Main_Factory.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 8181237939,
+            "lat": 32.3334834,
+            "lon": -88.7452478,
+            "tags": {
+                "name": "Key Brothers Aviation Museum",
+                "tourism": "museum",
+                "website": "https://www.meridianairport.com/keybrothersaviationmuseum"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9780020269,
+            "lat": 32.3590284,
+            "lon": -88.6950352,
+            "tags": {
+                "museum": "children",
+                "name": "Mississippi Children's Museum",
+                "tourism": "museum",
+                "website": "https://mschildrensmuseum.org/"
+            }
+        },
+        {
+            "type": "way",
+            "id": 35061750,
+            "lat": 43.5925147,
+            "lon": -116.4006223,
+            "tags": {
+                "addr:city": "Meridian",
+                "addr:housenumber": "1385",
+                "addr:postcode": "83642",
+                "addr:state": "ID",
+                "addr:street": "South Blue Marlin Lane",
+                "name": "Wahooz",
+                "tourism": "theme_park"
+            }
+        },
+        {
+            "type": "way",
+            "id": 749860425,
+            "lat": 43.5973776,
+            "lon": -116.3912457,
+            "tags": {
+                "addr:city": "Meridian",
+                "addr:housenumber": "790",
+                "addr:postcode": "83642",
+                "addr:state": "ID",
+                "addr:street": "South Progress Avenue",
+                "building": "yes",
+                "name": "Children's Museum of Idaho",
+                "opening_hours": "Tu 10:00-17:00; We-Sa 10:00-17:00; Su 13:00-17:00",
+                "tourism": "museum",
+                "website": "https://www.cmidaho.org/"
+            }
+        },
+        {
+            "type": "way",
+            "id": 879400618,
+            "lat": 32.3639684,
+            "lon": -88.7031451,
+            "tags": {
+                "addr:city": "Meridian",
+                "addr:housenumber": "628",
+                "addr:state": "MS",
+                "addr:street": "25th Avenue",
+                "building": "yes",
+                "fee": "no",
+                "name": "Meridian Museum of Art",
+                "opening_hours": "Tu-Sa 11:00-16:00",
+                "tourism": "museum",
+                "website": "https://meridianmuseum.org/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Meridian_December_2018_20_%28Meridian_Museum_of_Art%29.jpg/1280px-Meridian_December_2018_20_%28Meridian_Museum_of_Art%29.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 1064230337,
+            "lat": 32.3751995,
+            "lon": -88.7191687,
+            "tags": {
+                "building": "yes",
+                "name": "Jimmie Rodgers Museum",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Highland_Park_Lake.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 1064230338,
+            "lat": 32.3768675,
+            "lon": -88.7186489,
+            "tags": {
+                "attraction": "carousel",
+                "building": "yes",
+                "historic": "yes",
+                "name": "Dentzel Carousel",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/06/Highland_Park_Dentzel_Carousel_1.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 1083861500,
+            "lat": 32.3628215,
+            "lon": -88.6981574,
+            "tags": {
+                "addr:city": "Meridian",
+                "addr:housenumber": "2155",
+                "addr:postcode": "39302",
+                "addr:state": "MS",
+                "addr:street": "Front Street",
+                "alt_name": "The MAX",
+                "building": "yes",
+                "name": "Mississippi Arts + Entertainment Experience (The MAX)",
+                "tourism": "museum",
+                "website": "https://www.msarts.org/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Meridian_December_2018_35_%28Weidmann%27s_Restaurant%29.jpg/1280px-Meridian_December_2018_35_%28Weidmann%27s_Restaurant%29.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 43989,
+            "lat": 51.477,
+            "lon": 0,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Royal_observatory_greenwich.jpg",
+            "description": "The Royal Observatory, Greenwich (ROG; known as the Old Royal Observatory from 1957 to 1998, when the working Royal Greenwich Observatory, RGO, temporarily moved south from Greenwich to Herstmonceux) is an observatory situated on a hill in Greenwich Park in south east London, overlooking the River Thames to the north.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Royal Observatory, Greenwich",
+                "wikipedia": "en:Royal Observatory, Greenwich",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 1263464,
+            "lat": -24.573,
+            "lon": 149.975,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Moura_Monument.jpg",
+            "description": "Moura is a rural town and locality in the Shire of Banana in Central Queensland, Australia.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Moura, Queensland",
+                "wikipedia": "en:Moura, Queensland",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 64646,
+            "lat": 43.6525,
+            "lon": -79.38166667,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Toronto_Skyline_from_Snake_Island%2C_February_28_2026_%2808%29.jpg/1280px-Toronto_Skyline_from_Snake_Island%2C_February_28_2026_%2808%29.jpg",
+            "description": "Toronto is the most populous city in Canada and the capital city of the Canadian province of Ontario.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Toronto",
+                "wikipedia": "en:Toronto",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 1495708,
+            "lat": 50.79561667,
+            "lon": -1.10857222,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Gunwharf_Quays_and_the_Spinnaker_Tower_in_March_2012_2.JPG/1280px-Gunwharf_Quays_and_the_Spinnaker_Tower_in_March_2012_2.JPG",
+            "description": "The Spinnaker Tower is a 170-metre (560 ft) landmark observation tower in Portsmouth, England.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Spinnaker Tower",
+                "wikipedia": "en:Spinnaker Tower",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 21638,
+            "lat": -20,
+            "lon": 133,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Flag_of_the_Northern_Territory.svg/1280px-Flag_of_the_Northern_Territory.svg.png",
+            "description": "The Northern Territory (abbreviated as NT; known formally as the Northern Territory of Australia and informally as the Territory) is an Australian internal territory in the central and central-northern regions of Australia.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Northern Territory",
+                "wikipedia": "en:Northern Territory",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 28165704,
+            "lat": 31.606,
+            "lon": -97.175,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Waco_mammoth_site_QRT.jpg/1280px-Waco_mammoth_site_QRT.jpg",
+            "description": "The Waco Mammoth National Monument is a paleontological site and museum in Waco, Texas, United States where fossils of 24 Columbian mammoths (Mammuthus columbi) and other mammals from the Pleistocene Epoch have been uncovered.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Waco Mammoth National Monument",
+                "wikipedia": "en:Waco Mammoth National Monument",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 14607,
+            "lat": 45,
+            "lon": -115,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Flag_of_Idaho.svg/1280px-Flag_of_Idaho.svg.png",
+            "description": "Idaho ( , EYE-də-hoe) is a landlocked state in the Pacific Northwest and Mountain West subregions of the Western United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Idaho",
+                "wikipedia": "en:Idaho",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 27496280,
+            "lat": 33.54472222,
+            "lon": -96.14555556,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Bonham_state_park_headquarters.jpg/1280px-Bonham_state_park_headquarters.jpg",
+            "description": "Bonham State Park is a 261-acre (1.06 km2) state park located near Bonham, Texas in Fannin County, United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Bonham State Park",
+                "wikipedia": "en:Bonham State Park",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 10172085,
+            "lat": 51.50277778,
+            "lon": 0.00305556,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/O2_Arena_%289499773307%29.jpg/1280px-O2_Arena_%289499773307%29.jpg",
+            "description": "The O2 (formerly known as the Millennium Dome) is a large entertainment district on the Greenwich Peninsula in South East London, England, including an indoor arena, a music club, a Cineworld cinema, an exhibition space, piazzas, bars, restaurants, and a guided tour to the top of the O2.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "The O2",
+                "wikipedia": "en:The O2",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 112297,
+            "lat": 39.96805556,
+            "lon": -86.1125,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/The_Palladium.jpg/1280px-The_Palladium.jpg",
+            "description": "Carmel () is a suburban city in Hamilton County, Indiana, United States, immediately north of Indianapolis.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Carmel, Indiana",
+                "wikipedia": "en:Carmel, Indiana",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 22209023,
+            "lat": 25.17194444,
+            "lon": 121.44388889,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/%E7%B4%85%E6%AF%9B%E5%9F%8E%E4%B9%8B%E7%BE%8E.jpg/1280px-%E7%B4%85%E6%AF%9B%E5%9F%8E%E4%B9%8B%E7%BE%8E.jpg",
+            "description": "Tamsui District (Chinese: 淡水; pinyin: Dànshuǐ; Pe̍h-ōe-jī: Tām-chúi; Tâi-lô: Tām-tsuí) is a seaside district in New Taipei City, Taiwan adjacent to the Tamsui River and overlooking the Taiwan Strait.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Tamsui District",
+                "wikipedia": "en:Tamsui District",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 206643,
+            "lat": 54.77361111,
+            "lon": -1.57611111,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Durham_MMB_02_Cathedral.jpg/1280px-Durham_MMB_02_Cathedral.jpg",
+            "description": "Durham Cathedral, formally the Cathedral Church of Christ, Blessed Mary the Virgin and St Cuthbert of Durham, is a Church of England cathedral in the city of Durham, England.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Durham Cathedral",
+                "wikipedia": "en:Durham Cathedral",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 25522443,
+            "lat": 51.53916667,
+            "lon": -0.03166667,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Field_Day_Victoria_Park20_%2835094392685%29.jpg/1280px-Field_Day_Victoria_Park20_%2835094392685%29.jpg",
+            "description": "Field Day is a yearly outdoor music festival in London.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Field Day (festival)",
+                "wikipedia": "en:Field Day (festival)",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 16378273,
+            "lat": 42.747427,
+            "lon": -84.549518,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Dickens_Village_2008_019_%28Small%29.jpg",
+            "description": "Located in the northern end of Lansing, Michigan, Old Town overlooks the Grand River and a winding bike trail.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Old Town, Lansing, Michigan",
+                "wikipedia": "en:Old Town, Lansing, Michigan",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 57447,
+            "lat": 35.22722222,
+            "lon": -80.84305556,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Uptown_Charlotte_2018_taking_by_DJI_Phantom_4_pro.jpg/1280px-Uptown_Charlotte_2018_taking_by_DJI_Phantom_4_pro.jpg",
+            "description": "Charlotte is the most populous city in the U.S. state of North Carolina.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Charlotte, North Carolina",
+                "wikipedia": "en:Charlotte, North Carolina",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 1069187,
+            "lat": 27.49388889,
+            "lon": -109.93888889,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/El_Palacio_Municipal_%28Atardecer%29.JPG/1280px-El_Palacio_Municipal_%28Atardecer%29.JPG",
+            "description": "Ciudad Obregón is a city in southern Sonora.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Ciudad Obregón",
+                "wikipedia": "en:Ciudad Obregón",
+                "tourism": "attraction"
+            }
+        }
+    ]
+}

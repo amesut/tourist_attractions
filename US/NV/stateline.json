@@ -1,0 +1,42 @@
+{
+    "city_metadata": {
+        "city_name": "Stateline",
+        "state_code": "NV",
+        "state_full": "Nevada",
+        "city_summary": "Stateline is a census-designated place (CDP) on the southeastern shore of Lake Tahoe in Douglas County, Nevada, United States. It lies next to the border with California and is conurbated with South Lake Tahoe. The population was 595 at the 2020 census.",
+        "city_image": "https://upload.wikimedia.org/wikipedia/commons/1/10/Stateline%2C_Nevada.jpg",
+        "city_lat": 38.97055556,
+        "city_lon": -119.94583333,
+        "source": "wikipedia_verified_engine"
+    },
+    "attractions": [
+        {
+            "type": "wikipedia_node",
+            "id": 140899,
+            "lat": 39,
+            "lon": -120,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Tahoe_North_Shore_from_the_East_Shore.jpg/1280px-Tahoe_North_Shore_from_the_East_Shore.jpg",
+            "description": "Lake Tahoe () is a freshwater lake in the Sierra Nevada of the Western United States, straddling the border between California and Nevada.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Lake Tahoe",
+                "wikipedia": "en:Lake Tahoe",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 1773866,
+            "lat": 36.135,
+            "lon": -115.162,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/29/Riviera_Hotel_%26_Casino%2C_Las_Vagas.jpg",
+            "description": "The Riviera (colloquially, \"the Riv\") was a hotel and casino on the northern Las Vegas Strip in Winchester, Nevada.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Riviera (hotel and casino)",
+                "wikipedia": "en:Riviera (hotel and casino)",
+                "tourism": "attraction"
+            }
+        }
+    ]
+}

@@ -1,0 +1,1409 @@
+{
+    "city_metadata": {
+        "city_name": "Riverside",
+        "state_code": "CA",
+        "state_full": "California",
+        "city_summary": "Riverside is a city in and the county seat of Riverside County, California, United States. It is named for its location beside the Santa Ana River in Southern California. It is the most populous city in the Inland Empire and Riverside County, 12th-most populous city in California, and 61st-most populous city in the U.S. with a population of 314,998 at the 2020 census.",
+        "city_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Mission_Inn%27s_main_interior_courtyard.jpg/1280px-Mission_Inn%27s_main_interior_courtyard.jpg",
+        "city_lat": 33.94805556,
+        "city_lon": -117.39611111,
+        "source": "wikipedia_verified_engine"
+    },
+    "attractions": [
+        {
+            "type": "node",
+            "id": 2281492434,
+            "lat": 33.9130273,
+            "lon": -117.5020206,
+            "tags": {
+                "name": "World Museum of Natural History",
+                "tourism": "museum",
+                "website": "https://lasierra.edu/world-museum-of-natural-history/"
+            }
+        },
+        {
+            "type": "node",
+            "id": 2650938596,
+            "lat": 33.9035434,
+            "lon": -117.46657,
+            "tags": {
+                "attraction": "dark_ride",
+                "name": "Ghost Blasters",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 2650956021,
+            "lat": 33.9022096,
+            "lon": -117.4683756,
+            "tags": {
+                "name": "Magic Show",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 2826698923,
+            "lat": 33.9615272,
+            "lon": -117.3941547,
+            "tags": {
+                "addr:city": "Riverside",
+                "addr:housenumber": "3993",
+                "addr:postcode": "92506",
+                "addr:street": "Jurupa Avenue",
+                "name": "Southern California Medical Museum",
+                "phone": "+1-951-787-7700",
+                "tourism": "museum",
+                "website": "https://www.socalmedicalmuseum.org/Welcome.html"
+            }
+        },
+        {
+            "type": "node",
+            "id": 2826713492,
+            "lat": 33.9814567,
+            "lon": -117.374703,
+            "tags": {
+                "addr:city": "Riverside",
+                "addr:housenumber": "3824",
+                "addr:street": "Main Street",
+                "fee": "yes",
+                "name": "UCR ARTS",
+                "opening_hours": "Th,Fr 12:00-17:00; Sa,Su 11:00-17:00; Mo-We,PH off",
+                "operator": "University of California, Riverside",
+                "tourism": "museum",
+                "website": "https://ucrarts.ucr.edu/",
+                "wheelchair": "yes",
+                "wikidata": "Q7864103"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/California_Museum_of_Photography.jpg/1280px-California_Museum_of_Photography.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 2899932364,
+            "lat": 45.7426851,
+            "lon": -64.7404199,
+            "tags": {
+                "contact:facebook": "https://www.facebook.com/TheOldBankMuseum",
+                "fee": "no",
+                "name": "The Old Bank Museum",
+                "tourism": "museum",
+                "website": "https://tourismnewbrunswick.ca/listing/old-bank-museum"
+            }
+        },
+        {
+            "type": "node",
+            "id": 3688373706,
+            "lat": 41.8336173,
+            "lon": -87.8319789,
+            "tags": {
+                "attraction": "animal",
+                "name": "Sloth Bear",
+                "species:wikidata": "Q145016",
+                "species:wikipedia": "en:Sloth bear",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Seal_of_the_Metropolitan_Water_Reclamation_District_of_Greater_Chicago.svg/1280px-Seal_of_the_Metropolitan_Water_Reclamation_District_of_Greater_Chicago.svg.png",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 3688373710,
+            "lat": 41.833642,
+            "lon": -87.8317045,
+            "tags": {
+                "attraction": "animal",
+                "name": "Amur Tiger",
+                "note": "Amur Tiger",
+                "species:wikidata": "Q69581",
+                "species:wikipedia": "en:Siberian tiger",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Seal_of_the_Metropolitan_Water_Reclamation_District_of_Greater_Chicago.svg/1280px-Seal_of_the_Metropolitan_Water_Reclamation_District_of_Greater_Chicago.svg.png",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 3688373714,
+            "lat": 41.8336118,
+            "lon": -87.8314329,
+            "tags": {
+                "attraction": "animal",
+                "name": "Snow Leopard",
+                "species:wikidata": "Q30197",
+                "species:wikipedia": "en:Snow leopard",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Seal_of_the_Metropolitan_Water_Reclamation_District_of_Greater_Chicago.svg/1280px-Seal_of_the_Metropolitan_Water_Reclamation_District_of_Greater_Chicago.svg.png",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 3688397917,
+            "lat": 41.8338037,
+            "lon": -87.8309202,
+            "tags": {
+                "attraction": "animal",
+                "name": "Gray Seal",
+                "species:wikidata": "Q27370",
+                "species:wikipedia": "en:Grey seal",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Seal_of_the_Metropolitan_Water_Reclamation_District_of_Greater_Chicago.svg/1280px-Seal_of_the_Metropolitan_Water_Reclamation_District_of_Greater_Chicago.svg.png",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 4413723993,
+            "lat": 33.9600161,
+            "lon": -117.480861,
+            "tags": {
+                "name": "River Trails",
+                "name:en": "River Trails",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 4413785789,
+            "lat": 33.9651203,
+            "lon": -117.4302658,
+            "tags": {
+                "name": "Martha Mclean Anza Narrows",
+                "name:en": "Martha Mclean Anza Narrows",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 5905978457,
+            "lat": 41.8278837,
+            "lon": -87.82001,
+            "tags": {
+                "addr:city": "Riverside",
+                "addr:housenumber": "10",
+                "addr:postcode": "60546",
+                "addr:state": "IL",
+                "addr:street": "Pine Avenue",
+                "name": "Riverside Historical Museum",
+                "opening_hours": "Sa 10:00-14:00",
+                "operator": "Riverside Historical Commission",
+                "tourism": "museum",
+                "website": "http://www.riversidemuseum.net"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Riverside_Station.jpg/1280px-Riverside_Station.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 6522453826,
+            "lat": 33.9830178,
+            "lon": -117.373487,
+            "tags": {
+                "addr:city": "Riverside",
+                "addr:housenumber": "3696",
+                "addr:postcode": "92501",
+                "addr:state": "CA",
+                "addr:street": "Main Street",
+                "fee": "yes",
+                "name": "Mission Inn Museum",
+                "tourism": "museum",
+                "website": "https://missioninnmuseum.org/about/about-museum/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/MissionInn_SpanishWing.jpg/1280px-MissionInn_SpanishWing.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 7263562325,
+            "lat": 41.833804,
+            "lon": -87.8306764,
+            "tags": {
+                "attraction": "animal",
+                "name": "California Sea Lion",
+                "species:wikidata": "Q379732",
+                "species:wikipedia": "en:California sea lion",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Seal_of_the_Metropolitan_Water_Reclamation_District_of_Greater_Chicago.svg/1280px-Seal_of_the_Metropolitan_Water_Reclamation_District_of_Greater_Chicago.svg.png",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 7273401973,
+            "lat": 46.7148745,
+            "lon": -92.218447,
+            "tags": {
+                "name": "Spirit Mountain",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 7602780024,
+            "lat": 41.8313259,
+            "lon": -87.8309686,
+            "tags": {
+                "attraction": "animal",
+                "name": "Bennet's Wallaby",
+                "species:wikidata": "Q249024",
+                "species:wikipedia": "en:Red-necked wallaby",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 7602780025,
+            "lat": 41.8314628,
+            "lon": -87.8313508,
+            "tags": {
+                "attraction": "animal",
+                "name": "Parakeet",
+                "species:wikidata": "Q8329",
+                "species:wikipedia": "en:Parakeet",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 7602780026,
+            "lat": 41.831331,
+            "lon": -87.8305195,
+            "tags": {
+                "attraction": "animal",
+                "name": "Emu",
+                "species:wikidata": "Q93208",
+                "species:wikipedia": "en:Emu",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 7602812481,
+            "lat": 41.8318522,
+            "lon": -87.8313763,
+            "tags": {
+                "attraction": "animal",
+                "name": "Nigerian Dwarf Goat",
+                "species:wikidata": "Q12404854",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 7602812482,
+            "lat": 41.8316583,
+            "lon": -87.8306261,
+            "tags": {
+                "attraction": "animal",
+                "name": "Reindeer",
+                "species:wikidata": "Q39624",
+                "species:wikipedia": "en:Reindeer",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 7602812483,
+            "lat": 41.8315025,
+            "lon": -87.830845,
+            "tags": {
+                "attraction": "animal",
+                "name": "Red Panda",
+                "species:wikidata": "Q41960",
+                "species:wikipedia": "en:Red panda",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 7602812484,
+            "lat": 41.8319272,
+            "lon": -87.8308509,
+            "tags": {
+                "attraction": "animal",
+                "name": "Llama",
+                "species:wikidata": "Q42569",
+                "species:wikipedia": "en:Llama",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 7602814485,
+            "lat": 41.8318884,
+            "lon": -87.8307448,
+            "tags": {
+                "attraction": "animal",
+                "name": "Alpaca",
+                "species:wikidata": "Q81564",
+                "species:wikipedia": "en:Alpaca",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10257791979,
+            "lat": 41.833569,
+            "lon": -87.8299182,
+            "tags": {
+                "attraction": "animal",
+                "name": "Dolphin",
+                "species:wikidata": "Q7369",
+                "species:wikipedia": "en:Dolphin",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Seal_of_the_Metropolitan_Water_Reclamation_District_of_Greater_Chicago.svg/1280px-Seal_of_the_Metropolitan_Water_Reclamation_District_of_Greater_Chicago.svg.png",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 11108973954,
+            "lat": 33.9439631,
+            "lon": -117.5101427,
+            "tags": {
+                "name": "Stone Fort",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 12732045747,
+            "lat": 41.8339232,
+            "lon": -87.8305348,
+            "tags": {
+                "attraction": "animal",
+                "name": "California Sea Lion",
+                "species:wikidata": "Q379732",
+                "species:wikipedia": "en:California sea lion",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Seal_of_the_Metropolitan_Water_Reclamation_District_of_Greater_Chicago.svg/1280px-Seal_of_the_Metropolitan_Water_Reclamation_District_of_Greater_Chicago.svg.png",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 12732045884,
+            "lat": 41.8340147,
+            "lon": -87.8310825,
+            "tags": {
+                "attraction": "animal",
+                "name": "Gray Seal",
+                "species:wikidata": "Q27370",
+                "species:wikipedia": "en:Grey seal",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Seal_of_the_Metropolitan_Water_Reclamation_District_of_Greater_Chicago.svg/1280px-Seal_of_the_Metropolitan_Water_Reclamation_District_of_Greater_Chicago.svg.png",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 13289831284,
+            "lat": 33.9815014,
+            "lon": -117.3745574,
+            "tags": {
+                "camera:direction": "295",
+                "camera:mount": "wall",
+                "camera:type": "obscura",
+                "man_made": "surveillance",
+                "name": "Camera Obscura",
+                "surveillance": "no",
+                "surveillance:type": "camera",
+                "surveillance:zone": "area",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/California_Museum_of_Photography.jpg/1280px-California_Museum_of_Photography.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 13669805796,
+            "lat": 33.971466,
+            "lon": -117.3190223,
+            "tags": {
+                "name": "Petrified Redwood Log",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Salinity.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 44486515,
+            "lat": 33.9029198,
+            "lon": -117.4679655,
+            "tags": {
+                "Tiger:MTFCC": "K2564",
+                "addr:city": "Riverside",
+                "addr:housenumber": "3500",
+                "addr:postcode": "92505",
+                "addr:state": "CA",
+                "addr:street": "Polk Street",
+                "name": "Castle Amusement Park",
+                "opening_hours": "Mo-Th 13:00-20:00 \"Mini Golf and Arcade only\"; Fr 13:00-21:00 \"Mini Golf and Arcade only\"; Sa 11:00-21:00 \"Rides available between 12:00-20:00\"; Su 11:00-20:00 \"Rides available between 12:00-19:00\"",
+                "source": "Tiger2009",
+                "tiger:ALAND": "71808",
+                "tiger:AREAID": "110458305863",
+                "tiger:AWATER": "0",
+                "tiger:COUNTYFP": "065",
+                "tiger:STATEFP": "06",
+                "tiger:reviewed": "yes",
+                "tourism": "theme_park",
+                "website": "https://www.castlepark.com/",
+                "wikidata": "Q2941462",
+                "wikipedia": "en:Castle Park (amusement park)"
+            }
+        },
+        {
+            "type": "way",
+            "id": 53757587,
+            "lat": 41.398473,
+            "lon": -81.8531684,
+            "tags": {
+                "addr:city": "Cleveland",
+                "addr:housenumber": "1",
+                "addr:postcode": "44135",
+                "addr:state": "OH",
+                "addr:street": "I-X Center Drive",
+                "building": "yes",
+                "height": "11",
+                "layer": "1",
+                "name": "I-X Center",
+                "official_name": "International Exposition Center",
+                "tourism": "attraction",
+                "wikidata": "Q5967714",
+                "wikipedia": "en:I-X Center"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/IX_Center_sign_%282%29.png/1280px-IX_Center_sign_%282%29.png",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 116272343,
+            "lat": 47.661121,
+            "lon": -117.423971,
+            "tags": {
+                "addr:city": "Spokane",
+                "addr:housenumber": "331",
+                "addr:postcode": "99201",
+                "addr:state": "WA",
+                "addr:street": "North Post Street",
+                "building": "yes",
+                "building:levels": "1",
+                "fee": "yes",
+                "museum": "children",
+                "name": "Mobius Discovery Center",
+                "opening_hours": "We-Sa 10:00-17:00; Su 11:00-17:00",
+                "phone": "+1-509-321-7121",
+                "tourism": "museum",
+                "website": "https://mobiusdiscoverycenter.org/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/%281882%29_SPOKANE_FALLS%2C_WASHINGTON_TERRITORY.jpg/1280px-%281882%29_SPOKANE_FALLS%2C_WASHINGTON_TERRITORY.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 118728049,
+            "lat": 33.9821342,
+            "lon": -117.3764064,
+            "tags": {
+                "addr:city": "Riverside",
+                "addr:housenumber": "3855",
+                "addr:postcode": "92501",
+                "addr:state": "CA",
+                "addr:street": "Market Street",
+                "architect": "Stiles O. Clements",
+                "architect:wikidata": "Q7616962",
+                "architect:wikipedia": "en:Stiles Clements",
+                "building": "yes",
+                "name": "The Center for Social Justice & Civil Liberties",
+                "phone": "+1-951-222-8846",
+                "smoking": "no",
+                "start_date": "1926",
+                "tourism": "museum",
+                "website": "https://socialjustice.rccd.edu/Pages/splash.aspx"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/California_Museum_of_Photography.jpg/1280px-California_Museum_of_Photography.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 119281492,
+            "lat": 33.9827589,
+            "lon": -117.371588,
+            "tags": {
+                "addr:city": "Riverside",
+                "addr:housenumber": "3581",
+                "addr:postcode": "92501",
+                "addr:state": "CA",
+                "addr:street": "Mission Inn Avenue",
+                "building": "yes",
+                "building:levels": "3",
+                "contact:facebook": "TheCheechCenter",
+                "contact:instagram": "thecheechcenter",
+                "contact:twitter": "thecheechcenter",
+                "level": "2",
+                "museum": "art",
+                "name": "The Cheech Marin Center for Chicano Art & Culture of the Riverside Art Museum",
+                "opening_hours": "We-Sa 10:00-17:00; Su 12:00-17:00; Mo,Tu,PH off",
+                "operator": "Riverside Art Museum",
+                "phone": "+1-951-684-7111",
+                "tourism": "museum",
+                "website": "https://riversideartmuseum.org/museum/cheech-center/",
+                "wheelchair": "yes",
+                "wikidata": "Q96408528",
+                "wikipedia": "en:The Cheech Marin Center for Chicano Art & Culture"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/RiversideArtMuseum20090821g.JPG/1280px-RiversideArtMuseum20090821g.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 119281494,
+            "lat": 33.981957,
+            "lon": -117.3724989,
+            "tags": {
+                "addr:city": "Riverside",
+                "addr:housenumber": "8193",
+                "addr:postcode": "92504",
+                "addr:state": "CA",
+                "addr:street": "Mission Inn Avenue",
+                "architect": "James Knox Taylor",
+                "architect:wikidata": "Q6137444",
+                "architect:wikipedia": "en:James Knox Taylor",
+                "building": "yes",
+                "fee": "yes",
+                "name": "Museum of Riverside",
+                "tourism": "museum",
+                "website": "https://www.riversideca.gov/museum/",
+                "wikidata": "Q7338538"
+            }
+        },
+        {
+            "type": "way",
+            "id": 232933223,
+            "lat": 33.9812332,
+            "lon": -117.3744729,
+            "tags": {
+                "addr:housenumber": "3834",
+                "addr:postcode": "92501",
+                "addr:street": "Main Street",
+                "building": "office",
+                "building:levels": "2",
+                "contact:facebook": "ucrarts",
+                "contact:instagram": "ucrarts",
+                "contact:twitter": "ucrarts",
+                "email": "ucrarts@ucr.edu",
+                "fee": "yes",
+                "internet_access": "wlan",
+                "level": "2",
+                "name": "California Museum of Photography and the Barbara & Art Culver Center of the Arts",
+                "opening_hours": "Th 12:00-17:00; Sa-Su 11:00-17:00",
+                "phone": "+1-951-827-3755",
+                "start_date": "1895",
+                "tourism": "museum",
+                "website": "http://ucrarts.ucr.edu/",
+                "wheelchair": "yes"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/California_Museum_of_Photography.jpg/1280px-California_Museum_of_Photography.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 232933224,
+            "lat": 33.981403,
+            "lon": -117.3743514,
+            "tags": {
+                "building": "yes",
+                "fee": "yes",
+                "name": "California Museum of Photography",
+                "opening_hours": "Sa,Su 11:00-17:00; Th,Fr 12:00-17:00; Mo-We off",
+                "start_date": "1929",
+                "tourism": "museum",
+                "wheelchair": "yes"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/California_Museum_of_Photography.jpg/1280px-California_Museum_of_Photography.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 233663665,
+            "lat": 33.9345039,
+            "lon": -117.4225571,
+            "tags": {
+                "building": "yes",
+                "name": "Heritage House",
+                "tourism": "museum",
+                "wikidata": "Q25209703"
+            }
+        },
+        {
+            "type": "way",
+            "id": 237983130,
+            "lat": 33.902595,
+            "lon": -117.4672746,
+            "tags": {
+                "attraction": "carousel",
+                "building": "yes",
+                "layer": "1",
+                "name": "1905 Dentzel Carousel (Merry Go Round)",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "way",
+            "id": 259293137,
+            "lat": 33.9019661,
+            "lon": -117.4680256,
+            "tags": {
+                "addr:housename": "Screamin Demon",
+                "attraction": "roller_coaster",
+                "name": "Screamin Demon",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "way",
+            "id": 259293866,
+            "lat": 33.9019983,
+            "lon": -117.4677506,
+            "tags": {
+                "attraction": "amusement_ride",
+                "name": "Dragon Flyer",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "way",
+            "id": 259293867,
+            "lat": 33.9022578,
+            "lon": -117.4676354,
+            "tags": {
+                "addr:housename": "Merlins Revenge",
+                "attraction": "roller_coaster",
+                "name": "Merlins Revenge",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "way",
+            "id": 259293870,
+            "lat": 33.9021289,
+            "lon": -117.4672374,
+            "tags": {
+                "addr:housename": "The Spider",
+                "attraction": "amusement_ride",
+                "name": "The Spider",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "way",
+            "id": 259294713,
+            "lat": 33.9024637,
+            "lon": -117.4674645,
+            "tags": {
+                "attraction": "amusement_ride",
+                "name": "Falling Star",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "way",
+            "id": 259294714,
+            "lat": 33.9024439,
+            "lon": -117.4677191,
+            "tags": {
+                "attraction": "amusement_ride",
+                "name": "Crazy Plane",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "way",
+            "id": 259294715,
+            "lat": 33.9026737,
+            "lon": -117.4676477,
+            "tags": {
+                "attraction": "amusement_ride",
+                "name": "Samba",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "way",
+            "id": 259294716,
+            "lat": 33.9027219,
+            "lon": -117.4678239,
+            "tags": {
+                "attraction": "amusement_ride",
+                "name": "Whip",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "way",
+            "id": 259294717,
+            "lat": 33.9027865,
+            "lon": -117.4677345,
+            "tags": {
+                "attraction": "amusement_ride",
+                "name": "Motorcycles",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "way",
+            "id": 259294718,
+            "lat": 33.9022376,
+            "lon": -117.4671,
+            "tags": {
+                "attraction": "amusement_ride",
+                "name": "Flying Saucer",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "way",
+            "id": 259294719,
+            "lat": 33.9022887,
+            "lon": -117.4668542,
+            "tags": {
+                "attraction": "drop_tower",
+                "name": "Dragon's Tower",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "way",
+            "id": 259294720,
+            "lat": 33.9024509,
+            "lon": -117.4670247,
+            "tags": {
+                "attraction": "amusement_ride",
+                "name": "King's Crown",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "way",
+            "id": 259294721,
+            "lat": 33.9025369,
+            "lon": -117.4667558,
+            "tags": {
+                "attraction": "amusement_ride",
+                "name": "Scrambler",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "way",
+            "id": 259294724,
+            "lat": 33.9029692,
+            "lon": -117.467246,
+            "tags": {
+                "attraction": "pirate_ship",
+                "name": "Sea Dragon",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "way",
+            "id": 259294725,
+            "lat": 33.9030595,
+            "lon": -117.4675916,
+            "tags": {
+                "attraction": "amusement_ride",
+                "name": "Sea Planes",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "way",
+            "id": 259294726,
+            "lat": 33.9031615,
+            "lon": -117.4677371,
+            "tags": {
+                "attraction": "amusement_ride",
+                "name": "Spaceships",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "way",
+            "id": 259294727,
+            "lat": 33.9031978,
+            "lon": -117.4676145,
+            "tags": {
+                "attraction": "amusement_ride",
+                "name": "Flying Animals",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "way",
+            "id": 259294802,
+            "lat": 33.9032255,
+            "lon": -117.4671386,
+            "tags": {
+                "attraction": "amusement_ride",
+                "name": "Tilt-A-Whirl",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "way",
+            "id": 259294803,
+            "lat": 33.9026491,
+            "lon": -117.4680999,
+            "tags": {
+                "attraction": "roller_coaster",
+                "name": "Little Dipper",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "way",
+            "id": 259295478,
+            "lat": 33.9029096,
+            "lon": -117.4680745,
+            "tags": {
+                "attraction": "log_flume",
+                "name": "Log Ride",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "way",
+            "id": 259295479,
+            "lat": 33.9034286,
+            "lon": -117.4673437,
+            "tags": {
+                "attraction": "amusement_ride",
+                "name": "Antique Car Ride",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "way",
+            "id": 259295481,
+            "lat": 33.903444,
+            "lon": -117.4670355,
+            "tags": {
+                "attraction": "train",
+                "building": "yes",
+                "name": "Train Station",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "way",
+            "id": 259298339,
+            "lat": 33.903748,
+            "lon": -117.4668653,
+            "tags": {
+                "attraction": "water_park",
+                "name": "Buccaneer Cove",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "way",
+            "id": 259305224,
+            "lat": 33.9020668,
+            "lon": -117.4674485,
+            "tags": {
+                "attraction": "amusement_ride",
+                "name": "Fire Ball",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "way",
+            "id": 259470228,
+            "lat": 33.9025274,
+            "lon": -117.4675606,
+            "tags": {
+                "attraction": "amusement_ride",
+                "name": "Rockin' Tug",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "way",
+            "id": 278271423,
+            "lat": 33.925059,
+            "lon": -117.4373804,
+            "tags": {
+                "addr:city": "Riverside",
+                "addr:housenumber": "9010",
+                "addr:postcode": "92503",
+                "addr:street": "Magnolia Avenue",
+                "building": "yes",
+                "name": "Sherman Indian Museum",
+                "operator": "Sherman Indian High School",
+                "tourism": "museum",
+                "website": "http://www.shermanindianmuseum.org/"
+            }
+        },
+        {
+            "type": "way",
+            "id": 354181269,
+            "lat": 37.9652637,
+            "lon": -87.5731626,
+            "tags": {
+                "building": "yes",
+                "fee": "yes",
+                "name": "Evansville Museum",
+                "opening_hours": "We-Sa 11:00-17:00; Su 12:00-17:00",
+                "tourism": "museum",
+                "website": "https://emuseum.org/",
+                "wikidata": "Q5416035"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Sunset_Park_Pavilion_in_Evansville.jpg/1280px-Sunset_Park_Pavilion_in_Evansville.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 422962969,
+            "lat": 39.7823329,
+            "lon": -84.1103726,
+            "tags": {
+                "addr:city": "Wright-Patterson AFB",
+                "addr:housenumber": "1100",
+                "addr:postcode": "45433",
+                "addr:state": "OH",
+                "addr:street": "Spaatz Street",
+                "fee": "no",
+                "museum": "aerospace",
+                "name": "National Museum of the United States Air Force",
+                "old_name": "United States Air Force Museum",
+                "opening_hours": "Mo-Su,PH 09:00-17:00; Jan 01,Dec 25 closed; Nov Th[4] closed",
+                "start_date": "1923-05-16",
+                "tourism": "museum",
+                "website": "https://www.nationalmuseum.af.mil/",
+                "wheelchair": "yes",
+                "wikidata": "Q1422977",
+                "wikipedia": "en:National Museum of the United States Air Force"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/ca/National_Museum_of_the_United_States_Air_Force.png",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 461176729,
+            "lat": 47.6606032,
+            "lon": -117.4202311,
+            "tags": {
+                "attraction": "carousel",
+                "building": "yes",
+                "name": "Looff Carrousel",
+                "ref:nrhp": "77001362",
+                "tourism": "attraction",
+                "wikidata": "Q7338193",
+                "wikipedia": "en:Riverfront Park Carousel"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Riverfront_Park_Carousel.JPG/1280px-Riverfront_Park_Carousel.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 511925076,
+            "lat": 52.090297,
+            "lon": 1.3198673,
+            "tags": {
+                "building": "yes",
+                "fee": "no",
+                "name": "Woodbridge Museum",
+                "note": "Relocated from Market Hill",
+                "opening_hours": "Mo-Su 10:30-16:30",
+                "tourism": "museum",
+                "website": "https://woodbridgemuseum.com/",
+                "wheelchair": "yes",
+                "wikidata": "Q113360629"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/71/Woodbridge_Tide_Mill_%281%29.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 558539153,
+            "lat": 39.7802555,
+            "lon": -84.1091758,
+            "tags": {
+                "building:colour": "grey",
+                "building:part": "museum",
+                "height": "6",
+                "name": "Berlin Link",
+                "roof:colour": "silver",
+                "roof:height": "1",
+                "roof:shape": "round",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Fairfield_Depot_OH_1.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 558539155,
+            "lat": 39.7817855,
+            "lon": -84.1099234,
+            "tags": {
+                "building:colour": "grey",
+                "building:material": "metal_plates",
+                "building:part": "hangar",
+                "height": "19",
+                "museum": "aerospace",
+                "name": "World War II Gallery",
+                "operator": "National Museum of the US Air Force",
+                "roof:colour": "silver",
+                "roof:direction": "324",
+                "roof:height": "17",
+                "roof:shape": "round",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/ca/National_Museum_of_the_United_States_Air_Force.png",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 558539158,
+            "lat": 39.7808886,
+            "lon": -84.1110371,
+            "tags": {
+                "building:colour": "grey",
+                "building:material": "metal_plates",
+                "building:part": "hangar",
+                "height": "19",
+                "museum": "aerospace",
+                "name": "Early Years Gallery",
+                "operator": "National Museum of the US Air Force",
+                "roof:colour": "silver",
+                "roof:direction": "324",
+                "roof:height": "17",
+                "roof:shape": "round",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/ca/National_Museum_of_the_United_States_Air_Force.png",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 558539162,
+            "lat": 39.7799734,
+            "lon": -84.1083894,
+            "tags": {
+                "building:colour": "grey",
+                "building:material": "metal_plates",
+                "building:part": "hangar",
+                "height": "24",
+                "museum": "aerospace",
+                "name": "Eugene W. Kettering Cold War Gallery",
+                "operator": "National Museum of the US Air Force",
+                "roof:colour": "silver",
+                "roof:height": "19",
+                "roof:shape": "round",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Fairfield_Depot_OH_1.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 573276078,
+            "lat": 41.4807757,
+            "lon": -91.576706,
+            "tags": {
+                "addr:city": "Riverside",
+                "addr:housenumber": "361",
+                "addr:postcode": "52327",
+                "addr:state": "IA",
+                "addr:street": "West 1st Street",
+                "building": "yes",
+                "fee": "donation",
+                "name": "Voyage Home Riverside History Center",
+                "opening_hours": "Mo-Sa 12:00-16:00; PH off",
+                "phone": "+1-319-648-2226",
+                "tourism": "museum",
+                "website": "http://www.voyagehomemuseum.org/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Saint_Mary%27s_Church_and_Rectory_-_Riverside%2C_Iowa.JPG/1280px-Saint_Mary%27s_Church_and_Rectory_-_Riverside%2C_Iowa.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 958934668,
+            "lat": 33.8982938,
+            "lon": -117.4280726,
+            "tags": {
+                "addr:city": "Riverside",
+                "addr:state": "CA",
+                "building": "civic",
+                "height": "3.29",
+                "name": "Giant Orange Fruit Stand replica",
+                "source": "esri/Riverside_CA_Buildings_v2",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "way",
+            "id": 1023084576,
+            "lat": 33.9028481,
+            "lon": -117.4675289,
+            "tags": {
+                "attraction": "amusement_ride",
+                "name": "Sky Rider",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "way",
+            "id": 1056707348,
+            "lat": 47.6673866,
+            "lon": -117.4192227,
+            "tags": {
+                "addr:city": "Spokane",
+                "addr:postcode": "99201",
+                "addr:state": "WA",
+                "leisure": "stadium",
+                "name": "One Spokane Stadium",
+                "phone": "+1-509-279-7000",
+                "sport": "soccer;american_football",
+                "start_date": "2023-09-26",
+                "tourism": "attraction",
+                "website": "https://onespokanestadium.com/",
+                "wikidata": "Q120682786",
+                "wikipedia": "en:One Spokane Stadium"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f7/One_Spokane_Stadium_%28aerial_photo_looking_southwest%29.jpg/1280px-One_Spokane_Stadium_%28aerial_photo_looking_southwest%29.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 1180130596,
+            "lat": 39.7802281,
+            "lon": -84.1087265,
+            "tags": {
+                "addr:city": "Dayton",
+                "addr:housenumber": "1100",
+                "addr:postcode": "45433",
+                "addr:state": "OH",
+                "addr:street": "Spaatz Street",
+                "addr:unit": "Wright-Patterson AFB",
+                "building": "yes",
+                "museum": "aerospace",
+                "name": "National Museum of the U.S. Air Force",
+                "opening_hours": "Mo-Su 09:00-17:00",
+                "phone": "+1 937-255-3286",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Fairfield_Depot_OH_1.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 1180130601,
+            "lat": 39.7811596,
+            "lon": -84.1098051,
+            "tags": {
+                "building:colour": "grey",
+                "building:levels": "2",
+                "building:part": "yes",
+                "museum": "aerospace",
+                "name": "National Aviation Hall of Fame",
+                "roof:colour": "silver",
+                "roof:direction": "324",
+                "roof:shape": "round",
+                "tourism": "museum",
+                "website": "https://nationalaviation.org/"
+            }
+        },
+        {
+            "type": "way",
+            "id": 1180130605,
+            "lat": 39.7811131,
+            "lon": -84.1104725,
+            "tags": {
+                "name": "Holocaust Exibit",
+                "operator": "National Museum of the US Air Force",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/ca/National_Museum_of_the_United_States_Air_Force.png",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 1180130611,
+            "lat": 39.7802822,
+            "lon": -84.1101586,
+            "tags": {
+                "name": "Korean War Gallery",
+                "operator": "National Museum of the US Air Force",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Fairfield_Depot_OH_1.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 1180130623,
+            "lat": 39.7811723,
+            "lon": -84.1090301,
+            "tags": {
+                "name": "Southeast Asia War Gallery",
+                "operator": "National Museum of the US Air Force",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Fairfield_Depot_OH_1.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 1180134294,
+            "lat": 39.7793408,
+            "lon": -84.1080601,
+            "tags": {
+                "museum": "aerospace",
+                "name": "Missile Gallery",
+                "operator": "National Museum of the US Air Force",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Fairfield_Depot_OH_1.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 1180134295,
+            "lat": 39.7795819,
+            "lon": -84.1063956,
+            "tags": {
+                "name": "William E. Boeing Presidential Gallery",
+                "operator": "National Museum of the US Air Force",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Wright_Field_1920.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 1180134296,
+            "lat": 39.7792173,
+            "lon": -84.1068504,
+            "tags": {
+                "name": "Lt. Gen. William H. Tunner Global Reach Gallery",
+                "operator": "National Museum of the US Air Force",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Wright_Field_1920.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 1180134297,
+            "lat": 39.7785284,
+            "lon": -84.1073994,
+            "tags": {
+                "name": "Maj. Gen. Albert Boyd & Maj. Gen. Fred Ascani Research & Development",
+                "operator": "National Museum of the US Air Force",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Wright_Field_1920.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 1180134298,
+            "lat": 39.778805,
+            "lon": -84.1077674,
+            "tags": {
+                "name": "Allan & Malcolm Lockheed & Glenn Martin Space Gallery",
+                "operator": "National Museum of the US Air Force",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Wright_Field_1920.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 1180135218,
+            "lat": 39.7806422,
+            "lon": -84.1097036,
+            "tags": {
+                "name": "Modern Technology Gallery",
+                "operator": "National Museum of the US Air Force",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Fairfield_Depot_OH_1.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 1193702090,
+            "lat": 37.967815,
+            "lon": -87.5720342,
+            "tags": {
+                "addr:city": "Evansville",
+                "addr:housenumber": "112",
+                "addr:postcode": "47713",
+                "addr:state": "IN",
+                "addr:street": "Chestnut Street",
+                "building": "yes",
+                "fee": "yes",
+                "name": "Reitz Home Museum",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/en/5/5e/Reitzhome.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 1293354480,
+            "lat": 50.4361673,
+            "lon": -104.6181088,
+            "tags": {
+                "bridge:structure": "beam",
+                "description": "Dedicated to the men who lost their lives in WWI",
+                "historic": "bridge",
+                "layer": "1",
+                "man_made": "bridge",
+                "memorial": "bridge",
+                "memorial:conflict": "WW1",
+                "name": "Albert Memorial Bridge",
+                "note": "Combination bridge/memorial with decorative elements. Bridge structure is far larger than the creek it crosses",
+                "start_date": "1930-11-10",
+                "tourism": "attraction",
+                "war_memorial": "yes",
+                "wheelchair": "yes",
+                "wikidata": "Q4710833",
+                "wikipedia": "en:Albert Memorial Bridge (Regina, Saskatchewan)"
+            }
+        },
+        {
+            "type": "way",
+            "id": 1306977818,
+            "lat": 34.0065393,
+            "lon": -117.3392547,
+            "tags": {
+                "area": "yes",
+                "name": "World's Largest \"Paper\" Cup",
+                "tourism": "attraction",
+                "wikidata": "Q7655700",
+                "wikipedia": "en:Sweetheart Cup Company"
+            }
+        },
+        {
+            "type": "way",
+            "id": 1457837059,
+            "lat": 37.9670573,
+            "lon": -87.57419,
+            "tags": {
+                "area": "yes",
+                "name": "Four Freedom's Monument",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Sunset_Park_Pavilion_in_Evansville.jpg/1280px-Sunset_Park_Pavilion_in_Evansville.jpg",
+            "image_source": "wikipedia_verified"
+        }
+    ]
+}

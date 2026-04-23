@@ -1,0 +1,397 @@
+{
+    "city_metadata": {
+        "city_name": "New Haven",
+        "state_code": "CT",
+        "state_full": "Connecticut",
+        "city_summary": "New Haven is a city in the U.S. state of Connecticut. It is located on New Haven Harbor on the northern shore of Long Island Sound. With a population of 134,023 at the 2020 census, it is the third-most populous city in Connecticut and the largest in the South Central Connecticut Planning Region, with the Greater New Haven metropolitan area having an estimated 577,000 residents.",
+        "city_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/New_Haven%2C_Connecticut_skyline_%28cropped%29.jpg/1280px-New_Haven%2C_Connecticut_skyline_%28cropped%29.jpg",
+        "city_lat": 41.3083,
+        "city_lon": -72.925,
+        "source": "wikipedia_verified_engine"
+    },
+    "attractions": [
+        {
+            "type": "node",
+            "id": 367140035,
+            "lat": 41.3187082,
+            "lon": -72.9395471,
+            "tags": {
+                "addr:state": "CT",
+                "ele": "22",
+                "gnis:feature_id": "1932531",
+                "name": "One Hundred Second Infantry Regiment Museum",
+                "source": "USGS Geonames",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/A_photograph_of_the_facade_of_the_New_Haven_Armory_on_Goffe_Street_in_New_Haven%2C_CT%2C_USA.jpg/1280px-A_photograph_of_the_facade_of_the_New_Haven_Armory_on_Goffe_Street_in_New_Haven%2C_CT%2C_USA.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 1317530342,
+            "lat": 46.8167886,
+            "lon": -60.3184191,
+            "tags": {
+                "historic": "yes",
+                "name": "Oceanview Memorial",
+                "source": "NRCan-CanVec-7.0",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 3298033536,
+            "lat": 37.6568887,
+            "lon": -85.5931257,
+            "tags": {
+                "museum": "railway",
+                "name": "Kentucky Railway Museum",
+                "tourism": "museum",
+                "website": "https://www.kyrail.org/",
+                "wikidata": "Q6392331"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Wood_Car_19-10-18_754.jpg/1280px-Wood_Car_19-10-18_754.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 5893892914,
+            "lat": 41.2996223,
+            "lon": -72.9433372,
+            "tags": {
+                "addr:city": "New Haven",
+                "addr:housenumber": "210",
+                "addr:postcode": "06519",
+                "addr:state": "CT",
+                "addr:street": "West Street",
+                "name": "The Hill Museum of Arts",
+                "opening_hours": "We-Fr 10:00-16:00; Sa 11:45-17:00",
+                "tourism": "museum",
+                "website": "https://www.krikkoproductions.com/the-hill-museum"
+            }
+        },
+        {
+            "type": "way",
+            "id": 143303781,
+            "lat": 41.3140201,
+            "lon": -72.9220632,
+            "tags": {
+                "addr:city": "New Haven",
+                "addr:housenumber": "114",
+                "addr:postcode": "06511",
+                "addr:state": "CT",
+                "addr:street": "Whitney Avenue",
+                "building": "yes",
+                "ele": "14",
+                "gnis:feature_id": "1932468",
+                "name": "New Haven Colonial Historical Society Building",
+                "ref:isil": "US-ctnhhi",
+                "source": "USGS Geonames",
+                "tourism": "museum"
+            }
+        },
+        {
+            "type": "way",
+            "id": 216999485,
+            "lat": 41.3085205,
+            "lon": -72.9215255,
+            "tags": {
+                "addr:city": "New Haven",
+                "addr:housenumber": "22",
+                "addr:postcode": "06511",
+                "addr:state": "CT",
+                "addr:street": "Wall Street",
+                "building": "yes",
+                "check_date:opening_hours": "2025-06-06",
+                "ele": "16",
+                "fee": "yes",
+                "fee:conditional": "no @ age < 1",
+                "gnis:feature_id": "1933557",
+                "museum": "children",
+                "name": "Connecticut Childrens Museum",
+                "opening_hours": "Fr 13:00-17:00, Sa 12:00-17:00",
+                "phone": "+1 203-562-5437",
+                "source": "USGS Geonames",
+                "tourism": "museum",
+                "website": "https://www.childrensbuilding.org/",
+                "wikidata": "Q5161493"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Connecticut_Children%27s_Museum_%2854106262373%29.jpg/1280px-Connecticut_Children%27s_Museum_%2854106262373%29.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 225322474,
+            "lat": 41.3124042,
+            "lon": -72.9237778,
+            "tags": {
+                "addr:city": "New Haven",
+                "addr:housenumber": "15",
+                "addr:postcode": "06511",
+                "addr:state": "CT",
+                "addr:street": "Hillhouse Avenue",
+                "building": "university",
+                "name": "Yale Collection of Musical Instruments",
+                "opening_hours": "Tu-Fr 13:00-16:00, Su 13:00-17:00",
+                "operator": "Yale University",
+                "source": "bing",
+                "tourism": "museum",
+                "wikidata": "Q8047439"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/15_Hillhouse_Avenue_Dusk.JPG/1280px-15_Hillhouse_Avenue_Dusk.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 256965,
+            "lat": 41.55611111,
+            "lon": -73.04138889,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Waterbury%2C_Connecticut_3.jpg/1280px-Waterbury%2C_Connecticut_3.jpg",
+            "description": "Waterbury is a city in the U.S. state of Connecticut.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Waterbury, Connecticut",
+                "wikipedia": "en:Waterbury, Connecticut",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 152159,
+            "lat": 41.22416667,
+            "lon": -73.05972222,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Milfordluft_2.jpg/1280px-Milfordluft_2.jpg",
+            "description": "Milford is a coastal city in New Haven County, Connecticut, United States, between New Haven and Bridgeport.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Milford, Connecticut",
+                "wikipedia": "en:Milford, Connecticut",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 2219768,
+            "lat": 41.303043,
+            "lon": -72.919942,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Sally%27s_Apizza_%2872128%29.jpg/1280px-Sally%27s_Apizza_%2872128%29.jpg",
+            "description": "Sally's Apizza is a New Haven style pizzeria chain based in Connecticut, established in April 1938.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Sally's Apizza",
+                "wikipedia": "en:Sally's Apizza",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 2219861,
+            "lat": 41.302907,
+            "lon": -72.916933,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Frank_Pepe_%2820663%29.jpg/1280px-Frank_Pepe_%2820663%29.jpg",
+            "description": "Frank Pepe Pizzeria Napoletana, commonly known as Frank Pepe's or simply Pepe's (), is a New Haven style pizzeria chain based in Connecticut, with their flagship restaurant in the Wooster Square neighborhood of New Haven, Connecticut, at 163 Wooster Street and originator of New Haven-style pizza.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Frank Pepe Pizzeria Napoletana",
+                "wikipedia": "en:Frank Pepe Pizzeria Napoletana",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 40495133,
+            "lat": 41.313756,
+            "lon": -72.912732,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Modern_Apizza%27s_Entrance.jpg/1280px-Modern_Apizza%27s_Entrance.jpg",
+            "description": "Modern Apizza is an American pizza restaurant in New Haven, Connecticut.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Modern Apizza",
+                "wikipedia": "en:Modern Apizza",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 4122795,
+            "lat": 41.3064,
+            "lon": -72.9303,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Louis%27_Lunch%27s_Front.jpg/1280px-Louis%27_Lunch%27s_Front.jpg",
+            "description": "Louis' Lunch is a hamburger restaurant in New Haven, Connecticut that claims to be the first restaurant to serve hamburgers and the oldest continuously operated hamburger restaurant in the United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Louis' Lunch",
+                "wikipedia": "en:Louis' Lunch",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 6466,
+            "lat": 41.6,
+            "lon": -72.7,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Flag_of_Connecticut.svg/1280px-Flag_of_Connecticut.svg.png",
+            "description": "Connecticut (  kə-NET-ih-kət) is a state in the New England region of the Northeastern United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Connecticut",
+                "wikipedia": "en:Connecticut",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 853525,
+            "lat": 41.37277778,
+            "lon": -72.96972222,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/57/Ct_westrock6.jpg",
+            "description": "Regicides Trail is a Blue-Blazed hiking trail, about 7 miles (11 km) long, roughly following the edge of a diabase, or traprock, cliff northwest of New Haven, Connecticut.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Regicides Trail",
+                "wikipedia": "en:Regicides Trail",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 20589104,
+            "lat": 41.547,
+            "lon": -73.03,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/86/Holy_Land_postcard.jpg",
+            "description": "Holy Land USA is an 18-acre (7.3 ha) Catholic theme park in Waterbury, Connecticut, inspired by selected passages from the Bible.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Holy Land USA",
+                "wikipedia": "en:Holy Land USA",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 58746387,
+            "lat": 41.55527778,
+            "lon": -73.03972222,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c6/PalaceTheater-WaterburyCT-1.jpg",
+            "description": "The Palace Theater is a 2,900-seat auditorium at 100 East Main Street in downtown Waterbury, Connecticut.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Palace Theater (Waterbury, Connecticut)",
+                "wikipedia": "en:Palace Theater (Waterbury, Connecticut)",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 52028,
+            "lat": 43.0799,
+            "lon": -79.0747,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/3Falls_Niagara.jpg/1280px-3Falls_Niagara.jpg",
+            "description": "Niagara Falls is a group of three waterfalls at the southern end of Niagara Gorge, spanning the border between the Canadian province of Ontario and the U.S. state of New York.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Niagara Falls",
+                "wikipedia": "en:Niagara Falls",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 5855712,
+            "lat": 41.23694444,
+            "lon": -73.03777778,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Connecticut_Post_Mall_%28Milford%2C_Connecticut%29_%2840680222403%29.jpg/1280px-Connecticut_Post_Mall_%28Milford%2C_Connecticut%29_%2840680222403%29.jpg",
+            "description": "The Connecticut Post Mall is a super-regional shopping center located on U.S. Route 1 in Milford, Connecticut.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Connecticut Post Mall",
+                "wikipedia": "en:Connecticut Post Mall",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 5368142,
+            "lat": 41.549251,
+            "lon": -73.024986,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Brass_Mill_Center_Waterbury%2C_CT_April_2018_%2840991514074%29.jpg/1280px-Brass_Mill_Center_Waterbury%2C_CT_April_2018_%2840991514074%29.jpg",
+            "description": "Brass Mill Center is a shopping mall in Waterbury, Connecticut.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Brass Mill Center",
+                "wikipedia": "en:Brass Mill Center",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 163536,
+            "lat": 5.29222222,
+            "lon": -52.58416667,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Tour_dreyfus_kourou.jpg/1280px-Tour_dreyfus_kourou.jpg",
+            "description": "The penal colony of Cayenne (French: Bagne de Cayenne), commonly known as Devil's Island (Île du Diable), was a French penal colony that operated for 100 years, from 1852 to 1952, and officially closed in 1953, in the Salvation Islands of French Guiana.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Devil's Island",
+                "wikipedia": "en:Devil's Island",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 9935584,
+            "lat": 41.9,
+            "lon": -71.86666667,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Quietcorner.png",
+            "description": "Northeastern Connecticut, dubbed the Quiet Corner in 1985, is a historic region of the state of Connecticut, located in the northeastern corner of the state.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Quiet Corner",
+                "wikipedia": "en:Quiet Corner",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 108792,
+            "lat": 41.27777778,
+            "lon": -72.79972222,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Branford_Town_Green%2C_Connecticut.jpg/1280px-Branford_Town_Green%2C_Connecticut.jpg",
+            "description": "Branford is a shoreline town located on Long Island Sound in New Haven County, Connecticut, United States, about 6 miles (10 km) east of downtown New Haven.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Branford, Connecticut",
+                "wikipedia": "en:Branford, Connecticut",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 6160899,
+            "lat": 41.96194444,
+            "lon": -72.74555556,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/91/Oldnewgateprison.jpg",
+            "description": "Old New-Gate Prison is a former prison and mine site on New-Gate Road in East Granby, Connecticut.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Old New-Gate Prison",
+                "wikipedia": "en:Old New-Gate Prison",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 3201770,
+            "lat": 41.4582,
+            "lon": -72.80846,
+            "image_url": "https://upload.wikimedia.org/wikipedia/en/9/99/Choate_Rosemary_Hall_-_Arts_Center.JPG",
+            "description": "The Paul Mellon Arts Center (PMAC) is an arts building on the campus of Choate Rosemary Hall, Wallingford, Connecticut designed by architect I. M. Pei.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Paul Mellon Arts Center",
+                "wikipedia": "en:Paul Mellon Arts Center",
+                "tourism": "attraction"
+            }
+        }
+    ]
+}

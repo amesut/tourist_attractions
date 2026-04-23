@@ -1,0 +1,1013 @@
+{
+    "city_metadata": {
+        "city_name": "Manchester",
+        "state_code": "NH",
+        "state_full": "New Hampshire",
+        "city_summary": "Manchester is the most populous city in the U.S. state of New Hampshire. Located on the banks of the Merrimack River, it had a population of 115,644 at the 2020 census. Manchester is the tenth-most populous city in New England.",
+        "city_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Manchester%2C_New_Hampshire_skyline.jpg/1280px-Manchester%2C_New_Hampshire_skyline.jpg",
+        "city_lat": 42.99083333,
+        "city_lon": -71.46361111,
+        "source": "wikipedia_verified_engine"
+    },
+    "attractions": [
+        {
+            "type": "node",
+            "id": 258851218,
+            "lat": 53.4664071,
+            "lon": -2.2342428,
+            "tags": {
+                "check_date": "2026-01-12",
+                "check_date:opening_hours": "2026-01-12",
+                "fee": "no",
+                "name": "The Manchester Museum",
+                "name:es": "Museo de Mánchester",
+                "name:zh": "曼彻斯特博物馆",
+                "name:zh-Hans": "曼彻斯特博物馆",
+                "name:zh-Hant": "曼徹斯特博物館",
+                "opening_hours": "Tu,Th,Fr,Su 10:00-17:00; We 10:00-21:00; Sa 08:00-17:00",
+                "tourism": "museum",
+                "website": "https://www.museum.manchester.ac.uk/",
+                "wheelchair": "yes",
+                "wikidata": "Q2087619",
+                "wikipedia": "de:Manchester Museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/The_Manchester_Museum.jpg/1280px-The_Manchester_Museum.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 290535461,
+            "lat": 53.5371419,
+            "lon": -2.2302807,
+            "tags": {
+                "name": "Alconbury Flashes",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1327607723,
+            "lat": 53.5291313,
+            "lon": -2.2615547,
+            "tags": {
+                "historic": "memorial",
+                "memorial": "stone",
+                "name": "Pope John Paul II (31st May 1982)",
+                "religion": "christian",
+                "subject:wikidata": "Q989",
+                "subject:wikipedia": "en:Pope John Paul II",
+                "tourism": "attraction",
+                "wikimedia_commons": "File:Heaton Park Papal Monument, Heaton Park, Manchester, UK.jpg"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Heaton_Park_trams.jpg/1280px-Heaton_Park_trams.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 2777508135,
+            "lat": 53.472434,
+            "lon": -2.243351,
+            "tags": {
+                "addr:city": "Manchester",
+                "addr:country": "GB",
+                "addr:housenumber": "3",
+                "addr:postcode": "M1 5BY",
+                "addr:street": "Cambridge Street",
+                "email": "info@anthonyburgess.org",
+                "fee": "no",
+                "name": "International Anthony Burgess Foundation",
+                "phone": "+44 1612 350776",
+                "tourism": "museum",
+                "website": "https://www.anthonyburgess.org/",
+                "wheelchair": "limited",
+                "wikidata": "Q43988806"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Little_Ireland_Manchester_Red_Plaque.jpg/1280px-Little_Ireland_Manchester_Red_Plaque.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 4142551789,
+            "lat": 53.5115754,
+            "lon": -2.2363667,
+            "tags": {
+                "addr:street": "Crescent Road",
+                "email": "info@womenzone.org.uk",
+                "name": "WomenZone",
+                "opening_hours": "Th 12:00-14:30",
+                "tourism": "attraction",
+                "website": "http://www.WomenZone.org.uk"
+            }
+        },
+        {
+            "type": "node",
+            "id": 4232308189,
+            "lat": 53.4797744,
+            "lon": -2.2459969,
+            "tags": {
+                "addr:city": "Manchester",
+                "addr:country": "GB",
+                "addr:housenumber": "14a",
+                "addr:postcode": "M2 6LW",
+                "addr:street": "Brazennose Street",
+                "name": "Breakout Manchester",
+                "tourism": "attraction",
+                "website": "https://breakoutmanchester.com/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Deansgate_Square_-_geograph.org.uk_-_7803711.jpg/1280px-Deansgate_Square_-_geograph.org.uk_-_7803711.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 5003621952,
+            "lat": 53.5365813,
+            "lon": -2.2546487,
+            "tags": {
+                "artwork_type": "sculpture",
+                "description": "Presented by Robert Barnes Esquire in 1859",
+                "name": "Old Stone Sculpture",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Heaton_Park.jpg/1280px-Heaton_Park.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 5358331600,
+            "lat": 53.5364959,
+            "lon": -2.2562848,
+            "tags": {
+                "description": "The Animal Centre stands on the site of the 19th century glasshouse range that was demolished in the late 20th century. Animals and birds are on display here all year round.",
+                "name": "Heaton Park Animal Centre",
+                "opening_hours": "Mo-Su 10:00-16:00",
+                "tourism": "zoo",
+                "zoo": "petting_zoo"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Heaton_Park.jpg/1280px-Heaton_Park.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 6358514139,
+            "lat": 53.4824013,
+            "lon": -2.2323944,
+            "tags": {
+                "addr:city": "Manchester",
+                "addr:country": "GB",
+                "addr:housenumber": "57A",
+                "addr:postcode": "M1 1ET",
+                "addr:street": "Newton Street",
+                "check_date": "2025-06-05",
+                "check_date:opening_hours": "2024-02-26",
+                "fee": "no",
+                "name": "Greater Manchester Police Museum & Archives",
+                "opening_hours": "Tu 10:30-16:00",
+                "opening_hours:url": "https://gmpmuseum.co.uk/visiting/opening-hours/",
+                "tourism": "museum",
+                "website": "https://gmpmuseum.co.uk/",
+                "wheelchair": "yes",
+                "wikidata": "Q17361850"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Greater_Manchester_Police_Museum.jpg/1280px-Greater_Manchester_Police_Museum.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 6684605685,
+            "lat": 53.4772588,
+            "lon": -2.2547008,
+            "tags": {
+                "addr:city": "Manchester",
+                "addr:postcode": "M3 4FP",
+                "addr:street": "Liverpool Road",
+                "check_date": "2023-08-15",
+                "fee": "no",
+                "level": "0",
+                "museum": "science",
+                "name": "Science and Industry Museum",
+                "opening_hours": "Mo-Su 10:00-17:00",
+                "operator:type": "public",
+                "payment:contactless": "yes",
+                "payment:credit_cards": "yes",
+                "payment:debit_cards": "yes",
+                "payment:mastercard": "yes",
+                "payment:visa": "yes",
+                "phone": "+44 161 832 2244",
+                "source": "survey",
+                "toilets": "yes",
+                "toilets:wheelchair": "yes",
+                "tourism": "museum",
+                "website": "https://www.scienceandindustrymuseum.org.uk/",
+                "wheelchair": "yes",
+                "wikidata": "Q2638616",
+                "wikipedia": "en:Science and Industry Museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Science_and_Industry_Museum.jpg/1280px-Science_and_Industry_Museum.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 9600957100,
+            "lat": 53.4825362,
+            "lon": -2.2419487,
+            "tags": {
+                "addr:city": "Manchester",
+                "addr:housenumber": "58-66",
+                "addr:postcode": "M1 1PW",
+                "addr:street": "Market Street",
+                "name": "Museum of Illusions",
+                "tourism": "attraction",
+                "website": "https://moimanchester.com/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Manchester_Stock_Exchange_February_2025.jpg/1280px-Manchester_Stock_Exchange_February_2025.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 9921205514,
+            "lat": 53.4957173,
+            "lon": -2.2381287,
+            "tags": {
+                "addr:city": "Manchester",
+                "addr:housenumber": "190",
+                "addr:postcode": "M8 8LW",
+                "addr:street": "Cheetham Hill Road",
+                "fee": "yes",
+                "museum": "history",
+                "name": "Manchester Jewish Museum",
+                "tourism": "museum",
+                "website": "https://www.manchesterjewishmuseum.com/",
+                "wikidata": "Q6747441",
+                "wikipedia": "en:Manchester Jewish Museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Manchester_Jewish_Museum_%28geograph_4749574%29.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 11546637690,
+            "lat": 53.3539875,
+            "lon": -2.2845452,
+            "tags": {
+                "addr:city": "Altrincham",
+                "addr:postcode": "M90 1QX",
+                "addr:street": "Sunbank Lane",
+                "contact:email": "runwayvisitorpark.enquiries@manairport.co.uk",
+                "description": "Fee for parking & tours",
+                "fee": "no",
+                "name": "Runway Visitor Park",
+                "phone": "+44 161 489 3932",
+                "start_date": "1997",
+                "tourism": "attraction",
+                "website": "https://www.runwayvisitorpark.co.uk/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c1/BrAirtours_28M_8-1988_B.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 12557411153,
+            "lat": 53.468584,
+            "lon": -2.2363722,
+            "tags": {
+                "fixme": "location within building?",
+                "name": "RNCM Collection of Historic Musical Instruments",
+                "tourism": "museum",
+                "wikidata": "Q113207964"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/86/Royal_Northern_College_of_Music_-_geograph.org.uk_-_1963552.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 12565815777,
+            "lat": 53.4725578,
+            "lon": -2.2399852,
+            "tags": {
+                "alt_name": "Manchester Metropolitan University Special Collections",
+                "fixme": "location within building? website says \"1st and 2nd floor, Manchester Metropolitan University Library, John Dalton Building, Chester Street (entrance on Oxford Road) \"",
+                "name": "Special Collections Museum",
+                "tourism": "museum",
+                "website": "https://www.mmu.ac.uk/special-collections-museum",
+                "wikidata": "Q116738936"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Dancehouse_Theatre%2C_10_Oxford_Road%2C_Manchester%2C_UK.jpg/1280px-Dancehouse_Theatre%2C_10_Oxford_Road%2C_Manchester%2C_UK.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 13524446068,
+            "lat": 53.4105928,
+            "lon": -2.2317281,
+            "tags": {
+                "fee": "no",
+                "name": "Didsbury Parsonage Trust",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Ye_Olde_Cock_Inn%2C_Didsbury.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 13613537738,
+            "lat": 41.7555084,
+            "lon": -72.5197525,
+            "tags": {
+                "name": "Lutz Animal Room",
+                "tourism": "zoo"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Lutz_Sign.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 28088152,
+            "lat": 53.5322015,
+            "lon": -2.2495401,
+            "tags": {
+                "building": "yes",
+                "cost": "free",
+                "description": "This is where passengers would have waited for a tram home after a day in the park. The service ran from 1905 to 1933. The building is now a Transport Museum and depot for the restored working trams that operate during the summer months.",
+                "fee": "no",
+                "name": "Heaton Park Tramway",
+                "opening_hours": "Jun-Aug Su,PH 12:00-17:00; Dec-Feb Su,PH 12:00-16:00",
+                "ref:GB:uprn": "10090425122",
+                "tourism": "museum",
+                "website": "https://hptramway.co.uk/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Tram_765%2C_Heaton_Park.jpg/1280px-Tram_765%2C_Heaton_Park.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 79712589,
+            "lat": 53.4602901,
+            "lon": -2.2163852,
+            "tags": {
+                "addr:city": "Manchester",
+                "addr:housename": "Victoria Baths",
+                "addr:postcode": "M13 0FE",
+                "addr:street": "Hathersage Road",
+                "building": "yes",
+                "name": "Victoria Baths",
+                "seasonal": "yes",
+                "source": "OS OpenData StreetView",
+                "tourism": "attraction",
+                "website": "https://victoriabaths.org.uk/",
+                "wheelchair": "limited",
+                "wikidata": "Q7926585",
+                "wikipedia": "en:Victoria Baths"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Victoria_Baths%2C_Chorlton-on-Medlock%2C_Manchester%2C_England_and_interior_15.jpg/1280px-Victoria_Baths%2C_Chorlton-on-Medlock%2C_Manchester%2C_England_and_interior_15.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 96396472,
+            "lat": 53.4857564,
+            "lon": -2.2422724,
+            "tags": {
+                "addr:city": "Manchester",
+                "addr:housename": "Urbis Building",
+                "addr:postcode": "M4 3BG",
+                "addr:street": "Todd Street",
+                "building": "museum",
+                "building:colour": "turquoise",
+                "building:levels": "7",
+                "building:material": "glass",
+                "email": "info@nationalfootballmuseum.com",
+                "fee": "yes",
+                "museum": "sport",
+                "name": "National Football Museum",
+                "name:zh": "国家足球博物馆",
+                "name:zh-Hans": "国家足球博物馆",
+                "name:zh-Hant": "國家足球博物館",
+                "opening_hours": "Mo-Fr 10:00-17:00",
+                "phone": "+44 161 605 8200",
+                "roof:colour": "green",
+                "roof:material": "metal",
+                "source": "local knowledge;survey",
+                "tourism": "museum",
+                "website": "https://www.nationalfootballmuseum.com/",
+                "wheelchair": "yes",
+                "wikidata": "Q2265733",
+                "wikipedia": "en:National Football Museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Urbis_Olympics.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 129053756,
+            "lat": 53.4504833,
+            "lon": -2.2222967,
+            "tags": {
+                "building": "yes",
+                "name": "Platt Hall",
+                "ref:GB:uprn": "10023048684",
+                "tourism": "museum",
+                "website": "https://www.platthall.org/",
+                "wikidata": "Q59474907"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Hardy%27s_Well_2016_002.jpg/1280px-Hardy%27s_Well_2016_002.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 143926783,
+            "lat": 53.5029214,
+            "lon": -2.2332993,
+            "tags": {
+                "addr:city": "Manchester",
+                "addr:postcode": "M8 8UW",
+                "addr:street": "Boyle Street",
+                "addr:suburb": "Cheetham Hill",
+                "building": "yes",
+                "fee": "yes",
+                "name": "Museum of Transport Greater Manchester",
+                "ref:GB:uprn": "77236464",
+                "tourism": "museum",
+                "website": "https://motgm.uk/",
+                "wikidata": "Q3330152",
+                "wikipedia": "en:Museum of Transport, Greater Manchester"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/en/thumb/2/28/Museum_of_Transport%2C_Greater_Manchester.svg/1280px-Museum_of_Transport%2C_Greater_Manchester.svg.png",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 165823763,
+            "lat": 43.1408568,
+            "lon": -73.0810316,
+            "tags": {
+                "addr:city": "Manchester",
+                "addr:housenumber": "1005",
+                "addr:postcode": "05254",
+                "addr:state": "VT",
+                "addr:street": "Hildene Road",
+                "alt_name": "Hildene - The Lincoln Family Home",
+                "alt_name_1": "Hildene",
+                "building": "yes",
+                "fee": "yes",
+                "name": "Visitors Center Hildene",
+                "phone": "+1 802-362-1788",
+                "ref:vcgi:esiteid": "151494",
+                "source": "observation",
+                "tourism": "museum",
+                "website": "https://hildene.org/",
+                "wikidata": "Q5761675"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Hildene_manchester_vermont_2006.jpg/1280px-Hildene_manchester_vermont_2006.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 173737711,
+            "lat": 53.4378685,
+            "lon": -2.1912692,
+            "tags": {
+                "man_made": "stone_circle",
+                "name": "Levenshenge",
+                "tourism": "attraction",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "way",
+            "id": 180986266,
+            "lat": 43.0023443,
+            "lon": -71.4735572,
+            "tags": {
+                "addr:city": "Manchester",
+                "addr:housenumber": "4",
+                "addr:postcode": "03102",
+                "addr:state": "NH",
+                "addr:street": "Fletcher Street",
+                "building": "yes",
+                "name": "The Amoskeag Fishways",
+                "tourism": "attraction",
+                "website": "https://www.amoskeagfishways.org/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Amoskeag_Falls%2C_Manchester%2C_NH.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 201520529,
+            "lat": 53.4635586,
+            "lon": -2.2212337,
+            "tags": {
+                "addr:city": "Manchester",
+                "addr:housename": "Elizabeth Gaskell's House",
+                "addr:housenumber": "84",
+                "addr:postcode": "M13 9LW",
+                "addr:street": "Plymouth Grove",
+                "building": "house",
+                "building:levels": "2",
+                "building:use": "museum",
+                "check_date:opening_hours": "2024-02-05",
+                "fee": "yes",
+                "fee:conditional": "no @ (age < 16)",
+                "fhrs:id": "776093",
+                "name": "Elizabeth Gaskell's House",
+                "opening_hours": "We-Su 11:00-16:30; Fr off; Sa off",
+                "operator": "Friends of Plymouth Grove",
+                "ref:GB:uprn": "77137410",
+                "tourism": "museum",
+                "website": "https://www.elizabethgaskellhouse.co.uk/",
+                "wikidata": "Q4644775",
+                "wikipedia": "en:84 Plymouth Grove"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Elizabeth_Gaskell%27s_House%2C_Swinton_Grove%2C_Chorlton-on-Medlock%2C_Manchester_%28NHLE_Code_1271082%29_%28April_2024%29_%284%29.jpg/1280px-Elizabeth_Gaskell%27s_House%2C_Swinton_Grove%2C_Chorlton-on-Medlock%2C_Manchester_%28NHLE_Code_1271082%29_%28April_2024%29_%284%29.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 260284292,
+            "lat": 53.478369,
+            "lon": -2.2398219,
+            "tags": {
+                "addr:city": "Manchester",
+                "addr:street": "Faulkner Street",
+                "area": "yes",
+                "ceremonial_gate": "paifang",
+                "image": "http://upload.wikimedia.org/wikipedia/commons/9/95/China_Town%2C_Manchester_2012.JPG",
+                "man_made": "ceremonial_gate",
+                "name": "Chinatown Arch",
+                "paifang:gables": "5",
+                "paifang:gates": "1",
+                "paifang:posts": "2",
+                "start_date": "1987",
+                "tourism": "attraction",
+                "wheelchair": "yes"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/9b/55_Faulkner_Street%2C_Manchester.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 272264469,
+            "lat": 53.4836651,
+            "lon": -2.1801528,
+            "tags": {
+                "building": "yes",
+                "name": "Clayton Hall",
+                "tourism": "museum",
+                "website": "https://claytonhall.org/",
+                "wikidata": "Q113369699",
+                "wikipedia": "en:Clayton Hall"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Clayton_Hall%2C_Clayton%2C_Manchester%2C_England_in_June_2023_01.jpg/1280px-Clayton_Hall%2C_Clayton%2C_Manchester%2C_England_in_June_2023_01.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 309064458,
+            "lat": 53.4017995,
+            "lon": -2.2773245,
+            "tags": {
+                "name": "Seasonal Fairground",
+                "tourism": "theme_park"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Yarwood_Drive%2C_Baguley.jpg/1280px-Yarwood_Drive%2C_Baguley.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 318262527,
+            "lat": 53.5374528,
+            "lon": -2.2505292,
+            "tags": {
+                "building": "yes",
+                "description": "James Wyatt designed the Temple as an interesting eye-catching feature. It may have been used by Sir Thomas Egerton as an observatory.",
+                "listed_status": "Grade II",
+                "name": "The Temple",
+                "ref:GB:uprn": "10090425120",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Heaton_Park_BT_Tower%2C_distance_view.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 354135390,
+            "lat": 53.4881053,
+            "lon": -2.244086,
+            "tags": {
+                "addr:city": "Manchester",
+                "addr:housename": "Manchester Arena",
+                "addr:postcode": "M3 1AR",
+                "addr:street": "Hunts Bank",
+                "building": "yes",
+                "fhrs:id": "1819406",
+                "layer": "2",
+                "leisure": "stadium",
+                "name": "AO Arena",
+                "old_name": "MEN Arena;Phones 4u Arena",
+                "operator": "AO",
+                "phone": "+44 161 950 5000",
+                "source": "OS_OpenData_StreetView",
+                "tourism": "attraction",
+                "website": "https://www.ao-arena.com/",
+                "wheelchair": "yes",
+                "wikidata": "Q1461465",
+                "wikipedia": "en:Manchester Arena"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Manchester_Arena_exterior%2C_%283%29_May19.jpg/1280px-Manchester_Arena_exterior%2C_%283%29_May19.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 379342616,
+            "lat": 43.1403761,
+            "lon": -73.0793776,
+            "tags": {
+                "addr:city": "Manchester Center",
+                "addr:housenumber": "825",
+                "addr:postcode": "05254",
+                "addr:state": "VT",
+                "addr:street": "Hildene Road",
+                "architect": "Shepley;Rutan;Coolidge",
+                "building": "yes",
+                "building:architecture": "georgian_revival",
+                "heritage": "2",
+                "heritage:operator": "nrhp",
+                "heritage:ref": "77000095",
+                "heritage:website": "https://npgallery.nps.gov/AssetDetail/NRIS/77000095",
+                "historic": "heritage",
+                "layer": "1",
+                "museum": "history",
+                "name": "Hildene Main House",
+                "nrhp:inscription_date": "1977-10-28",
+                "ref:nrhp": "77000095",
+                "ref:vcgi:esiteid": "151499",
+                "tourism": "museum",
+                "website": "https://hildene.org/",
+                "wikidata": "Q5761675",
+                "wikimedia_commons": "File:Exterior_Hildene_06.jpg",
+                "wikipedia": "en:Hildene"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Hildene_manchester_vermont_2006.jpg/1280px-Hildene_manchester_vermont_2006.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 450660960,
+            "lat": 53.3549215,
+            "lon": -2.2838258,
+            "tags": {
+                "aircraft:type": "airliner",
+                "historic": "aircraft",
+                "manufacturer": "Hawker Siddeley",
+                "manufacturer:wikidata": "Q952062",
+                "model": "Trident",
+                "model:wikidata": "Q1423689",
+                "name": "BEA Hawker Siddley Trident (G-AWZK)",
+                "ref": "G-AWZK",
+                "tourism": "attraction",
+                "wikimedia_commons": "Category:G-AWZK_(aircraft)"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c1/BrAirtours_28M_8-1988_B.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 450660961,
+            "lat": 53.3547143,
+            "lon": -2.2834401,
+            "tags": {
+                "aircraft:type": "military",
+                "historic": "aircraft",
+                "manufacturer": "Hawker Siddeley",
+                "manufacturer:wikidata": "Q952062",
+                "model": "Nimrod",
+                "model:wikidata": "Q128993",
+                "name": "RAF Nimrod",
+                "ref": "XV231",
+                "tourism": "attraction",
+                "wikimedia_commons": "Category:XV231_(aircraft)"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c1/BrAirtours_28M_8-1988_B.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 450660962,
+            "lat": 53.3546023,
+            "lon": -2.2847991,
+            "tags": {
+                "aircraft:type": "airliner",
+                "historic": "aircraft",
+                "manufacturer": "McDonnell Douglas",
+                "manufacturer:wikidata": "Q201815",
+                "model": "DC-10",
+                "model:wikidata": "Q208075",
+                "name": "Monarch DC-10 Nose",
+                "tourism": "attraction",
+                "wikimedia_commons": "File:DC-10, Manchester Airport Runway Visitor Park - geograph.org.uk - 3736232.jpg"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c1/BrAirtours_28M_8-1988_B.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 450660963,
+            "lat": 53.3524789,
+            "lon": -2.2855254,
+            "tags": {
+                "aircraft:type": "airliner",
+                "historic": "aircraft",
+                "manufacturer": "Avro International Airspace",
+                "manufacturer:wikidata": "Q4829490",
+                "model": "RJX",
+                "model:wikidata": "Q589498",
+                "name": "Avro RJX (G-IRJX)",
+                "ref": "G-IRJX",
+                "tourism": "attraction",
+                "wikimedia_commons": "Category:Avro RJ100 at Manchester Airport Viewing Park"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c1/BrAirtours_28M_8-1988_B.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 480014428,
+            "lat": 53.3530788,
+            "lon": -2.2849669,
+            "tags": {
+                "aircraft:type": "airliner",
+                "historic": "aircraft",
+                "indoor": "yes",
+                "manufacturer": "British Aircraft Corporation",
+                "manufacturer:wikidata": "Q655224",
+                "model": "Concorde",
+                "model:wikidata": "Q6505",
+                "name": "British Airways Concorde (G-BOAC)",
+                "ref": "G-BOAC",
+                "tourism": "attraction",
+                "wikidata": "Q41240958"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c1/BrAirtours_28M_8-1988_B.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 486643267,
+            "lat": 53.5302432,
+            "lon": -2.2592052,
+            "tags": {
+                "leisure": "park",
+                "name": "Heaton Park Fair Ground",
+                "temporary": "yes",
+                "tourism": "theme_park",
+                "tourism_1": "attraction"
+            }
+        },
+        {
+            "type": "way",
+            "id": 486644268,
+            "lat": 53.5360287,
+            "lon": -2.256558,
+            "tags": {
+                "description": "In the 1800's this was an area with flower gardens, ponds and two summerhouses where the family could find peace and quiet. It has now been restored to its 18th century appearance.",
+                "leisure": "garden",
+                "name": "Western Pleasure Grounds",
+                "operator": "Heaton Park",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Heaton_Park.jpg/1280px-Heaton_Park.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 590377952,
+            "lat": 53.4771659,
+            "lon": -2.2564933,
+            "tags": {
+                "name": "Science and Industry Museum",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Science_and_Industry_Museum.jpg/1280px-Science_and_Industry_Museum.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 756341195,
+            "lat": 18.1107305,
+            "lon": -77.5857458,
+            "tags": {
+                "name": "The Maidstone Museum",
+                "name:en": "Maidstone",
+                "tourism": "museum"
+            }
+        },
+        {
+            "type": "way",
+            "id": 853521364,
+            "lat": 41.7664416,
+            "lon": -72.5334827,
+            "tags": {
+                "addr:city": "Manchester",
+                "addr:housenumber": "126",
+                "addr:postcode": "06040",
+                "addr:state": "CT",
+                "addr:street": "Cedar Street",
+                "building": "yes",
+                "museum": "history",
+                "name": "Old Manchester Museum",
+                "operator": "Manchester Historical Society",
+                "operator:type": "private_non_profit",
+                "phone": "+1 860 647 9983",
+                "tourism": "museum"
+            }
+        },
+        {
+            "type": "way",
+            "id": 899275849,
+            "lat": 41.7636686,
+            "lon": -72.5255722,
+            "tags": {
+                "addr:city": "Manchester",
+                "addr:housenumber": "106",
+                "addr:postcode": "06040",
+                "addr:state": "CT",
+                "addr:street": "Hartford Road",
+                "building": "house",
+                "ele": "52",
+                "gnis:feature_id": "1950113",
+                "museum": "history",
+                "name": "Cheney Homestead Museum",
+                "operator": "Manchester Historical Society",
+                "phone": "+1 860 647 9983",
+                "source": "USGS Geonames",
+                "tourism": "museum",
+                "website": "https://www.manchesterhistory.org/MHS3_Cheney_Homestead.html"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/11/PostcardManchesterCTCheneyBrothersMills1920.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 964365817,
+            "lat": 43.1679949,
+            "lon": -73.067127,
+            "tags": {
+                "addr:city": "Manchester",
+                "addr:housenumber": "4070",
+                "addr:postcode": "05254",
+                "addr:state": "VT",
+                "addr:street": "Main Street",
+                "building": "yes",
+                "ele": "271",
+                "fee": "yes",
+                "gnis:feature_id": "1920484",
+                "name": "The American Museum of Fly Fishing",
+                "phone": "+18023623300",
+                "ref:vcgi:esiteid": "150725",
+                "short_name": "AMFF",
+                "source": "USGS Geonames",
+                "tourism": "museum",
+                "website": "https://www.amff.org/",
+                "wikidata": "Q4744474"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c0/AMFFExterior.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 967144537,
+            "lat": 41.7651007,
+            "lon": -72.5304504,
+            "tags": {
+                "addr:city": "Manchester",
+                "addr:housenumber": "230",
+                "addr:postcode": "06040",
+                "addr:state": "CT",
+                "addr:street": "Pine Street",
+                "building": "yes",
+                "name": "The Fire Museum",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/11/PostcardManchesterCTCheneyBrothersMills1920.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 967377707,
+            "lat": 41.7555084,
+            "lon": -72.5198611,
+            "tags": {
+                "addr:city": "Manchester",
+                "addr:housenumber": "247",
+                "addr:postcode": "06040",
+                "addr:state": "CT",
+                "addr:street": "South Main Street",
+                "building": "museum",
+                "ele": "86",
+                "name": "Lutz Children's Museum",
+                "old_name": "South School",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Lutz_Sign.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 1014916599,
+            "lat": 42.9970185,
+            "lon": -71.4563784,
+            "tags": {
+                "building": "house",
+                "building:levels": "1",
+                "building:material": "wood",
+                "name": "Currier Museum Art Center",
+                "roof:levels": "1",
+                "roof:shape": "hipped",
+                "tourism": "museum"
+            }
+        },
+        {
+            "type": "way",
+            "id": 1014925046,
+            "lat": 42.997742,
+            "lon": -71.4556382,
+            "tags": {
+                "addr:city": "Manchester",
+                "addr:housenumber": "150",
+                "addr:postcode": "03104",
+                "addr:street": "Ash Street",
+                "building": "yes",
+                "building:levels": "2",
+                "building:material": "brick",
+                "check_date": "2024-11-05",
+                "name": "Currier Museum of Art",
+                "roof:shape": "flat",
+                "tourism": "museum",
+                "website": "https://www.currier.org/",
+                "wikidata": "Q3007727",
+                "wikipedia": "en:Currier Museum of Art"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Currier_Museum_of_Art_%C2%B7_Main_Atrium_%C2%B7_20080602.jpg/1280px-Currier_Museum_of_Art_%C2%B7_Main_Atrium_%C2%B7_20080602.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 1021407142,
+            "lat": 42.9896931,
+            "lon": -71.46794,
+            "tags": {
+                "addr:city": "Manchester",
+                "addr:housenumber": "200",
+                "addr:postcode": "03101",
+                "addr:street": "Bedford Street",
+                "building": "yes",
+                "museum": "science",
+                "name": "SEE Science Center",
+                "phone": "+1-603-669-0400",
+                "tourism": "museum",
+                "website": "http://www.see-sciencecenter.org/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/6d/ManchesterNH_DistrictB_RowHouse.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 1066894506,
+            "lat": 53.4748347,
+            "lon": -2.2571686,
+            "tags": {
+                "bridge": "yes",
+                "layer": "3",
+                "leisure": "park",
+                "name": "Castlefield Viaduct Urban Park",
+                "opening_hours": "We-Su 10:00-17:00",
+                "tourism": "attraction",
+                "website": "https://www.nationaltrust.org.uk/castlefield-viaduct"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Bridgewater_Canal%2C_Castlefield_Basin_%28geograph_6966336%29.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 1415898132,
+            "lat": 38.6883727,
+            "lon": -83.6096405,
+            "tags": {
+                "addr:city": "Manchester",
+                "addr:housenumber": "307",
+                "addr:postcode": "45144",
+                "addr:state": "OH",
+                "addr:street": "Pike Street",
+                "building": "yes",
+                "building:levels": "2",
+                "contact:facebook": "https://www.facebook.com/ManchesterHistoricalSocietyAdamsCounty/",
+                "museum": "local",
+                "name": "Manchester Historical Society",
+                "opening_hours": "Su 14:00-16:00; Mo 10:00-13:00",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/ManchesterOhioHS.JPG/1280px-ManchesterOhioHS.JPG",
+            "image_source": "wikipedia_verified"
+        }
+    ]
+}

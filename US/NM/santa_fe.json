@@ -1,0 +1,3432 @@
+{
+    "city_metadata": {
+        "city_name": "Santa Fe",
+        "state_code": "NM",
+        "state_full": "New Mexico",
+        "city_summary": "Santa Fe ( SAN-tə FAY, -⁠ fay; Spanish: [santa ˈfe]; Spanish for 'Holy Faith') is the capital city of the U.S. state of New Mexico. It is the fourth-most populous city in the state with a population of 87,505 as of the 2020 census, while the Santa Fe metropolitan area has an estimated 158,000 people. The greater Albuquerque–Santa Fe–Los Alamos combined statistical area includes eight counties in north-central New Mexico with 1.16 million residents.",
+        "city_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Palace_of_the_Governors.jpg/1280px-Palace_of_the_Governors.jpg",
+        "city_lat": 35.66722222,
+        "city_lon": -105.96444444,
+        "source": "wikipedia_verified_engine"
+    },
+    "attractions": [
+        {
+            "type": "node",
+            "id": 366377532,
+            "lat": 35.6917896,
+            "lon": -105.9365062,
+            "tags": {
+                "addr:state": "NM",
+                "ele": "2132",
+                "gnis:feature_id": "933528",
+                "name": "Allison Dormitory Historic Site",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Allison_Dormitory.JPG/1280px-Allison_Dormitory.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 860794517,
+            "lat": -31.6326992,
+            "lon": -60.712411,
+            "tags": {
+                "name": "Sociedad Rural Argentina",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Estadio_15_de_Abril_-_Club_Atl%C3%A9tico_Uni%C3%B3n_de_Santa_Fe.jpg/1280px-Estadio_15_de_Abril_-_Club_Atl%C3%A9tico_Uni%C3%B3n_de_Santa_Fe.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 1037452989,
+            "lat": -32.7429954,
+            "lon": -60.7324896,
+            "tags": {
+                "name": "Museo de Historia Regional",
+                "source": "http://www.sanlorenzo.gov.ar/index.php?option=com_content&task=view&id=725&Itemid=239",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Convento_de_San_Carlos%2C_San_Lorenzo_1.jpg/1280px-Convento_de_San_Carlos%2C_San_Lorenzo_1.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 1300367349,
+            "lat": -30.3832486,
+            "lon": -60.315915,
+            "tags": {
+                "name": "Museo Del Indigena",
+                "tourism": "museum"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1339053789,
+            "lat": -33.2756093,
+            "lon": -60.2522629,
+            "tags": {
+                "name": "La Horqueta",
+                "place": "locality",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1565364868,
+            "lat": -31.6467428,
+            "lon": -60.7040367,
+            "tags": {
+                "name": "Palomar",
+                "tourism": "attraction",
+                "wheelchair": "yes"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Gran_Premio_de_Santa_Fe_%28Argentina%29_street_circuit_track_map_2008.svg/1280px-Gran_Premio_de_Santa_Fe_%28Argentina%29_street_circuit_track_map_2008.svg.png",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 1703827067,
+            "lat": -33.3278862,
+            "lon": -62.0409718,
+            "tags": {
+                "addr:city": "Chañar Ladeado",
+                "addr:country": "AR",
+                "addr:postcode": "2643",
+                "addr:state": "Santa Fe",
+                "name": "Museo comunal",
+                "tourism": "museum",
+                "wikidata": "Q84530764"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1841634258,
+            "lat": -32.5852761,
+            "lon": -61.1636297,
+            "tags": {
+                "addr:housenumber": "724",
+                "addr:postcode": "2144",
+                "addr:street": "San Lorenzo",
+                "contact:email": "museo@totoras.gob.ar",
+                "contact:phone": "03476461777",
+                "name": "Museo de la ciudad",
+                "name:en": "Museum of the City",
+                "opening_hours": "Mo-Fr 08:00-12:00; Su 16:00-18:00",
+                "tourism": "museum",
+                "wikidata": "Q84531075"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1877874986,
+            "lat": -32.0299963,
+            "lon": -61.2191852,
+            "tags": {
+                "name": "Museo de Artes Visuales \"Orlando Rufinengo\"",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/G%C3%A1lvez.jpg/1280px-G%C3%A1lvez.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 1893418427,
+            "lat": -33.2433228,
+            "lon": -61.3587916,
+            "tags": {
+                "name": "Fespal",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1909481128,
+            "lat": -31.659432,
+            "lon": -60.7096529,
+            "tags": {
+                "addr:city": "Santa Fe",
+                "addr:country": "AR",
+                "addr:housenumber": "2557",
+                "addr:postcode": "S3000",
+                "addr:state": "Santa Fe",
+                "addr:street": "Amenabar",
+                "denomination": "catholic",
+                "heritage": "yes",
+                "museum": "history",
+                "name": "Museo Histórico San Francisco",
+                "toilets:wheelchair": "no",
+                "tourism": "museum",
+                "wheelchair": "yes"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Catedral_metropolitana_santaf.JPG/1280px-Catedral_metropolitana_santaf.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 2165440204,
+            "lat": -29.144799,
+            "lon": -59.6500766,
+            "tags": {
+                "addr:city": "Reconquista",
+                "addr:housenumber": "1101",
+                "addr:postcode": "S3560",
+                "addr:street": "Mitre",
+                "museum_type": "archaeological",
+                "name": "Reconquista",
+                "tourism": "museum"
+            }
+        },
+        {
+            "type": "node",
+            "id": 2349901125,
+            "lat": -28.2315458,
+            "lon": -59.4473212,
+            "tags": {
+                "addr:city": "Villa Guillermina",
+                "addr:housenumber": "s/n",
+                "addr:postcode": "3589",
+                "addr:street": "Estanislao López",
+                "contact:email": "mariana_1976_cortez@hotmail.com",
+                "name": "Museo \"Paseo de los recuerdos\"",
+                "source": "https://museosdesantafe.com.ar/author/110/",
+                "tourism": "museum"
+            }
+        },
+        {
+            "type": "node",
+            "id": 2429677770,
+            "lat": -34.2633237,
+            "lon": -62.7134982,
+            "tags": {
+                "addr:city": "Rufino",
+                "addr:country": "AR",
+                "addr:housenumber": "159",
+                "addr:postcode": "6100",
+                "addr:province": "Santa Fe",
+                "addr:street": "Santa Fe",
+                "contact:email": "info@rufino.gov.ar",
+                "contact:phone": "+54 (03382) 428410",
+                "name": "Museo y Archivo Histórico de Rufino",
+                "start_date": "1989-03-29",
+                "tourism": "museum"
+            }
+        },
+        {
+            "type": "node",
+            "id": 2826936577,
+            "lat": -30.9445888,
+            "lon": -61.5628402,
+            "tags": {
+                "name": "Museo 'Basilio M. Donato'",
+                "tourism": "museum"
+            }
+        },
+        {
+            "type": "node",
+            "id": 2868769837,
+            "lat": -30.9445502,
+            "lon": -61.5578998,
+            "tags": {
+                "name": "Centro de Actividades Públicas",
+                "short_name": "CAP",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 2909244683,
+            "lat": -29.8842656,
+            "lon": -60.2881955,
+            "tags": {
+                "addr:city": "Calchaquí",
+                "name": "Museo de Calchaquí",
+                "tourism": "museum"
+            }
+        },
+        {
+            "type": "node",
+            "id": 2933180916,
+            "lat": -30.2260107,
+            "lon": -60.3643665,
+            "tags": {
+                "name": "Museo Comunal",
+                "tourism": "museum",
+                "wikidata": "Q84531684"
+            }
+        },
+        {
+            "type": "node",
+            "id": 2935585489,
+            "lat": -32.7376461,
+            "lon": -61.2941662,
+            "tags": {
+                "addr:postcode": "S2501",
+                "contact:facebook": "https://www.facebook.com/museocayetanodaneri/",
+                "name": "Cayetano Daneri",
+                "official_name": "Museo Histórico Comunal \"Cayetano Daneri\"",
+                "tourism": "museum"
+            }
+        },
+        {
+            "type": "node",
+            "id": 2946176287,
+            "lat": -31.1862055,
+            "lon": -60.7453837,
+            "tags": {
+                "name": "Museo Comunal - Punto Digital",
+                "tourism": "museum"
+            }
+        },
+        {
+            "type": "node",
+            "id": 3309845905,
+            "lat": -31.6075848,
+            "lon": -60.6652286,
+            "tags": {
+                "name": "Alfombra Mágica",
+                "tourism": "theme_park"
+            }
+        },
+        {
+            "type": "node",
+            "id": 3348794094,
+            "lat": -31.2531123,
+            "lon": -61.4905812,
+            "tags": {
+                "name": "Museo Histórico Municipal",
+                "tourism": "museum"
+            }
+        },
+        {
+            "type": "node",
+            "id": 3591164987,
+            "lat": -33.3990863,
+            "lon": -61.8445497,
+            "tags": {
+                "name": "Museo Casa del Pueblo",
+                "tourism": "museum"
+            }
+        },
+        {
+            "type": "node",
+            "id": 3647758212,
+            "lat": -32.8595733,
+            "lon": -61.1507553,
+            "tags": {
+                "name": "Museo Regional Carcarañá",
+                "tourism": "museum"
+            }
+        },
+        {
+            "type": "node",
+            "id": 3738001697,
+            "lat": -29.144132,
+            "lon": -59.645133,
+            "tags": {
+                "addr:city": "Reconquista",
+                "addr:postcode": "S3560",
+                "addr:street": "General Obligado",
+                "name": "Julio Pagano",
+                "tourism": "museum"
+            }
+        },
+        {
+            "type": "node",
+            "id": 3743595125,
+            "lat": -33.0231672,
+            "lon": -60.6214001,
+            "tags": {
+                "addr:city": "Villa Gobernador Gálvez",
+                "addr:postcode": "S2124",
+                "addr:street": "Juan B. Justo",
+                "name": "Raúl Malatesta",
+                "tourism": "museum"
+            }
+        },
+        {
+            "type": "node",
+            "id": 3744779625,
+            "lat": -33.541811,
+            "lon": -61.125166,
+            "tags": {
+                "addr:city": "Alcorta",
+                "addr:country": "AR",
+                "addr:state": "Santa Fe",
+                "addr:street": "Bulevar 25 de Mayo",
+                "name": "Museo Comunal - Asociación Española",
+                "tourism": "museum"
+            }
+        },
+        {
+            "type": "node",
+            "id": 3814381153,
+            "lat": -30.7888299,
+            "lon": -60.5918635,
+            "tags": {
+                "addr:city": "San Justo",
+                "addr:housenumber": "2459",
+                "addr:postcode": "S3040AGI",
+                "addr:street": "9 de julio",
+                "description": "El Museo Histórico Municipal “Rosa Giussani de Piva”, de la ciudad de San Justo (Santa Fe), está ubicado en el solar que fuera donado por la Sra. Rosa Giussani de Piva, gran docente de nuestra ciudad.Fundado en 1.987.",
+                "name": "Museo Histórico 'Rosa Giussani de Piva'",
+                "official_name": "Museo Histórico Municipal Rosa Giussani De Piva",
+                "phone": "+54 34 9842-0004",
+                "tourism": "museum"
+            }
+        },
+        {
+            "type": "node",
+            "id": 3824544930,
+            "lat": -32.8579464,
+            "lon": -61.1516304,
+            "tags": {
+                "addr:city": "Carcarañá",
+                "addr:country": "AR",
+                "addr:housenumber": "1310",
+                "addr:postcode": "S2138",
+                "addr:state": "Santa Fe",
+                "addr:street": "Paseo Nuestra Señora del Pilar",
+                "name": "Museo de la Ciudad",
+                "opening_hours": "Mo-Fr 08:00-12:00,13:30-17:30",
+                "operator": "Yani Ceriani",
+                "tourism": "museum",
+                "wikidata": "Q84529290"
+            }
+        },
+        {
+            "type": "node",
+            "id": 3825610282,
+            "lat": -31.6094437,
+            "lon": -61.1417436,
+            "tags": {
+                "addr:city": "San Jerónimo del Sauce",
+                "addr:street": "Santa Fe",
+                "name": "Monumento Histórico Nacional",
+                "tourism": "museum"
+            }
+        },
+        {
+            "type": "node",
+            "id": 3863406958,
+            "lat": -32.0552185,
+            "lon": -61.5990599,
+            "tags": {
+                "addr:city": "Cañada Rosquín",
+                "addr:postcode": "S2454",
+                "addr:street": "Buenos Aires",
+                "name": "Museo Histórico - Centenario",
+                "note": "ubicación excata a verificar",
+                "source": "http://www.xn--caadarosquin-bhb.gob.ar/pueblo.php",
+                "start_date": "2001-10-21",
+                "tourism": "museum"
+            }
+        },
+        {
+            "type": "node",
+            "id": 3992426115,
+            "lat": -32.2656817,
+            "lon": -61.9028688,
+            "tags": {
+                "addr:city": "María Susana",
+                "addr:postcode": "S2527",
+                "addr:street": "Avenida San Martín",
+                "name": "Estación de ferrocarril",
+                "operator": "Comuna de María Susana",
+                "phone": "+54 3401 467150",
+                "tourism": "museum"
+            }
+        },
+        {
+            "type": "node",
+            "id": 4049506499,
+            "lat": -32.9421173,
+            "lon": -60.6401034,
+            "tags": {
+                "addr:city": "Rosario",
+                "addr:country": "AR",
+                "addr:housenumber": "480",
+                "addr:postcode": "2000",
+                "addr:state": "Santa Fe",
+                "addr:street": "Entre Ríos",
+                "historic": "heritage",
+                "name": "Casa natal de Ernesto Che Guevara",
+                "source": "Local knowledge",
+                "source_ref": "http://www.rosariocultura.gob.ar/galerias/archivos/La%20ruta%20del%20Che%20en%20Rosario.pdf",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Palacio_Minetti_1.jpg/1280px-Palacio_Minetti_1.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 4093445007,
+            "lat": -33.6642202,
+            "lon": -61.4591326,
+            "tags": {
+                "name": "Museo Histórico",
+                "tourism": "museum"
+            }
+        },
+        {
+            "type": "node",
+            "id": 4097805024,
+            "lat": -31.5475287,
+            "lon": -61.0815466,
+            "tags": {
+                "addr:city": "San Jerónimo Norte",
+                "addr:postcode": "3015",
+                "addr:street": "Guillermo Tell",
+                "name": "Museo Lorenzo Bodernman",
+                "tourism": "museum"
+            }
+        },
+        {
+            "type": "node",
+            "id": 4103057406,
+            "lat": -29.143393,
+            "lon": -59.6425972,
+            "tags": {
+                "addr:city": "Reconquista",
+                "addr:housenumber": "700",
+                "addr:postcode": "S3560",
+                "addr:street": "Iturraspe",
+                "description": "Casa histórica de la ciudad. Patrimonio de la ciudad.",
+                "name": "Monumento Histórico",
+                "tourism": "museum"
+            }
+        },
+        {
+            "type": "node",
+            "id": 4184630936,
+            "lat": -32.9462046,
+            "lon": -60.6367203,
+            "tags": {
+                "addr:city": "Rosario",
+                "addr:country": "AR",
+                "addr:housenumber": "750",
+                "addr:postcode": "2000",
+                "addr:state": "Santa Fe",
+                "addr:street": "Peatonal San Martín",
+                "check_date": "2025-02-05",
+                "contact:phone": "+54 341 480-2666",
+                "contact:website": "http://www.ecu.unr.edu.ar/",
+                "description": "Centro cultural dependiente de la UNR. Alberga desde exposiciones de artes visuales, conciertos y conferencias, hasta presentaciones de libros y apertura de congresos.",
+                "fee": "yes",
+                "name": "Espacio Cultural Universitario (ECU)",
+                "opening_hours": "Tu-Fr 10:00-18:00; Sa 10:00-19:00",
+                "operator": "Universidad Nacional de Rosario",
+                "tourism": "museum",
+                "wheelchair": "limited"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/San_Mart%C3%ADn_y_C%C3%B3rdoba%2C_Rosario_1.jpg/1280px-San_Mart%C3%ADn_y_C%C3%B3rdoba%2C_Rosario_1.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 4367044656,
+            "lat": -33.8933396,
+            "lon": -61.6879331,
+            "tags": {
+                "addr:city": "Santa Isabel",
+                "addr:country": "AR",
+                "addr:postcode": "2605",
+                "addr:province": "Santa Fe",
+                "addr:street": "Santa Fe",
+                "description": "El Monolito Fundacional, hace referencia al lugar donde se remataron los terrenos el 8 de febrero de 1908, fecha de fundación de Santa Isabel",
+                "name": "Monolito Fundacional",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 4372894268,
+            "lat": -30.3605067,
+            "lon": -60.4050099,
+            "tags": {
+                "name": "Museo Histórico Regional",
+                "tourism": "museum"
+            }
+        },
+        {
+            "type": "node",
+            "id": 4378823593,
+            "lat": -28.4901061,
+            "lon": -59.354019,
+            "tags": {
+                "addr:city": "Villa Ocampo",
+                "addr:postcode": "S3580",
+                "addr:street": "Padre Ángel Tibaldo",
+                "name": "Museo histórico",
+                "tourism": "museum"
+            }
+        },
+        {
+            "type": "node",
+            "id": 4379946791,
+            "lat": -31.9748106,
+            "lon": -61.8341616,
+            "tags": {
+                "name": "Chiagasso Milchfarm",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 4405814887,
+            "lat": -31.6744955,
+            "lon": -60.7546777,
+            "tags": {
+                "access": "permissive",
+                "addr:city": "Santo Tomé",
+                "addr:housenumber": "2700",
+                "addr:postcode": "S3016",
+                "addr:street": "Avenida Mitre",
+                "description": "Paseo Turístico, que cuando el Río Salado desborda por crecientes, recibe el agua de este, llegando muchas veces a nivel de calzada de la Avenida que la demarca en su recorrido.",
+                "designation": "Parque - Balneario L. J De Garay",
+                "horse": "no",
+                "int_name": "Parque Mirador de Laguna Juan de Garay",
+                "motor_vehicle": "permissive",
+                "name": "Parque Mirador de Laguna Juan de Garay",
+                "operator": "Municipalidad de Santo Tome- Santa Fe",
+                "sport": "swimming",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 4407198489,
+            "lat": -28.4956705,
+            "lon": -59.6139641,
+            "tags": {
+                "addr:housenumber": "03482494293",
+                "addr:postcode": "S3583",
+                "addr:street": "25 de Mayo",
+                "fixme": "addr:housenumber tag seems to contain the phone number",
+                "name": "Ruinas Ex Fábrica La Forestal",
+                "name:en": "The Forestal Ruins",
+                "opening_hours": "24/7",
+                "phone": "03482494293",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 4440698690,
+            "lat": 23.0871963,
+            "lon": -82.500611,
+            "tags": {
+                "name": "Papas Marina Hemingway",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 4575767255,
+            "lat": 19.360355,
+            "lon": -99.2760707,
+            "tags": {
+                "name": "Kidzania",
+                "tourism": "theme_park"
+            }
+        },
+        {
+            "type": "node",
+            "id": 4578475153,
+            "lat": -31.6341811,
+            "lon": -60.6733459,
+            "tags": {
+                "name": "Paseo de la Laguna",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/81/Centro_de_Investigaci%C3%B3n_de_M%C3%A9todos_Computacionales%2C_Santa_Fe%2C_Argentina.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 4640258691,
+            "lat": -28.4993525,
+            "lon": -59.6128403,
+            "tags": {
+                "name": "Oratorio Sgdo. Corazón de Jesús",
+                "name:es": "Oratorio Sgdo. Corazón de Jesús",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 4685534626,
+            "lat": -32.9422383,
+            "lon": -60.6492992,
+            "tags": {
+                "addr:city": "Rosario",
+                "addr:country": "AR",
+                "addr:housenumber": "1951",
+                "addr:postcode": "S2000AUF",
+                "addr:state": "Santa Fe",
+                "addr:street": "San Lorenzo",
+                "alt_name": "Museo de Ciencias Naturales",
+                "contact:email": "prensagallardo@santafe.gov.ar",
+                "level": "0",
+                "name": "Museo Ángel Gallardo",
+                "official_name": "Museo de Ciencias Naturales Doctor Angel Gallardo",
+                "operator:type": "public",
+                "phone": "+54 341 472-1449",
+                "source": "http://datos.rosario.gob.ar/",
+                "tourism": "museum",
+                "wheelchair": "limited",
+                "wikidata": "Q6033687",
+                "wikipedia": "es:Museo Provincial de Ciencias Naturales Dr. Ángel Gallardo"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Logo-unr.png",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 4685534627,
+            "lat": -32.949556,
+            "lon": -60.6261993,
+            "tags": {
+                "addr:city": "Rosario",
+                "addr:country": "AR",
+                "addr:floor": "PA",
+                "addr:housenumber": "300",
+                "addr:state": "Santa Fe",
+                "addr:street": "Raúl Dominguez",
+                "contact:phone": "+54 341 440-0751",
+                "level": "1",
+                "museum_type": "art",
+                "name": "Museo del Paraná y las Islas",
+                "opening_hours": "Sa,Su,PH 15:00-19:00",
+                "operator:type": "private",
+                "source": "http://datos.rosario.gob.ar/",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/72/Aqualina-Rosario-2010.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 4685534628,
+            "lat": -32.969232,
+            "lon": -60.6361523,
+            "tags": {
+                "addr:city": "Rosario",
+                "addr:country": "AR",
+                "addr:housenumber": "599",
+                "addr:state": "Santa Fe",
+                "addr:street": "Bulevar 27 de Febrero",
+                "contact:phone": "+54 341 430-2359",
+                "name": "Museo Ferroviario Regional de la Asociación Amigos del Riel",
+                "operator:type": "private",
+                "short_name": "Museo Ferroviario Regional",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Estaci%C3%B3n_Rosario_Central_C%C3%B3rdoba_1.jpg/1280px-Estaci%C3%B3n_Rosario_Central_C%C3%B3rdoba_1.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 4685534630,
+            "lat": -32.9528696,
+            "lon": -60.6353235,
+            "tags": {
+                "addr:city": "Rosario",
+                "addr:country": "AR",
+                "addr:housenumber": "1235",
+                "addr:state": "Santa Fe",
+                "addr:street": "Francisco Narciso Laprida",
+                "contact:phone": "+54 341 424-5349; +54 341 448-3784",
+                "name": "Museo Barnes de Arte Sacro",
+                "operator:type": "private",
+                "short_name": "Museo Barnes",
+                "source": "http://datos.rosario.gob.ar/",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Teatro_El_C%C3%ADrculo_1.jpg/1280px-Teatro_El_C%C3%ADrculo_1.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 4685534631,
+            "lat": -32.9307584,
+            "lon": -60.6578082,
+            "tags": {
+                "addr:city": "Rosario",
+                "addr:country": "AR",
+                "addr:housenumber": "2734",
+                "addr:state": "Santa Fe",
+                "addr:street": "Avenida Aristóbulo del Valle",
+                "contact:email": "museourbano@rosario.gov.ar",
+                "contact:phone": "+54 341 4802511 (int. 255)",
+                "name": "Museo Urbano Arte a la Vista",
+                "operator:type": "public",
+                "source": "http://datos.rosario.gob.ar/",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Dolfines_Guaran%C3%AD_-_Koluso.jpg/1280px-Dolfines_Guaran%C3%AD_-_Koluso.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 4685534632,
+            "lat": -32.9596919,
+            "lon": -60.6235093,
+            "tags": {
+                "addr:city": "Rosario",
+                "addr:country": "AR",
+                "addr:housenumber": "1602",
+                "addr:state": "Santa Fe",
+                "addr:street": "Diario La Capital",
+                "contact:email": "oamr@ifir.edu.ar",
+                "contact:fax": "+54 341 480-2533",
+                "contact:phone": "+54 341 480-2554",
+                "contact:website": "http://www.complejoastronomico.gob.ar/page/museodeciencias",
+                "fee": "yes",
+                "name": "Museo Experimental de Ciencias",
+                "opening_hours": "Sa,Su,PH 17:00-19:30",
+                "operator:type": "public",
+                "short_name": "Museo de Ciencias",
+                "source": "http://datos.rosario.gob.ar/",
+                "tourism": "museum",
+                "wikidata": "Q84528105"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Parque_Urquiza_Rosario_1.jpg/1280px-Parque_Urquiza_Rosario_1.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 4685534633,
+            "lat": -32.94598,
+            "lon": -60.637925,
+            "tags": {
+                "addr:city": "Rosario",
+                "addr:country": "AR",
+                "addr:housenumber": "763",
+                "addr:state": "Santa Fe",
+                "addr:street": "Sarmiento",
+                "check_date": "2025-02-25",
+                "contact:email": "fundacion@lacapital.com.ar",
+                "contact:phone": "+54 341 522-6005; +54 341 522-6065",
+                "name": "Museo Diario La Capital",
+                "operator:type": "private",
+                "source": "http://datos.rosario.gob.ar/",
+                "tourism": "museum",
+                "wheelchair": "limited",
+                "wikidata": "Q4810370"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/San_Mart%C3%ADn_y_C%C3%B3rdoba%2C_Rosario_1.jpg/1280px-San_Mart%C3%ADn_y_C%C3%B3rdoba%2C_Rosario_1.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 4685534634,
+            "lat": -32.9518214,
+            "lon": -60.6269792,
+            "tags": {
+                "addr:city": "Rosario",
+                "addr:country": "AR",
+                "addr:housenumber": "341",
+                "addr:state": "Santa Fe",
+                "addr:street": "Avenida Manuel Belgrano",
+                "name": "Museo del Puerto",
+                "operator:type": "private",
+                "source": "http://datos.rosario.gob.ar/",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/72/Aqualina-Rosario-2010.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 4686004536,
+            "lat": 35.658079,
+            "lon": -105.979418,
+            "tags": {
+                "museum": "art",
+                "name": "Thaw Art History Center",
+                "ref": "28",
+                "tourism": "museum",
+                "website": "https://sfai.org/"
+            }
+        },
+        {
+            "type": "node",
+            "id": 4686866989,
+            "lat": -31.6564898,
+            "lon": -60.7121218,
+            "tags": {
+                "addr:city": "Santa Fe",
+                "addr:country": "AR",
+                "addr:housenumber": "2792",
+                "addr:postcode": "S3000",
+                "addr:state": "Santa Fe",
+                "addr:street": "Avenida General López",
+                "contact:facebook": "https://www.facebook.com/CasadelBrigadierEstanislaoLopez/?locale=es_LA",
+                "contact:instagram": "https://www.instagram.com/casadelbrigadier/?hl=es",
+                "name": "Casa del Brigadier General Estanislao López",
+                "opening_hours": "Th,Fr 09:00-15:00; Sa,Su 16:00-19:00",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Catedral_metropolitana_santaf.JPG/1280px-Catedral_metropolitana_santaf.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 4716565274,
+            "lat": 8.5005054,
+            "lon": -81.0684887,
+            "tags": {
+                "leisure": "swimming_area",
+                "name": "Las Trancas",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/0f/DirkvdM_panama_panorama-santa_fe-2.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 4777223621,
+            "lat": -31.4149103,
+            "lon": -60.3340587,
+            "tags": {
+                "name": "Museo Bergallo",
+                "name:es": "Museo Bergallo",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Irup%C3%A9s%2C_Paso_del_Tigre%2C_Cayast%C3%A1%2C_Santa_Fe%2C_Argentina_-_panoramio.jpg/1280px-Irup%C3%A9s%2C_Paso_del_Tigre%2C_Cayast%C3%A1%2C_Santa_Fe%2C_Argentina_-_panoramio.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 5108578400,
+            "lat": -31.7692234,
+            "lon": -61.8312403,
+            "tags": {
+                "addr:city": "Sastre y Ortiz",
+                "addr:housenumber": "1989",
+                "addr:postcode": "S2440BCO",
+                "addr:street": "Sarmiento",
+                "contact:facebook": "https://www.facebook.com/pages/category/History-Museum/Museo-Hist%C3%B3rico-Municipal-Dr-Rodolfo-Doval-Fermi-249426651850905/",
+                "museum": "history",
+                "museum_type": "municipal",
+                "name": "Museo Histórico Municipal 'Dr. Rodolfo Doval Fermi'",
+                "phone": "+54 3406 48-0173",
+                "tourism": "museum",
+                "wikidata": "Q84527054"
+            }
+        },
+        {
+            "type": "node",
+            "id": 5188550821,
+            "lat": -33.0876837,
+            "lon": -60.6545705,
+            "tags": {
+                "name": "Klaukol Rosario",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 5265070658,
+            "lat": -29.1553037,
+            "lon": -59.645388,
+            "tags": {
+                "name": "Museo historico",
+                "tourism": "museum"
+            }
+        },
+        {
+            "type": "node",
+            "id": 5265070661,
+            "lat": -29.1446301,
+            "lon": -59.65057,
+            "tags": {
+                "name": "Museo de historia natural",
+                "tourism": "museum"
+            }
+        },
+        {
+            "type": "node",
+            "id": 5329421266,
+            "lat": -28.3550641,
+            "lon": -59.2589758,
+            "tags": {
+                "description": "Réplica de aquella construida en 1811, en Buenos Aires, para celebrar el primer aniversario de la Revolución de Mayo. Las Toscas, Santa Fe",
+                "historic": "monument",
+                "inscription": "Réplica de aquella construida en 1811, en Buenos Aires, para celebrar el primer aniversario de la Revolución de Mayo. Las Toscas, Santa Fe.",
+                "name": "Pirámide del Centenario de la Revolución de Mayo",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 5383794836,
+            "lat": -33.7476545,
+            "lon": -61.9679603,
+            "tags": {
+                "addr:city": "Venado Tuerto",
+                "addr:country": "AR",
+                "addr:housenumber": "966",
+                "addr:province": "Santa Fe",
+                "addr:street": "Maipú",
+                "description": "En esta casa Cayetano Silva escribio la letra de la Marcha de San Lorenzo",
+                "name": "Casa historica Cayetano Silva",
+                "tourism": "attraction",
+                "wikidata": "Q84530374"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Venado_Tuerto_Panoramica_1.jpg/1280px-Venado_Tuerto_Panoramica_1.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 5465605034,
+            "lat": -31.44742,
+            "lon": -60.932564,
+            "tags": {
+                "addr:city": "Esperanza",
+                "addr:housenumber": "2735",
+                "addr:postcode": "3080",
+                "addr:street": "25 de Mayo",
+                "name": "Fundación Ramseyer Dayer",
+                "phone": "03496 43-0514",
+                "tourism": "museum"
+            }
+        },
+        {
+            "type": "node",
+            "id": 5465662411,
+            "lat": -31.4462369,
+            "lon": -60.9378569,
+            "tags": {
+                "name": "Museo de Ciencias Naturales del San José",
+                "tourism": "museum"
+            }
+        },
+        {
+            "type": "node",
+            "id": 5490051787,
+            "lat": -31.2107139,
+            "lon": -60.1620448,
+            "tags": {
+                "name": "Explanada de entrada",
+                "tourism": "museum",
+                "website": "https://www.santafelavieja.gob.ar/mapa-interactivo?fi=10"
+            }
+        },
+        {
+            "type": "node",
+            "id": 5490051788,
+            "lat": -31.2091769,
+            "lon": -60.160811,
+            "tags": {
+                "name": "Museo de Sitio",
+                "tourism": "museum",
+                "website": "https://www.santafelavieja.gob.ar/mapa-interactivo?fi=10"
+            }
+        },
+        {
+            "type": "node",
+            "id": 5490051789,
+            "lat": -31.2126546,
+            "lon": -60.1558972,
+            "tags": {
+                "name": "Casa de González de Ataide",
+                "tourism": "museum",
+                "website": "https://www.santafelavieja.gob.ar/mapa-interactivo?fi=10"
+            }
+        },
+        {
+            "type": "node",
+            "id": 5490051790,
+            "lat": -31.2129712,
+            "lon": -60.1547384,
+            "tags": {
+                "name": "Iglesia y convento de San Francisco",
+                "tourism": "museum",
+                "website": "https://www.santafelavieja.gob.ar/parque-arqueologico"
+            }
+        },
+        {
+            "type": "node",
+            "id": 5490051791,
+            "lat": -31.2130676,
+            "lon": -60.1585686,
+            "tags": {
+                "name": "Casa ambientada de Vera Muxica",
+                "tourism": "museum",
+                "website": "https://www.santafelavieja.gob.ar/mapa-interactivo?fi=10"
+            }
+        },
+        {
+            "type": "node",
+            "id": 5503855495,
+            "lat": -32.3638807,
+            "lon": -61.3375269,
+            "tags": {
+                "name": "Museo de la Cuidad",
+                "tourism": "museum"
+            }
+        },
+        {
+            "type": "node",
+            "id": 5510775046,
+            "lat": -32.6660488,
+            "lon": -61.0891407,
+            "tags": {
+                "addr:city": "Salto Grande",
+                "addr:postcode": "2142",
+                "addr:street": "General Belgrano",
+                "amenity": "clock",
+                "name": "Reloj Cucu",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 5525626080,
+            "lat": -32.822009,
+            "lon": -61.3942516,
+            "tags": {
+                "attraction": "carousel",
+                "name": "Calesita Catalino",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 5525626093,
+            "lat": -32.8228362,
+            "lon": -61.3961399,
+            "tags": {
+                "name": "Museo de Arte Cañadense",
+                "tourism": "museum"
+            }
+        },
+        {
+            "type": "node",
+            "id": 5531701712,
+            "lat": -32.7458808,
+            "lon": -60.7336262,
+            "tags": {
+                "name": "Museo Sanmartiniano",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Convento_de_San_Carlos%2C_San_Lorenzo_1.jpg/1280px-Convento_de_San_Carlos%2C_San_Lorenzo_1.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 5635922356,
+            "lat": -31.2129483,
+            "lon": -60.1610309,
+            "tags": {
+                "name": "Casa de Zapata Gollan",
+                "tourism": "museum",
+                "website": "https://www.santafelavieja.gob.ar/mapa-interactivo?fi=10"
+            }
+        },
+        {
+            "type": "node",
+            "id": 6067567365,
+            "lat": -32.9452385,
+            "lon": -60.6425063,
+            "tags": {
+                "addr:city": "Rosario",
+                "addr:country": "AR",
+                "addr:housenumber": "1402",
+                "addr:postcode": "S2000AVW",
+                "addr:state": "Santa Fe",
+                "addr:street": "Peatonal Córdoba",
+                "name": "Museo Bolsa de Comercio",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Palacio_Minetti_1.jpg/1280px-Palacio_Minetti_1.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 6067567480,
+            "lat": -32.9486604,
+            "lon": -60.6344477,
+            "tags": {
+                "addr:city": "Rosario",
+                "addr:country": "AR",
+                "addr:housenumber": "902",
+                "addr:state": "Santa Fe",
+                "addr:street": "Francisco Narciso Laprida",
+                "contact:facebook": "museodelasaludrosario",
+                "name": "Museo de la Salud",
+                "opening_hours": "Mo-Fr 09:00-17:00",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Rosario-BolaNieve.jpg/1280px-Rosario-BolaNieve.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 6074504370,
+            "lat": 23.0794686,
+            "lon": -82.5125603,
+            "tags": {
+                "addr:city": "La Habana",
+                "addr:housenumber": "28625",
+                "addr:street": "Calle 1ra. e/ 286 y 288, Santa Fe",
+                "name": "Museo Casa Natal de Juan Manuel Márquez",
+                "opening_hours": "Tu-Sa 09:00-19:00; Su 09:00-13:00",
+                "phone": "+53 (7) 209 7894",
+                "tourism": "museum"
+            }
+        },
+        {
+            "type": "node",
+            "id": 6334560989,
+            "lat": 8.5447617,
+            "lon": -81.1614114,
+            "tags": {
+                "name": "Sendero para la Cascada Loma Grande",
+                "name:en": "Loma Grande trailhead",
+                "name:fr": "Début du sentier pour Loma Grande",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 6334565185,
+            "lat": 8.5641631,
+            "lon": -81.1909399,
+            "tags": {
+                "name": "Las Golondrinas",
+                "name:en": "Las Golondrinas Waterfalls",
+                "name:fr": "Cascades Las Golondrinas",
+                "tourism": "attraction",
+                "waterway": "waterfall"
+            }
+        },
+        {
+            "type": "node",
+            "id": 6374704288,
+            "lat": 8.5466503,
+            "lon": -81.0910804,
+            "tags": {
+                "name": "Cascada de Bermejo",
+                "name:en": "Bermejo Waterfall",
+                "tourism": "attraction",
+                "waterway": "waterfall"
+            }
+        },
+        {
+            "type": "node",
+            "id": 6486833005,
+            "lat": 35.6630844,
+            "lon": -105.998587,
+            "tags": {
+                "addr:city": "Santa Fe",
+                "addr:housenumber": "2915",
+                "addr:state": "NM",
+                "addr:street": "Agua Fria Street",
+                "name": "Rockin Rollers Event Arena",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 6514939765,
+            "lat": -32.9452548,
+            "lon": -60.6380919,
+            "tags": {
+                "addr:city": "Rosario",
+                "addr:country": "AR",
+                "addr:housenumber": "702",
+                "addr:state": "Santa Fe",
+                "addr:street": "Sarmiento",
+                "contact:facebook": "museoparalademocracia",
+                "contact:instagram": "museodemocraciarosario",
+                "contact:website": "https://www.museoparalademocracia.org/",
+                "description": "Acceso libre y gratuito.",
+                "name": "Museo Internacional para la Democracia",
+                "opening_hours": "Tu-Sa 11:00-18:00",
+                "tourism": "museum",
+                "wikidata": "Q54862792"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/San_Mart%C3%ADn_y_C%C3%B3rdoba%2C_Rosario_1.jpg/1280px-San_Mart%C3%ADn_y_C%C3%B3rdoba%2C_Rosario_1.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 6543637601,
+            "lat": 35.6736032,
+            "lon": -105.9371045,
+            "tags": {
+                "addr:city": "Santa Fe",
+                "addr:housenumber": "1050",
+                "addr:postcode": "87505",
+                "addr:state": "NM",
+                "addr:street": "Old Pecos Trail",
+                "alt_name": "New Mexico National Guard Museum",
+                "museum": "military",
+                "name": "New Mexico Military Museum",
+                "phone": "+1-505-474-1670",
+                "tourism": "museum",
+                "website": "http://bataanmuseum.com"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Gustave_Baumann_House%2C_Santa_Fe_NM.jpg/1280px-Gustave_Baumann_House%2C_Santa_Fe_NM.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 6615398270,
+            "lat": 35.6660998,
+            "lon": -105.971491,
+            "tags": {
+                "addr:city": "Santa Fe",
+                "addr:housenumber": "1751",
+                "addr:postcode": "87505",
+                "addr:state": "NM",
+                "addr:street": "Cerrillos Road",
+                "addr:unit": "A",
+                "museum": "fire",
+                "name": "City of Santa Fe Firefighters Museum",
+                "operator": "City of Santa Fe",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Room_40_at_the_El_Rey_Inn%2C_Santa_Fe_NM.jpg/1280px-Room_40_at_the_El_Rey_Inn%2C_Santa_Fe_NM.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 6689909191,
+            "lat": -32.9314782,
+            "lon": -60.8165183,
+            "tags": {
+                "addr:housenumber": "1901",
+                "addr:street": "Avenida Fuerza Aérea",
+                "contact:email": "museoaeronauticolam@gmail.com",
+                "contact:phone": "+54 341 493-3990; +54 341 493-1568",
+                "fee": "no",
+                "guided_tour:groups": "with reservation",
+                "museum_type": "institutional",
+                "name": "Museo Aeronáutico Militar",
+                "official_name": "Museo Pedagógico Aeroespacial LAM",
+                "opening_hours": "Mo-Fr 09:00-14:00",
+                "operator": "Liceo Aeronáutico Militar",
+                "operator:type": "government",
+                "reservation": "yes",
+                "source_ref:official_name": "https://www.argentina.gob.ar/defensa/gestion-cultural/museos/museo-del-liceo-aeronautico-militar",
+                "start_date": "2004-10-22",
+                "subject": "history",
+                "tourism": "museum",
+                "wheelchair": "limited",
+                "wikidata": "Q84529220"
+            }
+        },
+        {
+            "type": "node",
+            "id": 6760507242,
+            "lat": 35.6629731,
+            "lon": -105.998555,
+            "tags": {
+                "addr:city": "Santa Fe",
+                "addr:housenumber": "2915",
+                "addr:state": "NM",
+                "addr:street": "Agua Fria Street",
+                "museum": "aliens",
+                "name": "Alien Museum",
+                "tourism": "museum"
+            }
+        },
+        {
+            "type": "node",
+            "id": 6761284111,
+            "lat": 35.6789447,
+            "lon": -105.915414,
+            "tags": {
+                "addr:city": "Santa Fe",
+                "addr:housenumber": "1209",
+                "addr:postcode": "87501",
+                "addr:state": "NM",
+                "addr:street": "Upper Canyon Road",
+                "museum": "history",
+                "name": "Water History Museum",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/St_James_-Cristo_del_Rey.jpg/1280px-St_James_-Cristo_del_Rey.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 6791882374,
+            "lat": 35.6620675,
+            "lon": -105.9641298,
+            "tags": {
+                "addr:city": "Santa Fe",
+                "addr:housenumber": "901",
+                "addr:state": "NM",
+                "addr:street": "West San Mateo Road",
+                "name": "Ironstone Gardens",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 6848974708,
+            "lat": -31.6378612,
+            "lon": -60.691832,
+            "tags": {
+                "name": "Museo de Arte Contemporáneo - UNL",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Santafe_station_facade.jpg/1280px-Santafe_station_facade.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 7089429086,
+            "lat": -31.6517081,
+            "lon": -60.7080761,
+            "tags": {
+                "check_date": "2025-05-27",
+                "fee": "no",
+                "name": "Museo municipal de Artes Visuales Sor Josefa Díaz y Clucellas",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Teatro_municipal_santa_fe.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 7212825010,
+            "lat": 8.5262868,
+            "lon": -81.0667688,
+            "tags": {
+                "leisure": "swimming_area",
+                "name": "El Tinajón",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 8861430340,
+            "lat": 35.6656021,
+            "lon": -105.9280629,
+            "tags": {
+                "name": "López Horno Plaza",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Museum_of_International_Folk_Art%2C_Santa_Fe_NM.jpg/1280px-Museum_of_International_Folk_Art%2C_Santa_Fe_NM.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 8861430341,
+            "lat": 35.6657566,
+            "lon": -105.9276773,
+            "tags": {
+                "name": "Clark Exploration Place",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Museum_of_International_Folk_Art%2C_Santa_Fe_NM.jpg/1280px-Museum_of_International_Folk_Art%2C_Santa_Fe_NM.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 8948948275,
+            "lat": -32.7192793,
+            "lon": -60.7267713,
+            "tags": {
+                "name": "Puerto",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9067124282,
+            "lat": -31.2001075,
+            "lon": -60.1588147,
+            "tags": {
+                "name": "Museo del recuerdo \"Cecil González\"",
+                "tourism": "museum"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9370758290,
+            "lat": -34.2869774,
+            "lon": -62.6770248,
+            "tags": {
+                "aircraft:type": "military",
+                "description": "Modelo modificado en actualización denominado FAS430 Mara",
+                "historic": "aircraft",
+                "manufacturer": "Dassault Aviation",
+                "manufacturer:wikipedia": "https://es.wikipedia.org/wiki/Dassault_Aviation",
+                "model": "Mirage 5P Mara",
+                "model:wikipedia": "https://es.wikipedia.org/wiki/Dassault_Mirage_5",
+                "name": "Mirage 5P Mara",
+                "start_date": "2016-11-13",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9548162352,
+            "lat": -32.9466704,
+            "lon": -60.6367703,
+            "tags": {
+                "description": "Frontispicio del antiguo Banco Nacional",
+                "direction": "150",
+                "historic": "monument",
+                "name": "Esquina de la Dignidad",
+                "opening_hours": "24/7",
+                "reservation": "no",
+                "tourism": "attraction",
+                "wheelchair": "yes"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/San_Mart%C3%ADn_y_C%C3%B3rdoba%2C_Rosario_1.jpg/1280px-San_Mart%C3%ADn_y_C%C3%B3rdoba%2C_Rosario_1.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 9571008624,
+            "lat": -33.7476916,
+            "lon": -61.9678785,
+            "tags": {
+                "name": "Museo Cayetano Silva",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Venado_Tuerto_Panoramica_1.jpg/1280px-Venado_Tuerto_Panoramica_1.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 10167358345,
+            "lat": -32.5728216,
+            "lon": -60.8524451,
+            "tags": {
+                "addr:street": "Santa Fe",
+                "description": "Letras corporeas",
+                "name": "La Plazoleta",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10568899113,
+            "lat": 8.5532711,
+            "lon": -81.1760577,
+            "tags": {
+                "archaeological_site": "petroglyph",
+                "historic": "archaeological_site",
+                "name": "Petroglifos",
+                "name:en": "Petroglyphs",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10699527023,
+            "lat": -31.6625322,
+            "lon": -60.7125328,
+            "tags": {
+                "historic": "yes",
+                "man_made": "lighthouse",
+                "name": "Faro Laguna Setúbal",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10796040778,
+            "lat": -32.4421019,
+            "lon": -60.8081376,
+            "tags": {
+                "addr2:street": "Avenida Sebastián Hurtado",
+                "addr:street": "Pérez",
+                "contact:phone": "+54 341 301-5278",
+                "museum": "history",
+                "name": "Parque del Fuerte",
+                "source:url": "https://www.museosdesantafe.gob.ar/museo/21",
+                "tourism": "museum"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10808437691,
+            "lat": -30.5522196,
+            "lon": -59.9308777,
+            "tags": {
+                "name": "Vivero Municipal",
+                "tourism": "theme_park"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11009448367,
+            "lat": 35.687051,
+            "lon": -105.940258,
+            "tags": {
+                "addr:city": "Santa Fe",
+                "addr:housenumber": "105",
+                "addr:postcode": "87501",
+                "addr:state": "NM",
+                "addr:street": "Galisteo Street",
+                "addr:unit": "105",
+                "level": "0",
+                "museum": "art",
+                "name": "Museum of Light",
+                "operator": "Richard Fenker",
+                "tourism": "museum"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11080088455,
+            "lat": -31.6586069,
+            "lon": -60.708689,
+            "tags": {
+                "addr:city": "Santa Fe",
+                "addr:country": "AR",
+                "addr:housenumber": "1470",
+                "addr:postcode": "S3000",
+                "addr:state": "Santa Fe",
+                "addr:street": "25 de Mayo",
+                "contact:facebook": "https://www.facebook.com/MuseoEtnograficoyColonial",
+                "contact:instagram": "https://www.instagram.com/etnograficostafe/",
+                "contact:whatsapp": "+54 9 342 531-0015",
+                "email": "etnosfe@santafe.gob.ar",
+                "name": "Museo Etnográfico y Colonial Juan de Garay",
+                "opening_hours": "Mo-Fr 09:00-12:00,15:00-18:00; Sa-Su 15:00-18:00",
+                "phone": "+54 342 457-3550",
+                "tourism": "museum",
+                "website": "https://www.santafecultura.gob.ar/museo-etnografico-y-colonial-juan-de-garay/",
+                "wikidata": "Q50839955",
+                "wikipedia": "es:Museo Etnográfico y Colonial Juan de Garay"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Catedral_metropolitana_santaf.JPG/1280px-Catedral_metropolitana_santaf.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 11163023914,
+            "lat": 35.6881409,
+            "lon": -105.9384155,
+            "tags": {
+                "fee": "yes",
+                "museum": "technology",
+                "name": "The Palace Press",
+                "opening_hours": "Mo-Su 10:00-17:00",
+                "phone": "+1-505-476-5200",
+                "tourism": "museum",
+                "website": "https://nmhistorymuseum.org/programs/the-palace-press/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Officer%27s_Residence.JPG/1280px-Officer%27s_Residence.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 11250062202,
+            "lat": -31.467103,
+            "lon": -60.9376705,
+            "tags": {
+                "addr:city": "Esperanza",
+                "addr:housenumber": "95",
+                "addr:postcode": "3080",
+                "addr:street": "Santa Fe",
+                "name": "Museo El Antigal",
+                "official_name": "Museo Municipal de Arte El Antigal",
+                "tourism": "museum"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11783404933,
+            "lat": -34.2707368,
+            "lon": -62.7142592,
+            "tags": {
+                "addr:city": "Rufino",
+                "addr:country": "AR",
+                "addr:housenumber": "39",
+                "addr:province": "Santa Fe",
+                "addr:street": "Güemes",
+                "fee": "no",
+                "name": "Museo de Malvinas",
+                "tourism": "museum"
+            }
+        },
+        {
+            "type": "node",
+            "id": 12062106769,
+            "lat": -28.5008306,
+            "lon": -59.2520421,
+            "tags": {
+                "contact:instagram": "reservadsofia",
+                "name": "Reserva Natural Privada \"Doña Sofía\"",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 12223042605,
+            "lat": -31.2724068,
+            "lon": -61.5101232,
+            "tags": {
+                "name": "Cartel de Rafaela",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 12537902701,
+            "lat": 23.0724335,
+            "lon": -82.524594,
+            "tags": {
+                "addr:housenumber": "30626 Interior",
+                "addr:postcode": "11300",
+                "addr:street": "Avenida 1ra entre 306 y 308",
+                "email": "iscubadoinhavana@gmail.com",
+                "name": "Buceando en La Habana",
+                "name:en": "Iscubadoinhavana",
+                "opening_hours": "Su-Sa 9:00 a.m.-6:00 p.m.",
+                "phone": "+53 52 915279",
+                "tourism": "attraction",
+                "website": "https://www.facebook.com/profile.php?id=100084993301733&mibextid=LQQJ4d"
+            }
+        },
+        {
+            "type": "node",
+            "id": 12658364849,
+            "lat": 37.1893354,
+            "lon": -3.7184029,
+            "tags": {
+                "addr:postcode": "18320",
+                "addr:street": "Plaza de España",
+                "email": "info@institutodeamerica.es",
+                "museum": "history",
+                "name": "Museo Instituto de Amércica - Centro Damián Bayón",
+                "name:etymology:wikidata": "Q16491746",
+                "name:etymology:wikipedia": "es:Damián Bayón",
+                "nohousenumber": "yes",
+                "opening_hours": "Tu-Sa 10:00-13:30,17:00-21:00; Su 10:00-14:00",
+                "operator": "Ayuntamiento de Santa Fe",
+                "operator:type": "government",
+                "phone": "+34 606 61 49 40",
+                "tourism": "museum",
+                "website": "https://institutodeamerica.es",
+                "wikidata": "Q107456443"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a1/LocationSanta_Fe.png",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 12749091768,
+            "lat": -30.8373029,
+            "lon": -61.4868769,
+            "tags": {
+                "addr:city": "Colonia Raquel",
+                "addr:postcode": "S2322",
+                "name": "Museo Los Pioneros",
+                "tourism": "museum"
+            }
+        },
+        {
+            "type": "node",
+            "id": 13326193990,
+            "lat": -33.0498346,
+            "lon": -60.5972822,
+            "tags": {
+                "aeroway:balloon": "airstrip",
+                "attraction": "balloon_ride",
+                "balloon:launch": "leisure",
+                "name": "Aeroclub Rosario",
+                "sport": "ballooning",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "way",
+            "id": 104218374,
+            "lat": -32.7457566,
+            "lon": -60.7318798,
+            "tags": {
+                "alt_name": "Monumento Histórico Nacional San Carlos",
+                "contact:website": "http://sanlorenzo.gob.ar/museo-conventual-san-carlos/",
+                "heritage:law": "Ley 12648",
+                "heritage:start_date": "1940",
+                "historic": "heritage",
+                "name": "Museo Histórico del Convento San Carlos",
+                "opening_hours": "Tu-Fr 08:00-18:00; Sa,Su,PH 10:00-18:00",
+                "tourism": "museum",
+                "wikidata": "Q6553434",
+                "wikipedia": "es:Museo Histórico del Convento de San Carlos Borromeo"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Convento_de_San_Carlos%2C_San_Lorenzo_1.jpg/1280px-Convento_de_San_Carlos%2C_San_Lorenzo_1.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 154258249,
+            "lat": -32.9538719,
+            "lon": -60.656595,
+            "tags": {
+                "addr:city": "Rosario",
+                "addr:country": "AR",
+                "addr:housenumber": "2202",
+                "addr:postcode": "S2000",
+                "addr:state": "Santa Fe",
+                "addr:street": "Avenida Carlos Pellegrini",
+                "contact:email": "contacto@castagninomacro.org",
+                "contact:phone": "+54 341 480-2542; +54 341 480-2543",
+                "contact:website": "http://www.museocastagnino.org.ar/",
+                "name": "Museo Municipal de Bellas Artes \"Juan B. Castagnino\"",
+                "name:en": "Juan B. Castagnino Fine Arts Museum",
+                "name:es": "Museo Municipal de Bellas Artes \"Juan B. Castagnino\"",
+                "official_name": "Museo de Bellas Artes Juan B. Castagnino",
+                "operator:type": "public",
+                "short_name": "Museo Castagnino",
+                "source": "http://datos.rosario.gob.ar/",
+                "tourism": "museum",
+                "wikidata": "Q6298930",
+                "wikipedia": "es:Museo Municipal de Bellas Artes Juan B. Castagnino"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b7/MuseoCastagnino.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 186904987,
+            "lat": -32.9566706,
+            "lon": -60.6598478,
+            "tags": {
+                "addr:city": "Rosario",
+                "addr:country": "AR",
+                "addr:housenumber": "1858",
+                "addr:state": "Santa Fe",
+                "addr:street": "Avenida del Museo",
+                "building": "civic",
+                "contact:email": "museomarc@santafe.gov.ar",
+                "contact:phone": "+54 341 472-1457",
+                "fee": "no",
+                "name": "Museo Historico Provincial Doctor Julio Marc",
+                "operator:type": "public",
+                "short_name": "Museo Histórico Provincial",
+                "source": "http://datos.rosario.gob.ar/",
+                "tourism": "museum",
+                "wheelchair": "yes",
+                "wikidata": "Q6033415",
+                "wikipedia": "es:Museo Histórico Provincial “Dr. Julio Marc”"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Museo_Historico_Provincial_Dr._Julio_Marc.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 186984803,
+            "lat": -32.9420152,
+            "lon": -60.6332539,
+            "tags": {
+                "addr:city": "Rosario",
+                "addr:country": "AR",
+                "addr:housenumber": "310",
+                "addr:postcode": "2000",
+                "addr:state": "Santa Fe",
+                "addr:street": "Paseo de las Artes",
+                "amenity": "community_centre",
+                "building": "public",
+                "check_date": "2026-04-11",
+                "contact:website": "http://www.cecrosario.gob.ar/",
+                "fee": "no",
+                "internet_access": "wlan",
+                "internet_access:description": "CEC",
+                "internet_access:fee": "no",
+                "internet_access:operator": "Municipalidad de Rosario",
+                "internet_access:source": "http://datos.rosario.gob.ar/dataset/zonas-wifi",
+                "internet_access:ssid": "MR_Gratuita",
+                "name": "Centro de Expresiones Contemporáneas",
+                "operator": "Municipalidad de Rosario",
+                "operator:type": "government",
+                "operator:wikidata": "Q52535",
+                "short_name": "CEC",
+                "source_ref:url": "https://www.rosario.gob.ar/inicio/inauguracion-de-costa-nueva",
+                "tourism": "museum",
+                "wheelchair": "yes",
+                "wikidata": "Q2894466",
+                "wikipedia": "es:Centro de Expresiones Contemporáneas"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Parque_Espa%C3%B1a_Rosario_5.jpg/1280px-Parque_Espa%C3%B1a_Rosario_5.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 186984807,
+            "lat": -32.9426064,
+            "lon": -60.6320525,
+            "tags": {
+                "alt_name": "El Muelle. Culturas Urbanas",
+                "amenity": "community_centre",
+                "building": "public",
+                "check_date": "2026-04-12",
+                "contact:facebook": "https://www.facebook.com/@galpon11rosario/?hr=1",
+                "contact:instagram": "Galpon11Rosario",
+                "internet_access": "wlan",
+                "internet_access:fee": "no",
+                "internet_access:operator": "Municipalidad de Rosario",
+                "internet_access:ssid": "MR_Gratuita",
+                "name": "Galpón 11",
+                "old_name": "Galpón de la Música",
+                "operator": "Municipalidad de Rosario",
+                "operator:type": "government",
+                "operator:wikidata": "Q52535",
+                "source:name": "https://www.santafe.gob.ar/noticias/noticia/265023/",
+                "source_ref:url": "https://www.rosario.gob.ar/inicio/inauguracion-de-costa-nueva",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Museo_Est%C3%A9vez_patio_2.jpg/1280px-Museo_Est%C3%A9vez_patio_2.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 187138602,
+            "lat": -32.9576299,
+            "lon": -60.6603388,
+            "tags": {
+                "access": "customers",
+                "description": "Vuelos y deslizadores, balanceos y recorridos con arneses",
+                "fee": "yes",
+                "name": "La Máquina de Volar",
+                "operator": "Jardín de los Niños",
+                "playground": "zipwire",
+                "tourism": "attraction",
+                "wheelchair": "no"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Museo_Historico_Provincial_Dr._Julio_Marc.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 187139914,
+            "lat": -32.9573033,
+            "lon": -60.6589546,
+            "tags": {
+                "attraction": "maze",
+                "description": "Un camino laberíntico donde los árboles hablan, las piedras susurran y el agua canta.",
+                "leaf_type": "broadleaved",
+                "name": "La Montañita Encantada",
+                "natural": "wood",
+                "operator": "Jardín de los Niños",
+                "playground": "activitypanel",
+                "tourism": "attraction",
+                "wheelchair": "yes"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Museo_Historico_Provincial_Dr._Julio_Marc.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 187199201,
+            "lat": -32.9301236,
+            "lon": -60.6506279,
+            "tags": {
+                "addr:city": "Rosario",
+                "addr:country": "AR",
+                "addr:housenumber": "2250",
+                "addr:state": "Santa Fe",
+                "addr:street": "Avenida de la Costa Estanislao López",
+                "alt_name": "Museo Macro",
+                "building": "civic",
+                "building:levels": "10",
+                "check_date": "2025-05-03",
+                "contact:email": "contacto@castagninomacro.org",
+                "contact:phone": "+54 341 480-4981;+54 341 480-4982",
+                "contact:website": "http://www.macromuseo.org.ar/index.htm",
+                "name": "Museo de Arte Contemporáneo Rosario",
+                "operator:type": "public",
+                "short_name": "MACRo",
+                "source": "http://datos.rosario.gob.ar/",
+                "tourism": "museum",
+                "wikidata": "Q6033866",
+                "wikimedia_commons": "File:Fachada macro.jpg",
+                "wikipedia": "es:Museo de Arte Contemporáneo de Rosario"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/MACRo_1.jpg/1280px-MACRo_1.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 187615552,
+            "lat": -32.9621924,
+            "lon": -60.6570662,
+            "tags": {
+                "addr:city": "Rosario",
+                "addr:country": "AR",
+                "addr:housenumber": "2361",
+                "addr:postcode": "S2000GHS",
+                "addr:state": "Santa Fe",
+                "addr:street": "Bulevar Nicasio Oroño",
+                "building": "yes",
+                "contact:email": "museociudad@rosario.gob.ar",
+                "contact:facebook": "museodelaciudad",
+                "contact:phone": "+54 341 480-8665",
+                "contact:website": "http://www.museodelaciudad.gob.ar/",
+                "name": "Museo de la Ciudad Wladimir Mikielievich",
+                "opening_hours": "Th-Fr 09:00-15:00; Sa,PH 14:00-19:00; Su 08:30-13:30",
+                "operator:type": "public",
+                "short_name": "Museo de la Ciudad",
+                "source": "http://datos.rosario.gob.ar/",
+                "tourism": "museum",
+                "wheelchair": "limited",
+                "wikidata": "Q6034219",
+                "wikipedia": "es:Museo de la Ciudad de Rosario"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Museo_de_la_Ciudad_%28Rosario%29.jpg/1280px-Museo_de_la_Ciudad_%28Rosario%29.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 193054054,
+            "lat": -33.6834368,
+            "lon": -61.4652962,
+            "tags": {
+                "abandoned:tourism": "hotel",
+                "building": "hotel",
+                "building:levels": "2",
+                "end_date": "marzo de 1975",
+                "layer": "1",
+                "name": "Hotel Balneario Melincué",
+                "reg_name": "Viejo Hotel Melincué",
+                "start_date": "1938",
+                "tourism": "attraction",
+                "wheelchair": "no",
+                "wikidata": "Q5903304",
+                "wikipedia": "es:Hotel Balneario Melincué"
+            }
+        },
+        {
+            "type": "way",
+            "id": 205816541,
+            "lat": -31.6568974,
+            "lon": -60.7148567,
+            "tags": {
+                "addr:city": "Santa Fe",
+                "addr:country": "AR",
+                "addr:housenumber": "1552",
+                "addr:postcode": "S3000",
+                "addr:state": "Santa Fe",
+                "addr:street": "4 de Enero",
+                "building": "yes",
+                "contact:facebook": "https://www.facebook.com/MuseoRosaGalisteo",
+                "contact:instagram": "https://www.instagram.com/museorosagalisteo/",
+                "contact:pinterest": "https://www.pinterest.es/museorosagalisteo/",
+                "contact:twitter": "https://twitter.com/museoSantaFe",
+                "contact:youtube": "https://www.youtube.com/museorosagalisteook",
+                "email": "museorosagalisteo@santafe.gov.ar",
+                "fee": "no",
+                "name": "Museo Provincial de Bellas Artes Rosa Galisteo de Rodríguez",
+                "opening_hours": "Th,Fr 09:00-12:00,14:00-17:00; Sa,Su 16:00-19:00",
+                "phone": "+54 0342 457-3577",
+                "tourism": "museum",
+                "website": "https://www.museorosagalisteo.gob.ar/",
+                "wheelchair": "yes"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Catedral_metropolitana_santaf.JPG/1280px-Catedral_metropolitana_santaf.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 207798524,
+            "lat": 35.6813308,
+            "lon": -105.9498233,
+            "tags": {
+                "addr:city": "Santa Fe",
+                "addr:housenumber": "1606",
+                "addr:postcode": "87501",
+                "addr:state": "NM",
+                "addr:street": "Paseo de Peralta",
+                "building": "yes",
+                "designation": "Contemporary Art Museum",
+                "museum": "art",
+                "name": "SITE Santa Fe",
+                "phone": "+1-505-989-1199",
+                "source": "Local_Knowledge",
+                "tourism": "museum",
+                "website": "http://www.sitesantafe.org/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Beauty_Ngxongo_at_the_2011_Santa_Fe_Folk_Art_Festival_2013-10-16_14-32.jpg/1280px-Beauty_Ngxongo_at_the_2011_Santa_Fe_Folk_Art_Festival_2013-10-16_14-32.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 227361171,
+            "lat": -32.9171374,
+            "lon": -60.8106579,
+            "tags": {
+                "addr:housenumber": "1726",
+                "addr:street": "Tomás de la Torre",
+                "alt_name": "Estación Funes",
+                "building": "train_station",
+                "building:levels": "1",
+                "building:material": "brick",
+                "contact:facebook": "museoferroviario.juanmurray",
+                "contact:instagram": "museomurrayfunes",
+                "contact:phone": "+54 341 493-0836",
+                "contact:website": "http://www.funes.gob.ar/museomurray/",
+                "description:historic": "Antigua casa de la familia Murray, primer jefe de estación.",
+                "exhibit": "history",
+                "fee": "no",
+                "historic": "heritage",
+                "internet_access": "wlan",
+                "internet_access:fee": "no",
+                "internet_access:ssid": "Museo Murray",
+                "level": "0",
+                "museum": "railway",
+                "museum_type": "municipal",
+                "name": "Museo Ferroviario Juan Murray",
+                "official_name": "Museo Ferroviario y de la Ciudad Juan Murray",
+                "old_name": "Estación Ávila",
+                "opening_hours": "Mo-Fr 08:00-13:00; Sa, Su 10:00-12:00, 17:00-19:00",
+                "operator": "Municipalidad de Funes",
+                "operator:type": "government",
+                "roof:levels": "1",
+                "roof:shape": "flat",
+                "short_name": "Juan Murray",
+                "tourism": "museum",
+                "wheelchair": "yes",
+                "wikidata": "Q84529243",
+                "wikimedia_commons": "File:Museo Estación Juan Murray (Funes).jpg",
+                "wikipedia": "es:Estación Funes"
+            }
+        },
+        {
+            "type": "way",
+            "id": 244175262,
+            "lat": 35.6856217,
+            "lon": -105.9375148,
+            "tags": {
+                "access": "private",
+                "addr:city": "Santa Fe",
+                "addr:housenumber": "207",
+                "addr:postcode": "87501",
+                "addr:state": "NM",
+                "addr:street": "Old Santa Fe Trail",
+                "building": "chapel",
+                "building:levels": "2",
+                "email": "info@lorettochapel.com",
+                "height": "26",
+                "name": "Loretto Chapel",
+                "opening_hours": "Mo-Sa 09:00-17:00; Su 10:30-17:00; Mo-Sa 09:30-16:30; Su 10:30-16:30",
+                "phone": "+1-505-982-0092",
+                "roof:shape": "gabled",
+                "tourism": "museum",
+                "website": "https://lorettochapel.com",
+                "wikidata": "Q2956557",
+                "wikipedia": "en:Loretto Chapel"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Loretto_Chapel_Ext.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 310833338,
+            "lat": 35.6879381,
+            "lon": -105.938154,
+            "tags": {
+                "addr:city": "Santa Fe",
+                "addr:housenumber": "105",
+                "addr:postcode": "87501",
+                "addr:state": "NM",
+                "addr:street": "West Palace Avenue",
+                "building": "yes",
+                "castle_type": "palace",
+                "gnis:feature_id": "912995",
+                "height": "5",
+                "historic": "castle",
+                "museum": "history",
+                "name": "Palace of the Governors",
+                "tourism": "museum",
+                "website": "https://www.nmhistorymuseum.org/about/campus/the-palace-of-the-governors.html",
+                "wikidata": "Q2442235",
+                "wikipedia": "en:Palace of the Governors"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/ef/NewMexicoPalaceSantaFe.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 318117824,
+            "lat": -32.9297792,
+            "lon": -60.8152726,
+            "tags": {
+                "aircraft:type": "military",
+                "description": "Perteneciente al Escuadrón 55 de la IV Brigada Aérea de Mendoza",
+                "direction": "SSE",
+                "historic": "aircraft",
+                "image": "https://lam.edu.ar/wp-content/uploads/2023/12/14-scaled.jpeg",
+                "man_made": "aircraft",
+                "memorial": "aircraft",
+                "name": "Dassault Mirage IIICJ",
+                "operator": "Liceo Aeronáutico Militar",
+                "ref": "C-715",
+                "reservation": "members_only",
+                "source": "Local knowledge",
+                "source_ref": "https://lam.edu.ar/actividades/puesta-en-valor-del-avion-mirage-guardian-del-lam/",
+                "tourism": "attraction",
+                "war_memorial": "yes",
+                "wheelchair": "no",
+                "wikimedia_commons": "File:Primer Mirage III en Argentina.jpg"
+            }
+        },
+        {
+            "type": "way",
+            "id": 318117825,
+            "lat": -32.9305337,
+            "lon": -60.8172017,
+            "tags": {
+                "aircraft:type": "military",
+                "direction": "NNE",
+                "historic": "aircraft",
+                "man_made": "aircraft",
+                "memorial": "aircraft",
+                "name": "Gloster Meteor F.4",
+                "operator": "Liceo Aeronáutico Militar",
+                "reservation": "members_only",
+                "source": "Local knowledge",
+                "tourism": "attraction",
+                "war_memorial": "yes",
+                "wheelchair": "no",
+                "wikimedia_commons": "File:JUNIN Gloster Meteor 001.jpg"
+            }
+        },
+        {
+            "type": "way",
+            "id": 326384534,
+            "lat": -30.9417137,
+            "lon": -61.5471635,
+            "tags": {
+                "addr:city": "Sunchales",
+                "addr:postcode": "S2322",
+                "building": "yes",
+                "name": "Museo de la Cosechadora",
+                "tourism": "museum"
+            }
+        },
+        {
+            "type": "way",
+            "id": 334859410,
+            "lat": -30.9358327,
+            "lon": -61.5412153,
+            "tags": {
+                "addr:city": "Sunchales",
+                "addr:postcode": "S2322",
+                "name": "Reserva Faunística",
+                "tourism": "zoo"
+            }
+        },
+        {
+            "type": "way",
+            "id": 349197902,
+            "lat": -32.9930943,
+            "lon": -60.6373513,
+            "tags": {
+                "building": "civic",
+                "contact:website": "http://museodeldeportesf.gob.ar",
+                "name": "Museo del Deporte Santafesino",
+                "operator": "Municipalidad de Rosario",
+                "tourism": "museum",
+                "wikidata": "Q67185616",
+                "wikipedia": "es:Museo del Deporte Santafesino (Rosario)"
+            }
+        },
+        {
+            "type": "way",
+            "id": 366767547,
+            "lat": 35.6650627,
+            "lon": -105.924808,
+            "tags": {
+                "addr:city": "Santa Fe",
+                "addr:housenumber": "710",
+                "addr:postcode": "87505",
+                "addr:state": "NM",
+                "addr:street": "Camino Lejo",
+                "building": "yes",
+                "email": "miac.info@state.nm.us",
+                "museum": "art",
+                "name": "Museum of Indian Arts and Culture",
+                "opening_hours": "May-Oct Mo-Su 10:00-17:00, Nov-Apr Tu-Su 10:00-17:00",
+                "phone": "+1-505-476-1269",
+                "tourism": "museum",
+                "wikidata": "Q6940883",
+                "wikipedia": "en:Museum of Indian Arts and Culture"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Museum_of_Indian_Arts_and_Culture%2C_Santa_Fe_NM.jpg/1280px-Museum_of_Indian_Arts_and_Culture%2C_Santa_Fe_NM.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 370338815,
+            "lat": -29.2386107,
+            "lon": -61.771833,
+            "tags": {
+                "addr:city": "Tostado",
+                "addr:postcode": "S3060",
+                "addr:street": "6 de Caballería",
+                "description": "Antiguo edificio Regimiento 6 de Caballería.",
+                "name": "Museo Histórico de Tostado",
+                "tourism": "museum"
+            }
+        },
+        {
+            "type": "way",
+            "id": 370483915,
+            "lat": 35.6640389,
+            "lon": -105.9265272,
+            "tags": {
+                "addr:city": "Santa Fe",
+                "addr:housenumber": "706",
+                "addr:postcode": "87505",
+                "addr:state": "NM",
+                "addr:street": "Camino Lejo",
+                "building": "yes",
+                "gnis:feature_id": "908993",
+                "museum": "art",
+                "name": "Museum of International Folk Art",
+                "opening_hours": "Tu-Su 10:00-17:00",
+                "phone": "+1-505-476-1200",
+                "tourism": "museum",
+                "website": "https://www.internationalfolkart.org/",
+                "wikidata": "Q6940891",
+                "wikipedia": "en:Museum of International Folk Art"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Museum_of_International_Folk_Art%2C_Santa_Fe_NM.jpg/1280px-Museum_of_International_Folk_Art%2C_Santa_Fe_NM.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 374212996,
+            "lat": 23.0868637,
+            "lon": -82.4915978,
+            "tags": {
+                "addr:city": "La Habana",
+                "addr:street": "Escuela Superior del PCC Ñico López. 5TA Ave.y 246, Santa Fe",
+                "building": "yes",
+                "building:levels": "4",
+                "fee": "no",
+                "name": "Museo de la Instrucción Revolucionaria",
+                "opening_hours": "Lunes a viernes, 9:00 AM-12:00 M, 2:00 PM-4:30 PMSábado, 9:00 AM-12:00 M",
+                "phone": "+53 (7) 2097960 al 68 ext.371;+53 2097215",
+                "tourism": "museum"
+            }
+        },
+        {
+            "type": "way",
+            "id": 376174165,
+            "lat": -32.0336737,
+            "lon": -61.2222621,
+            "tags": {
+                "building": "yes",
+                "name": "Museo y Archivo Histórico Regional",
+                "tourism": "museum"
+            }
+        },
+        {
+            "type": "way",
+            "id": 377512859,
+            "lat": -32.944304,
+            "lon": -60.6510086,
+            "tags": {
+                "addr:city": "Rosario",
+                "addr:country": "AR",
+                "addr:housenumber": "2019",
+                "addr:postcode": "2000",
+                "addr:state": "Santa Fe",
+                "addr:street": "Córdoba",
+                "building": "yes",
+                "contact:email": "museomemoria@rosario.gov.ar",
+                "contact:phone": "+54 341 480-2060; +54 341 480-2062",
+                "contact:website": "http://www.museodelamemoria.gob.ar/",
+                "heritage": "yes",
+                "historic": "heritage",
+                "internet_access": "wlan",
+                "internet_access:description": "Museo de la Memoria",
+                "internet_access:fee": "no",
+                "internet_access:operator": "Municipalidad de Rosario",
+                "internet_access:source": "http://datos.rosario.gob.ar/dataset/zonas-wifi",
+                "internet_access:ssid": "MR_Gratuita",
+                "name": "Museo de la Memoria",
+                "official_name": "Museo de la Memoria \"Ex Comando del II Cuerpo de Ejército\"",
+                "operator:type": "public",
+                "source": "http://datos.rosario.gob.ar/",
+                "tourism": "museum",
+                "wikidata": "Q16609965",
+                "wikipedia": "es:Museo de la Memoria (Rosario)"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Facultad_de_Derecho_Rosario_1.jpg/1280px-Facultad_de_Derecho_Rosario_1.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 379084732,
+            "lat": 35.673006,
+            "lon": -105.9369431,
+            "tags": {
+                "addr:city": "Santa Fe",
+                "addr:housenumber": "1050",
+                "addr:postcode": "87505",
+                "addr:state": "NM",
+                "addr:street": "Old Pecos Trail",
+                "building": "yes",
+                "name": "Santa Fe Children's Museum",
+                "tourism": "museum",
+                "website": "https://santafechildrensmuseum.org/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Gustave_Baumann_House%2C_Santa_Fe_NM.jpg/1280px-Gustave_Baumann_House%2C_Santa_Fe_NM.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 390157667,
+            "lat": -31.7270357,
+            "lon": -61.0934658,
+            "tags": {
+                "addr:city": "San Carlos Centro",
+                "addr:housenumber": "550",
+                "addr:postcode": "3013",
+                "addr:street": "San Martín",
+                "building": "civic",
+                "name": "Museo de la Colonia",
+                "tourism": "museum"
+            }
+        },
+        {
+            "type": "way",
+            "id": 447568958,
+            "lat": -31.9043926,
+            "lon": -61.2737154,
+            "tags": {
+                "building": "yes",
+                "museum": "agriculture",
+                "name": "Museo Bressi de Tractores Antiguos",
+                "tourism": "museum"
+            }
+        },
+        {
+            "type": "way",
+            "id": 457821444,
+            "lat": 35.6882839,
+            "lon": -105.9380165,
+            "tags": {
+                "addr:city": "Santa Fe",
+                "addr:housenumber": "113",
+                "addr:postcode": "87501",
+                "addr:state": "NM",
+                "addr:street": "Lincoln Avenue",
+                "building": "yes",
+                "building:levels": "4",
+                "check_date:opening_hours": "2023-07-24",
+                "fee": "yes",
+                "fee:conditional": "no @ (age < 17)",
+                "museum": "history",
+                "name": "New Mexico History Museum",
+                "opening_hours": "May-Oct 10:00-17:00; May-Oct Fr 10:00-19:00; Nov-Apr Tu-Su 10:00-17:00, Fr[1] 10:00-19:00",
+                "tourism": "museum",
+                "website": "https://www.nmhistorymuseum.org/",
+                "wikidata": "Q43079348"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Officer%27s_Residence.JPG/1280px-Officer%27s_Residence.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 459457095,
+            "lat": -31.6476879,
+            "lon": -60.7017973,
+            "tags": {
+                "amenity": "reception_desk",
+                "building": "yes",
+                "name": "Administración del Ente Portuario",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Gran_Premio_de_Santa_Fe_%28Argentina%29_street_circuit_track_map_2008.svg/1280px-Gran_Premio_de_Santa_Fe_%28Argentina%29_street_circuit_track_map_2008.svg.png",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 461696666,
+            "lat": 35.6891728,
+            "lon": -105.9411729,
+            "tags": {
+                "addr:city": "Santa Fe",
+                "addr:housenumber": "217",
+                "addr:postcode": "87501",
+                "addr:state": "NM",
+                "addr:street": "Johnson Street",
+                "building": "yes",
+                "museum": "art",
+                "name": "Georgia O'Keeffe Museum",
+                "opening_hours": "10:00-17:00 daily",
+                "tourism": "museum",
+                "website": "https://www.okeeffemuseum.org/",
+                "wikidata": "Q1509304",
+                "wikipedia": "en:Georgia O'Keeffe Museum"
+            }
+        },
+        {
+            "type": "way",
+            "id": 461700331,
+            "lat": 35.6870556,
+            "lon": -105.9370792,
+            "tags": {
+                "addr:city": "Santa Fe",
+                "addr:housenumber": "108",
+                "addr:postcode": "87501",
+                "addr:state": "NM",
+                "addr:street": "Cathedral Place",
+                "architect": "James A. Wetmore",
+                "building": "yes",
+                "museum": "art",
+                "name": "Museum of Contemporary Native Arts",
+                "short_name": "MoCNA",
+                "tourism": "museum",
+                "website": "https://www.iaia.edu/mocna/",
+                "wikidata": "Q72031682",
+                "year_of_construction": "1921"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/IAIA_Museum_%28cropped%29.jpg/1280px-IAIA_Museum_%28cropped%29.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 461729156,
+            "lat": 35.6835805,
+            "lon": -105.9374361,
+            "tags": {
+                "addr:city": "Santa Fe",
+                "addr:housenumber": "215",
+                "addr:state": "NM",
+                "addr:street": "East de Vargas Street",
+                "building": "yes",
+                "historic": "house",
+                "museum": "history",
+                "name": "De Vargas Street House",
+                "start_date": "1646",
+                "tourism": "museum",
+                "website": "http://www.oldesthousesantafe.com/",
+                "wikidata": "Q5244785",
+                "wikipedia": "en:De Vargas Street House"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/San_Miguel_Chapel.jpg/1280px-San_Miguel_Chapel.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 466568457,
+            "lat": -31.4479236,
+            "lon": -60.9166208,
+            "tags": {
+                "name": "Monumento a la Tierra",
+                "name:ru": "Памятник Земле",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "way",
+            "id": 473175969,
+            "lat": 35.6712238,
+            "lon": -105.9527311,
+            "tags": {
+                "addr:city": "Santa Fe",
+                "addr:state": "NM",
+                "ele": "2132",
+                "gnis:feature_id": "933537",
+                "historic": "locomotive",
+                "name": "Atchison Topeka and Santa Fe Railway Depot Locomotive 5030",
+                "ref": "ATSF 5030",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/South_Capitol_Rail_Runner_station%2C_Santa_Fe_NM.jpg/1280px-South_Capitol_Rail_Runner_station%2C_Santa_Fe_NM.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 475539174,
+            "lat": 35.6661221,
+            "lon": -105.9714569,
+            "tags": {
+                "addr:city": "Santa Fe",
+                "addr:housenumber": "1751",
+                "addr:postcode": "87505",
+                "addr:state": "NM",
+                "addr:street": "Cerrillos Road",
+                "addr:unit": "A",
+                "building": "yes",
+                "capacity": "2",
+                "museum": "history",
+                "name": "Santa Fe Fire Department Museum",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Room_40_at_the_El_Rey_Inn%2C_Santa_Fe_NM.jpg/1280px-Room_40_at_the_El_Rey_Inn%2C_Santa_Fe_NM.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 478531462,
+            "lat": 35.6768689,
+            "lon": -105.9576795,
+            "tags": {
+                "addr:city": "Santa Fe",
+                "addr:housenumber": "1060",
+                "addr:state": "NM",
+                "addr:street": "Cerrillos Road",
+                "amenity": "library",
+                "building": "yes",
+                "gnis:feature_id": "929421",
+                "image": "https://facebook.com/574457649288143",
+                "name": "New Mexico School for the Deaf Library",
+                "name_1": "Kenneth E. Brasel Centennial Museum",
+                "operator": "NMSD",
+                "operator:type": "school",
+                "phone": "+1-505-476-6300",
+                "tourism": "museum",
+                "website": "https://nmsd.k12.nm.us/academic_programs/library___media"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/New_Mexico_School_for_the_Deaf_School_Building_Number_2_%28Dillon_Hall%29_No_2.jpg/1280px-New_Mexico_School_for_the_Deaf_School_Building_Number_2_%28Dillon_Hall%29_No_2.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 486989918,
+            "lat": -31.6583044,
+            "lon": -60.7096422,
+            "tags": {
+                "addr:city": "Santa Fe",
+                "addr:country": "AR",
+                "addr:housenumber": "1490",
+                "addr:state": "Santa Fe",
+                "addr:street": "San Martín",
+                "building": "yes",
+                "fee": "no",
+                "name": "Museo Histórico Provincial Brigadier Estanislao López",
+                "opening_hours": "Tu-Fr 08:00-19:00; Sa-Su 16:00-19:00",
+                "phone": "+54 342 457-352",
+                "tourism": "museum",
+                "website": "http://www.museobrigadierlopez.gob.ar/",
+                "wikidata": "Q84529476",
+                "wikipedia": "es:Museo Histórico Provincial Brig. Gral. Estanislao López"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Catedral_metropolitana_santaf.JPG/1280px-Catedral_metropolitana_santaf.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 496330432,
+            "lat": -32.9580112,
+            "lon": -60.6592493,
+            "tags": {
+                "building": "yes",
+                "description": "Instalación escenográfica que recrea un taller florentino donde se exponen las investigaciones de Da Vinci, uno de los representantes universales de la cultura del Renacimiento.",
+                "name": "Leonardo, El Inventor",
+                "tourism": "attraction",
+                "wheelchair": "limited"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Parque_de_la_Independencia.svg/1280px-Parque_de_la_Independencia.svg.png",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 496330434,
+            "lat": -32.957293,
+            "lon": -60.660559,
+            "tags": {
+                "name": "La Máquina de Volar",
+                "tourism": "attraction",
+                "wheelchair": "no"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Museo_Historico_Provincial_Dr._Julio_Marc.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 497890731,
+            "lat": -32.9252674,
+            "lon": -60.6614774,
+            "tags": {
+                "colour": "white",
+                "description": "Monumento representando un barco de papel",
+                "historic": "monument",
+                "material": "metal",
+                "name": "Barquito de Papel",
+                "source:name": "http://www.impulsonegocios.com/contenidos/2015/06/13/Editorial_36161.php",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Dolfines_Guaran%C3%AD_-_Koluso.jpg/1280px-Dolfines_Guaran%C3%AD_-_Koluso.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 509033219,
+            "lat": -32.9475949,
+            "lon": -60.6309198,
+            "tags": {
+                "check_date": "2026-04-11",
+                "fee": "no",
+                "museum": "history",
+                "name": "Galería de Honor de las Banderas de América",
+                "operator:type": "public",
+                "tourism": "museum",
+                "wheelchair": "limited",
+                "wikimedia_commons": "File:Bandera mia.jpg"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Palacio_Vassallo_3.jpg/1280px-Palacio_Vassallo_3.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 511137517,
+            "lat": -32.9559669,
+            "lon": -60.6568523,
+            "tags": {
+                "alt_name": "Calendario Floral",
+                "amenity": "clock",
+                "barometer": "no",
+                "date": "yes",
+                "direction": "NE",
+                "display": "analog",
+                "display:analog": "yes",
+                "faces": "1",
+                "hygrometer": "no",
+                "name": "El Calendario",
+                "opening_hours": "24/7",
+                "support": "ground",
+                "thermometer": "no",
+                "tourism": "attraction",
+                "visibility": "street",
+                "wheelchair": "yes"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b7/MuseoCastagnino.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 544399018,
+            "lat": -31.4475438,
+            "lon": -60.917488,
+            "tags": {
+                "addr:city": "Esperanza",
+                "addr:housenumber": "241",
+                "addr:postcode": "3080",
+                "addr:street": "Maestro Gregorio Donnet",
+                "name": "Museo de la Maquina Agricola",
+                "tourism": "museum",
+                "wikidata": "Q84531599"
+            }
+        },
+        {
+            "type": "way",
+            "id": 544613560,
+            "lat": -31.4678941,
+            "lon": -60.9379189,
+            "tags": {
+                "addr:city": "Esperanza",
+                "addr:housenumber": "95",
+                "addr:postcode": "3080",
+                "addr:street": "Santa Fe",
+                "alt_name": "Casa de Eva Erni Borla",
+                "building": "yes",
+                "contact:email": "elantigalmuseo@gmail.com",
+                "contact:phone": "+54 03496 42 0364",
+                "description": "Un lugar donde se puede apreciar la simpleza y calidez del estilo de vida que llevó Eva Erni de Borla. (1919-2012) Casa construida en barro por la artista y su marido Armando Borla en la década del 60. El paseo consiste en un recorrido guiado por la casa",
+                "name": "Museo el Antigal (Casa Erni Borla)",
+                "opening_hours": "Tu-Fr 09:00-12:00,14:00-18:00; Sa,Su 14:00-17:30",
+                "short_name": "Casa Erni Borla",
+                "tourism": "museum"
+            }
+        },
+        {
+            "type": "way",
+            "id": 544613592,
+            "lat": -31.4478519,
+            "lon": -60.9216658,
+            "tags": {
+                "addr:city": "Esperanza",
+                "addr:housenumber": "2401",
+                "addr:postcode": "3080",
+                "addr:street": "1 de Mayo",
+                "name": "Paseo de los Artesanos",
+                "tourism": "museum"
+            }
+        },
+        {
+            "type": "way",
+            "id": 561642338,
+            "lat": -32.9764453,
+            "lon": -60.7254685,
+            "tags": {
+                "addr:housenumber": "8100",
+                "addr:postcode": "S2010",
+                "addr:street": "Avenida Presidente Perón",
+                "contact:facebook": "LaGranjaDeLaInfancia",
+                "fee": "yes",
+                "landuse": "grass",
+                "name": "La Granja de la Infancia",
+                "network": "Tríptico de la Infancia",
+                "opening_hours": "Tu-Fr 09:00-17:00; Sa,Su,PH 10:00-18:00",
+                "operator": "Municipalidad de Rosario",
+                "start_date": "1999",
+                "tourism": "theme_park",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "way",
+            "id": 567580487,
+            "lat": -31.4491927,
+            "lon": -60.9280898,
+            "tags": {
+                "addr:city": "Esperanza",
+                "addr:housenumber": "2101",
+                "addr:postcode": "3080",
+                "addr:street": "Bernardino Rivadavia",
+                "building": "yes",
+                "description": "Colección de obras del artista esperancino Héctor Borla. Situado en la casa de la colonia la más antigua de la ciudad. Sede de la Asociación de Artistas Plásticos Esperancinos.",
+                "historic": "manor",
+                "name": "Museo de Arte Héctor Borla",
+                "opening_hours": "Sa-Su 17:30-20:00",
+                "start_date": "1971",
+                "tourism": "museum"
+            }
+        },
+        {
+            "type": "way",
+            "id": 568605787,
+            "lat": -31.4503254,
+            "lon": -60.9312682,
+            "tags": {
+                "addr:city": "Esperanza",
+                "addr:housenumber": "1524",
+                "addr:postcode": "3080",
+                "addr:street": "Guillermo Lehmann",
+                "building": "yes",
+                "description": "Originado a partir de la colección del colono de origen suizo Luis Grenón. Trastos de la vida cotidiana, herramientas utilizadas en labores rurales de antaño, fotografías, mobiliario de época, entre otras muchas piezas de significativo valor histórico.",
+                "name": "Museo de la Colonización",
+                "opening_hours": "Mo-Fr 09:00-15:00",
+                "phone": "03496 42-0009 ext. 121",
+                "tourism": "museum",
+                "wikidata": "Q84531616"
+            }
+        },
+        {
+            "type": "way",
+            "id": 575997592,
+            "lat": -32.8219674,
+            "lon": -61.394746,
+            "tags": {
+                "addr:city": "Cañada de Gomez",
+                "addr:country": "AR",
+                "addr:housenumber": "852",
+                "addr:postcode": "2500",
+                "addr:province": "Santa Fe",
+                "addr:street": "Bulevar Balcarce",
+                "building": "yes",
+                "name": "Nuevo Museo Histórico",
+                "phone": "+54 3471 42 2132",
+                "tourism": "museum"
+            }
+        },
+        {
+            "type": "way",
+            "id": 576863190,
+            "lat": -32.7457091,
+            "lon": -60.7330597,
+            "tags": {
+                "alt_name": "Museo de Arboles Históricos",
+                "name": "Complejo Museológico Pino de San Lorenzo",
+                "source": "http://sanlorenzo.gob.ar/complejo-museologico/",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Convento_de_San_Carlos%2C_San_Lorenzo_1.jpg/1280px-Convento_de_San_Carlos%2C_San_Lorenzo_1.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 591434265,
+            "lat": -32.9567925,
+            "lon": -60.6592419,
+            "tags": {
+                "description": "Barcos del siglo XVI convertidos en grandes trepadores",
+                "material": "rope",
+                "name": "La Máquina de Trepar",
+                "playground": "climbingframe",
+                "playground:theme": "ship",
+                "tourism": "attraction",
+                "wheelchair": "no"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Museo_Historico_Provincial_Dr._Julio_Marc.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 602274644,
+            "lat": 37.1901352,
+            "lon": -3.716683,
+            "tags": {
+                "building": "public",
+                "building:levels": "3",
+                "historic": "city_gate",
+                "historic:civilization": "middle-ages",
+                "layer": "1",
+                "name": "Puerta de Granada",
+                "tourism": "attraction",
+                "wikidata": "Q43081626"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a1/LocationSanta_Fe.png",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 629021526,
+            "lat": -31.6383423,
+            "lon": -60.6886757,
+            "tags": {
+                "addr:city": "Santa Fe",
+                "addr:country": "AR",
+                "addr:housenumber": "1202",
+                "addr:postcode": "S3000",
+                "addr:state": "Santa Fe",
+                "addr:street": "Bulevar Gálvez",
+                "name": "La casa de la cultura",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Santafe_station_facade.jpg/1280px-Santafe_station_facade.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 646758511,
+            "lat": 35.6824834,
+            "lon": -105.9497099,
+            "tags": {
+                "addr:city": "Santa Fe",
+                "addr:country": "US",
+                "addr:housenumber": "545",
+                "addr:postcode": "87505",
+                "addr:state": "NM",
+                "addr:street": "Camino de la Familia",
+                "building:part": "yes",
+                "fee": "no",
+                "name": "El Museo Cultural",
+                "opening_hours:url": "https://www.elmuseocultural.org/visit",
+                "service_animals": "yes",
+                "tourism": "museum",
+                "website": "https://www.elmuseocultural.org/",
+                "wheelchair": "yes"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Santa_Fe_Railyard_%287729689888%29.jpg/1280px-Santa_Fe_Railyard_%287729689888%29.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 652526957,
+            "lat": -31.6691849,
+            "lon": -60.7170742,
+            "tags": {
+                "addr:city": "Santa Fe",
+                "addr:country": "AR",
+                "addr:province": "Santa Fe",
+                "addr:state": "Santa Fe",
+                "addr:street": "Calle 1º de Mayo y Av. Circunvalación",
+                "building": "yes",
+                "description": "El Museo promueve la cultura democrática, los derechos humanos, los valores constitucionales y los derechos culturales.",
+                "museum": "history",
+                "museum_type": "departamental",
+                "name": "Museo de la Constitución Nacional",
+                "opening_hours": "Tu-Fr 08:30-18:30; Sa-Su 13:00-18:30",
+                "source": "http://santafeciudad.gov.ar/blogs/ciudad-resiliente/se-inauguro-el-museo-de-la-constitucion-nacional/",
+                "start_date": "2018-12-10",
+                "tourism": "museum",
+                "wikidata": "Q65467649"
+            }
+        },
+        {
+            "type": "way",
+            "id": 689336911,
+            "lat": -33.7478498,
+            "lon": -61.9678373,
+            "tags": {
+                "building": "yes",
+                "check_date": "2024-11-23",
+                "name": "Casa histórica Cayetano Silva",
+                "note": "Museo Regional, Archivo Histórico.",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Venado_Tuerto_Panoramica_1.jpg/1280px-Venado_Tuerto_Panoramica_1.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 690595200,
+            "lat": 35.6662466,
+            "lon": -105.9918299,
+            "tags": {
+                "building": "yes",
+                "building:levels": "2",
+                "information": "office",
+                "name": "Castle House",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "way",
+            "id": 701411051,
+            "lat": -33.7291271,
+            "lon": -62.0015959,
+            "tags": {
+                "building": "yes",
+                "name": "Museo del Automóvil Venado Tuerto",
+                "tourism": "museum"
+            }
+        },
+        {
+            "type": "way",
+            "id": 705607654,
+            "lat": 35.6406791,
+            "lon": -105.9985578,
+            "tags": {
+                "addr:city": "Santa Fe",
+                "addr:housenumber": "3237",
+                "addr:postcode": "87507",
+                "addr:state": "NM",
+                "addr:street": "Rodeo Road",
+                "landuse": "recreation_ground",
+                "name": "Santa Fe Rodeo Grounds",
+                "operator": "Rodeo de Santa Fe",
+                "operator:wikidata": "Q132369171",
+                "sport": "equestrian;rodeo;horse_riding",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "way",
+            "id": 726056078,
+            "lat": 35.6660409,
+            "lon": -105.9240542,
+            "tags": {
+                "name": "Museum of Spanish Colonial Art",
+                "operator": "Spanish Colonial Art Society",
+                "tourism": "museum",
+                "website": "https://spanishcolonial.org/museum/",
+                "wikidata": "Q71856331"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/35/NPS_SWOffice2.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 726062673,
+            "lat": 35.6629843,
+            "lon": -105.9268333,
+            "tags": {
+                "check_date:opening_hours": "2023-07-24",
+                "ele": "2183",
+                "fee": "yes",
+                "fee:conditional": "no @ (age < 17); no @ (Native Americans)",
+                "gnis:feature_id": "918266",
+                "name": "Wheelwright Museum of the American Indian",
+                "opening_hours": "Tu-Sa 10:00-17:00; Jan 01 off; Nov Th[4] off; Dec 25 off",
+                "tourism": "museum",
+                "website": "https://wheelwright.org/",
+                "wheelchair": "yes",
+                "wikidata": "Q14706129"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Drumming_Up_The_Mountain_Spirits_%285299069620%29.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 729362275,
+            "lat": 35.6885841,
+            "lon": -105.9345904,
+            "tags": {
+                "landuse": "commercial",
+                "name": "Aaron Payne Fine Art",
+                "tourism": "museum"
+            }
+        },
+        {
+            "type": "way",
+            "id": 729362277,
+            "lat": 35.6884828,
+            "lon": -105.9342267,
+            "tags": {
+                "landuse": "commercial",
+                "name": "Verve Abode",
+                "tourism": "museum"
+            }
+        },
+        {
+            "type": "way",
+            "id": 729397714,
+            "lat": 35.6830341,
+            "lon": -105.9320436,
+            "tags": {
+                "addr:city": "Santa Fe",
+                "addr:housenumber": "415",
+                "addr:postcode": "87501",
+                "addr:state": "NM",
+                "addr:street": "East Canyon Road",
+                "landuse": "commercial",
+                "name": "Carole LaRoche",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Delgado_Bridge.jpg/1280px-Delgado_Bridge.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 762242467,
+            "lat": 8.5254858,
+            "lon": -81.0801664,
+            "tags": {
+                "leisure": "swimming_area",
+                "name": "Las Lajas",
+                "natural": "water",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "way",
+            "id": 772244990,
+            "lat": 8.5303788,
+            "lon": -81.06318,
+            "tags": {
+                "leisure": "garden",
+                "name": "María y Chon Organic Farm",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "way",
+            "id": 805292378,
+            "lat": 35.6846194,
+            "lon": -105.9628065,
+            "tags": {
+                "man_made": "geoglyph",
+                "name": "Aspen",
+                "ref": "Aspen",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "way",
+            "id": 886370974,
+            "lat": -33.0253775,
+            "lon": -60.6218101,
+            "tags": {
+                "building": "yes",
+                "name": "Casa de la cultura",
+                "tourism": "museum"
+            }
+        },
+        {
+            "type": "way",
+            "id": 903969808,
+            "lat": -32.9448639,
+            "lon": -60.6404316,
+            "tags": {
+                "building": "yes",
+                "name": "Asociación Española",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Palacio_Minetti_1.jpg/1280px-Palacio_Minetti_1.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 909057219,
+            "lat": -32.9464743,
+            "lon": -60.6329716,
+            "tags": {
+                "addr:city": "Rosario",
+                "addr:country": "AR",
+                "addr:housenumber": "753",
+                "addr:state": "Santa Fe",
+                "addr:street": "San Lorenzo",
+                "contact:email": "museo@museoestevez.gov.ar",
+                "contact:phone": "+54 341 480-2547",
+                "historic": "heritage",
+                "internet_access": "wlan",
+                "internet_access:description": "Museo Estevez",
+                "internet_access:fee": "no",
+                "internet_access:operator": "Municipalidad de Rosario",
+                "internet_access:source": "http://datos.rosario.gob.ar/dataset/zonas-wifi",
+                "internet_access:ssid": "MR_Gratuita",
+                "museum": "art",
+                "name": "Museo Estevez",
+                "official_name": "Museo de Arte Decorativo Firma y Odilo Estevez",
+                "operator": "Municipalidad de Rosario",
+                "operator:type": "government",
+                "source": "http://datos.rosario.gob.ar/",
+                "tourism": "museum",
+                "wikidata": "Q5452116",
+                "wikipedia": "es:Museo de Arte Decorativo Firma y Odilo Estévez"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Museo_Est%C3%A9vez_patio_2.jpg/1280px-Museo_Est%C3%A9vez_patio_2.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 914029923,
+            "lat": 35.618654,
+            "lon": -106.0815565,
+            "tags": {
+                "historic": "aircraft",
+                "name": "F-111 Fighter Jet",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "way",
+            "id": 1015917340,
+            "lat": -34.2609834,
+            "lon": -62.7114261,
+            "tags": {
+                "description": "Maquina en conmemoración del arribo del primer tren a la ciudad el 08-10-1886",
+                "historic": "locomotive",
+                "locomotive:type": "steam",
+                "name": "Locomotora a vapor",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "way",
+            "id": 1065383285,
+            "lat": -32.7112513,
+            "lon": -60.7728246,
+            "tags": {
+                "attraction": "carousel",
+                "capacity": "175",
+                "description": "3 pisos con 104 caballos, 9 carrozas y 6 góndolas tapizadas, entre otras atracciones.",
+                "fee": "yes",
+                "height": "14.5",
+                "name": "Carrusel Titán Deluxe",
+                "opening_hours": "Mo,We,Fr-Su 17:00-24:00",
+                "operator": "Felimana",
+                "operator:type": "private",
+                "payment:contactless": "yes",
+                "reservation": "yes",
+                "source:url": "https://www.mpgsm.gob.ar/un-sueno-concretado-puerto-invita-a-un-mundo-de-maravillas-con-la-inauguracion-del-puerto-de-las-infancias-con-el-majestuoso-carrusel-de-tres-pisos-titan/",
+                "tourism": "attraction",
+                "wheelchair": "limited"
+            }
+        },
+        {
+            "type": "way",
+            "id": 1104821652,
+            "lat": -31.6981361,
+            "lon": -60.7504327,
+            "tags": {
+                "building": "yes",
+                "building:levels": "2",
+                "museum": "archaeological",
+                "name": "Museo Arqueológico de Santo Tomé",
+                "tourism": "museum"
+            }
+        },
+        {
+            "type": "way",
+            "id": 1131044213,
+            "lat": -31.6612111,
+            "lon": -60.712418,
+            "tags": {
+                "addr:city": "Santa Fe",
+                "addr:country": "AR",
+                "addr:housenumber": "1199",
+                "addr:postcode": "S3000",
+                "addr:state": "Santa Fe",
+                "addr:street": "San Jerónimo",
+                "building": "yes",
+                "name": "Museo Policial Alguacil Mayor Don Bernabé de Luján",
+                "phone": "+54 0342 450-6700",
+                "tourism": "museum",
+                "wikidata": "Q84529347"
+            }
+        },
+        {
+            "type": "way",
+            "id": 1186522870,
+            "lat": -32.9297005,
+            "lon": -60.6736986,
+            "tags": {
+                "addr:housenumber": "23 bis",
+                "addr:street": "Avenida Alberdi",
+                "building": "museum",
+                "building:levels": "2",
+                "building:material": "brick",
+                "club": "sports",
+                "contact:facebook": "CARCFundacional",
+                "historic": "building",
+                "museum": "history",
+                "museum:type": "sports",
+                "name": "Sede fundacional del Club Atlético Rosario Central",
+                "operator": "Club Atlético Rosario Central",
+                "operator:website": "https://rosariocentral.com/",
+                "roof:levels": "1",
+                "start_date": "1889-12-24",
+                "tourism": "museum",
+                "wikidata": "Q56316571",
+                "wikimedia_commons": "File:Rosario_Central_sede_fundacional.jpeg"
+            }
+        },
+        {
+            "type": "way",
+            "id": 1193682002,
+            "lat": -31.6556025,
+            "lon": -60.7127871,
+            "tags": {
+                "addr:city": "Santa Fe",
+                "addr:country": "AR",
+                "addr:housenumber": "2861",
+                "addr:postcode": "S3000",
+                "addr:state": "Santa Fe",
+                "addr:street": "Monseñor Zazpe",
+                "name": "Casa de los Aldao",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Catedral_de_Santa_Fe_de_noche.jpg/1280px-Catedral_de_Santa_Fe_de_noche.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 1199133864,
+            "lat": -34.2726389,
+            "lon": -62.7160931,
+            "tags": {
+                "addr:city": "Rufino",
+                "addr:country": "AR",
+                "addr:housenumber": "130",
+                "addr:postcode": "6100",
+                "addr:province": "Santa Fe",
+                "addr:street": "Umberto Lorenzetti",
+                "description": "Homenaje a Francisco Rigonat",
+                "fee": "no",
+                "museum": "transport",
+                "name": "Museo del automóvil Francisco Rigonat",
+                "opening_hours": "Mo-Sa 15:00-19:00",
+                "tourism": "museum"
+            }
+        },
+        {
+            "type": "way",
+            "id": 1210886257,
+            "lat": -32.712124,
+            "lon": -60.7729679,
+            "tags": {
+                "addr:housenumber": "4005",
+                "addr:street": "Avenida Córdoba",
+                "barrier": "fence",
+                "fee": "yes",
+                "fence_type": "metal",
+                "name": "Parque Recreativo Puerto de las Infancias",
+                "opening_hours": "Mo,We,Fr-Su 17:00-21:00",
+                "operator": "Municipalidad de Puerto General San Martín",
+                "source:url": "https://www.mpgsm.gob.ar/un-sueno-concretado-puerto-invita-a-un-mundo-de-maravillas-con-la-inauguracion-del-puerto-de-las-infancias-con-el-majestuoso-carrusel-de-tres-pisos-titan/",
+                "tourism": "theme_park",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "way",
+            "id": 1226630779,
+            "lat": -32.9539849,
+            "lon": -60.6424639,
+            "tags": {
+                "building": "yes",
+                "name": "Museo Lisandro de la Torre",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Rosario%2C_1400_Pellegrini_Avenue.jpg/1280px-Rosario%2C_1400_Pellegrini_Avenue.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 1272106860,
+            "lat": 35.6106048,
+            "lon": -106.0317088,
+            "tags": {
+                "addr:city": "Santa Fe",
+                "addr:housenumber": "8380",
+                "addr:postcode": "87507",
+                "addr:state": "NM",
+                "addr:street": "Cerrillos Road",
+                "addr:unit": "108",
+                "building": "no",
+                "charge": "5 USD",
+                "description": "live and fossil arthropods, reptiles, amphibians and fish",
+                "email": "info@harrellhouse.com",
+                "fee": "yes",
+                "museum": "nature",
+                "name": "Santa Fe Reptile and Bug Museum",
+                "old_name": "Harrell House",
+                "opening_hours": "Tu-Fr 12:00-17:00 Sa 10:00-17:00",
+                "operator": "Wade Harrell",
+                "operator:type": "private_non_profit",
+                "payment:american_express": "yes",
+                "payment:cash": "yes",
+                "payment:coins": "yes",
+                "payment:credit_cards": "yes",
+                "payment:debit_cards": "yes",
+                "payment:discover_card": "yes",
+                "payment:mastercard": "yes",
+                "payment:notes": "yes",
+                "payment:visa": "yes",
+                "phone": "+1-505-695-8569",
+                "start_date": "2013",
+                "toilets": "nearby",
+                "tourism": "museum",
+                "was:website": "https://santafereptileandbug.org",
+                "website": "https://bugandreptile.org",
+                "wikidata": "Q125453838"
+            }
+        },
+        {
+            "type": "way",
+            "id": 1389321649,
+            "lat": -33.0714859,
+            "lon": -60.5778215,
+            "tags": {
+                "building": "public",
+                "name": "Centro Cultural Pueblo Esther",
+                "tourism": "museum"
+            }
+        },
+        {
+            "type": "way",
+            "id": 1413969664,
+            "lat": -32.9494367,
+            "lon": -60.6277278,
+            "tags": {
+                "alt_name": "Zvonimirova Ladja",
+                "artist_name": "Dražen Juraga",
+                "building": "ship",
+                "check_date": "2025-07-09",
+                "description": "Construído en el Astillero de Salvador Aliot en 1902, por encargo de Juan Beggino, según reza el cartel en su popa y donado a la colectividad Croata, para hacer un monumento a la Republica de Croacia.",
+                "historic": "ship",
+                "material": "wood",
+                "name": "La Nave de Zvonimir",
+                "ship:type": "tugboat",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/72/Aqualina-Rosario-2010.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 1457020407,
+            "lat": -32.7162642,
+            "lon": -60.7315857,
+            "tags": {
+                "attraction": "carousel",
+                "building": "yes",
+                "name": "Calesita",
+                "tourism": "attraction"
+            }
+        }
+    ]
+}

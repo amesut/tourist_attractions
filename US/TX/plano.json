@@ -1,0 +1,216 @@
+{
+    "city_metadata": {
+        "city_name": "Plano",
+        "state_code": "TX",
+        "state_full": "Texas",
+        "city_summary": "Plano ( PLAY-noh; Spanish for 'flat surface') is a city in the U.S. state of Texas, where it is the largest city in Collin County. A small portion of Plano is located in Denton County. Plano is one of the principal suburbs of the Dallas–Fort Worth metroplex.",
+        "city_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Legacy_West.jpg/1280px-Legacy_West.jpg",
+        "city_lat": 33.05027778,
+        "city_lon": -96.69888889,
+        "source": "wikipedia_verified_engine"
+    },
+    "attractions": [
+        {
+            "type": "node",
+            "id": 368165040,
+            "lat": 33.0191999,
+            "lon": -96.7315817,
+            "tags": {
+                "addr:city": "Plano",
+                "addr:state": "TX",
+                "ele": "195",
+                "gnis:feature_id": "2014280",
+                "name": "Heritage Farmstead Museum",
+                "note": "Entry to the buildings is only available during 1:30 p.m. tours (also at 10:30 a.m. during summer). Fee for guided tour: $ 5.00. The farmstead is listed on the National Register of Historic Places. Gift shop on site.",
+                "opening_hours": "Tu-Su 10:00-16:30",
+                "operator": "The Heritage Farmstead Association",
+                "phone": "+1-972-881-0140",
+                "source": "USGS Geonames",
+                "tourism": "museum",
+                "website": "https://www.heritagefarmstead.org/",
+                "wikidata": "Q5738803",
+                "wikipedia": "en:Heritage Farmstead Museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Ammie_Wilson_House.jpg/1280px-Ammie_Wilson_House.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 4829463037,
+            "lat": 33.0153476,
+            "lon": -96.7444315,
+            "tags": {
+                "name": "Liberty Park Tank",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Sign_in_front_of_the_W._A._Vines_High_School_building_in_Plano%2C_Texas.jpg/1280px-Sign_in_front_of_the_W._A._Vines_High_School_building_in_Plano%2C_Texas.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 9356505038,
+            "lat": 33.0305212,
+            "lon": -96.8339694,
+            "tags": {
+                "addr:city": "Plano",
+                "addr:housenumber": "6121",
+                "addr:postcode": "75093",
+                "addr:state": "TX",
+                "addr:street": "W Park Blvd",
+                "addr:unit": "A100",
+                "name": "Crayola Experience",
+                "tourism": "attraction",
+                "website": "https://www.crayolaexperience.com/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Center_court_at_The_Shops_at_Willow_Bend-January2013.jpg/1280px-Center_court_at_The_Shops_at_Willow_Bend-January2013.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 479589471,
+            "lat": 33.019891,
+            "lon": -96.7017539,
+            "tags": {
+                "addr:city": "Plano",
+                "addr:housenumber": "901",
+                "addr:postcode": "75074",
+                "addr:state": "TX",
+                "addr:street": "East 15th Street",
+                "building": "yes",
+                "name": "Interurban Railway Museum",
+                "opening_hours": "Tu-Th 11:00-16:00; Fr 10:30-16:00; Sa 13:00-17:00",
+                "tourism": "museum",
+                "website": "https://interurbanrailwaymuseum.org/",
+                "wheelchair": "yes",
+                "wikidata": "Q14711250"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Interurban_Railway_Museum_October_2015_06.jpg/1280px-Interurban_Railway_Museum_October_2015_06.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 653621402,
+            "lat": 33.0192715,
+            "lon": -96.7003127,
+            "tags": {
+                "building": "yes",
+                "name": "North Texas Masonic Historical Museum & Library",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Interurban_Railway_Museum_October_2015_06.jpg/1280px-Interurban_Railway_Museum_October_2015_06.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 53838,
+            "lat": 32.77916667,
+            "lon": -96.80888889,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/View_of_Dallas_from_Reunion_Tower_August_2015_05.jpg/1280px-View_of_Dallas_from_Reunion_Tower_August_2015_05.jpg",
+            "description": "Dallas is a city in the U.S. state of Texas.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Dallas",
+                "wikipedia": "en:Dallas",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 6584680,
+            "lat": 33.03083333,
+            "lon": -96.8325,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Center_court_at_The_Shops_at_Willow_Bend-January2013.jpg/1280px-Center_court_at_The_Shops_at_Willow_Bend-January2013.jpg",
+            "description": "The Shops at Willow Bend, informally Willow Bend Mall, is a shopping mall located in Plano, Texas, with 47 stores and two anchor stores.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "The Shops at Willow Bend",
+                "wikipedia": "en:The Shops at Willow Bend",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 29810,
+            "lat": 31,
+            "lon": -99,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Flag_of_Texas.svg/1280px-Flag_of_Texas.svg.png",
+            "description": "Texas (  TEK-səss) is the most populous state in the Southern United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Texas",
+                "wikipedia": "en:Texas",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 143087,
+            "lat": 29.42583333,
+            "lon": -98.48611111,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Alamo_pano.jpg/1280px-Alamo_pano.jpg",
+            "description": "The Alamo is a historic Spanish mission and fortress compound founded in the 18th century by Catholic missionaries in what is now San Antonio, Texas, United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Alamo Mission",
+                "wikipedia": "en:Alamo Mission",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 9509410,
+            "lat": 33.099257,
+            "lon": -96.811476,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Stonebriar-5059.jpg/1280px-Stonebriar-5059.jpg",
+            "description": "Stonebriar Centre, commonly referred to as Stonebriar Mall, is a super-regional mall located at the intersection of Preston Road (SH 289) and the Sam Rayburn Tollway (SH 121) in Frisco, Texas.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Stonebriar Centre",
+                "wikipedia": "en:Stonebriar Centre",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 752329,
+            "lat": 51.24777778,
+            "lon": 22.54472222,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/99/LogoKUL.png",
+            "description": "John Paul II Catholic University of Lublin (Polish: Katolicki Uniwersytet Lubelski Jana Pawła II, Latin: Universitas Catholica Lublinensis Ioannis Pauli II, abbreviation KUL) is a university in Lublin, Poland, established in 1918.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "John Paul II Catholic University of Lublin",
+                "wikipedia": "en:John Paul II Catholic University of Lublin",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 113250,
+            "lat": 51.845,
+            "lon": -4.84222222,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Tenby_Harbour_-_geograph.org.uk_-_3983172.jpg/1280px-Tenby_Harbour_-_geograph.org.uk_-_3983172.jpg",
+            "description": "Pembrokeshire ( PEM-bruuk-sheer, -⁠shər; Welsh: Sir Benfro [siːr ˈbɛnvrɔ]) is a county in the south-west of Wales.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Pembrokeshire",
+                "wikipedia": "en:Pembrokeshire",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 2481394,
+            "lat": 30.36638889,
+            "lon": -107.9475,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Paquime1.jpg/1280px-Paquime1.jpg",
+            "description": "Casas Grandes (Spanish for Great Houses; also known as Paquimé) is a prehistoric archaeological site in the northern Mexican state of Chihuahua.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Casas Grandes",
+                "wikipedia": "en:Casas Grandes",
+                "tourism": "attraction"
+            }
+        }
+    ]
+}

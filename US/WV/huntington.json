@@ -1,0 +1,386 @@
+{
+    "city_metadata": {
+        "city_name": "Huntington",
+        "state_code": "WV",
+        "state_full": "West Virginia",
+        "city_summary": "Huntington is a city in Cabell and Wayne counties in the U.S. state of West Virginia. It is the county seat of Cabell County and sits at the confluence of the Ohio and Guyandotte rivers in the southwestern part of the state. With a population of 46,842 at the 2020 census (estimated at 44,942 in 2024), Huntington is the second-most populous city in West Virginia.",
+        "city_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Huntington%2C_West_Virginia_%282023%29.jpg/1280px-Huntington%2C_West_Virginia_%282023%29.jpg",
+        "city_lat": 38.41925,
+        "city_lon": -82.44515278,
+        "source": "wikipedia_verified_engine"
+    },
+    "attractions": [
+        {
+            "type": "node",
+            "id": 6186670752,
+            "lat": 38.4214259,
+            "lon": -82.4438858,
+            "tags": {
+                "addr:unit": "suite 300",
+                "name": "Touma Museum of Medicine",
+                "operator": "Marshall University",
+                "tourism": "museum"
+            }
+        },
+        {
+            "type": "node",
+            "id": 7124783942,
+            "lat": 38.4256719,
+            "lon": -82.4193185,
+            "tags": {
+                "name": "Chad Pennington Hall of Fame",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9270515082,
+            "lat": 44.3468514,
+            "lon": -72.9963758,
+            "tags": {
+                "name": "Audubon Vermont",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "way",
+            "id": 373404107,
+            "lat": 38.4051694,
+            "lon": -82.4772125,
+            "tags": {
+                "area": "yes",
+                "name": "C&O 1308",
+                "note": "2-6-6-2",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/C%26O_1308.jpg/1280px-C%26O_1308.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 470230334,
+            "lat": 40.8748185,
+            "lon": -73.4217527,
+            "tags": {
+                "addr:city": "Huntington",
+                "addr:housenumber": "2",
+                "addr:postcode": "11743",
+                "addr:state": "NY",
+                "addr:street": "Prime Avenue",
+                "building": "house",
+                "building:levels": "1",
+                "fee": "no",
+                "gnis:feature_id": "2076068",
+                "museum": "art",
+                "name": "Heckscher Museum of Art",
+                "opening_hours": "Th-Su 12:00-17:00",
+                "phone": "+1-631-351-3250",
+                "tourism": "museum",
+                "website": "https://www.heckscher.org/",
+                "wikidata": "Q5696477",
+                "wikipedia": "en:Heckscher Museum of Art"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Heckscher_Museum_of_Art_1.jpg/1280px-Heckscher_Museum_of_Art_1.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 470230959,
+            "lat": 40.8740337,
+            "lon": -73.4130996,
+            "tags": {
+                "addr:city": "Huntington",
+                "addr:housenumber": "425",
+                "addr:postcode": "11743",
+                "addr:state": "NY",
+                "addr:street": "Park Avenue",
+                "building": "yes",
+                "name": "The Arsenal",
+                "nysgissam:nysaddresspointid": "SUFF502616",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Huntington_Green_Historical_Marker_Stone.JPG/1280px-Huntington_Green_Historical_Marker_Stone.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 533535441,
+            "lat": 52.690486,
+            "lon": -6.6490975,
+            "tags": {
+                "building": "yes",
+                "historic": "castle",
+                "name": "Huntington Castle & Gardens",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Huntington_Castle.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 557514162,
+            "lat": 45.9256025,
+            "lon": -60.3005241,
+            "tags": {
+                "addr:city": "Huntington",
+                "addr:housenumber": "4581",
+                "addr:postcode": "B1K 1V5",
+                "addr:province": "Nova Scotia",
+                "addr:street": "Grand Mira North Road",
+                "description": "500 acre park located at the connection of the Mira and Salmon Rivers. Home to over 50 species of Canadian wildlife, hiking trails, and campground.",
+                "email": "tworivers@seasidehighspeed.com",
+                "landuse": "recreation_ground",
+                "leisure": "park",
+                "name": "Two Rivers Wildlife Park",
+                "phone": "+1 902-727-2483",
+                "tourism": "attraction;destination;campground;year_round;admission",
+                "website": "https://www.tworiverspark.ca/"
+            }
+        },
+        {
+            "type": "way",
+            "id": 789724023,
+            "lat": 38.413124,
+            "lon": -82.4807434,
+            "tags": {
+                "building": "yes",
+                "fee": "no",
+                "name": "Taylor Auto Collections",
+                "opening_hours": "Th 17:00-21:00; Sa 10:00-18:00",
+                "shop": "car",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/14th_Street_West_Historic_District.png/1280px-14th_Street_West_Historic_District.png",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 827475964,
+            "lat": 38.401101,
+            "lon": -82.4731477,
+            "tags": {
+                "building": "yes",
+                "name": "Museum of Radio & Technology",
+                "tourism": "museum",
+                "website": "https://www.mrtwv.org/",
+                "wikidata": "Q6941000",
+                "wikipedia": "en:Museum of Radio and Technology"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Museum_of_Radio_and_Technology.png/1280px-Museum_of_Radio_and_Technology.png",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 827612526,
+            "lat": 38.4052086,
+            "lon": -82.4772873,
+            "tags": {
+                "name": "The Collis P. Huntington Railroad Historical Society, Inc. Museum",
+                "tourism": "museum"
+            }
+        },
+        {
+            "type": "way",
+            "id": 1191737622,
+            "lat": 44.3516518,
+            "lon": -73.0065894,
+            "tags": {
+                "addr:city": "Huntington",
+                "addr:housenumber": "900",
+                "addr:postcode": "05462",
+                "addr:state": "VT",
+                "addr:street": "Sherman Hollow Road",
+                "building": "yes",
+                "name": "Birds of Vermont Museum",
+                "opening_hours": "May-Oct We-Su 10:00-16:00; \"by appointment\"",
+                "phone": "+1 802-434-2167",
+                "ref:vcgi:esiteid": "131119",
+                "tourism": "museum",
+                "website": "https://birdsofvermont.org/",
+                "wheelchair": "yes",
+                "wikidata": "Q4916113"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c9/BoVM_entrance.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 1193662087,
+            "lat": 40.8816319,
+            "lon": -85.4908302,
+            "tags": {
+                "building": "yes",
+                "name": "Huntington County Historical Museum",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Huntington_County_Courthouse_in_Huntington_from_the_northwest.jpg/1280px-Huntington_County_Courthouse_in_Huntington_from_the_northwest.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 1204237688,
+            "lat": 31.2831556,
+            "lon": -94.574841,
+            "tags": {
+                "building": "yes",
+                "museum": "history",
+                "name": "Huntington Heritage Museum",
+                "tourism": "museum"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 93552,
+            "lat": 38.41925,
+            "lon": -82.44515278,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Huntington%2C_West_Virginia_%282023%29.jpg/1280px-Huntington%2C_West_Virginia_%282023%29.jpg",
+            "description": "Huntington is a city in Cabell and Wayne counties in the U.S. state of West Virginia.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Huntington, West Virginia",
+                "wikipedia": "en:Huntington, West Virginia",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 23227557,
+            "lat": 38.413216,
+            "lon": -82.478418,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Heiners_Bakery.png/1280px-Heiners_Bakery.png",
+            "description": "Heiner's Bakery (est.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Heiner's Bakery",
+                "wikipedia": "en:Heiner's Bakery",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 13741170,
+            "lat": 38.50638889,
+            "lon": -82.29861111,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Cabell_County_West_Virginia_incorporated_and_unincorporated_areas_Lesage_highlighted.svg/1280px-Cabell_County_West_Virginia_incorporated_and_unincorporated_areas_Lesage_highlighted.svg.png",
+            "description": "Lesage is a census-designated place (CDP) on Ohio River Road in Cabell County, West Virginia, United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Lesage, West Virginia",
+                "wikipedia": "en:Lesage, West Virginia",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 20965592,
+            "lat": 38.40596,
+            "lon": -82.4824,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/St._Clouds_Commons_Playground_2023.jpg/1280px-St._Clouds_Commons_Playground_2023.jpg",
+            "description": "St.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "St. Cloud Commons",
+                "wikipedia": "en:St. Cloud Commons",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 62574619,
+            "lat": 38.4223,
+            "lon": -82.447,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Mountain_Health_Arena_2021.jpg/1280px-Mountain_Health_Arena_2021.jpg",
+            "description": "The Marshall Health Network Arena, originally known as the Huntington Civic Center, later as the Huntington Civic Arena and later, for sponsorship reasons as the Big Sandy Superstore Arena and Mountain Health Arena, is a municipal complex located in the downtown area of Huntington, West Virginia, one block west of Pullman Square.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Marshall Health Network Arena",
+                "wikipedia": "en:Marshall Health Network Arena",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 8033245,
+            "lat": 38.4089,
+            "lon": -82.4398,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Archway_in_Huntington%2C_West_Virginia%27s_Ritter_Park_LCCN2015631843.tif/lossy-page1-1280px-Archway_in_Huntington%2C_West_Virginia%27s_Ritter_Park_LCCN2015631843.tif.jpg",
+            "description": "Ritter Park is a public park in Huntington, West Virginia.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Ritter Park",
+                "wikipedia": "en:Ritter Park",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 247077,
+            "lat": 38.06833333,
+            "lon": -81.08333333,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/New_River_Gorge_Bridge.jpg/1280px-New_River_Gorge_Bridge.jpg",
+            "description": "The New River Gorge Bridge is a steel arch bridge 3,030 feet (924 m) long over the New River Gorge near Fayetteville, West Virginia, in the Appalachian Mountains of the eastern United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "New River Gorge Bridge",
+                "wikipedia": "en:New River Gorge Bridge",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 560365,
+            "lat": 38.42508,
+            "lon": -82.42046,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Marshall_University_logo.svg/1280px-Marshall_University_logo.svg.png",
+            "description": "Marshall University is a public research university in Huntington, West Virginia, United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Marshall University",
+                "wikipedia": "en:Marshall University",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 32905,
+            "lat": 39,
+            "lon": -80,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Flag_of_West_Virginia.svg/1280px-Flag_of_West_Virginia.svg.png",
+            "description": "West Virginia is a mountainous, landlocked state in the Southern and Mid-Atlantic regions of the United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "West Virginia",
+                "wikipedia": "en:West Virginia",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 50248019,
+            "lat": 38.6222,
+            "lon": -84.5923,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/11/Noah%27s_Ark_Encounter.jpg",
+            "description": "Ark Encounter is a Christian theme park that opened in Williamstown, Kentucky, United States, in 2016.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Ark Encounter",
+                "wikipedia": "en:Ark Encounter",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 77817368,
+            "lat": 38.42222222,
+            "lon": -82.44333333,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Pullman_Square_Hot_Dog_Crossing.jpg/1280px-Pullman_Square_Hot_Dog_Crossing.jpg",
+            "description": "The West Virginia Hot Dog Festival is an annual hot dog festival to celebrate the unique variations of local/regional hot dogs, held in Huntington, West Virginia.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "West Virginia Hot Dog Festival",
+                "wikipedia": "en:West Virginia Hot Dog Festival",
+                "tourism": "attraction"
+            }
+        }
+    ]
+}

@@ -1,0 +1,376 @@
+{
+    "city_metadata": {
+        "city_name": "Silver Spring",
+        "state_code": "MD",
+        "state_full": "Maryland",
+        "city_summary": "Silver Spring is a census-designated place (CDP) in southeastern Montgomery County, Maryland, United States, near Washington, D.C. Although officially unincorporated, it is an edge city with a population of 81,015 at the 2020 census, making it the fifth-most-populous place in Maryland after Baltimore, Columbia, Germantown, and Waldorf.\nDowntown Silver Spring, located next to the northern tip of Washington, D.C., is the oldest and most urbanized area of Silver Spring, surrounded by several inner suburban residential neighborhoods inside the Capital Beltway. Many mixed-use developments combining retail, residential, and office space have been built since 2004.",
+        "city_image": "https://upload.wikimedia.org/wikipedia/commons/4/48/Silver_Spring_Montage.jpg",
+        "city_lat": 38.99611111,
+        "city_lon": -77.02805556,
+        "source": "wikipedia_verified_engine"
+    },
+    "attractions": [
+        {
+            "type": "node",
+            "id": 367799278,
+            "lat": 39.0145802,
+            "lon": -77.0560576,
+            "tags": {
+                "ele": "93",
+                "gnis:feature_id": "593198",
+                "historic": "yes",
+                "name": "Forest Glen Historic Railroad Station",
+                "source": "USGS Geonames",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/NPS_Building_.jpg/1280px-NPS_Building_.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 13052544212,
+            "lat": 39.0091452,
+            "lon": -77.0530043,
+            "tags": {
+                "changing_table": "yes",
+                "museum": "history;military;science",
+                "museum_type": "national",
+                "name": "National Museum of Health and Medicine",
+                "toilets": "yes",
+                "toilets:access": "permissive",
+                "tourism": "museum",
+                "wheelchair": "yes"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/NMHM_20111006c.jpg/1280px-NMHM_20111006c.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 217218558,
+            "lat": 39.0087369,
+            "lon": -77.0530886,
+            "tags": {
+                "addr:city": "Silver Spring",
+                "addr:housenumber": "2500",
+                "addr:postcode": "20910",
+                "addr:state": "MD",
+                "addr:street": "Linden Lane",
+                "building": "yes",
+                "name": "National Museum of Health and Medicine",
+                "tourism": "museum",
+                "wikidata": "Q902624",
+                "wikipedia": "en:National Museum of Health and Medicine"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/NMHM_20111006c.jpg/1280px-NMHM_20111006c.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 702718,
+            "lat": 38.9967,
+            "lon": -77.0276,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/American_Film_Institute_Silver_Theater.jpg/1280px-American_Film_Institute_Silver_Theater.jpg",
+            "description": "AFI Silver Theatre and Cultural Center (commonly called as AFI Silver) is a three-screen movie theater complex in downtown Silver Spring, Maryland, north of Washington, D.C. It is operated by the American Film Institute.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "AFI Silver",
+                "wikipedia": "en:AFI Silver",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 2794920,
+            "lat": 39.678573,
+            "lon": -78.807077,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/26/WMSR_Fireball_Logo.webp",
+            "description": "The Western Maryland Scenic Railroad (reporting mark WMSR) is a heritage railroad based in Cumberland, Maryland, that operates passenger excursion trains and occasional freight trains using both steam and diesel locomotives over ex-Western Maryland Railway (WM) tracks between Cumberland and Frostburg.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Western Maryland Scenic Railroad",
+                "wikipedia": "en:Western Maryland Scenic Railroad",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 2914034,
+            "lat": 38.89,
+            "lon": -77.04666667,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Washington%2C_D.C._-_2007_aerial_view.jpg/1280px-Washington%2C_D.C._-_2007_aerial_view.jpg",
+            "description": "The Washington metropolitan area (also referred to as the National Capital Region, Greater Washington, or locally as the DMV, short for District of Columbia, Maryland, and Virginia) is the metropolitan area comprising Washington, D.C., the federal capital of the United States, and its surroundings.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Washington metropolitan area",
+                "wikipedia": "en:Washington metropolitan area",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 203574,
+            "lat": 29.20527778,
+            "lon": 25.51944444,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/%D9%8A%D9%88%D9%85_%D8%AC%D8%AF%D9%8A%D8%AF.jpg/1280px-%D9%8A%D9%88%D9%85_%D8%AC%D8%AF%D9%8A%D8%AF.jpg",
+            "description": "The Siwa Oasis (Arabic: واحة سيوة Wāḥat Sīwah [ˈwæːħet ˈsiːwæ]) is an urban oasis in Egypt.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Siwa Oasis",
+                "wikipedia": "en:Siwa Oasis",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 151252,
+            "lat": 40.65027778,
+            "lon": -111.50138889,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Park_City_overview.jpg",
+            "description": "Park City is a city in Utah, United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Park City, Utah",
+                "wikipedia": "en:Park City, Utah",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 26997138,
+            "lat": 39.28944444,
+            "lon": -76.61527778,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Fell%27s_Point_Aerial_2022.jpg/1280px-Fell%27s_Point_Aerial_2022.jpg",
+            "description": "Baltimore ( BAWL-tim-or, locally:  BAWL-dim-OR or  BAWL-mər), also known as Baltimore City, is the most populous city in the U.S. state of Maryland.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Baltimore",
+                "wikipedia": "en:Baltimore",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 4349459,
+            "lat": 10,
+            "lon": 76.3,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Boathouse_%287063399547%29.jpg/1280px-Boathouse_%287063399547%29.jpg",
+            "description": "Kerala is an Indian state on the Malabar Coast.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Kerala",
+                "wikipedia": "en:Kerala",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 47332321,
+            "lat": 44.41111111,
+            "lon": 8.93277778,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Piazza_de_Ferrari%2C_Genoa.jpg/1280px-Piazza_de_Ferrari%2C_Genoa.jpg",
+            "description": "Genoa ( JEN-oh-ə; Italian: Genova [ˈdʒɛːnova] ; Ligurian: Zêna [ˈzeːna]) is the sixth-largest city in Italy and the capital of the Italian region of Liguria.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Genoa",
+                "wikipedia": "en:Genoa",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 18858,
+            "lat": 39,
+            "lon": -77,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Flag_of_Maryland.svg/1280px-Flag_of_Maryland.svg.png",
+            "description": "Maryland (US:  ) is a state in the Mid-Atlantic and Southeastern regions of the United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Maryland",
+                "wikipedia": "en:Maryland",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 45454,
+            "lat": 38.83,
+            "lon": -76.85,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/GaylordNationalResortFromRiver.jpg/1280px-GaylordNationalResortFromRiver.jpg",
+            "description": "Prince George's County (often shortened to PG County, PG, or PGC) is located in the U.S. state of Maryland bordering the eastern portion of Washington, D.C. As of the 2020 U.S. census, the population was 967,201, making it the second-most populous county in Maryland, behind neighboring Montgomery County.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Prince George's County, Maryland",
+                "wikipedia": "en:Prince George's County, Maryland",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 343869,
+            "lat": 38.867769,
+            "lon": -104.8910877,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Garden_of_the_Gods_%286174065038%29.jpg/1280px-Garden_of_the_Gods_%286174065038%29.jpg",
+            "description": "Garden of the Gods (Arapaho: Ho3o’uu Niitko’usi’i) is a 1,341.3-acre (542.8 ha) public park located in Colorado Springs, Colorado, United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Garden of the Gods",
+                "wikipedia": "en:Garden of the Gods",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 2457530,
+            "lat": 8.08642,
+            "lon": -79.28284,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Gulf-of-Panama.png",
+            "description": "The Gulf of Panama (Spanish: Golfo de Panamá) is a gulf of the Pacific Ocean off the southern coast of Panama, where most of eastern Panama's southern shores adjoin it.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Gulf of Panama",
+                "wikipedia": "en:Gulf of Panama",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 6627599,
+            "lat": 57.91138889,
+            "lon": -133.40222222,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Whaler_off_of_NOAA_Ship_John_N._Cobb-Sawyer_Glacier.jpg/1280px-Whaler_off_of_NOAA_Ship_John_N._Cobb-Sawyer_Glacier.jpg",
+            "description": "Tracy Arm is a fjord in the U.S. state of Alaska near Juneau (outlet at 57° 46' 40\" N  133° 37' 0\" W).",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Tracy Arm",
+                "wikipedia": "en:Tracy Arm",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 22910587,
+            "lat": 38.01,
+            "lon": -80.97055556,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/90/Clifftopstage.jpg",
+            "description": "The Appalachian String Band Music Festival (often referred to simply as \"Clifftop\") is a weeklong gathering of thousands of string band musicians and their friends from across the country and around the world, who each year since 1990 have assembled near the New River Gorge in West Virginia in late July/early August to celebrate the evolving tradition of old-time music and the community of people who keep it thriving by preserving and contributing to that tradition.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Appalachian String Band Music Festival",
+                "wikipedia": "en:Appalachian String Band Music Festival",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 23106276,
+            "lat": 38.98505556,
+            "lon": -77.0925,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Round_House_Theatre_building_Bethesda_MD_2025-04-08_15-47-04.jpg/1280px-Round_House_Theatre_building_Bethesda_MD_2025-04-08_15-47-04.jpg",
+            "description": "Round House Theatre is an American professional theater company located in Bethesda, Maryland.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Round House Theatre",
+                "wikipedia": "en:Round House Theatre",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 49603,
+            "lat": 41.8903,
+            "lon": 12.4922,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Colosseo_2020.jpg/1280px-Colosseo_2020.jpg",
+            "description": "The Colosseum ( KOL-ə-SEE-əm; Italian: Colosseo [kolosˈsɛːo]) is an elliptical amphitheatre in the centre of the city of Rome, Italy, just east of the Roman Forum.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Colosseum",
+                "wikipedia": "en:Colosseum",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 19978,
+            "lat": 47,
+            "lon": -110,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Flag_of_Montana.svg/1280px-Flag_of_Montana.svg.png",
+            "description": "Montana (  mon-TAN-ə) is a landlocked state in the Mountain West subregion of the Western United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Montana",
+                "wikipedia": "en:Montana",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 8755272,
+            "lat": 52,
+            "lon": -113,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Alberta-central_map.png",
+            "description": "Central Alberta is a region located in the Canadian province of Alberta.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Central Alberta",
+                "wikipedia": "en:Central Alberta",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 13774,
+            "lat": 29.75666667,
+            "lon": -95.36527778,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Texas_medical_center.jpg/1280px-Texas_medical_center.jpg",
+            "description": "Houston (  HEW-stən) is the most populous city in the U.S. state of Texas and the Southern United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Houston",
+                "wikipedia": "en:Houston",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 5694919,
+            "lat": 38.996,
+            "lon": -77.177,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/CongressionalClubhouse.jpg/1280px-CongressionalClubhouse.jpg",
+            "description": "Congressional Country Club is a country club and golf course in Bethesda, Maryland, United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Congressional Country Club",
+                "wikipedia": "en:Congressional Country Club",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 88384,
+            "lat": 50.94138889,
+            "lon": 6.95833333,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/K%C3%B6lner_Dom_-_Westfassade_2022_ohne_Ger%C3%BCst-0968_b.jpg/1280px-K%C3%B6lner_Dom_-_Westfassade_2022_ohne_Ger%C3%BCst-0968_b.jpg",
+            "description": "Cologne Cathedral (German: Kölner Dom, pronounced [ˌkœlnɐ ˈdoːm] , officially Hohe Domkirche zu Köln, English: High Cathedral Church at Cologne) is a Catholic cathedral in Cologne, North Rhine-Westphalia.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Cologne Cathedral",
+                "wikipedia": "en:Cologne Cathedral",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 2089941,
+            "lat": 38.96611111,
+            "lon": -77.13861111,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/GlenEchoNeonEntrance.JPG/1280px-GlenEchoNeonEntrance.JPG",
+            "description": "Glen Echo Park is an arts and cultural center in Glen Echo, Maryland, a suburb of Washington, D.C. Located about 9 miles (14 km) northwest of the city's downtown area, the park's site was initially developed in 1891 as a National Chautauqua Assembly.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Glen Echo Park (Maryland)",
+                "wikipedia": "en:Glen Echo Park (Maryland)",
+                "tourism": "attraction"
+            }
+        }
+    ]
+}

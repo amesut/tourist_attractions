@@ -1,0 +1,322 @@
+{
+    "city_metadata": {
+        "city_name": "New York City",
+        "state_code": "NY",
+        "state_full": "New York",
+        "city_summary": "New York, often called New York City (NYC), is the most populous city in the United States. It is located at the southern tip of New York State on New York Harbor, one of the world's largest natural harbors. The city comprises five boroughs, each coextensive with its respective county.",
+        "city_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/View_of_Empire_State_Building_from_Rockefeller_Center_New_York_City_dllu_%28cropped%29.jpg/1280px-View_of_Empire_State_Building_from_Rockefeller_Center_New_York_City_dllu_%28cropped%29.jpg",
+        "city_lat": 40.7128,
+        "city_lon": -74.0061,
+        "source": "wikipedia_verified_engine"
+    },
+    "attractions": [
+        {
+            "type": "wikipedia_node",
+            "id": 645042,
+            "lat": 40.7128,
+            "lon": -74.0061,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/View_of_Empire_State_Building_from_Rockefeller_Center_New_York_City_dllu_%28cropped%29.jpg/1280px-View_of_Empire_State_Building_from_Rockefeller_Center_New_York_City_dllu_%28cropped%29.jpg",
+            "description": "New York, often called New York City (NYC), is the most populous city in the United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "New York City",
+                "wikipedia": "en:New York City",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 8210131,
+            "lat": 43,
+            "lon": -76,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_New_York.svg/1280px-Flag_of_New_York.svg.png",
+            "description": "New York, also called New York State, is a state located in the northeastern United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "New York (state)",
+                "wikipedia": "en:New York (state)",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 3653694,
+            "lat": 40.574292,
+            "lon": -73.975116,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Coney_Island_Brooklyn_Sep_2019_38.jpg/1280px-Coney_Island_Brooklyn_Sep_2019_38.jpg",
+            "description": "The New York Aquarium is the oldest continually operating aquarium in the United States, located on the Riegelmann Boardwalk in Coney Island, Brooklyn, New York City.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "New York Aquarium",
+                "wikipedia": "en:New York Aquarium",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 56387336,
+            "lat": 41.37805556,
+            "lon": -74.31333333,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/LEGOLAND_New_York.jpg/1280px-LEGOLAND_New_York.jpg",
+            "description": "Legoland New York Resort is a theme park in Goshen, New York, owned by Merlin Entertainments.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Legoland New York",
+                "wikipedia": "en:Legoland New York",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 45470,
+            "lat": 40.7127,
+            "lon": -74.0059,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/View_of_Empire_State_Building_from_Rockefeller_Center_New_York_City_dllu_%28cropped%29.jpg/1280px-View_of_Empire_State_Building_from_Rockefeller_Center_New_York_City_dllu_%28cropped%29.jpg",
+            "description": "Manhattan is the most densely populated and geographically smallest of the five boroughs of New York City.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Manhattan",
+                "wikipedia": "en:Manhattan",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 37536,
+            "lat": 40.78222222,
+            "lon": -73.96527778,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Global_Citizen_Festival_Central_Park_New_York_City_from_NYonAir_%2815351915006%29.jpg/1280px-Global_Citizen_Festival_Central_Park_New_York_City_from_NYonAir_%2815351915006%29.jpg",
+            "description": "Central Park is an urban park between the Upper West Side and Upper East Side neighborhoods of Manhattan in New York City, and the first landscaped park in the United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Central Park",
+                "wikipedia": "en:Central Park",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 126820,
+            "lat": 43.1,
+            "lon": -79.01666667,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Niagara_Falls_001.JPG/1280px-Niagara_Falls_001.JPG",
+            "description": "Niagara Falls is a city in Niagara County, New York, United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Niagara Falls, New York",
+                "wikipedia": "en:Niagara Falls, New York",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 45579,
+            "lat": 40.71361111,
+            "lon": -73.82805556,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Flushing_Meadows_May_2024_64.jpg/1280px-Flushing_Meadows_May_2024_64.jpg",
+            "description": "Queens is the largest by area of the five boroughs of New York City, coextensive with Queens County, in the U.S. state of New York.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Queens",
+                "wikipedia": "en:Queens",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 447990,
+            "lat": 43,
+            "lon": -76,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/af/4thlakesunrise.jpg",
+            "description": "Upstate New York is a geographic region of New York State that lies north and northwest of the New York City metropolitan area of downstate New York.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Upstate New York",
+                "wikipedia": "en:Upstate New York",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 1597889,
+            "lat": 40.8423,
+            "lon": -73.9302,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Hi_Bridge_%26_tower_from_Wash_Br_ramp_in_Bronx_jeh.jpg/1280px-Hi_Bridge_%26_tower_from_Wash_Br_ramp_in_Bronx_jeh.jpg",
+            "description": "The High Bridge (originally the Aqueduct Bridge) is a steel arch bridge connecting Manhattan and the Bronx in New York City, New York, United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "High Bridge (New York City)",
+                "wikipedia": "en:High Bridge (New York City)",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 259905,
+            "lat": 43.16972222,
+            "lon": -78.69111111,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Erie_Canal_and_Flight_of_Five_Locks_from_Canal_Street%2C_Lockport%2C_New_York_-_20210531.jpg/1280px-Erie_Canal_and_Flight_of_Five_Locks_from_Canal_Street%2C_Lockport%2C_New_York_-_20210531.jpg",
+            "description": "Lockport is both a city and the town that surrounds it in Niagara County, New York, United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Lockport, New York",
+                "wikipedia": "en:Lockport, New York",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 126365,
+            "lat": 41.50416667,
+            "lon": -73.96555556,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/05/Beaconpic.jpg",
+            "description": "Beacon is a city located on the Hudson River in Dutchess County, New York, United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Beacon, New York",
+                "wikipedia": "en:Beacon, New York",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 259851,
+            "lat": 43.97555556,
+            "lon": -75.90638889,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Public_Square%2C_Watertown%2C_New_York.jpg/1280px-Public_Square%2C_Watertown%2C_New_York.jpg",
+            "description": "Watertown is a city in and the county seat of Jefferson County, New York, United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Watertown, New York",
+                "wikipedia": "en:Watertown, New York",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 699790,
+            "lat": 36.102,
+            "lon": -115.1746,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/2019.10.11_Las_Vegas_-_48955419271.jpg/1280px-2019.10.11_Las_Vegas_-_48955419271.jpg",
+            "description": "New York-New York Hotel and Casino is a casino hotel on the Las Vegas Strip in Paradise, Nevada, United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "New York-New York Hotel and Casino",
+                "wikipedia": "en:New York-New York Hotel and Casino",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 127062,
+            "lat": 40.5719,
+            "lon": -74.1469,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Look_out_point_%28cropped%29.jpg/1280px-Look_out_point_%28cropped%29.jpg",
+            "description": "Staten Island  ( STAT-ən) is the southernmost of the five boroughs of New York City, coextensive with Richmond County and situated at the southernmost point of the State of New York.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Staten Island",
+                "wikipedia": "en:Staten Island",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 31389,
+            "lat": 40.7575,
+            "lon": -73.9858,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/New_york_times_square-terabass.jpg/1280px-New_york_times_square-terabass.jpg",
+            "description": "Times Square is a major commercial intersection, tourist destination, entertainment hub, and neighborhood in the Midtown Manhattan section of New York City.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Times Square",
+                "wikipedia": "en:Times Square",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 2261850,
+            "lat": 40.742207,
+            "lon": -73.961302,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Artificial_tree_on_East_River_Wharf.jpg/1280px-Artificial_tree_on_East_River_Wharf.jpg",
+            "description": "Water Taxi Beach was an artificial temporary beach operated from 2005 to 2010 on a wharf on the East River in the Hunters Point section of Long Island City, in the New York City borough of Queens.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Water Taxi Beach",
+                "wikipedia": "en:Water Taxi Beach",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 2808108,
+            "lat": 44.35342,
+            "lon": -74.28885,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Image-Adirondack_Scenic_Railroad_-_Saranac_Lake_Stn_-_Front.jpg/1280px-Image-Adirondack_Scenic_Railroad_-_Saranac_Lake_Stn_-_Front.jpg",
+            "description": "The Adirondack Railroad (formerly the Adirondack Scenic Railroad) (reporting mark ADIX) is a heritage railway serving the Adirondack Park that operates over former New York Central Railroad trackage between Utica and Tupper Lake.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Adirondack Railroad",
+                "wikipedia": "en:Adirondack Railroad",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 369596,
+            "lat": 40.86361111,
+            "lon": -73.87833333,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/8a/The_New_York_Botanical_Garden_Visitor_Center.jpg",
+            "description": "The New York Botanical Garden (NYBG) is a botanical garden at Bronx Park in the Bronx, New York City.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "New York Botanical Garden",
+                "wikipedia": "en:New York Botanical Garden",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 1182319,
+            "lat": 43.08083333,
+            "lon": -79.0675,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Goat_Island%2C_New_York_%282009%29.jpg/1280px-Goat_Island%2C_New_York_%282009%29.jpg",
+            "description": "Goat Island (previously called Iris Island) is a small island in the Niagara River, in the middle of Niagara Falls between the Bridal Veil Falls and the Horseshoe Falls.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Goat Island (New York)",
+                "wikipedia": "en:Goat Island (New York)",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 26149742,
+            "lat": 42.25,
+            "lon": -73.78972222,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Warren_Street_west_view%2C_Hudson%2C_NY.jpg/1280px-Warren_Street_west_view%2C_Hudson%2C_NY.jpg",
+            "description": "Hudson is a city in and the county seat of Columbia County, New York, United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Hudson, New York",
+                "wikipedia": "en:Hudson, New York",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 80981233,
+            "lat": 40.7576,
+            "lon": -73.985,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/RiseNY_venue.jpg/1280px-RiseNY_venue.jpg",
+            "description": "RiseNY is an immersive museum and flying theater attraction located in Times Square, New York City.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "RiseNY",
+                "wikipedia": "en:RiseNY",
+                "tourism": "attraction"
+            }
+        }
+    ]
+}

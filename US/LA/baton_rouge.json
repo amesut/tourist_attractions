@@ -1,0 +1,477 @@
+{
+    "city_metadata": {
+        "city_name": "Baton Rouge",
+        "state_code": "LA",
+        "state_full": "Louisiana",
+        "city_summary": "Baton Rouge (  BAT-ən ROOZH; French: Bâton-Rouge, pronounced [bɑtɔ̃ ʁuʒ] ) is the capital city of the U.S. state of Louisiana. It had a population of 227,470 at the 2020 United States census, making it Louisiana's second-most populous city. It is the seat of Louisiana's most populous parish, East Baton Rouge Parish, and the center of Louisiana's second-largest metropolitan area, Greater Baton Rouge, which had 870,569 residents in 2020.",
+        "city_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Downtown_Baton_Rouge%2C_Louisiana_from_Tiger_Stadium_%28LSU%29.jpg/1280px-Downtown_Baton_Rouge%2C_Louisiana_from_Tiger_Stadium_%28LSU%29.jpg",
+        "city_lat": 30.4475,
+        "city_lon": -91.17861111,
+        "source": "wikipedia_verified_engine"
+    },
+    "attractions": [
+        {
+            "type": "node",
+            "id": 4241352809,
+            "lat": 30.4555158,
+            "lon": -91.1893373,
+            "tags": {
+                "addr:city": "Baton Rouge",
+                "addr:housenumber": "959",
+                "addr:postcode": "70802",
+                "addr:state": "LA",
+                "addr:street": "North 3rd Street",
+                "museum": "history",
+                "name": "Pentagon Barracks Museum",
+                "tourism": "museum",
+                "website": "https://www.nps.gov/nr/travel/louisiana/pen.htm",
+                "wikidata": "Q7164969",
+                "wikipedia": "en:Pentagon Barracks"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Pentagon_Barracks_%28Baton_Rouge%29%2C_2013.jpg/1280px-Pentagon_Barracks_%28Baton_Rouge%29%2C_2013.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 4610681494,
+            "lat": 30.4134234,
+            "lon": -91.1850659,
+            "tags": {
+                "name": "Mike the Tiger Habitat",
+                "tourism": "attraction",
+                "wikidata": "Q16974145",
+                "wikipedia": "en:Mike the Tiger Habitat"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Mike_the_Tiger_Habitat.jpg/1280px-Mike_the_Tiger_Habitat.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 8320360869,
+            "lat": 30.4395179,
+            "lon": -91.196302,
+            "tags": {
+                "name": "Mississippi River Bridge",
+                "name:fr": "Pont de Fleuve Mississippi",
+                "name:frc": "Pont de Fleuve Mississippi",
+                "note": "Also referred to as the \"New Mississippi River River Bridge\"",
+                "operator": "LADOT",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Horace_Wilkinson_Bridge_%28%22New_Bridge%22%29%2C_Baton_Rouge%2C_Louisiana_at_sunset%2C_January_2023.jpg/1280px-Horace_Wilkinson_Bridge_%28%22New_Bridge%22%29%2C_Baton_Rouge%2C_Louisiana_at_sunset%2C_January_2023.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 8648041943,
+            "lat": 30.5310091,
+            "lon": -91.1907976,
+            "tags": {
+                "name": "Southern University Agricultural Research and Extension",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9953402862,
+            "lat": 30.4386104,
+            "lon": -91.1752425,
+            "tags": {
+                "addr:city": "Baton Rouge",
+                "addr:housenumber": "1305",
+                "addr:postcode": "70802",
+                "addr:state": "LA",
+                "addr:street": "Myrtle Street",
+                "email": "lbhhf@yahoo.com",
+                "museum": "history",
+                "name": "Louisiana Black History Hall of Fame",
+                "tourism": "museum",
+                "website": "https://lbhhf.org/"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10938725787,
+            "lat": 30.4476983,
+            "lon": -91.1887878,
+            "tags": {
+                "addr:city": "Baton Rouge",
+                "addr:housenumber": "100",
+                "addr:postcode": "70801",
+                "addr:state": "LA",
+                "addr:street": "Lafayette Street",
+                "fee": "yes",
+                "museum": "art",
+                "name": "LSU Museum of Art",
+                "opening_hours": "Tu-Sa 10:00-17:00; Th,Fr 10:00-20:00; Su 13:00-17:00",
+                "operator": "Louisiana State University",
+                "operator:type": "university",
+                "tourism": "museum",
+                "website": "https://www.lsumoa.org/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/55/Shawcenterbr.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 11069796630,
+            "lat": 30.41441,
+            "lon": -91.1788872,
+            "tags": {
+                "check_date:opening_hours": "2023-07-26",
+                "name": "William A. Brookshire Military Museum",
+                "opening_hours": "Mo-Fr 10:00-15:00",
+                "tourism": "museum",
+                "website": "https://www.lsu.edu/brookshire-museum/index.php"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Louisiana_State_University%27s_Memorial_Tower-2007.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 133888811,
+            "lat": 30.4576561,
+            "lon": -91.18463,
+            "tags": {
+                "addr:city": "Baton Rouge",
+                "addr:housenumber": "900",
+                "addr:state": "LA",
+                "addr:street": "Capitol Lake Dr",
+                "building": "yes",
+                "ele": "16",
+                "fee": "no",
+                "gnis:feature_id": "552815",
+                "museum": "military",
+                "name": "Old Arsenal Powder Magazine",
+                "opening_hours": "Th 09:00-15:00",
+                "source": "USGS Geonames",
+                "tourism": "museum",
+                "website": "https://www.sos.la.gov/HistoricalResources/VisitMuseums/OldArsenalMuseum/Pages/default.aspx"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Louisiana_State_Capitol_Building.jpg/1280px-Louisiana_State_Capitol_Building.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 157935019,
+            "lat": 30.4142998,
+            "lon": -91.1692021,
+            "tags": {
+                "addr:city": "Baton Rouge",
+                "addr:housenumber": "3828",
+                "addr:postcode": "70808",
+                "addr:state": "LA",
+                "addr:street": "West Lakeshore Drive",
+                "building": "yes",
+                "name": "Jack and Priscilla Andonie Museum",
+                "tourism": "museum",
+                "website": "https://calendar.lsu.edu/andonie_museum_411"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Louisiana_State_University_Laboratory_School.jpg/1280px-Louisiana_State_University_Laboratory_School.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 295180563,
+            "lat": 30.4541029,
+            "lon": -91.1897439,
+            "tags": {
+                "addr:housenumber": "702",
+                "addr:street": "North River Road",
+                "building": "yes",
+                "name": "Louisiana State Welcome Center",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/en/f/f0/LSU-Old_State_Field_1922.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 295180928,
+            "lat": 30.4539074,
+            "lon": -91.1864062,
+            "tags": {
+                "addr:city": "Baton Rouge",
+                "addr:housenumber": "660",
+                "addr:postcode": "70802",
+                "addr:state": "LA",
+                "addr:street": "North 4th Street",
+                "alt_name": "Louisiana State Museum",
+                "building": "yes",
+                "name": "Capitol Park Museum",
+                "opening_hours": "TU-Sa 9:00-16:00",
+                "tourism": "museum",
+                "website": "https://www.louisianastatemuseum.org/",
+                "wikidata": "Q6689294"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/BRougeCenter23July08StateMuseumExterior.jpg/1280px-BRougeCenter23July08StateMuseumExterior.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 295245399,
+            "lat": 30.4590005,
+            "lon": -91.1805994,
+            "tags": {
+                "addr:city": "Baton Rouge",
+                "addr:housenumber": "1001",
+                "addr:state": "LA",
+                "addr:street": "Capitol Access Road",
+                "building": "yes",
+                "name": "Governor's Mansion",
+                "tourism": "museum",
+                "website": "http://www.oldgovernorsmansion.org/",
+                "wikidata": "Q6689127",
+                "wikipedia": "en:Louisiana Governor's Mansion"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/LAGovMansion.JPG/1280px-LAGovMansion.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 466795204,
+            "lat": 30.4462143,
+            "lon": -91.1903756,
+            "tags": {
+                "addr:city": "Baton Rouge",
+                "addr:housenumber": "100",
+                "addr:postcode": "70801",
+                "addr:state": "LA",
+                "addr:street": "South River Road",
+                "building": "yes",
+                "name": "Louisiana Art and Science Museum",
+                "opening_hours": "We-Fr 10:00-15:00, Sa 10:00-17:00, Su 13:00-17:00, Mo-Tu off, PH off",
+                "tourism": "museum",
+                "website": "https://www.lasm.org/",
+                "wikidata": "Q8050640",
+                "wikipedia": "en:Baton Rouge station"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Yazoo_and_Mississippi_Valley_Railroad_Company_Depot.jpg/1280px-Yazoo_and_Mississippi_Valley_Railroad_Company_Depot.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 515632945,
+            "lat": 30.4465938,
+            "lon": -91.1890731,
+            "tags": {
+                "addr:city": "Baton Rouge",
+                "addr:housenumber": "100",
+                "addr:postcode": "70801",
+                "addr:state": "LA",
+                "addr:street": "North Boulevard",
+                "building": "yes",
+                "ele": "18",
+                "gnis:feature_id": "552816",
+                "historic": "yes",
+                "name": "Old State Capitol",
+                "opening_hours": "Tu-Fr 10:00-16:00, Sa 9:00-15:00, Su off",
+                "source": "USGS Geonames",
+                "tourism": "museum",
+                "website": "http://www.louisianaoldstatecapitol.org/",
+                "wikidata": "Q7084390",
+                "wikipedia": "en:Old Louisiana State Capitol"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Yazoo_and_Mississippi_Valley_Railroad_Company_Depot.jpg/1280px-Yazoo_and_Mississippi_Valley_Railroad_Company_Depot.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 515632964,
+            "lat": 30.4432992,
+            "lon": -91.1902444,
+            "tags": {
+                "addr:city": "Baton Rouge",
+                "addr:housenumber": "305",
+                "addr:postcode": "70802-6220",
+                "addr:state": "LA",
+                "addr:street": "South River Road",
+                "building": "yes",
+                "fee": "yes",
+                "museum": "military",
+                "name": "USS Kidd Veterans Museum",
+                "opening_hours": "Mo-Su 09:30-15:30",
+                "operator": "Louisiana Veterans Museum Foundation",
+                "operator:type": "public",
+                "phone": "+1-225-342-1942",
+                "tourism": "museum",
+                "website": "https://www.usskidd.com/"
+            }
+        },
+        {
+            "type": "way",
+            "id": 549171720,
+            "lat": 30.4392668,
+            "lon": -91.1855411,
+            "tags": {
+                "addr:housenumber": "538",
+                "addr:street": "South Boulevard",
+                "building": "yes",
+                "museum": "history",
+                "name": "Baton Rouge African American Museum",
+                "opening_hours": "Mo 12:00-16:00; We 12:00-16:00; Fr 12:00-16:00",
+                "phone": "+1 225-343-4431",
+                "tourism": "museum",
+                "website": "https://www.braamuseum.org/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/African_American_Museum%2C_Baton_Rouge.jpg/1280px-African_American_Museum%2C_Baton_Rouge.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 552524233,
+            "lat": 30.4300739,
+            "lon": -91.1698438,
+            "tags": {
+                "addr:city": "Baton Rouge",
+                "addr:housenumber": "1900",
+                "addr:postcode": "70808",
+                "addr:state": "LA",
+                "addr:street": "Dalrymple Drive",
+                "building": "yes",
+                "building_1": "childrens_museum",
+                "name": "Knock Knock Childrens Museum",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/12/City_Park_Golf_Course_%28Baton_Rouge%29_01.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 794507052,
+            "lat": 30.444335,
+            "lon": -91.1914961,
+            "tags": {
+                "addr:city": "Baton Rouge",
+                "addr:housenumber": "305",
+                "addr:postcode": "70802-6220",
+                "addr:state": "LA",
+                "addr:street": "South River Road",
+                "building": "ship",
+                "heritage": "2",
+                "heritage:operator": "nrhp",
+                "heritage:website": "https://www.nps.gov/subjects/nationalregister/index.htm",
+                "historic": "maritime",
+                "museum": "military",
+                "name": "USS Kidd",
+                "nrhp:criteria": "(A), (C)",
+                "nrhp:inscription_date": "1983-08-09",
+                "nrhp:nhl": "yes",
+                "protection_title": "State of Louisiana Naval War Memorial Commission",
+                "ref": "DD-661",
+                "ref:nrhp": "83000502",
+                "ship:type": "destroyer",
+                "source_ref": "https://catalog.archives.gov/id/73972809",
+                "start_date": "1943",
+                "tourism": "attraction",
+                "website": "https://www.usskidd.com/",
+                "wikidata": "Q7870783",
+                "wikipedia": "en:USS Kidd (DD-661)"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/USS_Kidd_%28DD-661%29_underway_c1951.jpeg/1280px-USS_Kidd_%28DD-661%29_underway_c1951.jpeg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 933923286,
+            "lat": 30.5229821,
+            "lon": -91.1980116,
+            "tags": {
+                "building": "university",
+                "height": "13.84",
+                "museum": "art",
+                "name": "Martin L. Harvey Hall",
+                "operator": "Southern University",
+                "operator:type": "university",
+                "tourism": "museum",
+                "website": "https://www.susla.edu/page/university-museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Southern_University_Historic_District.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 1090870558,
+            "lat": 30.4405166,
+            "lon": -91.187901,
+            "tags": {
+                "addr:city": "Baton Rouge",
+                "addr:housenumber": "813",
+                "addr:postcode": "70802",
+                "addr:state": "LA",
+                "addr:street": "Saint Philip Street",
+                "name": "13th Gate Necropolis",
+                "operator": "The 13th Gate",
+                "tourism": "theme_park"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/African_American_Museum%2C_Baton_Rouge.jpg/1280px-African_American_Museum%2C_Baton_Rouge.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 1107281827,
+            "lat": 30.5634971,
+            "lon": -91.161668,
+            "tags": {
+                "addr:city": "Baton Rouge",
+                "addr:housenumber": "3601",
+                "addr:postcode": "70807",
+                "addr:state": "LA",
+                "addr:street": "Thomas Road",
+                "fee": "yes",
+                "name": "Baton Rouge Zoo",
+                "opening_hours": "Mo-Su 09:30-17:00",
+                "tourism": "zoo",
+                "website": "https://www.brzoo.org/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/61/Baton_Rouge_Zoo.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 1154659797,
+            "lat": 30.4270324,
+            "lon": -91.0750239,
+            "tags": {
+                "addr:city": "Baton Rouge",
+                "addr:housenumber": "10111",
+                "addr:postcode": "70816",
+                "addr:state": "LA",
+                "addr:street": "Gwenadelle Drive",
+                "name": "Celebration Station",
+                "opening_hours": "Su 12:00-21:00; We-Th 15:00-21:00; Fr 15:00-22:00; Sa 11:00-22:00",
+                "phone": "+1 225-924-7888",
+                "tourism": "theme_park",
+                "website": "https://www.fivestarparks.com/celebration-station/baton-rouge"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 54633950,
+            "lat": 30.4425,
+            "lon": -91.1895,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Bally%27s_Baton_Rouge_logo.png",
+            "description": "Bally's Baton Rouge, formerly the Belle of Baton Rouge, is a casino hotel in Baton Rouge, Louisiana.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Bally's Baton Rouge",
+                "wikipedia": "en:Bally's Baton Rouge",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 4594331,
+            "lat": 30.4496296,
+            "lon": -91.1678788,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Baton_Rouge_National_Cemetery_%28circa_1899%29.jpg",
+            "description": "Baton Rouge National Cemetery is a United States National Cemetery located in East Baton Rouge Parish, in the city of Baton Rouge, Louisiana.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Baton Rouge National Cemetery",
+                "wikipedia": "en:Baton Rouge National Cemetery",
+                "tourism": "attraction"
+            }
+        }
+    ]
+}

@@ -1,0 +1,282 @@
+{
+    "city_metadata": {
+        "city_name": "Deadwood",
+        "state_code": "SD",
+        "state_full": "South Dakota",
+        "city_summary": "Deadwood (Lakota: Owáyasuta; \"To approve or confirm things\") is a city that serves as the county seat of Lawrence County, South Dakota, United States. It was named by early settlers after the dead trees found in its gulch. The city had its heyday from 1876 to 1879, after gold deposits had been discovered there, leading to the Black Hills Gold Rush.",
+        "city_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Lawrence_County_South_Dakota_Incorporated_and_Unincorporated_areas_Deadwood_Highlighted.svg/1280px-Lawrence_County_South_Dakota_Incorporated_and_Unincorporated_areas_Deadwood_Highlighted.svg.png",
+        "city_lat": 44.38694444,
+        "city_lon": -103.72083333,
+        "source": "wikipedia_verified_engine"
+    },
+    "attractions": [
+        {
+            "type": "node",
+            "id": 357094838,
+            "lat": 44.3769714,
+            "lon": -103.7227111,
+            "tags": {
+                "ele": "1535",
+                "gnis:feature_id": "1262383",
+                "name": "Seth Bullock's Grave",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/50/Mount_Moriah_Cemetery_with_Wild_Bill.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 4357491128,
+            "lat": 44.375718,
+            "lon": -103.729437,
+            "tags": {
+                "addr:city": "Deadwood",
+                "addr:housenumber": "54",
+                "addr:state": "SD",
+                "addr:street": "Sherman Street",
+                "fee": "yes",
+                "museum": "local",
+                "name": "Adams Museum",
+                "opening_hours": "Tu-Sa 10:00-16:00",
+                "operator": "Deadwood History, Inc.",
+                "phone": "+16055781714",
+                "tourism": "museum",
+                "website": "https://www.deadwoodhistory.com/about-us/properties/adams-museum/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/cd/DeadwoodSD_AdamsMuseum.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 4361359123,
+            "lat": 44.3707179,
+            "lon": -103.7427684,
+            "tags": {
+                "addr:city": "Deadwood",
+                "addr:housenumber": "1200",
+                "addr:postcode": "57732",
+                "addr:state": "SD",
+                "addr:street": "Pioneer Way",
+                "name": "Broken Boot Gold Mine",
+                "phone": "+1-605-578-1876",
+                "tourism": "attraction",
+                "website": "https://www.brokenbootgoldmine.com/"
+            }
+        },
+        {
+            "type": "node",
+            "id": 5054780319,
+            "lat": 44.3757838,
+            "lon": -103.7255356,
+            "tags": {
+                "name": "Wild Bill Hickok & Calamity Jane Canary's Graves",
+                "name:en": "Wild Bill Hickok & Calamity Jane Canary's Graves",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/50/Mount_Moriah_Cemetery_with_Wild_Bill.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 814635496,
+            "lat": 44.3857324,
+            "lon": -103.7158132,
+            "tags": {
+                "addr:city": "Deadwood",
+                "addr:housenumber": "18",
+                "addr:state": "SD",
+                "addr:street": "Seventy Six Drive",
+                "building": "yes",
+                "check_date:opening_hours": "2023-07-21",
+                "fee": "yes",
+                "fee:conditional": "no @ (age < 6)",
+                "museum": "history",
+                "name": "Days of '76 Museum",
+                "opening_hours": "Tu-Sa 09:30-17:00; Su 11:00-17:00; May-Sep 09:00-17:00; Oct-Apr Tu-Sa 10:00-16:00; Oct-Apr Su off",
+                "operator": "Deadwood History, Inc.",
+                "phone": "+16057224800",
+                "tourism": "museum",
+                "website": "https://www.deadwoodhistory.com/about-us/properties/days-of-76-museum.html"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Saloon10-Exterior1-0001%400sm.gif",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 817603447,
+            "lat": 44.3722011,
+            "lon": -103.7278185,
+            "tags": {
+                "addr:city": "Deadwood",
+                "addr:housenumber": "150",
+                "addr:postcode": "57732",
+                "addr:state": "SD",
+                "addr:street": "Sherman Street",
+                "air_conditioning": "yes",
+                "building": "yes",
+                "email": "carolyn@deadwoodhistory.com",
+                "museum": "history",
+                "name": "Homestake Adams Research & Cultural Center",
+                "opening_hours": "Mo-Fr 10:00-16:00",
+                "phone": "+1 605-722-4800",
+                "tourism": "museum",
+                "website": "https://www.deadwoodhistory.com",
+                "wheelchair": "yes"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/7c/BellaUnionSaloon.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 817620084,
+            "lat": 44.3721235,
+            "lon": -103.7267416,
+            "tags": {
+                "addr:city": "Deadwood",
+                "addr:housenumber": "22",
+                "addr:postcode": "57732",
+                "addr:state": "SD",
+                "addr:street": "Van Buren Street",
+                "building": "house",
+                "check_date:opening_hours": "2023-07-21",
+                "fee": "yes",
+                "museum": "person",
+                "name": "Adams House Museum",
+                "opening_hours": "Tu-Sa 10:00-16:00",
+                "operator": "Deadwood History, Inc.",
+                "tourism": "museum",
+                "website": "https://www.deadwoodhistory.com/about-us/properties/historic-adams-house/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/7c/BellaUnionSaloon.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 817704556,
+            "lat": 44.3983234,
+            "lon": -103.7141685,
+            "tags": {
+                "addr:city": "Deadwood",
+                "addr:housenumber": "100",
+                "addr:postcode": "57732",
+                "addr:state": "SD",
+                "addr:street": "Tatanka Drive",
+                "building": "yes",
+                "name": "Tatanka Story of Bison",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 134987,
+            "lat": 44.07138889,
+            "lon": -103.22083333,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Rapid_City_Skyline_%282022%29.jpg/1280px-Rapid_City_Skyline_%282022%29.jpg",
+            "description": "Rapid City is a city in and the county seat of Pennington County, South Dakota, United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Rapid City, South Dakota",
+                "wikipedia": "en:Rapid City, South Dakota",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 1163831,
+            "lat": 43.714644,
+            "lon": -98.026019,
+            "image_url": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e5/CornPalace.jpg/1280px-CornPalace.jpg",
+            "description": "The Corn Palace, commonly advertised as The World's Only Corn Palace and the Mitchell Corn Palace, is a multi-purpose arena/facility located in Mitchell, South Dakota, United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Corn Palace",
+                "wikipedia": "en:Corn Palace",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 134799,
+            "lat": 43.76666667,
+            "lon": -103.59888889,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Custer%2C_SD.jpg/1280px-Custer%2C_SD.jpg",
+            "description": "Custer is a city in Custer County, South Dakota, United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Custer, South Dakota",
+                "wikipedia": "en:Custer, South Dakota",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 134983,
+            "lat": 43.93361111,
+            "lon": -103.56944444,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Hill_City%2C_SD.jpg/1280px-Hill_City%2C_SD.jpg",
+            "description": "Hill City is the oldest existing city in Pennington County, South Dakota, United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Hill City, South Dakota",
+                "wikipedia": "en:Hill City, South Dakota",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 19594534,
+            "lat": 43.86584773,
+            "lon": -103.532432,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Needles_Highway_05.jpg/1280px-Needles_Highway_05.jpg",
+            "description": "The Black Hills is an isolated mountain range rising from the Great Plains of North America in western South Dakota and extending into Wyoming, United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Black Hills",
+                "wikipedia": "en:Black Hills",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 26746,
+            "lat": 44,
+            "lon": -100,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_South_Dakota.svg/1280px-Flag_of_South_Dakota.svg.png",
+            "description": "South Dakota ( ; Siouan languages: Dakȟóta itókaga, pronounced [daˈkˣota iˈtokaga]) is a landlocked state in the Upper Midwest, North Central region of the United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "South Dakota",
+                "wikipedia": "en:South Dakota",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 9265016,
+            "lat": 37.465,
+            "lon": -121.97444444,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/1b/California_Locator_Map.PNG",
+            "description": "This is an incomplete list of ghost towns in California.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "List of ghost towns in California",
+                "wikipedia": "en:List of ghost towns in California",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 76314779,
+            "lat": 43.97711111,
+            "lon": -103.29922222,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Bear_Country_USA_sign_2017.jpg/1280px-Bear_Country_USA_sign_2017.jpg",
+            "description": "Bear Country USA is a drive-through wildlife park and zoo in the Black Hills near Rapid City, South Dakota.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Bear Country USA",
+                "wikipedia": "en:Bear Country USA",
+                "tourism": "attraction"
+            }
+        }
+    ]
+}

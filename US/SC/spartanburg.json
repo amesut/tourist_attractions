@@ -1,0 +1,383 @@
+{
+    "city_metadata": {
+        "city_name": "Spartanburg",
+        "state_code": "SC",
+        "state_full": "South Carolina",
+        "city_summary": "Spartanburg is a city in and the county seat of Spartanburg County, South Carolina, United States. The city had a population of 38,732 as of the 2020 census, making it the 11th-most populous city in the state. The Office of Management and Budget (OMB) groups Spartanburg and Union counties together as the Spartanburg, SC Metropolitan Statistical Area.",
+        "city_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Love_Where_You_Live_mural_in_downtown_Spartanburg.jpg/1280px-Love_Where_You_Live_mural_in_downtown_Spartanburg.jpg",
+        "city_lat": 34.94944444,
+        "city_lon": -81.925,
+        "source": "wikipedia_verified_engine"
+    },
+    "attractions": [
+        {
+            "type": "node",
+            "id": 5635166671,
+            "lat": 34.9500703,
+            "lon": -81.933697,
+            "tags": {
+                "addr:city": "Spartanburg",
+                "addr:housenumber": "130",
+                "addr:postcode": "29306",
+                "addr:state": "SC",
+                "addr:street": "Magnolia Street",
+                "name": "Children's Museum of the Upstate - Spartanburg",
+                "tourism": "museum",
+                "website": "https://tcmupstate.org/spartanburg/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Cleveland_Law_Range.jpg/1280px-Cleveland_Law_Range.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 5637891658,
+            "lat": 34.9527294,
+            "lon": -81.9301481,
+            "tags": {
+                "addr:city": "Spartanburg",
+                "addr:housenumber": "200",
+                "addr:postcode": "29306",
+                "addr:state": "SC",
+                "addr:street": "East Saint John Street",
+                "name": "Spartanburg Art Museum",
+                "tourism": "museum",
+                "website": "https://www.spartanburgartmuseum.org/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Montgomery_Building_in_March_2020.jpg/1280px-Montgomery_Building_in_March_2020.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 5637891659,
+            "lat": 34.9530253,
+            "lon": -81.9292952,
+            "tags": {
+                "addr:city": "Spartanburg",
+                "addr:housenumber": "200",
+                "addr:postcode": "29306",
+                "addr:state": "SC",
+                "addr:street": "East Saint John Street",
+                "name": "Spartanburg Science Center",
+                "tourism": "museum",
+                "website": "https://www.spartanburgsciencecenter.org/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Montgomery_Building_in_March_2020.jpg/1280px-Montgomery_Building_in_March_2020.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 363655531,
+            "lat": 34.9535297,
+            "lon": -81.9375326,
+            "tags": {
+                "addr:city": "Spartanburg",
+                "addr:housenumber": "298",
+                "addr:postcode": "29303",
+                "addr:state": "SC",
+                "addr:street": "Magnolia Street",
+                "building": "train_station",
+                "museum": "railway",
+                "name": "Hub City Railroad Museum",
+                "opening_hours": "We,Sa 10:00-14:00",
+                "tourism": "museum",
+                "website": "https://hubcityrrmuseum.org/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/79/Spartanburgstation.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 91859,
+            "lat": 34.93,
+            "lon": -81.99,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/New_Spartanburg_County_Courthouse.jpg/1280px-New_Spartanburg_County_Courthouse.jpg",
+            "description": "Spartanburg County is a county located on the northwestern border of the U.S. state of South Carolina.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Spartanburg County, South Carolina",
+                "wikipedia": "en:Spartanburg County, South Carolina",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 1196677,
+            "lat": 34.71666667,
+            "lon": -82.18333333,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/DowntownGreenvilleSC.jpg/1280px-DowntownGreenvilleSC.jpg",
+            "description": "The Upstate, historically known as the Upcountry, is a region of the U.S. state of South Carolina, comprising the northwesternmost area of the state.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Upstate South Carolina",
+                "wikipedia": "en:Upstate South Carolina",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 134672,
+            "lat": 34.94944444,
+            "lon": -81.925,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Love_Where_You_Live_mural_in_downtown_Spartanburg.jpg/1280px-Love_Where_You_Live_mural_in_downtown_Spartanburg.jpg",
+            "description": "Spartanburg is a city in and the county seat of Spartanburg County, South Carolina, United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Spartanburg, South Carolina",
+                "wikipedia": "en:Spartanburg, South Carolina",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 151037,
+            "lat": 34.91055556,
+            "lon": -82.25833333,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Greer_2.jpg/1280px-Greer_2.jpg",
+            "description": "Greer is a city in Greenville and Spartanburg counties in the U.S. state of South Carolina.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Greer, South Carolina",
+                "wikipedia": "en:Greer, South Carolina",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 134497,
+            "lat": 34.86111111,
+            "lon": -82.41333333,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/2024-4-12-Falls_Park_Waterfall_Greenville_South_Carolina_by_Yousef_AbdulHusain.jpg/1280px-2024-4-12-Falls_Park_Waterfall_Greenville_South_Carolina_by_Yousef_AbdulHusain.jpg",
+            "description": "Greenville ( GREEN-vil; locally  GREEN-vəl) is a city in Greenville County, South Carolina, United States, and its county seat.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Greenville, South Carolina",
+                "wikipedia": "en:Greenville, South Carolina",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 23956501,
+            "lat": 34,
+            "lon": -83,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Raleigh_Skyline.jpg/1280px-Raleigh_Skyline.jpg",
+            "description": "The Piedmont Atlantic megaregion, or Southeast Megalopolis, is a neologism created by the Regional Plan Association for an area of the Southeastern United States that contains parts of the states of Alabama, Georgia, Tennessee, South Carolina, and North Carolina.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Piedmont Atlantic megaregion",
+                "wikipedia": "en:Piedmont Atlantic megaregion",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 91899,
+            "lat": 35.05,
+            "lon": -81.61,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Limestone_College.png/1280px-Limestone_College.png",
+            "description": "Cherokee County is a county in the U.S. state of South Carolina.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Cherokee County, South Carolina",
+                "wikipedia": "en:Cherokee County, South Carolina",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 27956,
+            "lat": 34,
+            "lon": -81,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Flag_of_South_Carolina.svg/1280px-Flag_of_South_Carolina.svg.png",
+            "description": "South Carolina (  KARR-ə-LY-nə) is a state in the Southeastern, South Atlantic and Deep South regions of the United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "South Carolina",
+                "wikipedia": "en:South Carolina",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 91857,
+            "lat": 34.69,
+            "lon": -81.62,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Carnegie_Free_Library%2C_300_East_South_Street%2C_Union_%28Union_County%2C_South_Carolina%29.jpg/1280px-Carnegie_Free_Library%2C_300_East_South_Street%2C_Union_%28Union_County%2C_South_Carolina%29.jpg",
+            "description": "Union County is a county located in the U.S. state of South Carolina.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Union County, South Carolina",
+                "wikipedia": "en:Union County, South Carolina",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 134432,
+            "lat": 35.07361111,
+            "lon": -81.62444444,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Gaffney_HIstorical_District.jpg/1280px-Gaffney_HIstorical_District.jpg",
+            "description": "Gaffney is a city in and the seat of Cherokee County, South Carolina, United States, in the Upstate region of South Carolina.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Gaffney, South Carolina",
+                "wikipedia": "en:Gaffney, South Carolina",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 61024,
+            "lat": 32.81388889,
+            "lon": -79.93194444,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/East_Battery_Street_Charleston_Aug2010.jpg/1280px-East_Battery_Street_Charleston_Aug2010.jpg",
+            "description": "Charleston is the most populous city in the U.S. state of South Carolina.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Charleston, South Carolina",
+                "wikipedia": "en:Charleston, South Carolina",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 151019,
+            "lat": 34.68361111,
+            "lon": -82.81194444,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/48/ClemsonSCM.png",
+            "description": "Clemson ([note a]) is a city in Pickens and Anderson counties in the U.S. state of South Carolina.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Clemson, South Carolina",
+                "wikipedia": "en:Clemson, South Carolina",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 1642132,
+            "lat": 33.68,
+            "lon": -78.88,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/79/Myrtle_Beach%2C_8_a.m..jpg",
+            "description": "The Grand Strand is an arc of beach land on the Atlantic Ocean in South Carolina, United States, extending more than 60 miles (97 km) from Little River to Winyah Bay.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Grand Strand",
+                "wikipedia": "en:Grand Strand",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 57851,
+            "lat": 34.00055556,
+            "lon": -81.03472222,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Fall_skyline_of_Columbia_SC_from_Arsenal_Hill.jpg/1280px-Fall_skyline_of_Columbia_SC_from_Arsenal_Hill.jpg",
+            "description": "Columbia is the capital city of the U.S. state of South Carolina.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Columbia, South Carolina",
+                "wikipedia": "en:Columbia, South Carolina",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 134402,
+            "lat": 32.23055556,
+            "lon": -80.93055556,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Bluffton_Montage_2012.png",
+            "description": "Bluffton is a town in southern Beaufort County, South Carolina, United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Bluffton, South Carolina",
+                "wikipedia": "en:Bluffton, South Carolina",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 134669,
+            "lat": 34.87361111,
+            "lon": -81.96611111,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/8a/SCMap-doton-Roebuck.PNG",
+            "description": "Roebuck is a census-designated place (CDP) in Spartanburg County, South Carolina, United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Roebuck, South Carolina",
+                "wikipedia": "en:Roebuck, South Carolina",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 14599143,
+            "lat": 32.61852778,
+            "lon": -80.78047222,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/90/Prince_William%27s_Parish_Church_%28Ruins%29%2C_Sheldon_vicinity_%28Beaufort_County%2C_South_Carolina%29.jpg",
+            "description": "The Old Sheldon Church Ruins is a historic site located in northern Beaufort County, South Carolina, approximately 17 miles (30 km) north of Beaufort in the Sheldon area.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Old Sheldon Church Ruins",
+                "wikipedia": "en:Old Sheldon Church Ruins",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 134534,
+            "lat": 33.73027778,
+            "lon": -78.86972222,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/29/BroadwayAtTheBeach1.jpg",
+            "description": "Myrtle Beach is a resort city in Horry County, South Carolina, United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Myrtle Beach, South Carolina",
+                "wikipedia": "en:Myrtle Beach, South Carolina",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 134376,
+            "lat": 34.50333333,
+            "lon": -82.64166667,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/57/AndersonSCMon2.png",
+            "description": "Anderson is a city in and the county seat of Anderson County, South Carolina, United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Anderson, South Carolina",
+                "wikipedia": "en:Anderson, South Carolina",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 1641391,
+            "lat": 34.06,
+            "lon": -81.08,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Map_of_the_South_Carolina_Midlands_region.svg/1280px-Map_of_the_South_Carolina_Midlands_region.svg.png",
+            "description": "The Midlands region of South Carolina is the middle area of the state.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Midlands of South Carolina",
+                "wikipedia": "en:Midlands of South Carolina",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 91864,
+            "lat": 34.75,
+            "lon": -83.06,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Oconee_County_Courthouse.jpg/1280px-Oconee_County_Courthouse.jpg",
+            "description": "Oconee County is the westernmost county in the U.S. state of South Carolina.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Oconee County, South Carolina",
+                "wikipedia": "en:Oconee County, South Carolina",
+                "tourism": "attraction"
+            }
+        }
+    ]
+}

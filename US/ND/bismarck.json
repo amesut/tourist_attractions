@@ -1,0 +1,699 @@
+{
+    "city_metadata": {
+        "city_name": "Bismarck",
+        "state_code": "ND",
+        "state_full": "North Dakota",
+        "city_summary": "Bismarck () is the capital city of the U.S. state of North Dakota and the county seat of Burleigh County. It is the state's second-most populous city, after Fargo. The population was 73,622 at the 2020 census, and was estimated at 77,772 in 2024, while its metropolitan population was 133,626.",
+        "city_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/2009-0521-ND-StateCapitol_%28cropped%29.jpg/1280px-2009-0521-ND-StateCapitol_%28cropped%29.jpg",
+        "city_lat": 46.814572,
+        "city_lon": -100.768568,
+        "source": "wikipedia_verified_engine"
+    },
+    "attractions": [
+        {
+            "type": "node",
+            "id": 620068008,
+            "lat": 46.8192459,
+            "lon": -100.7803171,
+            "tags": {
+                "addr:city": "Bismarck",
+                "addr:housenumber": "612",
+                "addr:state": "ND",
+                "addr:street": "East Boulevard Avenue",
+                "alt_name": "Heritage Center",
+                "name": "North Dakota Heritage Center & State Museum",
+                "phone": "+1 701-328-2666",
+                "tourism": "museum",
+                "website": "https://statemuseum.nd.gov/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/35/ND-heritage-center.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 674211614,
+            "lat": 51.5285765,
+            "lon": 7.1102949,
+            "tags": {
+                "name": "Große Festwiese",
+                "tourism": "attraction",
+                "wheelchair": "limited"
+            }
+        },
+        {
+            "type": "node",
+            "id": 4675632274,
+            "lat": 46.818938,
+            "lon": -100.7807186,
+            "tags": {
+                "name": "Archeology & Historic Preservation",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/35/ND-heritage-center.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 23069629,
+            "lat": 51.5444409,
+            "lon": 7.112146,
+            "tags": {
+                "addr:city": "Gelsenkirchen",
+                "addr:country": "DE",
+                "addr:housenumber": "64",
+                "addr:postcode": "45889",
+                "addr:street": "Bleckstraße",
+                "contact:email": "info@zoom-erlebniswelt.de",
+                "contact:fax": "+49 209 9545121",
+                "contact:phone": "+49 209 95450",
+                "contact:website": "http://www.zoom-erlebniswelt.de/",
+                "fee": "yes",
+                "name": "ZOOM Erlebniswelt Gelsenkirchen",
+                "old_name": "Ruhr-Zoo Gelsenkirchen",
+                "opening_hours": "Mar,Oct: 09:00-18:00; Apr-Sep: 09:00-18:30; Nov-Feb: 10:00-17:00",
+                "operator": "Stadtwerke Gelsenkirchen",
+                "start_date": "1949",
+                "toilets:wheelchair": "yes",
+                "tourism": "zoo",
+                "wheelchair": "limited",
+                "wheelchair:access": "yes",
+                "wheelchair:guided_tour": "Nach Vereinbarung",
+                "wheelchair:source": "ruhr2010-barrierefrei.de",
+                "wikidata": "Q136330",
+                "wikipedia": "de:Zoom Erlebniswelt Gelsenkirchen"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Gelsenkirchen_-_Zoom_-_Afrika_-_African_Queen_06_ies.jpg/1280px-Gelsenkirchen_-_Zoom_-_Afrika_-_African_Queen_06_ies.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 126059217,
+            "lat": 51.5465499,
+            "lon": 7.1122138,
+            "tags": {
+                "animal": "Anubispavian",
+                "area": "yes",
+                "attraction": "animal",
+                "name": "Anubispavian",
+                "tourism": "attraction",
+                "zoo": "enclosure"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Gelsenkirchen_-_Zoom_-_Afrika_-_African_Queen_06_ies.jpg/1280px-Gelsenkirchen_-_Zoom_-_Afrika_-_African_Queen_06_ies.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 216516563,
+            "lat": 51.5441243,
+            "lon": 7.1163144,
+            "tags": {
+                "animal": "Seelöwe",
+                "attraction": "animal",
+                "name": "Seelöwenrevier",
+                "natural": "water",
+                "tourism": "attraction",
+                "zoo": "enclosure"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Gelsenkirchen_-_Zoom_-_Afrika_-_African_Queen_06_ies.jpg/1280px-Gelsenkirchen_-_Zoom_-_Afrika_-_African_Queen_06_ies.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 216517856,
+            "lat": 51.5437942,
+            "lon": 7.1160621,
+            "tags": {
+                "animal": "Eisbär",
+                "area": "yes",
+                "attraction": "animal",
+                "name": "Eisbärengehege",
+                "tourism": "attraction",
+                "zoo": "enclosure"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Gelsenkirchen_-_Zoom_-_Afrika_-_African_Queen_06_ies.jpg/1280px-Gelsenkirchen_-_Zoom_-_Afrika_-_African_Queen_06_ies.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 216518319,
+            "lat": 51.5441738,
+            "lon": 7.11567,
+            "tags": {
+                "animal": "Eisbär",
+                "area": "yes",
+                "attraction": "animal",
+                "name": "Eisbärengehege",
+                "tourism": "attraction",
+                "zoo": "enclosure"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Gelsenkirchen_-_Zoom_-_Afrika_-_African_Queen_06_ies.jpg/1280px-Gelsenkirchen_-_Zoom_-_Afrika_-_African_Queen_06_ies.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 216520026,
+            "lat": 51.5434185,
+            "lon": 7.1165162,
+            "tags": {
+                "animal": "Rentier",
+                "area": "yes",
+                "attraction": "animal",
+                "name": "Rentiergehege",
+                "tourism": "attraction",
+                "wheelchair": "no",
+                "zoo": "enclosure"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Gelsenkirchen_-_Zoom_-_Afrika_-_African_Queen_06_ies.jpg/1280px-Gelsenkirchen_-_Zoom_-_Afrika_-_African_Queen_06_ies.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 216520812,
+            "lat": 51.5428812,
+            "lon": 7.1167418,
+            "tags": {
+                "animal": "Braunbär",
+                "area": "yes",
+                "attraction": "animal",
+                "name": "Braunbärgehege",
+                "tourism": "attraction",
+                "wheelchair": "no",
+                "zoo": "enclosure"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Gelsenkirchen_-_Zoom_-_Afrika_-_African_Queen_06_ies.jpg/1280px-Gelsenkirchen_-_Zoom_-_Afrika_-_African_Queen_06_ies.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 216521260,
+            "lat": 51.5432303,
+            "lon": 7.1131768,
+            "tags": {
+                "attraction": "animal",
+                "name": "Biber",
+                "natural": "water",
+                "tourism": "attraction",
+                "zoo": "enclosure"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Gelsenkirchen_-_Zoom_-_Afrika_-_African_Queen_06_ies.jpg/1280px-Gelsenkirchen_-_Zoom_-_Afrika_-_African_Queen_06_ies.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 216522086,
+            "lat": 51.5437533,
+            "lon": 7.1134688,
+            "tags": {
+                "animal": "Timberwolf",
+                "area": "yes",
+                "attraction": "animal",
+                "name": "Timberwolf",
+                "tourism": "attraction",
+                "zoo": "enclosure"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Gelsenkirchen_-_Zoom_-_Afrika_-_African_Queen_06_ies.jpg/1280px-Gelsenkirchen_-_Zoom_-_Afrika_-_African_Queen_06_ies.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 216522799,
+            "lat": 51.5428507,
+            "lon": 7.1120922,
+            "tags": {
+                "animal": "Schneeeule",
+                "attraction": "animal",
+                "building": "yes",
+                "name": "Schneeeule",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Gelsenkirchen_-_Zoom_-_Afrika_-_African_Queen_06_ies.jpg/1280px-Gelsenkirchen_-_Zoom_-_Afrika_-_African_Queen_06_ies.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 216525042,
+            "lat": 51.5456513,
+            "lon": 7.111701,
+            "tags": {
+                "animal": "Grant-Zebra; Rothalsstrauß; Elenantilope; Großer Kudu; Rappenantilope; Springbock; Gänsegeier; Marabu",
+                "attraction": "animal",
+                "name": "Savanne",
+                "tourism": "attraction",
+                "zoo": "enclosure"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Gelsenkirchen_-_Zoom_-_Afrika_-_African_Queen_06_ies.jpg/1280px-Gelsenkirchen_-_Zoom_-_Afrika_-_African_Queen_06_ies.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 216525813,
+            "lat": 51.5463441,
+            "lon": 7.1088265,
+            "tags": {
+                "animal": "Giraffe",
+                "area": "yes",
+                "attraction": "animal",
+                "name": "Giraffengehege",
+                "tourism": "attraction",
+                "zoo": "enclosure"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Gelsenkirchen_-_Zoom_-_Afrika_-_African_Queen_06_ies.jpg/1280px-Gelsenkirchen_-_Zoom_-_Afrika_-_African_Queen_06_ies.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 217582252,
+            "lat": 51.5421863,
+            "lon": 7.1121065,
+            "tags": {
+                "fee": "yes",
+                "leisure": "park",
+                "name": "Streichelzoo",
+                "tourism": "zoo",
+                "zoo": "petting_zoo"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Gelsenkirchen_-_Zoom_-_Afrika_-_African_Queen_06_ies.jpg/1280px-Gelsenkirchen_-_Zoom_-_Afrika_-_African_Queen_06_ies.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 225280161,
+            "lat": 51.5450182,
+            "lon": 7.1081014,
+            "tags": {
+                "animal": "Trampeltiere",
+                "area": "yes",
+                "attraction": "animal",
+                "name": "Trampeltiere",
+                "tourism": "attraction",
+                "wheelchair": "no",
+                "zoo": "enclosure"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Gelsenkirchen_-_Zoom_-_Afrika_-_African_Queen_06_ies.jpg/1280px-Gelsenkirchen_-_Zoom_-_Afrika_-_African_Queen_06_ies.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 225280753,
+            "lat": 51.5447776,
+            "lon": 7.1103737,
+            "tags": {
+                "animal": "Löwe",
+                "area": "yes",
+                "attraction": "animal",
+                "name": "Löwengehege",
+                "tourism": "attraction",
+                "zoo": "enclosure"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Gelsenkirchen_-_Zoom_-_Afrika_-_African_Queen_06_ies.jpg/1280px-Gelsenkirchen_-_Zoom_-_Afrika_-_African_Queen_06_ies.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 225282785,
+            "lat": 51.5449361,
+            "lon": 7.1106323,
+            "tags": {
+                "animal": "Tüpfelhyäne",
+                "area": "yes",
+                "attraction": "animal",
+                "name": "Tüpfelhyäne",
+                "tourism": "attraction",
+                "zoo": "enclosure"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Gelsenkirchen_-_Zoom_-_Afrika_-_African_Queen_06_ies.jpg/1280px-Gelsenkirchen_-_Zoom_-_Afrika_-_African_Queen_06_ies.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 225284019,
+            "lat": 51.5455484,
+            "lon": 7.1146665,
+            "tags": {
+                "animal": "Sitatunga-Antilope",
+                "area": "yes",
+                "attraction": "animal",
+                "name": "Sitatunga-Antilope",
+                "tourism": "attraction",
+                "zoo": "enclosure"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Gelsenkirchen_-_Zoom_-_Afrika_-_African_Queen_06_ies.jpg/1280px-Gelsenkirchen_-_Zoom_-_Afrika_-_African_Queen_06_ies.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 225284471,
+            "lat": 51.5446945,
+            "lon": 7.1141685,
+            "tags": {
+                "animal": "Schimpansen",
+                "attraction": "animal",
+                "name": "Schimpansen",
+                "tourism": "attraction",
+                "zoo": "enclosure"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Gelsenkirchen_-_Zoom_-_Afrika_-_African_Queen_06_ies.jpg/1280px-Gelsenkirchen_-_Zoom_-_Afrika_-_African_Queen_06_ies.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 225286440,
+            "lat": 51.5444235,
+            "lon": 7.1127558,
+            "tags": {
+                "animal": "Lemuren",
+                "attraction": "animal",
+                "name": "Lemureninsel",
+                "tourism": "attraction",
+                "zoo": "enclosure"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Gelsenkirchen_-_Zoom_-_Afrika_-_African_Queen_06_ies.jpg/1280px-Gelsenkirchen_-_Zoom_-_Afrika_-_African_Queen_06_ies.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 418552598,
+            "lat": 51.5429369,
+            "lon": 7.1119382,
+            "tags": {
+                "animal": "Europäischer Luchs",
+                "area": "yes",
+                "attraction": "animal",
+                "name": "Europäischer Luchs",
+                "tourism": "attraction",
+                "zoo": "enclosure"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Gelsenkirchen_-_Zoom_-_Afrika_-_African_Queen_06_ies.jpg/1280px-Gelsenkirchen_-_Zoom_-_Afrika_-_African_Queen_06_ies.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 418552625,
+            "lat": 51.5428676,
+            "lon": 7.1127304,
+            "tags": {
+                "animal": "Waschbär",
+                "area": "yes",
+                "attraction": "animal",
+                "name": "Waschbärengehege",
+                "tourism": "attraction",
+                "zoo": "enclosure"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Gelsenkirchen_-_Zoom_-_Afrika_-_African_Queen_06_ies.jpg/1280px-Gelsenkirchen_-_Zoom_-_Afrika_-_African_Queen_06_ies.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 418562371,
+            "lat": 51.5442908,
+            "lon": 7.1151928,
+            "tags": {
+                "animal": "Eisbär",
+                "area": "yes",
+                "attraction": "animal",
+                "name": "Eisbärin",
+                "tourism": "attraction",
+                "zoo": "enclosure"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Gelsenkirchen_-_Zoom_-_Afrika_-_African_Queen_06_ies.jpg/1280px-Gelsenkirchen_-_Zoom_-_Afrika_-_African_Queen_06_ies.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 418562374,
+            "lat": 51.5433132,
+            "lon": 7.1126004,
+            "tags": {
+                "animal": "Elch",
+                "area": "yes",
+                "attraction": "animal",
+                "name": "Elch",
+                "tourism": "attraction",
+                "wheelchair": "yes",
+                "zoo": "enclosure"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Gelsenkirchen_-_Zoom_-_Afrika_-_African_Queen_06_ies.jpg/1280px-Gelsenkirchen_-_Zoom_-_Afrika_-_African_Queen_06_ies.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 418562418,
+            "lat": 51.5431497,
+            "lon": 7.1172101,
+            "tags": {
+                "animal": "Kamtschatkabär",
+                "area": "yes",
+                "attraction": "animal",
+                "name": "Kamtschatkabär",
+                "tourism": "attraction",
+                "zoo": "enclosure"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Gelsenkirchen_-_Zoom_-_Afrika_-_African_Queen_06_ies.jpg/1280px-Gelsenkirchen_-_Zoom_-_Afrika_-_African_Queen_06_ies.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 418562422,
+            "lat": 51.5430451,
+            "lon": 7.1140543,
+            "tags": {
+                "animal": "Skunk",
+                "area": "yes",
+                "attraction": "animal",
+                "name": "Skunk",
+                "tourism": "attraction",
+                "zoo": "enclosure"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Gelsenkirchen_-_Zoom_-_Afrika_-_African_Queen_06_ies.jpg/1280px-Gelsenkirchen_-_Zoom_-_Afrika_-_African_Queen_06_ies.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 418584183,
+            "lat": 51.5453645,
+            "lon": 7.112679,
+            "tags": {
+                "animal": "Breitmaulnashorn",
+                "attraction": "animal",
+                "name": "Breitmaulnashorn",
+                "tourism": "attraction",
+                "zoo": "enclosure"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Gelsenkirchen_-_Zoom_-_Afrika_-_African_Queen_06_ies.jpg/1280px-Gelsenkirchen_-_Zoom_-_Afrika_-_African_Queen_06_ies.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 418584191,
+            "lat": 51.546228,
+            "lon": 7.1128949,
+            "tags": {
+                "animal": "Erdmännchen",
+                "area": "yes",
+                "attraction": "animal",
+                "name": "Erdmännchen",
+                "tourism": "attraction",
+                "zoo": "enclosure"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Gelsenkirchen_-_Zoom_-_Afrika_-_African_Queen_06_ies.jpg/1280px-Gelsenkirchen_-_Zoom_-_Afrika_-_African_Queen_06_ies.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 418584195,
+            "lat": 51.5453856,
+            "lon": 7.1144933,
+            "tags": {
+                "animal": "Flusspferd",
+                "area": "yes",
+                "attraction": "animal",
+                "name": "Flusspferde",
+                "tourism": "attraction",
+                "zoo": "enclosure"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Gelsenkirchen_-_Zoom_-_Afrika_-_African_Queen_06_ies.jpg/1280px-Gelsenkirchen_-_Zoom_-_Afrika_-_African_Queen_06_ies.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 418596125,
+            "lat": 51.5443686,
+            "lon": 7.1098261,
+            "tags": {
+                "animal": "Kleiner Panda",
+                "area": "yes",
+                "attraction": "animal",
+                "name": "Kleiner Panda",
+                "tourism": "attraction",
+                "wheelchair": "no",
+                "zoo": "enclosure"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Gelsenkirchen_-_Zoom_-_Afrika_-_African_Queen_06_ies.jpg/1280px-Gelsenkirchen_-_Zoom_-_Afrika_-_African_Queen_06_ies.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 418596126,
+            "lat": 51.5437185,
+            "lon": 7.1094608,
+            "tags": {
+                "animal": "Orang-Utan",
+                "area": "yes",
+                "attraction": "animal",
+                "name": "Reich der Orang-Utans",
+                "tourism": "attraction",
+                "zoo": "enclosure"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Gelsenkirchen_-_Zoom_-_Afrika_-_African_Queen_06_ies.jpg/1280px-Gelsenkirchen_-_Zoom_-_Afrika_-_African_Queen_06_ies.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 418596127,
+            "lat": 51.5434099,
+            "lon": 7.1097662,
+            "tags": {
+                "animal": "Orang-Utan",
+                "area": "yes",
+                "attraction": "animal",
+                "name": "Reich der Orang-Utans",
+                "tourism": "attraction",
+                "wheelchair": "no",
+                "zoo": "enclosure"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Gelsenkirchen_-_Zoom_-_Afrika_-_African_Queen_06_ies.jpg/1280px-Gelsenkirchen_-_Zoom_-_Afrika_-_African_Queen_06_ies.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 418596128,
+            "lat": 51.5445039,
+            "lon": 7.1090559,
+            "tags": {
+                "animal": "Schweinsaffe",
+                "area": "yes",
+                "attraction": "animal",
+                "name": "Schweinsaffe",
+                "tourism": "attraction",
+                "zoo": "enclosure"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Gelsenkirchen_-_Zoom_-_Afrika_-_African_Queen_06_ies.jpg/1280px-Gelsenkirchen_-_Zoom_-_Afrika_-_African_Queen_06_ies.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 418596129,
+            "lat": 51.5440376,
+            "lon": 7.110646,
+            "tags": {
+                "animal": "Sibirischer Tiger",
+                "area": "yes",
+                "attraction": "animal",
+                "name": "Sibirischer Tiger",
+                "tourism": "attraction",
+                "wheelchair": "no",
+                "zoo": "enclosure"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Gelsenkirchen_-_Zoom_-_Afrika_-_African_Queen_06_ies.jpg/1280px-Gelsenkirchen_-_Zoom_-_Afrika_-_African_Queen_06_ies.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 418598127,
+            "lat": 51.5425845,
+            "lon": 7.1124863,
+            "tags": {
+                "animal": "Hinterwälder Rind; Zwergesel; Shetlandpony",
+                "area": "yes",
+                "attraction": "animal",
+                "name": "Hinterwälder Rind, Zwergesel und Shetlandpony",
+                "tourism": "attraction",
+                "zoo": "enclosure"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Gelsenkirchen_-_Zoom_-_Afrika_-_African_Queen_06_ies.jpg/1280px-Gelsenkirchen_-_Zoom_-_Afrika_-_African_Queen_06_ies.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 467201797,
+            "lat": 46.7989272,
+            "lon": -100.8071394,
+            "tags": {
+                "addr:city": "Bismarck",
+                "addr:housenumber": "602",
+                "addr:state": "ND",
+                "addr:street": "Riverside Park Road",
+                "ele": "498",
+                "gnis:feature_id": "1028587",
+                "name": "Dakota Zoo",
+                "phone": "+1 701-223-7543",
+                "tourism": "zoo",
+                "website": "https://www.dakotazoo.org/",
+                "wikidata": "Q5210063",
+                "wikipedia": "en:Dakota Zoo"
+            }
+        },
+        {
+            "type": "way",
+            "id": 789742624,
+            "lat": 46.8051602,
+            "lon": -100.7904116,
+            "tags": {
+                "heritage": "2",
+                "heritage:operator": "nrhp",
+                "historic": "yes",
+                "name": "Camp Hancock State Historic Site",
+                "ref:nrhp": "72001004",
+                "tourism": "attraction",
+                "wikidata": "Q5027232",
+                "wikipedia": "en:Camp Hancock State Historic Site"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/CAMP_HANCOCK_SITE.jpg/1280px-CAMP_HANCOCK_SITE.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 853058851,
+            "lat": 46.8017146,
+            "lon": -100.8065805,
+            "tags": {
+                "name": "Super Slide Amusement Park",
+                "tourism": "theme_park",
+                "website": "https://www.ndsuperslide.com"
+            }
+        },
+        {
+            "type": "way",
+            "id": 863027549,
+            "lat": 46.8068097,
+            "lon": -100.7264297,
+            "tags": {
+                "addr:city": "Bismarck",
+                "addr:housenumber": "3805",
+                "addr:state": "ND",
+                "addr:street": "East Bismarck Expressway",
+                "museum": "living_history",
+                "name": "Buckstop Junction",
+                "operator": "Missouri Valley Historical Society",
+                "phone": "+1-701-250-8575",
+                "tourism": "museum",
+                "website": "https://website.buckstopjunction.org:5293/"
+            }
+        },
+        {
+            "type": "way",
+            "id": 882338041,
+            "lat": 46.8108985,
+            "lon": -100.7864525,
+            "tags": {
+                "building": "yes",
+                "museum": "history",
+                "name": "Former Governors' Mansion State Historic Site",
+                "source": "microsoft/BuildingFootprints",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/FormerGovernorResidenceND.jpg/1280px-FormerGovernorResidenceND.jpg",
+            "image_source": "wikipedia_verified"
+        }
+    ]
+}

@@ -1,0 +1,380 @@
+{
+    "city_metadata": {
+        "city_name": "Tempe",
+        "state_code": "AZ",
+        "state_full": "Arizona",
+        "city_summary": "Tempe ( tem-PEE; O'odham: Oidbaḍ) is a city in Maricopa County, Arizona, United States, with the Census Bureau reporting a 2020 population of 180,587.\nThe city is home to the main campus of Arizona State University, one of the largest public universities by enrollment in the United States.",
+        "city_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/231029-1_Hayden_Flour_Mill.jpg/1280px-231029-1_Hayden_Flour_Mill.jpg",
+        "city_lat": 33.41277778,
+        "city_lon": -111.94305556,
+        "source": "wikipedia_verified_engine"
+    },
+    "attractions": [
+        {
+            "type": "node",
+            "id": 366220683,
+            "lat": 33.4186736,
+            "lon": -111.938104,
+            "tags": {
+                "addr:city": "Tempe",
+                "addr:housenumber": "51",
+                "addr:postcode": "85281",
+                "addr:state": "AZ",
+                "addr:street": "East Tenth Street",
+                "ele": "354",
+                "gnis:feature_id": "2466552",
+                "museum": "art",
+                "name": "Arizona State University Art Museum",
+                "opening_hours": "Tu,We,Fr,Sa 11:00-17:00, Th 11:00-20:00",
+                "tourism": "museum",
+                "website": "https://asuartmuseum.asu.edu/",
+                "wikidata": "Q283998",
+                "wikipedia": "en:Arizona State University Art Museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Arizona_State_University_Art_Museum_-_Arizona_State_University_-_Tempe%2C_AZ_-_DSC05997.JPG/1280px-Arizona_State_University_Art_Museum_-_Arizona_State_University_-_Tempe%2C_AZ_-_DSC05997.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 7521389042,
+            "lat": 33.3855262,
+            "lon": -111.9635093,
+            "tags": {
+                "brand": "LEGOLAND Discovery Center",
+                "brand:wikidata": "Q303439",
+                "name": "LEGOLAND Discovery Center Arizona",
+                "operator": "Merlin Entertainments",
+                "operator:wikidata": "Q573278",
+                "tourism": "theme_park"
+            }
+        },
+        {
+            "type": "node",
+            "id": 8551917629,
+            "lat": 33.4191966,
+            "lon": -111.9352855,
+            "tags": {
+                "name": "Pillar of Knowledge",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Architecture%2C_Arizona_State_University%2C_Tempe%2C_AZ_-_David_Pinter%2C_davidpinter.com_-_panoramio_%28101%29.jpg/1280px-Architecture%2C_Arizona_State_University%2C_Tempe%2C_AZ_-_David_Pinter%2C_davidpinter.com_-_panoramio_%28101%29.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 8677939761,
+            "lat": 33.3961501,
+            "lon": -111.9267825,
+            "tags": {
+                "name": "Pixypros Selfie Museum",
+                "tourism": "museum"
+            }
+        },
+        {
+            "type": "node",
+            "id": 8907836442,
+            "lat": 33.3844547,
+            "lon": -111.9652745,
+            "tags": {
+                "addr:city": "Tempe",
+                "addr:state": "AZ",
+                "addr:street": "South Arizona Mills Circle",
+                "name": "Bubble Planet Immersive Experience",
+                "tourism": "theme_park"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10778744625,
+            "lat": 33.4316775,
+            "lon": -111.9480803,
+            "tags": {
+                "name": "Sculpture Garden",
+                "operator": "Tempe Center for the Arts",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Tempe_Center_for_the_Arts%2C_Tempe%2C_Arizona_-_panoramio_%283%29.jpg/1280px-Tempe_Center_for_the_Arts%2C_Tempe%2C_Arizona_-_panoramio_%283%29.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 11914741813,
+            "lat": 33.4065114,
+            "lon": -111.9078111,
+            "tags": {
+                "name": "Simply Smashing",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 12189370071,
+            "lat": 33.417973,
+            "lon": -111.9754632,
+            "tags": {
+                "name": "Axe Adventures",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "way",
+            "id": 544632762,
+            "lat": 33.3922484,
+            "lon": -111.9273575,
+            "tags": {
+                "addr:city": "Tempe",
+                "addr:housenumber": "809",
+                "addr:postcode": "85282",
+                "addr:state": "AZ",
+                "addr:street": "East Southern Avenue",
+                "building": "yes",
+                "building_1": "public",
+                "museum": "history",
+                "name": "Tempe History Museum",
+                "opening_hours": "Tu-Sa 10:00-17:00",
+                "operator": "City of Tempe",
+                "operator:type": "government",
+                "tourism": "museum"
+            }
+        },
+        {
+            "type": "way",
+            "id": 725717776,
+            "lat": 33.4429492,
+            "lon": -111.9337835,
+            "tags": {
+                "addr:city": "Tempe",
+                "addr:country": "US",
+                "addr:housenumber": "1300",
+                "addr:postcode": "85281",
+                "addr:state": "AZ",
+                "addr:street": "North College Avenue",
+                "building": "public",
+                "facebook": "https://www.facebook.com/AZHeritageCenter/",
+                "museum": "history",
+                "name": "Arizona Heritage Center",
+                "old_name": "Arizona Historical Society Museum",
+                "opening_hours": "Mo-Th 10:00-17:00; Fr-Sa 10:00-16:00",
+                "operator": "Arizona Historical Society",
+                "operator:wikidata": "Q4791327",
+                "operator:wikipedia": "en:Arizona Historical Society",
+                "phone": "+1 480 929 0292",
+                "source": "esri_USDOT_Arizona",
+                "tourism": "museum",
+                "website": "https://arizonahistoricalsociety.org/museum/arizona-heritage-center/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Sandra_Day_O%27Connor_House.jpg/1280px-Sandra_Day_O%27Connor_House.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 1327577,
+            "lat": 33.43222222,
+            "lon": -111.93194444,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/HOPE_in_Tempe.jpg/1280px-HOPE_in_Tempe.jpg",
+            "description": "Tempe Town Lake is an artificial perennial reservoir located just north of Tempe Butte at the confluence of the intermittent Salt River and the ephemeral Indian Bend Wash in Tempe, Arizona, United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Tempe Town Lake",
+                "wikipedia": "en:Tempe Town Lake",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 35758885,
+            "lat": 33.38,
+            "lon": -111.73,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Superstition_Mountain_56.JPG/1280px-Superstition_Mountain_56.JPG",
+            "description": "The Phoenix Metropolitan Area (Metro Phoenix) consists of a valley that has multiple city regions in it.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "East Valley (Phoenix metropolitan area)",
+                "wikipedia": "en:East Valley (Phoenix metropolitan area)",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 106659,
+            "lat": 33.49305556,
+            "lon": -111.92611111,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Scottsdale_waterfront.jpg/1280px-Scottsdale_waterfront.jpg",
+            "description": "Scottsdale is a city in eastern Maricopa County, Arizona, United States, and is part of the Phoenix metropolitan area.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Scottsdale, Arizona",
+                "wikipedia": "en:Scottsdale, Arizona",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 12125781,
+            "lat": 33.43694444,
+            "lon": -111.94388889,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Marquee_Theatre_-_NEC_-_2011-02-15.JPG/1280px-Marquee_Theatre_-_NEC_-_2011-02-15.JPG",
+            "description": "Marquee Theatre (originally known as the Red River Opry or the Red River Music Hall) is a music venue in Tempe, Arizona.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Marquee Theatre",
+                "wikipedia": "en:Marquee Theatre",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 49121,
+            "lat": 33.44833333,
+            "lon": -112.07388889,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Downtown_Phoenix_Aerial_Looking_Northeast.jpg/1280px-Downtown_Phoenix_Aerial_Looking_Northeast.jpg",
+            "description": "Phoenix (  FEE-niks) is the capital and most populous city of the U.S. state of Arizona.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Phoenix, Arizona",
+                "wikipedia": "en:Phoenix, Arizona",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 2060033,
+            "lat": 33.38472222,
+            "lon": -111.96777778,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/231112-2_Arizona_Mills.jpg/1280px-231112-2_Arizona_Mills.jpg",
+            "description": "Arizona Mills is a large indoor outlet mall in Tempe, Arizona within the Phoenix metropolitan area.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Arizona Mills",
+                "wikipedia": "en:Arizona Mills",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 12898299,
+            "lat": 33.4317,
+            "lon": -111.949,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Tempe_Center_for_the_Arts%2C_Tempe%2C_Arizona_-_panoramio_%283%29.jpg/1280px-Tempe_Center_for_the_Arts%2C_Tempe%2C_Arizona_-_panoramio_%283%29.jpg",
+            "description": "Tempe Center for the Arts (TCA) is a publicly owned performing and visual arts center in Tempe, Arizona.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Tempe Center for the Arts",
+                "wikipedia": "en:Tempe Center for the Arts",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 21883824,
+            "lat": 35,
+            "lon": -112,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Flag_of_Arizona.svg/1280px-Flag_of_Arizona.svg.png",
+            "description": "Arizona is a landlocked state in the Southwestern United States, sharing the Four Corners region with Colorado, New Mexico, and Utah.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Arizona",
+                "wikipedia": "en:Arizona",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 1975924,
+            "lat": 32.44296198,
+            "lon": -110.78847844,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/View_of_the_Santa_Catalina_Mountains_from_West_Saguaro_National_Park_near_Tuscon%2C_AZ.jpg/1280px-View_of_the_Santa_Catalina_Mountains_from_West_Saguaro_National_Park_near_Tuscon%2C_AZ.jpg",
+            "description": "Mount Lemmon, with a summit elevation of 9,171 feet (2,795 m), is the highest point in the Santa Catalina Mountains.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Mount Lemmon",
+                "wikipedia": "en:Mount Lemmon",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 26226735,
+            "lat": 35.04194444,
+            "lon": -110.68444444,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Brigham_City-1876-5.jpg/1280px-Brigham_City-1876-5.jpg",
+            "description": "Brigham City is a ghost town in Navajo County, Arizona, United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Brigham City, Arizona",
+                "wikipedia": "en:Brigham City, Arizona",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 23425513,
+            "lat": 32.26,
+            "lon": -110.87388889,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Tucson-Fort_Lowell_Hospital-1878.JPG/1280px-Tucson-Fort_Lowell_Hospital-1878.JPG",
+            "description": "Fort Lowell was a United States Army post active from 1873 to 1891 on the outskirts of Tucson, Arizona.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Fort Lowell (Tucson, Arizona)",
+                "wikipedia": "en:Fort Lowell (Tucson, Arizona)",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 18519628,
+            "lat": 33.731364,
+            "lon": -111.960606,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Beth_Israel.jpg/1280px-Beth_Israel.jpg",
+            "description": "Congregation Beth Israel (Hebrew: בית ישראל) is a Reform Jewish congregation and synagogue, located at 10460 North 56th Street in Scottsdale, Arizona, in the United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Congregation Beth Israel (Scottsdale, Arizona)",
+                "wikipedia": "en:Congregation Beth Israel (Scottsdale, Arizona)",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 38424193,
+            "lat": 52.63405556,
+            "lon": -1.13627778,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b8/The_King_In_The_Car_Park_-_Page_15_-_Figure_12.png",
+            "description": "On 25 August 2012, in Leicester, England, the remains of Richard III, the last English king killed in battle and last king of the House of York, were discovered within the site of the former Greyfriars Friary.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Exhumation and reburial of Richard III of England",
+                "wikipedia": "en:Exhumation and reburial of Richard III of England",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 9968533,
+            "lat": 33.44909167,
+            "lon": -112.07591667,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Orpheum_Theater-1.jpg/1280px-Orpheum_Theater-1.jpg",
+            "description": "The Orpheum Theatre is a 1364-seat theatre in downtown Phoenix.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Orpheum Theatre (Phoenix, Arizona)",
+                "wikipedia": "en:Orpheum Theatre (Phoenix, Arizona)",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 77649202,
+            "lat": 33.45106,
+            "lon": -112.07943,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Phoenix_401_west_Van_Buren.jpg/1280px-Phoenix_401_west_Van_Buren.jpg",
+            "description": "The Van Buren is a music venue located in Downtown Phoenix, Arizona.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "The Van Buren",
+                "wikipedia": "en:The Van Buren",
+                "tourism": "attraction"
+            }
+        }
+    ]
+}

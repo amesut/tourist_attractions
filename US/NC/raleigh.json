@@ -1,0 +1,523 @@
+{
+    "city_metadata": {
+        "city_name": "Raleigh",
+        "state_code": "NC",
+        "state_full": "North Carolina",
+        "city_summary": "Raleigh (  RAH-lee) is the capital city of the U.S. state of North Carolina. It is the second-most populous city in the state (after Charlotte), tenth most populous city in the Southeast, the largest city in the Research Triangle area, and the 39th-most populous city in the U.S. Known as the \"City of Oaks\" for its oak-lined streets, Raleigh covers 148.54 square miles (384.7 km2) and had a population of 467,665 at the 2020 census. It is the county seat of Wake County and is named after Sir Walter Raleigh, who founded the lost Roanoke Colony.",
+        "city_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Raleigh_Skyline.jpg/1280px-Raleigh_Skyline.jpg",
+        "city_lat": 35.85416667,
+        "city_lon": -78.76194444,
+        "source": "wikipedia_verified_engine"
+    },
+    "attractions": [
+        {
+            "type": "node",
+            "id": 2304417048,
+            "lat": -30.4283837,
+            "lon": 152.989955,
+            "tags": {
+                "name": "Raleigh Raceway",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 4158487293,
+            "lat": 35.7692073,
+            "lon": -78.6297322,
+            "tags": {
+                "attraction": "carousel",
+                "name": "Historic Allan Herschell Carousel",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/ec/WakeCountyNC-RaleighTownship.PNG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 4158487312,
+            "lat": 35.7603777,
+            "lon": -78.624923,
+            "tags": {
+                "name": "Walnut Creek Wetland Center",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 4584393296,
+            "lat": 35.8857443,
+            "lon": -78.7443364,
+            "tags": {
+                "name": "Ample Storage",
+                "name:en": "Ample Storage",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/be/Umstead_Park_UCC.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 4584393630,
+            "lat": 35.8937672,
+            "lon": -78.7536922,
+            "tags": {
+                "name": "Team Power Sports",
+                "name:en": "Team Power Sports",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Umstead.JPG/1280px-Umstead.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 4584432189,
+            "lat": 35.8830668,
+            "lon": -78.7416677,
+            "tags": {
+                "name": "Air Purification",
+                "name:en": "Air Purification",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 4597025990,
+            "lat": 35.8823827,
+            "lon": -78.7389228,
+            "tags": {
+                "name": "Hi-Tech Fabrication Inc",
+                "name:en": "Hi-Tech Fabrication Inc",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 4597075589,
+            "lat": 35.8930499,
+            "lon": -78.751265,
+            "tags": {
+                "name": "Southern Industrial Constructors Inc",
+                "name:en": "Southern Industrial Constructors Inc",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Umstead.JPG/1280px-Umstead.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 4597076489,
+            "lat": 35.8946705,
+            "lon": -78.7489183,
+            "tags": {
+                "name": "Martin Marietta Aggregates",
+                "name:en": "Martin Marietta Aggregates",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Umstead.JPG/1280px-Umstead.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 4597078089,
+            "lat": 35.8935801,
+            "lon": -78.7459406,
+            "tags": {
+                "name": "Top Coat Inc",
+                "name:en": "Top Coat Inc",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 4635603789,
+            "lat": 35.8358248,
+            "lon": -78.6138123,
+            "tags": {
+                "name": "North Raleigh Business Center",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 6484120085,
+            "lat": 35.7896178,
+            "lon": -78.6596733,
+            "tags": {
+                "addr:city": "Raleigh",
+                "addr:housenumber": "401",
+                "addr:postcode": "27605",
+                "addr:state": "NC",
+                "addr:street": "Woodburn Road",
+                "name": "Goodnights Comedy Club",
+                "tourism": "attraction",
+                "website": "https://goodnightscomedy.com/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Maiden_Lane%2C_Raleigh%2C_northern_end.jpg/1280px-Maiden_Lane%2C_Raleigh%2C_northern_end.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 47732386,
+            "lat": 35.7768825,
+            "lon": -78.6456551,
+            "tags": {
+                "addr:city": "Raleigh",
+                "addr:country": "US",
+                "addr:housenumber": "409",
+                "addr:state": "NC",
+                "addr:street": "West Martin Street",
+                "building": "yes",
+                "building:use": "commercial",
+                "name": "CAM Raleigh",
+                "opening_hours": "We-Fr 11:00-18:30; Sa,Su 12:00-17:00;Tu off",
+                "phone": "+1 919-261-5920",
+                "source": "WakeGIS",
+                "tourism": "museum",
+                "website": "https://camraleigh.org/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Contemporary_Art_Museum%2C_Raleigh.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 47759988,
+            "lat": 35.7737044,
+            "lon": -78.638233,
+            "tags": {
+                "addr:city": "Raleigh",
+                "addr:housenumber": "511",
+                "addr:postcode": "27601",
+                "addr:state": "NC",
+                "addr:street": "South Wilmington Street",
+                "building": "yes",
+                "building:use": "commercial",
+                "fee": "no",
+                "name": "Pope House Museum",
+                "opening_hours": "Sa 09:00-16:00; Su 13:00-16:00",
+                "source": "WakeGIS",
+                "tourism": "museum",
+                "website": "https://raleighnc.gov/pope-house",
+                "wikidata": "Q7229176"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Pope_House.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 47760082,
+            "lat": 35.7788349,
+            "lon": -78.6357428,
+            "tags": {
+                "addr:city": "Raleigh",
+                "addr:housenumber": "201",
+                "addr:postcode": "27601",
+                "addr:state": "NC",
+                "addr:street": "East Hargett Street",
+                "building": "museum",
+                "building:use": "commercial",
+                "check_date:opening_hours": "2023-07-28",
+                "fee": "yes",
+                "fee:conditional": "no @ (age < 1)",
+                "name": "Marbles Kids Museum",
+                "opening_hours": "Mo-Su 10:00-17:00; Th 10:00-19:00",
+                "operator": "Marbles Kids Museum",
+                "source": "WakeGIS",
+                "tourism": "museum",
+                "website": "https://www.marbleskidsmuseum.org/",
+                "wheelchair": "yes",
+                "wikidata": "Q14708028",
+                "wikipedia": "en:Marbles Kids Museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Marbles_Kids_Museum.jpg/1280px-Marbles_Kids_Museum.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 47777473,
+            "lat": 35.9193647,
+            "lon": -78.7940326,
+            "tags": {
+                "addr:housename": "Frankie's Fun Park",
+                "addr:housenumber": "11190",
+                "addr:street": "Fun Park Drive",
+                "building": "yes",
+                "building:use": "commercial",
+                "name": "Frankie's Fun Park",
+                "source": "WakeGIS",
+                "tourism": "attraction",
+                "website": "https://frankies.com/raleigh/"
+            }
+        },
+        {
+            "type": "way",
+            "id": 47777626,
+            "lat": 35.8253949,
+            "lon": -78.5880681,
+            "tags": {
+                "addr:city": "Raleigh",
+                "addr:housenumber": "3311",
+                "addr:postcode": "27604",
+                "addr:state": "NC",
+                "addr:street": "Capital Boulevard",
+                "building:use": "commercial",
+                "name": "Adventure Landing",
+                "source": "WakeGIS",
+                "tourism": "theme_park"
+            }
+        },
+        {
+            "type": "way",
+            "id": 47838084,
+            "lat": 35.8100877,
+            "lon": -78.7023028,
+            "tags": {
+                "addr:country": "US",
+                "building": "yes",
+                "building:use": "commercial",
+                "fee": "yes",
+                "name": "East Building",
+                "opening_hours": "Tu-Su 10:00-17:00; Fr 10:00-21:00; Nov Th[4] off; Dec 24-25 off",
+                "source": "WakeGIS",
+                "tourism": "museum",
+                "wikipedia": "en:North Carolina Museum of Art"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/08/West_Building_Entrance_Canopy.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 47933092,
+            "lat": 35.7799362,
+            "lon": -78.6637855,
+            "tags": {
+                "building": "yes",
+                "building:use": "commercial",
+                "heritage": "2",
+                "heritage:operator": "nrhp",
+                "historic": "yes",
+                "name": "Carousel",
+                "operator": "Pullen Park Amusements",
+                "ref:nrhp": "76001344",
+                "source": "WakeGIS",
+                "start_date": "1924",
+                "tourism": "attraction",
+                "wikidata": "Q7259432",
+                "wikipedia": "en:Pullen Park Carousel"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Carousel_giraffe.jpg/1280px-Carousel_giraffe.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 99269122,
+            "lat": 35.8110601,
+            "lon": -78.7037989,
+            "tags": {
+                "building": "yes",
+                "fee": "no",
+                "name": "West Building",
+                "opening_hours": "Tu-Su 10:00-17:00; Fr 10:00-21:00; Nov Th[4] off; Dec 24-25 off",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/08/West_Building_Entrance_Canopy.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 148163972,
+            "lat": 35.7823118,
+            "lon": -78.640906,
+            "tags": {
+                "addr:city": "Raleigh",
+                "addr:country": "US",
+                "addr:housenumber": "11",
+                "addr:postcode": "27601",
+                "addr:state": "NC",
+                "addr:street": "West Jones Street",
+                "building": "yes",
+                "building:levels": "4",
+                "fee": "yes",
+                "name": "North Carolina Museum of Natural Sciences: Nature Research Center",
+                "opening_hours": "Tu-Su 10:00-17:00",
+                "tourism": "museum",
+                "website": "https://naturalsciences.org/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/North_Carolina_Museum_of_Natural_Since_-_panoramio_-_Chanilim714.jpg/1280px-North_Carolina_Museum_of_Natural_Since_-_panoramio_-_Chanilim714.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 197533234,
+            "lat": 35.7818571,
+            "lon": -78.6384973,
+            "tags": {
+                "addr:city": "Raleigh",
+                "addr:housenumber": "5",
+                "addr:postcode": "27601",
+                "addr:state": "NC",
+                "addr:street": "East Edenton Street",
+                "name": "North Carolina Museum of History",
+                "opening_hours": "off",
+                "phone": "+1 919-807-7900",
+                "tourism": "museum",
+                "website": "https://www.ncmuseumofhistory.org/",
+                "wikidata": "Q7054557"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/North_Carolina_Museum_of_Natural_Since_-_panoramio_-_Chanilim714.jpg/1280px-North_Carolina_Museum_of_Natural_Since_-_panoramio_-_Chanilim714.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 197842115,
+            "lat": 35.7821861,
+            "lon": -78.6395076,
+            "tags": {
+                "addr:city": "Raleigh",
+                "addr:country": "US",
+                "addr:housenumber": "11",
+                "addr:postcode": "27601",
+                "addr:state": "NC",
+                "addr:street": "West Jones Street",
+                "alt_name": "North Carolina Museum of Natural Sciences: Nature Exploration Center",
+                "building": "yes",
+                "fee": "no",
+                "firearms": "no",
+                "name": "North Carolina Museum of Natural Sciences",
+                "opening_hours": "Tu-Su 10:00-17:00",
+                "phone": "+1 919-707-9800",
+                "tourism": "museum",
+                "website": "https://naturalsciences.org/",
+                "wikidata": "Q2483656",
+                "wikipedia": "en:North Carolina Museum of Natural Sciences"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/North_Carolina_Museum_of_Natural_Since_-_panoramio_-_Chanilim714.jpg/1280px-North_Carolina_Museum_of_Natural_Since_-_panoramio_-_Chanilim714.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 323712282,
+            "lat": 35.7776629,
+            "lon": -78.6397467,
+            "tags": {
+                "addr:city": "Raleigh",
+                "addr:country": "US",
+                "addr:housenumber": "220",
+                "addr:state": "NC",
+                "addr:street": "Fayetteville Street",
+                "building": "yes",
+                "building:use": "commercial",
+                "heritage": "yes",
+                "historic": "building",
+                "image": "https://commons.wikimedia.org/wiki/File:Briggs-Hardware-Building-20080321.jpeg",
+                "name": "City of Raleigh Museum (COR Museum)",
+                "opening_hours": "Tu-Sa 09:00-16:00; Su 13:00-16:00",
+                "phone": "+1-919-996-2220",
+                "source": "WakeGIS",
+                "source:geometry": "Bing",
+                "start_date": "1874",
+                "tourism": "museum",
+                "website": "https://www.raleighnc.gov/parks/content/PRecRecreation/Articles/HRMCityMuseum.html",
+                "wikipedia": "en:City of Raleigh Museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Raleigh_Banking_and_Trust_Company_Building.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 488459581,
+            "lat": 42.3060652,
+            "lon": -82.2203397,
+            "tags": {
+                "addr:city": "North Buxton",
+                "addr:housenumber": "21975",
+                "addr:postcode": "N0P 1Y0",
+                "addr:street": "Ad Shadd Road",
+                "building": "yes",
+                "historic": "yes",
+                "name": "Buxton Historic Site & Museum",
+                "tourism": "museum",
+                "website": "https://buxtonmuseum.com/",
+                "wikidata": "Q5003272",
+                "wikipedia": "en:Buxton National Historic Site and Museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Buxton_National_Historic_Site_and_Museum_01.JPG/1280px-Buxton_National_Historic_Site_and_Museum_01.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 580672486,
+            "lat": 35.8087343,
+            "lon": -78.7045045,
+            "tags": {
+                "addr:city": "Raleigh",
+                "addr:country": "US",
+                "addr:housenumber": "2110",
+                "addr:postcode": "27607",
+                "addr:state": "NC",
+                "addr:street": "Blue Ridge Road",
+                "fee": "yes",
+                "name": "North Carolina Museum of Art",
+                "ownership": "state",
+                "source": "NCOnemap",
+                "subject": "arts",
+                "tourism": "museum",
+                "wikidata": "Q1459878",
+                "wikipedia": "en:North Carolina Museum of Art"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/08/West_Building_Entrance_Canopy.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 580672489,
+            "lat": 35.8105242,
+            "lon": -78.7023135,
+            "tags": {
+                "addr:city": "Raleigh",
+                "addr:country": "US",
+                "addr:housenumber": "2110",
+                "addr:postcode": "27607",
+                "addr:state": "NC",
+                "addr:street": "Blue Ridge Road",
+                "email": "help@ncartmuseum.org",
+                "fee": "no",
+                "museum": "art",
+                "name": "North Carolina Museum of Art",
+                "opening_hours:url": "https://ncartmuseum.org/visit/plan-your-visit/",
+                "ownership": "state",
+                "phone": "+1 919 839 6262",
+                "source": "NCOnemap",
+                "tourism": "museum",
+                "website": "https://ncartmuseum.org/",
+                "wheelchair": "yes",
+                "wikidata": "Q1459878",
+                "wikipedia": "en:North Carolina Museum of Art"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/08/West_Building_Entrance_Canopy.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 583700646,
+            "lat": 35.7796454,
+            "lon": -78.6641087,
+            "tags": {
+                "name": "Pullen Park Amusement Center",
+                "tourism": "theme_park"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Pullen_Park_entrance_2011.jpg/1280px-Pullen_Park_entrance_2011.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 1199581039,
+            "lat": 35.9191551,
+            "lon": -78.7937193,
+            "tags": {
+                "name": "Frankie's Fun Park",
+                "tourism": "theme_park"
+            }
+        }
+    ]
+}

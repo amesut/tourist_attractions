@@ -1,0 +1,475 @@
+{
+    "city_metadata": {
+        "city_name": "Branson",
+        "state_code": "MO",
+        "state_full": "Missouri",
+        "city_summary": "Branson is a resort city in the U.S. state of Missouri. Most of the city is situated in Taney County, with a small portion in the west extending into Stone County. Branson is in the Ozark Mountains.",
+        "city_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Downtown_Branson_Missouri.jpg/1280px-Downtown_Branson_Missouri.jpg",
+        "city_lat": 36.612287,
+        "city_lon": -93.291812,
+        "source": "wikipedia_verified_engine"
+    },
+    "attractions": [
+        {
+            "type": "node",
+            "id": 2672336717,
+            "lat": 36.644026,
+            "lon": -93.2185497,
+            "tags": {
+                "name": "Branson Ghosts & Legends",
+                "tourism": "museum"
+            }
+        },
+        {
+            "type": "node",
+            "id": 2672395026,
+            "lat": 36.6429189,
+            "lon": -93.2550786,
+            "tags": {
+                "addr:housenumber": "1945",
+                "addr:postcode": "65616",
+                "addr:street": "W 76 Country Boulevard",
+                "name": "Grand Country Fun Spot",
+                "phone": "+1-888-514-1088",
+                "tourism": "theme_park",
+                "website": "https://www.grandcountry.com/family-fun"
+            }
+        },
+        {
+            "type": "node",
+            "id": 2672425947,
+            "lat": 36.6411864,
+            "lon": -93.2628597,
+            "tags": {
+                "addr:housenumber": "2320",
+                "addr:postcode": "65616",
+                "addr:street": "W 76 Country Blvd",
+                "name": "Ride The Ducks",
+                "phone": "+1 417-266-7600",
+                "tourism": "attraction",
+                "website": "http://branson.ridetheducks.com/home.aspx"
+            }
+        },
+        {
+            "type": "node",
+            "id": 2686011376,
+            "lat": 36.641244,
+            "lon": -93.2477792,
+            "tags": {
+                "addr:housenumber": "1600",
+                "addr:postcode": "65616",
+                "addr:street": "W 76 Country Blvd",
+                "alt_name": "The Velvet Collection",
+                "name": "Celebrity Car Museum",
+                "phone": "+1 417-239-1644",
+                "tourism": "museum",
+                "website": "https://www.celebritycarmuseum.com/"
+            }
+        },
+        {
+            "type": "node",
+            "id": 2702050597,
+            "lat": 36.6375596,
+            "lon": -93.2771664,
+            "tags": {
+                "addr:housenumber": "3030",
+                "addr:postcode": "65616",
+                "addr:street": "W 76 Country Blvd",
+                "name": "Hollywood Wax Museum",
+                "phone": "+1 417-337-8277",
+                "source": "Bing",
+                "tourism": "museum",
+                "website": "https://www.hollywoodwaxmuseum.com/branson/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Hollywood_Wax_Museum_-_Branson_MO.jpg/1280px-Hollywood_Wax_Museum_-_Branson_MO.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 2702050613,
+            "lat": 36.6376693,
+            "lon": -93.276632,
+            "tags": {
+                "addr:housenumber": "3030",
+                "addr:postcode": "65616",
+                "addr:street": "W 76 Country Blvd",
+                "name": "Castle of Chaos & Hannah's Maze of Mirrors",
+                "phone": "+1 417-337-8700",
+                "source": "Bing",
+                "tourism": "attraction",
+                "website": "castleofchaosbranson.com"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Hollywood_Wax_Museum_-_Branson_MO.jpg/1280px-Hollywood_Wax_Museum_-_Branson_MO.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 2702270051,
+            "lat": 36.6464326,
+            "lon": -93.2874655,
+            "tags": {
+                "addr:city": "Branson",
+                "addr:housenumber": "3609",
+                "addr:postcode": "65616",
+                "addr:state": "MO",
+                "addr:street": "West 76 Country Boulevard",
+                "air_conditioning": "yes",
+                "name": "World's Largest Toy Museum",
+                "opening_hours": "Mo-Sa 010:00-18:00",
+                "phone": "+1 417-332-1499",
+                "source": "Bing",
+                "tourism": "museum",
+                "website": "https://worldslargesttoymuseum.com/#ourtoys"
+            }
+        },
+        {
+            "type": "node",
+            "id": 4602260234,
+            "lat": 36.6232704,
+            "lon": -93.2857117,
+            "tags": {
+                "name": "The Runaway Mountain Coaster",
+                "operator": "Branson Mountain Adventure Park",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 8817849558,
+            "lat": 36.642634,
+            "lon": -93.2556232,
+            "tags": {
+                "addr:city": "Branson",
+                "addr:housenumber": "1945",
+                "addr:postcode": "65616",
+                "addr:state": "MO",
+                "addr:street": "West 76 Country Boulevard",
+                "name": "Grand Country Resort",
+                "phone": "+1-888-514-1088",
+                "source": "Bing",
+                "tourism": "attraction",
+                "website": "http://www.grandcountry.com/grand-country-resort-map?marker=mining-co-grill#mining-co-grill"
+            }
+        },
+        {
+            "type": "way",
+            "id": 236728390,
+            "lat": 37.0155668,
+            "lon": -103.8856521,
+            "tags": {
+                "building": "yes",
+                "historic": "jail",
+                "name": "The Old Branson Jail",
+                "opening_hours": "24/7",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Branson%2C_Colorado.JPG/1280px-Branson%2C_Colorado.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 262794119,
+            "lat": 36.6413796,
+            "lon": -93.2604963,
+            "tags": {
+                "addr:city": "Branson",
+                "addr:housenumber": "2115",
+                "addr:postcode": "65616",
+                "addr:state": "MO",
+                "addr:street": "West 76 Country Boulevard",
+                "name": "The Branson Coaster",
+                "phone": "+1 417-334-1919",
+                "source": "Bing",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "way",
+            "id": 264538291,
+            "lat": 36.6411441,
+            "lon": -93.2690645,
+            "tags": {
+                "addr:housenumber": "200",
+                "addr:postcode": "65616",
+                "addr:street": "Jess-Jo Parkway",
+                "building": "retail",
+                "museum": "history",
+                "name": "History of Fishing Museum",
+                "old_name": "Circle B Chuckwagon",
+                "source": "Bing",
+                "tourism": "museum"
+            }
+        },
+        {
+            "type": "way",
+            "id": 264542320,
+            "lat": 36.6382857,
+            "lon": -93.2823564,
+            "tags": {
+                "addr:city": "Branson",
+                "addr:housenumber": "3309",
+                "addr:postcode": "65616",
+                "addr:state": "MO",
+                "addr:street": "West 76 Country Boulevard",
+                "building": "retail",
+                "name": "Branson Helicopter Tours",
+                "phone": "+1-417-593-0149",
+                "source": "Bing",
+                "tourism": "attraction",
+                "website": "https://www.branson-helicoptertours.com/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Titanic_Museum_Branson.jpg/1280px-Titanic_Museum_Branson.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 264542321,
+            "lat": 36.6390703,
+            "lon": -93.2838287,
+            "tags": {
+                "addr:city": "Branson",
+                "addr:housenumber": "3345",
+                "addr:postcode": "65616",
+                "addr:state": "MO",
+                "addr:street": "West 76 Country Boulevard",
+                "name": "THE TRACK Family Fun Parks (Track 4)",
+                "phone": "+1 417-334-1612",
+                "source": "Bing",
+                "tourism": "theme_park",
+                "website": "https://bransontracks.com/track_maps.aspx"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Titanic_Museum_Branson.jpg/1280px-Titanic_Museum_Branson.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 264543523,
+            "lat": 36.6438137,
+            "lon": -93.2824232,
+            "tags": {
+                "addr:city": "Branson",
+                "addr:housenumber": "3505",
+                "addr:postcode": "65616",
+                "addr:state": "MO",
+                "addr:street": "West 76 Country Boulevard",
+                "leisure": "water_park",
+                "name": "Silver Dollar City's WhiteWater",
+                "phone": "+1-800-532-7529",
+                "source": "Bing",
+                "tourism": "theme_park"
+            }
+        },
+        {
+            "type": "way",
+            "id": 264543526,
+            "lat": 36.6381611,
+            "lon": -93.2855893,
+            "tags": {
+                "addr:postcode": "65616",
+                "addr:street": "W 76 Country Blvd",
+                "name": "Go Karts",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Titanic_Museum_Branson.jpg/1280px-Titanic_Museum_Branson.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 264544948,
+            "lat": 36.6384779,
+            "lon": -93.2756383,
+            "tags": {
+                "addr:housenumber": "3005",
+                "addr:postcode": "65616",
+                "addr:street": "W 76 Country Blvd",
+                "building": "roof",
+                "name": "Chopper Charter Helicopter Tours",
+                "phone": "+1 417-332-1545",
+                "source": "Bing",
+                "tourism": "attraction",
+                "website": "https://www.choppercharter.com/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Hollywood_Wax_Museum_-_Branson_MO.jpg/1280px-Hollywood_Wax_Museum_-_Branson_MO.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 264560836,
+            "lat": 36.6461658,
+            "lon": -93.2864824,
+            "tags": {
+                "name": "The Track Family Fun Parks",
+                "source": "Bing",
+                "tourism": "theme_park"
+            }
+        },
+        {
+            "type": "way",
+            "id": 264562049,
+            "lat": 36.6458053,
+            "lon": -93.2880516,
+            "tags": {
+                "demolished:building": "retail",
+                "name": "Sky Surfer",
+                "source": "Bing",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "way",
+            "id": 294837857,
+            "lat": 36.6383541,
+            "lon": -93.2800335,
+            "tags": {
+                "addr:city": "Branson",
+                "addr:housenumber": "3235",
+                "addr:postcode": "65616",
+                "addr:state": "MO",
+                "addr:street": "West 76 Country Boulevard",
+                "alt_name": "Titanic Museum Attraction",
+                "building": "yes",
+                "fee": "yes",
+                "museum": "maritime",
+                "name": "Titanic Museum",
+                "opening_hours": "Mo-Su 09:00-19:00",
+                "phone": "+1-800-381-7670",
+                "tourism": "museum",
+                "website": "https://titanicbranson.com/",
+                "wheelchair": "yes",
+                "wikidata": "Q14704505",
+                "wikipedia": "en:Titanic Museum (Branson, Missouri)"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Titanic_Museum_Branson.jpg/1280px-Titanic_Museum_Branson.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 523737192,
+            "lat": 36.6384793,
+            "lon": -93.2834965,
+            "tags": {
+                "name": "The Branson Ferris Wheel",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Titanic_Museum_Branson.jpg/1280px-Titanic_Museum_Branson.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 681763383,
+            "lat": 36.6408496,
+            "lon": -93.2436914,
+            "tags": {
+                "addr:city": "Branson",
+                "addr:housenumber": "1335",
+                "addr:postcode": "65616",
+                "addr:state": "MO",
+                "addr:street": "West Highway 76",
+                "building": "yes",
+                "name": "Auto & Farm Museum",
+                "phone": "+1-417-335-2600",
+                "toilets": "yes",
+                "toilets:access": "customers",
+                "tourism": "museum"
+            }
+        },
+        {
+            "type": "way",
+            "id": 682344479,
+            "lat": 36.6390973,
+            "lon": -93.2581131,
+            "tags": {
+                "addr:housenumber": "2020",
+                "addr:postcode": "65616",
+                "addr:street": "W Country 76 Blvd",
+                "building": "yes",
+                "name": "Branson's Wild World",
+                "phone": "+1 417-239-0854",
+                "tourism": "zoo",
+                "website": "https://bransonswildworld.com/"
+            }
+        },
+        {
+            "type": "way",
+            "id": 706084503,
+            "lat": 36.6497561,
+            "lon": -93.2768341,
+            "tags": {
+                "name": "Branson's Promised Land Zoo",
+                "tourism": "zoo"
+            }
+        },
+        {
+            "type": "way",
+            "id": 777198791,
+            "lat": 36.6396815,
+            "lon": -93.2412584,
+            "tags": {
+                "addr:city": "Branson",
+                "addr:housenumber": "1250",
+                "addr:postcode": "65616",
+                "addr:state": "MO",
+                "addr:street": "West 76 Country Boulevard",
+                "building": "yes",
+                "name": "Veterans Memorial Museum",
+                "phone": "+1 417-336-2300",
+                "tourism": "museum",
+                "website": "http://www.veteransmemorialbranson.com/"
+            }
+        },
+        {
+            "type": "way",
+            "id": 777208090,
+            "lat": 36.6376026,
+            "lon": -93.2833659,
+            "tags": {
+                "addr:city": "Branson",
+                "addr:housenumber": "3326",
+                "addr:postcode": "65616",
+                "addr:state": "MO",
+                "addr:street": "West 76 Country Boulevard",
+                "building": "yes",
+                "name": "Ripley's Believe It or Not! Odditorium",
+                "phone": "+1 417-337-5300",
+                "source": "Bing",
+                "tourism": "museum",
+                "website": "https://www.ripleys.com/branson/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Titanic_Museum_Branson.jpg/1280px-Titanic_Museum_Branson.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 1195945139,
+            "lat": 36.6468801,
+            "lon": -93.2869065,
+            "tags": {
+                "building": "yes",
+                "name": "Dinosaur Museum",
+                "tourism": "museum"
+            }
+        },
+        {
+            "type": "way",
+            "id": 1355506640,
+            "lat": 36.6433289,
+            "lon": -93.2167237,
+            "tags": {
+                "addr:city": "Branson",
+                "addr:housenumber": "120",
+                "addr:postcode": "65616",
+                "addr:state": "MO",
+                "addr:street": "Commercial Street",
+                "building": "yes",
+                "fee": "no",
+                "museum": "local",
+                "name": "Branson Centennial Museum",
+                "opening_hours": "Mo-Sa 10:00-16:00",
+                "operator": "White River Valley Historical Society",
+                "phone": "+1 417-239-1912",
+                "tourism": "museum",
+                "website": "https://wrvhs.org/locations/bcm/"
+            }
+        }
+    ]
+}

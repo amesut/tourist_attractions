@@ -1,0 +1,390 @@
+{
+    "city_metadata": {
+        "city_name": "La Crosse",
+        "state_code": "WI",
+        "state_full": "Wisconsin",
+        "city_summary": "La Crosse (  lə-KROSS) is a city in La Crosse County, Wisconsin, United States, and its county seat. Positioned alongside the Mississippi River, La Crosse is the most populous city on Wisconsin's western border. The population was 52,680 at the 2020 census.",
+        "city_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/La_Crosse_Main_Street_-_panoramio.jpg/1280px-La_Crosse_Main_Street_-_panoramio.jpg",
+        "city_lat": 43.81333333,
+        "city_lon": -91.23305556,
+        "source": "wikipedia_verified_engine"
+    },
+    "attractions": [
+        {
+            "type": "node",
+            "id": 367811296,
+            "lat": 43.8110788,
+            "lon": -91.2444304,
+            "tags": {
+                "addr:state": "WI",
+                "ele": "206",
+                "fee": "no",
+                "gnis:feature_id": "1843427",
+                "name": "Swarthout Museum",
+                "opening_hours": "Mo,Tu,Th-Sa 10:00-18:00; We 10:00-20:00",
+                "source": "USGS Geonames",
+                "tourism": "museum",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 3277721452,
+            "lat": 43.8059259,
+            "lon": -91.2528086,
+            "tags": {
+                "addr:city": "La Crosse",
+                "addr:housenumber": "711",
+                "addr:postcode": "54601",
+                "addr:state": "WI",
+                "addr:street": "3rd South Avenue",
+                "name": "Dahl Auto Museum",
+                "phone": "+1-608-791-6494",
+                "tourism": "museum",
+                "website": "https://www.dahlautomuseum.com/"
+            }
+        },
+        {
+            "type": "node",
+            "id": 5281021242,
+            "lat": 43.8611142,
+            "lon": -91.2386401,
+            "tags": {
+                "name": "Riverside Amusement Park",
+                "tourism": "theme_park"
+            }
+        },
+        {
+            "type": "way",
+            "id": 345148051,
+            "lat": 43.8028419,
+            "lon": -91.253231,
+            "tags": {
+                "addr:city": "La Crosse",
+                "addr:postcode": "54601",
+                "addr:state": "WI",
+                "addr:street": "3rd South Avenue",
+                "building": "industrial",
+                "name": "World's Largest Six-Pack",
+                "operator": "City Brewery",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/The_%22World%27s_Largest_Six-Pack%22_tanks_at_the_G._Heilemann_Brewing_Company%2C_La_Crosse%2C_Wisconsin_LCCN2011633491.tif/lossy-page1-1280px-The_%22World%27s_Largest_Six-Pack%22_tanks_at_the_G._Heilemann_Brewing_Company%2C_La_Crosse%2C_Wisconsin_LCCN2011633491.tif.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 577741273,
+            "lat": 38.5246764,
+            "lon": -99.3116148,
+            "tags": {
+                "addr:city": "La Crosse",
+                "addr:housenumber": "101",
+                "addr:state": "KS",
+                "addr:street": "West 1st Street",
+                "building": "yes",
+                "check_date:opening_hours": "2023-07-27",
+                "fee": "no",
+                "name": "Barbed Wire Museum",
+                "opening_hours": "May 01-Sep Mo[1] Mo-Sa 09:45-16:30; Su 13:00-16:30",
+                "seasonal": "yes",
+                "tourism": "museum",
+                "website": "https://www.rushcounty.org/BarbedWireMuseum/",
+                "wikidata": "Q14689712",
+                "wikipedia": "en:Kansas Barbed Wire Museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Asperger%27s_Are_Us_at_barbed_wire_museum.jpg/1280px-Asperger%27s_Are_Us_at_barbed_wire_museum.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 617650985,
+            "lat": 43.8107686,
+            "lon": -91.249737,
+            "tags": {
+                "addr:city": "La Crosse",
+                "addr:housenumber": "207",
+                "addr:postcode": "54601",
+                "addr:state": "WI",
+                "addr:street": "5th Avenue South",
+                "building": "yes",
+                "building:levels": "2",
+                "name": "Children's Museum of La Crosse",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/La_Crosse_cathedral.jpg/1280px-La_Crosse_cathedral.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 618280625,
+            "lat": 43.8158796,
+            "lon": -91.2471467,
+            "tags": {
+                "addr:city": "La Crosse",
+                "addr:housenumber": "429",
+                "addr:postcode": "54601",
+                "addr:street": "7th Street North",
+                "building": "yes",
+                "name": "Historic Hixon House Museum",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Hixon_House_La_Crosse_Wisconsin.jpg/1280px-Hixon_House_La_Crosse_Wisconsin.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 618282962,
+            "lat": 43.8110555,
+            "lon": -91.2464543,
+            "tags": {
+                "addr:city": "La Crosse",
+                "addr:housenumber": "123",
+                "addr:postcode": "54601",
+                "addr:state": "WI",
+                "addr:street": "7th Street South",
+                "area": "yes",
+                "name": "Explore La Crosse",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "way",
+            "id": 631887505,
+            "lat": 43.8183487,
+            "lon": -91.2556951,
+            "tags": {
+                "addr:city": "La Crosse",
+                "addr:housenumber": "410",
+                "addr:postcode": "54601",
+                "addr:street": "East Veterans Memorial Drive",
+                "building": "yes",
+                "name": "Riverside Museum",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/CroppedPanoramioPhotoChiefHiawathaLaCrosseWI.jpg/1280px-CroppedPanoramioPhotoChiefHiawathaLaCrosseWI.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 631890906,
+            "lat": 43.8180802,
+            "lon": -91.2568784,
+            "tags": {
+                "name": "La Crosse Queen",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/La_Crosse_Queen.jpg/1280px-La_Crosse_Queen.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 1192733854,
+            "lat": 38.5245417,
+            "lon": -99.3121941,
+            "tags": {
+                "building": "yes",
+                "name": "Post Rock Museum",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Asperger%27s_Are_Us_at_barbed_wire_museum.jpg/1280px-Asperger%27s_Are_Us_at_barbed_wire_museum.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 2901930,
+            "lat": 43.75477778,
+            "lon": -91.17938889,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Shrine_of_Our_Lady_of_Guadalupe_church.jpg/1280px-Shrine_of_Our_Lady_of_Guadalupe_church.jpg",
+            "description": "Shrine of Our Lady of Guadalupe is a Catholic shrine located in La Crosse, Wisconsin.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Shrine of Our Lady of Guadalupe",
+                "wikipedia": "en:Shrine of Our Lady of Guadalupe",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 51623022,
+            "lat": 43.8151,
+            "lon": -91.2556,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Riverside_park_aerial.jpg/1280px-Riverside_park_aerial.jpg",
+            "description": "Riverside Park is a public park located on the riverfront of downtown La Crosse, Wisconsin.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Riverside Park (La Crosse)",
+                "wikipedia": "en:Riverside Park (La Crosse)",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 100265,
+            "lat": 43.6374,
+            "lon": -89.7788,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Wisconsin_Dells%2C_Wisconsin.jpg/1280px-Wisconsin_Dells%2C_Wisconsin.jpg",
+            "description": "Wisconsin Dells (formerly Kilbourn) is a city in Columbia, Sauk, Adams and Juneau counties in the U.S. state of Wisconsin.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Wisconsin Dells, Wisconsin",
+                "wikipedia": "en:Wisconsin Dells, Wisconsin",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 139701,
+            "lat": 43.59666667,
+            "lon": -89.78777778,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Lake_Delton.jpg/1280px-Lake_Delton.jpg",
+            "description": "Lake Delton is a village in Sauk County, Wisconsin, United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Lake Delton, Wisconsin",
+                "wikipedia": "en:Lake Delton, Wisconsin",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 13571003,
+            "lat": 43.9077205,
+            "lon": -91.2407392,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Onalaska_Omni_Center_aerial.jpg/1280px-Onalaska_Omni_Center_aerial.jpg",
+            "description": "Onalaska Omni Center is a municipal convention center and indoor sports arena in Onalaska, Wisconsin, which serves greater La Crosse County.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Onalaska OmniCenter",
+                "wikipedia": "en:Onalaska OmniCenter",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 33127,
+            "lat": 44,
+            "lon": -90,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Flag_of_Wisconsin.svg/1280px-Flag_of_Wisconsin.svg.png",
+            "description": "Wisconsin is a state in the Upper Midwest and Great Lakes regions of the United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Wisconsin",
+                "wikipedia": "en:Wisconsin",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 260313,
+            "lat": 44.34,
+            "lon": -91.92444444,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/AlmaWI_HistoricBusinessDistrict.jpg/1280px-AlmaWI_HistoricBusinessDistrict.jpg",
+            "description": "Alma is a city in and the county seat of Buffalo County, Wisconsin, United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Alma, Wisconsin",
+                "wikipedia": "en:Alma, Wisconsin",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 57863,
+            "lat": 43.07472222,
+            "lon": -89.38416667,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/69/Aerial_View_of_Campus%2C_with_Helen_C._White_Hall_in_foreground_%2814070186173%29.jpg",
+            "description": "Madison is the capital of the U.S. state of Wisconsin.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Madison, Wisconsin",
+                "wikipedia": "en:Madison, Wisconsin",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 18385137,
+            "lat": 44.26166667,
+            "lon": -88.41083333,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Appletonperformingartscenter.jpg/1280px-Appletonperformingartscenter.jpg",
+            "description": "The Fox Cities Performing Arts Center, also called the PAC, is a performing arts center in downtown Appleton, Wisconsin, US. The Center is the home of the Broadway Across America – Fox Cities series, the Boldt Arts Alive!",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Fox Cities Performing Arts Center",
+                "wikipedia": "en:Fox Cities Performing Arts Center",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 46336516,
+            "lat": 43.03517139,
+            "lon": -89.43009944,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Seal_of_Wisconsin.svg/1280px-Seal_of_Wisconsin.svg.png",
+            "description": "The Wisconsin Department of Tourism is a governmental agency of the U.S. state of Wisconsin responsible for marketing and promoting the state as a travel destination.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Wisconsin Department of Tourism",
+                "wikipedia": "en:Wisconsin Department of Tourism",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 526824,
+            "lat": 43.04007306,
+            "lon": -87.89705806,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Milwaukee_Art_Museum_Logo.png",
+            "description": "The Milwaukee Art Museum (also referred to as MAM) is an art museum in Milwaukee, Wisconsin.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Milwaukee Art Museum",
+                "wikipedia": "en:Milwaukee Art Museum",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 13627586,
+            "lat": 43.17777778,
+            "lon": -89.21111111,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/MidgetCarsRacingAngellParkMay2010.jpg/1280px-MidgetCarsRacingAngellParkMay2010.jpg",
+            "description": "Angell Park Speedway is a 1/3 mile (0.54 km) dirt racetrack located in Sun Prairie, Wisconsin.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Angell Park Speedway",
+                "wikipedia": "en:Angell Park Speedway",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 1776260,
+            "lat": 43.02,
+            "lon": -88.01,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/2024_Hy-Vee_Milwaukee_Mile_250s_079_%28Milwaukee_Mile%29.jpg/1280px-2024_Hy-Vee_Milwaukee_Mile_250s_079_%28Milwaukee_Mile%29.jpg",
+            "description": "The Milwaukee Mile is a 1.015 mi (1.633 km) oval race track at the Wisconsin State Fair Park in West Allis, Wisconsin, a suburb west of Milwaukee.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Milwaukee Mile",
+                "wikipedia": "en:Milwaukee Mile",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 2431551,
+            "lat": 44.9,
+            "lon": -87.3,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/04/Map_of_Wisconsin_highlighting_Door_Peninsula.PNG",
+            "description": "The Door Peninsula is a peninsula  in eastern Wisconsin, separating the southern part of the Green Bay from Lake Michigan.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Door Peninsula",
+                "wikipedia": "en:Door Peninsula",
+                "tourism": "attraction"
+            }
+        }
+    ]
+}

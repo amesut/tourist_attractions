@@ -1,0 +1,384 @@
+{
+    "city_metadata": {
+        "city_name": "Sandy",
+        "state_code": "UT",
+        "state_full": "Utah",
+        "city_summary": "Sandy is a city in the Salt Lake City metropolitan area, located in Salt Lake County, Utah, United States. The population was 96,904 according to the 2020 United States census.\nSandy is home to the Shops at South Town shopping mall; the Jordan Commons entertainment, office and dining complex; and the Mountain America Exposition Center.",
+        "city_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Sandy%2C_Utah_city_hall.jpg/1280px-Sandy%2C_Utah_city_hall.jpg",
+        "city_lat": 40.5725,
+        "city_lon": -111.85972222,
+        "source": "wikipedia_verified_engine"
+    },
+    "attractions": [
+        {
+            "type": "node",
+            "id": 2332676893,
+            "lat": 40.560768,
+            "lon": -111.8940656,
+            "tags": {
+                "level": "0",
+                "museum": "automotive",
+                "name": "Automotive Addiction",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/South_Towne_Center_at_Christmas.jpg/1280px-South_Towne_Center_at_Christmas.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 62125816,
+            "lat": 40.5846688,
+            "lon": -111.8974779,
+            "tags": {
+                "addr:city": "Sandy",
+                "addr:housenumber": "9151",
+                "addr:postcode": "84070",
+                "addr:state": "UT",
+                "addr:street": "South Monroe Street",
+                "building": "yes",
+                "name": "Classic Fun Center",
+                "opening_hours": "Mo,Th 10:00-23:00; Tu 10:00-21:00; We,Fr 10:00-00:00; Sa 12:00-00:00",
+                "phone": "+1 801-561-1791",
+                "sport": "roller_skating;arcade;laser_tag;indoor_playground",
+                "tourism": "attraction",
+                "website": "https://www.classicfuncenter.com/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/29/Rio_Tinto_Stadium_home_of_Real_Salt_Lake_is_located_in_Sandy%2C_UT.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 329220148,
+            "lat": 45.3968246,
+            "lon": -122.257942,
+            "tags": {
+                "addr:city": "Sandy",
+                "addr:housenumber": "39345",
+                "addr:postcode": "97055",
+                "addr:street": "Pioneer Boulevard",
+                "building": "yes",
+                "ele": "305.8",
+                "height": "9.9",
+                "name": "Sandy Historical Society",
+                "tourism": "museum",
+                "url": "http://www.sandyhistorical.org/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/RS_Smith_Motor_Company_Building_-_Sandy_Oregon.jpg/1280px-RS_Smith_Motor_Company_Building_-_Sandy_Oregon.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 342119762,
+            "lat": 40.5926328,
+            "lon": -111.8861317,
+            "tags": {
+                "addr:city": "Sandy",
+                "addr:housenumber": "8748",
+                "addr:postcode": "84070",
+                "addr:state": "UT",
+                "addr:street": "South Center Street",
+                "name": "Sandy Museum",
+                "opening_hours": "Mo-Th 13:00-17:00",
+                "source": "esri/USA_NAD_Addresses",
+                "tourism": "museum",
+                "wikidata": "Q14711871"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Sandy_Co-op.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 4349459,
+            "lat": 10,
+            "lon": 76.3,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Boathouse_%287063399547%29.jpg/1280px-Boathouse_%287063399547%29.jpg",
+            "description": "Kerala is an Indian state on the Malabar Coast.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Kerala",
+                "wikipedia": "en:Kerala",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 53837,
+            "lat": 40.76083333,
+            "lon": -111.89111111,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Salt_Lake_Union_Pacific_Railroad_Station%2C_South_Temple_at_400_West%2C_Central_City_West%2C_Salt_Lake_City%2C_UT%2C_USA.jpg/1280px-Salt_Lake_Union_Pacific_Railroad_Station%2C_South_Temple_at_400_West%2C_Central_City_West%2C_Salt_Lake_City%2C_UT%2C_USA.jpg",
+            "description": "Salt Lake City, often shortened to Salt Lake or SLC, is the capital and most populous city of the U.S. state of Utah.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Salt Lake City",
+                "wikipedia": "en:Salt Lake City",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 4843401,
+            "lat": 40.5625,
+            "lon": -111.89472222,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/South_Towne_Center_at_Christmas.jpg/1280px-South_Towne_Center_at_Christmas.jpg",
+            "description": "The Shops at South Town, formerly South Towne Center, is a regional mid-scale shopping mall in Sandy, Utah, United States, located just east of Interstate 15 on State Street.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "The Shops at South Town",
+                "wikipedia": "en:The Shops at South Town",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 31716,
+            "lat": 39,
+            "lon": -111,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Flag_of_Utah.svg/1280px-Flag_of_Utah.svg.png",
+            "description": "Utah is a landlocked state in the Mountain West subregion of the  Western United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Utah",
+                "wikipedia": "en:Utah",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 47898,
+            "lat": 11.68,
+            "lon": 92.72,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/The_Coral_Reef_at_the_Andaman_Islands.jpg/1280px-The_Coral_Reef_at_the_Andaman_Islands.jpg",
+            "description": "The Andaman and Nicobar Islands is a union territory of India comprising 836 islands, of which only 31 are inhabited.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Andaman and Nicobar Islands",
+                "wikipedia": "en:Andaman and Nicobar Islands",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 422642,
+            "lat": 24.81,
+            "lon": 93.94,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Breathtaking_beauty_of_Dzukou_Valley_in_Manipur-Nagaland_border_%28edit%29.jpg/1280px-Breathtaking_beauty_of_Dzukou_Valley_in_Manipur-Nagaland_border_%28edit%29.jpg",
+            "description": "Manipur (, IPA: [məɳiˈpʊɾ]) is a state in northeastern India with Imphal as its capital.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Manipur",
+                "wikipedia": "en:Manipur",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 326019,
+            "lat": 25.57,
+            "lon": 91.88,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Dawki_River%2C_Meghalaya%2C_India.jpg/1280px-Dawki_River%2C_Meghalaya%2C_India.jpg",
+            "description": "Meghalaya (; lit.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Meghalaya",
+                "wikipedia": "en:Meghalaya",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 990267,
+            "lat": 17.9,
+            "lon": 79.3,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Master_piece_of_ramappa_temple.jpg/1280px-Master_piece_of_ramappa_temple.jpg",
+            "description": "Telangana is a state in India situated in the south-central part of the Indian subcontinent on the high Deccan Plateau.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Telangana",
+                "wikipedia": "en:Telangana",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 29376,
+            "lat": 40,
+            "lon": 9,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Sardinia_in_Italy.svg/1280px-Sardinia_in_Italy.svg.png",
+            "description": "Sardinia ( sar-DIN-ee-ə; Sardinian: Sardigna [saɾˈdiɲːa]; Italian: Sardegna [sarˈdeɲɲa] ), officially the Autonomous Region of Sardinia, is the second largest island in the Mediterranean Sea after Sicily, and one of the twenty regions of Italy.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Sardinia",
+                "wikipedia": "en:Sardinia",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 184334,
+            "lat": 14.5958,
+            "lon": 120.9772,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Cityscape_of_Manila%2C_2025_%2801%29.jpg/1280px-Cityscape_of_Manila%2C_2025_%2801%29.jpg",
+            "description": "Manila, officially the City of Manila, is the capital and second-most populous city of the Philippines after Quezon City.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Manila",
+                "wikipedia": "en:Manila",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 26291,
+            "lat": 26.6,
+            "lon": 73.8,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Thar_Khuri.jpg/1280px-Thar_Khuri.jpg",
+            "description": "Rajasthan (Hindi: Rājasthāna, pronounced [ɾaːd͡ʒəsˈtʰaːn] ; lit.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Rajasthan",
+                "wikipedia": "en:Rajasthan",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 30395,
+            "lat": 36,
+            "lon": -86,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Flag_of_Tennessee.svg/1280px-Flag_of_Tennessee.svg.png",
+            "description": "Tennessee ( , locally ), officially the State of Tennessee, is a landlocked state in the Southeastern region of the United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Tennessee",
+                "wikipedia": "en:Tennessee",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 1998,
+            "lat": 30.26722222,
+            "lon": -97.74305556,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Skyline_of_Austin%2C_Texas_%28cropped%29.jpg/1280px-Skyline_of_Austin%2C_Texas_%28cropped%29.jpg",
+            "description": "Austin (  AW-stin) is the capital city of the U.S. state of Texas.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Austin, Texas",
+                "wikipedia": "en:Austin, Texas",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 1645518,
+            "lat": 42.3,
+            "lon": -72,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Flag_of_Massachusetts.svg/1280px-Flag_of_Massachusetts.svg.png",
+            "description": "Massachusetts (   MASS-ə-CHOO-sits, -⁠zits; Massachusett: Muhsachuweesut [məhswatʃəwiːsət]), officially the Commonwealth of Massachusetts, is a state in the New England region of the Northeastern United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Massachusetts",
+                "wikipedia": "en:Massachusetts",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 29810,
+            "lat": 31,
+            "lon": -99,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Flag_of_Texas.svg/1280px-Flag_of_Texas.svg.png",
+            "description": "Texas (  TEK-səss) is the most populous state in the Southern United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Texas",
+                "wikipedia": "en:Texas",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 53840,
+            "lat": 29.30138889,
+            "lon": -94.79777778,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Galveston_Texas_Skyline.jpg",
+            "description": "Galveston ( GAL-vis-tən) is a resort city and port on the Gulf Coast of the U.S. state of Texas.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Galveston, Texas",
+                "wikipedia": "en:Galveston, Texas",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 23397776,
+            "lat": 30.79,
+            "lon": 75.84,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Golden_Temple%2C_Amritsar%2C_Punjab_UNAG.jpg/1280px-Golden_Temple%2C_Amritsar%2C_Punjab_UNAG.jpg",
+            "description": "Punjab ( pun-JAHB; Panjabi: pañjāba, pronounced [pəɲˈd͡ʒaːb] ) is a state in northwestern India.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Punjab, India",
+                "wikipedia": "en:Punjab, India",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 178286,
+            "lat": 59.07638889,
+            "lon": 8.51833333,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Norway_Telemarksvegen_2.jpg/1280px-Norway_Telemarksvegen_2.jpg",
+            "description": "Nissedal is a rural municipality in Telemark region of Telemark county, Norway.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Nissedal",
+                "wikipedia": "en:Nissedal",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 92995,
+            "lat": 27.9475,
+            "lon": -82.45861111,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Downtown_Tampa%2C_Florida.jpg/1280px-Downtown_Tampa%2C_Florida.jpg",
+            "description": "Tampa (  TAM-pə) is a major city on the Gulf Coast of the U.S. state of Florida and the county seat of Hillsborough County.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Tampa, Florida",
+                "wikipedia": "en:Tampa, Florida",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 1490376,
+            "lat": 21.75,
+            "lon": 88.75,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Save_the_sundarbans_20.jpg/1280px-Save_the_sundarbans_20.jpg",
+            "description": "Sundarbans (Bengali: সুন্দরবন; pronounced ) is a mangrove forest area in the Ganges Delta formed by the confluence of the Ganges, Brahmaputra and Meghna Rivers in the Bay of Bengal.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Sundarbans",
+                "wikipedia": "en:Sundarbans",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 136773,
+            "lat": 27.52361111,
+            "lon": -99.49027778,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Laredo_Downtown.JPG/1280px-Laredo_Downtown.JPG",
+            "description": "Laredo (English pronunciation: /ləˈɹeɪdoʊ/ ; Spanish pronunciation: [laˈɾeðo] ) is a city in the U.S. state of Texas and the county seat and largest city of Webb County, on the north bank of the Rio Grande in South Texas, across from Nuevo Laredo, Tamaulipas, Mexico.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Laredo, Texas",
+                "wikipedia": "en:Laredo, Texas",
+                "tourism": "attraction"
+            }
+        }
+    ]
+}

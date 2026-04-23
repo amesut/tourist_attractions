@@ -1,0 +1,2606 @@
+{
+    "city_metadata": {
+        "city_name": "Philadelphia",
+        "state_code": "PA",
+        "state_full": "Pennsylvania",
+        "city_summary": "Philadelphia (  FIL-ə-DEL-fee-ə), colloquially referred to as Philly, is the most populous city in the U.S. state of Pennsylvania, and the sixth-most populous city in the United States, with a Census-estimated population of 1,574,281 in July 2025.\nThe Philadelphia metropolitan area (also called the Delaware Valley) has 6.33 million residents and is the nation's ninth-largest metropolitan area. Philadelphia is known for its culture, cuisine, and history, maintaining contemporary influence in business and technology, sports, and music.",
+        "city_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Philadelphia_skyline_20240528_%28cropped_2-1%29.jpg/1280px-Philadelphia_skyline_20240528_%28cropped_2-1%29.jpg",
+        "city_lat": 39.9528,
+        "city_lon": -75.1636,
+        "source": "wikipedia_verified_engine"
+    },
+    "attractions": [
+        {
+            "type": "node",
+            "id": 367974278,
+            "lat": 40.0374846,
+            "lon": -75.1523978,
+            "tags": {
+                "addr:city": "Philadelphia",
+                "addr:housenumber": "1900",
+                "addr:state": "PA",
+                "addr:street": "West Olney Avenue",
+                "check_date": "2024-08-25",
+                "contact:facebook": "https://www.facebook.com/LaSalleUniversityArtMuseum/",
+                "ele": "61",
+                "gnis:feature_id": "2349240",
+                "name": "La Salle University Art Museum",
+                "source": "USGS Geonames",
+                "tourism": "museum",
+                "website": "https://artcollection.lasalle.edu/",
+                "wikidata": "Q16893816"
+            }
+        },
+        {
+            "type": "node",
+            "id": 367974369,
+            "lat": 40.0400086,
+            "lon": -75.1784283,
+            "tags": {
+                "addr:city": "Germantown",
+                "addr:housenumber": "6026",
+                "addr:state": "PA",
+                "addr:street": "Germantown Avenue",
+                "ele": "76",
+                "fee": "no",
+                "gnis:feature_id": "2350875",
+                "name": "Wyck Museum",
+                "source": "USGS Geonames",
+                "tourism": "museum",
+                "website": "https://wyck.org/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Germantown_Mennonite_Meeting.JPG/1280px-Germantown_Mennonite_Meeting.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 1207480649,
+            "lat": 39.9494654,
+            "lon": -75.1502823,
+            "tags": {
+                "addr:city": "Philadelphia",
+                "addr:country": "US",
+                "addr:housenumber": "526",
+                "addr:postcode": "19106",
+                "addr:state": "PA",
+                "addr:street": "Market Street",
+                "historic": "bell",
+                "landmark": "4",
+                "name": "Liberty Bell",
+                "name:de": "Freiheitsglocke",
+                "name:es": "Campana de la Libertad",
+                "name:fr": "Cloche de la Liberté",
+                "name:it": "Campana della Libertà",
+                "name:pt": "Sino da Liberdade",
+                "opening_hours": "Mo-Su 09:00-17:00",
+                "tourism": "attraction",
+                "wheelchair": "yes",
+                "wikidata": "Q390306",
+                "wikipedia": "en:Liberty Bell"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Liberty_Bell_2017a.jpg/1280px-Liberty_Bell_2017a.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 1847081969,
+            "lat": 39.9661894,
+            "lon": -75.1835253,
+            "tags": {
+                "addr:city": "Philadelphia",
+                "addr:housenumber": "640",
+                "addr:postcode": "19130",
+                "addr:state": "PA",
+                "addr:street": "Waterworks Drive",
+                "description": "History museum and nature center.",
+                "fee": "no",
+                "museum": "history",
+                "name": "Fairmount Water Works Interpretive Center",
+                "opening_hours": "We-Sa 10:00-17:00",
+                "operator": "Philadelphia Parks & Recreation and Philadelphia Water Department.",
+                "operator:type": "government",
+                "tourism": "museum",
+                "website": "https://fairmountwaterworks.org/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Fairmount_Water_Works_LOC_314409cu.jpg/1280px-Fairmount_Water_Works_LOC_314409cu.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 2151033537,
+            "lat": 39.9478867,
+            "lon": -75.1631682,
+            "tags": {
+                "addr:city": "Philadelphia",
+                "addr:housenumber": "1314",
+                "addr:postcode": "19107",
+                "addr:state": "PA",
+                "addr:street": "Locust Street",
+                "alt_name": "The Library Company of Philadelphia",
+                "amenity": "library",
+                "fee": "no",
+                "name": "The Library Company",
+                "tourism": "museum",
+                "website": "https://librarycompany.org/",
+                "wikidata": "Q3237918",
+                "wikipedia": "en:The Library Company"
+            }
+        },
+        {
+            "type": "node",
+            "id": 3420767505,
+            "lat": 39.9532752,
+            "lon": -75.1765473,
+            "tags": {
+                "addr:city": "Philadelphia",
+                "addr:housenumber": "19",
+                "addr:postcode": "19103",
+                "addr:state": "PA",
+                "addr:street": "South 22nd Street",
+                "fee": "yes",
+                "museum": "medicine",
+                "name": "Mütter Museum",
+                "opening_hours": "Mo,We-Su 10:00-17:00",
+                "tourism": "museum",
+                "website": "https://muttermuseum.org/",
+                "wheelchair": "no",
+                "wikidata": "Q1569444",
+                "wikipedia": "en:Mütter Museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/The_Mutter_Museum_%2853586792843%29.jpg/1280px-The_Mutter_Museum_%2853586792843%29.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 4150740083,
+            "lat": 39.9483709,
+            "lon": -75.1458446,
+            "tags": {
+                "addr:city": "Philadelphia",
+                "addr:housenumber": "101",
+                "addr:postcode": "19106",
+                "addr:state": "PA",
+                "addr:street": "South 3rd Street",
+                "contact:email": "info@amrevmuseum.org",
+                "fee": "yes",
+                "name": "Museum of the American Revolution",
+                "opening_hours": "10:00-17:00",
+                "phone": "+1 215-253-6731",
+                "tourism": "museum",
+                "website": "https://www.amrevmuseum.org/",
+                "wikidata": "Q7713548",
+                "wikipedia": "en:Museum of the American Revolution"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Museum_of_the_American_Revolution_%2853590618560%29.jpg/1280px-Museum_of_the_American_Revolution_%2853590618560%29.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 4150740084,
+            "lat": 39.9496708,
+            "lon": -75.1465951,
+            "tags": {
+                "name": "Fragments of Franklin Court",
+                "tourism": "museum",
+                "website": "https://www.nps.gov/inde/planyourvisit/fragments.htm"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/CHF_P1000360_First_National_Bank_Exterior.jpg/1280px-CHF_P1000360_First_National_Bank_Exterior.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 4150841871,
+            "lat": 39.9532991,
+            "lon": -75.1590529,
+            "tags": {
+                "name": "Reading Terminal",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Reading_Terminal_Market_%2853587020195%29.jpg/1280px-Reading_Terminal_Market_%2853587020195%29.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 4175144392,
+            "lat": 39.9390087,
+            "lon": -75.1578351,
+            "tags": {
+                "addr:street": "Christian Street",
+                "name": "Italian market",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Phila-dibrunobros.jpg/1280px-Phila-dibrunobros.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 4860593806,
+            "lat": 40.0037703,
+            "lon": -75.1875276,
+            "tags": {
+                "name": "Adrian Balboa & Paulie Pennino",
+                "panoramax": "1389af75-0eb2-427a-98c1-59f46f295626",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/ee/LaurelHillCemeteryGatehouse%28cropped%29_HABS314296cv.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 5368454121,
+            "lat": 39.9540646,
+            "lon": -75.194773,
+            "tags": {
+                "addr:city": "Philadelphia",
+                "addr:housenumber": "118",
+                "addr:postcode": "19104",
+                "addr:state": "PA",
+                "addr:street": "South 36th Street",
+                "contact:facebook": "ICAPhiladelphia",
+                "contact:instagram": "ICAPhiladelphia",
+                "fee": "no",
+                "museum": "art",
+                "name": "Institute of Contemporary Art",
+                "opening_hours": "We-Su 12:00-18:00",
+                "phone": "+1 215-898-5911",
+                "toilets:wheelchair": "yes",
+                "tourism": "museum",
+                "website": "https://icaphila.org",
+                "wheelchair": "yes"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Institute_of_Contemporary_Art%2C_Philadelphia_%2853590175846%29.jpg/1280px-Institute_of_Contemporary_Art%2C_Philadelphia_%2853590175846%29.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 5429763941,
+            "lat": 40.0433544,
+            "lon": -75.1812224,
+            "tags": {
+                "addr:city": "Philadelphia",
+                "addr:housenumber": "6306",
+                "addr:postcode": "19144",
+                "addr:state": "PA",
+                "addr:street": "Germantown Avenue",
+                "fee": "yes",
+                "name": "Johnson House Historic Site",
+                "phone": "+1-215-438-1768",
+                "tourism": "museum",
+                "website": "https://www.johnsonhouse.org/",
+                "wikidata": "Q6241947",
+                "wikipedia": "en:John Johnson House (Philadelphia, Pennsylvania)"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/WTP_B30_Audrey_1.jpg/1280px-WTP_B30_Audrey_1.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 5524144227,
+            "lat": 39.9675107,
+            "lon": -75.2090515,
+            "tags": {
+                "addr:city": "Philadelphia",
+                "addr:housenumber": "4243",
+                "addr:postcode": "19104",
+                "addr:state": "PA",
+                "addr:street": "Lancaster Avenue",
+                "name": "New Africa Center",
+                "opening_hours": "We-Sa 13:00-18:00",
+                "phone": "+1 267-957-5971",
+                "tourism": "museum",
+                "website": "https://newafricacenter.com/"
+            }
+        },
+        {
+            "type": "node",
+            "id": 6073969925,
+            "lat": 40.0798425,
+            "lon": -75.2341405,
+            "tags": {
+                "name": "The Great Beech",
+                "natural": "tree",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 6073969948,
+            "lat": 40.0866139,
+            "lon": -75.2201249,
+            "tags": {
+                "name": "Holiday Garden Railway",
+                "tourism": "attraction",
+                "wheelchair": "limited"
+            }
+        },
+        {
+            "type": "node",
+            "id": 6157737413,
+            "lat": 39.9737904,
+            "lon": -75.1951991,
+            "tags": {
+                "attraction": "ballooning",
+                "name": "WildWorks Ropes Course",
+                "operator": "Philadelphia Zoo",
+                "tourism": "attraction",
+                "website": "https://philadelphiazoo.org/Explore/Attractions/6abc-Zooballoon.htm"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Philadelphia_Zoo_entrance%2C_Philadelphia%2C_Pennsylvania%2C_USA-27June2010.jpg/1280px-Philadelphia_Zoo_entrance%2C_Philadelphia%2C_Pennsylvania%2C_USA-27June2010.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 6240921141,
+            "lat": 39.9815673,
+            "lon": -75.1321196,
+            "tags": {
+                "name": "Harbison's Dairy Milk Bottle",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/26th_District_Police_and_Patrol_Station.jpg/1280px-26th_District_Police_and_Patrol_Station.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 6509008579,
+            "lat": 40.0240303,
+            "lon": -75.2014125,
+            "tags": {
+                "man_made": "cellar_entrance",
+                "name": "Kelpius Cave",
+                "panoramax": "0bbb90ea-4b02-41c3-bd5f-4d398b441b0f",
+                "tourism": "attraction",
+                "wikimedia_commons": "File:Kelpius Cave.jpg"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/16/Henry_Ave_Bridge_II_-_panoramio.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 6625307586,
+            "lat": 39.9487835,
+            "lon": -75.1483813,
+            "tags": {
+                "addr:city": "Philadelphia",
+                "addr:housenumber": "420",
+                "addr:state": "PA",
+                "addr:street": "Chestnut Street",
+                "fee": "no",
+                "museum": "art",
+                "name": "Portrait Gallery in the Second Bank",
+                "opening_hours": "Fr-Sa 11:00-17:00",
+                "operator": "National Park Service",
+                "operator:type": "government",
+                "tourism": "museum",
+                "website": "https://www.nps.gov/inde/planyourvisit/secondbankportraitgallery.htm"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/George_Washington_by_William_Rush%2C_Philadelphia%2C_PA_%28cropped%29.jpg/1280px-George_Washington_by_William_Rush%2C_Philadelphia%2C_PA_%28cropped%29.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 6625404453,
+            "lat": 39.9495949,
+            "lon": -75.1467856,
+            "tags": {
+                "description": "$5 for adults, $2 for children 4-16, free for children 3 and under",
+                "fee": "yes",
+                "name": "Benjamin Franklin Museum",
+                "opening_hours": "09:00-17:00",
+                "tourism": "museum",
+                "website": "https://www.nps.gov/inde/planyourvisit/benjaminfranklinmuseum.htm"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/CHF_P1000360_First_National_Bank_Exterior.jpg/1280px-CHF_P1000360_First_National_Bank_Exterior.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 6630340319,
+            "lat": 39.9827346,
+            "lon": -75.1930017,
+            "tags": {
+                "comment": "new building in this area for the center is now open",
+                "name": "Discovery Center at East Park Reservoir",
+                "tourism": "attraction",
+                "website": "https://www.discoveryphila.org/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Cliffshouse_sedgley.jpg/1280px-Cliffshouse_sedgley.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 6632470609,
+            "lat": 39.9583489,
+            "lon": -75.2128246,
+            "tags": {
+                "alt_name": "Studio B",
+                "comment": "tours are offered of the studio",
+                "historic:amenity": "studio",
+                "name": "American Bandstand",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/192710ArenaRink.jpg/1280px-192710ArenaRink.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 6639171231,
+            "lat": 39.9737899,
+            "lon": -75.170157,
+            "tags": {
+                "addr:city": "Philadelphia",
+                "addr:housenumber": "2101",
+                "addr:postcode": "19121",
+                "addr:state": "PA",
+                "addr:street": "South College Avenue",
+                "alt_name": "The Girard College Legacy Collection",
+                "description": "All visitors must check in with security upon entering the campus.",
+                "fee": "no",
+                "name": "Founder's Hall Museum",
+                "opening_hours": "We-Fr 10:00-16:00 \"other dates/times available by appointment\"",
+                "tourism": "museum",
+                "website": "https://www.girardcollege.edu/visitors/founders-hall-museum/plan-your-visit/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Girard_College.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 6639391809,
+            "lat": 39.9638329,
+            "lon": -75.1608778,
+            "tags": {
+                "addr:city": "Philadelphia",
+                "addr:housenumber": "615",
+                "addr:postcode": "19123",
+                "addr:state": "PA",
+                "addr:street": "North Broad Street",
+                "check_date": "2023-10-11",
+                "fee": "no",
+                "name": "Philadelphia Museum of Jewish Art",
+                "phone": "+1 215-627-6747",
+                "tourism": "museum",
+                "website": "https://rodephshalom.org/community/philadelphia-museum-jewish-art"
+            }
+        },
+        {
+            "type": "node",
+            "id": 6658146374,
+            "lat": 39.9464991,
+            "lon": -75.2081121,
+            "tags": {
+                "name": "Marvin Samson Center for the History of Pharmacy",
+                "tourism": "museum",
+                "website": "https://www.sju.edu/pharmacymuseum"
+            }
+        },
+        {
+            "type": "node",
+            "id": 6680708848,
+            "lat": 39.9473313,
+            "lon": -75.1683258,
+            "tags": {
+                "addr:city": "Philadelphia",
+                "addr:housenumber": "1606",
+                "addr:postcode": "19103",
+                "addr:state": "PA",
+                "addr:street": "Spruce Street",
+                "name": "Romanian Folk Art Museum",
+                "opening_hours": "Th-Su 13:00-15:00,17:00-19:00,19:30-21:00",
+                "tourism": "museum",
+                "website": "http://www.romanianculture.us/",
+                "wikidata": "Q113484178"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Tourain_Philadelphia.JPG/1280px-Tourain_Philadelphia.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 6682531796,
+            "lat": 40.0227119,
+            "lon": -75.1645063,
+            "tags": {
+                "addr:city": "Philadelphia",
+                "addr:housenumber": "4613",
+                "addr:postcode": "19144",
+                "addr:state": "PA",
+                "addr:street": "Newhall Street",
+                "fee": "yes",
+                "name": "The Colored Girls Museum",
+                "phone": "+1 267-630-4438",
+                "tourism": "museum",
+                "website": "https://www.thecoloredgirlsmuseum.com/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Keystone_Dry_Plate_and_Film_Works.png/1280px-Keystone_Dry_Plate_and_Film_Works.png",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 6944020724,
+            "lat": 39.9566066,
+            "lon": -75.2214061,
+            "tags": {
+                "addr:city": "Philadelphia",
+                "addr:housenumber": "4951",
+                "addr:postcode": "19139",
+                "addr:state": "PA",
+                "addr:street": "Walnut Street",
+                "fee": "yes",
+                "name": "Paul Robeson House & Museum",
+                "opening_hours": "Th-Sa 10:00-16:00",
+                "phone": "+1 215-747-4675",
+                "tourism": "museum",
+                "website": "https://www.paulrobesonhouse.org/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Robesonhouse.Philadelphia.JPG/1280px-Robesonhouse.Philadelphia.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 7014997902,
+            "lat": 39.9615867,
+            "lon": -75.1977577,
+            "tags": {
+                "alt_name": "The Ellen Powell Tiberino Memorial Museum",
+                "name": "Tiberino Museum",
+                "tourism": "museum",
+                "website": "https://tiberinomuseum.com/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/SaundersPark2017.jpg/1280px-SaundersPark2017.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 7115722324,
+            "lat": 40.002016,
+            "lon": -75.151905,
+            "tags": {
+                "alt_name": "The Dr. and Mrs. Edwin F. Weaver III Historical Dental Museum",
+                "name": "Weaver Historical Dental Museum",
+                "tourism": "museum",
+                "website": "https://temple.pastperfectonline.com//"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Kornberg_School_of_Dentistry_-_Temple_University_%2853564621495%29.jpg/1280px-Kornberg_School_of_Dentistry_-_Temple_University_%2853564621495%29.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 7134774357,
+            "lat": 39.9908846,
+            "lon": -75.2136636,
+            "tags": {
+                "alt_name": "Underground Railroad Museum",
+                "name": "Underground Railroad Museum at Belmont Mansion",
+                "tourism": "museum",
+                "website": "https://www.belmontmansion.org/tours_belmont_mansion.html"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/WTP_A11_Techserv_1.jpg/1280px-WTP_A11_Techserv_1.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 7205323624,
+            "lat": 40.0395749,
+            "lon": -75.1587835,
+            "tags": {
+                "addr:city": "Philadelphia",
+                "addr:housenumber": "1900",
+                "addr:postcode": "19141-1199",
+                "addr:state": "PA",
+                "addr:street": "West Olney Avenue",
+                "check_date": "2024-08-25",
+                "name": "Museum of Nursing History",
+                "phone": "+1 215-951-1526",
+                "tourism": "museum",
+                "website": "https://nursinghistory.org/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/WTP_B25_Audrey_1.jpg/1280px-WTP_B25_Audrey_1.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 7221500786,
+            "lat": 40.0369616,
+            "lon": -75.1756135,
+            "tags": {
+                "addr:city": "Philadelphia",
+                "addr:housenumber": "5801-3",
+                "addr:state": "PA",
+                "addr:street": "Germantown Avenue",
+                "contact:facebook": "https://www.facebook.com/Acesmuseuminternational",
+                "fee": "no",
+                "name": "ACES Museum",
+                "opening_hours": "Mo-Th 10:00-16:00; Sa[2] 10:00-16:00",
+                "tourism": "museum",
+                "website": "https://acesveteransmuseum.com"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/WTP_B32_Audrey_1.jpg/1280px-WTP_B32_Audrey_1.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 7221500810,
+            "lat": 40.0358099,
+            "lon": -75.1762852,
+            "tags": {
+                "name": "Black Writers Museum",
+                "tourism": "museum",
+                "website": "https://www.blackwritersmuseum.com/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/WTP_B32_Audrey_1.jpg/1280px-WTP_B32_Audrey_1.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 7223154595,
+            "lat": 40.0419539,
+            "lon": -75.1676812,
+            "tags": {
+                "name": "The Museum of the Miraculous Medal Shrine",
+                "operator": "The Central Association of the Miraculous Medal",
+                "tourism": "museum",
+                "website": "https://cammonline.org/shrine-museum/art-museum/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/The_Basilica_Shrine_of_Our_Lady_of_the_Miraculous_Medal.jpg/1280px-The_Basilica_Shrine_of_Our_Lady_of_the_Miraculous_Medal.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 7232030214,
+            "lat": 40.0343586,
+            "lon": -75.1719155,
+            "tags": {
+                "name": "Germantown Historical Society",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Gtown_W_House_136627pu.jpg/1280px-Gtown_W_House_136627pu.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 7450315070,
+            "lat": 39.9549097,
+            "lon": -75.1698809,
+            "tags": {
+                "amenity": "cinema",
+                "name": "The Universal Sphere",
+                "tourism": "attraction",
+                "website": "https://comcastcentercampus.com/universal-sphere/"
+            }
+        },
+        {
+            "type": "node",
+            "id": 8410366420,
+            "lat": 39.953569,
+            "lon": -75.162285,
+            "tags": {
+                "addr:city": "Philadelphia",
+                "addr:housenumber": "1",
+                "addr:postcode": "19107",
+                "addr:state": "PA",
+                "addr:street": "North Broad Street",
+                "fee": "yes",
+                "name": "The Philadelphia Masonic Temple, Library and Museum",
+                "phone": "+1 215-988-1900",
+                "tourism": "museum",
+                "website": "https://pamasonictemple.org/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Philadelphia_skyline_20240528_%28cropped_2-1%29.jpg/1280px-Philadelphia_skyline_20240528_%28cropped_2-1%29.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 8588157992,
+            "lat": 39.9529646,
+            "lon": -75.1481495,
+            "tags": {
+                "name": "U.S. Mint at Philadelphia Tour",
+                "opening_hours": "Mo-Fr 09:00-16:30",
+                "tourism": "attraction",
+                "website": "https://www.usmint.gov/about/mint-tours-facilities/philadelphia/tour-information"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Free_Quaker_Meeting_House_from_northeast.jpg/1280px-Free_Quaker_Meeting_House_from_northeast.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 8591427665,
+            "lat": 39.9526043,
+            "lon": -75.1683906,
+            "tags": {
+                "alt_name": "Philly From The Top",
+                "name": "One Liberty Observation Deck",
+                "operator": "Montparnasse 56",
+                "tourism": "attraction",
+                "website": "https://phillyfromthetop.com/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/da/A365%2C_One_Liberty_Observation_Deck%2C_Philadelphia%2C_Pennsylvania%2C_USA%2C_2015.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 9386902634,
+            "lat": 40.0875924,
+            "lon": -75.2219541,
+            "tags": {
+                "name": "Out on a Limb Tree Canopy Walk",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9419544161,
+            "lat": 40.0875778,
+            "lon": -75.2202782,
+            "tags": {
+                "name": "Orange Balustrade",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9419544162,
+            "lat": 40.0865485,
+            "lon": -75.2188531,
+            "tags": {
+                "name": "Azalea Meadow",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9419544163,
+            "lat": 40.0860624,
+            "lon": -75.218797,
+            "tags": {
+                "name": "Springhouse",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9419544164,
+            "lat": 40.0850533,
+            "lon": -75.2229589,
+            "tags": {
+                "name": "English Park",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9419544165,
+            "lat": 40.0892616,
+            "lon": -75.221473,
+            "tags": {
+                "name": "Magnolia Slope",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Morris_Arboretum_-_DSC00540.JPG/1280px-Morris_Arboretum_-_DSC00540.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 9922729738,
+            "lat": 39.9324435,
+            "lon": -75.1647057,
+            "tags": {
+                "addr:city": "Philadelphia",
+                "addr:housenumber": "1214",
+                "addr:postcode": "19147",
+                "addr:state": "PA",
+                "addr:street": "Reed Street",
+                "contact:facebook": "https://www.facebook.com/MarioLanzaInstitute",
+                "fee": "yes",
+                "name": "The Mario Lanza Institute and Museum",
+                "tourism": "museum",
+                "website": "https://www.mariolanzainstitute.org/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Philly041907-004-GenosSteaks.jpg/1280px-Philly041907-004-GenosSteaks.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 10268934301,
+            "lat": 39.9506281,
+            "lon": -75.1474521,
+            "tags": {
+                "addr:city": "Philadelphia",
+                "addr:housenumber": "401",
+                "addr:postcode": "19106",
+                "addr:state": "PA",
+                "addr:street": "Market Street",
+                "contact:facebook": "MuseumOfIllusionsPhilly",
+                "contact:instagram": "museumofillusions_philly",
+                "email": "info@moiphilly.com",
+                "name": "Museum of Illusions Philadelphia",
+                "opening_hours": "Su-Th 10:00-20:00; Fr-Sa 10:00-21:00",
+                "phone": "+1-267-703-2270",
+                "tourism": "museum",
+                "website": "https://moiphilly.com"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Museum_of_Illusions_Phila_2023_jeh.jpg/1280px-Museum_of_Illusions_Phila_2023_jeh.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 11106031305,
+            "lat": 39.962052,
+            "lon": -75.1537893,
+            "tags": {
+                "addr:street": "North Percy Street",
+                "name": "Philly Gun Range",
+                "opening_hours": "Mo-Sa,Su 11:00-19:00,11:00-17:00",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Spring_Garden_Street_Station_from_southeast_3.jpg/1280px-Spring_Garden_Street_Station_from_southeast_3.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 12235452452,
+            "lat": 39.9533851,
+            "lon": -75.1448564,
+            "tags": {
+                "addr:city": "Philadelphia",
+                "addr:housenumber": "141",
+                "addr:postcode": "19106",
+                "addr:state": "PA",
+                "addr:street": "North 3rd Street",
+                "name": "Museum for Art in Wood",
+                "opening_hours": "We-Su 12:00-17:00; Mo-Tu off",
+                "phone": "+1-215-923-8000",
+                "tourism": "museum",
+                "website": "https://museumforartinwood.org/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Museum_for_Art_in_Wood_%2853572822364%29.jpg/1280px-Museum_for_Art_in_Wood_%2853572822364%29.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 13125217417,
+            "lat": 39.9635605,
+            "lon": -75.1685976,
+            "tags": {
+                "check_date": "2025-09-04",
+                "name": "Carpenters Museum",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/23/Phila_USMint02.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 12150950,
+            "lat": 39.9527724,
+            "lon": -75.1423813,
+            "tags": {
+                "highway": "residential",
+                "lanes": "1",
+                "motor_vehicle": "destination",
+                "name": "Elfreth's Alley",
+                "name:etymology": "Jeremiah Elfreth",
+                "oneway": "yes",
+                "surface": "cobblestone",
+                "tiger:cfcc": "A41",
+                "tiger:name_base": "Elfreth's",
+                "tiger:name_type": "Aly",
+                "tiger:zip_left": "19106",
+                "tiger:zip_right": "19106",
+                "tourism": "attraction",
+                "wikidata": "Q3050836",
+                "wikipedia": "en:Elfreth's Alley"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Elfreth%27s_Alley_%2853572700168%29.jpg/1280px-Elfreth%27s_Alley_%2853572700168%29.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 25271595,
+            "lat": 39.9488937,
+            "lon": -75.1500195,
+            "tags": {
+                "addr:city": "Philadelphia",
+                "addr:housenumber": "520",
+                "addr:postcode": "19106",
+                "addr:state": "PA",
+                "addr:street": "Chestnut Street",
+                "building": "yes",
+                "building:material": "brick",
+                "ele": "9",
+                "historic": "yes",
+                "landmark": "5",
+                "name": "Independence Hall",
+                "name:de": "Unabhängigkeitshalle",
+                "ref:nrhp": "66000683",
+                "tourism": "museum",
+                "website": "https://www.nps.gov/inde/planyourvisit/independencehall.htm",
+                "wikidata": "Q390028",
+                "wikipedia": "en:Independence Hall"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Independence_Hall.jpg/1280px-Independence_Hall.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 28533972,
+            "lat": 39.9655742,
+            "lon": -75.1809204,
+            "tags": {
+                "addr:city": "Philadelphia",
+                "addr:housenumber": "2600",
+                "addr:postcode": "19130",
+                "addr:state": "PA",
+                "addr:street": "Benjamin Franklin Parkway",
+                "alt_name": "Philadelphia Art Museum",
+                "building": "yes",
+                "building:levels": "4",
+                "check_date": "2026-02-04",
+                "ele": "32",
+                "fee": "yes",
+                "museum": "art",
+                "name": "Philadelphia Museum of Art",
+                "name:hi": "फिलाडेल्फिया कला संग्रहालय",
+                "opening_hours": "Su,Mo,Th,Sa 10:00-17:00; Fr 10:00-20:45",
+                "phone": "+1-215-763-8100",
+                "short_name": "PMA",
+                "tourism": "museum",
+                "website": "https://www.visitpham.org/",
+                "wheelchair": "yes",
+                "wikidata": "Q510324",
+                "wikipedia": "en:Philadelphia Museum of Art"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/PhiladelphiaMuseumOfArt2017.jpg/1280px-PhiladelphiaMuseumOfArt2017.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 32122035,
+            "lat": 39.9456925,
+            "lon": -75.2037357,
+            "tags": {
+                "building": "yes",
+                "historic": "house",
+                "name": "Hamilton Mansion",
+                "tourism": "museum",
+                "website": "https://www.woodlandsphila.org/hamilton-mansion"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/37/Shakespeare_in_Clark_Park.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 40083518,
+            "lat": 39.9489794,
+            "lon": -75.1506447,
+            "tags": {
+                "addr:city": "Philadelphia",
+                "addr:postcode": "19106",
+                "addr:state": "PA",
+                "building": "yes",
+                "building:levels": "2",
+                "building:material": "brick",
+                "ele": "9",
+                "fee": "no",
+                "gnis:feature_id": "1196735",
+                "historic": "building",
+                "name": "Congress Hall",
+                "name:de": "Kongresshalle",
+                "source": "USGS Geonames",
+                "tourism": "museum",
+                "website": "https://www.nps.gov/inde/planyourvisit/congresshall.htm",
+                "wikidata": "Q917636",
+                "wikipedia": "en:Congress Hall"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Congress_Hall_%2853590490584%29.jpg/1280px-Congress_Hall_%2853590490584%29.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 40083567,
+            "lat": 39.9488652,
+            "lon": -75.1494128,
+            "tags": {
+                "addr:city": "Philadelphia",
+                "building": "yes",
+                "building:material": "brick",
+                "height": "3.2",
+                "name": "Old City Hall",
+                "name:de": "Altes Rathaus",
+                "tourism": "museum",
+                "wikidata": "Q3350184",
+                "wikipedia": "en:Old City Hall (Philadelphia)"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/American_Philosophical_Society_%2853590377813%29.jpg/1280px-American_Philosophical_Society_%2853590377813%29.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 40083914,
+            "lat": 39.9536317,
+            "lon": -75.1491555,
+            "tags": {
+                "addr:city": "Philadelphia",
+                "addr:housenumber": "525",
+                "addr:postcode": "19106",
+                "addr:state": "PA",
+                "addr:street": "Arch Street",
+                "building": "yes",
+                "building:levels": "3",
+                "ele": "10",
+                "name": "National Constitution Center",
+                "name:hi": "राष्ट्रीय संविधान केंद्र",
+                "opening_hours": "Mo-Sa 09:30-17:00, Su 12:00-17:00",
+                "phone": "+1-215-409-6600",
+                "roof:shape": "flat",
+                "tourism": "museum",
+                "website": "https://constitutioncenter.org/",
+                "wikidata": "Q538275",
+                "wikipedia": "en:National Constitution Center"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/National_Constitution_Center_-_2_%2853586570586%29.jpg/1280px-National_Constitution_Center_-_2_%2853586570586%29.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 40086417,
+            "lat": 39.9498533,
+            "lon": -75.1502603,
+            "tags": {
+                "addr:city": "Philadelphia",
+                "addr:housenumber": "526",
+                "addr:postcode": "19106",
+                "addr:street": "Market Street",
+                "building": "yes",
+                "fee": "no",
+                "gnis:feature_id": "1196751",
+                "name": "Liberty Bell Center",
+                "opening_hours": "Mo-Su 09:00-17:00",
+                "tourism": "museum",
+                "website": "https://www.nps.gov/inde/planyourvisit/libertybellcenter.htm"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Liberty_Bell_2017a.jpg/1280px-Liberty_Bell_2017a.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 49887255,
+            "lat": 39.9942894,
+            "lon": -75.1906127,
+            "tags": {
+                "building": "yes",
+                "historic": "house",
+                "name": "Strawberry Mansion",
+                "tourism": "museum",
+                "website": "https://www.historicstrawberrymansion.org/",
+                "wikidata": "Q5773686",
+                "wikipedia": "en:Historic Strawberry Mansion"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Strawberry_Mansion.JPG/1280px-Strawberry_Mansion.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 49916202,
+            "lat": 39.9794914,
+            "lon": -75.2090399,
+            "tags": {
+                "addr:city": "Philadelphia",
+                "addr:housenumber": "4231",
+                "addr:postcode": "19131",
+                "addr:state": "PA",
+                "addr:street": "Avenue of the Republic",
+                "alt_name": "Memorial Hall",
+                "building": "yes",
+                "building:levels": "2",
+                "building:wikidata": "Q6815433",
+                "building:wikipedia": "en:Memorial Hall (Philadelphia)",
+                "check_date:opening_hours": "2023-06-10",
+                "fee": "yes",
+                "name": "Please Touch Museum",
+                "old_name": "Memorial Hall",
+                "opening_hours": "Mo-Sa 09:00-16:30; Tu off; Su 11:00-16:30; Nov We[4] 09:00-14:00; Dec 24 09:00-14:00; Dec 31 09:00-14:00; Jul 04 off; Nov Th[4] off; Sep Mo[1] off; May Mo[-1] off",
+                "ref:nrhp": "76001665",
+                "source": "esri/Philadelphia_PA_Buildings_OSM",
+                "toilets:wheelchair": "yes",
+                "tourism": "museum",
+                "website": "https://www.pleasetouchmuseum.org/",
+                "wheelchair": "yes",
+                "wikidata": "Q7204253"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/MemorialHallPhila03.jpg/1280px-MemorialHallPhila03.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 49961142,
+            "lat": 39.9514971,
+            "lon": -75.1499082,
+            "tags": {
+                "addr:city": "Philadelphia",
+                "addr:housenumber": "599",
+                "addr:postcode": "19106",
+                "addr:state": "PA",
+                "addr:street": "Market Street",
+                "building": "yes",
+                "building:levels": "2",
+                "building:material": "brick",
+                "check_date:opening_hours": "2025-12-12",
+                "fee": "no",
+                "name": "Independence Visitor Center",
+                "opening_hours": "Mo-Su 09:00-17:00",
+                "phone": "+1-800-537-7676",
+                "roof:shape": "flat",
+                "tourism": "museum",
+                "website": "https://www.nps.gov/inde/planyourvisit/independencevisitorcenter.htm",
+                "wheelchair": "yes",
+                "wikidata": "Q6016240",
+                "wikipedia": "en:Independence Visitor Center"
+            }
+        },
+        {
+            "type": "way",
+            "id": 50114315,
+            "lat": 39.8754485,
+            "lon": -75.2128863,
+            "tags": {
+                "heritage": "2",
+                "heritage:operator": "nrhp",
+                "heritage:website": "https://www.nps.gov/subjects/nationalregister/index.htm",
+                "historic": "military",
+                "name": "Fort Mifflin",
+                "nrhp:criteria": "(A), (B), (C)",
+                "nrhp:inscription_date": "1970-08-29",
+                "nrhp:nhl": "yes",
+                "protection_title": "City of Philadelphia",
+                "ref:nrhp": "70000554",
+                "source_ref": "https://catalog.archives.gov/id/71996924",
+                "start_date": "~1775",
+                "tourism": "museum",
+                "website": "http://www.fortmifflin.us/",
+                "wikidata": "Q3077947",
+                "wikipedia": "en:Fort Mifflin"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Fort_Mifflin_-_Eastman.jpg/1280px-Fort_Mifflin_-_Eastman.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 50189935,
+            "lat": 39.9582431,
+            "lon": -75.1731184,
+            "tags": {
+                "addr:city": "Philadelphia",
+                "addr:housenumber": "222",
+                "addr:postcode": "19103",
+                "addr:street": "North 20th Street",
+                "building": "yes",
+                "building:colour": "#D0BFB8",
+                "check_date": "2025-06-29",
+                "check_date:opening_hours": "2025-06-29",
+                "fee": "yes",
+                "name": "Franklin Institute",
+                "opening_hours": "09:30-17:00",
+                "phone": "+1 215-448-1200",
+                "tourism": "museum",
+                "website": "https://www.fi.edu",
+                "wikidata": "Q339484",
+                "wikipedia": "en:Franklin Institute"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Giant_Heart_2.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 87325391,
+            "lat": 39.9486412,
+            "lon": -75.149453,
+            "tags": {
+                "addr:state": "PA",
+                "building": "yes",
+                "gnis:feature_id": "1196733",
+                "height": "7.7",
+                "name": "Philosophical Hall",
+                "source": "USGS Geonames",
+                "tourism": "museum",
+                "wikidata": "Q7186170",
+                "wikipedia": "en:Philosophical Hall"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/8f/AmericanPhilosophicalSociety.png",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 87325590,
+            "lat": 39.9504525,
+            "lon": -75.1500961,
+            "tags": {
+                "access": "yes",
+                "historic": "ruins",
+                "name": "President's House",
+                "tourism": "attraction",
+                "website": "https://www.nps.gov/inde/planyourvisit/presidentshousesite.htm",
+                "wikidata": "Q3402408",
+                "wikipedia": "en:President's House (Philadelphia)"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/53/PhiladelphiaPresidentsHouse.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 89434182,
+            "lat": 39.8967566,
+            "lon": -75.1770503,
+            "tags": {
+                "alt_name": "Quarters A",
+                "building": "yes",
+                "heritage": "2",
+                "heritage:operator": "nrhp",
+                "heritage:website": "https://www.nps.gov/subjects/nationalregister/index.htm",
+                "historic": "maritime",
+                "name": "Commandant's Quarters",
+                "nrhp:criteria": "(A), (C)",
+                "nrhp:inscription_date": "1976-06-03",
+                "nrhp:nhl": "yes",
+                "protection_title": "private",
+                "ref:nrhp": "76001661",
+                "source_ref": "https://catalog.archives.gov/id/71997344",
+                "start_date": "1875",
+                "tourism": "attraction",
+                "wikidata": "Q5152133"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Commandants_Quarters_PNS.JPG/1280px-Commandants_Quarters_PNS.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 170349581,
+            "lat": 39.943533,
+            "lon": -75.1411711,
+            "tags": {
+                "addr:city": "Philadelphia",
+                "addr:postcode": "19106",
+                "addr:state": "PA",
+                "addr:street": "South Christopher Columbus Boulevard",
+                "building": "ship",
+                "historic": "ship",
+                "name": "USS Becuna",
+                "ref": "SS-319",
+                "ref:nrhp": "78002458",
+                "ship:type": "submarine",
+                "start_date": "1944",
+                "tourism": "attraction",
+                "wikidata": "Q1572469",
+                "wikipedia": "en:USS Becuna"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d2/USS_Becuna_SS-319_Badge.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 170349584,
+            "lat": 39.9435058,
+            "lon": -75.1409967,
+            "tags": {
+                "addr:city": "Philadelphia",
+                "addr:postcode": "19106",
+                "addr:state": "PA",
+                "addr:street": "South Christopher Columbus Boulevard",
+                "building": "ship",
+                "historic": "ship",
+                "name": "USS Olympia",
+                "ref": "C-6",
+                "ref:nrhp": "66000692",
+                "ship:type": "cruiser",
+                "start_date": "1892",
+                "tourism": "attraction",
+                "wikidata": "Q1917116",
+                "wikipedia": "en:USS Olympia (C-6)"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/USS_Olympia%3Bc0605.jpg/1280px-USS_Olympia%3Bc0605.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 183620616,
+            "lat": 39.9606336,
+            "lon": -75.1727069,
+            "tags": {
+                "addr:city": "Philadelphia",
+                "addr:housenumber": "2025",
+                "addr:postcode": "19130",
+                "addr:state": "PA",
+                "addr:street": "Benjamin Franklin Parkway",
+                "building": "yes",
+                "name": "Barnes Foundation",
+                "opening_hours": "Th-Sa,Su, Mo 11:00-17:00",
+                "phone": "+1-215-278-7000",
+                "tourism": "museum",
+                "website": "https://www.barnesfoundation.org/",
+                "wikidata": "Q808462",
+                "wikipedia": "en:Barnes Foundation"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Barnes_Foundation_%2853574516274%29.jpg/1280px-Barnes_Foundation_%2853574516274%29.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 183625405,
+            "lat": 39.9619295,
+            "lon": -75.1739508,
+            "tags": {
+                "addr:city": "Philadelphia",
+                "addr:housenumber": "2151",
+                "addr:postcode": "19130",
+                "addr:state": "PA",
+                "addr:street": "Benjamin Franklin Parkway",
+                "building": "yes",
+                "ele": "12",
+                "gnis:feature_id": "1196724",
+                "name": "Rodin Museum",
+                "source": "USGS Geonames",
+                "tourism": "museum",
+                "website": "http://www.rodinmuseum.org/",
+                "wikidata": "Q1321619",
+                "wikipedia": "en:Rodin Museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Rodin_Museum_-_Philadelphia_%2853574398988%29.jpg/1280px-Rodin_Museum_-_Philadelphia_%2853574398988%29.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 222122351,
+            "lat": 39.9707246,
+            "lon": -75.1872029,
+            "tags": {
+                "building": "detached",
+                "ele": "26",
+                "historic": "building",
+                "name": "Lemon Hill Mansion",
+                "tourism": "museum",
+                "wikidata": "Q6521316",
+                "wikipedia": "en:Lemon Hill"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/A586%2C_Lemon_Hill_Mansion%2C_Fairmount_Park%2C_Philadelphia%2C_Pennsylvania%2C_United_States%2C_2017.jpg/1280px-A586%2C_Lemon_Hill_Mansion%2C_Fairmount_Park%2C_Philadelphia%2C_Pennsylvania%2C_United_States%2C_2017.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 239934148,
+            "lat": 39.971709,
+            "lon": -75.1953323,
+            "tags": {
+                "name": "Philadelphia Zoo",
+                "tourism": "zoo",
+                "website": "https://www.philadelphiazoo.org",
+                "wheelchair": "yes",
+                "wikidata": "Q3082266",
+                "wikipedia": "en:Philadelphia Zoo"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Philadelphia_Zoo_Welcome_Gate_2832px.jpg/1280px-Philadelphia_Zoo_Welcome_Gate_2832px.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 261314255,
+            "lat": 39.9484457,
+            "lon": -75.1472347,
+            "tags": {
+                "addr:city": "Philadelphia",
+                "building": "yes",
+                "building:levels": "2",
+                "building:material": "brick",
+                "historic": "building",
+                "name": "New Hall Military Museum",
+                "roof:shape": "hipped",
+                "tourism": "museum",
+                "website": "https://www.nps.gov/inde/planyourvisit/newhall.htm"
+            }
+        },
+        {
+            "type": "way",
+            "id": 261314257,
+            "lat": 39.9471345,
+            "lon": -75.1445777,
+            "tags": {
+                "addr:housenumber": "138",
+                "addr:street": "South 2nd Street",
+                "building": "yes",
+                "check_date": "2023-04-12",
+                "disused:amenity": "restaurant",
+                "historic": "building",
+                "name": "City Tavern",
+                "phone": "+1 215-413-1443",
+                "source": "survey",
+                "tourism": "attraction",
+                "website": "https://www.citytavern.com/",
+                "wikidata": "Q2974580",
+                "wikipedia": "en:City Tavern"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/71/CityTavern-Philly.png",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 261314258,
+            "lat": 39.9480679,
+            "lon": -75.1464237,
+            "tags": {
+                "addr:city": "Philadelphia",
+                "addr:housenumber": "120",
+                "addr:postcode": "19106",
+                "addr:state": "PA",
+                "addr:street": "South 3rd Street",
+                "building": "yes",
+                "building:material": "marble",
+                "gnis:feature_id": "1196748",
+                "historic": "building",
+                "name": "First Bank of the United States",
+                "ref:nrhp": "87001292",
+                "source": "USGS Geonames",
+                "tourism": "attraction",
+                "website": "https://www.nps.gov/inde/learn/historyculture/places-firstbank.htm",
+                "wikidata": "Q934187",
+                "wikipedia": "en:First Bank of the United States"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/First_Bank_of_the_United_States%2C_Philadelphia%2C_Pennsylvania_LCCN2011633532_%28edited%29.jpg/1280px-First_Bank_of_the_United_States%2C_Philadelphia%2C_Pennsylvania_LCCN2011633532_%28edited%29.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 261314259,
+            "lat": 39.9481415,
+            "lon": -75.1472146,
+            "tags": {
+                "addr:city": "Philadelphia",
+                "addr:housenumber": "320",
+                "addr:postcode": "19106",
+                "addr:state": "PA",
+                "addr:street": "Chestnut Street",
+                "building": "yes",
+                "name": "Carpenters' Hall",
+                "phone": "+1-215-925-0167",
+                "ref:nrhp": "70000552",
+                "source": "survey",
+                "tourism": "attraction",
+                "website": "https://www.carpentershall.org/",
+                "wikidata": "Q1093592",
+                "wikipedia": "en:Carpenters' Hall"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Carpenters%27_Hall%2C_Philadelphia%2C_U.S.%2C_May_2015.jpg/1280px-Carpenters%27_Hall%2C_Philadelphia%2C_U.S.%2C_May_2015.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 261314260,
+            "lat": 39.948572,
+            "lon": -75.14841,
+            "tags": {
+                "addr:city": "Philadelphia",
+                "addr:housenumber": "420",
+                "addr:postcode": "19106",
+                "addr:state": "PA",
+                "addr:street": "Chestnut Street",
+                "building": "yes",
+                "building:material": "marble",
+                "ele": "7",
+                "gnis:feature_id": "1196740",
+                "height": "10.6",
+                "historic": "building",
+                "name": "Second Bank of the United States",
+                "ref:nrhp": "87001293",
+                "roof:material": "copper",
+                "roof:shape": "gabled",
+                "source": "USGS Geonames",
+                "tourism": "attraction",
+                "wikidata": "Q2263849",
+                "wikipedia": "en:Second Bank of the United States"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/George_Washington_by_William_Rush%2C_Philadelphia%2C_PA_%28cropped%29.jpg/1280px-George_Washington_by_William_Rush%2C_Philadelphia%2C_PA_%28cropped%29.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 320052082,
+            "lat": 39.9683361,
+            "lon": -75.1726749,
+            "tags": {
+                "abandoned:amenity": "prison",
+                "addr:city": "Philadelphia",
+                "addr:housenumber": "2027",
+                "addr:postcode": "19130",
+                "addr:state": "PA",
+                "addr:street": "Fairmount Avenue",
+                "fee": "yes",
+                "historic": "yes",
+                "museum": "history",
+                "name": "Eastern State Penitentiary",
+                "opening_hours": "Su-Sa 10:00-17:00; Jan 01, Dec 23, Dec 24 off",
+                "tourism": "museum",
+                "website": "https://www.easternstate.org",
+                "wikidata": "Q489417",
+                "wikipedia": "en:Eastern State Penitentiary"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Eastern_State_Penitentiary%2C_Philadelphia%2C_Pennsylvania_LCCN2011632222.tif/lossy-page1-1280px-Eastern_State_Penitentiary%2C_Philadelphia%2C_Pennsylvania_LCCN2011632222.tif.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 332786628,
+            "lat": 39.9478658,
+            "lon": -75.145842,
+            "tags": {
+                "building": "yes",
+                "fixme": "Cannot find anything on this POI, check if it still exists.",
+                "name": "Independence Living History Center",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/First_Bank_of_the_United_States%2C_Philadelphia%2C_Pennsylvania_LCCN2011633532_%28edited%29.jpg/1280px-First_Bank_of_the_United_States%2C_Philadelphia%2C_Pennsylvania_LCCN2011633532_%28edited%29.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 332786629,
+            "lat": 39.9472817,
+            "lon": -75.1459724,
+            "tags": {
+                "addr:city": "Philadelphia",
+                "addr:housenumber": "143",
+                "addr:postcode": "19106",
+                "addr:state": "PA",
+                "addr:street": "South 3rd Street",
+                "building": "yes",
+                "building:levels": "3",
+                "ele": "6",
+                "fee": "no",
+                "gnis:feature_id": "1196743",
+                "height": "11.6",
+                "historic": "building",
+                "name": "Merchants' Exchange Building",
+                "opening_hours": "Mo-Fr 08:30-16:30",
+                "ref:nrhp": "01001047",
+                "tourism": "museum",
+                "website": "https://www.nps.gov/inde/planyourvisit/merchantsexchangebuilding.htm",
+                "wikidata": "Q3642743",
+                "wikipedia": "en:Merchants' Exchange Building (Philadelphia)"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Philadelphia_Merchants_Exchange_Building_%2820864134401%29.jpg/1280px-Philadelphia_Merchants_Exchange_Building_%2820864134401%29.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 333012771,
+            "lat": 39.9502011,
+            "lon": -75.1484614,
+            "tags": {
+                "addr:city": "Philadelphia",
+                "addr:housenumber": "101",
+                "addr:postcode": "19106",
+                "addr:state": "PA",
+                "addr:street": "South Independence Mall East",
+                "building": "yes",
+                "fee": "no",
+                "gnis:feature_id": "1196723",
+                "name": "Weitzman National Museum of American Jewish History",
+                "old_name": "National Museum of American Jewish History",
+                "opening_hours": "Tu-Fr 10:00-17:00, Sa,Su 10:00-17:30",
+                "phone": "+1 215-923-3811",
+                "short_name": "Weitzman NMAJH",
+                "tourism": "museum",
+                "website": "https://theweitzman.org/",
+                "wheelchair": "yes",
+                "wikidata": "Q6974449",
+                "wikipedia": "en:Weitzman National Museum of American Jewish History"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/National_Museum_of_American_Jewish_History.jpg/1280px-National_Museum_of_American_Jewish_History.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 333012810,
+            "lat": 39.9532815,
+            "lon": -75.1517846,
+            "tags": {
+                "addr:city": "Philadelphia",
+                "addr:housenumber": "701",
+                "addr:postcode": "19106",
+                "addr:state": "PA",
+                "addr:street": "Arch Street",
+                "building": "yes",
+                "name": "African American Museum in Philadelphia",
+                "opening_hours": "Th-Sa 10:00-17:00, Su 12:00-17:00",
+                "phone": "+1 215-574-0380",
+                "tourism": "museum",
+                "website": "https://www.aampmuseum.org/",
+                "wikidata": "Q770826",
+                "wikipedia": "en:African American Museum in Philadelphia"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/African_American_Museum_in_Philadelphia_%28AAMP%29_%2853572937450%29.jpg/1280px-African_American_Museum_in_Philadelphia_%28AAMP%29_%2853572937450%29.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 333776312,
+            "lat": 39.9459185,
+            "lon": -75.1404878,
+            "tags": {
+                "addr:city": "Philadelphia",
+                "addr:housenumber": "211",
+                "addr:postcode": "19106",
+                "addr:street": "South Columbus Boulevard",
+                "building": "yes",
+                "check_date": "2023-06-10",
+                "ele": "5",
+                "gnis:feature_id": "1196717",
+                "name": "Independence Seaport Museum",
+                "opening_hours": "10:00-17:00",
+                "phone": "+1 215-413-8655",
+                "tourism": "museum",
+                "website": "https://www.phillyseaport.org/",
+                "wikidata": "Q1661071",
+                "wikipedia": "en:Independence Seaport Museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Seaport_museum_penns_landing.jpg/1280px-Seaport_museum_penns_landing.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 333931830,
+            "lat": 39.9552368,
+            "lon": -75.1636668,
+            "tags": {
+                "addr:city": "Philadelphia",
+                "addr:country": "US",
+                "addr:housenumber": "118",
+                "addr:postcode": "19102",
+                "addr:state": "PA",
+                "addr:street": "North Broad Street",
+                "building": "yes",
+                "ele": "13",
+                "gnis:feature_id": "1196718",
+                "historic": "building",
+                "museum": "art",
+                "name": "Pennsylvania Academy of the Fine Arts",
+                "opening_hours": "Tu-Fr 10:00-17:00; Sa-Su 11:00-17:00",
+                "phone": "+1-215-972-7600",
+                "ref:nrhp": "71000731",
+                "tourism": "museum",
+                "website": "https://www.pafa.org/",
+                "wikidata": "Q1952033",
+                "wikipedia": "en:Pennsylvania Academy of the Fine Arts"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Pennsylvania_Academy_of_the_Fine_Arts_building.jpg/1280px-Pennsylvania_Academy_of_the_Fine_Arts_building.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 334665979,
+            "lat": 39.949077,
+            "lon": -75.1468412,
+            "tags": {
+                "addr:city": "Philadelphia",
+                "addr:housenumber": "321",
+                "addr:postcode": "19106",
+                "addr:street": "Chestnut Street",
+                "building": "yes",
+                "building:levels": "4",
+                "name": "National Liberty Museum",
+                "opening_hours": "Th-Mo 10:00-17:00",
+                "phone": "+1 215-925-2800",
+                "tourism": "museum",
+                "website": "https://www.libertymuseum.org/",
+                "wheelchair": "yes",
+                "wikidata": "Q17061756",
+                "wikipedia": "en:National Liberty Museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/National_Liberty_Museum_%2853590379058%29.jpg/1280px-National_Liberty_Museum_%2853590379058%29.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 335308190,
+            "lat": 39.9490447,
+            "lon": -75.1464739,
+            "tags": {
+                "addr:city": "Philadelphia",
+                "addr:housenumber": "315",
+                "addr:postcode": "19106",
+                "addr:state": "PA",
+                "addr:street": "Chestnut Street",
+                "building": "yes",
+                "check_date": "2023-10-17",
+                "fee": "no",
+                "name": "Science History Institute",
+                "old_name:1994-2015": "Chemical Heritage Foundation",
+                "opening_hours": "We-Sa 10:00-17:00",
+                "phone": "+1-215-925-2222",
+                "tourism": "museum",
+                "website": "https://www.sciencehistory.org/",
+                "wikipedia": "en:Science_History_Institute"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/CHF_P1000360_First_National_Bank_Exterior.jpg/1280px-CHF_P1000360_First_National_Bank_Exterior.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 335689515,
+            "lat": 39.9443175,
+            "lon": -75.1483923,
+            "tags": {
+                "addr:housenumber": "321",
+                "addr:street": "South 4th Street",
+                "alt_name": "Hill–Physick–Keith House;Physick House",
+                "building": "yes",
+                "check_date": "2023-04-12",
+                "historic": "house",
+                "museum": "history",
+                "name": "Hill-Physick House",
+                "tourism": "museum",
+                "website": "https://www.philalandmarks.org/physick-house",
+                "wikipedia": "en:Hill–Physick–Keith House"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Hill-Physick-Keith_House.jpg/1280px-Hill-Physick-Keith_House.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 336855435,
+            "lat": 39.9568194,
+            "lon": -75.1712643,
+            "tags": {
+                "addr:city": "Philadelphia",
+                "addr:housenumber": "1900",
+                "addr:postcode": "19103",
+                "addr:street": "Benjamin Franklin Parkway",
+                "building": "yes",
+                "building:levels": "5",
+                "check_date:opening_hours": "2023-06-10",
+                "ele": "8",
+                "fee": "yes",
+                "fee:conditional": "no @ (age < 2)",
+                "gnis:feature_id": "1196719",
+                "name": "Academy of Natural Sciences of Drexel University",
+                "opening_hours": "We-Fr 10:00-16:30; Sa,Su 10:00-17:00",
+                "tourism": "museum",
+                "website": "https://ansp.org/",
+                "wheelchair": "yes",
+                "wikidata": "Q2822400",
+                "wikipedia": "en:Academy of Natural Sciences of Drexel University"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/The_Academy_of_Natural_Sciences_of_Drexel_University_%2853574189186%29.jpg/1280px-The_Academy_of_Natural_Sciences_of_Drexel_University_%2853574189186%29.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 338550400,
+            "lat": 39.9532961,
+            "lon": -75.1428059,
+            "tags": {
+                "addr:city": "Philadelphia",
+                "addr:housename": "Fireman's Hall",
+                "addr:housenumber": "147",
+                "addr:postcode": "19106",
+                "addr:street": "North 2nd Street",
+                "building": "yes",
+                "historic": "building",
+                "name": "Fireman's Hall Museum",
+                "phone": "+1 215-923-1438",
+                "tourism": "museum",
+                "website": "https://www.firemanshallmuseum.org/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Elfreth%27s_Alley_%2853572700168%29.jpg/1280px-Elfreth%27s_Alley_%2853572700168%29.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 338853375,
+            "lat": 39.9527083,
+            "lon": -75.1424059,
+            "tags": {
+                "building": "terrace",
+                "building:material": "brick",
+                "description": "$3 adults, $2 children 7-12, free for children under 7",
+                "fee": "yes",
+                "name": "Elfreth's Alley Museum",
+                "opening_hours": "Fr-Su 12:00-16:00",
+                "tourism": "museum",
+                "website": "https://www.elfrethsalley.org/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Elfreth%27s_Alley_%2853572700168%29.jpg/1280px-Elfreth%27s_Alley_%2853572700168%29.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 352987980,
+            "lat": 39.9500313,
+            "lon": -75.1466162,
+            "tags": {
+                "addr:city": "Philadelphia",
+                "addr:housenumber": "320",
+                "addr:postcode": "19106",
+                "addr:state": "PA",
+                "addr:street": "Market Street",
+                "alt_name": "Franklin Court Printing Office",
+                "building": "yes",
+                "building:levels": "3",
+                "gnis:feature_id": "1196730",
+                "historic": "building",
+                "name": "Franklin Print Shop",
+                "tourism": "museum",
+                "website": "https://www.nps.gov/inde/planyourvisit/printingoffice.htm"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/CHF_P1000360_First_National_Bank_Exterior.jpg/1280px-CHF_P1000360_First_National_Bank_Exterior.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 352987983,
+            "lat": 39.9500597,
+            "lon": -75.146448,
+            "tags": {
+                "addr:city": "Philadelphia",
+                "addr:housenumber": "316",
+                "addr:postcode": "19106",
+                "addr:state": "PA",
+                "addr:street": "Market Street",
+                "alt_name": "Free Franklin Post Office & Museum",
+                "building": "yes",
+                "building:levels": "3",
+                "historic": "building",
+                "name": "United States Postal Service Museum",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/CHF_P1000360_First_National_Bank_Exterior.jpg/1280px-CHF_P1000360_First_National_Bank_Exterior.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 353034105,
+            "lat": 39.9522767,
+            "lon": -75.1446406,
+            "tags": {
+                "addr:city": "Philadelphia",
+                "addr:housenumber": "239",
+                "addr:postcode": "19106",
+                "addr:state": "PA",
+                "addr:street": "Arch Street",
+                "building": "yes",
+                "building:levels": "2",
+                "building:material": "brick",
+                "historic": "building",
+                "name": "Betsy Ross House",
+                "phone": "+1-215-629-4026",
+                "roof:levels": "1",
+                "tourism": "museum",
+                "website": "https://historicphiladelphia.org/betsy-ross-house",
+                "wikidata": "Q4898326",
+                "wikipedia": "en:Betsy Ross House"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Betsy_Ross_House_%2853572939795%29.jpg/1280px-Betsy_Ross_House_%2853572939795%29.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 354970510,
+            "lat": 39.9457758,
+            "lon": -75.1469838,
+            "tags": {
+                "addr:housenumber": "244",
+                "addr:street": "South 3rd Street",
+                "building": "yes",
+                "check_date": "2023-04-12",
+                "historic": "house",
+                "name": "Powel House",
+                "tourism": "museum",
+                "website": "https://www.philalandmarks.org/powel-house",
+                "wikidata": "Q7236047",
+                "wikipedia": "en:Powel House"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Powel_House_244_S._3rd_Street.jpg/1280px-Powel_House_244_S._3rd_Street.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 356323017,
+            "lat": 39.9833793,
+            "lon": -75.1998402,
+            "tags": {
+                "addr:city": "Philadelphia",
+                "addr:housenumber": "3800",
+                "addr:postcode": "19121",
+                "addr:state": "PA",
+                "addr:street": "Mount Pleasant Drive",
+                "alt_name": "Mount Pleasant Mansion",
+                "building": "yes",
+                "historic": "manor",
+                "name": "Mount Pleasant",
+                "opening_hours": "Apr-Dec: Th-Su 13:00-14:00, 14:30-15:30 \"Guided Tour\"",
+                "operator": "Philadelphia Museum of Art",
+                "tourism": "museum",
+                "website": "www.philamuseum.org/historichouses/",
+                "wikidata": "Q6922887",
+                "wikipedia": "en:Mount Pleasant (mansion)"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/A572%2C_Mount_Pleasant_Mansion%2C_Fairmount_Park%2C_Philadelphia%2C_Pennsylvania%2C_United_States%2C_2017.jpg/1280px-A572%2C_Mount_Pleasant_Mansion%2C_Fairmount_Park%2C_Philadelphia%2C_Pennsylvania%2C_United_States%2C_2017.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 356324418,
+            "lat": 39.979179,
+            "lon": -75.2044243,
+            "tags": {
+                "addr:city": "Philadelphia",
+                "addr:housenumber": "1",
+                "addr:postcode": "19131",
+                "addr:state": "PA",
+                "addr:street": "Lansdowne Drive",
+                "building": "yes",
+                "height": "11.27",
+                "historic": "building",
+                "name": "Cedar Grove",
+                "opening_hours": "Apr-Dec: Th-Su 11:00-12:00 \"Guided Tour\"",
+                "operator": "Philadelphia Museum of Art",
+                "source": "esri/Philadelphia_PA_Buildings_OSM",
+                "tourism": "museum",
+                "website": "http://www.philamuseum.org/historichouses/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/A566%2C_Cedar_Grove_Mansion%2C_Fairmount_Park%2C_Philadelphia%2C_Pennsylvania%2C_United_States%2C_2017.jpg/1280px-A566%2C_Cedar_Grove_Mansion%2C_Fairmount_Park%2C_Philadelphia%2C_Pennsylvania%2C_United_States%2C_2017.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 377438263,
+            "lat": 39.9913765,
+            "lon": -75.1948531,
+            "tags": {
+                "building": "yes",
+                "historic": "house",
+                "name": "Laurel Hill Mansion",
+                "old_name": "Randolph House",
+                "tourism": "museum",
+                "website": "https://www.laurelhillmansion.org/",
+                "wikipedia": "en:Randolph House (Philadelphia, Pennsylvania)"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/A569%2C_Laurel_Hill_Mansion%2C_Fairmount_Park%2C_Philadelphia%2C_Pennsylvania%2C_United_States%2C_2017.jpg/1280px-A569%2C_Laurel_Hill_Mansion%2C_Fairmount_Park%2C_Philadelphia%2C_Pennsylvania%2C_United_States%2C_2017.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 377438264,
+            "lat": 39.9887049,
+            "lon": -75.1962827,
+            "tags": {
+                "building": "yes",
+                "historic": "house",
+                "name": "Ormiston Mansion",
+                "tourism": "museum",
+                "website": "https://www.ormistonmansion.org/",
+                "wikidata": "Q46996433",
+                "wikipedia": "en:Ormiston Mansion (Philadelphia)"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/A587%2C_Ormiston_Mansion%2C_Fairmount_Park%2C_Philadelphia%2C_Pennsylvania%2C_United_States%2C_2017.jpg/1280px-A587%2C_Ormiston_Mansion%2C_Fairmount_Park%2C_Philadelphia%2C_Pennsylvania%2C_United_States%2C_2017.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 377438311,
+            "lat": 39.9931695,
+            "lon": -75.187843,
+            "tags": {
+                "building": "yes",
+                "historic": "house",
+                "name": "Woodford Mansion",
+                "tourism": "museum",
+                "website": "https://www.woodfordmansion.org/",
+                "wikidata": "Q16903616",
+                "wikipedia": "en:Woodford (mansion)"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Woodford%2C_1.jpg/1280px-Woodford%2C_1.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 484365937,
+            "lat": 40.0557264,
+            "lon": -75.2521462,
+            "tags": {
+                "addr:housenumber": "8480",
+                "addr:postcode": "19128",
+                "addr:street": "Hagys Mill Road",
+                "building": "yes",
+                "fee": "no",
+                "name": "Schuylkill Center for Environmental Education Visitor Center",
+                "opening_hours": "Mo-Sa 09:00-17:00",
+                "phone": "+1-215-482-7300",
+                "tourism": "museum",
+                "website": "https://schuylkillcenter.org/visit/landscape-and-visitor-center/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Nixon_Lane_Philly.JPG/1280px-Nixon_Lane_Philly.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 486443341,
+            "lat": 39.9334474,
+            "lon": -75.1475665,
+            "tags": {
+                "addr:city": "Philadelphia",
+                "addr:housenumber": "1100",
+                "addr:postcode": "19147",
+                "addr:state": "PA",
+                "addr:street": "South 2nd Street",
+                "building": "yes",
+                "check_date:opening_hours": "2023-06-10",
+                "name": "Mummers Museum",
+                "opening_hours": "Tu-Fr 10:00-17:00; Sa 10:00-15:00",
+                "tourism": "museum",
+                "website": "https://mummersmuseum.com/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Holme%27s_Map_of_Pennsylvania_%281687%29.jpg/1280px-Holme%27s_Map_of_Pennsylvania_%281687%29.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 486671294,
+            "lat": 39.9537194,
+            "lon": -75.1562651,
+            "tags": {
+                "addr:street": "10th and Arch Street",
+                "building": "yes",
+                "historic": "city_gate",
+                "layer": "1",
+                "name": "Chinatown Friendship Gate",
+                "name:zh": "费城华埠",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Friendship_Gate_Chinatown_Philadelphia_from_east.jpg/1280px-Friendship_Gate_Chinatown_Philadelphia_from_east.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 488326169,
+            "lat": 39.9805956,
+            "lon": -75.1628977,
+            "tags": {
+                "addr:city": "Philadelphia",
+                "addr:housenumber": "1700",
+                "addr:postcode": "19121",
+                "addr:state": "PA",
+                "addr:street": "West Montgomery Avenue",
+                "building": "yes",
+                "height": "16.7",
+                "name": "Wagner Free Institute of Science",
+                "opening_hours": "Tu-Fr 09:00-16:00",
+                "tourism": "museum",
+                "wikipedia": "en:Wagner Free Institute of Science"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Wagnerfreeinstitute.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 491398993,
+            "lat": 40.0517119,
+            "lon": -74.9789669,
+            "tags": {
+                "building": "yes",
+                "building:levels": "3",
+                "historic": "building",
+                "name": "Glen Foerd Mansion",
+                "tourism": "museum",
+                "website": "https://www.glenfoerd.org/mansion"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Glen_Foerd_at_T.JPG/1280px-Glen_Foerd_at_T.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 493798753,
+            "lat": 40.0686069,
+            "lon": -75.0886742,
+            "tags": {
+                "addr:city": "Philadelphia",
+                "addr:housenumber": "7370",
+                "addr:postcode": "19111",
+                "addr:state": "PA",
+                "addr:street": "Central Avenue",
+                "building": "yes",
+                "name": "Ryerss Museum & Library",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Burholme_estate.jpg/1280px-Burholme_estate.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 494289213,
+            "lat": 40.0041946,
+            "lon": -75.1876176,
+            "tags": {
+                "addr:city": "Philadelphia",
+                "addr:country": "US",
+                "addr:housename": "Laurel Hill Cemetery",
+                "addr:housenumber": "3822",
+                "addr:postcode": "19132",
+                "addr:state": "PA",
+                "addr:street": "Ridge Avenue",
+                "building": "yes",
+                "height": "10.97",
+                "name": "Laurel Hill Cemetery Gatehouse",
+                "panoramax": "5bbca022-ab8f-45f3-be17-643cef101cce",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/ee/LaurelHillCemeteryGatehouse%28cropped%29_HABS314296cv.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 657414356,
+            "lat": 39.9759536,
+            "lon": -75.1945672,
+            "tags": {
+                "alt_name": "Pennsylvania Railroad, New York Division, Bridge No. 69",
+                "bridge:structure": "arch",
+                "layer": "1",
+                "man_made": "bridge",
+                "name": "Pennsylvania Railroad, Connecting Railway Bridge",
+                "start_date": "1867",
+                "tourism": "attraction",
+                "wikidata": "Q7164037",
+                "wikipedia": "en:Pennsylvania Railroad, Connecting Railway Bridge"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/db/Pennsylvania_Railroad_Connecting_Bridge_%28cropped%29.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 688647034,
+            "lat": 39.9813009,
+            "lon": -75.2128119,
+            "tags": {
+                "barrier": "fence",
+                "fee": "yes",
+                "leisure": "garden",
+                "name": "Shofuso Japanese House and Garden",
+                "tourism": "attraction",
+                "website": "http://shofuso.com",
+                "wikidata": "Q5214910",
+                "wikipedia": "en:Shofuso Japanese House and Garden"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Shofuso_Spring.jpg/1280px-Shofuso_Spring.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 705646448,
+            "lat": 39.9803177,
+            "lon": -75.1885645,
+            "tags": {
+                "addr:city": "Philadelphia",
+                "addr:housenumber": "1511",
+                "addr:state": "PA",
+                "addr:street": "North 33rd Street",
+                "building": "yes",
+                "disused:website": "https://www.johncoltranehouse.org/",
+                "height": "13.1",
+                "historic": "house",
+                "name": "The John Coltrane House",
+                "source": "City of Philadelphia",
+                "tourism": "museum",
+                "wikidata": "Q6226777",
+                "wikipedia": "en:John Coltrane House"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/ColtraneH.jpg/1280px-ColtraneH.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 705850337,
+            "lat": 39.9423776,
+            "lon": -75.1749459,
+            "tags": {
+                "addr:city": "Philadelphia",
+                "addr:housenumber": "762",
+                "addr:state": "PA",
+                "addr:street": "Martin Street",
+                "alt_name": "The Marian Anderson Historical Society and Museum",
+                "building": "yes",
+                "check_date": "2026-01-06",
+                "contact:facebook": "https://www.facebook.com/MarianAndersonMuseumandHistoricalSociety/",
+                "historic": "house",
+                "name": "National Marian Anderson Museum",
+                "phone": "+1 215-779-4219",
+                "source": "Mapbox",
+                "tourism": "museum",
+                "website": "https://marianandersonhistoricalsociety.weebly.com/",
+                "wikipedia": "en:Marian Anderson House"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/M_Anderson_House_Philly.jpg/1280px-M_Anderson_House_Philly.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 709564106,
+            "lat": 39.9473534,
+            "lon": -75.1750226,
+            "tags": {
+                "addr:city": "Philadelphia",
+                "addr:housenumber": "2008",
+                "addr:state": "PA",
+                "addr:street": "Delancey Place",
+                "building": "yes",
+                "name": "The Rosenbach Museum & Library",
+                "operator": "Free Library of Philadelphia",
+                "phone": "+1-215-732-1600",
+                "source": "Mapbox",
+                "tourism": "museum",
+                "website": "https://rosenbach.org/",
+                "wikidata": "Q1135243",
+                "wikipedia": "en:Rosenbach Museum and Library"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Rosenbach_museum02.jpg/1280px-Rosenbach_museum02.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 766332777,
+            "lat": 40.0294753,
+            "lon": -75.1897239,
+            "tags": {
+                "addr:city": "Philadelphia",
+                "addr:housenumber": "5800",
+                "addr:state": "PA",
+                "addr:street": "Wissahickon Avenue",
+                "building": "yes",
+                "height": "9.1",
+                "historic": "building",
+                "name": "Rittenhouse Homestead",
+                "panoramax": "66acba28-a28e-46b2-8483-2edc046d7bba",
+                "source": "esri/Philadelphia_PA_Buildings_OSM",
+                "tourism": "museum",
+                "website": "https://rittenhousetown.org/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/02/Rittenhouse_homestead.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 769183305,
+            "lat": 40.0473748,
+            "lon": -75.1811891,
+            "tags": {
+                "addr:city": "Philadelphia",
+                "addr:housenumber": "6401",
+                "addr:state": "PA",
+                "addr:street": "Germantown Avenue",
+                "alt_name": "Cliveden House",
+                "building": "yes",
+                "ele": "102",
+                "height": "15.54",
+                "name": "Benjamin Chew House",
+                "source": "esri/Philadelphia_PA_Buildings_OSM",
+                "tourism": "museum",
+                "website": "https://www.cliveden.org/",
+                "wikidata": "Q5134709",
+                "wikipedia": "en:Cliveden (Benjamin Chew House)"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Cliveden_Mansion%2C_Philadelphia%2C_HABS_PA-1184-88.jpg/1280px-Cliveden_Mansion%2C_Philadelphia%2C_HABS_PA-1184-88.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 769416757,
+            "lat": 40.038195,
+            "lon": -75.1836161,
+            "tags": {
+                "addr:city": "Philadelphia",
+                "addr:housenumber": "200",
+                "addr:state": "PA",
+                "addr:street": "West Tulpehocken Street",
+                "alt_name": "Ebenezer Maxwell House",
+                "building": "yes",
+                "ele": "83",
+                "height": "15.54",
+                "historic": "building",
+                "name": "Ebenezer Maxwell Mansion",
+                "source": "esri/Philadelphia_PA_Buildings_OSM",
+                "tourism": "museum",
+                "website": "https://ebenezermaxwellmansion.org/",
+                "wikidata": "Q5331707",
+                "wikipedia": "en:Ebenezer Maxwell House"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Ebenezer_Maxwell_House.JPG/1280px-Ebenezer_Maxwell_House.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 769419313,
+            "lat": 40.0338451,
+            "lon": -75.1723029,
+            "tags": {
+                "addr:city": "Philadelphia",
+                "addr:housenumber": "5442",
+                "addr:state": "PA",
+                "addr:street": "Germantown Avenue",
+                "alt_name": "Deshler-Morris House",
+                "building": "yes",
+                "height": "12.49",
+                "historic": "building",
+                "name": "Germantown White House",
+                "source": "esri/Philadelphia_PA_Buildings_OSM",
+                "tourism": "museum",
+                "website": "https://www.nps.gov/inde/learn/historyculture/places-germantownwhitehouse.htm",
+                "wikipedia": "en:Germantown White House"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Gtown_W_House_136627pu.jpg/1280px-Gtown_W_House_136627pu.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 769762028,
+            "lat": 40.0249344,
+            "lon": -75.1535981,
+            "tags": {
+                "addr:city": "Philadelphia",
+                "addr:housenumber": "4600",
+                "addr:state": "PA",
+                "addr:street": "North 16th Street",
+                "alt_name": "James Logan Home",
+                "building": "yes",
+                "height": "14.93",
+                "historic": "building",
+                "name": "Stenton Mansion",
+                "source": "City of Philadelphia",
+                "tourism": "museum",
+                "wikipedia": "en:Stenton (mansion)"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/74/Stenton-mansion.png",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 771164457,
+            "lat": 40.0437932,
+            "lon": -75.1809978,
+            "tags": {
+                "addr:city": "Philadelphia",
+                "addr:housenumber": "6309",
+                "addr:state": "PA",
+                "addr:street": "Germantown Avenue",
+                "building": "yes",
+                "height": "14.93",
+                "historic": "building",
+                "name": "The Concord School House",
+                "source": "esri/Philadelphia_PA_Buildings_OSM",
+                "tourism": "museum",
+                "wikidata": "Q5158859",
+                "wikipedia": "en:Concord School House (Philadelphia)"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f1/42-ConcordSchool.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 774690732,
+            "lat": 40.0321175,
+            "lon": -75.1684102,
+            "tags": {
+                "addr:city": "Philadelphia",
+                "addr:housenumber": "5267",
+                "addr:postcode": "19144",
+                "addr:state": "PA",
+                "addr:street": "Germantown Avenue",
+                "alt_name": "Grumblethorpe House",
+                "building": "yes",
+                "check_date:opening_hours": "2023-06-10",
+                "fee": "yes",
+                "height": "12.1",
+                "historic": "house",
+                "name": "Grumblethorpe",
+                "opening_hours": "May-Oct Sa[2] 12:00-16:00",
+                "source": "esri/Philadelphia_PA_Buildings_OSM",
+                "tourism": "museum",
+                "website": "https://www.philalandmarks.org/grumblethorpe",
+                "wikidata": "Q5612044",
+                "wikipedia": "en:Grumblethorpe"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Grumblethorpe.png",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 805538962,
+            "lat": 39.9434672,
+            "lon": -75.1473056,
+            "tags": {
+                "boundary": "protected_area",
+                "building": "yes",
+                "gnis:feature_id": "1888966",
+                "heritage": "2",
+                "heritage:operator": "nrhp",
+                "heritage:website": "https://www.nps.gov/subjects/nationalregister/index.htm",
+                "historic": "building",
+                "name": "Thaddeus Kosciuszko National Memorial",
+                "nrhp:criteria": "B;C",
+                "nrhp:inscription_date": "12/18/1970",
+                "operator": "National Park Service",
+                "operator:short": "NPS",
+                "operator:type": "public",
+                "operator:wikidata": "Q308439",
+                "ownership": "national",
+                "protected": "perpetuity",
+                "protection_title": "National Memorial",
+                "ref:nrhp": "70000068",
+                "tourism": "museum",
+                "website": "https://www.nps.gov/thko/index.htm",
+                "wikidata": "Q2408350",
+                "wikipedia": "en:Thaddeus Kosciuszko National Memorial"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Thaddeus_Koscuiszko_National_Memorial_301_Pine_Street.jpg/1280px-Thaddeus_Koscuiszko_National_Memorial_301_Pine_Street.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 908899143,
+            "lat": 39.9876807,
+            "lon": -75.1554438,
+            "tags": {
+                "addr:city": "Philadelphia",
+                "addr:housenumber": "2253",
+                "addr:state": "PA",
+                "addr:street": "North Broad Street",
+                "building": "yes",
+                "height": "14.32",
+                "name": "Philadelphia Doll Museum",
+                "source": "City of Philadelphia",
+                "tourism": "museum",
+                "wikipedia": "en:Philadelphia Doll Museum"
+            }
+        },
+        {
+            "type": "way",
+            "id": 925375443,
+            "lat": 39.9553121,
+            "lon": -75.1457223,
+            "tags": {
+                "building": "yes",
+                "name": "St. George's United Methodist Church House Museum and Library",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Old_St._George%27s_Church.jpg/1280px-Old_St._George%27s_Church.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 988345364,
+            "lat": 40.0831359,
+            "lon": -75.219452,
+            "tags": {
+                "addr:city": "Philadelphia",
+                "addr:housenumber": "9201",
+                "addr:postcode": "19118",
+                "addr:state": "PA",
+                "addr:street": "Germantown Avenue",
+                "building": "yes",
+                "check_date:opening_hours": "2023-06-10",
+                "ele": "84",
+                "fee": "yes",
+                "height": "20.72",
+                "name": "Woodmere Art Museum",
+                "opening_hours": "We-Su 10:00-17:00; Sa 10:00-18:00",
+                "source": "esri/Philadelphia_PA_Buildings_OSM",
+                "tourism": "museum",
+                "website": "https://woodmereartmuseum.org/",
+                "wheelchair": "yes",
+                "wikidata": "Q2424929"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Woodmereartmuseum_crop.jpg/1280px-Woodmereartmuseum_crop.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 1130089100,
+            "lat": 39.9427346,
+            "lon": -75.1594096,
+            "tags": {
+                "addr:city": "Philadelphia",
+                "addr:housenumber": "1020",
+                "addr:postcode": "19147",
+                "addr:state": "PA",
+                "addr:street": "South Street",
+                "building": "yes",
+                "check_date": "2025-10-25",
+                "check_date:opening_hours": "2025-10-25",
+                "contact:facebook": "https://www.facebook.com/PhillyMagicGardens",
+                "fee": "yes",
+                "layer": "1",
+                "name": "Philadelphia's Magic Gardens",
+                "opening_hours": "We-Mo 11:00-18:00",
+                "phone": "+1-215-733-0390",
+                "tourism": "museum",
+                "website": "https://phillymagicgardens.org/",
+                "wheelchair": "limited",
+                "wikidata": "Q7182595",
+                "wikipedia": "en:Philadelphia's Magic Gardens"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Magic_Garden-Philadelphia.jpg/1280px-Magic_Garden-Philadelphia.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 1136988430,
+            "lat": 40.0426679,
+            "lon": -75.0252904,
+            "tags": {
+                "addr:city": "Philadelphia",
+                "addr:housenumber": "8110",
+                "addr:postcode": "19136",
+                "addr:state": "PA",
+                "addr:street": "Frankford Avenue",
+                "building": "yes",
+                "email": "garmuslib1866@gmail.com",
+                "fee": "no",
+                "height": "11.27",
+                "name": "Grand Army of the Republic Civil War Museum & Archive",
+                "opening_hours": "Tu 11:00-16:00 \"and by appointment\"",
+                "source": "esri/Philadelphia_PA_Buildings_OSM",
+                "tourism": "museum",
+                "website": "https://garmuslib.org/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Insectarium_butterfly_pavilion_construction_botanical_garden_january_2017.jpg/1280px-Insectarium_butterfly_pavilion_construction_botanical_garden_january_2017.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 1387913459,
+            "lat": 39.9649452,
+            "lon": -75.1800796,
+            "tags": {
+                "area:highway": "steps",
+                "name": "Rocky Steps",
+                "step_count": "72",
+                "tourism": "attraction",
+                "wikidata": "Q1139488",
+                "wikipedia": "en:Rocky Steps"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Philadelphia_Museum_of_Art_Pennsylvania_USA.jpg/1280px-Philadelphia_Museum_of_Art_Pennsylvania_USA.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 1415428867,
+            "lat": 39.9524491,
+            "lon": -75.1482674,
+            "tags": {
+                "area": "yes",
+                "historic": "memorial",
+                "memorial": "plaque",
+                "name": "Benjamin Franklin Grave",
+                "name:en": "Benjamin Franklin Grave",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Free_Quaker_Meeting_House_from_northeast.jpg/1280px-Free_Quaker_Meeting_House_from_northeast.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 1493269799,
+            "lat": 39.9599649,
+            "lon": -75.174598,
+            "tags": {
+                "addr:city": "Philadelphia",
+                "addr:housenumber": "2100",
+                "addr:postcode": "19103",
+                "addr:state": "PA",
+                "addr:street": "Benjamin Franklin Parkway",
+                "building": "yes",
+                "museum": "art",
+                "name": "Calder Gardens",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/35/Ideal_Scout.png",
+            "image_source": "wikipedia_verified"
+        }
+    ]
+}

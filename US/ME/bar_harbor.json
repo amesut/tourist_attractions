@@ -1,0 +1,369 @@
+{
+    "city_metadata": {
+        "city_name": "Bar Harbor",
+        "state_code": "ME",
+        "state_full": "Maine",
+        "city_summary": "Bar Harbor is a resort town on Mount Desert Island in Hancock County, Maine, United States. As of the 2020 census, its population is 5,089. The town is home to the College of the Atlantic, Jackson Laboratory, and MDI Biological Laboratory.",
+        "city_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Bar_Harbor%2C_ME.jpg/1280px-Bar_Harbor%2C_ME.jpg",
+        "city_lat": 44.38555556,
+        "city_lon": -68.275,
+        "source": "wikipedia_verified_engine"
+    },
+    "attractions": [
+        {
+            "type": "node",
+            "id": 369068860,
+            "lat": 44.3205941,
+            "lon": -68.1885381,
+            "tags": {
+                "addr:state": "ME",
+                "ele": "3",
+                "gnis:feature_id": "577073",
+                "name": "Thunder Hole",
+                "natural": "bay",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 4263183891,
+            "lat": 44.3916122,
+            "lon": -68.2049381,
+            "tags": {
+                "name": "Bar Harbor Whale Watch Co.",
+                "name:zh": "鲸鱼 龙虾",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Agamont_Park_3.jpeg/1280px-Agamont_Park_3.jpeg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 5064985123,
+            "lat": 44.3075415,
+            "lon": -68.193615,
+            "tags": {
+                "name": "Otter Point",
+                "name:en": "Otter Point",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9004701967,
+            "lat": 44.311974,
+            "lon": -68.1891225,
+            "tags": {
+                "name": "Otter Cliffs Rock Climbing",
+                "sport": "climbing",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Otter_Cliffs_Radio_Station_wayside_exhibit.jpg/1280px-Otter_Cliffs_Radio_Station_wayside_exhibit.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 13148680356,
+            "lat": 44.3916463,
+            "lon": -68.2047595,
+            "tags": {
+                "name": "Bar Harbor Whale Watch",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Agamont_Park_3.jpeg/1280px-Agamont_Park_3.jpeg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 164556045,
+            "lat": 44.3608816,
+            "lon": -68.2078317,
+            "tags": {
+                "addr:city": "Bar Harbor",
+                "addr:housenumber": "49",
+                "addr:postcode": "04609",
+                "addr:state": "ME",
+                "addr:street": "Sweet Water Circle",
+                "building": "yes",
+                "name": "Abbe Museum",
+                "tourism": "museum"
+            }
+        },
+        {
+            "type": "way",
+            "id": 180074378,
+            "lat": 44.3868693,
+            "lon": -68.2060057,
+            "tags": {
+                "addr:city": "Bar Harbor",
+                "addr:housenumber": "26",
+                "addr:postcode": "04609",
+                "addr:state": "ME",
+                "addr:street": "Mount Desert Street",
+                "building": "yes",
+                "fee": "yes",
+                "museum:genre": "native",
+                "name": "Abbe Museum",
+                "opening_hours:url": "https://www.abbemuseum.org/two-locations",
+                "seasonal": "yes",
+                "tourism": "museum",
+                "website": "https://www.abbemuseum.org/",
+                "wikidata": "Q6033092",
+                "wikipedia": "en:Abbe Museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Abbe_Downtown_Peter_Vanderwarker.jpg/1280px-Abbe_Downtown_Peter_Vanderwarker.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 1162522087,
+            "lat": 44.3947667,
+            "lon": -68.2223934,
+            "tags": {
+                "building": "yes",
+                "museum": "nature",
+                "name": "George B. Dorr Museum of Natural History",
+                "tourism": "museum",
+                "website": "https://www.coa.edu/dorr-museum/"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 16802342,
+            "lat": 44.35,
+            "lon": -68.21666667,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Acadia_bridge.jpg/1280px-Acadia_bridge.jpg",
+            "description": "Acadia National Park, largely on Mount Desert Island, off the coast of the U.S. state of Maine, was created in part by land and other donations by John D. Rockefeller Jr.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Acadia National Park carriage paths, bridges and gatehouses",
+                "wikipedia": "en:Acadia National Park carriage paths, bridges and gatehouses",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 416816,
+            "lat": 47.576,
+            "lon": -122.42,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/West_Seattle_with_Elliott_Bay_and_Downtown_Seattle.png/1280px-West_Seattle_with_Elliott_Bay_and_Downtown_Seattle.png",
+            "description": "Alki Point (, Lushootseed: sbaqʷabqs, lit. 'prairie point') is a neighborhood in western Seattle, Washington.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Alki Point, Seattle",
+                "wikipedia": "en:Alki Point, Seattle",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 69446613,
+            "lat": 44.3897159,
+            "lon": -68.20452672,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Ben_%26_Bill%27s_Bar_Harbor.jpg/1280px-Ben_%26_Bill%27s_Bar_Harbor.jpg",
+            "description": "Ben & Bill's Chocolate Emporium is a chain of ice cream parlors and confectioners in New England, United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Ben & Bill's Chocolate Emporium",
+                "wikipedia": "en:Ben & Bill's Chocolate Emporium",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 142135,
+            "lat": 44.24305556,
+            "lon": -69.11,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Camden_Maine_October_2021_001.jpg/1280px-Camden_Maine_October_2021_001.jpg",
+            "description": "Camden is a town in Knox County, Maine, United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Camden, Maine",
+                "wikipedia": "en:Camden, Maine",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 4115690,
+            "lat": 29.97805556,
+            "lon": 31.13444444,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/GEM_Khufus_Boat_front_2025.jpg/1280px-GEM_Khufus_Boat_front_2025.jpg",
+            "description": "The Khufu ship is an intact full-size solar barque from ancient Egypt.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Khufu ship",
+                "wikipedia": "en:Khufu ship",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 81725535,
+            "lat": 32.92138889,
+            "lon": 35.06888889,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Aerial_view_of_Acre_1.jpg/1280px-Aerial_view_of_Acre_1.jpg",
+            "description": "The Old City of Acre is the historical center of Acre, in northern Israel.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Old City of Acre",
+                "wikipedia": "en:Old City of Acre",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 15937788,
+            "lat": 33.81,
+            "lon": -117.92,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Sleeping_Beauty_Castle_-_February_2024.png/1280px-Sleeping_Beauty_Castle_-_February_2024.png",
+            "description": "Disneyland is a theme park at the Disneyland Resort in Anaheim, California, United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Disneyland",
+                "wikipedia": "en:Disneyland",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 26997138,
+            "lat": 39.28944444,
+            "lon": -76.61527778,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Fell%27s_Point_Aerial_2022.jpg/1280px-Fell%27s_Point_Aerial_2022.jpg",
+            "description": "Baltimore ( BAWL-tim-or, locally:  BAWL-dim-OR or  BAWL-mər), also known as Baltimore City, is the most populous city in the U.S. state of Maryland.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Baltimore",
+                "wikipedia": "en:Baltimore",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 115989,
+            "lat": 44.52444444,
+            "lon": -68.28305556,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Glimpse_of_the_Taunton_River%2C_Hancock%2C_ME.jpg",
+            "description": "Hancock is a town in Hancock County, Maine, United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Hancock, Maine",
+                "wikipedia": "en:Hancock, Maine",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 62207,
+            "lat": 41.4,
+            "lon": -70.61666667,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Marthasvineyard-Aquinnah-cliffs-summer.jpeg/1280px-Marthasvineyard-Aquinnah-cliffs-summer.jpeg",
+            "description": "Martha's Vineyard (Wampanoag: Noepe;), often simply called the Vineyard, is an island in Massachusetts, lying just south of Cape Cod.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Martha's Vineyard",
+                "wikipedia": "en:Martha's Vineyard",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 250296,
+            "lat": 40.1375,
+            "lon": -74.44,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Six_Flags_Great_Adventure_entrance_gate_1.jpg/1280px-Six_Flags_Great_Adventure_entrance_gate_1.jpg",
+            "description": "Six Flags Great Adventure is a 160-acre (65 ha) amusement park in Jackson Township, New Jersey, United States, between New York City and Philadelphia.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Six Flags Great Adventure",
+                "wikipedia": "en:Six Flags Great Adventure",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 1165850,
+            "lat": 48.8673,
+            "lon": 2.77900833,
+            "image_url": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1e/Walt_Disney_Studios_Park_001_%284480783275%29.jpg/1280px-Walt_Disney_Studios_Park_001_%284480783275%29.jpg",
+            "description": "Disney Adventure World (formerly known as Walt Disney Studios Park) is the second of two theme parks built at Disneyland Paris in Marne-la-Vallée, France.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Disney Adventure World",
+                "wikipedia": "en:Disney Adventure World",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 209090,
+            "lat": 46.73333333,
+            "lon": -60.64166667,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Montagne_au_Cap-Breton.jpg/1280px-Montagne_au_Cap-Breton.jpg",
+            "description": "Cape Breton Highlands National Park is a Canadian national park on northern Cape Breton Island in Nova Scotia.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Cape Breton Highlands National Park",
+                "wikipedia": "en:Cape Breton Highlands National Park",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 62480,
+            "lat": 45.86111111,
+            "lon": -84.63055556,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Mackinac_Island_topographic_map-en.svg/1280px-Mackinac_Island_topographic_map-en.svg.png",
+            "description": "Mackinac Island ( MAK-ə-naw, locally  MAK-ə-nə; French: Île Mackinac; Ojibwe: Mishimikinaak ᒥᔑᒥᑭᓈᒃ; Ottawa: Michilimackinac) is an island and resort area, covering 4.35 square miles (11.3 km2) in land area, in the U.S. state of Michigan.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Mackinac Island",
+                "wikipedia": "en:Mackinac Island",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 23535352,
+            "lat": 40.957304,
+            "lon": -73.706084,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/77/The_Jay_Estate_in_Rye%2C_NY.jpg",
+            "description": "The Jay Estate is a 23-acre park and historic site in Rye, New York, with the 1838 Peter Augustus Jay House at its center.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Jay Estate",
+                "wikipedia": "en:Jay Estate",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 151637,
+            "lat": 34.15694444,
+            "lon": -118.325,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Walt_Disney_Studios_Alameda_Entrance.jpg/1280px-Walt_Disney_Studios_Alameda_Entrance.jpg",
+            "description": "The Walt Disney Studios, located in Burbank, California, United States, serves as the corporate headquarters for the Walt Disney Company.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Walt Disney Studios (Burbank)",
+                "wikipedia": "en:Walt Disney Studios (Burbank)",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 84504,
+            "lat": 27.82222222,
+            "lon": -82.67055556,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/St._Pete_Pier_-_East.jpg/1280px-St._Pete_Pier_-_East.jpg",
+            "description": "St.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "St. Petersburg, Florida",
+                "wikipedia": "en:St. Petersburg, Florida",
+                "tourism": "attraction"
+            }
+        }
+    ]
+}

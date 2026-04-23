@@ -1,0 +1,398 @@
+{
+    "city_metadata": {
+        "city_name": "Sioux Falls",
+        "state_code": "SD",
+        "state_full": "South Dakota",
+        "city_summary": "Sioux Falls ( soo FAWLZ) is the most populous city in the U.S. state of South Dakota. It is the county seat of Minnehaha County and also extends into northern Lincoln County. The population was 192,517 at the 2020 census (estimated at 209,289 in 2024).",
+        "city_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Downtown_and_Falls_Park_03-16-24.jpg/1280px-Downtown_and_Falls_Park_03-16-24.jpg",
+        "city_lat": 43.53638889,
+        "city_lon": -96.73166667,
+        "source": "wikipedia_verified_engine"
+    },
+    "attractions": [
+        {
+            "type": "node",
+            "id": 4065575094,
+            "lat": 43.5514715,
+            "lon": -96.7287004,
+            "tags": {
+                "addr:city": "Sioux Falls",
+                "addr:housenumber": "200",
+                "addr:postcode": "57104",
+                "addr:state": "SD",
+                "addr:street": "West 6th Street",
+                "name": "Old Courthouse Museum",
+                "tourism": "museum",
+                "website": "http://www.siouxlandmuseums.com/museums/exhibits/old_courthouse_museum.asp",
+                "wikidata": "Q18385386",
+                "wikipedia": "en:Old Minnehaha County Courthouse"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Old_Minnehaha_County_Courthouse%2C_Main_Avenue_and_6th_Street%2C_Sioux_Falls%2C_SD_-_53746800023.jpg/1280px-Old_Minnehaha_County_Courthouse%2C_Main_Avenue_and_6th_Street%2C_Sioux_Falls%2C_SD_-_53746800023.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 4066136879,
+            "lat": 43.5483761,
+            "lon": -96.7347701,
+            "tags": {
+                "addr:city": "Sioux Falls",
+                "addr:housenumber": "131",
+                "addr:postcode": "57104",
+                "addr:state": "SD",
+                "addr:street": "North Duluth Avenue",
+                "name": "Pettigrew Home & Museum",
+                "tourism": "museum",
+                "website": "http://www.siouxlandmuseums.com/museums/exhibits/pettigrew_museum.asp"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/PettigrewHomeAndMuseum.jpg/1280px-PettigrewHomeAndMuseum.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 4070986434,
+            "lat": 43.5527619,
+            "lon": -96.7278502,
+            "tags": {
+                "addr:city": "Sioux Falls",
+                "addr:housenumber": "500",
+                "addr:postcode": "57104",
+                "addr:state": "SD",
+                "addr:street": "North Main Avenue",
+                "name": "Museum of Visual Materials",
+                "opening_hours": "Mo-Fr 09:00-16:00; Sa 08:00-12:00",
+                "tourism": "museum",
+                "website": "https://sfmvm.com/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Old_Minnehaha_County_Courthouse%2C_Main_Avenue_and_6th_Street%2C_Sioux_Falls%2C_SD_-_53746800023.jpg/1280px-Old_Minnehaha_County_Courthouse%2C_Main_Avenue_and_6th_Street%2C_Sioux_Falls%2C_SD_-_53746800023.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 119403322,
+            "lat": 43.5588875,
+            "lon": -96.7226788,
+            "tags": {
+                "addr:city": "Sioux Falls",
+                "addr:housenumber": "301",
+                "addr:postcode": "57104",
+                "addr:state": "SD",
+                "addr:street": "East Falls Park Drive",
+                "building": "yes",
+                "building:levels": "2",
+                "name": "Stockyards Ag Experience Barn Art Museum",
+                "tourism": "museum",
+                "website": "https://www.stockyardsagexperience.org/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Sioux_Falls_Hydro_Plant_1.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 236942208,
+            "lat": 43.5529821,
+            "lon": -96.7706091,
+            "tags": {
+                "landuse": "recreation_ground",
+                "name": "W. H. Lyon Fairgrounds (Sioux Empire Fair)",
+                "source": "Bing",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "way",
+            "id": 302349339,
+            "lat": 43.537336,
+            "lon": -96.7648106,
+            "tags": {
+                "addr:city": "Sioux Falls",
+                "addr:housenumber": "805",
+                "addr:postcode": "57104",
+                "addr:state": "SD",
+                "addr:street": "South Kiwanis Avenue",
+                "name": "Great Plains Zoo",
+                "phone": "+1-605-367-7003",
+                "tourism": "zoo",
+                "website": "https://greatzoo.org/",
+                "wikidata": "Q5599788",
+                "wikipedia": "en:Great Plains Zoo"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/46/GPZEntrance.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 302349514,
+            "lat": 43.5392201,
+            "lon": -96.7627484,
+            "tags": {
+                "building": "yes",
+                "fee": "yes",
+                "name": "Delbridge Museum of Natural History",
+                "opening_hours": "Sa-Su 9:00-17:00",
+                "tourism": "museum",
+                "website": "https://greatzoo.org/",
+                "wheelchair": "yes"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/46/GPZEntrance.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 302519603,
+            "lat": 43.5489327,
+            "lon": -96.7624099,
+            "tags": {
+                "addr:city": "Sioux Falls",
+                "addr:housenumber": "201",
+                "addr:postcode": "57104",
+                "addr:state": "SD",
+                "addr:street": "North Kiwanis Avenue",
+                "landuse": "commercial",
+                "name": "Thunder Road Sioux Falls",
+                "old_name": "Thunder Road Family Fun Park",
+                "tourism": "theme_park",
+                "website": "https://thunderroadsiouxfalls.com/"
+            }
+        },
+        {
+            "type": "way",
+            "id": 302520233,
+            "lat": 43.5438882,
+            "lon": -96.7290171,
+            "tags": {
+                "addr:city": "Sioux Falls",
+                "addr:housenumber": "301",
+                "addr:postcode": "57104",
+                "addr:state": "SD",
+                "addr:street": "South Main Avenue",
+                "building": "yes",
+                "name": "Washington Pavillion of Arts & Science",
+                "tourism": "museum",
+                "website": "https://www.washingtonpavilion.org/Online/default.asp",
+                "wheelchair": "yes",
+                "wikipedia": "en:Washington Pavilion of Arts and Science"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Washington_Pavilion_5.JPG/1280px-Washington_Pavilion_5.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 1098329072,
+            "lat": 43.5433439,
+            "lon": -96.7628012,
+            "tags": {
+                "addr:city": "SIoux Falls",
+                "addr:housenumber": "2705",
+                "addr:postcode": "57104",
+                "addr:state": "SD",
+                "addr:street": "West 12th Street",
+                "museum": "military",
+                "name": "USS South Dakota",
+                "opening_hours": "Mo-Su 09:00-17:30",
+                "phone": "+1 605-367-7141",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/USS_South_Dakota_%28BB-57%29_off_the_Norfolk_Naval_Shipyard_on_20_August_1943_%28NH_97264%29.jpg/1280px-USS_South_Dakota_%28BB-57%29_off_the_Norfolk_Naval_Shipyard_on_20_August_1943_%28NH_97264%29.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 1254605701,
+            "lat": 43.5270175,
+            "lon": -96.6058821,
+            "tags": {
+                "addr:housenumber": "1900",
+                "addr:postcode": "57110",
+                "addr:street": "Perry Place",
+                "building": "yes",
+                "name": "Mary Jo Wegner Arboretum & East Sioux Falls Historic Site",
+                "source": "Bing",
+                "tourism": "museum",
+                "website": "https://www.maryjowegnerarboretum.com/welcome.html"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 9558308,
+            "lat": 43.556844,
+            "lon": -96.721931,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Falls_Park%2C_Sioux_Falls%2C_South_Dakota.jpg/1280px-Falls_Park%2C_Sioux_Falls%2C_South_Dakota.jpg",
+            "description": "Falls Park is a public park in north central Sioux Falls, South Dakota, surrounding the city's waterfalls.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Falls Park",
+                "wikipedia": "en:Falls Park",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 26746,
+            "lat": 44,
+            "lon": -100,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_South_Dakota.svg/1280px-Flag_of_South_Dakota.svg.png",
+            "description": "South Dakota ( ; Siouan languages: Dakȟóta itókaga, pronounced [daˈkˣota iˈtokaga]) is a landlocked state in the Upper Midwest, North Central region of the United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "South Dakota",
+                "wikipedia": "en:South Dakota",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 1163831,
+            "lat": 43.714644,
+            "lon": -98.026019,
+            "image_url": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e5/CornPalace.jpg/1280px-CornPalace.jpg",
+            "description": "The Corn Palace, commonly advertised as The World's Only Corn Palace and the Mitchell Corn Palace, is a multi-purpose arena/facility located in Mitchell, South Dakota, United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Corn Palace",
+                "wikipedia": "en:Corn Palace",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 134987,
+            "lat": 44.07138889,
+            "lon": -103.22083333,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Rapid_City_Skyline_%282022%29.jpg/1280px-Rapid_City_Skyline_%282022%29.jpg",
+            "description": "Rapid City is a city in and the county seat of Pennington County, South Dakota, United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Rapid City, South Dakota",
+                "wikipedia": "en:Rapid City, South Dakota",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 134799,
+            "lat": 43.76666667,
+            "lon": -103.59888889,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Custer%2C_SD.jpg/1280px-Custer%2C_SD.jpg",
+            "description": "Custer is a city in Custer County, South Dakota, United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Custer, South Dakota",
+                "wikipedia": "en:Custer, South Dakota",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 134992,
+            "lat": 45.93833333,
+            "lon": -102.15972222,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Kokomo_and_Boss_Cowman_Square.jpg/1280px-Kokomo_and_Boss_Cowman_Square.jpg",
+            "description": "Lemmon is a town in Perkins County, South Dakota, United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Lemmon, South Dakota",
+                "wikipedia": "en:Lemmon, South Dakota",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 185973,
+            "lat": 43.87888889,
+            "lon": -103.45916667,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Mount_Rushmore_detail_view_%28100MP%29.jpg/1280px-Mount_Rushmore_detail_view_%28100MP%29.jpg",
+            "description": "The Mount Rushmore National Memorial is a national memorial centered on a colossal sculpture carved into the granite face of Mount Rushmore (Lakota: Tȟuŋkášila Šákpe, or Six Grandfathers) in the Black Hills near Keystone, South Dakota, United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Mount Rushmore",
+                "wikipedia": "en:Mount Rushmore",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 134983,
+            "lat": 43.93361111,
+            "lon": -103.56944444,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Hill_City%2C_SD.jpg/1280px-Hill_City%2C_SD.jpg",
+            "description": "Hill City is the oldest existing city in Pennington County, South Dakota, United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Hill City, South Dakota",
+                "wikipedia": "en:Hill City, South Dakota",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 12908054,
+            "lat": 44.07794444,
+            "lon": -103.24583333,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Rapid_City%2C_SD%2C_USA_-_panoramio.jpg/1280px-Rapid_City%2C_SD%2C_USA_-_panoramio.jpg",
+            "description": "Dinosaur Park is a dinosaur park in Rapid City, South Dakota, United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Dinosaur Park",
+                "wikipedia": "en:Dinosaur Park",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 76314779,
+            "lat": 43.97711111,
+            "lon": -103.29922222,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Bear_Country_USA_sign_2017.jpg/1280px-Bear_Country_USA_sign_2017.jpg",
+            "description": "Bear Country USA is a drive-through wildlife park and zoo in the Black Hills near Rapid City, South Dakota.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Bear Country USA",
+                "wikipedia": "en:Bear Country USA",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 3621535,
+            "lat": 44.367167,
+            "lon": -100.346353,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/South_Dakota_State_Capitol.jpg/1280px-South_Dakota_State_Capitol.jpg",
+            "description": "The South Dakota State Capitol is the state capitol building of the U.S. state of South Dakota.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "South Dakota State Capitol",
+                "wikipedia": "en:South Dakota State Capitol",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 3505422,
+            "lat": 42.79111111,
+            "lon": -96.92777778,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/74/USDDakotaDome.png",
+            "description": "The DakotaDome is an indoor multi-purpose stadium in the north central United States, located on the campus of the University of South Dakota in Vermillion, South Dakota.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "DakotaDome",
+                "wikipedia": "en:DakotaDome",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 55881515,
+            "lat": 61.16111111,
+            "lon": 10.3725,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Runestein_ved_F%C3%A5berg_kirke.JPG/1280px-Runestein_ved_F%C3%A5berg_kirke.JPG",
+            "description": "The Fåberg stone (Norwegian: Fåbergsteinen) is a runestone next  to Fåberg Church in the village of Fåberg in Lillehammer Municipality in Innlandet County, Norway.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Fåberg stone",
+                "wikipedia": "en:Fåberg stone",
+                "tourism": "attraction"
+            }
+        }
+    ]
+}

@@ -1,0 +1,426 @@
+{
+    "city_metadata": {
+        "city_name": "Burlington",
+        "state_code": "VT",
+        "state_full": "Vermont",
+        "city_summary": "Burlington is a city in, and county seat of, Chittenden County, Vermont, United States. It is located 45 miles (72 km) south of the Canada–United States border and 95 miles (153 km) south of Montreal. As of the 2020 United States census, the population was 44,743.",
+        "city_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/View_of_the_Burlington_Marketplace_2017-10-01.jpg/1280px-View_of_the_Burlington_Marketplace_2017-10-01.jpg",
+        "city_lat": 44.47583333,
+        "city_lon": -73.21194444,
+        "source": "wikipedia_verified_engine"
+    },
+    "attractions": [
+        {
+            "type": "node",
+            "id": 367786839,
+            "lat": 43.3186764,
+            "lon": -79.8015964,
+            "tags": {
+                "name": "Joseph Brant Museum",
+                "tourism": "museum",
+                "website": "https://museumsofburlington.ca/visitor-information/joseph-brant-museum/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Joseph_Brant_Hospital_2024.jpg/1280px-Joseph_Brant_Hospital_2024.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 1324772033,
+            "lat": 44.447284,
+            "lon": -73.2195998,
+            "tags": {
+                "addr:city": "Burlington",
+                "addr:housenumber": "266",
+                "addr:street": "Queen City Park Road",
+                "name": "Craig's",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Green_Mountain_Transit_Buses.jpg/1280px-Green_Mountain_Transit_Buses.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 3891740160,
+            "lat": 41.7190763,
+            "lon": -72.9983723,
+            "tags": {
+                "name": "Tory's Den",
+                "natural": "cave_entrance",
+                "tourism": "attraction",
+                "website": "https://www.courant.com/news/connecticut/hc-xpm-2009-05-03-hc-tory-den-burlington-wayto-artsunday-story.html"
+            }
+        },
+        {
+            "type": "node",
+            "id": 4210016424,
+            "lat": 41.7415278,
+            "lon": -72.9456865,
+            "tags": {
+                "name": "Devil's Kitchen",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 4673858864,
+            "lat": 41.7599063,
+            "lon": -72.9494577,
+            "tags": {
+                "historic": "memorial",
+                "memorial": "plaque",
+                "name": "Kathy Ebersold plaque",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 4969170744,
+            "lat": 40.8121575,
+            "lon": -91.1035947,
+            "tags": {
+                "addr:city": "Burlington",
+                "addr:housenumber": "501",
+                "addr:postcode": "52601",
+                "addr:state": "IA",
+                "addr:street": "North 4th Street",
+                "name": "Heritage Center Museum",
+                "phone": "+1-319-752-7449",
+                "tourism": "museum",
+                "website": "https://dmchs.org/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Old_Burlington_Public_Library_-_Burlington_Iowa.jpg/1280px-Old_Burlington_Public_Library_-_Burlington_Iowa.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 7082332108,
+            "lat": 43.3030313,
+            "lon": -79.8804759,
+            "tags": {
+                "addr:housenumber": "1364",
+                "addr:street": "Old York Road",
+                "name": "Christmas on Old York",
+                "tourism": "attraction",
+                "website": "https://www.facebook.com/christmasonoldyork"
+            }
+        },
+        {
+            "type": "node",
+            "id": 8620063408,
+            "lat": 48.4550404,
+            "lon": -122.3397155,
+            "tags": {
+                "addr:city": "Burlington",
+                "addr:housenumber": "432",
+                "addr:postcode": "98233",
+                "addr:state": "WA",
+                "addr:street": "Fashion Way",
+                "name": "Children's Museum of Skagit County",
+                "opening_hours": "Mo-Sa 10:00-17:00, Su 12:00-17:00",
+                "opening_hours:covid19": "closed until June 2, 2021",
+                "tourism": "museum",
+                "website": "https://www.skagitchildrensmuseum.net/"
+            }
+        },
+        {
+            "type": "node",
+            "id": 12668796296,
+            "lat": 41.7368674,
+            "lon": -72.9375061,
+            "tags": {
+                "check_date": "2025-03-15",
+                "description": "Maple sugar production",
+                "name": "Lamothe Sugar House",
+                "source": "survey",
+                "start_date": "1971",
+                "tourism": "attraction",
+                "website": "https://lamothesugarhouse.com"
+            }
+        },
+        {
+            "type": "node",
+            "id": 12715326962,
+            "lat": 41.7769587,
+            "lon": -73.0089086,
+            "tags": {
+                "addr:city": "Burlington",
+                "addr:housenumber": "522",
+                "addr:postcode": "06013",
+                "addr:state": "CT",
+                "addr:street": "Spielman Highway",
+                "attraction": "food",
+                "craft": "brewery",
+                "name": "Hogan's Cider Mill",
+                "phone": "+18606757320",
+                "product": "cider",
+                "shop": "alcohol",
+                "tourism": "attraction",
+                "website": "https://www.hoganscidermill.com/"
+            }
+        },
+        {
+            "type": "node",
+            "id": 12718961316,
+            "lat": 40.8121126,
+            "lon": -91.1053991,
+            "tags": {
+                "addr:city": "Burlington",
+                "addr:housenumber": "521",
+                "addr:postcode": "52601",
+                "addr:state": "IA",
+                "addr:street": "Columbia Street",
+                "name": "Garrett-Phelps House Museum",
+                "phone": "+1-319-752-7449",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/38/SnakeAlley_BurlingtonIA.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 13684977494,
+            "lat": 43.2903841,
+            "lon": -79.8752616,
+            "tags": {
+                "addr:housenumber": "680",
+                "addr:street": "Plains Road West",
+                "check_date": "2026-03-27",
+                "name": "RBG Centre",
+                "opening_hours": "Mo off; Tu-Fr 10:00-17:00; Sa 09:00-21:00; Su 09:00-17:00",
+                "payment:cash": "yes",
+                "payment:credit_cards": "yes",
+                "payment:debit_cards": "yes",
+                "tourism": "museum",
+                "website": "https://www.rbg.ca/gardens-trails/by-attraction/rbg-centre/"
+            }
+        },
+        {
+            "type": "way",
+            "id": 97338103,
+            "lat": 44.4765081,
+            "lon": -73.221073,
+            "tags": {
+                "addr:city": "Burlington",
+                "addr:housenumber": "1",
+                "addr:postcode": "05401",
+                "addr:state": "VT",
+                "addr:street": "College Street",
+                "alt_name": "ECHO Lake Aquarium & Science Center",
+                "building": "yes",
+                "fee": "yes",
+                "height": "17",
+                "museum": "nature",
+                "name": "ECHO Leahy Center for Lake Champlain",
+                "opening_hours": "Mo-Su 10:00-17:00",
+                "phone": "+1 802-864-1848;+1 877-324-6386",
+                "ref:vcgi:esiteid": "49369",
+                "source": "knowledge",
+                "source:position": "Bing",
+                "tourism": "museum",
+                "website": "https://www.echovermont.org/",
+                "wheelchair": "yes",
+                "wikidata": "Q5322675"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Exterior_of_ECHO%2C_Leahy_Center_for_Lake_Champlain.jpg/1280px-Exterior_of_ECHO%2C_Leahy_Center_for_Lake_Champlain.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 165114654,
+            "lat": 39.2964574,
+            "lon": -102.2673775,
+            "tags": {
+                "addr:housenumber": "420",
+                "addr:state": "CO",
+                "addr:street": "South 14th Street",
+                "building": "yes",
+                "name": "Old Town Museum",
+                "opening_hours": "Mo-Sa 09:00-17:00",
+                "tourism": "museum",
+                "website": "https://www.oldtownburlington.com/"
+            }
+        },
+        {
+            "type": "way",
+            "id": 201646784,
+            "lat": 44.5080052,
+            "lon": -73.2300101,
+            "tags": {
+                "addr:city": "Burlington",
+                "addr:housenumber": "1",
+                "addr:state": "VT",
+                "addr:street": "Ethan Allen Homestead",
+                "building": "yes",
+                "name": "Ethan Allen Homestead Museum",
+                "ref:vcgi:esiteid": "45620",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/EthanAllenHomestead_crop.JPG/1280px-EthanAllenHomestead_crop.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 201647070,
+            "lat": 44.4768606,
+            "lon": -73.2222359,
+            "tags": {
+                "addr:city": "Burlington",
+                "addr:country": "US",
+                "addr:housenumber": "4",
+                "addr:state": "VT",
+                "addr:street": "College Street",
+                "building": "yes",
+                "height": "3",
+                "name": "Spirit Ethan Allen",
+                "ref:vcgi:esiteid": "769449",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "way",
+            "id": 229853906,
+            "lat": 40.797658,
+            "lon": -91.1168159,
+            "tags": {
+                "building": "yes",
+                "name": "Apple Trees Museum",
+                "not:brand:wikidata": "Q421253",
+                "tourism": "museum"
+            }
+        },
+        {
+            "type": "way",
+            "id": 229865689,
+            "lat": 40.776397,
+            "lon": -91.0979337,
+            "tags": {
+                "building": "yes",
+                "museum": "history",
+                "name": "Hawkeye Log Cabin",
+                "opening_hours": "May-Sep Su 13:00-16:00",
+                "operator": "Des Moines County Historical Society",
+                "operator:type": "private_non_profit",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Crapo_Park_pond_reflections_-_Burlington_Iowa.jpg/1280px-Crapo_Park_pond_reflections_-_Burlington_Iowa.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 235380988,
+            "lat": 44.4799137,
+            "lon": -73.1971286,
+            "tags": {
+                "addr:city": "Burlington",
+                "addr:country": "US",
+                "addr:housenumber": "61",
+                "addr:postcode": "05405",
+                "addr:state": "VT",
+                "addr:street": "Colchester Avenue",
+                "building": "yes",
+                "gnis:feature_id": "1918837",
+                "height": "17",
+                "name": "Fleming Museum of Art",
+                "ref:vcgi:esiteid": "48988",
+                "tourism": "museum",
+                "website": "https://www.uvm.edu/~fleming/",
+                "wikidata": "Q7345690",
+                "wikipedia": "en:Fleming Museum of Art"
+            }
+        },
+        {
+            "type": "way",
+            "id": 297228805,
+            "lat": 43.3054962,
+            "lon": -79.8649386,
+            "tags": {
+                "name": "Model Train Yard",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "way",
+            "id": 297301191,
+            "lat": 36.0939786,
+            "lon": -79.4359114,
+            "tags": {
+                "building": "yes",
+                "name": "Restored Caboose",
+                "note": "Open Saturdays (weather permitting) 1:00 pm - 4:00 pm Next to Historic Depot on Webb Avenue",
+                "phone": "+1-336-222-5030",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "way",
+            "id": 355306911,
+            "lat": 46.4821233,
+            "lon": -63.5735427,
+            "tags": {
+                "addr:city": "Burlington",
+                "addr:housenumber": "1077",
+                "addr:street": "Burlington Road",
+                "name": "Burlington Amusement Park",
+                "tourism": "theme_park",
+                "website": "https://www.burlingtonamusementpark.com/"
+            }
+        },
+        {
+            "type": "way",
+            "id": 397723222,
+            "lat": 39.3095766,
+            "lon": -102.2721088,
+            "tags": {
+                "addr:city": "Burlington",
+                "addr:housenumber": "815",
+                "addr:postcode": "80807",
+                "addr:state": "CO",
+                "addr:street": "15th Street",
+                "area": "yes",
+                "name": "Kit Carson County Fairgrounds",
+                "source": "Mapbox",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Elitch_Gardens_Carousel.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 943681794,
+            "lat": 42.6780028,
+            "lon": -88.2761812,
+            "tags": {
+                "addr:state": "WI",
+                "building": "church",
+                "building:name": "Luther Hall",
+                "building:use": "civic",
+                "ele": "234",
+                "gnis:feature_id": "1850965",
+                "museum": "local",
+                "name": "Burlington Historical Society",
+                "source": "USGS Geonames",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/101_E._State.jpg/1280px-101_E._State.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 1196007361,
+            "lat": 38.194302,
+            "lon": -95.7497966,
+            "tags": {
+                "addr:city": "Burlington",
+                "addr:housenumber": "1101",
+                "addr:postcode": "66839",
+                "addr:state": "KS",
+                "addr:street": "Neosho Street",
+                "building": "yes",
+                "name": "Coffey County Historical Museum",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Carnegie_Free_Library%2C_Burlington%2C_Kansas_%28corner_view%29.jpg/1280px-Carnegie_Free_Library%2C_Burlington%2C_Kansas_%28corner_view%29.jpg",
+            "image_source": "wikipedia_verified"
+        }
+    ]
+}

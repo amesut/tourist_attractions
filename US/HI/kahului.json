@@ -1,0 +1,84 @@
+{
+    "city_metadata": {
+        "city_name": "Kahului",
+        "state_code": "HI",
+        "state_full": "Hawaii",
+        "city_summary": "Kahului (Hawaiian pronunciation: [kəhuˈluwi]) is an unincorporated community and a census-designated place in Maui County in the U.S. state of Hawaii. It hosts the county's main airport (Kahului Airport), a deep-draft harbor, light industrial areas, and commercial shopping centers. The population was 28,219 at the 2020 census.",
+        "city_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/AirViewKahului.jpg/1280px-AirViewKahului.jpg",
+        "city_lat": 20.88166667,
+        "city_lon": -156.4675,
+        "source": "wikipedia_verified_engine"
+    },
+    "attractions": [
+        {
+            "type": "node",
+            "id": 12103167767,
+            "lat": 20.8925153,
+            "lon": -156.4864365,
+            "tags": {
+                "addr:housenumber": "150",
+                "addr:street": "Kanaloa Avenue",
+                "description": "Botanical garden",
+                "name": "Maui Nui Botanical Gardens",
+                "opening_hours": "Tu-Sa 08:00-16:00",
+                "phone": "+1 808 2492798",
+                "tourism": "attraction",
+                "website": "https://mnbg.org/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Starr-050407-6213-Pandanus_tectorius-with_sign-Maui_Nui_Botanical_Garden-Maui_%2824718730016%29.jpg/1280px-Starr-050407-6213-Pandanus_tectorius-with_sign-Maui_Nui_Botanical_Garden-Maui_%2824718730016%29.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 455897432,
+            "lat": 20.8693644,
+            "lon": -156.4550675,
+            "tags": {
+                "addr:hamlet": "Pu'unene",
+                "addr:housenumber": "3967",
+                "addr:postcode": "96784",
+                "addr:state": "HI",
+                "addr:street": "Hansen Road",
+                "building": "yes",
+                "check_date:opening_hours": "2024-10-01",
+                "fee": "yes",
+                "fee:conditional": "no @ age < 6",
+                "name": "Alexander & Baldwin Sugar Museum",
+                "opening_hours": "Mo-Th 10:00-14:00; Jan 01 off; Jul 04 off; Nov Th[4] off; Dec 25 off",
+                "tourism": "museum",
+                "website": "https://www.sugarmuseum.com/",
+                "wikidata": "Q16970656"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Maui-Puunene-Sugar-Museum.JPG/1280px-Maui-Puunene-Sugar-Museum.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 70959,
+            "lat": 20.8,
+            "lon": -156.3,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Maui_Landsat_Photo.jpg",
+            "description": "Maui is the second-largest island in the Hawaiian archipelago, at 727.2 square miles (1,883 km2).",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Maui",
+                "wikipedia": "en:Maui",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 27402074,
+            "lat": 21.96833333,
+            "lon": -159.39722222,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Narow_gauge_rail_tracks_%2C_Kauai.jpg/1280px-Narow_gauge_rail_tracks_%2C_Kauai.jpg",
+            "description": "There are two heritage railways in Kauaʻi, the birthplace of Hawaiian railroading.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Heritage railways in Kauaʻi",
+                "wikipedia": "en:Heritage railways in Kauaʻi",
+                "tourism": "attraction"
+            }
+        }
+    ]
+}

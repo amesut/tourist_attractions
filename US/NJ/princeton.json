@@ -1,0 +1,397 @@
+{
+    "city_metadata": {
+        "city_name": "Princeton",
+        "state_code": "NJ",
+        "state_full": "New Jersey",
+        "city_summary": "The Municipality of Princeton is a borough in Mercer County, in the U.S. state of New Jersey. It was established on January 1, 2013, through the consolidation of the Borough of Princeton and Princeton Township, both of which are now defunct. As of the 2020 United States census, the borough's population was 30,681, an increase of 2,109 (+7.4%) from the 2010 census combined count of 28,572.",
+        "city_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Princeton%2C_New_Jersey_%2855144921890%29.jpg/1280px-Princeton%2C_New_Jersey_%2855144921890%29.jpg",
+        "city_lat": 40.358244,
+        "city_lon": -74.666728,
+        "source": "wikipedia_verified_engine"
+    },
+    "attractions": [
+        {
+            "type": "node",
+            "id": 368074864,
+            "lat": 41.3683696,
+            "lon": -89.4664813,
+            "tags": {
+                "addr:city": "Princeton",
+                "addr:postcode": "61356",
+                "addr:state": "IL",
+                "addr:street": "South Pleasant Street",
+                "ele": "220",
+                "gnis:feature_id": "1822634",
+                "museum": "local",
+                "name": "Bureau County Historical Museum",
+                "source": "USGS Geonames",
+                "tourism": "museum",
+                "website": "https://bureaucountyhistoricalsociety.com/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Princeton-IL-mainstreet1.jpg/1280px-Princeton-IL-mainstreet1.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 9913087218,
+            "lat": 38.355596,
+            "lon": -87.5743172,
+            "tags": {
+                "addr:housenumber": "702",
+                "addr:postcode": "47670",
+                "addr:street": "West Broadway Street",
+                "email": "eric@gibsoncountyin.org",
+                "name": "Gibson County Visitors & Tourism",
+                "name:en": "Gibson County Visitors & Tourism Bureau",
+                "phone": "+1-812-385-0999",
+                "tourism": "attraction",
+                "website": "https://www.gibsoncountyin.org/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Gibson_County_Courthouse_in_Princeton.jpg/1280px-Gibson_County_Courthouse_in_Princeton.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 10189099801,
+            "lat": 37.110533,
+            "lon": -87.8807239,
+            "tags": {
+                "addr:city": "Princeton",
+                "addr:housenumber": "304",
+                "addr:postcode": "42445",
+                "addr:state": "KY",
+                "addr:street": "North Jefferson Street",
+                "museum": "local",
+                "name": "Adsmore Museum",
+                "opening_hours": "Th-Sa 11:00-16:00",
+                "phone": "+1-270-365-3114",
+                "tourism": "museum",
+                "website": "https://adsmoremuseum.com",
+                "wikidata": "Q4685838",
+                "wikipedia": "en:Adsmore"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Adsmore_museum.jpg/1280px-Adsmore_museum.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 11121833618,
+            "lat": 40.3301945,
+            "lon": -74.6680771,
+            "tags": {
+                "description": "Spot from Oppenheimer movie at which the famous dialogue of J. R. Oppenheimer (played by Cillian Murphy) and Albert Einstein (Tom Conti) took place",
+                "name": "Pond dialogue",
+                "start_date": "2023-07-21",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11778673579,
+            "lat": 40.323779,
+            "lon": -74.6624309,
+            "tags": {
+                "image": "https://en.m.wikipedia.org/wiki/File:Swinging_Bridge_over_Stony_Brook,_Institute_Woods,_Institute_for_Advanced_Study,_Princeton,_NJ.jpg",
+                "name": "Stony Brook Swinging Bridge",
+                "operator": "Institute For Advanced Study",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "way",
+            "id": 197903794,
+            "lat": 40.3317368,
+            "lon": -74.6680315,
+            "tags": {
+                "addr:city": "Princeton",
+                "addr:housenumber": "1",
+                "addr:postcode": "08540",
+                "addr:state": "NJ",
+                "addr:street": "Einstein Drive",
+                "building": "university",
+                "building:levels": "3",
+                "name": "Fuld Hall",
+                "operator": "Institute for Advanced Study",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "way",
+            "id": 198964332,
+            "lat": 40.3477732,
+            "lon": -74.6669612,
+            "tags": {
+                "addr:housenumber": "55",
+                "addr:postcode": "08540",
+                "addr:street": "Stockton Street",
+                "building": "yes",
+                "name": "Morven Museum",
+                "tourism": "museum",
+                "wikidata": "Q6915170"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e0/MorvenNJ.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 605416188,
+            "lat": 37.3700051,
+            "lon": -81.0853704,
+            "tags": {
+                "addr:city": "Princeton",
+                "addr:housenumber": "99",
+                "addr:postcode": "24740",
+                "addr:state": "WV",
+                "addr:street": "Mercer Street",
+                "building": "yes",
+                "name": "Princeton Railroad Museum",
+                "tourism": "museum",
+                "website": "https://www.princetonrailroadmuseum.com/",
+                "wikidata": "Q121634659"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Bronzelook.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 605416190,
+            "lat": 37.3696061,
+            "lon": -81.0853782,
+            "tags": {
+                "building": "yes",
+                "name": "Mercer County Agricultural Museum",
+                "tourism": "museum",
+                "wikidata": "Q121637099"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Bronzelook.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 608475691,
+            "lat": 37.3664312,
+            "lon": -81.1032918,
+            "tags": {
+                "building": "yes",
+                "name": "Mercer County War Museum",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Mercer_County_Courthouse_West_Virginia.jpg/1280px-Mercer_County_Courthouse_West_Virginia.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 653248465,
+            "lat": 40.3205153,
+            "lon": -74.6819033,
+            "tags": {
+                "building": "yes",
+                "name": "Historical Society Of Princeton",
+                "tourism": "museum"
+            }
+        },
+        {
+            "type": "way",
+            "id": 819306034,
+            "lat": 49.4584516,
+            "lon": -120.5092095,
+            "tags": {
+                "addr:city": "Princeton",
+                "addr:housenumber": "167",
+                "addr:street": "Vermilion Avenue",
+                "museum": "local",
+                "name": "Princeton & District Museum",
+                "operator": "Princeton and District Museum and Archive Society",
+                "operator:type": "private_non_profit",
+                "phone": "+1-250-295-7588",
+                "tourism": "museum",
+                "website": "https://princetonmuseum.org/"
+            }
+        },
+        {
+            "type": "way",
+            "id": 965373046,
+            "lat": 42.489079,
+            "lon": -71.8869768,
+            "tags": {
+                "height": "25",
+                "man_made": "tower",
+                "material": "steel",
+                "name": "Observation Tower",
+                "opening_hours": "sunrise-sunset",
+                "tourism": "attraction",
+                "tower:type": "observation"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/It_Was_Only_About_5_Miles_But_The_Humidity_Wasn_T_Messing_Around_%28140360335%29.jpeg/1280px-It_Was_Only_About_5_Miles_But_The_Humidity_Wasn_T_Messing_Around_%28140360335%29.jpeg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 1811906,
+            "lat": 47.05166667,
+            "lon": 8.3075,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Kapellbruecke.JPG/1280px-Kapellbruecke.JPG",
+            "description": "The Kapellbrücke (from German 'Chapel Bridge') is a covered wooden footbridge spanning the river Reuss diagonally in the city of Lucerne in central Switzerland.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Kapellbrücke",
+                "wikipedia": "en:Kapellbrücke",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 21648,
+            "lat": 40,
+            "lon": -74.5,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Flag_of_New_Jersey.svg/1280px-Flag_of_New_Jersey.svg.png",
+            "description": "New Jersey is a state located in both the Mid-Atlantic and Northeastern regions of the United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "New Jersey",
+                "wikipedia": "en:New Jersey",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 63627,
+            "lat": 45.99444444,
+            "lon": 13.64138889,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Soca_4.jpg/1280px-Soca_4.jpg",
+            "description": "The Soča (Slovene: [ˈsòːtʃa], in Slovene) or Isonzo (Italian: [iˈzontso], in Italian; other names: Friulian: Lusinç; German: Sontig; Latin: Aesontius or Isontius) is a 138-kilometre (86 mi) long river that flows through western Slovenia (96 kilometres or 60 miles) and northeastern Italy (43 kilometres or 27 miles).",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Soča",
+                "wikipedia": "en:Soča",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 3181685,
+            "lat": 48.96666667,
+            "lon": 28.85,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/P1080846_%D0%9D%D0%B5%D0%BC%D0%B8%D1%80%D1%96%D0%B2%D1%81%D1%8C%D0%BA%D0%B8%D0%B9_%D0%BF%D0%B0%D0%BB%D0%B0%D1%86.jpg/1280px-P1080846_%D0%9D%D0%B5%D0%BC%D0%B8%D1%80%D1%96%D0%B2%D1%81%D1%8C%D0%BA%D0%B8%D0%B9_%D0%BF%D0%B0%D0%BB%D0%B0%D1%86.jpg",
+            "description": "Nemyriv (Ukrainian: Немирів [neˈmɪr⁽ʲ⁾iu̯] ; Polish: Niemirów) is a historic city in Vinnytsia Oblast (province) in Ukraine, located in the historical region of Podolia.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Nemyriv",
+                "wikipedia": "en:Nemyriv",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 2662043,
+            "lat": 40.220437,
+            "lon": -74.769902,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/New_Jersey_State_House_-_2_%2855141979306%29.jpg/1280px-New_Jersey_State_House_-_2_%2855141979306%29.jpg",
+            "description": "The New Jersey State House is the capitol building of the U.S. state of New Jersey and is the third-oldest state house in continuous legislative use in the United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "New Jersey State House",
+                "wikipedia": "en:New Jersey State House",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 927064,
+            "lat": 40.4361,
+            "lon": -74.875,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Driscoll-Viesser-Edison_Bridges_-_August_30%2C_2020.jpg/1280px-Driscoll-Viesser-Edison_Bridges_-_August_30%2C_2020.jpg",
+            "description": "Central Jersey, or Central New Jersey, is the middle region of the U.S. state of New Jersey.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Central Jersey",
+                "wikipedia": "en:Central Jersey",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 3010747,
+            "lat": -1.2975,
+            "lon": -90.43416667,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Floreana_topographic_map-en.png/1280px-Floreana_topographic_map-en.png",
+            "description": "Floreana Island (Spanish: Isla Floreana) is a southern island in Ecuador's Galápagos Archipelago.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Floreana Island",
+                "wikipedia": "en:Floreana Island",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 269223,
+            "lat": 28.26861111,
+            "lon": -16.60555556,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Tenerife%2C_Canary_Islands_ESA23970088.jpeg/1280px-Tenerife%2C_Canary_Islands_ESA23970088.jpeg",
+            "description": "Tenerife ( TEN-ə-REEF-(ay); Spanish: [teneˈɾife] ; formerly spelled Teneriffe) is the largest and most-populous island of the Canary Islands, an autonomous community of Spain.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Tenerife",
+                "wikipedia": "en:Tenerife",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 442163,
+            "lat": 40.048,
+            "lon": -74.052,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f5/NJ_LBI_Lighthouse_04.JPG",
+            "description": "The Jersey Shore, commonly called the Shore by locals, is the coastal region of the U.S. state of New Jersey.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Jersey Shore",
+                "wikipedia": "en:Jersey Shore",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 125438,
+            "lat": 40.3350611,
+            "lon": -74.5863263,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Wicoff_House_1.jpg/1280px-Wicoff_House_1.jpg",
+            "description": "Plainsboro Township is a township situated in southern Middlesex County, in the U.S. state of New Jersey.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Plainsboro Township, New Jersey",
+                "wikipedia": "en:Plainsboro Township, New Jersey",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 106211,
+            "lat": 39.3625,
+            "lon": -74.425,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/A_sunset_view_of_the_beach_in_Atlantic_City%2C_NJ.jpg/1280px-A_sunset_view_of_the_beach_in_Atlantic_City%2C_NJ.jpg",
+            "description": "Atlantic City, sometimes referred to by its initials A.C., is a seaside resort city in Atlantic County, in the U.S. state of New Jersey.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Atlantic City, New Jersey",
+                "wikipedia": "en:Atlantic City, New Jersey",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 27497343,
+            "lat": 40.314793,
+            "lon": -74.660955,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/2022-12-18_12_56_05_One_of_the_entrances_to_the_Princeton_MarketFair_Mall_in_West_Windsor_Township%2C_Mercer_County%2C_New_Jersey.jpg/1280px-2022-12-18_12_56_05_One_of_the_entrances_to_the_Princeton_MarketFair_Mall_in_West_Windsor_Township%2C_Mercer_County%2C_New_Jersey.jpg",
+            "description": "MarketFair (also referred to as MarketFair Mall) is a shopping mall in West Windsor, New Jersey, with a Princeton mailing address.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "MarketFair",
+                "wikipedia": "en:MarketFair",
+                "tourism": "attraction"
+            }
+        }
+    ]
+}

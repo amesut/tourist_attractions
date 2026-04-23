@@ -1,0 +1,416 @@
+{
+    "city_metadata": {
+        "city_name": "Pensacola",
+        "state_code": "FL",
+        "state_full": "Florida",
+        "city_summary": "Pensacola ( PEN-sə-KOH-lə) is a city in the Florida panhandle in the United States. It is the county seat and only city in Escambia County. The population was 54,312 at the 2020 census.",
+        "city_image": "https://upload.wikimedia.org/wikipedia/commons/4/47/Collage_of_images_from_around_Pensacola.jpg",
+        "city_lat": 30.40738889,
+        "city_lon": -87.21863889,
+        "source": "wikipedia_verified_engine"
+    },
+    "attractions": [
+        {
+            "type": "node",
+            "id": 4215020310,
+            "lat": 30.4088708,
+            "lon": -87.210925,
+            "tags": {
+                "addr:city": "Pensacola",
+                "addr:housenumber": "205",
+                "addr:postcode": "32502",
+                "addr:state": "FL",
+                "addr:street": "East Zarragossa Street",
+                "name": "Historic Pensacola Village",
+                "tourism": "attraction",
+                "website": "http://www.historicpensacola.org/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Pensacola_HD_Julee03.jpg/1280px-Pensacola_HD_Julee03.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 4215033550,
+            "lat": 30.408934,
+            "lon": -87.2115512,
+            "tags": {
+                "addr:city": "Pensacola",
+                "addr:housenumber": "200",
+                "addr:postcode": "32502",
+                "addr:state": "FL",
+                "addr:street": "East Zarragossa Street",
+                "fee": "yes",
+                "name": "Museum of Industry",
+                "opening_hours": "Tu-Sa 10:00-16:00",
+                "tourism": "museum",
+                "website": "https://historicpensacola.org/plan-your-visit/museums-properties/museum-of-industry/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Pensacola_HD_Julee03.jpg/1280px-Pensacola_HD_Julee03.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 4215033553,
+            "lat": 30.4110251,
+            "lon": -87.2094055,
+            "tags": {
+                "addr:city": "Pensacola",
+                "addr:housenumber": "204",
+                "addr:state": "FL",
+                "addr:street": "South Alcaniz Street",
+                "name": "The Quina House Museum",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Pensacola_HD_Julee01.jpg/1280px-Pensacola_HD_Julee01.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 5283052172,
+            "lat": 30.4090787,
+            "lon": -87.2125799,
+            "tags": {
+                "addr:city": "Pensacola",
+                "addr:housenumber": "120",
+                "addr:postcode": "32502",
+                "addr:state": "FL",
+                "addr:street": "Church Street",
+                "name": "UWF Historic Trust",
+                "operator": "Historic Pensacola",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Pensacola_FL_Lavalle_House01.jpg/1280px-Pensacola_FL_Lavalle_House01.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 5294965657,
+            "lat": 30.4085803,
+            "lon": -87.2134913,
+            "tags": {
+                "name": "Archaeological Dig Site",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Red_ensign_of_Great_Britain_%281707%E2%80%931800%29.svg/1280px-Red_ensign_of_Great_Britain_%281707%E2%80%931800%29.svg.png",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 5294965714,
+            "lat": 30.4171051,
+            "lon": -87.1996742,
+            "tags": {
+                "description": "Permanently parked. Possibly once belonged to John Lennon.",
+                "name": "1964 Rolls Royce Silver Cloud III",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Pensacola_Abandoned_Amtrak_station.jpg/1280px-Pensacola_Abandoned_Amtrak_station.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 306283745,
+            "lat": 30.411455,
+            "lon": -87.2240679,
+            "tags": {
+                "historic": "locomotive",
+                "locomotive:type": "steam",
+                "name": "Pride of Pensacola",
+                "start_date": "1912",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "way",
+            "id": 355522528,
+            "lat": 30.418016,
+            "lon": -87.2101909,
+            "tags": {
+                "addr:city": "Pensacola",
+                "addr:housenumber": "418",
+                "addr:postcode": "32501",
+                "addr:state": "FL",
+                "addr:street": "East Wright Street",
+                "building": "yes",
+                "name": "Pensacola MESS Hall",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Pensacola_L%26N_depot01.jpg/1280px-Pensacola_L%26N_depot01.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 359409763,
+            "lat": 30.4084121,
+            "lon": -87.2113889,
+            "tags": {
+                "addr:city": "Pensacola",
+                "addr:housenumber": "201",
+                "addr:state": "FL",
+                "addr:street": "East Zarragossa Street",
+                "building": "yes",
+                "fee": "yes",
+                "name": "Museum of Commerce",
+                "tourism": "museum",
+                "website": "https://historicpensacola.org/plan-your-visit/museums-properties/museum-of-commerce/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Pensacola_L%26N_Term_bldg01.jpg/1280px-Pensacola_L%26N_Term_bldg01.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 361999496,
+            "lat": 30.4092629,
+            "lon": -87.2129414,
+            "tags": {
+                "addr:city": "Pensacola",
+                "addr:housenumber": "117",
+                "addr:postcode": "32502",
+                "addr:state": "FL",
+                "addr:street": "East Government Street",
+                "building": "yes",
+                "name": "Voices of Pensacola Multicultural Center",
+                "opening_hours": "Tu-Th 10:00-16:00",
+                "operator": "Historic Pensacola",
+                "tourism": "museum",
+                "website": "https://historicpensacola.org/plan-your-visit/museums-properties/voices-of-pensacola/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Pensacola_FL_Lavalle_House01.jpg/1280px-Pensacola_FL_Lavalle_House01.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 361999506,
+            "lat": 30.4086915,
+            "lon": -87.2131408,
+            "tags": {
+                "addr:city": "Pensacola",
+                "addr:housenumber": "330",
+                "addr:postcode": "32502",
+                "addr:state": "FL",
+                "addr:street": "South Jefferson Street",
+                "building": "yes",
+                "fee": "yes",
+                "museum": "history",
+                "museum_type": "municipal",
+                "name": "Pensacola Museum of History",
+                "opening_hours": "Tu-Sa 10:00-16:00; Su 12:00-16:00",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Red_ensign_of_Great_Britain_%281707%E2%80%931800%29.svg/1280px-Red_ensign_of_Great_Britain_%281707%E2%80%931800%29.svg.png",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 361999509,
+            "lat": 30.4083015,
+            "lon": -87.2127463,
+            "tags": {
+                "addr:city": "Pensacola",
+                "addr:housenumber": "115",
+                "addr:state": "FL",
+                "addr:street": "East Zarragossa Street",
+                "building": "yes",
+                "check_date:opening_hours": "2023-07-26",
+                "fee": "yes",
+                "fee:conditional": "no @ (age < 3)",
+                "name": "Pensacola Children's Museum",
+                "opening_hours": "Tu-Sa 09:45-16:00; Su 12:00-16:00",
+                "tourism": "museum",
+                "website": "https://www.historicpensacola.org/plan-your-visit/museums-properties/pensacola-childrens-museum/",
+                "wheelchair": "yes"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Red_ensign_of_Great_Britain_%281707%E2%80%931800%29.svg/1280px-Red_ensign_of_Great_Britain_%281707%E2%80%931800%29.svg.png",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 560591486,
+            "lat": 30.4204005,
+            "lon": -87.1939112,
+            "tags": {
+                "layer": "1",
+                "man_made": "bridge",
+                "name": "Graffiti Bridge",
+                "start_date": "1888",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Pensacola_Abandoned_Amtrak_station.jpg/1280px-Pensacola_Abandoned_Amtrak_station.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 911111425,
+            "lat": 30.4079683,
+            "lon": -87.2135386,
+            "tags": {
+                "addr:city": "Pensacola",
+                "addr:housenumber": "407",
+                "addr:postcode": "32502",
+                "addr:state": "FL",
+                "addr:street": "S Jefferson St",
+                "building": "yes",
+                "fee": "yes",
+                "name": "Pensacola Museum of Art",
+                "tourism": "museum",
+                "website": "https://www.pensacolamuseum.org/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Pensacola_Plaza_Ferdinand01.jpg/1280px-Pensacola_Plaza_Ferdinand01.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 109162,
+            "lat": 30.40738889,
+            "lon": -87.21863889,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/47/Collage_of_images_from_around_Pensacola.jpg",
+            "description": "Pensacola ( PEN-sə-KOH-lə) is a city in the Florida panhandle in the United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Pensacola, Florida",
+                "wikipedia": "en:Pensacola, Florida",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 704778,
+            "lat": 30.33222222,
+            "lon": -87.14166667,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Pensacola_Beach%2C_United_States_%28Unsplash%29.jpg/1280px-Pensacola_Beach%2C_United_States_%28Unsplash%29.jpg",
+            "description": "Pensacola Beach is an unincorporated community located on Santa Rosa Island, a barrier island, in Escambia County, Florida, United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Pensacola Beach, Florida",
+                "wikipedia": "en:Pensacola Beach, Florida",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 42075170,
+            "lat": 33.761397,
+            "lon": -84.387536,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Military_becomes_%E2%80%9Csuper%E2%80%9D_at_local_comic_convention.jpg/1280px-Military_becomes_%E2%80%9Csuper%E2%80%9D_at_local_comic_convention.jpg",
+            "description": "Pensacon is a North American multigenre convention, founded in 2013, which takes place once each year in Pensacola, Florida.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Pensacon",
+                "wikipedia": "en:Pensacon",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 109790,
+            "lat": 29.88916667,
+            "lon": -81.30416667,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Aerial_view_of_the_Castillo_de_San_Marcos%2C_St._Augustine%2C_FL_2025-05-20.jpg/1280px-Aerial_view_of_the_Castillo_de_San_Marcos%2C_St._Augustine%2C_FL_2025-05-20.jpg",
+            "description": "St.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "St. Augustine, Florida",
+                "wikipedia": "en:St. Augustine, Florida",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 1680665,
+            "lat": 24.54666667,
+            "lon": -81.81055556,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Aerial_view_of_Fort_Zachary_Taylor_State_Park.jpg/1280px-Aerial_view_of_Fort_Zachary_Taylor_State_Park.jpg",
+            "description": "The Fort Zachary Taylor Historic State Park, also known simply as Fort Taylor, is a Florida State Park and National Historic Landmark centered on a Civil War-era fort located near the southern tip of Key West, Florida.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Fort Zachary Taylor",
+                "wikipedia": "en:Fort Zachary Taylor",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 108976,
+            "lat": 30.23666667,
+            "lon": -85.87777778,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Panama_City_Beach%2C_Florida_%28J.S._Clark%29.jpg/1280px-Panama_City_Beach%2C_Florida_%28J.S._Clark%29.jpg",
+            "description": "Panama City Beach is a resort city in the Florida Panhandle, and principal city of the Panama City Metropolitan Area.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Panama City Beach, Florida",
+                "wikipedia": "en:Panama City Beach, Florida",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 705068,
+            "lat": 30.327,
+            "lon": -87.2907,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Bastion_of_Fort_Pickens.jpg/1280px-Bastion_of_Fort_Pickens.jpg",
+            "description": "Fort Pickens is a historic pentagonal United States military fort on Santa Rosa Island in the Pensacola, Florida, area.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Fort Pickens",
+                "wikipedia": "en:Fort Pickens",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 4133095,
+            "lat": 30.4075,
+            "lon": -87.21388889,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Pensacola_Plaza_Ferdinand01.jpg/1280px-Pensacola_Plaza_Ferdinand01.jpg",
+            "description": "The Plaza Ferdinand VII is an outdoor garden and park in the Historic Pensacola Village area of downtown Pensacola, Florida.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Plaza Ferdinand VII",
+                "wikipedia": "en:Plaza Ferdinand VII",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 4559057,
+            "lat": 30.3551382,
+            "lon": -87.2859486,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Pensacola_FL_Barrancas_Ntl_Cem01.jpg/1280px-Pensacola_FL_Barrancas_Ntl_Cem01.jpg",
+            "description": "Barrancas National Cemetery is a United States National Cemetery located at Naval Air Station Pensacola, in the city of Pensacola, Florida.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Barrancas National Cemetery",
+                "wikipedia": "en:Barrancas National Cemetery",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 6541401,
+            "lat": 30.40443,
+            "lon": -86.60732,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/FortWaltonBeachTempleMound3.jpg/1280px-FortWaltonBeachTempleMound3.jpg",
+            "description": "The Fort Walton Mound (8OK6) is an archaeological site located in present-day Fort Walton Beach, Florida, United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Fort Walton Mound",
+                "wikipedia": "en:Fort Walton Mound",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 1352895,
+            "lat": 28.54,
+            "lon": -81.38055556,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Church_Street_Station_Orlando_-_54118164034.jpg/1280px-Church_Street_Station_Orlando_-_54118164034.jpg",
+            "description": "Church Street Station, also called the Old Orlando Railroad Depot, is a historic train station and commercial development in Orlando, Florida.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Church Street Station",
+                "wikipedia": "en:Church Street Station",
+                "tourism": "attraction"
+            }
+        }
+    ]
+}

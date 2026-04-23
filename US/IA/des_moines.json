@@ -1,0 +1,450 @@
+{
+    "city_metadata": {
+        "city_name": "Des Moines",
+        "state_code": "IA",
+        "state_full": "Iowa",
+        "city_summary": "Des Moines is the capital and most populous city in the U.S. state of Iowa. It is named after the Des Moines River, likely derived from the French Rivière des Moines meaning 'River of the Monks'. The city was incorporated in 1851 as Fort Des Moines and shortened to Des Moines in 1857.",
+        "city_image": "https://upload.wikimedia.org/wikipedia/commons/3/35/State_Fair_Time%21_%2814860351256%29_%28cropped3%29.jpg",
+        "city_lat": null,
+        "city_lon": null,
+        "source": "wikipedia_verified_engine"
+    },
+    "attractions": [
+        {
+            "type": "node",
+            "id": 437557238,
+            "lat": 41.5186984,
+            "lon": -93.6222614,
+            "tags": {
+                "attraction": "animal",
+                "name": "Giraffe Feeding",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 600667768,
+            "lat": 41.583942,
+            "lon": -93.6811866,
+            "tags": {
+                "addr:city": "Des Moines",
+                "addr:country": "US",
+                "addr:housenumber": "4700",
+                "addr:postcode": "50312-2099",
+                "addr:street": "Grand Avenue",
+                "architect": "Eliel Saarinen;I.M. Pei",
+                "building:architecture": "international_style",
+                "check_date": "2023-06-19",
+                "heritage": "2",
+                "heritage:operator": "nrhp",
+                "heritage:website": "https://npgallery.nps.gov/AssetDetail/NRIS/03000063",
+                "historic": "heritage",
+                "name": "Des Moines Art Center",
+                "nrhp:criteria": "(C)",
+                "nrhp:inscription_date": "2004-10-19",
+                "opening_hours": "Mo off; Tu-We 11:00-16:00; Th 11:00-19:00; Fr 10:00-19:00; Sa-Su 10:00-16:00",
+                "payment:mastercard": "yes",
+                "payment:visa": "yes",
+                "phone": "+1-515-277-4405",
+                "ref:nrhp": "03000063",
+                "start_date": "1948",
+                "tourism": "museum",
+                "website": "https://www.desmoinesartcenter.org/",
+                "wheelchair": "yes",
+                "wikidata": "Q5263501",
+                "wikipedia": "en:Des Moines Art Center"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Des_Moines_Art_Center.jpg/1280px-Des_Moines_Art_Center.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 783663668,
+            "lat": 41.5911316,
+            "lon": -93.6224292,
+            "tags": {
+                "addr:city": "Des Moines",
+                "addr:housenumber": "330",
+                "addr:postcode": "50309",
+                "addr:state": "IA",
+                "addr:street": "Park Street",
+                "museum": "person",
+                "name": "Iowa Hall of Pride",
+                "tourism": "museum",
+                "website": "https://www.iahsaa.org/achieve/hall-of-fame/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/10/IECmarquee.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 5834599410,
+            "lat": 41.5934207,
+            "lon": -93.5529184,
+            "tags": {
+                "name": "Model Railroad",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Iowa_State_Fair_%26_Exhibition_Grounds_Des_Moines_IA.jpg/1280px-Iowa_State_Fair_%26_Exhibition_Grounds_Des_Moines_IA.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 5834599411,
+            "lat": 41.5919262,
+            "lon": -93.5473233,
+            "tags": {
+                "name": "Cattle Tie-Outs",
+                "tourism": "zoo",
+                "zoo": "petting_zoo"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Iowa_State_Fair_%26_Exhibition_Grounds_Des_Moines_IA.jpg/1280px-Iowa_State_Fair_%26_Exhibition_Grounds_Des_Moines_IA.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 5834599412,
+            "lat": 41.5960585,
+            "lon": -93.5472912,
+            "tags": {
+                "name": "Richard L. Easter Museum Complex",
+                "tourism": "museum",
+                "website": "https://www.iowastatefair.org/",
+                "wikidata": "Q14689083"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Iowa_State_Fair_attendees_%2853133649099%29.jpg/1280px-Iowa_State_Fair_attendees_%2853133649099%29.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 5834599413,
+            "lat": 41.5962049,
+            "lon": -93.5484405,
+            "tags": {
+                "museum": "history",
+                "name": "County School",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Iowa_State_Fair_attendees_%2853133649099%29.jpg/1280px-Iowa_State_Fair_attendees_%2853133649099%29.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 5834599475,
+            "lat": 41.5938299,
+            "lon": -93.5529225,
+            "tags": {
+                "name": "Snakes Alive",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Iowa_State_Fair_%26_Exhibition_Grounds_Des_Moines_IA.jpg/1280px-Iowa_State_Fair_%26_Exhibition_Grounds_Des_Moines_IA.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 5844075079,
+            "lat": 41.5962296,
+            "lon": -93.5537296,
+            "tags": {
+                "name": "Halls of Law and Flame",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Fish_%26_Game_Pavilion_Des_Moines_IA.jpg/1280px-Fish_%26_Game_Pavilion_Des_Moines_IA.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 9917357781,
+            "lat": 41.5954266,
+            "lon": -93.5506868,
+            "tags": {
+                "name": "Butter Cow",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Iowa_State_Fair_%26_Exhibition_Grounds_Des_Moines_IA.jpg/1280px-Iowa_State_Fair_%26_Exhibition_Grounds_Des_Moines_IA.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 10035064917,
+            "lat": 47.3722692,
+            "lon": -122.3238883,
+            "tags": {
+                "name": "Kayak Rentals",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Saltwater_State_Park_01.jpg/1280px-Saltwater_State_Park_01.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 10125200747,
+            "lat": 47.344681,
+            "lon": -122.328601,
+            "tags": {
+                "name": "Bubbleator",
+                "tourism": "attraction",
+                "wikidata": "Q4982234",
+                "wikipedia": "en:Bubbleator"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/88/Bubbleator%2C_Seattle_World%27s_Fair%2C_1962_%284733385810%29.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 13064783341,
+            "lat": 41.5961942,
+            "lon": -93.5514727,
+            "tags": {
+                "attraction": "dark_ride",
+                "name": "Ye Old Mill",
+                "start_date": "1921",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Iowa_State_Fair_%26_Exhibition_Grounds_Des_Moines_IA.jpg/1280px-Iowa_State_Fair_%26_Exhibition_Grounds_Des_Moines_IA.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 34105134,
+            "lat": 41.5906432,
+            "lon": -93.6091515,
+            "tags": {
+                "addr:city": "Des Moines",
+                "addr:housenumber": "600",
+                "addr:postcode": "50319",
+                "addr:state": "IA",
+                "addr:street": "East Locust Street",
+                "building": "yes",
+                "building:levels": "3",
+                "museum": "history",
+                "name": "State of Iowa Historical Building",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/The_Baker-Devotie-Hollingsworth_Block.jpeg/1280px-The_Baker-Devotie-Hollingsworth_Block.jpeg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 46108595,
+            "lat": 41.582735,
+            "lon": -93.6208108,
+            "tags": {
+                "addr:city": "Des Moines",
+                "addr:country": "US",
+                "addr:housenumber": "401",
+                "addr:postcode": "50309",
+                "addr:state": "IA",
+                "addr:street": "West Martin Luther King Junior Parkway",
+                "air_conditioning": "yes",
+                "building": "yes",
+                "ele": "273",
+                "fee": "yes",
+                "gnis:feature_id": "2048552",
+                "height": "15",
+                "museum": "science",
+                "name": "Science Center of Iowa",
+                "opening_hours": "We-Su 09:00-16:00",
+                "phone": "+15152746868",
+                "tourism": "museum",
+                "website": "https://www.sciowa.org/",
+                "wheelchair": "yes",
+                "wikidata": "Q30286230",
+                "wikipedia": "en:Science Center of Iowa"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/The_Rumely-Des_Moines_Drug_Company_Building.jpg/1280px-The_Rumely-Des_Moines_Drug_Company_Building.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 46980593,
+            "lat": 41.5960985,
+            "lon": -93.5473823,
+            "tags": {
+                "building": "yes",
+                "name": "Ralph H. Deets Historical Museum",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Iowa_State_Fair_attendees_%2853133649099%29.jpg/1280px-Iowa_State_Fair_attendees_%2853133649099%29.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 46980594,
+            "lat": 41.5959041,
+            "lon": -93.5471322,
+            "tags": {
+                "building": "yes",
+                "name": "Richard O. Jacobson Hall & Kenyon Gallery",
+                "short_name": "Gallery",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Iowa_State_Fair_attendees_%2853133649099%29.jpg/1280px-Iowa_State_Fair_attendees_%2853133649099%29.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 65067356,
+            "lat": 41.5876356,
+            "lon": -93.6189338,
+            "tags": {
+                "addr:city": "Des Moines",
+                "addr:housenumber": "100",
+                "addr:postcode": "50309",
+                "addr:street": "Locust Street",
+                "architect": "Gutterson & Smith",
+                "building": "civic",
+                "building:architecture": "beaux_arts",
+                "building:levels": "3",
+                "building:use": "office",
+                "email": "wfpf@worldfoodprize.org",
+                "heritage": "2",
+                "heritage:operator": "nrhp",
+                "heritage:website": "https://npgallery.nps.gov/AssetDetail/NRIS/77000550",
+                "historic": "heritage",
+                "name": "World Food Prize Hall of Laureates",
+                "name:etymology": "Norman Borlaug",
+                "name:etymology:wikidata": "Q154824",
+                "name:etymology:wikipedia": "en:Norman Borlaug",
+                "nrhp:inscription_date": "1977-07-25",
+                "official_name": "Dr. Norman E. Borlaug World Food Prize Hall of Laureates",
+                "old_name": "Downtown Des Moines Library",
+                "phone": "+1 515 245 3783",
+                "ref:nrhp": "77000550",
+                "short_name": "World Food Prize Building",
+                "start_date": "1903",
+                "tourism": "museum",
+                "website": "https://www.halloflaureates.org/",
+                "wikidata": "Q7257454",
+                "wikipedia": "en:Old Downtown Des Moines Library"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Public_Library_of_Des_Moines.jpg/1280px-Public_Library_of_Des_Moines.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 79879512,
+            "lat": 41.5180801,
+            "lon": -93.6249761,
+            "tags": {
+                "attraction": "animal",
+                "name": "Trumpeter Swans",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "way",
+            "id": 233053415,
+            "lat": 41.5939187,
+            "lon": -93.5535815,
+            "tags": {
+                "attraction": "slide",
+                "fee": "yes",
+                "name": "Giant Slide",
+                "start_date": "2020",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Fish_%26_Game_Pavilion_Des_Moines_IA.jpg/1280px-Fish_%26_Game_Pavilion_Des_Moines_IA.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 297476259,
+            "lat": 41.5973153,
+            "lon": -93.5508493,
+            "tags": {
+                "area": "yes",
+                "name": "Andringa Family Foundation Little Hands on the Farm",
+                "short_name": "Little Hands on the Farm",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Iowa_State_Fair_%26_Exhibition_Grounds_Des_Moines_IA.jpg/1280px-Iowa_State_Fair_%26_Exhibition_Grounds_Des_Moines_IA.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 298681369,
+            "lat": 41.5191149,
+            "lon": -93.6230693,
+            "tags": {
+                "attraction": "carousel",
+                "name": "Carousel",
+                "operator": "Blank Park Zoo",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "way",
+            "id": 301188980,
+            "lat": 41.579409,
+            "lon": -93.6714786,
+            "tags": {
+                "addr:city": "Des Moines",
+                "addr:housenumber": "4025",
+                "addr:postcode": "50312",
+                "addr:street": "Tonawanda Drive",
+                "architect": "Byron Bennett Boyd;William Whitney Rasmussen",
+                "building": "house",
+                "building:architecture": "tudor_revival",
+                "ele": "282",
+                "heritage": "2",
+                "heritage:operator": "nrhp",
+                "heritage:website": "https://npgallery.nps.gov/AssetDetail/NRIS/77000551",
+                "historic": "heritage",
+                "name": "Salisbury House",
+                "name:etymology": "Salisbury, England",
+                "name:etymology:wikidata": "Q160642",
+                "name:etymology:wikipedia": "en:Salisbury",
+                "nrhp:criteria": "(A),(B),(C)",
+                "nrhp:inscription_date": "1977-07-20",
+                "ref:nrhp": "77000551",
+                "start_date": "1923",
+                "tourism": "museum",
+                "website": "https://salisburyhouse.org/",
+                "wikidata": "Q7404776",
+                "wikipedia": "en:Salisbury House (Des Moines, Iowa)"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Salisbury_House%2C_back_view_from_gardens.JPG/1280px-Salisbury_House%2C_back_view_from_gardens.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 415682803,
+            "lat": 41.6134836,
+            "lon": -93.6107919,
+            "tags": {
+                "attraction": "carousel",
+                "building": "roof",
+                "ele": "248",
+                "gnis:feature_id": "2048465",
+                "name": "Heritage Carousel of Des Moines",
+                "tourism": "attraction",
+                "website": "https://www.heritagecarousel.org/",
+                "wikidata": "Q31816615"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Rees_Gabriel_House.JPG/1280px-Rees_Gabriel_House.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 653706016,
+            "lat": 47.4006174,
+            "lon": -122.3253389,
+            "tags": {
+                "addr:city": "Des Moines",
+                "addr:housenumber": "730",
+                "addr:postcode": "98198",
+                "addr:state": "WA",
+                "addr:street": "South 225th Street",
+                "alt_name": "Des Moines Historical Society Museum;Des Moines Historical Society;Odd Fellows Hall",
+                "building": "yes",
+                "building:levels": "2",
+                "fee": "no",
+                "name": "Des Moines Historical Society",
+                "opening_hours": "Sa 13:00-16:00",
+                "tourism": "museum",
+                "website": "https://www.dmhs.org/"
+            }
+        }
+    ]
+}

@@ -1,0 +1,1677 @@
+{
+    "city_metadata": {
+        "city_name": "Dover",
+        "state_code": "DE",
+        "state_full": "Delaware",
+        "city_summary": "Dover ( DOH-vər) is the capital and the second-most populous city of the U.S. state of Delaware, after Wilmington. It is also the county seat of Kent County and the principal city of the Dover metropolitan statistical area, which encompasses all of Kent County and is part of the Philadelphia–Wilmington–Camden, PA–NJ–DE–MD, combined statistical area. It is located on the St.",
+        "city_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Dover_Delaware.jpg/1280px-Dover_Delaware.jpg",
+        "city_lat": 39.15805556,
+        "city_lon": -75.52444444,
+        "source": "wikipedia_verified_engine"
+    },
+    "attractions": [
+        {
+            "type": "node",
+            "id": 298725312,
+            "lat": 51.2748024,
+            "lon": 1.3386348,
+            "tags": {
+                "addr:city": "Sandwich",
+                "addr:postcode": "CT13 9AH",
+                "addr:street": "Cattle Market",
+                "fee": "no",
+                "museum": "local_history",
+                "name": "Sandwich Guildhall Museum",
+                "opening_hours": "Mo-Su 10:00-16:00",
+                "phone": "+44 130 461 7197",
+                "tourism": "museum",
+                "website": "https://www.sandwichguildhallmuseum.co.uk/",
+                "wikidata": "Q42852791"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Sandwich_Kent_Rathaus.jpg/1280px-Sandwich_Kent_Rathaus.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 318447230,
+            "lat": 51.1896342,
+            "lon": 1.2306291,
+            "tags": {
+                "addr:city": "Shepherdswell",
+                "addr:street": "Station Road",
+                "name": "Shepherdswell (EKR)",
+                "naptan:AtcoCode": "940GZZEKSPW",
+                "network": "East Kent Railway",
+                "operator": "East Kent Railway",
+                "public_transport": "station",
+                "railway": "station",
+                "source": "npe",
+                "tourism": "attraction",
+                "usage": "tourism",
+                "wikidata": "Q7494517",
+                "wikipedia": "en:Shepherdswell railway station (EKLR)"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/8a/St_Andrew%27s_Church%2C_Shepherdswell.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 368155526,
+            "lat": 40.5256578,
+            "lon": -81.4880407,
+            "tags": {
+                "addr:city": "Dover",
+                "addr:housenumber": "331",
+                "addr:postcode": "44622",
+                "addr:state": "OH",
+                "addr:street": "Karl Avenue",
+                "ele": "269",
+                "gnis:feature_id": "1065508",
+                "name": "Warther Museum",
+                "source": "USGS Geonames",
+                "tourism": "museum",
+                "website": "https://thewarthermuseum.com/"
+            }
+        },
+        {
+            "type": "node",
+            "id": 769219208,
+            "lat": 51.1489126,
+            "lon": 1.3830127,
+            "tags": {
+                "addr:city": "St Margaret's Bay",
+                "addr:postcode": "CT15 6DZ",
+                "addr:street": "Beach Road",
+                "fee": "yes",
+                "museum": "history",
+                "name": "St Margaret's Museum",
+                "source": "OS_OpenData_StreetView",
+                "tourism": "museum",
+                "website": "https://baytrust.org.uk/st-margarets-museum/"
+            }
+        },
+        {
+            "type": "node",
+            "id": 810434322,
+            "lat": 51.2219654,
+            "lon": 1.4041685,
+            "tags": {
+                "name": "Time Ball Tower",
+                "tourism": "museum",
+                "wikidata": "Q5245849",
+                "wikipedia": "en:Deal Timeball"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/61/Deal_Timeball_Tower.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 1185642722,
+            "lat": 51.1991459,
+            "lon": 1.2638353,
+            "tags": {
+                "addr:city": "Eythorne",
+                "addr:street": "Shooters Hill",
+                "name": "Eythorne",
+                "naptan:AtcoCode": "940GZZEKEYT",
+                "network": "East Kent Railway",
+                "operator": "East Kent Railway",
+                "public_transport": "station",
+                "railway": "station",
+                "tourism": "attraction",
+                "usage": "tourism",
+                "wikidata": "Q5423046"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Eythorne_railway_station_-_geograph.org.uk_-_1532456.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 3564392955,
+            "lat": 39.1883883,
+            "lon": -75.5269227,
+            "tags": {
+                "name": "Monster Monument",
+                "operator": "Dover Motor Speedway",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Dover_Motor_Speedway_2024.svg/1280px-Dover_Motor_Speedway_2024.svg.png",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 4215177435,
+            "lat": 39.1555968,
+            "lon": -75.5272186,
+            "tags": {
+                "addr:city": "Dover",
+                "addr:housenumber": "375",
+                "addr:postcode": "19901",
+                "addr:state": "DE",
+                "addr:street": "South New Street",
+                "name": "Johnson Victrola Museum",
+                "opening_hours": "We-Sa 09:30-16:00",
+                "operator": "State of Delaware",
+                "tourism": "museum",
+                "website": "https://history.delaware.gov/johnson-victrola-museum/",
+                "wikidata": "Q5253362"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Johnson_Victrola_Museum.JPG/1280px-Johnson_Victrola_Museum.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 4215177437,
+            "lat": 39.1571109,
+            "lon": -75.5229915,
+            "tags": {
+                "addr:city": "Dover",
+                "addr:housenumber": "406",
+                "addr:state": "DE",
+                "addr:street": "Federal Street",
+                "name": "Biggs Museum of American Art",
+                "tourism": "museum",
+                "website": "https://www.biggsmuseum.org/",
+                "wikidata": "Q18325919"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Old_State_House%2C_Dover%2C_March_2013.jpg/1280px-Old_State_House%2C_Dover%2C_March_2013.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 5344389722,
+            "lat": 51.2216567,
+            "lon": 1.2001048,
+            "tags": {
+                "name": "North Downs Way inlet",
+                "name:en": "North Downs Way inlet",
+                "tourism": "attraction",
+                "wikidata": "Q2000593",
+                "wikipedia": "en:North Downs Way"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/62/Commemorative_statue_showing_Aylesham%27s_history_of_mining..jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 5766550116,
+            "lat": 51.136367,
+            "lon": 1.3604839,
+            "tags": {
+                "name": "Fan Bay Deep Shelter",
+                "opening_hours": "Please visit the National Trust website for updated opening times",
+                "operator": "National Trust",
+                "toilets": "no",
+                "tourism": "attraction",
+                "website": "https://www.nationaltrust.org.uk/visit/kent/the-white-cliffs-of-dover/the-fan-bay-deep-shelter-project-at-the-white-cliffs-of-dover",
+                "wheelchair": "no",
+                "wikidata": "Q20711474",
+                "wikipedia": "en:Fan Bay Deep Shelter"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Fan_Bay_Deep_Shelter_%28inside%29.jpg/1280px-Fan_Bay_Deep_Shelter_%28inside%29.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 5991077522,
+            "lat": 51.1359741,
+            "lon": 1.3609172,
+            "tags": {
+                "name": "Fan Bay Sound Mirrors",
+                "opening_hours": "Please visit the National Trust website for updated opening times",
+                "operator": "National Trust",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Fan_Bay_Deep_Shelter_%28inside%29.jpg/1280px-Fan_Bay_Deep_Shelter_%28inside%29.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 6600107860,
+            "lat": 51.2243108,
+            "lon": 1.400529,
+            "tags": {
+                "addr:city": "Deal",
+                "addr:housenumber": "41",
+                "addr:postcode": "CT14 6AD",
+                "addr:street": "Stanhope Road",
+                "fhrs:id": "1104203",
+                "name": "Kent MOMI",
+                "opening_hours": "Fr-Su 12:00-17:00",
+                "operator": "Kent MOMI",
+                "operator:type": "private",
+                "tourism": "museum",
+                "website": "https://www.kentmomi.org",
+                "wikidata": "Q105555386",
+                "wikipedia": "en:Kent Museum of the Moving Image"
+            }
+        },
+        {
+            "type": "node",
+            "id": 8179738487,
+            "lat": 51.2254293,
+            "lon": 1.4011879,
+            "tags": {
+                "addr:city": "Deal",
+                "addr:housenumber": "22",
+                "addr:postcode": "CT14 6BA",
+                "addr:street": "St. George's Road",
+                "museum": "history",
+                "name": "Deal Maritime and Local History Museum",
+                "opening_hours": "Fr-Su 13:00-16:00",
+                "phone": "+44 1304 372098",
+                "tourism": "museum",
+                "website": "https://dealmuseum.uk/",
+                "wikidata": "Q113334561"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e7/The_Town_Hall_%28geograph_3856320%29.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 8502222004,
+            "lat": 51.1891733,
+            "lon": 1.2299591,
+            "tags": {
+                "name": "Shepherdswell (EKMR)",
+                "naptan:AtcoCode": "910GSWELL",
+                "network": "East Kent Miniature Railway",
+                "operator": "East Kent Railway",
+                "public_transport": "station",
+                "railway": "station",
+                "tourism": "attraction",
+                "usage": "tourism"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/8a/St_Andrew%27s_Church%2C_Shepherdswell.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 9100405600,
+            "lat": -43.3141339,
+            "lon": 147.0155383,
+            "tags": {
+                "fee": "yes",
+                "name": "Dover Museum and Art Gallery",
+                "tourism": "museum"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9233842519,
+            "lat": 51.1315733,
+            "lon": 1.3374504,
+            "tags": {
+                "name": "National Trust White Cliffs of Dover",
+                "operator": "National Trust",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9991911027,
+            "lat": 39.1172359,
+            "lon": -75.4560798,
+            "tags": {
+                "historic": "aircraft",
+                "name": "KC-10A Extender",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/AMCMuseum_Aerial.JPG/1280px-AMCMuseum_Aerial.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 9991911028,
+            "lat": 39.1170635,
+            "lon": -75.4567943,
+            "tags": {
+                "historic": "aircraft",
+                "name": "KB-50J Superfortress",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/AMCMuseum_Aerial.JPG/1280px-AMCMuseum_Aerial.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 9991911029,
+            "lat": 39.1174046,
+            "lon": -75.4568173,
+            "tags": {
+                "historic": "aircraft",
+                "name": "KC-97L Stratofreighter",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/AMCMuseum_Aerial.JPG/1280px-AMCMuseum_Aerial.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 9991911030,
+            "lat": 39.1175956,
+            "lon": -75.4564363,
+            "tags": {
+                "historic": "aircraft",
+                "name": "KC-135E Stratotanker",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/AMCMuseum_Aerial.JPG/1280px-AMCMuseum_Aerial.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 9991911031,
+            "lat": 39.1176924,
+            "lon": -75.4571511,
+            "tags": {
+                "historic": "aircraft",
+                "model:wikidata": "Q106340228",
+                "name": "C-124A Globemaster II",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/AMCMuseum_Aerial.JPG/1280px-AMCMuseum_Aerial.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 9991911032,
+            "lat": 39.1173445,
+            "lon": -75.457404,
+            "tags": {
+                "historic": "aircraft",
+                "name": "C-121C Super Constellation",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/AMCMuseum_Aerial.JPG/1280px-AMCMuseum_Aerial.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 9991911033,
+            "lat": 39.1176505,
+            "lon": -75.4576097,
+            "tags": {
+                "historic": "aircraft",
+                "model:wikidata": "Q75265002",
+                "name": "C-119G Flying Boxcar",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/AMCMuseum_Aerial.JPG/1280px-AMCMuseum_Aerial.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 9991911034,
+            "lat": 39.1179801,
+            "lon": -75.4574613,
+            "tags": {
+                "historic": "aircraft",
+                "model:wikidata": "Q106340225",
+                "name": "C-123K Provider",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/AMCMuseum_Aerial.JPG/1280px-AMCMuseum_Aerial.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 9991911035,
+            "lat": 39.1180586,
+            "lon": -75.4569455,
+            "tags": {
+                "historic": "aircraft",
+                "model:wikidata": "Q106340237",
+                "name": "C-133B Cargomaster",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/AMCMuseum_Aerial.JPG/1280px-AMCMuseum_Aerial.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 9991911036,
+            "lat": 39.1182633,
+            "lon": -75.4573045,
+            "tags": {
+                "historic": "aircraft",
+                "name": "C-7A Caribou",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/AMCMuseum_Aerial.JPG/1280px-AMCMuseum_Aerial.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 9991911037,
+            "lat": 39.1182524,
+            "lon": -75.4575323,
+            "tags": {
+                "historic": "aircraft",
+                "name": "F-106A Delta Dart",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/AMCMuseum_Aerial.JPG/1280px-AMCMuseum_Aerial.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 9991911038,
+            "lat": 39.1184261,
+            "lon": -75.4577432,
+            "tags": {
+                "historic": "aircraft",
+                "model:wikidata": "Q83403154",
+                "name": "C-9A",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/AMCMuseum_Aerial.JPG/1280px-AMCMuseum_Aerial.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 9991911039,
+            "lat": 39.1181443,
+            "lon": -75.4576665,
+            "tags": {
+                "historic": "aircraft",
+                "model:wikidata": "Q18340965",
+                "name": "F-101B Voodoo",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/AMCMuseum_Aerial.JPG/1280px-AMCMuseum_Aerial.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 9991911040,
+            "lat": 39.1181095,
+            "lon": -75.4578957,
+            "tags": {
+                "historic": "aircraft",
+                "model:wikidata": "Q69618810",
+                "name": "A-26C Invader",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/AMCMuseum_Aerial.JPG/1280px-AMCMuseum_Aerial.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 9991911041,
+            "lat": 39.118358,
+            "lon": -75.4580937,
+            "tags": {
+                "historic": "aircraft",
+                "model:wikidata": "Q15411562",
+                "name": "C-130E Hercules",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/AMCMuseum_Aerial.JPG/1280px-AMCMuseum_Aerial.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 9991911042,
+            "lat": 39.1187905,
+            "lon": -75.4581962,
+            "tags": {
+                "historic": "aircraft",
+                "name": "C-141B Starlifter",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/AMCMuseum_Aerial.JPG/1280px-AMCMuseum_Aerial.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 9991911043,
+            "lat": 39.1189496,
+            "lon": -75.4578577,
+            "tags": {
+                "historic": "aircraft",
+                "model:wikidata": "Q75266105",
+                "name": "C-141A Starlifter",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/AMCMuseum_Aerial.JPG/1280px-AMCMuseum_Aerial.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 9991911044,
+            "lat": 39.1190162,
+            "lon": -75.457388,
+            "tags": {
+                "historic": "aircraft",
+                "model:wikidata": "Q83403154",
+                "name": "C-9A Nightingale",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/AMCMuseum_Aerial.JPG/1280px-AMCMuseum_Aerial.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 9991911045,
+            "lat": 39.1187176,
+            "lon": -75.4576704,
+            "tags": {
+                "historic": "aircraft",
+                "model:wikidata": "Q75135819",
+                "name": "C-46A",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/AMCMuseum_Aerial.JPG/1280px-AMCMuseum_Aerial.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 9991911046,
+            "lat": 39.1186499,
+            "lon": -75.457121,
+            "tags": {
+                "historic": "aircraft",
+                "name": "C-131D Samaritan",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/AMCMuseum_Aerial.JPG/1280px-AMCMuseum_Aerial.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 9991911047,
+            "lat": 39.1184335,
+            "lon": -75.457016,
+            "tags": {
+                "historic": "aircraft",
+                "model:wikidata": "Q106340320",
+                "name": "C-54M Skymaster",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/AMCMuseum_Aerial.JPG/1280px-AMCMuseum_Aerial.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 9991911048,
+            "lat": 39.1185907,
+            "lon": -75.45575,
+            "tags": {
+                "historic": "aircraft",
+                "name": "T-33A Shooting Star",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/AMCMuseum_Aerial.JPG/1280px-AMCMuseum_Aerial.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 11002972573,
+            "lat": 51.275722,
+            "lon": 1.342567,
+            "tags": {
+                "name": "USN P-22 Gunboat",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Sandwich_swing_bridge_%28geograph_6028793%29.jpg/1280px-Sandwich_swing_bridge_%28geograph_6028793%29.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 11002972574,
+            "lat": 51.275323,
+            "lon": 1.3442048,
+            "tags": {
+                "addr:city": "Sandwich",
+                "addr:postcode": "CT13 9EN",
+                "addr:street": "The Quay",
+                "fee": "no",
+                "name": "Sandwich Medieval Centre",
+                "opening_hours": "Tu-Su 10:00-16:00",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/The_Salutation%2C_Sandwich._Dover.jpg/1280px-The_Salutation%2C_Sandwich._Dover.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 11364065500,
+            "lat": 51.1299075,
+            "lon": 1.3215543,
+            "tags": {
+                "museum": "history",
+                "name": "PWRR & Queens Regiment Museum",
+                "operator": "English Heritage",
+                "tourism": "museum",
+                "website": "https://pwrrqueensmuseum.co.uk",
+                "wikidata": "Q116738945"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/1_dover_castle_aerial_panorama_2017.jpg/1280px-1_dover_castle_aerial_panorama_2017.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 11987883924,
+            "lat": 51.3113809,
+            "lon": 1.2243903,
+            "tags": {
+                "name": "Marleybrook Wedding Venue",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 12135846383,
+            "lat": 51.2382568,
+            "lon": 1.3341728,
+            "tags": {
+                "name": "Ham Sandwich sign",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 12426267547,
+            "lat": 39.117913,
+            "lon": -75.4577976,
+            "tags": {
+                "historic": "aircraft",
+                "model:wikidata": "Q106340219",
+                "name": "C-119C Flying Boxcar",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/AMCMuseum_Aerial.JPG/1280px-AMCMuseum_Aerial.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 12426267548,
+            "lat": 39.11692,
+            "lon": -75.4555844,
+            "tags": {
+                "historic": "aircraft",
+                "model:wikidata": "Q15618357",
+                "name": "C-5A Galaxy",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/AMCMuseum_Aerial.JPG/1280px-AMCMuseum_Aerial.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 12426267549,
+            "lat": 39.1167466,
+            "lon": -75.4564356,
+            "tags": {
+                "historic": "aircraft",
+                "model:wikidata": "Q17375076",
+                "name": "UH-1H Iroquois",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/AMCMuseum_Aerial.JPG/1280px-AMCMuseum_Aerial.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 12426267550,
+            "lat": 39.1166958,
+            "lon": -75.456337,
+            "tags": {
+                "historic": "aircraft",
+                "model:wikidata": "Q19794157",
+                "name": "U-3A \"Blue Canoe\"",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/AMCMuseum_Aerial.JPG/1280px-AMCMuseum_Aerial.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 12426267551,
+            "lat": 39.1167913,
+            "lon": -75.4562352,
+            "tags": {
+                "historic": "aircraft",
+                "model:wikidata": "Q1633021",
+                "name": "C-60 Lodestar",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/AMCMuseum_Aerial.JPG/1280px-AMCMuseum_Aerial.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 12426267552,
+            "lat": 39.1168488,
+            "lon": -75.456338,
+            "tags": {
+                "historic": "aircraft",
+                "name": "C-45G Expeditor",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/AMCMuseum_Aerial.JPG/1280px-AMCMuseum_Aerial.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 12426267553,
+            "lat": 39.1186814,
+            "lon": -75.456483,
+            "tags": {
+                "historic": "aircraft",
+                "name": "C-47A Skytrain",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/AMCMuseum_Aerial.JPG/1280px-AMCMuseum_Aerial.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 12426267554,
+            "lat": 39.1186342,
+            "lon": -75.4567123,
+            "tags": {
+                "historic": "aircraft",
+                "model:wikidata": "Q18117167",
+                "name": "B-17G Flying Fortress",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/AMCMuseum_Aerial.JPG/1280px-AMCMuseum_Aerial.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 12426267555,
+            "lat": 39.1185894,
+            "lon": -75.456509,
+            "tags": {
+                "historic": "aircraft",
+                "model:wikidata": "Q83401619",
+                "name": "HH-43B Huskie",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/AMCMuseum_Aerial.JPG/1280px-AMCMuseum_Aerial.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 12426267556,
+            "lat": 39.1185271,
+            "lon": -75.4567199,
+            "tags": {
+                "historic": "aircraft",
+                "model:wikidata": "Q125974716",
+                "name": "PT-17 Kaydet",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/AMCMuseum_Aerial.JPG/1280px-AMCMuseum_Aerial.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 12426267557,
+            "lat": 39.1186693,
+            "lon": -75.4568127,
+            "tags": {
+                "historic": "aircraft",
+                "name": "TG-4A",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/AMCMuseum_Aerial.JPG/1280px-AMCMuseum_Aerial.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 12426267558,
+            "lat": 39.1186459,
+            "lon": -75.4564061,
+            "tags": {
+                "historic": "aircraft",
+                "model:wikidata": "Q18060247",
+                "name": "BT-13 Valiant",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/AMCMuseum_Aerial.JPG/1280px-AMCMuseum_Aerial.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 12426267562,
+            "lat": 39.1189018,
+            "lon": -75.456737,
+            "tags": {
+                "name": "Air Mobility Command Museum",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/AMCMuseum_Aerial.JPG/1280px-AMCMuseum_Aerial.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 12707314942,
+            "lat": 51.1297663,
+            "lon": 1.3218888,
+            "tags": {
+                "description": "Introductory exhibition about The Great Tower. I wasn't sure how else to tag this.",
+                "museum": "history",
+                "name": "Arthur's Hall",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/1_dover_castle_aerial_panorama_2017.jpg/1280px-1_dover_castle_aerial_panorama_2017.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 12708396275,
+            "lat": 51.1264771,
+            "lon": 1.3232797,
+            "tags": {
+                "layer": "-1",
+                "museum": "history",
+                "name": "Secret Wartime Tunnels",
+                "operator": "English Heritage",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/St_Mary_in_Castro%2C_Dover.jpg/1280px-St_Mary_in_Castro%2C_Dover.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 12997125173,
+            "lat": 51.1303382,
+            "lon": 1.3205538,
+            "tags": {
+                "name": "Dover Castle Spur Tunnels",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/1_dover_castle_aerial_panorama_2017.jpg/1280px-1_dover_castle_aerial_panorama_2017.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 12997752987,
+            "lat": 51.1304377,
+            "lon": 1.3203966,
+            "tags": {
+                "museum": "history",
+                "name": "Spur Casemates Exhibition",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/1_dover_castle_aerial_panorama_2017.jpg/1280px-1_dover_castle_aerial_panorama_2017.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 4020525,
+            "lat": 51.2237659,
+            "lon": 1.4069864,
+            "tags": {
+                "access": "no",
+                "area": "yes",
+                "bicycle": "no",
+                "dog": "leashed",
+                "floating": "no",
+                "foot": "yes",
+                "horse": "no",
+                "lit": "yes",
+                "man_made": "pier",
+                "motor_vehicle": "no",
+                "name": "Deal Pier",
+                "surface": "asphalt",
+                "tourism": "attraction",
+                "website": "https://www.dover.gov.uk/Leisure-Culture-Tourism/Leisure-Facilities/Deal-Pier/Deal-Pier.aspx",
+                "wheelchair": "yes",
+                "wikidata": "Q104841554",
+                "wikipedia": "en:Deal Pier"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Deal_Pier_from_the_south.jpg/1280px-Deal_Pier_from_the_south.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 26658038,
+            "lat": 51.1288768,
+            "lon": 1.3227341,
+            "tags": {
+                "castle_type": "defensive",
+                "historic": "castle",
+                "name": "Dover Castle",
+                "name:fr": "Château de Douvres",
+                "name:nl": "Kasteel van Dover",
+                "operator": "English Heritage",
+                "tourism": "attraction",
+                "website": "https://www.english-heritage.org.uk/visit/places/dover-castle/",
+                "wikidata": "Q950970",
+                "wikipedia": "en:Dover Castle"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/1_dover_castle_aerial_panorama_2017.jpg/1280px-1_dover_castle_aerial_panorama_2017.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 39218139,
+            "lat": 51.200085,
+            "lon": 1.3994289,
+            "tags": {
+                "castle_type": "defensive",
+                "heritage": "2",
+                "heritage:operator": "Historic England",
+                "historic": "castle",
+                "listed_status": "Grade II",
+                "name": "Walmer Castle",
+                "note": "Some tags transferred from other object (retaining wall)",
+                "operator": "English Heritage",
+                "ref:GB:nhle": "1000291",
+                "source": "https://commons.wikimedia.org/wiki/File:1725_Walmer_castle_plan.jpg",
+                "start_date": "1540",
+                "tourism": "attraction",
+                "website": "https://www.english-heritage.org.uk/visit/places/walmer-castle-and-gardens/",
+                "wikidata": "Q2543161",
+                "wikimedia_commons": "Category:Walmer Castle",
+                "wikipedia": "en:Walmer Castle"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Walmer_Castle_from_the_west.jpg/1280px-Walmer_Castle_from_the_west.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 53913389,
+            "lat": 51.1273185,
+            "lon": 1.3269573,
+            "tags": {
+                "name": "White Cliffs of Dover",
+                "natural": "cliff",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/St_Mary_in_Castro%2C_Dover.jpg/1280px-St_Mary_in_Castro%2C_Dover.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 55291967,
+            "lat": 51.12473,
+            "lon": 1.3132157,
+            "tags": {
+                "building": "yes",
+                "museum": "local,history",
+                "name": "Dover Museum",
+                "name:zh": "多佛尔博物馆",
+                "tourism": "museum",
+                "website": "https://www.dovermuseum.co.uk/Home.aspx",
+                "wikidata": "Q5302509",
+                "wikipedia": "en:Dover Museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/DoverMuseum.JPG/1280px-DoverMuseum.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 55367333,
+            "lat": 51.1505417,
+            "lon": 1.2909053,
+            "tags": {
+                "addr:city": "Dover",
+                "addr:country": "GB",
+                "addr:county": "Kent",
+                "addr:postcode": "CT16 2JX",
+                "addr:street": "Willingdon Road",
+                "building": "yes",
+                "check_date:opening_hours": "2024-07-12",
+                "fee": "yes",
+                "name": "Dover Transport Museum",
+                "opening_hours": "We,Su 10:30-16:30; PH 10:30-16:30; Dec 24-25 off",
+                "phone": "+44 1304 822409",
+                "tourism": "museum",
+                "website": "https://www.dovertransportmuseum.org.uk/",
+                "wikidata": "Q113369939"
+            }
+        },
+        {
+            "type": "way",
+            "id": 84086907,
+            "lat": 51.2144109,
+            "lon": 1.4032549,
+            "tags": {
+                "building": "bandstand",
+                "description": "Built to commemorate the Royal Marine's killed by an IRA Bomb in Deal",
+                "leisure": "bandstand",
+                "name": "Walmer Memorial Bandstand",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Walmerlifeboatstation.saa.jpeg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 112914915,
+            "lat": 39.1569245,
+            "lon": -75.5212236,
+            "tags": {
+                "description": "Leafy expanse by the state capitol building featuring landscaped gardens & a monument.",
+                "leisure": "park",
+                "name": "First State Heritage Park: Legislative Mall",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Old_State_House%2C_Dover%2C_March_2013.jpg/1280px-Old_State_House%2C_Dover%2C_March_2013.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 114618483,
+            "lat": 51.1373278,
+            "lon": 1.36143,
+            "tags": {
+                "alt_name": "Langdon Cliffs",
+                "name": "White Cliffs of Dover",
+                "name:fr": "Falaises de Douvres",
+                "name:is": "Hvítuklettar",
+                "natural": "cliff",
+                "operator": "National Trust",
+                "tourism": "attraction",
+                "wikidata": "Q754785",
+                "wikipedia": "en:White Cliffs of Dover"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Fan_Bay_Deep_Shelter_%28inside%29.jpg/1280px-Fan_Bay_Deep_Shelter_%28inside%29.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 127108128,
+            "lat": 51.2194375,
+            "lon": 1.4036167,
+            "tags": {
+                "access": "permissive",
+                "castle_type": "fortress",
+                "defensive_works": "moat",
+                "heritage": "2",
+                "heritage:operator": "Historic England",
+                "historic": "castle",
+                "landuse": "grass",
+                "listed_status": "Scheduled Monument",
+                "name": "Deal Castle",
+                "operator": "English Heritage",
+                "ref:GB:nhle": "1013380",
+                "start_date": "1540",
+                "tourism": "attraction",
+                "website": "https://www.english-heritage.org.uk/visit/places/deal-castle/",
+                "wikidata": "Q1180981",
+                "wikimedia_commons": "Category:Deal_Castle",
+                "wikipedia": "en:Deal Castle"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Deal_Castle_Aerial_View.jpg/1280px-Deal_Castle_Aerial_View.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 195240362,
+            "lat": 43.1948394,
+            "lon": -70.8730032,
+            "tags": {
+                "addr:city": "Dover",
+                "addr:housenumber": "6",
+                "addr:postcode": "03820",
+                "addr:state": "NH",
+                "addr:street": "Washington Street",
+                "building": "yes",
+                "name": "Children's Museum of New Hampshire",
+                "tourism": "museum",
+                "website": "https://www.childrens-museum.org/",
+                "wheelchair": "yes"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/9f/DoverNH_CochecoMills_MillNumber1.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 199535423,
+            "lat": 51.2924149,
+            "lon": 1.332031,
+            "tags": {
+                "fee": "yes",
+                "name": "Richborough Castle Museum",
+                "tourism": "museum",
+                "wheelchair": "yes",
+                "wikipedia": "en:Richborough Castle"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Richborough_Castle_02.jpg/1280px-Richborough_Castle_02.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 257156063,
+            "lat": 51.292968,
+            "lon": 1.3320315,
+            "tags": {
+                "access": "customers",
+                "alt_name": "Richborough Castle",
+                "archaeological_site": "fortification",
+                "historic": "archaeological_site",
+                "historic:civilization": "ancient_roman",
+                "name": "Richborough Fort",
+                "old_name:la": "Rutupiae;Portus Ritupis",
+                "ruins": "yes",
+                "source": "Bing",
+                "start_date": "43",
+                "tourism": "attraction",
+                "website": "https://www.english-heritage.org.uk/visit/places/richborough-roman-fort-and-amphitheatre/",
+                "wheelchair": "yes",
+                "wikidata": "Q1309736",
+                "wikipedia": "en:Richborough Castle"
+            }
+        },
+        {
+            "type": "way",
+            "id": 306417046,
+            "lat": 51.1017147,
+            "lon": 1.2436303,
+            "tags": {
+                "building": "yes",
+                "historic": "sound_mirror",
+                "name": "WWII Sound Mirror",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "way",
+            "id": 313920643,
+            "lat": 51.2807386,
+            "lon": 1.228615,
+            "tags": {
+                "addr:hamlet": "Shatterling",
+                "addr:postcode": "CT3 1JL",
+                "addr:street": "Rusham Road",
+                "fhrs:id": "254664",
+                "name": "Wingham Wildlife Park",
+                "phone": "+44 1227 720836",
+                "tourism": "zoo",
+                "website": "https://winghamwildlifepark.co.uk/",
+                "wikidata": "Q8025221"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/View_across_field_to_Wingham_Wildlife_Park_-_geograph.org.uk_-_847655.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 339601012,
+            "lat": 40.5147503,
+            "lon": -81.4698882,
+            "tags": {
+                "landuse": "fairground",
+                "name": "Tuscarawas County Fairgrounds",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "way",
+            "id": 350690101,
+            "lat": 39.1932396,
+            "lon": -75.5448497,
+            "tags": {
+                "building": "yes",
+                "name": "Delaware State Police Museum",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Dover_Mall_entrance_near_Boscov%27s.jpg/1280px-Dover_Mall_entrance_near_Boscov%27s.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 350696084,
+            "lat": 39.1817242,
+            "lon": -75.531884,
+            "tags": {
+                "addr:city": "Dover",
+                "addr:housenumber": "866",
+                "addr:postcode": "19904",
+                "addr:state": "DE",
+                "addr:street": "North Dupont Highway",
+                "alt_name": "Delaware Agricultural Museum and Village",
+                "building": "yes",
+                "name": "Delaware Agricultural Museum",
+                "tourism": "museum"
+            }
+        },
+        {
+            "type": "way",
+            "id": 421960578,
+            "lat": 39.1565135,
+            "lon": -75.5228898,
+            "tags": {
+                "addr:city": "Dover",
+                "addr:housenumber": "25",
+                "addr:postcode": "19901",
+                "addr:state": "DE",
+                "addr:street": "The Green",
+                "building": "yes",
+                "name": "The Old State House",
+                "phone": "+1 302-744-5054",
+                "tourism": "museum",
+                "website": "https://history.delaware.gov/museums/sh/sh_main.shtml",
+                "wikidata": "Q7085092"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Old_State_House%2C_Dover%2C_March_2013.jpg/1280px-Old_State_House%2C_Dover%2C_March_2013.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 471546015,
+            "lat": 51.1287684,
+            "lon": 1.3306938,
+            "tags": {
+                "name": "White Cliffs of Dover",
+                "natural": "cliff",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/8c/HMS_Codrington.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 489601156,
+            "lat": 39.1186761,
+            "lon": -75.456609,
+            "tags": {
+                "addr:city": "Dover",
+                "addr:housenumber": "1301",
+                "addr:state": "DE",
+                "addr:street": "Heritage Road",
+                "aeroway": "hangar",
+                "building": "hangar",
+                "building:colour": "lightgray",
+                "building:levels": "3",
+                "name": "Hangar 1301",
+                "opening_hours": "Tu-Su 09:00-16:00",
+                "roof:colour": "light_gray",
+                "roof:shape": "round",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/AMCMuseum_Aerial.JPG/1280px-AMCMuseum_Aerial.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 574601076,
+            "lat": 39.1572053,
+            "lon": -75.5239002,
+            "tags": {
+                "description": "Small pocket park with a statue shaped like a cube with the constitution written on it.",
+                "leisure": "park",
+                "name": "Constitution Park (First State Heritage Park)",
+                "tourism": "attraction",
+                "wikidata": "Q5453822",
+                "wikipedia": "en:First State Heritage Park"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Old_State_House%2C_Dover%2C_March_2013.jpg/1280px-Old_State_House%2C_Dover%2C_March_2013.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 588532889,
+            "lat": 39.1162924,
+            "lon": -75.453277,
+            "tags": {
+                "addr:city": "Dover",
+                "addr:housenumber": "1301",
+                "addr:state": "DE",
+                "addr:street": "Heritage Road",
+                "description": "The Air Mobility Command Museum is home to a number of significant vintage aircraft from a variety of eras and major commands. Additionally, the AMC Museum houses a complete set of all significant Lockheed air lifters used by the Air Force and Army since",
+                "ele": "8",
+                "email": "amcmuseum@us.af.mil",
+                "fee": "no",
+                "fixme": "merge with other multipolygon",
+                "name": "Air Mobility Command Museum",
+                "opening_hours": "Tu-Su 09:00-16:00",
+                "parking:fee": "no",
+                "phone": "+1 302-677-5938",
+                "tourism": "museum",
+                "website": "https://amcmuseum.org/",
+                "wheelchair": "yes",
+                "wikidata": "Q21028346",
+                "wikipedia": "en:Air Mobility Command Museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/AMCMuseum_Aerial.JPG/1280px-AMCMuseum_Aerial.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 594774579,
+            "lat": 39.1573161,
+            "lon": -75.5195546,
+            "tags": {
+                "leisure": "park",
+                "name": "Legislative Hall (First State Heritage Park)",
+                "tourism": "attraction",
+                "website": "https://legis.delaware.gov/",
+                "wikidata": "Q5453822",
+                "wikipedia": "en:First State Heritage Park"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Old_State_House%2C_Dover%2C_March_2013.jpg/1280px-Old_State_House%2C_Dover%2C_March_2013.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 594774580,
+            "lat": 39.1585242,
+            "lon": -75.51945,
+            "tags": {
+                "leisure": "park",
+                "name": "First State Heritage Park Welcome Center and Galleries",
+                "tourism": "attraction",
+                "website": "https://destateparks.com/heritagepark",
+                "wikidata": "Q5453822",
+                "wikipedia": "en:First State Heritage Park"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Old_State_House%2C_Dover%2C_March_2013.jpg/1280px-Old_State_House%2C_Dover%2C_March_2013.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 594774581,
+            "lat": 39.157176,
+            "lon": -75.5227749,
+            "tags": {
+                "leisure": "park",
+                "name": "Biggs Museum of American Art (First State Heritage Park)",
+                "tourism": "attraction",
+                "website": "https://www.biggsmuseum.org/",
+                "wikidata": "Q5453822",
+                "wikipedia": "en:First State Heritage Park"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Old_State_House%2C_Dover%2C_March_2013.jpg/1280px-Old_State_House%2C_Dover%2C_March_2013.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 594774582,
+            "lat": 39.1566574,
+            "lon": -75.5226895,
+            "tags": {
+                "description": "The Old State House Division of Historical & Cultural Affairs",
+                "leisure": "park",
+                "name": "The Old State House (First State Heritage Park)",
+                "tourism": "attraction",
+                "website": "https://history.delaware.gov/museums",
+                "wikidata": "Q5453822",
+                "wikipedia": "en:First State Heritage Park"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Old_State_House%2C_Dover%2C_March_2013.jpg/1280px-Old_State_House%2C_Dover%2C_March_2013.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 594774606,
+            "lat": 39.155978,
+            "lon": -75.5228517,
+            "tags": {
+                "addr:city": "Dover",
+                "addr:housenumber": "45",
+                "addr:postcode": "19901",
+                "addr:state": "DE",
+                "addr:street": "The Green",
+                "building": "yes",
+                "name": "John Bell House",
+                "source": "esri/USA_NAD_Addresses",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Old_State_House%2C_Dover%2C_March_2013.jpg/1280px-Old_State_House%2C_Dover%2C_March_2013.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 594774607,
+            "lat": 39.1559537,
+            "lon": -75.5229042,
+            "tags": {
+                "leisure": "park",
+                "name": "John Bell House (First State Heritage Park)",
+                "tourism": "attraction",
+                "website": "https://destateparks.com/heritagepark",
+                "wikidata": "Q5453822",
+                "wikipedia": "en:First State Heritage Park"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Old_State_House%2C_Dover%2C_March_2013.jpg/1280px-Old_State_House%2C_Dover%2C_March_2013.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 594774612,
+            "lat": 39.1559381,
+            "lon": -75.5273064,
+            "tags": {
+                "leisure": "park",
+                "name": "Johnson Victrola Museum (First State Heritage Park)",
+                "tourism": "attraction",
+                "website": "https://history.delaware.gov/museums",
+                "wikidata": "Q5453822",
+                "wikipedia": "en:First State Heritage Park"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Old_State_House%2C_Dover%2C_March_2013.jpg/1280px-Old_State_House%2C_Dover%2C_March_2013.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 594774613,
+            "lat": 39.1613635,
+            "lon": -75.5230667,
+            "tags": {
+                "addr:city": "Dover",
+                "addr:housenumber": "151",
+                "addr:postcode": "19901",
+                "addr:state": "DE",
+                "addr:street": "Kings Highway Southwest",
+                "building": "yes",
+                "contact:email": "kristy.huxhold@delaware.gov",
+                "description": "\"Tours of Woodburn are available by appointment Monday through Friday, as the schedule allows. On the First Saturday of each month, Delaware’s First State Heritage Park hosts public tours of Woodburn from 10 a.m. until 1 p.m. No reservations are necessar",
+                "fee": "no",
+                "name": "Woodburn: Governor's House",
+                "opening_hours": "Mo-Fr 08:30-16:00 \"by appointment\"; Sa[1] 10:00-13:00",
+                "phone": "+1 302-739-5656",
+                "tourism": "museum",
+                "website": "https://woodburn.delaware.gov/",
+                "wikidata": "Q5253302"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/05/Woodburn%2C_Kings_Highway%2C_Dover_%28Kent_County%2C_Delaware%29.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 594774614,
+            "lat": 39.1614646,
+            "lon": -75.5228785,
+            "tags": {
+                "leisure": "park",
+                "name": "Woodburn and Hall House - The Governor's House (First State Heritage Park)",
+                "tourism": "attraction",
+                "wikidata": "Q5453822",
+                "wikipedia": "en:First State Heritage Park"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Old_State_House%2C_Dover%2C_March_2013.jpg/1280px-Old_State_House%2C_Dover%2C_March_2013.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 707899497,
+            "lat": 51.0990077,
+            "lon": 1.205652,
+            "tags": {
+                "addr:city": "Capel-le-Ferne",
+                "addr:housename": "Battle of Britain Memorial",
+                "addr:postcode": "CT18 7JJ",
+                "addr:street": "New Dover Road",
+                "building": "yes",
+                "information": "office",
+                "name": "The Wing",
+                "opening_hours": "10:00-17:00",
+                "operator": "Battle of Britain Memorial Trust",
+                "phone": "+44 1303 249292",
+                "tourism": "museum",
+                "website": "https://www.battleofbritainmemorial.org/",
+                "wikidata": "Q811006",
+                "wikipedia": "en:Battle_of_Britain_Memorial,_Capel-le-Ferne"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Battle_of_Britain_Memorial_Pilot.JPG/1280px-Battle_of_Britain_Memorial_Pilot.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 831776568,
+            "lat": 51.2757315,
+            "lon": 1.3418868,
+            "tags": {
+                "building": "yes",
+                "historic": "city_gate",
+                "historic:civilization": "medieval",
+                "layer": "1",
+                "listed_status": "Grade I",
+                "name": "The Barbican Gate",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Sandwich_swing_bridge_%28geograph_6028793%29.jpg/1280px-Sandwich_swing_bridge_%28geograph_6028793%29.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 855182230,
+            "lat": 51.2372468,
+            "lon": 1.3697921,
+            "tags": {
+                "building": "construction",
+                "name": "Kent Mining Museum",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Fowlmead_Lake_in_Fowlmead_Country_Park_-_geograph.org.uk_-_1251116.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 1172714093,
+            "lat": 51.1264636,
+            "lon": 1.3226312,
+            "tags": {
+                "building": "yes",
+                "fee": "yes",
+                "layer": "-1",
+                "location": "underground",
+                "museum": "history",
+                "name": "Secret Wartime Tunnels",
+                "operator": "English Heritage",
+                "operator:type": "private_non_profit",
+                "tourism": "museum",
+                "website": "https://www.english-heritage.org.uk/visit/places/dover-castle/things-to-do/operation-dynamo-rescue-from-dunkirk/",
+                "wheelchair": "yes"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/St_Mary_in_Castro%2C_Dover.jpg/1280px-St_Mary_in_Castro%2C_Dover.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 1193447406,
+            "lat": 40.5197217,
+            "lon": -81.4785135,
+            "tags": {
+                "building": "yes",
+                "name": "Auman Museum of Radio & TV",
+                "tourism": "museum"
+            }
+        },
+        {
+            "type": "way",
+            "id": 1222038573,
+            "lat": 51.1459406,
+            "lon": 1.3819748,
+            "tags": {
+                "alt_name": "Langdon Cliffs",
+                "name": "White Cliffs of Dover",
+                "name:is": "Hvítuklettar",
+                "natural": "cliff",
+                "operator": "National Trust",
+                "tourism": "attraction",
+                "wikidata": "Q754785",
+                "wikipedia": "en:White Cliffs of Dover"
+            }
+        },
+        {
+            "type": "way",
+            "id": 1285653403,
+            "lat": 51.1267096,
+            "lon": 1.322456,
+            "tags": {
+                "building": "yes",
+                "fee": "yes",
+                "layer": "-1",
+                "location": "underground",
+                "museum": "history",
+                "name": "The Underground Hopital",
+                "operator": "English Heritage",
+                "operator:type": "private_non_profit",
+                "tourism": "museum",
+                "wheelchair": "no"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/St_Mary_in_Castro%2C_Dover.jpg/1280px-St_Mary_in_Castro%2C_Dover.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 1285671112,
+            "lat": 51.1259974,
+            "lon": 1.3213058,
+            "tags": {
+                "name": "White Cliffs of Dover",
+                "natural": "cliff",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/St_Mary_in_Castro%2C_Dover.jpg/1280px-St_Mary_in_Castro%2C_Dover.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 1291722056,
+            "lat": 51.280791,
+            "lon": 1.3242169,
+            "tags": {
+                "area": "yes",
+                "name": "Watermills Wake and Aqua Park",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "way",
+            "id": 1293119346,
+            "lat": 51.3114051,
+            "lon": 1.2251982,
+            "tags": {
+                "area": "yes",
+                "name": "Marleybrook House Wedding Venue",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "way",
+            "id": 1310507096,
+            "lat": 51.2610412,
+            "lon": 1.3266219,
+            "tags": {
+                "name": "Sandwich Wildlife Park",
+                "tourism": "zoo",
+                "zoo": "wildlife_park"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Blackwhitelemur.JPG/1280px-Blackwhitelemur.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 1311776421,
+            "lat": 51.11693,
+            "lon": 1.275869,
+            "tags": {
+                "building": "yes",
+                "museum": "history",
+                "name": "Women's Land Army Museum",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Farthingloe_Cottages_on_Folkestone_Road_-_geograph.org.uk_-_1175059.jpg",
+            "image_source": "wikipedia_verified"
+        }
+    ]
+}

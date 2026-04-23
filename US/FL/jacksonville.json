@@ -1,0 +1,896 @@
+{
+    "city_metadata": {
+        "city_name": "Jacksonville",
+        "state_code": "FL",
+        "state_full": "Florida",
+        "city_summary": "Jacksonville (US:  , JAK-sən-vil; colloquially nicknamed Jax) is the most populous city proper in the U.S. state of Florida, located on the Atlantic coast of northeastern Florida. It is the county seat of Duval County, with which the city consolidated in 1968. It is the tenth-most populous U.S. city and the largest city in the Southeast, with a population of 949,611 at the 2020 U.S. census.",
+        "city_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Jacksonville_skyline.jpg/1280px-Jacksonville_skyline.jpg",
+        "city_lat": 30.27222222,
+        "city_lon": -81.59444444,
+        "source": "wikipedia_verified_engine"
+    },
+    "attractions": [
+        {
+            "type": "node",
+            "id": 358733662,
+            "lat": 30.4392648,
+            "lon": -81.4379496,
+            "tags": {
+                "addr:city": "Jacksonville",
+                "addr:housenumber": "11676",
+                "addr:postcode": "32226",
+                "addr:state": "FL",
+                "addr:street": "Palmetto Avenue",
+                "alt_name": "Kingsley Plantation State Historical Site",
+                "ele": "3",
+                "gnis:feature_id": "307109",
+                "name": "Kingsley Plantation",
+                "operator": "NPS",
+                "tourism": "attraction",
+                "wikidata": "Q6413337",
+                "wikipedia": "en:Kingsley Plantation"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/7b/KingsleyPlantationSunset2.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 367827591,
+            "lat": 30.3464247,
+            "lon": -81.6595276,
+            "tags": {
+                "addr:state": "FL",
+                "ele": "6",
+                "gnis:feature_id": "2449454",
+                "museum": "art",
+                "name": "Brown Museum of Art",
+                "source": "USGS Geonames",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/UF_Health_Jacksonville.jpg/1280px-UF_Health_Jacksonville.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 2300204009,
+            "lat": 30.4319552,
+            "lon": -81.6481156,
+            "tags": {
+                "addr:city": "Jacksonville",
+                "addr:housenumber": "111",
+                "addr:postcode": "32218",
+                "addr:street": "Busch Drive",
+                "fee": "no",
+                "name": "Anheuser-Busch Brewery",
+                "opening_hours": "Mo,Tu,Th-Su 10:00-16:00",
+                "operator": "Budwiser",
+                "tourism": "attraction",
+                "website": "https://www.budweisertours.com/z01/"
+            }
+        },
+        {
+            "type": "node",
+            "id": 2445325140,
+            "lat": 42.319764,
+            "lon": -122.9664946,
+            "tags": {
+                "name": "Historic Nunan House",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 3099855229,
+            "lat": 30.3370464,
+            "lon": -81.6568069,
+            "tags": {
+                "addr:city": "Jacksonville",
+                "addr:full": "101 W. 1st Street Jacksonville, Florida 32206",
+                "addr:housename": "Karpeles Manuscript Library",
+                "addr:postcode": "32206",
+                "addr:state": "FL",
+                "addr:street": "West 1st Street",
+                "name": "Karpeles Manuscript Library",
+                "opening_hours": "Tu-Fr 10:00-15:00; Sa 10:00-16:00",
+                "source": "survey",
+                "tourism": "museum",
+                "website": "https://karpeles.com/museums/jax.php",
+                "wikidata": "Q6373297"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/The_Bethel_Church04.jpg/1280px-The_Bethel_Church04.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 3572314439,
+            "lat": 30.4037923,
+            "lon": -81.6441006,
+            "tags": {
+                "attraction": "animal",
+                "name": "River Valley Aviary",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 3572314611,
+            "lat": 30.4040916,
+            "lon": -81.645513,
+            "tags": {
+                "attraction": "animal",
+                "name": "Reptile of the Seronera",
+                "species:wikidata": "Q56877482",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 3572324056,
+            "lat": 30.4041209,
+            "lon": -81.6447816,
+            "tags": {
+                "attraction": "animal",
+                "name": "Stingray Bay",
+                "species:wikidata": "Q5328202",
+                "species:wikipedia": "en:Stingray",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 3572324057,
+            "lat": 30.4035868,
+            "lon": -81.6449531,
+            "tags": {
+                "attraction": "animal",
+                "name": "African Lion",
+                "species:wikidata": "Q140",
+                "species:wikipedia": "en:Lion",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 3572356558,
+            "lat": 30.4029619,
+            "lon": -81.6440128,
+            "tags": {
+                "name": "Wild Florida",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 3572356585,
+            "lat": 30.4020424,
+            "lon": -81.6440176,
+            "tags": {
+                "attraction": "animal",
+                "name": "Great Apes",
+                "species:wikidata": "Q5598657",
+                "species:wikipedia": "en:Great Apes (novel)",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 3572439638,
+            "lat": 30.4008595,
+            "lon": -81.6445197,
+            "tags": {
+                "attraction": "carousel",
+                "name": "Wildlife Carousel",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 3572439639,
+            "lat": 30.4005199,
+            "lon": -81.6438457,
+            "tags": {
+                "name": "Discovery Building",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 3572440351,
+            "lat": 30.4010226,
+            "lon": -81.6437745,
+            "tags": {
+                "attraction": "animal",
+                "name": "Tuxedo Coast Penguin Exhibit",
+                "species:wikidata": "Q9147",
+                "species:wikipedia": "en:Penguin",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 3572440426,
+            "lat": 30.4010017,
+            "lon": -81.6453031,
+            "tags": {
+                "attraction": "animal",
+                "name": "Emerald Forest Aviary",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 3572440496,
+            "lat": 30.4003411,
+            "lon": -81.6454789,
+            "tags": {
+                "attraction": "animal",
+                "name": "Lorikeet Aviary",
+                "species:wikidata": "Q15274050",
+                "species:wikipedia": "en:Loriini",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 3572440497,
+            "lat": 30.400023,
+            "lon": -81.6452181,
+            "tags": {
+                "attraction": "animal",
+                "name": "Save the Frogs",
+                "species:wikidata": "Q53636",
+                "species:wikipedia": "en:Frog",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 3572478715,
+            "lat": 30.3991645,
+            "lon": -81.6437878,
+            "tags": {
+                "name": "Riverview Gardens",
+                "species:wikidata": "Q11946202",
+                "species:wikipedia": "en:Butterfly",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 3572478724,
+            "lat": 30.3996014,
+            "lon": -81.6431184,
+            "tags": {
+                "attraction": "animal",
+                "name": "Komodo Dragons",
+                "species:wikidata": "Q4504",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 3572478738,
+            "lat": 30.4000014,
+            "lon": -81.6426565,
+            "tags": {
+                "attraction": "animal",
+                "name": "Land of the Tiger",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 3572478739,
+            "lat": 30.3993567,
+            "lon": -81.6428035,
+            "tags": {
+                "attraction": "animal",
+                "name": "Hornbill Aviary",
+                "species:wikidata": "Q26773",
+                "species:wikipedia": "en:Hornbill",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 3574841502,
+            "lat": 30.3902347,
+            "lon": -81.4327944,
+            "tags": {
+                "name": "Monty's Marina Deep-Sea Fishing",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 4351586643,
+            "lat": 30.399647,
+            "lon": -81.6427628,
+            "tags": {
+                "attraction": "animal",
+                "name": "Asian Small Clawed Otter",
+                "species:wikidata": "Q244277",
+                "species:wikipedia": "en:Asian small-clawed otter",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 4796104370,
+            "lat": 42.3118462,
+            "lon": -122.9640957,
+            "tags": {
+                "amenity": "fountain",
+                "name": "Linda Brody Memorial Fountain",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 6441723685,
+            "lat": 30.2242247,
+            "lon": -81.511556,
+            "tags": {
+                "name": "Fort Family Park",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 7316251348,
+            "lat": 30.5165606,
+            "lon": -81.6379164,
+            "tags": {
+                "check_date": "2023-03-11",
+                "name": "Gator Pond",
+                "tourism": "zoo"
+            }
+        },
+        {
+            "type": "node",
+            "id": 8756372362,
+            "lat": 30.3995084,
+            "lon": -81.6425073,
+            "tags": {
+                "attraction": "animal",
+                "name": "Visayan Warty Hog",
+                "species:wikidata": "Q3566453",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 8756372371,
+            "lat": 30.4018373,
+            "lon": -81.6444018,
+            "tags": {
+                "attraction": "animal",
+                "name": "Bonobo",
+                "species:wikidata": "Q19537",
+                "species:wikipedia": "en:Bonobo",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 8756372372,
+            "lat": 30.3996358,
+            "lon": -81.6428503,
+            "tags": {
+                "attraction": "animal",
+                "name": "Sulawesi Babirusa",
+                "species:wikidata": "Q1934992",
+                "species:wikipedia": "en:North Sulawesi babirusa",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 8756372375,
+            "lat": 30.4002802,
+            "lon": -81.6457386,
+            "tags": {
+                "attraction": "animal",
+                "name": "Emu",
+                "species:wikidata": "Q93208",
+                "species:wikipedia": "en:Emu",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 8756372385,
+            "lat": 30.4008965,
+            "lon": -81.6448144,
+            "tags": {
+                "attraction": "animal",
+                "name": "Caribbean Flamingo",
+                "species:wikidata": "Q208004",
+                "species:wikipedia": "en:American flamingo",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9643875874,
+            "lat": 30.4027725,
+            "lon": -81.6444535,
+            "tags": {
+                "attraction": "animal",
+                "name": "Bald Eagle",
+                "species:wikidata": "Q127216",
+                "species:wikipedia": "en:Bald eagle",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9643875887,
+            "lat": 30.4029051,
+            "lon": -81.6442779,
+            "tags": {
+                "attraction": "animal",
+                "name": "Florida Box Turtle",
+                "species:wikidata": "Q594543",
+                "species:wikipedia": "en:Florida box turtle",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9643875895,
+            "lat": 30.4028925,
+            "lon": -81.6443587,
+            "tags": {
+                "attraction": "animal",
+                "name": "Reptile and Amphibians of Florida",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9643912859,
+            "lat": 30.4031847,
+            "lon": -81.6444123,
+            "tags": {
+                "attraction": "animal",
+                "name": "American Alligator",
+                "species:wikidata": "Q193327",
+                "species:wikipedia": "en:American alligator",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9643913119,
+            "lat": 30.4025381,
+            "lon": -81.6441156,
+            "tags": {
+                "attraction": "animal",
+                "name": "American Black Bear",
+                "species:wikidata": "Q122783",
+                "species:wikipedia": "en:American black bear",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9719606234,
+            "lat": 30.4007366,
+            "lon": -81.643788,
+            "tags": {
+                "attraction": "animal",
+                "name": "Goat Petting Zoo",
+                "species:wikidata": "Q3657820",
+                "species:wikipedia": "en:Nigerian Dwarf",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9719606324,
+            "lat": 30.4020133,
+            "lon": -81.6443697,
+            "tags": {
+                "attraction": "animal",
+                "name": "Colobus Monkey",
+                "species:wikidata": "Q2359025",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9719606681,
+            "lat": 30.4011721,
+            "lon": -81.6445213,
+            "tags": {
+                "attraction": "animal",
+                "name": "Sloths",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9719606728,
+            "lat": 30.4014627,
+            "lon": -81.6439278,
+            "tags": {
+                "attraction": "animal",
+                "name": "Western Lowland Gorilla",
+                "species:wikidata": "Q876500",
+                "species:wikipedia": "en:Western lowland gorilla",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9719606729,
+            "lat": 30.4022805,
+            "lon": -81.6443986,
+            "tags": {
+                "attraction": "animal",
+                "name": "Lemur",
+                "species:wikidata": "Q2340126",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9719606730,
+            "lat": 30.4015269,
+            "lon": -81.6443342,
+            "tags": {
+                "attraction": "animal",
+                "name": "Bonobo",
+                "species:wikidata": "Q19537",
+                "species:wikipedia": "en:Bonobo",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9980991116,
+            "lat": 34.6538238,
+            "lon": -77.3463908,
+            "tags": {
+                "historic": "cannon",
+                "name": "M109",
+                "subject:wikidata": "Q170296",
+                "subject:wikipedia": "en:M109 howitzer",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9981089017,
+            "lat": 34.6536856,
+            "lon": -77.346491,
+            "tags": {
+                "historic": "cannon",
+                "name": "M110",
+                "subject:wikidata": "Q315586",
+                "subject:wikipedia": "en:M110 howitzer",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11466464456,
+            "lat": 34.7501025,
+            "lon": -77.4235677,
+            "tags": {
+                "addr:city": "Jacksonville",
+                "addr:housenumber": "625",
+                "addr:state": "NC",
+                "addr:street": "New Bridge Street",
+                "kids_area": "yes",
+                "kids_area:indoor": "yes",
+                "museum": "children",
+                "museum_type": "municipal",
+                "name": "Zing Zumm",
+                "opening_hours": "Tu-Sa 09:00-17:00; Su 12:00-17:00; PH closed",
+                "toilets": "yes",
+                "toilets:access": "customers",
+                "toilets:wheelchair": "yes",
+                "tourism": "museum",
+                "website": "https://zingzumm.org/",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 13431229160,
+            "lat": 30.4008814,
+            "lon": -81.645432,
+            "tags": {
+                "attraction": "animal",
+                "name": "Giant River Otters",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 13431247302,
+            "lat": 30.4011736,
+            "lon": -81.645858,
+            "tags": {
+                "attraction": "animal",
+                "name": "Capybara",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 13431247309,
+            "lat": 30.4012732,
+            "lon": -81.645872,
+            "tags": {
+                "attraction": "animal",
+                "name": "Giant Anteater",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 13431247334,
+            "lat": 30.4012928,
+            "lon": -81.6458675,
+            "tags": {
+                "attraction": "animal",
+                "name": "Black Howler Monkey",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "way",
+            "id": 170075842,
+            "lat": 30.3349409,
+            "lon": -81.6668918,
+            "tags": {
+                "building": "yes",
+                "name": "Ritz Theatre and Museum",
+                "tourism": "museum",
+                "wikidata": "Q7336924"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Ritz_Theatre%2C_Jacksonville_FL.jpg/1280px-Ritz_Theatre%2C_Jacksonville_FL.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 218678857,
+            "lat": 42.314496,
+            "lon": -122.9649718,
+            "tags": {
+                "building": "yes",
+                "heritage": "yes",
+                "historic": "building",
+                "image": "http://en.wikipedia.org/wiki/File:Jacksonville_Oregon_Museum.jpg",
+                "name": "Historic Jackson County Courthouse",
+                "source": "SOHS",
+                "tourism": "museum",
+                "wikipedia": "en:Jackson County Courthouse (Jacksonville, Oregon)"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/42/Jacksonville_Oregon_Museum.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 326793766,
+            "lat": 30.3257278,
+            "lon": -81.6433844,
+            "tags": {
+                "building": "yes",
+                "name": "Old Saint Andrew's Church",
+                "tourism": "museum",
+                "wikidata": "Q7586861"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/en/6/64/StAndrewsEpiscopalJax.PNG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 326826328,
+            "lat": 30.3292797,
+            "lon": -81.6583909,
+            "tags": {
+                "addr:city": "Jacksonville",
+                "addr:housenumber": "333",
+                "addr:postcode": "32202",
+                "addr:state": "FL",
+                "addr:street": "Laura Street North",
+                "building": "yes",
+                "name": "Museum of Contemporary Art Jacksonville",
+                "opening_hours": "Tu,We 11:00-17:00; Mo off; Th 11:00-21:00; Fr,Sa 11:00-17:00; Su 12:00-17:00",
+                "phone": "+1-904-366-6911",
+                "tourism": "museum",
+                "website": "https://mocajacksonville.unf.edu/",
+                "wikidata": "Q3329582",
+                "wikipedia": "en:Museum of Contemporary Art Jacksonville"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Hotelroosevelt.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 348479220,
+            "lat": 30.318884,
+            "lon": -81.6598078,
+            "tags": {
+                "building": "civic",
+                "fee": "yes",
+                "museum": "science",
+                "name": "Museum of Science & History",
+                "opening_hours:url": "https://themosh.org/visit/visitor-information/",
+                "short_name": "MOSH",
+                "tourism": "museum",
+                "website": "https://themosh.org/",
+                "wheelchair": "yes",
+                "wikidata": "Q6941013"
+            }
+        },
+        {
+            "type": "way",
+            "id": 580337012,
+            "lat": 42.3126133,
+            "lon": -122.9638077,
+            "tags": {
+                "building": "house",
+                "name": "Historic C.C. Beekman House",
+                "source": "SOHS",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Historic_American_Buildings_Survey%2C_August%2C_1971_EAST_%28SIDE%29_ELEVATION._-_Beekman_House%2C_East_California_Street%2C_Jacksonville%2C_Jackson_County%2C_OR_HABS_ORE%2C15-JACVI%2C49-2.tif/lossy-page1-1280px-thumbnail.tif.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 591685720,
+            "lat": 30.1653267,
+            "lon": -81.6464005,
+            "tags": {
+                "addr:city": "Jacksonville",
+                "addr:housenumber": "11964",
+                "addr:postcode": "32223",
+                "addr:state": "FL",
+                "addr:street": "Mandarin Road",
+                "building": "yes",
+                "ele": "2",
+                "gnis:feature_id": "2449461",
+                "name": "Mandarin Museum",
+                "source": "USGS Geonames",
+                "tourism": "museum",
+                "website": "https://www.mandarinmuseum.net/"
+            }
+        },
+        {
+            "type": "way",
+            "id": 613548068,
+            "lat": 33.8143589,
+            "lon": -85.7623919,
+            "tags": {
+                "building": "yes",
+                "fee": "yes",
+                "museum": "history",
+                "name": "Dr. Francis' Medical Museum",
+                "phone": "+1 256-435-6332",
+                "tourism": "museum",
+                "website": "https://jacksonvillepubliclibrary.org/Francis_Museum.html"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Dr._J._C._Francis_Office%2C_Jacksonville%2C_AL%2C_2016-06-28.jpg/1280px-Dr._J._C._Francis_Office%2C_Jacksonville%2C_AL%2C_2016-06-28.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 887668577,
+            "lat": 30.2868386,
+            "lon": -81.5679641,
+            "tags": {
+                "addr:city": "Jacksonville",
+                "addr:housenumber": "8580",
+                "addr:postcode": "32216",
+                "addr:state": "FL",
+                "addr:street": "Beach Boulevard",
+                "building": "yes",
+                "check_date:opening_hours": "2023-07-26",
+                "ele": "4",
+                "fee": "yes",
+                "fee:conditional": "no @ (age < 1)",
+                "gnis:feature_id": "2449457",
+                "name": "Hands on Childrens Museum",
+                "opening_hours": "Mo-Sa 09:30-17:00; Jul 04 9:30-15:00; Nov Th[4] off; Dec 24-25 off",
+                "source": "USGS Geonames",
+                "tourism": "museum",
+                "website": "https://handsonchildrensmuseum.org/index.html"
+            }
+        },
+        {
+            "type": "way",
+            "id": 1086462630,
+            "lat": 30.401317,
+            "lon": -81.6454973,
+            "tags": {
+                "area": "yes",
+                "name": "Range of the Jaguar",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "way",
+            "id": 1086462631,
+            "lat": 30.4014351,
+            "lon": -81.6454543,
+            "tags": {
+                "attraction": "animal",
+                "name": "Jaguar",
+                "species:wikidata": "Q35694",
+                "species:wikipedia": "en:Jaguar",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "way",
+            "id": 1088329317,
+            "lat": 30.2829752,
+            "lon": -81.7137474,
+            "tags": {
+                "addr:city": "Jacksonville",
+                "addr:postcode": "32210",
+                "addr:state": "FL",
+                "ele": "3",
+                "gnis:feature_id": "2449456",
+                "name": "G Howard Bryan Museum of Southern History",
+                "source": "USGS Geonames",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Jax_FL_Museum_of_Southern_History02.jpg/1280px-Jax_FL_Museum_of_Southern_History02.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 1195123263,
+            "lat": 34.8672624,
+            "lon": -92.1228517,
+            "tags": {
+                "addr:city": "Jacksonville",
+                "addr:housenumber": "100",
+                "addr:postcode": "72076",
+                "addr:state": "AR",
+                "addr:street": "Veteran Cir",
+                "building": "yes",
+                "museum": "military",
+                "name": "Jacksonville Museum of Military History",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Arkansas_Ordnance_Plant_Guard_House.JPG/1280px-Arkansas_Ordnance_Plant_Guard_House.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 1376334556,
+            "lat": 30.324267,
+            "lon": -81.6503473,
+            "tags": {
+                "building": "yes",
+                "name": "Jacksonville Fire Museum",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/36/Jacksonville%2C_FL_Sheriff-Police.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 1448602845,
+            "lat": 30.3229265,
+            "lon": -81.6506646,
+            "tags": {
+                "building": "ship",
+                "museum": "maritime",
+                "name": "USS Orleck",
+                "ship:type": "destroyer",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/36/Jacksonville%2C_FL_Sheriff-Police.jpg",
+            "image_source": "wikipedia_verified"
+        }
+    ]
+}

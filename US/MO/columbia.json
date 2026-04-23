@@ -1,0 +1,610 @@
+{
+    "city_metadata": {
+        "city_name": "Columbia",
+        "state_code": "MO",
+        "state_full": "Missouri",
+        "city_summary": "Columbia is a city in Boone County, Missouri, United States, and its county seat. It was founded in 1821 and had a population of 126,254 as recorded in the 2020 United States census, making it the fourth-most populous city in Missouri. Columbia is a Midwestern college town, home to the University of Missouri, a major research institution also known as MU or Mizzou.",
+        "city_image": "https://upload.wikimedia.org/wikipedia/commons/4/44/Mizzou_Jesse_Thumb.jpg",
+        "city_lat": 38.9475,
+        "city_lon": -92.32666667,
+        "source": "wikipedia_verified_engine"
+    },
+    "attractions": [
+        {
+            "type": "node",
+            "id": 356894471,
+            "lat": 35.614794,
+            "lon": -87.0383388,
+            "tags": {
+                "addr:city": "Columbia",
+                "addr:country": "US",
+                "addr:housenumber": "311",
+                "addr:postcode": "38401",
+                "addr:street": "West 7th",
+                "amenity": "place_of_worship",
+                "denomination": "episcopal",
+                "ele": "196",
+                "email": "office@stpeters38401.org",
+                "end_date": "1871",
+                "gnis:feature_id": "1646527",
+                "historic": "yes",
+                "image": "http://www.stpeters38401.org/Portals/1305/main%20pics/front_church_large.jpg",
+                "name": "Saint Peters Episcopal Church",
+                "note": "updated by Brian Holmes",
+                "phone": "+1 931 388-3331",
+                "religion": "christian",
+                "start_date": "1860",
+                "tourism": "attraction",
+                "website": "stpeters38401.org",
+                "wikidata": "Q7591361"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/St._Peter%27s_Episcopal_Church_Columbia_Tennessee.jpg/1280px-St._Peter%27s_Episcopal_Church_Columbia_Tennessee.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 367807864,
+            "lat": 34.0105014,
+            "lon": -81.0294325,
+            "tags": {
+                "addr:state": "SC",
+                "ele": "92",
+                "gnis:feature_id": "1249134",
+                "name": "Hampton-Preston House Museum",
+                "source": "USGS Geonames",
+                "tourism": "museum",
+                "website": "https://www.historiccolumbia.org/tours/house-tours/hampton-preston-mansion-and-gardens",
+                "wikidata": "Q5646146",
+                "wikipedia": "en:Hampton–Preston House"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Hampton-Preston_House_Front_Entrance_%282024%29.jpg/1280px-Hampton-Preston_House_Front_Entrance_%282024%29.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 367932295,
+            "lat": 31.2912874,
+            "lon": -85.112152,
+            "tags": {
+                "addr:state": "AL",
+                "ele": "64",
+                "gnis:feature_id": "132356",
+                "name": "Old Cabin Jail Museum",
+                "source": "USGS Geonames",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Columbia%2C_Alabama.JPG/1280px-Columbia%2C_Alabama.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 4187856285,
+            "lat": 39.2224174,
+            "lon": -76.8552148,
+            "tags": {
+                "addr:city": "Columbia",
+                "addr:housenumber": "5434",
+                "addr:postcode": "21044",
+                "addr:state": "MD",
+                "addr:street": "Vantage Point Road",
+                "name": "Howard County Center of African American Culture",
+                "phone": "+1 410 715 1921",
+                "tourism": "museum",
+                "website": "https://hccaac.org/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/69/Howard_County_Center_of_African_American_Culture.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 5012661958,
+            "lat": 33.9975855,
+            "lon": -81.0278904,
+            "tags": {
+                "name": "USC Smokestack",
+                "operator": "University of South Carolina",
+                "operator:type": "university",
+                "operator:wikidata": "Q1024426",
+                "operator:wikipedia": "University of South Carolina",
+                "tourism": "attraction",
+                "wheelchair": "yes"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Usc_horseshoe.jpg/1280px-Usc_horseshoe.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 9595666350,
+            "lat": 35.6148349,
+            "lon": -87.0353555,
+            "tags": {
+                "addr:city": "Columbia",
+                "addr:housenumber": "123",
+                "addr:postcode": "38401",
+                "addr:state": "TN",
+                "addr:street": "West 7th Street",
+                "name": "aMuse'um",
+                "source": "esri_USDOT_Tennessee",
+                "tourism": "museum"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11339058399,
+            "lat": 34.0002885,
+            "lon": -81.0225552,
+            "tags": {
+                "name": "Anne Frank Center",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/UniversityNeighborhoodHistDist.JPG/1280px-UniversityNeighborhoodHistDist.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 12446094176,
+            "lat": 34.0118959,
+            "lon": -81.0343353,
+            "tags": {
+                "museum": "history",
+                "name": "Mann-Simons Site",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Mann_Simons_Cottage.jpg/1280px-Mann_Simons_Cottage.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 12456828132,
+            "lat": 34.0057775,
+            "lon": -81.0359777,
+            "tags": {
+                "addr:city": "Columbia",
+                "addr:country": "US",
+                "addr:housenumber": "1515",
+                "addr:postcode": "29201",
+                "addr:state": "SC",
+                "addr:street": "Main Street",
+                "contact:facebook": "https://www.facebook.com/columbiamuseum",
+                "contact:instagram": "https://www.instagram.com/colamuseum/",
+                "contact:youtube": "https://www.youtube.com/user/ColumbiaMuseumOfArt",
+                "email": "info@columbiamuseum.org",
+                "fee": "yes",
+                "museum": "art",
+                "name": "Columbia Museum of Art",
+                "opening_hours": "Mo off; Tu,We,Fr-Su 10:00-17:00; Th 10:00-20:00",
+                "phone": "+1-803-799-2810",
+                "source": "Bing",
+                "subject": "art",
+                "tourism": "museum",
+                "website": "https://www.columbiamuseum.org/",
+                "wikidata": "Q2383136",
+                "wikipedia": "en:Columbia Museum of Art"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Columbia_Museum_of_Art_entrance.jpg/1280px-Columbia_Museum_of_Art_entrance.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 12461672454,
+            "lat": 34.0117123,
+            "lon": -81.026913,
+            "tags": {
+                "name": "Columbia Fire Department Museum",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Columbia_Township_Auditorium_front.jpg/1280px-Columbia_Township_Auditorium_front.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 12640968834,
+            "lat": 38.9446003,
+            "lon": -92.3260217,
+            "tags": {
+                "addr:city": "Columbia",
+                "addr:housenumber": "520",
+                "addr:postcode": "65211",
+                "addr:state": "MO",
+                "addr:street": "South 9th Street",
+                "level": "0",
+                "museum": "art",
+                "name": "Museum of Art & Archaeology",
+                "operator": "University of Missouri",
+                "operator:type": "university",
+                "phone": "+1-573-882-3591",
+                "tourism": "museum",
+                "website": "https://maa.missouri.edu/",
+                "wikidata": "Q6940759",
+                "wikipedia": "en:Museum of Art and Archaeology"
+            }
+        },
+        {
+            "type": "node",
+            "id": 12640968835,
+            "lat": 38.944499,
+            "lon": -92.3260334,
+            "tags": {
+                "level": "0",
+                "name": "Museum of Anthropology",
+                "operator": "University of Missouri",
+                "operator:type": "university",
+                "tourism": "museum"
+            }
+        },
+        {
+            "type": "way",
+            "id": 110351217,
+            "lat": 33.9972249,
+            "lon": -81.0480299,
+            "tags": {
+                "addr:city": "Columbia",
+                "addr:country": "US",
+                "addr:housenumber": "211",
+                "addr:postcode": "29201",
+                "addr:state": "SC",
+                "addr:street": "Gervais Street",
+                "building": "yes",
+                "layer": "1",
+                "museum": "children",
+                "name": "EdVenture",
+                "opening_hours": "Mo-Sa 09:00-17:00; Su 12:00-17:00",
+                "phone": "+1-803-779-3100",
+                "source": "Bing",
+                "tourism": "museum",
+                "website": "https://www.edventure.org/columbia",
+                "wikidata": "Q5334480",
+                "wikipedia": "en:EdVenture"
+            }
+        },
+        {
+            "type": "way",
+            "id": 139161490,
+            "lat": 33.9988283,
+            "lon": -81.0301742,
+            "tags": {
+                "addr:state": "SC",
+                "building": "university",
+                "ele": "93",
+                "gnis:feature_id": "1249435",
+                "memorial": "war_memorial",
+                "museum": "history",
+                "name": "World War Memorial",
+                "operator": "University of South Carolina",
+                "operator:type": "university",
+                "operator:wikidata": "Q1024426",
+                "operator:wikipedia": "University of South Carolina",
+                "source": "USGS Geonames",
+                "source:geometry": "Bing",
+                "tourism": "museum",
+                "wikidata": "Q16903730"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Front_facade_of_World_War_Memorial.jpg/1280px-Front_facade_of_World_War_Memorial.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 146242086,
+            "lat": 39.2223924,
+            "lon": -76.8551715,
+            "tags": {
+                "addr:housenumber": "5434",
+                "addr:postcode": "21044",
+                "addr:street": "Vantage Point Road",
+                "building": "yes",
+                "name": "Howard County Center of African-American Culture",
+                "source": "USGS Ortho",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/69/Howard_County_Center_of_African_American_Culture.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 260563714,
+            "lat": 33.9775043,
+            "lon": -81.0222038,
+            "tags": {
+                "name": "SC State Fairgrounds",
+                "tourism": "attraction",
+                "website": "https://www.scstatefair.org/"
+            }
+        },
+        {
+            "type": "way",
+            "id": 329014211,
+            "lat": 33.9987604,
+            "lon": -81.0269531,
+            "tags": {
+                "addr:state": "SC",
+                "building": "university",
+                "ele": "94",
+                "gnis:feature_id": "1249220",
+                "name": "McKissick Museum",
+                "operator": "University of South Carolina",
+                "operator:type": "university",
+                "operator:wikidata": "Q1024426",
+                "operator:wikipedia": "University of South Carolina",
+                "source": "USGS Geonames",
+                "source:geometry": "Bing",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Front_elevation_of_the_McCord_House.jpg/1280px-Front_elevation_of_the_McCord_House.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 431590845,
+            "lat": 45.5353551,
+            "lon": -122.4070928,
+            "tags": {
+                "name": "McMenamins Edgefield",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Multnomah_County_Poor_Farm_-_Troutdale_Oregon.jpg/1280px-Multnomah_County_Poor_Farm_-_Troutdale_Oregon.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 523138836,
+            "lat": 38.9073346,
+            "lon": -92.2939511,
+            "tags": {
+                "building": "yes",
+                "name": "Walters-Boone County Historic Museum",
+                "tourism": "museum"
+            }
+        },
+        {
+            "type": "way",
+            "id": 545294458,
+            "lat": 34.008212,
+            "lon": -81.0270866,
+            "tags": {
+                "addr:city": "Columbia",
+                "addr:housenumber": "1705",
+                "addr:postcode": "29201",
+                "addr:state": "SC",
+                "addr:street": "Hampton Street",
+                "building": "yes",
+                "ele": "93",
+                "gnis:feature_id": "1252603",
+                "name": "Woodrow Wilson Family Home & Gardens",
+                "source": "USGS Geonames",
+                "tourism": "museum",
+                "wheelchair": "limited",
+                "wikidata": "Q7795294",
+                "wikipedia": "en:Woodrow Wilson Boyhood Home (Columbia, South Carolina)"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Woodrow_Wilson_Boyhood_Home%2C_1705_Hampton_St.%2C_Columbia_%28Richland_County%2C_South_Carolina%29.jpg/1280px-Woodrow_Wilson_Boyhood_Home%2C_1705_Hampton_St.%2C_Columbia_%28Richland_County%2C_South_Carolina%29.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 550951125,
+            "lat": 34.0178886,
+            "lon": -80.924984,
+            "tags": {
+                "building": "yes",
+                "name": "US Army Chaplain Museum",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Soldier_Support_Institute_Shoulder_Sleeve_Insignia.gif",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 566302587,
+            "lat": 34.0113088,
+            "lon": -80.9439958,
+            "tags": {
+                "building": "yes",
+                "name": "U.S. Army Basic Combat Training Museum",
+                "tourism": "museum"
+            }
+        },
+        {
+            "type": "way",
+            "id": 571395290,
+            "lat": 33.9989303,
+            "lon": -81.0480904,
+            "tags": {
+                "addr:city": "Columbia",
+                "addr:country": "US",
+                "addr:housenumber": "301",
+                "addr:postcode": "29201",
+                "addr:state": "SC",
+                "addr:street": "Gervais Street",
+                "building": "yes",
+                "contact:facebook": "https://www.facebook.com/scstatemuseum",
+                "contact:instagram": "https://instagram.com/scstatemuseum",
+                "contact:pinterest": "https://pinterest.com/scstatemuseum/",
+                "contact:twitter": "https://www.twitter.com/scstatemuseum",
+                "contact:youtube": "https://www.youtube.com/scstatemuseum",
+                "height": "21",
+                "name": "South Carolina State Museum",
+                "opening_hours": "Mo off; Tu-Sa 10:00-17:00, Su 12:00-17:00",
+                "phone": "+1-803-898-4921",
+                "tourism": "museum",
+                "website": "https://www.scmuseum.org",
+                "wikidata": "Q7566640",
+                "wikipedia": "en:South Carolina State Museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/SCStateMuseum.JPG/1280px-SCStateMuseum.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 587003120,
+            "lat": 38.4348354,
+            "lon": -90.1900326,
+            "tags": {
+                "description": "A historic single-room schoolhouse, one of sixty built in Monroe County, and one of only three remaining.",
+                "name": "Shoemaker School",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "way",
+            "id": 687214479,
+            "lat": 35.6149743,
+            "lon": -87.0375173,
+            "tags": {
+                "boundary": "protected_area",
+                "building": "yes",
+                "description": "Boyhood home of James K Polk the 11th President of the United States",
+                "heritage": "2",
+                "heritage:operator": "nrhp",
+                "name": "Polk Home",
+                "nrhp:criteria": "(B)",
+                "nrhp:inscription_date": "10/15/1966",
+                "nrhp:nhl": "yes",
+                "phone": "+1-931-388-2354",
+                "protection_title": "protected_site",
+                "ref:nrhp": "66000728",
+                "tourism": "museum",
+                "website": "https://www.jameskpolk.com/",
+                "wikidata": "Q6137070"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/9d/PolkHome.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 875654306,
+            "lat": 40.0379358,
+            "lon": -76.5079915,
+            "tags": {
+                "addr:city": "Columbia",
+                "addr:housenumber": "301",
+                "addr:postcode": "17512",
+                "addr:state": "PA",
+                "addr:street": "Linden Street",
+                "building": "yes",
+                "check_date": "2026-01-05",
+                "contact:facebook": "https://www.facebook.com/TurkeyHillExperience/",
+                "contact:instagram": "https://www.instagram.com/turkeyhillexperience",
+                "fee": "yes",
+                "name": "Turkey Hill Experience",
+                "operator:type": "private",
+                "phone": "+1 717-684-0134",
+                "tourism": "museum",
+                "website": "https://www.turkeyhillexperience.com/"
+            }
+        },
+        {
+            "type": "way",
+            "id": 898359011,
+            "lat": 40.0369906,
+            "lon": -76.5022313,
+            "tags": {
+                "addr:city": "Columbia",
+                "addr:housenumber": "514",
+                "addr:postcode": "17512",
+                "addr:state": "PA",
+                "addr:street": "Poplar Street",
+                "charge": "15 USD",
+                "check_date": "2025-11-07",
+                "fee": "yes",
+                "name": "National Watch and Clock Museum",
+                "opening_hours": "Tu-Th,Sa 10:00-17:00; Fr,Su 10:00-16:00; Mo off",
+                "phone": "+1 717-684-8261",
+                "tourism": "museum",
+                "website": "https://www.nawcc.org/",
+                "wikidata": "Q15261155",
+                "wikipedia": "en:National Watch and Clock Museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/National_Watch_and_Clock_Museum_Columbia_PA.jpg/1280px-National_Watch_and_Clock_Museum_Columbia_PA.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 920878244,
+            "lat": 44.853132,
+            "lon": -71.5516274,
+            "tags": {
+                "architect": "Charles Babbitt",
+                "bridge": "covered",
+                "heritage": "2",
+                "heritage:operator": "nrhp",
+                "heritage:ref": "76000123",
+                "heritage:website": "https://npgallery.nps.gov/AssetDetail/NRIS/76000123",
+                "historic": "bridge",
+                "layer": "1",
+                "man_made": "bridge",
+                "name": "Columbia Covered Bridge",
+                "nrhp:inscription_date": "1976-12-12",
+                "ref:nrhp": "76000123",
+                "start_date": "1912",
+                "tourism": "attraction",
+                "wikidata": "Q5149627",
+                "wikimedia_commons": "File:213-23 Columbia Bridge.jpg",
+                "wikipedia": "en:Columbia Bridge (Connecticut River)"
+            }
+        },
+        {
+            "type": "way",
+            "id": 1084918986,
+            "lat": 34.0833179,
+            "lon": -81.1558692,
+            "tags": {
+                "addr:city": "Columbia",
+                "addr:housenumber": "140",
+                "addr:postcode": "29212",
+                "addr:street": "Parkridge Drive",
+                "name": "Frankie's Fun Park",
+                "pets": "no",
+                "service_animals": "yes",
+                "tourism": "theme_park",
+                "website": "https://frankies.com/columbia/"
+            }
+        },
+        {
+            "type": "way",
+            "id": 1119918129,
+            "lat": 31.2518236,
+            "lon": -89.8375842,
+            "tags": {
+                "building": "yes",
+                "museum": "history",
+                "name": "Marion County Museum & Archive",
+                "source": "microsoft/BuildingFootprints",
+                "tourism": "museum"
+            }
+        },
+        {
+            "type": "way",
+            "id": 1185424588,
+            "lat": 34.019056,
+            "lon": -80.9418731,
+            "tags": {
+                "building": "yes",
+                "name": "U.S. Army Finance Corps Museum",
+                "tourism": "museum"
+            }
+        },
+        {
+            "type": "way",
+            "id": 1191698601,
+            "lat": 40.0306669,
+            "lon": -76.5041261,
+            "tags": {
+                "addr:city": "Columbia",
+                "addr:housenumber": "170",
+                "addr:postcode": "17512",
+                "addr:state": "PA",
+                "addr:street": "Locust Street",
+                "building": "yes",
+                "charge": "12 USD",
+                "check_date": "2024-08-23",
+                "fee": "yes",
+                "name": "First National Bank Museum",
+                "phone": "+1 717-684-8864",
+                "tourism": "museum",
+                "website": "https://bankmuseum.org/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Forry_Warehouse_Columbia_PA.JPG/1280px-Forry_Warehouse_Columbia_PA.JPG",
+            "image_source": "wikipedia_verified"
+        }
+    ]
+}

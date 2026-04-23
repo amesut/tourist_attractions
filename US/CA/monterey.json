@@ -1,0 +1,488 @@
+{
+    "city_metadata": {
+        "city_name": "Monterey",
+        "state_code": "CA",
+        "state_full": "California",
+        "city_summary": "Monterey (  MON-tə-RAY; Spanish: Monterrey) is a city on the southern edge of Monterey Bay, on the Central Coast of California. Located in Monterey County, the city occupies a land area of 8.645 sq mi (22.39 km2) and recorded a population of 30,218 in the 2020 census.\nMonterey was founded by the Spanish in 1774, when Gaspar de Portolá and Junípero Serra established the Presidio of Monterey and the Cathedral of San Carlos Borromeo.",
+        "city_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Santa_Catalina_School%2C_Monterey%2C_CA_%28cropped%29.jpg/1280px-Santa_Catalina_School%2C_Monterey%2C_CA_%28cropped%29.jpg",
+        "city_lat": 36.60305556,
+        "city_lon": -121.89361111,
+        "source": "wikipedia_verified_engine"
+    },
+    "attractions": [
+        {
+            "type": "node",
+            "id": 368174444,
+            "lat": 36.6163887,
+            "lon": -121.9000577,
+            "tags": {
+                "addr:city": "Monterey",
+                "addr:housenumber": "700",
+                "addr:postcode": "93940",
+                "addr:state": "CA",
+                "addr:street": "Cannery Row",
+                "ele": "7",
+                "gnis:feature_id": "1873645",
+                "name": "The Spirit of Monterey Wax Museum",
+                "phone": "+1-831-655-7744",
+                "source": "USGS Geonames",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Cannery_Row_2_%2815398349067%29.jpg/1280px-Cannery_Row_2_%2815398349067%29.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 2797851328,
+            "lat": 36.6014651,
+            "lon": -121.8947485,
+            "tags": {
+                "addr:city": "Monterey",
+                "addr:housenumber": "1",
+                "addr:postcode": "93940",
+                "addr:street": "Portola Plaza",
+                "name": "Alvarado Gallery",
+                "operator": "City of Monterey",
+                "phone": "+1-831-242-8743",
+                "tourism": "museum",
+                "website": "https://www.monterey.org/museums/MontereyArt/AlvaradoGallery.aspx"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Casa_Soberanes_2013.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 4327481225,
+            "lat": 36.6167274,
+            "lon": -121.9010706,
+            "tags": {
+                "addr:city": "Monterey",
+                "addr:housenumber": "751",
+                "addr:postcode": "93940",
+                "addr:state": "CA",
+                "addr:street": "Cannery Row",
+                "addr:unit": "109",
+                "name": "Monterey Mirror Maze",
+                "phone": "+1 831 649-6293",
+                "tourism": "attraction",
+                "website": "http://montereymirrormaze.com/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Cannery_Row_2_%2815398349067%29.jpg/1280px-Cannery_Row_2_%2815398349067%29.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 8257476461,
+            "lat": 42.2084328,
+            "lon": -73.2183712,
+            "tags": {
+                "addr:city": "Monterey",
+                "addr:housenumber": "100",
+                "addr:postcode": "01245",
+                "addr:state": "MA",
+                "addr:street": "Art School Road",
+                "museum": "history",
+                "name": "Bidwell House Museum",
+                "opening_hours": "May Mo[-1] - Oct Mo[2] \"Tours available by reservation only from Memorial Day to Columbus Day\"",
+                "operator": "Bidwell House Museum",
+                "operator:type": "private_non_profit",
+                "tourism": "museum",
+                "website": "https://www.bidwellhousemuseum.org/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Bidwell_House.jpg/1280px-Bidwell_House.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 8257476509,
+            "lat": 42.2081548,
+            "lon": -73.218281,
+            "tags": {
+                "museum": "history",
+                "name": "Horse Barn Exhibits",
+                "tourism": "museum",
+                "website": "https://www.bidwellhousemuseum.org/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Bidwell_House.jpg/1280px-Bidwell_House.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 8257476510,
+            "lat": 42.2085534,
+            "lon": -73.2187919,
+            "tags": {
+                "museum": "history",
+                "name": "Piggery - Exhibits",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Bidwell_House.jpg/1280px-Bidwell_House.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 8257476511,
+            "lat": 42.2084764,
+            "lon": -73.218221,
+            "tags": {
+                "museum": "history",
+                "name": "Carriage Barn - Exhibits",
+                "tourism": "museum",
+                "website": "https://www.bidwellhousemuseum.org/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Bidwell_House.jpg/1280px-Bidwell_House.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 9109569646,
+            "lat": 36.6044689,
+            "lon": -121.8926128,
+            "tags": {
+                "name": "Chris' Fishing Trips and Whale Watching",
+                "sport": "fishing",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Monterey_Fishermans_Wharf.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 12246664176,
+            "lat": 38.4130084,
+            "lon": -79.581843,
+            "tags": {
+                "addr:city": "Monterey",
+                "addr:housenumber": "144",
+                "addr:postcode": "24465",
+                "addr:state": "VA",
+                "addr:street": "West Main Street",
+                "museum": "local",
+                "name": "Charles P. Jones Museum",
+                "tourism": "museum",
+                "website": "https://www.highlandcountyhistory.com/jones-mccoy-house"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Monterey%2C_Virginia_%2814224053542%29.jpg/1280px-Monterey%2C_Virginia_%2814224053542%29.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 152019970,
+            "lat": 36.5944434,
+            "lon": -121.8624685,
+            "tags": {
+                "area": "yes",
+                "ele": "18",
+                "gnis:feature_id": "1873436",
+                "name": "Monterey County Fairgrounds",
+                "phone": "+1 831-717-7167",
+                "tourism": "attraction",
+                "website": "https://montereycountyfair.com/"
+            }
+        },
+        {
+            "type": "way",
+            "id": 152297440,
+            "lat": 36.5974504,
+            "lon": -121.8965575,
+            "tags": {
+                "addr:city": "Monterey",
+                "addr:housenumber": "559",
+                "addr:postcode": "93940",
+                "addr:street": "Pacific Street",
+                "building": "yes",
+                "building:levels": "3",
+                "check_date:opening_hours": "2023-02-24",
+                "fee": "yes",
+                "museum": "art",
+                "name": "Monterey Museum of Art",
+                "opening_hours": "Th-Su 11:00-17:00",
+                "phone": "+1 831 372 5477",
+                "tourism": "museum",
+                "website": "http://www.montereyart.org/",
+                "wheelchair": "yes",
+                "wikidata": "Q6905328",
+                "wikipedia": "en:Monterey Museum of Art"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Monterey_Museum_of_Art_outside_002.jpg/1280px-Monterey_Museum_of_Art_outside_002.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 152297459,
+            "lat": 36.5991506,
+            "lon": -121.8923603,
+            "tags": {
+                "addr:city": "Monterey",
+                "addr:housenumber": "425",
+                "addr:postcode": "93940",
+                "addr:street": "Washington Street",
+                "building": "yes",
+                "name": "MY Museum",
+                "phone": "+1 831 649 6444",
+                "tourism": "museum",
+                "website": "https://mymuseum.org/",
+                "wheelchair": "yes"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Freemont_Adobe_Pacific_Street_Monterey.JPG/1280px-Freemont_Adobe_Pacific_Street_Monterey.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 152304181,
+            "lat": 36.6023879,
+            "lon": -121.8932774,
+            "tags": {
+                "COUNTYFP": "053",
+                "STATEFP": "06",
+                "addr:city": "Monterey",
+                "addr:housenumber": "5",
+                "addr:postcode": "93940",
+                "addr:street": "Custom House Plaza",
+                "building": "yes",
+                "name": "Museum of Monterey",
+                "phone": "+1-831-372-2608",
+                "source": "Tiger2009",
+                "tourism": "museum",
+                "website": "http://museumofmonterey.org/",
+                "wikidata": "Q6905324",
+                "wikipedia": "en:Museum of Monterey"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Santa_Catalina_School%2C_Monterey%2C_CA_%28cropped%29.jpg/1280px-Santa_Catalina_School%2C_Monterey%2C_CA_%28cropped%29.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 152304183,
+            "lat": 36.597756,
+            "lon": -121.8975626,
+            "tags": {
+                "addr:city": "Monterey",
+                "addr:postcode": "93940",
+                "addr:state": "CA",
+                "addr:street": "Dutra Street",
+                "building": "yes",
+                "building:part": "no",
+                "ele": "20",
+                "gnis:feature_id": "1873690",
+                "name": "Colton Hall Museum",
+                "operator": "City of Monterey",
+                "phone": "+1 831 646-5640",
+                "source": "USGS Geonames",
+                "tourism": "museum",
+                "website": "https://www.monterey.org/museums/CityMuseums/ColtonHallMuseum.aspx",
+                "wikidata": "Q5149467",
+                "wikipedia": "en:Colton Hall"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Colton_Hall.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 152304211,
+            "lat": 36.6025931,
+            "lon": -121.8940997,
+            "tags": {
+                "addr:city": "Monterey",
+                "addr:housenumber": "200",
+                "addr:postcode": "93940",
+                "addr:state": "CA",
+                "addr:street": "Calle Principal",
+                "building": "yes",
+                "name": "Pacific House",
+                "operator": "Monterey State Historic Park",
+                "tourism": "museum",
+                "website": "https://www.parks.ca.gov/?page_id=575"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Santa_Catalina_School%2C_Monterey%2C_CA_%28cropped%29.jpg/1280px-Santa_Catalina_School%2C_Monterey%2C_CA_%28cropped%29.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 153299604,
+            "lat": 36.6032449,
+            "lon": -121.8935753,
+            "tags": {
+                "addr:city": "Monterey",
+                "addr:housenumber": "115",
+                "addr:postcode": "93940",
+                "addr:state": "CA",
+                "addr:street": "Alvarado Street",
+                "building": "yes",
+                "building:levels": "2",
+                "fee": "no",
+                "heritage": "2",
+                "heritage:operator": "chisl",
+                "heritage:operator:wikidata": "Q2933979",
+                "heritage:ref": "1",
+                "heritage:website": "https://www.nps.gov/subjects/nationalregister/index.htm",
+                "historic": "heritage",
+                "name": "Old Custom House",
+                "nrhp:criteria": "(A), (C)",
+                "nrhp:inscription_date": "1966-10-15",
+                "nrhp:nhl": "yes",
+                "protection_title": "Montery State Historic Park",
+                "ref:chisl": "1",
+                "ref:nrhp": "66000217",
+                "source_ref": "https://catalog.archives.gov/id/123857978",
+                "tourism": "museum",
+                "website": "http://www.parks.ca.gov/?page_id=575",
+                "wikidata": "Q7083808"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/MontereyCalCustHouse_%28cropped%29.JPG/1280px-MontereyCalCustHouse_%28cropped%29.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 238144360,
+            "lat": 36.6066989,
+            "lon": -121.89706,
+            "tags": {
+                "addr:city": "Monterey",
+                "addr:postcode": "93944",
+                "addr:street": "Corporal Ewing Road",
+                "building": "yes",
+                "name": "Presidio of Monterey Museum",
+                "operator": "City of Monterey",
+                "phone": "+1-831-646-3456",
+                "tourism": "museum",
+                "website": "https://www.monterey.org/museums/CityMuseums/PresidioofMontereyMuseum.aspx"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/El_Castillo_site.jpg/1280px-El_Castillo_site.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 254634821,
+            "lat": 36.5975758,
+            "lon": -121.8976196,
+            "tags": {
+                "addr:city": "Monterey",
+                "addr:housenumber": "580",
+                "addr:postcode": "93940",
+                "addr:street": "Pacific Street",
+                "building": "yes",
+                "name": "The Old Monterey Jail",
+                "phone": "+1-831-646-5648",
+                "smoking": "no",
+                "tourism": "museum",
+                "website": "https://www.monterey.org/museums/CityMuseums/TheOldMontereyJail.aspx"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Colton_Hall.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 568864675,
+            "lat": 36.5944711,
+            "lon": -121.8885196,
+            "tags": {
+                "addr:city": "Monterey",
+                "addr:housenumber": "720",
+                "addr:postcode": "93940",
+                "addr:state": "CA",
+                "addr:street": "Via Mirada",
+                "building": "yes",
+                "museum": "art",
+                "name": "Monterey Museum of Art - La Mirada",
+                "tourism": "museum",
+                "website": "https://montereyart.org/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/G._T._Marsh_and_Sons.JPG/1280px-G._T._Marsh_and_Sons.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 654790034,
+            "lat": 38.4128182,
+            "lon": -79.5806907,
+            "tags": {
+                "landuse": "retail",
+                "name": "Morning Glories and Moonflowers",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Monterey_Hotel.jpg/1280px-Monterey_Hotel.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 699814367,
+            "lat": 36.6048196,
+            "lon": -121.892112,
+            "tags": {
+                "area": "yes",
+                "name": "Monterey Bay Whale Watching Center",
+                "tourism": "attraction",
+                "website": "https://gowhales.com/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Wharf_Theater.JPG/1280px-Wharf_Theater.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 699815122,
+            "lat": 36.6050399,
+            "lon": -121.8923863,
+            "tags": {
+                "area": "yes",
+                "name": "Monterey Whale Watching",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Wharf_Theater.JPG/1280px-Wharf_Theater.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 809249788,
+            "lat": 36.1470757,
+            "lon": -85.268243,
+            "tags": {
+                "building": "yes",
+                "name": "Monterey Depot Museum",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Monterey-Commercial-Ave-tn1.jpg/1280px-Monterey-Commercial-Ave-tn1.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 985371597,
+            "lat": 36.6046389,
+            "lon": -121.8920946,
+            "tags": {
+                "area": "yes",
+                "name": "Randy's Fishing Trips",
+                "sport": "fishing",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Monterey_Fishermans_Wharf.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 985371598,
+            "lat": 36.604993,
+            "lon": -121.8917565,
+            "tags": {
+                "area": "yes",
+                "name": "Monterey Bay Sailing",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Wharf_Theater.JPG/1280px-Wharf_Theater.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 985371602,
+            "lat": 36.6048371,
+            "lon": -121.8924311,
+            "tags": {
+                "area": "yes",
+                "name": "Glass Bottom Boat",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Wharf_Theater.JPG/1280px-Wharf_Theater.JPG",
+            "image_source": "wikipedia_verified"
+        }
+    ]
+}

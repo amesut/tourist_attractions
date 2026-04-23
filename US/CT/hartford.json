@@ -1,0 +1,514 @@
+{
+    "city_metadata": {
+        "city_name": "Hartford",
+        "state_code": "CT",
+        "state_full": "Connecticut",
+        "city_summary": "Hartford is the capital city of the U.S. state of Connecticut. The city, located in Hartford County, had a population of 121,054 at the 2020 census and was estimated at 124,006 in 2025. Hartford is the most populous city in the Capitol Planning Region and the core city of the Greater Hartford metropolitan area with 1.17 million residents in total.",
+        "city_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Hartford%2C_CT_skyline_%28cropped%29.jpg/1280px-Hartford%2C_CT_skyline_%28cropped%29.jpg",
+        "city_lat": 41.7625,
+        "city_lon": -72.67416667,
+        "source": "wikipedia_verified_engine"
+    },
+    "attractions": [
+        {
+            "type": "node",
+            "id": 367140279,
+            "lat": 41.7980542,
+            "lon": -72.7157518,
+            "tags": {
+                "addr:state": "CT",
+                "ele": "19",
+                "fee": "no",
+                "gnis:feature_id": "1943836",
+                "name": "Museum of American Political Life",
+                "source": "USGS Geonames",
+                "tourism": "museum"
+            }
+        },
+        {
+            "type": "node",
+            "id": 6401035076,
+            "lat": 41.7674812,
+            "lon": -72.6922719,
+            "tags": {
+                "name": "Geographic Center of Hartford",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Cathedral_of_Saint_Joseph_in_Hartford_3%2C_2009-09-02.jpg/1280px-Cathedral_of_Saint_Joseph_in_Hartford_3%2C_2009-09-02.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 7650855740,
+            "lat": 43.6495784,
+            "lon": -72.3154846,
+            "tags": {
+                "name": "Lyman Point",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/LymanBridgeSignfromNHSide.jpg/1280px-LymanBridgeSignfromNHSide.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 8007704386,
+            "lat": 41.7483864,
+            "lon": -72.682972,
+            "tags": {
+                "addr:city": "Hartford",
+                "addr:postcode": "06106",
+                "addr:state": "CT",
+                "email": "Paula.Rego@hhchealth.org",
+                "museum": "history",
+                "name": "Myths, Minds and Medicine Museum",
+                "phone": "+1 860 545 7665",
+                "tourism": "museum",
+                "website": "https://instituteofliving.org/about-us/myths-minds-medicine"
+            }
+        },
+        {
+            "type": "node",
+            "id": 8072183884,
+            "lat": 43.6381197,
+            "lon": -72.3976522,
+            "tags": {
+                "addr:city": "Quechee",
+                "addr:housenumber": "5573",
+                "addr:postcode": "05059",
+                "addr:state": "VT",
+                "addr:street": "Woodstock Road",
+                "email": "vermonttoysandgamesgiftshop@yahoo.com",
+                "name": "Vermont Toy Museum",
+                "opening_hours": "Mo-Su 10:00-17:00",
+                "phone": "+1-802-281-6394",
+                "tourism": "museum",
+                "website": "http://vermonttoymuseum.com/index.html"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Quechee_Gorge%2C_Vermont.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 9156697434,
+            "lat": 41.7729679,
+            "lon": -72.7050829,
+            "tags": {
+                "addr:city": "Hartford",
+                "addr:housenumber": "1",
+                "addr:postcode": "06105",
+                "addr:state": "CT",
+                "addr:street": "Elizabeth Street",
+                "check_date": "2024-09-05",
+                "ele": "26",
+                "fee": "yes",
+                "gnis:feature_id": "1943490",
+                "internet_access:fee": "customers",
+                "internet_access:ssid": "CMCH_Patron",
+                "museum": "history",
+                "name": "Connecticut Museum of Culture and History",
+                "opening_hours": "Tu-Sa 10:00-17:00, Th 10:00-20:00, Su 12:00-17:00",
+                "operator": "Connecticut Historical Society",
+                "operator:type": "private_non_profit",
+                "phone": "+1 860 236 5621",
+                "ref:isil": "US-cthi",
+                "source": "USGS Geonames",
+                "tourism": "museum",
+                "website": "https://chs.org",
+                "wikidata": "Q5161542",
+                "wikipedia": "en:Connecticut Museum of Culture and History"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Connecticut_Historical_Society_Museum_and_Library%2C_2009-09-02.jpg/1280px-Connecticut_Historical_Society_Museum_and_Library%2C_2009-09-02.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 10579718941,
+            "lat": 43.6611579,
+            "lon": -72.3400332,
+            "tags": {
+                "addr:city": "Hartford",
+                "addr:housenumber": "1461",
+                "addr:state": "VT",
+                "addr:street": "Maple Street",
+                "description": "The Garipay House - This historic home was bequeathed to the Society in 1994 by the late Loretta Michota Garipay. The house contains the society’s archives and museum. The Garipay House is open to the public by appointment.",
+                "email": "info@hartfordhistoricalsociety.com",
+                "museum": "history",
+                "name": "Hartford Historical Society",
+                "tourism": "museum",
+                "website": "https://hartfordvthistory.com/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/34/HartfordVT_HistoricalSociety.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 11813127793,
+            "lat": 38.8109845,
+            "lon": -90.1004957,
+            "tags": {
+                "addr:city": "Hartford",
+                "addr:housenumber": "435",
+                "addr:postcode": "62048",
+                "addr:state": "IL",
+                "addr:street": "Confluence Tower Drive",
+                "name": "Lewis & Clark Confluence Tower",
+                "tourism": "attraction",
+                "website": "https://www.nps.gov/places/lewis-clark-confluence-tower.htm"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Confluence_Tower.jpg/1280px-Confluence_Tower.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 109598638,
+            "lat": 41.7647997,
+            "lon": -72.6688297,
+            "tags": {
+                "addr:city": "Hartford",
+                "addr:housenumber": "250",
+                "addr:postcode": "06103",
+                "addr:state": "CT",
+                "addr:street": "Columbus Boulevard",
+                "building": "yes",
+                "fee": "yes",
+                "layer": "1",
+                "name": "Connecticut Science Center",
+                "tourism": "museum",
+                "website": "https://ctsciencecenter.org/",
+                "wikidata": "Q5161605",
+                "wikipedia": "en:Connecticut Science Center"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Connecticut_Science_Center.jpg/1280px-Connecticut_Science_Center.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 194716932,
+            "lat": 41.7670703,
+            "lon": -72.7013897,
+            "tags": {
+                "addr:city": "Hartford",
+                "addr:housenumber": "351",
+                "addr:postcode": "06105",
+                "addr:state": "CT",
+                "addr:street": "Farmington Avenue",
+                "building": "yes",
+                "heritage": "2",
+                "heritage:operator": "nrhp",
+                "heritage:website": "https://www.nps.gov/subjects/nationalregister/index.htm",
+                "historic": "yes",
+                "name": "Mark Twain House",
+                "nrhp:inscription_date": "1966-10-15",
+                "ref:nrhp": "66000884",
+                "tourism": "attraction",
+                "website": "https://marktwainhouse.org/house/history.php",
+                "wikidata": "Q4165331",
+                "wikipedia": "en:Mark Twain House"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/30/House_of_Mark_Twain.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 194716938,
+            "lat": 41.7668309,
+            "lon": -72.700384,
+            "tags": {
+                "addr:city": "Hartford",
+                "addr:housenumber": "73",
+                "addr:postcode": "06106",
+                "addr:state": "CT",
+                "addr:street": "Forest Street",
+                "building": "yes",
+                "gnis:feature_id": "1943673",
+                "heritage": "2",
+                "heritage:operator": "nrhp",
+                "heritage:website": "https://www.nps.gov/subjects/nationalregister/index.htm",
+                "historic": "yes",
+                "name": "Harriet Beecher Stowe House",
+                "name:etymology:wikidata": "Q102513",
+                "nrhp:inscription_date": "1970-10-06",
+                "ref:nrhp": "70000710",
+                "tourism": "museum",
+                "wikidata": "Q5664050",
+                "wikipedia": "en:Harriet Beecher Stowe House (Hartford, Connecticut)"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/HarrietBeecherStoweHouse-Hartford.jpg/1280px-HarrietBeecherStoweHouse-Hartford.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 194716940,
+            "lat": 41.7663606,
+            "lon": -72.7009485,
+            "tags": {
+                "addr:street": "Farmington Avenue",
+                "building": "yes",
+                "name": "Mark Twain House Museum",
+                "ref:isil": "US-cthmth",
+                "source": "Bing",
+                "tourism": "museum",
+                "website": "https://marktwainhouse.org/museum/current_exhibits_main.php"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/30/House_of_Mark_Twain.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 307292922,
+            "lat": 43.6480856,
+            "lon": -72.3177826,
+            "tags": {
+                "building": "yes",
+                "ele": "85.0",
+                "name": "Train: Boston & Maine Engine 494",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a7/White_River_Junction_VT.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 307292925,
+            "lat": 43.6499676,
+            "lon": -72.319091,
+            "tags": {
+                "addr:city": "White River Junction",
+                "addr:housenumber": "58",
+                "addr:postcode": "05001",
+                "addr:state": "VT",
+                "addr:street": "Bridge Street",
+                "building": "yes",
+                "check_date:opening_hours": "2023-07-27",
+                "name": "Main Street Museum",
+                "ref:vcgi:esiteid": "123001",
+                "tourism": "museum",
+                "website": "https://www.mainstreetmuseum.org/contact-us",
+                "wheelchair": "yes",
+                "wikidata": "Q7749660"
+            }
+        },
+        {
+            "type": "way",
+            "id": 401021920,
+            "lat": 42.2137685,
+            "lon": -86.1728722,
+            "tags": {
+                "addr:city": "Hartford",
+                "addr:housenumber": "301",
+                "addr:postcode": "49057",
+                "addr:street": "Bowie Street",
+                "gnis:feature_id": "2574824",
+                "name": "Hartford Speedway",
+                "sport": "motor",
+                "tourism": "attraction",
+                "website": "https://www.hartfordspeedway.net/"
+            }
+        },
+        {
+            "type": "way",
+            "id": 729121317,
+            "lat": 43.3201584,
+            "lon": -88.3812709,
+            "tags": {
+                "addr:city": "Hartford",
+                "addr:housenumber": "147",
+                "addr:state": "WI",
+                "addr:street": "North Rural Street",
+                "building": "yes",
+                "fee": "yes",
+                "firearms": "no",
+                "museum": "transport,history",
+                "name": "Wisconsin Auto Museum",
+                "opening_hours": "We-Sa 10:00-17:00",
+                "tourism": "museum",
+                "website": "https://wisconsinautomuseum.com/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Hartford_Wisconsin_Downtown_looking_north_WIS83.jpg/1280px-Hartford_Wisconsin_Downtown_looking_north_WIS83.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 871432546,
+            "lat": 41.7660967,
+            "lon": -72.6727006,
+            "tags": {
+                "addr:city": "Hartford",
+                "addr:housenumber": "800",
+                "addr:postcode": "06103",
+                "addr:state": "CT",
+                "addr:street": "Main Street",
+                "building": "yes",
+                "ele": "18",
+                "gnis:feature_id": "1943891",
+                "heritage": "2",
+                "heritage:operator": "nrhp",
+                "heritage:website": "https://www.nps.gov/subjects/nationalregister/index.htm",
+                "historic": "yes",
+                "museum": "history",
+                "name": "Old State House",
+                "nrhp:inscription_date": "1966-10-15",
+                "operator": "Connecticut General Assembly",
+                "operator:type": "public",
+                "phone": "+1 860 522 6766",
+                "ref:nrhp": "66000878",
+                "start_date": "1796",
+                "tourism": "museum",
+                "website": "https://www.cga.ct.gov/osh",
+                "wikidata": "Q7085084",
+                "wikipedia": "en:Old State House (Connecticut)"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Old_State_House%2C_Hartford%2C_Connecticut_2011.jpg/1280px-Old_State_House%2C_Hartford%2C_Connecticut_2011.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 914844375,
+            "lat": 41.780731,
+            "lon": -72.7081125,
+            "tags": {
+                "addr:city": "Hartford",
+                "addr:housename": "A. Everett Austin House",
+                "addr:housenumber": "130",
+                "addr:postcode": "06105",
+                "addr:state": "CT",
+                "addr:street": "Scarborough Street",
+                "architect": "Leigh H. French;H. Sage Goodwin",
+                "building": "yes",
+                "building:architecture": "neoclassicism",
+                "heritage": "2",
+                "heritage:operator": "nrhp",
+                "heritage:website": "https://www.nps.gov/subjects/nationalregister/index.htm",
+                "historic": "yes",
+                "name": "A. Everett Austin House",
+                "name:hi": "ए एवरेट ऑस्टिन हाउस",
+                "nrhp:inscription_date": "1994-04-19",
+                "ref:nrhp": "94001189",
+                "start_date": "1930",
+                "tourism": "museum",
+                "wikidata": "Q2622933",
+                "wikipedia": "en:A. Everett Austin House"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/A._Everett_Austin_House%2C_Hartford%2C_CT.jpg/1280px-A._Everett_Austin_House%2C_Hartford%2C_CT.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 915301447,
+            "lat": 41.7732625,
+            "lon": -72.6760708,
+            "tags": {
+                "amenity": "clock",
+                "building": "yes",
+                "display": "analog",
+                "faces": "4",
+                "heritage": "2",
+                "heritage:operator": "nrhp",
+                "heritage:website": "https://www.nps.gov/subjects/nationalregister/index.htm",
+                "historic": "yes",
+                "man_made": "tower",
+                "name": "Keney Tower",
+                "nrhp:inscription_date": "1978-03-30",
+                "ref:nrhp": "78002871",
+                "tourism": "attraction",
+                "tower:type": "bell_tower",
+                "wikidata": "Q38250620",
+                "wikipedia": "en:Keney Tower"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Keney_Tower%2C_Hartford_CT.jpg/1280px-Keney_Tower%2C_Hartford_CT.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 915714014,
+            "lat": 41.7656729,
+            "lon": -72.6799841,
+            "tags": {
+                "building": "yes",
+                "layer": "1",
+                "name": "Soldiers and Sailors Memorial Arch",
+                "tourism": "attraction",
+                "wikidata": "Q7557403",
+                "wikipedia": "en:Soldiers and Sailors Memorial Arch"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/South_face_-_Soldiers_and_Sailors_Memorial_Arch%2C_Bushnell_Park%2C_Hartford%2C_CT.JPG/1280px-South_face_-_Soldiers_and_Sailors_Memorial_Arch%2C_Bushnell_Park%2C_Hartford%2C_CT.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 1272139978,
+            "lat": 38.8022778,
+            "lon": -90.1021597,
+            "tags": {
+                "addr:city": "Hartford",
+                "addr:housenumber": "1",
+                "addr:postcode": "62048",
+                "addr:state": "IL",
+                "addr:street": "Lewis and Clark Trail",
+                "building": "yes",
+                "museum": "history",
+                "name": "Lewis & Clark Interpretive Center",
+                "tourism": "museum",
+                "website": "https://campdubois.com/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Camp_Dubois_reconstruction_034.jpg/1280px-Camp_Dubois_reconstruction_034.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 1483076694,
+            "lat": 43.6239534,
+            "lon": -96.9469668,
+            "tags": {
+                "building": "yes",
+                "museum": "history",
+                "name": "Hartford Township Building",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Minnehaha_County_South_Dakota_Incorporated_and_Unincorporated_areas_Hartford_Highlighted.svg/1280px-Minnehaha_County_South_Dakota_Incorporated_and_Unincorporated_areas_Hartford_Highlighted.svg.png",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 6466,
+            "lat": 41.6,
+            "lon": -72.7,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Flag_of_Connecticut.svg/1280px-Flag_of_Connecticut.svg.png",
+            "description": "Connecticut (  kə-NET-ih-kət) is a state in the New England region of the Northeastern United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Connecticut",
+                "wikipedia": "en:Connecticut",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 1754468,
+            "lat": 41.76833333,
+            "lon": -72.67694444,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/PBA112425.jpg/1280px-PBA112425.jpg",
+            "description": "The PeoplesBank Arena (originally known as the Hartford Civic Center and formerly as the XL Center) is a multi-purpose arena and convention center located in downtown Hartford, Connecticut.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "PeoplesBank Arena",
+                "wikipedia": "en:PeoplesBank Arena",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 2254356,
+            "lat": 41.76611111,
+            "lon": -72.67277778,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Old_State_House%2C_Hartford%2C_Connecticut_2011.jpg/1280px-Old_State_House%2C_Hartford%2C_Connecticut_2011.jpg",
+            "description": "The Old State House (completed 1796) in Hartford, Connecticut is generally believed to have been designed by noted American architect Charles Bulfinch as his first public building.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Old State House (Hartford, Connecticut)",
+                "wikipedia": "en:Old State House (Hartford, Connecticut)",
+                "tourism": "attraction"
+            }
+        }
+    ]
+}

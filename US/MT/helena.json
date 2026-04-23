@@ -1,0 +1,393 @@
+{
+    "city_metadata": {
+        "city_name": "Helena",
+        "state_code": "MT",
+        "state_full": "Montana",
+        "city_summary": "Helena (; ) is the capital city of the U.S. state of Montana and the county seat of Lewis and Clark County.\nHelena was founded as a gold camp during the Montana gold rush on July 14, 1864, following the discovery of gold at Last Chance Gulch by the Four Georgians. It was formally established on October 30, 1864.",
+        "city_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Montana_State_Capitol_by_T._Elizabeth.jpg/1280px-Montana_State_Capitol_by_T._Elizabeth.jpg",
+        "city_lat": 46.59638889,
+        "city_lon": -112.02638889,
+        "source": "wikipedia_verified_engine"
+    },
+    "attractions": [
+        {
+            "type": "node",
+            "id": 3603246593,
+            "lat": 46.585362,
+            "lon": -112.043716,
+            "tags": {
+                "name": "Reeder's Alley Interpretive And Convention Center",
+                "tourism": "museum",
+                "website": "https://reedersalley.com/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/USS_Helena_%28CA-75%29_underway_c1961.jpg/1280px-USS_Helena_%28CA-75%29_underway_c1961.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 13341067793,
+            "lat": 46.5872531,
+            "lon": -112.0159746,
+            "tags": {
+                "name": "Montana Heritage Center",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/37/Helena_-_Montana_Historical_Society.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 96716536,
+            "lat": 46.5863506,
+            "lon": -112.0158403,
+            "tags": {
+                "addr:state": "MT",
+                "alt_name": "Montana Historical Society Museum",
+                "building": "yes",
+                "check_date:opening_hours": "2023-03-03",
+                "ele": "1254",
+                "fee": "yes",
+                "gnis:feature_id": "1789577",
+                "name": "Montana's Museum",
+                "opening_hours": "Mo-Sa 09:00-17:00; PH off",
+                "source": "USGS Geonames",
+                "tourism": "museum",
+                "website": "https://mhs.mt.gov/Museum/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/37/Helena_-_Montana_Historical_Society.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 96728181,
+            "lat": 46.5975871,
+            "lon": -112.036735,
+            "tags": {
+                "addr:city": "Helena",
+                "addr:housenumber": "989",
+                "addr:postcode": "59601",
+                "addr:state": "MT",
+                "addr:street": "Carousel Way",
+                "attraction": "carousel",
+                "building": "yes",
+                "charge": "3 USD",
+                "name": "Great Northern Carousel",
+                "opening_hours": "We-Fr 11:00-18:00, Sa 10:00-19:00, Su 11:00-17:00",
+                "phone": "+1-406-457-5353",
+                "tourism": "attraction",
+                "website": "https://www.gncarousel.com/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Algeria_Shrine_Temple_%282012%29_-_Lewis_and_Clark_County%2C_Montana.png/1280px-Algeria_Shrine_Temple_%282012%29_-_Lewis_and_Clark_County%2C_Montana.png",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 96772227,
+            "lat": 46.5908685,
+            "lon": -112.0365118,
+            "tags": {
+                "addr:city": "Helena",
+                "addr:housenumber": "12",
+                "addr:postcode": "59601",
+                "addr:state": "MT",
+                "addr:street": "East Lawrence Street",
+                "building": "yes",
+                "fee": "no",
+                "name": "Holter Museum of Art",
+                "opening_hours": "Tu-Sa 09:45-17:30; Su 12:00-16:00",
+                "phone": "+1-406-442-6400",
+                "tourism": "museum",
+                "website": "https://holtermuseum.org/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/80/Atlas_Block.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 258342216,
+            "lat": 46.5976156,
+            "lon": -112.0362156,
+            "tags": {
+                "addr:city": "Helena",
+                "addr:housenumber": "995",
+                "addr:postcode": "59601",
+                "addr:state": "MT",
+                "addr:street": "Carousel Way",
+                "building": "commercial",
+                "fee": "yes",
+                "name": "Exploration Works",
+                "opening_hours": "Tu-Su 10:00-17:00",
+                "phone": "+1-406-457-1800",
+                "tourism": "museum",
+                "website": "https://www.explorationworks.org/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Algeria_Shrine_Temple_%282012%29_-_Lewis_and_Clark_County%2C_Montana.png/1280px-Algeria_Shrine_Temple_%282012%29_-_Lewis_and_Clark_County%2C_Montana.png",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 758627352,
+            "lat": 46.5849241,
+            "lon": -112.0432332,
+            "tags": {
+                "building": "yes",
+                "name": "Caretaker's Cabin",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/USS_Helena_%28CA-75%29_underway_c1961.jpg/1280px-USS_Helena_%28CA-75%29_underway_c1961.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 6858125,
+            "lat": 46.58972222,
+            "lon": -112.05861111,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/04/20030823MountHelena.jpg",
+            "description": "Mount Helena City Park is a 620-acre (2.5 km2) park in Helena, Montana.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Mount Helena City Park",
+                "wikipedia": "en:Mount Helena City Park",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 39648641,
+            "lat": 38.3065802,
+            "lon": -122.1710817,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Twin_Sisters_from_Suisun_Valley.jpg/1280px-Twin_Sisters_from_Suisun_Valley.jpg",
+            "description": "The Howell Mountains, which are also known as the Mt.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Howell Mountains",
+                "wikipedia": "en:Howell Mountains",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 19978,
+            "lat": 47,
+            "lon": -110,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Flag_of_Montana.svg/1280px-Flag_of_Montana.svg.png",
+            "description": "Montana (  mon-TAN-ə) is a landlocked state in the Mountain West subregion of the Western United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Montana",
+                "wikipedia": "en:Montana",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 95448,
+            "lat": 47.31,
+            "lon": -111.35,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Cascade_County_Courthouse_July_2020.jpg/1280px-Cascade_County_Courthouse_July_2020.jpg",
+            "description": "Cascade County (cascade means waterfall in French) is a county located in the U.S. state of Montana.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Cascade County, Montana",
+                "wikipedia": "en:Cascade County, Montana",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 2842506,
+            "lat": 48.20833333,
+            "lon": -109.5175,
+            "image_url": "https://upload.wikimedia.org/wikipedia/en/1/18/Little_Belts.PNG",
+            "description": "The Bears Paw Mountains (Bear Paw Mountains, Bear's Paw Mountains or Bearpaw  Mountains) are an insular-montane island range in the Central Montana Alkalic Province in north-central Montana, United States, located approximately 10 miles south of Havre, Montana.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Bears Paw Mountains",
+                "wikipedia": "en:Bears Paw Mountains",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 76241,
+            "lat": 41.40919603,
+            "lon": -122.19488836,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/MtShasta_aerial.JPG/1280px-MtShasta_aerial.JPG",
+            "description": "Mount Shasta ( SHASS-tə; Shasta: Waka-nunee-Tuki-wuki; Karuk: Úytaahkoo) is a potentially active stratovolcano at the southern end of the Cascade Range in Siskiyou County, California.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Mount Shasta",
+                "wikipedia": "en:Mount Shasta",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 107587,
+            "lat": 38.7525,
+            "lon": -122.615,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Middletown%2C_California_-_September_2023_-_Sarah_Stierch.jpg/1280px-Middletown%2C_California_-_September_2023_-_Sarah_Stierch.jpg",
+            "description": "Middletown is a census-designated place (CDP) in Lake County, California, United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Middletown, California",
+                "wikipedia": "en:Middletown, California",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 9349132,
+            "lat": 48.27861111,
+            "lon": -113.61166667,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Izaak_Walton_Inn.jpg",
+            "description": "The Izaak Walton Inn is a historic inn in Essex, Montana, United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Izaak Walton Inn",
+                "wikipedia": "en:Izaak Walton Inn",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 123354,
+            "lat": 47.49166667,
+            "lon": -111.28916667,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Central_Ave_and_Civic_Center_2.JPG/1280px-Central_Ave_and_Civic_Center_2.JPG",
+            "description": "Great Falls is the third most populous city in the U.S. state of Montana and the county seat of Cascade County.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Great Falls, Montana",
+                "wikipedia": "en:Great Falls, Montana",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 42179,
+            "lat": 27.98833333,
+            "lon": 86.92527778,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Mt._Everest_from_Gokyo_Ri_November_5%2C_2012.jpg/1280px-Mt._Everest_from_Gokyo_Ri_November_5%2C_2012.jpg",
+            "description": "Mount Everest (known locally as Sagarmāthā in Nepal and Qomolangma in Tibet) is Earth's highest mountain above sea level.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Mount Everest",
+                "wikipedia": "en:Mount Everest",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 27709590,
+            "lat": 46.99166667,
+            "lon": -112.00583333,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/2e/HolterDam1918.jpg",
+            "description": "Holter Dam is a hydroelectric straight gravity dam on the Missouri River about 45 miles (72 km) northeast of Helena, Montana, in the United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Holter Dam",
+                "wikipedia": "en:Holter Dam",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 7734108,
+            "lat": 38.4012015,
+            "lon": -122.33017772,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/26/TTB_Map_Napa_Valley_AVA.png",
+            "description": "Napa Valley is an American Viticultural Area (AVA) in Napa County, California.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Napa Valley AVA",
+                "wikipedia": "en:Napa Valley AVA",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 123412,
+            "lat": 48.54277778,
+            "lon": -109.68027778,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Hill_County_Montana_Incorporated_and_Unincorporated_areas_Havre_Highlighted.svg/1280px-Hill_County_Montana_Incorporated_and_Unincorporated_areas_Havre_Highlighted.svg.png",
+            "description": "Havre ( HAV-ər) is the county seat of and the largest city in Hill County, Montana, United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Havre, Montana",
+                "wikipedia": "en:Havre, Montana",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 123563,
+            "lat": 45.66166667,
+            "lon": -110.58027778,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Livingston%2C_Montana_aerial_view_of_town.jpg/1280px-Livingston%2C_Montana_aerial_view_of_town.jpg",
+            "description": "Livingston is a city in and the county seat of Park County, Montana, United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Livingston, Montana",
+                "wikipedia": "en:Livingston, Montana",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 320118,
+            "lat": 33.80594444,
+            "lon": -84.14542222,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Stone_Mountain_Aerial_%2843835979545%29.jpg/1280px-Stone_Mountain_Aerial_%2843835979545%29.jpg",
+            "description": "Stone Mountain is a quartz monzonite dome monadnock and the site of Stone Mountain Park, 15 miles (24 km) east of Atlanta, Georgia.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Stone Mountain",
+                "wikipedia": "en:Stone Mountain",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 78462979,
+            "lat": 38.55957091,
+            "lon": -122.47344224,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/90/TTB_Map_Crystal_Springs_of_Napa_Valley.png",
+            "description": "Crystal Springs of Napa Valley is an  American Viticultural Area (AVA) located in Napa County, California within the boundaries of the prestigious Napa Valley AVA. The 4,117-acre (6.4 sq mi) wine appellation was established as the nation's 275th, the state's 154th and the county's nineteenth AVA on November 16, 2024 by the Alcohol and Tobacco Tax and Trade Bureau (TTB), Treasury after reviewing the petition submitted by Steven Burgess, president of Burgess Cellars, Inc., on behalf of local vineyard owners and winemakers proposing the viticultural area named \"Crystal Springs of Napa Valley.\"\nCrystal Springs is the seventeenth viticultural area established in the 120,000-acre (188 sq mi), 40-year-old, world-renowned Napa Valley that lies within the expansive multi-county North Coast appellation.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Crystal Springs of Napa Valley AVA",
+                "wikipedia": "en:Crystal Springs of Napa Valley AVA",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 257453,
+            "lat": 45.90222222,
+            "lon": -112.65666667,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/31/Butte_uptown.jpg",
+            "description": "Butte ( BYEWT) is a consolidated city-county in and the county seat of Silver Bow County, Montana, United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Butte, Montana",
+                "wikipedia": "en:Butte, Montana",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 3460,
+            "lat": 32.32,
+            "lon": -64.74,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Flag_of_Bermuda.svg/1280px-Flag_of_Bermuda.svg.png",
+            "description": "Bermuda is a British Overseas Territory in the North Atlantic Ocean.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Bermuda",
+                "wikipedia": "en:Bermuda",
+                "tourism": "attraction"
+            }
+        }
+    ]
+}

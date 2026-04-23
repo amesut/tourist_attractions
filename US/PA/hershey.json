@@ -1,0 +1,1046 @@
+{
+    "city_metadata": {
+        "city_name": "Hershey",
+        "state_code": "PA",
+        "state_full": "Pennsylvania",
+        "city_summary": "Hershey is an unincorporated community and census-designated place (CDP) in Derry Township, Dauphin County, Pennsylvania, United States. It is home to the Hershey Company, which was founded by candy magnate Milton S. Hershey, and Hersheypark, an amusement park.\nThe community is located 14 miles (23 km) east of Harrisburg and is part of the Harrisburg metropolitan area.",
+        "city_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Hershey%2C_Pennsylvania_%28cropped%29.JPG/1280px-Hershey%2C_Pennsylvania_%28cropped%29.JPG",
+        "city_lat": 40.27833333,
+        "city_lon": -76.65111111,
+        "source": "wikipedia_verified_engine"
+    },
+    "attractions": [
+        {
+            "type": "node",
+            "id": 529747287,
+            "lat": 40.2872194,
+            "lon": -76.6466142,
+            "tags": {
+                "name": "The Old Hershey Chocolate Factory",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Hershey_PA_Community_Center.jpg/1280px-Hershey_PA_Community_Center.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 11044014059,
+            "lat": 40.2865755,
+            "lon": -76.6552841,
+            "tags": {
+                "attraction": "roller_coaster",
+                "description": "200 ft. tall steel roller coaster that opened at the park in 2012 and is consistently rated to be a fan favorite.",
+                "name": "Skyrush",
+                "tourism": "attraction",
+                "wikidata": "Q2293407",
+                "wikipedia": "en:Skyrush"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/90/Skyrush_logo_and_lift_hill_2024.png",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 12143467455,
+            "lat": 40.2909392,
+            "lon": -76.6550439,
+            "tags": {
+                "attraction": "amusement_ride",
+                "name": "Red Baron",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Fahrenheit_%28Drop_3%29.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 12583439141,
+            "lat": 40.2868834,
+            "lon": -76.6530376,
+            "tags": {
+                "attraction": "roller_coaster",
+                "description": "1998 Bolliger & Mabillard inverted roller coaster",
+                "name": "Great Bear",
+                "operator": "Hersheypark",
+                "tourism": "attraction",
+                "wikidata": "Q1294688",
+                "wikipedia": "en:Great Bear (roller coaster)"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Great_Bear_%28Hersheypark%29_05.JPG/1280px-Great_Bear_%28Hersheypark%29_05.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 12988907630,
+            "lat": 40.2937403,
+            "lon": -76.6538091,
+            "tags": {
+                "attraction": "kiddie_ride",
+                "description": "Mini, eletric train ride that was relocated here durning the 2014-2015 season(s) and took the place of Lightning Racers old queue line building.",
+                "name": "Tiny Tracks",
+                "railway": "miniature",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Image-Lightning_Racer_at_Hersheypark_station.jpg/1280px-Image-Lightning_Racer_at_Hersheypark_station.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 12994423868,
+            "lat": 40.2885982,
+            "lon": -76.6535479,
+            "tags": {
+                "attraction": "haunted_house",
+                "description": "Hersheypark Dark Nights Haunted House",
+                "name": "Haunted Coal Mine",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 12994423869,
+            "lat": 40.2880294,
+            "lon": -76.6547374,
+            "tags": {
+                "attraction": "bumper_car",
+                "name": "Fender Bender",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 12994453317,
+            "lat": 40.2863424,
+            "lon": -76.6586541,
+            "tags": {
+                "attraction": "roller_coaster",
+                "name": "Candymonium",
+                "operator": "Hersheypark",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/CandymoniumView.jpg/1280px-CandymoniumView.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 12994453354,
+            "lat": 40.2873266,
+            "lon": -76.6583222,
+            "tags": {
+                "attraction": "carousel",
+                "name": "Carrousel",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 12994494579,
+            "lat": 40.2868698,
+            "lon": -76.6536109,
+            "tags": {
+                "attraction": "log_flume",
+                "name": "Coal Cracker",
+                "tourism": "attraction",
+                "wikidata": "Q5137712"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Coal_Cracker_1.jpg/1280px-Coal_Cracker_1.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 12994619720,
+            "lat": 40.2872754,
+            "lon": -76.6549956,
+            "tags": {
+                "attraction": "roller_coaster",
+                "name": "Comet",
+                "roller_coaster:type": "wooden_coaster",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Comet_Train_up_lift_hill_2024.png",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 12994619725,
+            "lat": 40.2871762,
+            "lon": -76.6539663,
+            "tags": {
+                "attraction": "amusement_ride",
+                "name": "Twizzlers Twisted Gravity",
+                "operator": "Hersheypark",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Coal_Cracker_1.jpg/1280px-Coal_Cracker_1.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 12994619746,
+            "lat": 40.2868606,
+            "lon": -76.6548434,
+            "tags": {
+                "attraction": "amusement_ride",
+                "name": "Wave Swinger",
+                "operator": "Hersheypark",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/90/Skyrush_logo_and_lift_hill_2024.png",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 12994619752,
+            "lat": 40.2861634,
+            "lon": -76.6547126,
+            "tags": {
+                "attraction": "roller_coaster",
+                "name": "sooperdooperLooper",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/SooperDooperLooper%2C_Hersheypark%2C_2013-08-10.jpg/1280px-SooperDooperLooper%2C_Hersheypark%2C_2013-08-10.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 12994796921,
+            "lat": 40.2884248,
+            "lon": -76.6548726,
+            "tags": {
+                "attraction": "roller_coaster",
+                "name": "Cocoa Cruiser",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 12994796956,
+            "lat": 40.2899592,
+            "lon": -76.6538416,
+            "tags": {
+                "attraction": "roller_coaster",
+                "name": "Jolly Rancher Remix",
+                "tourism": "attraction",
+                "wikidata": "Q7508554"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Sidewinder_%28Lifts%29.JPG/1280px-Sidewinder_%28Lifts%29.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 12994796957,
+            "lat": 40.2896477,
+            "lon": -76.6551706,
+            "tags": {
+                "attraction": "amusement_ride",
+                "name": "Mini Scrambler",
+                "operator": "Hersheypark",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Sidewinder_%28Lifts%29.JPG/1280px-Sidewinder_%28Lifts%29.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 12994796966,
+            "lat": 40.2897741,
+            "lon": -76.6534265,
+            "tags": {
+                "attraction": "roller_coaster",
+                "name": "Storm Runner",
+                "tourism": "attraction",
+                "wikidata": "Q1500945"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Storm_Runner_%28Tower%29.JPG/1280px-Storm_Runner_%28Tower%29.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 12994796990,
+            "lat": 40.2889833,
+            "lon": -76.6531516,
+            "tags": {
+                "attraction": "roller_coaster",
+                "name": "Trailblazer",
+                "roller_coaster": "station",
+                "tourism": "attraction",
+                "wikidata": "Q7832773"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/af/Trailblazer_sign.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 12994951046,
+            "lat": 40.2870677,
+            "lon": -76.6522584,
+            "tags": {
+                "attraction": "amusement_ride",
+                "name": "Twin Turnpike - Speedway",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Great_Bear_%28Hersheypark%29_05.JPG/1280px-Great_Bear_%28Hersheypark%29_05.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 12994951166,
+            "lat": 40.2892802,
+            "lon": -76.6554677,
+            "tags": {
+                "attraction": "amusement_ride",
+                "name": "Dry Gulch Railroad",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Sidewinder_%28Lifts%29.JPG/1280px-Sidewinder_%28Lifts%29.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 12995085649,
+            "lat": 40.291262,
+            "lon": -76.6555072,
+            "tags": {
+                "attraction": "haunted_house",
+                "description": "Hersheypark Dark Nights Haunted House",
+                "name": "Estate of Evil",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Fahrenheit_%28Drop_3%29.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 12995090390,
+            "lat": 40.2935868,
+            "lon": -76.6535434,
+            "tags": {
+                "attraction": "roller_coaster",
+                "name": "Lightning Racer",
+                "roller_coaster": "station",
+                "roller_coaster:type": "wooden_coaster",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Image-Lightning_Racer_at_Hersheypark_station.jpg/1280px-Image-Lightning_Racer_at_Hersheypark_station.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 12995090391,
+            "lat": 40.2938255,
+            "lon": -76.6544317,
+            "tags": {
+                "attraction": "haunted_house",
+                "description": "Hersheypark Dark Nights Haunted House",
+                "name": "Auntie Mortem's Abattoir",
+                "operator": "Hersheypark",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Laff_Trakk_001.jpg/1280px-Laff_Trakk_001.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 12995090392,
+            "lat": 40.2938754,
+            "lon": -76.6540333,
+            "tags": {
+                "attraction": "amusement_ride",
+                "name": "Music Express",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Laff_Trakk_001.jpg/1280px-Laff_Trakk_001.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 12995090393,
+            "lat": 40.2934991,
+            "lon": -76.6541458,
+            "tags": {
+                "attraction": "kiddie_ride",
+                "name": "Granny Bugs",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Laff_Trakk_001.jpg/1280px-Laff_Trakk_001.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 12995090394,
+            "lat": 40.2934499,
+            "lon": -76.6543306,
+            "tags": {
+                "attraction": "kiddie_ride",
+                "name": "Pony Parade",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Laff_Trakk_001.jpg/1280px-Laff_Trakk_001.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 12995090395,
+            "lat": 40.293398,
+            "lon": -76.6552371,
+            "tags": {
+                "attraction": "dark_ride",
+                "name": "Laff Trakk",
+                "operator": "Hersheypark",
+                "tourism": "attraction",
+                "wikidata": "Q20487039"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Laff_Trakk_001.jpg/1280px-Laff_Trakk_001.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 12995090396,
+            "lat": 40.2927158,
+            "lon": -76.6548597,
+            "tags": {
+                "attraction": "roller_coaster",
+                "name": "Wild Mouse",
+                "tourism": "attraction",
+                "wikidata": "Q8000725"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Wild_Mouse_at_Hersheypark.jpg/1280px-Wild_Mouse_at_Hersheypark.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 12995090397,
+            "lat": 40.2924638,
+            "lon": -76.6555691,
+            "tags": {
+                "attraction": "roller_coaster",
+                "name": "Wildcat's Revenge",
+                "roller_coaster:type": "wooden_coaster",
+                "tourism": "attraction",
+                "wikidata": "Q2570460"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/88/Wildcat%E2%80%99s_Revenge_train_going_down_its_first_drop.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 12995090400,
+            "lat": 40.2913671,
+            "lon": -76.654513,
+            "tags": {
+                "attraction": "log_flume",
+                "name": "Tidal Force",
+                "operator": "Hersheypark",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Fahrenheit_%28Drop_3%29.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 12995093630,
+            "lat": 40.2902262,
+            "lon": -76.6552169,
+            "tags": {
+                "attraction": "roller_coaster",
+                "name": "Fahrenheit",
+                "operator": "Hersheypark",
+                "tourism": "attraction",
+                "wikidata": "Q202493"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Fahrenheit_%28Drop_3%29.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 12995093631,
+            "lat": 40.2912323,
+            "lon": -76.652872,
+            "tags": {
+                "attraction": "water_slide",
+                "name": "Breakers Edge",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/12/HP-Roller_Soaker.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 12995177327,
+            "lat": 40.293361,
+            "lon": -76.655573,
+            "tags": {
+                "attraction": "haunted_house",
+                "name": "Twisted Carnevil",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Laff_Trakk_001.jpg/1280px-Laff_Trakk_001.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 12995177328,
+            "lat": 40.2933559,
+            "lon": -76.6558573,
+            "tags": {
+                "attraction": "haunted_house",
+                "name": "Kill 'N Fill Garage",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Laff_Trakk_001.jpg/1280px-Laff_Trakk_001.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 12995945900,
+            "lat": 40.2877961,
+            "lon": -76.6499282,
+            "tags": {
+                "attraction": "animal",
+                "name": "River Otter",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Entrance_to_Hersheypark_ZooAmerica.jpg/1280px-Entrance_to_Hersheypark_ZooAmerica.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 12995969601,
+            "lat": 40.2876376,
+            "lon": -76.6500436,
+            "tags": {
+                "attraction": "animal",
+                "name": "Bobcat",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Entrance_to_Hersheypark_ZooAmerica.jpg/1280px-Entrance_to_Hersheypark_ZooAmerica.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 12995969602,
+            "lat": 40.2879035,
+            "lon": -76.6518836,
+            "tags": {
+                "attraction": "animal",
+                "name": "Southern Painted Turtle",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Entrance_to_Hersheypark_ZooAmerica.jpg/1280px-Entrance_to_Hersheypark_ZooAmerica.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 12995969603,
+            "lat": 40.2877573,
+            "lon": -76.6513686,
+            "tags": {
+                "attraction": "animal",
+                "name": "Canada Linx",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Entrance_to_Hersheypark_ZooAmerica.jpg/1280px-Entrance_to_Hersheypark_ZooAmerica.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 12995969604,
+            "lat": 40.2879076,
+            "lon": -76.6513525,
+            "tags": {
+                "attraction": "animal",
+                "name": "Porcupine",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Entrance_to_Hersheypark_ZooAmerica.jpg/1280px-Entrance_to_Hersheypark_ZooAmerica.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 12995969623,
+            "lat": 40.2880018,
+            "lon": -76.6507624,
+            "tags": {
+                "attraction": "animal",
+                "name": "Bald Eagle",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Entrance_to_Hersheypark_ZooAmerica.jpg/1280px-Entrance_to_Hersheypark_ZooAmerica.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 12995969634,
+            "lat": 40.2882278,
+            "lon": -76.6503547,
+            "tags": {
+                "attraction": "animal",
+                "name": "White-tailed Deer",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Entrance_to_Hersheypark_ZooAmerica.jpg/1280px-Entrance_to_Hersheypark_ZooAmerica.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 12995969676,
+            "lat": 40.2889644,
+            "lon": -76.6497204,
+            "tags": {
+                "attraction": "animal",
+                "name": "Black-tailed Prairie Dog",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Entrance_to_Hersheypark_ZooAmerica.jpg/1280px-Entrance_to_Hersheypark_ZooAmerica.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 12995969694,
+            "lat": 40.2893096,
+            "lon": -76.6502146,
+            "tags": {
+                "attraction": "animal",
+                "name": "American Elk",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Entrance_to_Hersheypark_ZooAmerica.jpg/1280px-Entrance_to_Hersheypark_ZooAmerica.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 12995969699,
+            "lat": 40.2890309,
+            "lon": -76.6503252,
+            "tags": {
+                "attraction": "animal",
+                "name": "Mountain Lion",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Entrance_to_Hersheypark_ZooAmerica.jpg/1280px-Entrance_to_Hersheypark_ZooAmerica.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 12995969716,
+            "lat": 40.2886074,
+            "lon": -76.6503212,
+            "tags": {
+                "attraction": "animal",
+                "name": "Pronghorn",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Entrance_to_Hersheypark_ZooAmerica.jpg/1280px-Entrance_to_Hersheypark_ZooAmerica.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 12995969717,
+            "lat": 40.2885757,
+            "lon": -76.6507249,
+            "tags": {
+                "attraction": "animal",
+                "name": "Snowy Owl",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Entrance_to_Hersheypark_ZooAmerica.jpg/1280px-Entrance_to_Hersheypark_ZooAmerica.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 12995969743,
+            "lat": 40.288411,
+            "lon": -76.6511031,
+            "tags": {
+                "attraction": "animal",
+                "name": "Peregrine Falcon",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Entrance_to_Hersheypark_ZooAmerica.jpg/1280px-Entrance_to_Hersheypark_ZooAmerica.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 12995969762,
+            "lat": 40.2882401,
+            "lon": -76.6516837,
+            "tags": {
+                "attraction": "animal",
+                "name": "Gray Wolf",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Entrance_to_Hersheypark_ZooAmerica.jpg/1280px-Entrance_to_Hersheypark_ZooAmerica.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 12996010083,
+            "lat": 40.2898135,
+            "lon": -76.6541621,
+            "tags": {
+                "attraction": "amusement_ride",
+                "name": "Mix'd",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Sidewinder_%28Lifts%29.JPG/1280px-Sidewinder_%28Lifts%29.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 12996010084,
+            "lat": 40.2893818,
+            "lon": -76.6553356,
+            "tags": {
+                "attraction": "amusement_ride",
+                "name": "Frontier Flyers",
+                "operator": "Hersheypark",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Sidewinder_%28Lifts%29.JPG/1280px-Sidewinder_%28Lifts%29.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 12996015547,
+            "lat": 40.287747,
+            "lon": -76.6558653,
+            "tags": {
+                "attraction": "amusement_ride",
+                "name": "Reese's Cupfusion",
+                "operator": "Hersheypark",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "way",
+            "id": 40603364,
+            "lat": 40.2880701,
+            "lon": -76.6610129,
+            "tags": {
+                "addr:city": "Hershey",
+                "addr:housenumber": "101",
+                "addr:postcode": "17033",
+                "addr:state": "PA",
+                "addr:street": "Chocolate World Way",
+                "building": "yes",
+                "craft": "confectionery",
+                "ele": "116",
+                "gnis:feature_id": "1196653",
+                "name": "Hershey's Chocolate World",
+                "phone": "+1-717-534-4900",
+                "tourism": "attraction",
+                "website": "https://www.chocolateworld.com",
+                "wikidata": "Q12410253"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Chocolate_World.jpg/1280px-Chocolate_World.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 122348744,
+            "lat": 40.2882054,
+            "lon": -76.6507998,
+            "tags": {
+                "ele": "124",
+                "gnis:feature_id": "1196652",
+                "name": "ZooAmerica",
+                "operator": "Hershey",
+                "tourism": "zoo",
+                "wheelchair": "yes"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Entrance_to_Hersheypark_ZooAmerica.jpg/1280px-Entrance_to_Hersheypark_ZooAmerica.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 147288344,
+            "lat": 40.2889659,
+            "lon": -76.6553303,
+            "tags": {
+                "attraction": "pirate_ship",
+                "name": "Pirate",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/af/Trailblazer_sign.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 147288351,
+            "lat": 40.2892542,
+            "lon": -76.6559897,
+            "tags": {
+                "attraction": "amusement_ride",
+                "name": "The Claw",
+                "operator": "Hersheypark",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "way",
+            "id": 234462983,
+            "lat": 40.2852993,
+            "lon": -76.6521531,
+            "tags": {
+                "addr:city": "Hershey",
+                "addr:housenumber": "63",
+                "addr:postcode": "17033",
+                "addr:state": "PA",
+                "addr:street": "West Chocolate Avenue",
+                "building": "yes",
+                "check_date": "2024-03-16",
+                "fee": "yes",
+                "name": "The Hershey Story",
+                "opening_hours": "Mo-Su 09:00-17:00",
+                "operator": "Hershey Company",
+                "phone": "+1 717-534-8939",
+                "tourism": "museum",
+                "website": "https://hersheystory.org"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/SooperDooperLooper%2C_Hersheypark%2C_2013-08-10.jpg/1280px-SooperDooperLooper%2C_Hersheypark%2C_2013-08-10.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 462450798,
+            "lat": 40.2977361,
+            "lon": -76.6559654,
+            "tags": {
+                "building": "yes",
+                "drinking_water": "yes",
+                "museum": "children",
+                "name": "Education Center",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/22/Hershey_gardens_logo.png",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 531990326,
+            "lat": 40.2881414,
+            "lon": -76.6535327,
+            "tags": {
+                "addr:city": "Hershey",
+                "addr:housenumber": "100",
+                "addr:postcode": "17033",
+                "addr:state": "PA",
+                "addr:street": "Hersheypark Drive",
+                "attraction": "amusement_ride",
+                "description": "A set of 3 drop towers with varying heights and motions that was added in 2017. Took the place of 3 kidde attractions and one thrill ride with the kidde attractions being relocated throughout the park.",
+                "name": "Hershey Triple Towers",
+                "operator": "Hersheypark",
+                "tourism": "attraction",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "way",
+            "id": 680792367,
+            "lat": 40.3040674,
+            "lon": -76.641517,
+            "tags": {
+                "building": "yes",
+                "name": "Pennsylvania State Police Historical, Educational, & Memorial Center",
+                "tourism": "museum"
+            }
+        },
+        {
+            "type": "way",
+            "id": 765730079,
+            "lat": 40.2748533,
+            "lon": -76.6267325,
+            "tags": {
+                "building": "yes",
+                "museum": "history",
+                "name": "Kinderhaus",
+                "tourism": "museum"
+            }
+        },
+        {
+            "type": "way",
+            "id": 1310661200,
+            "lat": 40.2877424,
+            "lon": -76.6550529,
+            "tags": {
+                "attraction": "amusement_ride",
+                "name": "Minty Bees",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/90/Skyrush_logo_and_lift_hill_2024.png",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 1310661206,
+            "lat": 40.2865434,
+            "lon": -76.6559305,
+            "tags": {
+                "attraction": "amusement_ride",
+                "name": "Traffic Jam",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Comet_Train_up_lift_hill_2024.png",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 1310661207,
+            "lat": 40.2865964,
+            "lon": -76.6557981,
+            "tags": {
+                "attraction": "amusement_ride",
+                "name": "Helicopters",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Comet_Train_up_lift_hill_2024.png",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 1310661208,
+            "lat": 40.2867071,
+            "lon": -76.6557887,
+            "tags": {
+                "attraction": "amusement_ride",
+                "name": "Space Age",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Comet_Train_up_lift_hill_2024.png",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 1310661209,
+            "lat": 40.2868297,
+            "lon": -76.6557116,
+            "tags": {
+                "attraction": "amusement_ride",
+                "name": "Scrambler",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/90/Skyrush_logo_and_lift_hill_2024.png",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 1310661214,
+            "lat": 40.286569,
+            "lon": -76.656149,
+            "tags": {
+                "attraction": "amusement_ride",
+                "name": "Tilt-A-Whirl",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Comet_Train_up_lift_hill_2024.png",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 1310661215,
+            "lat": 40.2867521,
+            "lon": -76.6565486,
+            "tags": {
+                "attraction": "amusement_ride",
+                "name": "Mini Himalaya",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Comet_Train_up_lift_hill_2024.png",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 1310661216,
+            "lat": 40.2873727,
+            "lon": -76.656334,
+            "tags": {
+                "attraction": "amusement_ride",
+                "name": "Starship America",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Mini-Comet_circa_1976-78.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 1310661217,
+            "lat": 40.2872161,
+            "lon": -76.6565523,
+            "tags": {
+                "attraction": "amusement_ride",
+                "name": "Balloon Flite",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Mini-Comet_circa_1976-78.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 1311925550,
+            "lat": 40.2906937,
+            "lon": -76.6538564,
+            "tags": {
+                "attraction": "amusement_ride",
+                "layer": "-1",
+                "name": "Intercoastal Waterway",
+                "tourism": "attraction",
+                "waterway": "stream"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Sidewinder_%28Lifts%29.JPG/1280px-Sidewinder_%28Lifts%29.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 1409187785,
+            "lat": 40.287667,
+            "lon": -76.6545519,
+            "tags": {
+                "attraction": "amusement_ride",
+                "name": "Teacups",
+                "operator": "Hersheypark",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "way",
+            "id": 1409187786,
+            "lat": 40.2875638,
+            "lon": -76.6546822,
+            "tags": {
+                "attraction": "amusement_ride",
+                "name": "Sweet Swing",
+                "operator": "Hersheypark",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/90/Skyrush_logo_and_lift_hill_2024.png",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 1409201921,
+            "lat": 40.2899738,
+            "lon": -76.6549753,
+            "tags": {
+                "attraction": "amusement_ride",
+                "name": "The Howler",
+                "operator": "Hersheypark",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Sidewinder_%28Lifts%29.JPG/1280px-Sidewinder_%28Lifts%29.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 1409377189,
+            "lat": 40.293211,
+            "lon": -76.654094,
+            "tags": {
+                "attraction": "amusement_ride",
+                "name": "Ferris Wheel",
+                "operator": "Hersheypark",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Image-Lightning_Racer_at_Hersheypark_station.jpg/1280px-Image-Lightning_Racer_at_Hersheypark_station.jpg",
+            "image_source": "wikipedia_verified"
+        }
+    ]
+}

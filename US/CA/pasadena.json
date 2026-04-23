@@ -1,0 +1,460 @@
+{
+    "city_metadata": {
+        "city_name": "Pasadena",
+        "state_code": "CA",
+        "state_full": "California",
+        "city_summary": "Pasadena (  PAS-ə-DEE-nə) is a city in Los Angeles County, California, United States, 10 miles (16 km) northeast of downtown Los Angeles. It is the most populous city and the primary cultural center of the San Gabriel Valley. Old Pasadena is the city's original commercial district.",
+        "city_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Pasadena_City_Hall_David_Wakely_%28cropped%29.jpg/1280px-Pasadena_City_Hall_David_Wakely_%28cropped%29.jpg",
+        "city_lat": 34.1475,
+        "city_lon": -118.1439,
+        "source": "wikipedia_verified_engine"
+    },
+    "attractions": [
+        {
+            "type": "node",
+            "id": 368164894,
+            "lat": 29.7105779,
+            "lon": -95.2099005,
+            "tags": {
+                "addr:city": "Pasadena",
+                "addr:housenumber": "204",
+                "addr:state": "TX",
+                "addr:street": "Main Street",
+                "ele": "6",
+                "gnis:feature_id": "2014128",
+                "name": "Pasadena Historical Museum",
+                "source": "USGS Geonames",
+                "tourism": "museum",
+                "website": "https://www.pasadenatx.gov/168/Museum"
+            }
+        },
+        {
+            "type": "node",
+            "id": 368165758,
+            "lat": 29.5686584,
+            "lon": -95.0689297,
+            "tags": {
+                "addr:state": "TX",
+                "ele": "6",
+                "gnis:feature_id": "2470853",
+                "name": "Bay Area Museum",
+                "source": "USGS Geonames",
+                "tourism": "museum",
+                "website": "https://museumbayarea.org/",
+                "wikidata": "Q16950729"
+            }
+        },
+        {
+            "type": "node",
+            "id": 368174101,
+            "lat": 34.1493242,
+            "lon": -118.160952,
+            "tags": {
+                "addr:city": "Pasadena",
+                "addr:housenumber": "470",
+                "addr:postcode": "91103",
+                "addr:state": "CA",
+                "addr:street": "West Walnut Street",
+                "check_date": "2026-01-23",
+                "contact:facebook": "https://www.facebook.com/Pasadena-Museum-of-History/10668281484/",
+                "contact:instagram": "https://www.instagram.com/pasadenamuseumofhistory",
+                "contact:yelp": "https://www.yelp.com/biz/pasadena-museum-of-history-pasadena",
+                "contact:youtube": "http://www.youtube.com/user/PasadenaHistory",
+                "ele": "269",
+                "email": "info@pasadenahistory.org",
+                "fee": "yes",
+                "gnis:feature_id": "1732916",
+                "museum": "history",
+                "name": "Pasadena Museum of History",
+                "phone": "+1-626-577-1660",
+                "source": "USGS Geonames",
+                "tourism": "museum",
+                "website": "https://pasadenahistory.org/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/9e/The_Finnish_Folk_Art_Museum%2C_Pasadena%2C_California.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 368174112,
+            "lat": 34.1467474,
+            "lon": -118.1410383,
+            "tags": {
+                "addr:city": "Pasadena",
+                "addr:housenumber": "46",
+                "addr:postcode": "91101",
+                "addr:state": "CA",
+                "addr:street": "North Los Robles Avenue",
+                "check_date": "2025-11-05",
+                "ele": "260",
+                "email": "info@pam.usc.edu",
+                "fee": "no",
+                "gnis:feature_id": "1732417",
+                "museum": "ethnography",
+                "name": "USC Pacific Asia Museum",
+                "opening_hours": "Mo-Tu off; We-Su 11:00-17:00",
+                "phone": "+1 626-787-2680",
+                "source": "USGS Geonames",
+                "tourism": "museum",
+                "website": "https://pacificasiamuseum.usc.edu/",
+                "wikidata": "Q7122298",
+                "wikipedia": "en:USC Pacific Asia Museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/PacAsianMuseum.jpg/1280px-PacAsianMuseum.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 761890237,
+            "lat": 34.1448001,
+            "lon": -118.1172493,
+            "tags": {
+                "name": "Sculpture Garden",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 2365263831,
+            "lat": 34.1965883,
+            "lon": -118.1024177,
+            "tags": {
+                "name": "Eaton Canyon Waterfall",
+                "tourism": "attraction",
+                "waterway": "waterfall"
+            }
+        },
+        {
+            "type": "node",
+            "id": 4978189521,
+            "lat": 34.1445152,
+            "lon": -118.165244,
+            "tags": {
+                "name": "Colorado Street Bridge",
+                "name:en": "Colorado Street Bridge",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Pasadena_Colorado_Street_Bridge_2005.jpg/1280px-Pasadena_Colorado_Street_Bridge_2005.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 8530123615,
+            "lat": 34.1376081,
+            "lon": -118.167176,
+            "tags": {
+                "name": "Bird Sanctuary",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Batchelderhouse2.jpg/1280px-Batchelderhouse2.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 13746296840,
+            "lat": 34.1421382,
+            "lon": -118.1388155,
+            "tags": {
+                "name": "The Big Bang Theory Rooftop",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Ernest_W._Smith_House_1.JPG/1280px-Ernest_W._Smith_House_1.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 55880306,
+            "lat": 34.1557121,
+            "lon": -118.1638902,
+            "tags": {
+                "addr:city": "Pasadena",
+                "addr:housenumber": "480",
+                "addr:postcode": "91103",
+                "addr:state": "CA",
+                "addr:street": "North Arroyo Boulevard",
+                "check_date": "2026-01-23",
+                "contact:facebook": "https://www.facebook.com/KidspaceChildrensMuseum/",
+                "contact:yelp": "https://www.yelp.com/biz/kidspace-childrens-museum-pasadena",
+                "contact:youtube": "https://www.youtube.com/c/kidspacemuseum",
+                "fee": "yes",
+                "fee:conditional": "no @ (age < 1)",
+                "museum": "children",
+                "name": "Kidspace Children's Museum",
+                "opening_hours": "Mo off; Tu-Su 10:00-17:00; Jul 04 off",
+                "phone": "+1 626-449-9144",
+                "tourism": "museum",
+                "url": "http://www.kidspacemuseum.org/",
+                "website": "https://kidspacemuseum.org/",
+                "wikidata": "Q6405032"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Kidspace_Children%27s_Museum.png/1280px-Kidspace_Children%27s_Museum.png",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 55880464,
+            "lat": 34.1466859,
+            "lon": -118.159274,
+            "tags": {
+                "addr:state": "CA",
+                "ele": "269",
+                "gnis:feature_id": "1732414",
+                "name": "Norton Simon Museum of Art",
+                "source": "USGS Geonames",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/%22Carmelita%22%2C_residence_of_Prof._E._S._Carr%2C_Orange_Grove_Ave%2C_Pasadena_1886_%28cropped%29.jpg/1280px-%22Carmelita%22%2C_residence_of_Prof._E._S._Carr%2C_Orange_Grove_Ave%2C_Pasadena_1886_%28cropped%29.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 234948452,
+            "lat": 34.1450616,
+            "lon": -118.1505078,
+            "tags": {
+                "heritage:operator": "nrhp",
+                "historic": "yes",
+                "name": "Old Pasadena Historic District",
+                "source": "http://ohp.parks.ca.gov/?page_id=27283",
+                "tourism": "attraction",
+                "wikipedia": "en:Old Pasadena"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Old_Town_Pasadena_and_Metro_Local_bus.JPG/1280px-Old_Town_Pasadena_and_Metro_Local_bus.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 386045870,
+            "lat": 34.1516251,
+            "lon": -118.1609189,
+            "tags": {
+                "addr:city": "Pasadena",
+                "addr:housenumber": "4",
+                "addr:postcode": "91103",
+                "addr:state": "CA",
+                "addr:street": "Westmoreland Place",
+                "architect": "Greene & Greene",
+                "architect:wikidata": "Q5603899",
+                "architect:wikipedia": "Greene and Greene",
+                "building": "house",
+                "building:architecture": "american_craftsman",
+                "check_date": "2026-03-14",
+                "contact:facebook": "https://www.facebook.com/thegamblehouse/",
+                "contact:instagram": "https://www.instagram.com/gamblehouse",
+                "contact:twitter": "https://twitter.com/FriendsofGH",
+                "contact:youtube": "https://www.youtube.com/channel/UCAVgh6AhemEIFIvsjnGko6A",
+                "email": "info@gamblehouse.org",
+                "heritage": "2",
+                "heritage:operator": "nrhp",
+                "heritage:website": "https://npgallery.nps.gov/AssetDetail/NRIS/71000155",
+                "historic": "house",
+                "lacounty:ain": "5711006900",
+                "lacounty:bld_id": "PAS34507",
+                "museum": "local",
+                "name": "The Gamble House",
+                "name:etymology": "David B. Gamble",
+                "nrhp:inscription_date": "1971-09-03",
+                "nrhp:nhl": "yes",
+                "operator:type": "public",
+                "phone": "+1 626-793-3334",
+                "ref:US-CA:chisl": "871",
+                "ref:nrhp": "71000155",
+                "source": "Bing",
+                "start_date": "1909",
+                "tourism": "museum",
+                "website": "https://gamblehouse.org/",
+                "wikidata": "Q5519656"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Gamble_House_2016-1.jpg/1280px-Gamble_House_2016-1.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 558328380,
+            "lat": 34.146372,
+            "lon": -118.1593988,
+            "tags": {
+                "addr:city": "Pasadena",
+                "addr:housenumber": "411",
+                "addr:postcode": "91105-1825",
+                "addr:state": "CA",
+                "addr:street": "West Colorado Boulevard",
+                "building": "museum",
+                "check_date": "2026-01-23",
+                "contact:facebook": "https://www.facebook.com/nortonsimonmuseum/",
+                "contact:instagram": "https://www.instagram.com/nortonsimon",
+                "contact:twitter": "https://twitter.com/nortonsimon",
+                "contact:yelp": "https://www.yelp.com/biz/norton-simon-museum-pasadena",
+                "fee": "yes",
+                "fee:conditional": "no @ (age < 18)",
+                "lacounty:ain": "5713001900",
+                "lacounty:bld_id": "PAS28258",
+                "museum": "art",
+                "name": "Norton Simon Museum of Art",
+                "opening_hours": "Mo,Th,Su 12:00-17:00; Tu-We off; Fr-Sa 12:00-19:00",
+                "phone": "+1-626-449-6840",
+                "start_date": "1968",
+                "tourism": "museum",
+                "website": "https://www.nortonsimon.org/",
+                "wikidata": "Q1752085",
+                "wikipedia": "en:Norton Simon Museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/%22Carmelita%22%2C_residence_of_Prof._E._S._Carr%2C_Orange_Grove_Ave%2C_Pasadena_1886_%28cropped%29.jpg/1280px-%22Carmelita%22%2C_residence_of_Prof._E._S._Carr%2C_Orange_Grove_Ave%2C_Pasadena_1886_%28cropped%29.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 4542308,
+            "lat": 34.14513889,
+            "lon": -118.1375,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Pasadena_Playhouse_Exterior.jpg/1280px-Pasadena_Playhouse_Exterior.jpg",
+            "description": "Pasadena Playhouse is a Tony Award-winning historic performing arts venue located at 39 S. El Molino Avenue in Pasadena, California.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Pasadena Playhouse",
+                "wikipedia": "en:Pasadena Playhouse",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 79734,
+            "lat": 34.05,
+            "lon": -118.25,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Good_morning_LA_%28cropped%29.jpg/1280px-Good_morning_LA_%28cropped%29.jpg",
+            "description": "Los Angeles County, sometimes abbreviated as LA County, is the most populous county in the United States, with 9,694,934 residents estimated in 2025.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Los Angeles County, California",
+                "wikipedia": "en:Los Angeles County, California",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 81605,
+            "lat": 34,
+            "lon": -118.2,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Good_morning_LA_%28cropped%29.jpg/1280px-Good_morning_LA_%28cropped%29.jpg",
+            "description": "Greater Los Angeles is the most populous metropolitan area in the U.S. state of California, encompassing five counties in Southern California extending from Ventura County in the west to San Bernardino County and Riverside County in the east, with the city of Los Angeles and Los Angeles County at its center, and Orange County to the southeast.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Greater Los Angeles",
+                "wikipedia": "en:Greater Los Angeles",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 107806,
+            "lat": 33.85611111,
+            "lon": -118.00416667,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Knott%27s_Gate.jpg",
+            "description": "Buena Park (BWAY-nuh; buena, Spanish for \"good\") is a city in northern Orange County, California, United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Buena Park, California",
+                "wikipedia": "en:Buena Park, California",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 10311463,
+            "lat": 33.83027778,
+            "lon": -116.54527778,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Palm_Springs_from_the_Museum_Trail.jpg/1280px-Palm_Springs_from_the_Museum_Trail.jpg",
+            "description": "Palm Springs (Cahuilla: Séc-he) is a desert resort city in Riverside County, California, United States, within the Colorado Desert's Coachella Valley.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Palm Springs, California",
+                "wikipedia": "en:Palm Springs, California",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 5407,
+            "lat": 37,
+            "lon": -120,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Flag_of_California.svg/1280px-Flag_of_California.svg.png",
+            "description": "California () is a state in the Western United States that lies on the Pacific Coast.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "California",
+                "wikipedia": "en:California",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 11504268,
+            "lat": 34.205,
+            "lon": -118.088,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/80/Eaton_canyon.jpg",
+            "description": "Eaton Canyon is a major canyon beginning at the Eaton Saddle near Mount Markham and San Gabriel Peak in the San Gabriel Mountains in the Angeles National Forest, United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Eaton Canyon",
+                "wikipedia": "en:Eaton Canyon",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 1323285,
+            "lat": 28.365025,
+            "lon": -81.527772,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Walt_Disney_World_Typhoon_Lagoon_Entrance.JPG/1280px-Walt_Disney_World_Typhoon_Lagoon_Entrance.JPG",
+            "description": "Disney's Typhoon Lagoon is a water theme park located at the Walt Disney World Resort in Lake Buena Vista, Florida near Orlando, and is one of two operating water parks at the resort.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Disney's Typhoon Lagoon",
+                "wikipedia": "en:Disney's Typhoon Lagoon",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 27003223,
+            "lat": 33.02,
+            "lon": -116.77,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Oceanside%2C_CA_USA_-_Mission_San_Luis_Rey_De_Francia%2C_1798_-_panoramio_%28cropped%29_%28cropped%29.jpg/1280px-Oceanside%2C_CA_USA_-_Mission_San_Luis_Rey_De_Francia%2C_1798_-_panoramio_%28cropped%29_%28cropped%29.jpg",
+            "description": "San Diego County ( ), officially the County of San Diego, is located in the southwest corner of the U.S. state of California, north to its border with Mexico.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "San Diego County, California",
+                "wikipedia": "en:San Diego County, California",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 198006,
+            "lat": 33.74,
+            "lon": -118.29,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Harbor_View_House_%28San_Pedro%2C_CA%29.jpg/1280px-Harbor_View_House_%28San_Pedro%2C_CA%29.jpg",
+            "description": "San Pedro ( san PEE-droh; Spanish for 'Saint Peter') is a neighborhood located within the South Bay and Harbor region of the city of Los Angeles, California, United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "San Pedro, Los Angeles",
+                "wikipedia": "en:San Pedro, Los Angeles",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 1780237,
+            "lat": 34.21111111,
+            "lon": -118.12055556,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/First_Mount_Lowe_Railway_car_to_leave_Altadena_for_Rubio_Canyon%2C_July_4%2C_1893_%28CHS-40191%29.jpg/1280px-First_Mount_Lowe_Railway_car_to_leave_Altadena_for_Rubio_Canyon%2C_July_4%2C_1893_%28CHS-40191%29.jpg",
+            "description": "The Mount Lowe Railway was the third in a series of scenic mountain railroads in the United States created as a tourist attraction on Echo Mountain and Mount Lowe, north of Los Angeles, California.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Mount Lowe Railway",
+                "wikipedia": "en:Mount Lowe Railway",
+                "tourism": "attraction"
+            }
+        }
+    ]
+}

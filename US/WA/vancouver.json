@@ -1,0 +1,976 @@
+{
+    "city_metadata": {
+        "city_name": "Vancouver",
+        "state_code": "WA",
+        "state_full": "Washington",
+        "city_summary": "Vancouver (  van-KOO-vər) is a city in Clark County, Washington, United States, located on the north bank of the Columbia River. It had a population of 190,915 at the 2020 census, making it the fourth-most populous city in Washington. Founded in 1825 and incorporated in 1857, the city was originally established around Fort Vancouver, a fur trading outpost, and is situated directly north of Portland, Oregon, along the Washington–Oregon state line.",
+        "city_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Officers_Row-3.jpg/1280px-Officers_Row-3.jpg",
+        "city_lat": 45.63111111,
+        "city_lon": -122.67166667,
+        "source": "wikipedia_verified_engine"
+    },
+    "attractions": [
+        {
+            "type": "node",
+            "id": 335749614,
+            "lat": 49.2943999,
+            "lon": -123.1378729,
+            "tags": {
+                "name": "Lost Lagoon Nature House",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Vancouver-stanley-park.jpg/1280px-Vancouver-stanley-park.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 369034793,
+            "lat": 45.6269508,
+            "lon": -122.6630711,
+            "tags": {
+                "ele": "16",
+                "gnis:feature_id": "2512376",
+                "name": "Vancouver Barracks",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 648735254,
+            "lat": 49.2893606,
+            "lon": -123.1176596,
+            "tags": {
+                "description": "2010 Olympic Flame Cauldron",
+                "height": "10",
+                "historic": "monument",
+                "name": "2010 Olympic Cauldron",
+                "tourism": "attraction",
+                "wheelchair": "yes",
+                "wikidata": "Q28034447",
+                "wikipedia": "en:2010 Winter Olympics cauldron"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Vancouver_2010_Winter_Olympic_Flames_Cauldron.jpg/1280px-Vancouver_2010_Winter_Olympic_Flames_Cauldron.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 677284036,
+            "lat": 49.2759765,
+            "lon": -123.1427011,
+            "tags": {
+                "name": "City of Vancouver Archives",
+                "tourism": "museum",
+                "website": "https://vancouver.ca/your-government/city-of-vancouver-archives.aspx"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Museum_of_Vancouver.jpg/1280px-Museum_of_Vancouver.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 703754423,
+            "lat": 49.2843841,
+            "lon": -123.10889,
+            "tags": {
+                "addr:housenumber": "305",
+                "addr:street": "Water Street",
+                "amenity": "clock",
+                "display": "analog",
+                "historic": "monument",
+                "name": "Gastown Steam Clock",
+                "support": "ground",
+                "tourism": "attraction",
+                "visibility": "street",
+                "wheelchair": "yes",
+                "wikidata": "Q107352564",
+                "wikipedia": "en:Steam clock#Gastown steam clock"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Vancouver_2018-20180422-2108_%2842138196834%29.jpg/1280px-Vancouver_2018-20180422-2108_%2842138196834%29.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 878192099,
+            "lat": 49.3019096,
+            "lon": -123.1337742,
+            "tags": {
+                "name": "Miniature Railway",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Japanese_War_Memorial_Stanley_Park.jpg/1280px-Japanese_War_Memorial_Stanley_Park.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 1211948156,
+            "lat": 49.2980397,
+            "lon": -123.117547,
+            "tags": {
+                "addr:street": "Stanley Park Seawall",
+                "direction": "150",
+                "historic": "cannon",
+                "name": "Nine O'Clock Gun",
+                "tourism": "attraction",
+                "wikidata": "Q277440",
+                "wikipedia": "en:9 O'Clock Gun"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/47/9_oclock_gun_firing.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 2147184803,
+            "lat": 49.2820831,
+            "lon": -123.098189,
+            "tags": {
+                "addr:housenumber": "240",
+                "addr:street": "East Cordova Street",
+                "check_date:opening_hours": "2024-03-01",
+                "fee": "yes",
+                "name": "Vancouver Police Museum",
+                "opening_hours": "Th-Sa 10:00-17:00; Su 12:00-17:00; PH off",
+                "operator": "Vancouver Police Historical Society",
+                "phone": "+1-604-665-3346",
+                "start_date": "1986",
+                "tourism": "museum",
+                "website": "https://www.vancouverpolicemuseum.ca/",
+                "wheelchair": "no",
+                "wikidata": "Q2510009",
+                "wikipedia": "en:Vancouver Police Museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Coroner%27s_Court.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 2327355724,
+            "lat": 49.2928297,
+            "lon": -123.1306803,
+            "tags": {
+                "alt_name": "Vancouver's Coal Harbour Fellowship Bell",
+                "historic": "bell",
+                "name": "Fellowship Bell",
+                "source": "survey",
+                "tourism": "attraction",
+                "website": "https://www.waymarking.com/waymarks/WMHEFZ_Coal_Harbour_Fellowship_Bell_Vancouver_BC"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/The_Westin_Bayshore_2018.jpg/1280px-The_Westin_Bayshore_2018.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 2410285536,
+            "lat": 49.3069151,
+            "lon": -123.1536164,
+            "tags": {
+                "name": "Hollow Tree",
+                "natural": "tree_stump",
+                "tourism": "attraction",
+                "website": "https://vancouver.ca/parks-recreation-culture/landmarks-in-stanley-park.aspx",
+                "wikidata": "Q28232744",
+                "wikipedia": "en:Hollow Tree"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Hollow_Tree_%2854215906693%29.jpg/1280px-Hollow_Tree_%2854215906693%29.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 4167986276,
+            "lat": 45.5998353,
+            "lon": -122.5468516,
+            "tags": {
+                "name": "Water Wheel",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 4215844490,
+            "lat": 49.2763502,
+            "lon": -123.1449814,
+            "tags": {
+                "addr:city": "Vancouver",
+                "addr:housenumber": "1100",
+                "addr:street": "Chestnut Street",
+                "alt_name": "Pacific Space Centre",
+                "fee": "no",
+                "loc_name": "Planetarium",
+                "name": "H. R. MacMillan Space Centre",
+                "phone": "+1-604-738-7827",
+                "tourism": "museum",
+                "website": "https://www.spacecentre.ca/",
+                "wheelchair": "yes",
+                "wikidata": "Q4244994",
+                "wikipedia": "en:H. R. MacMillan Space Centre"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Museum_of_Vancouver.jpg/1280px-Museum_of_Vancouver.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 4331972693,
+            "lat": 49.1997034,
+            "lon": -122.911952,
+            "tags": {
+                "addr:city": "New Westminster",
+                "addr:housenumber": "888",
+                "addr:street": "Quayside Drive",
+                "description": "The Samson V, launched in 1937, is the last surviving wooden steam-powered sternwheeler built for the federal Department of Public Works for use as a snag-boat on the Fraser River.",
+                "fee": "donation",
+                "name": "The Samson V Museum",
+                "operator": "City of New Westminster",
+                "tourism": "museum",
+                "website": "https://www.newwestcity.ca/services/arts-and-heritage/museums-and-archives/sb_expander_articles/656.php"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/British_Columbia_Regiment_1940.jpg/1280px-British_Columbia_Regiment_1940.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 4640728689,
+            "lat": 49.2695802,
+            "lon": -123.1427277,
+            "tags": {
+                "addr:housenumber": "1684",
+                "addr:street": "West 2nd Avenue",
+                "name": "Francl Architecture",
+                "name:en": "Francl Architecture",
+                "office": "architect",
+                "opening_hours": "Mo-Fr 08:30-17:00",
+                "phone": "+1-604-688-3252",
+                "tourism": "attraction",
+                "website": "https://franclarchitecture.com/"
+            }
+        },
+        {
+            "type": "node",
+            "id": 4770571921,
+            "lat": 49.2817994,
+            "lon": -123.1333798,
+            "tags": {
+                "name": "Gay Village",
+                "name:en": "Gay Village",
+                "tourism": "attraction",
+                "wheelchair": "yes"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Little_Sister_s_Book_and_Art_Emporium.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 5184318003,
+            "lat": 49.2851314,
+            "lon": -123.1139764,
+            "tags": {
+                "amenity": "clock",
+                "display": "analog",
+                "faces": "4",
+                "name": "Birks Clock",
+                "old_name": "Trorey",
+                "operator": "Birks",
+                "support": "pole",
+                "tourism": "attraction",
+                "visibility": "street",
+                "wheelchair": "yes"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/56/RBC_WHastings.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 5324883305,
+            "lat": 49.2797611,
+            "lon": -123.10254,
+            "tags": {
+                "addr:city": "Vancouver",
+                "addr:housenumber": "555",
+                "addr:province": "BC",
+                "addr:street": "Columbia Street",
+                "fee": "no",
+                "museum": "local",
+                "name": "Chinese Cultural Centre Museum",
+                "phone": "+1-604-658-8880",
+                "tourism": "museum",
+                "website": "https://www.cccvan.com/museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Chinese_Cultural_Centre_-_Chinese_Canadian_Military_Museum.jpg/1280px-Chinese_Cultural_Centre_-_Chinese_Canadian_Military_Museum.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 5629478421,
+            "lat": 49.2846556,
+            "lon": -123.1138977,
+            "tags": {
+                "alt_name": "Alley-Oop",
+                "name": "The Pink Alley",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 6216807227,
+            "lat": 49.2721894,
+            "lon": -123.133701,
+            "tags": {
+                "description": "A West Coast fishing vessel that is now permanently on display under the Granville Street Bridge.",
+                "name": "The Relief",
+                "start_date": "1929",
+                "tourism": "attraction",
+                "website": "https://granvilleisland.com/secrets/relief"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Granville_Street_Bridge_2018.jpg/1280px-Granville_Street_Bridge_2018.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 9818886419,
+            "lat": 49.2680809,
+            "lon": -123.0246744,
+            "tags": {
+                "museum": "transport",
+                "name": "Deeley Motorcycle Exhibition",
+                "opening_hours": "Tu-Sa 10:00-17:00",
+                "phone": "+1-604-293-2221",
+                "tourism": "museum",
+                "website": "https://deeleyexhibition.ca/"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9902942217,
+            "lat": 49.2709662,
+            "lon": -123.1362166,
+            "tags": {
+                "addr:city": "Vancouver",
+                "addr:housenumber": "1802",
+                "addr:province": "BC",
+                "addr:street": "Maritime Mews",
+                "fee": "no",
+                "name": "Ukama Gallery",
+                "tourism": "museum",
+                "website": "https://www.ukama.ca/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a4/VanFringe_Orange.png",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 11079564705,
+            "lat": 49.2896416,
+            "lon": -123.1173908,
+            "tags": {
+                "name": "Vancouver Christmas Market",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/74/Jack_Poole_Plaza_on_Canada_Day_2010.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 11084901305,
+            "lat": 49.2289343,
+            "lon": -123.1175693,
+            "tags": {
+                "name": "Jewish Museum and Archives of BC",
+                "tourism": "museum",
+                "website": "https://jewishmuseum.ca/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Peretz_Centre_exterior.jpg/1280px-Peretz_Centre_exterior.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 11742758569,
+            "lat": 49.2774443,
+            "lon": -123.1124427,
+            "tags": {
+                "addr:housenumber": "777",
+                "addr:postcode": "V6B 4Y8",
+                "addr:street": "Pacific Boulevard",
+                "check_date": "2026-03-25",
+                "description": "Gate A of BC Place",
+                "name": "BC Sports Hall of Fame and Museum",
+                "opening_hours": "We-Su 10:00-17:00",
+                "phone": "+1 604-687-5520",
+                "tourism": "museum",
+                "website": "https://bcsportshall.com/",
+                "wheelchair": "yes",
+                "wikidata": "Q4835326"
+            }
+        },
+        {
+            "type": "node",
+            "id": 12639455832,
+            "lat": 49.280582,
+            "lon": -123.1032282,
+            "tags": {
+                "addr:city": "Vancouver",
+                "addr:housenumber": "51",
+                "addr:province": "BC",
+                "addr:street": "East Pender Street",
+                "museum": "history",
+                "name": "Chinese Canadian Museum",
+                "opening_hours": "We-Su 10:00-17:00; PH \"same\"",
+                "operator": "Chinese Canadian Museum Society of British Columbia.",
+                "operator:type": "public",
+                "short_name": "CCM",
+                "start_date": "2023",
+                "tourism": "museum",
+                "website": "https://www.chinesecanadianmuseum.ca"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Chinese_Cultural_Centre_-_Chinese_Canadian_Military_Museum.jpg/1280px-Chinese_Cultural_Centre_-_Chinese_Canadian_Military_Museum.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 12646867861,
+            "lat": 49.2797974,
+            "lon": -123.1026097,
+            "tags": {
+                "name": "Chinese Canadian Military Museum Society",
+                "name:en": "Chinese Canadian Military Museum Society",
+                "name:zh-Hans": "加拿大华裔军事博物馆",
+                "name:zh-Hant": "加拿大華裔軍事博物館",
+                "tourism": "museum",
+                "website": "https://ccmms.ca/",
+                "wikidata": "Q19460972",
+                "wikipedia": "en:Chinese Canadian Military Museum Society"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Chinese_Cultural_Centre_-_Chinese_Canadian_Military_Museum.jpg/1280px-Chinese_Cultural_Centre_-_Chinese_Canadian_Military_Museum.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 12674462520,
+            "lat": 49.2792829,
+            "lon": -123.1108048,
+            "tags": {
+                "museum": "military",
+                "name": "British Columbia Regimental Museum",
+                "tourism": "museum",
+                "website": "https://bcregiment.com/regimental-family/museum/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Beatty_Street_Drill_Hall_2026.JPG/1280px-Beatty_Street_Drill_Hall_2026.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 13158589684,
+            "lat": 49.2868031,
+            "lon": -123.1118093,
+            "tags": {
+                "name": "Vancouver sign",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Granville_Square%2C_Vancouver_2016.jpg/1280px-Granville_Square%2C_Vancouver_2016.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 13302217759,
+            "lat": 49.2802963,
+            "lon": -123.100783,
+            "tags": {
+                "addr:city": "Vancouver",
+                "addr:housenumber": "168",
+                "addr:province": "BC",
+                "addr:street": "East Pender Street",
+                "museum": "local",
+                "name": "Chinatown Storytelling Centre",
+                "opening_hours": "Mo-Su 10:00-17:00; ",
+                "operator": "Vancouver Chinatown Foundation",
+                "operator:type": "charitable",
+                "phone": "+1-604-225-0055",
+                "tourism": "museum",
+                "website": "https://www.chinatownstorytellingcentre.org/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Chinatown_Storytelling_Centre%2C_1_June_2025.jpg/1280px-Chinatown_Storytelling_Centre%2C_1_June_2025.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 32896473,
+            "lat": 49.2759951,
+            "lon": -123.0706414,
+            "tags": {
+                "addr:housenumber": "1661",
+                "addr:street": "Parker Street",
+                "building": "yes",
+                "leisure": "ice_rink",
+                "name": "Britannia Icerink",
+                "name:en": "Britannia Icerink",
+                "sport": "ice_skating",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "way",
+            "id": 37084312,
+            "lat": 49.2734536,
+            "lon": -123.1036623,
+            "tags": {
+                "addr:city": "Vancouver",
+                "addr:housenumber": "1455",
+                "addr:postcode": "V6A 3Z7",
+                "addr:province": "BC",
+                "addr:street": "Quebec Street",
+                "alt_name": "Science World at Telus World of Science",
+                "building": "civic",
+                "fee": "yes",
+                "name": "Science World",
+                "name:ko": "사이언스 월드",
+                "note": "\"TELUS World of Science\" is the legal name, but everyone calls it \"Science World\", even they themselves on their website.",
+                "official_name": "TELUS World of Science",
+                "opening_hours": "Mo-Su,PH 10:00-17:00; Jul 5 - Aug 30 Tu 10:00-20:00",
+                "opening_hours:url": "http://scienceworld.ca/hoursrates",
+                "phone": "+1-604-443-7440",
+                "roof:colour": "#97908b",
+                "tourism": "museum",
+                "website": "https://scienceworld.ca/",
+                "wheelchair": "yes",
+                "wikidata": "Q1391769",
+                "wikipedia": "en:Science World (Vancouver)"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Science_World_at_TELUS_World_of_Science.jpg/1280px-Science_World_at_TELUS_World_of_Science.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 37111640,
+            "lat": 49.2796573,
+            "lon": -123.1154047,
+            "tags": {
+                "addr:city": "Vancouver",
+                "addr:housenumber": "350",
+                "addr:postcode": "V6B 6B1",
+                "addr:province": "BC",
+                "addr:street": "West Georgia Street",
+                "alt_name": "Central Library",
+                "amenity": "library",
+                "building": "yes",
+                "building:facade:colour": "#927d68",
+                "check_date:opening_hours": "2025-06-10",
+                "email": "info@vpl.ca",
+                "internet_access": "wlan",
+                "name": "VPL: Central Library",
+                "name:en": "Vancouver Public Library",
+                "name:ko": "밴쿠버 공립 도서관",
+                "opening_hours": "Mo-Th 09:30-20:30; Fr 09:30-18:00; Sa 10:00-18:00; Su 11:00-18:00",
+                "operator": "Vancouver Public Library",
+                "operator:short": "VPL",
+                "operator:type": "public",
+                "operator:wikidata": "Q1376408",
+                "operator:wikipedia": "en:Vancouver Public Library",
+                "phone": "+1-604-331-3603",
+                "roof:colour": "#b5a79c",
+                "tourism": "attraction",
+                "website": "https://www.vpl.ca/location/central-library",
+                "wheelchair": "yes",
+                "wikidata": "Q85704639"
+            }
+        },
+        {
+            "type": "way",
+            "id": 41769219,
+            "lat": 49.2827817,
+            "lon": -123.0365123,
+            "tags": {
+                "barrier": "fence",
+                "landuse": "recreation_ground",
+                "name": "Playland",
+                "tourism": "theme_park",
+                "website": "https://www.pne.ca/playland/",
+                "wikidata": "Q3392121",
+                "wikipedia": "en:Playland (Vancouver)"
+            }
+        },
+        {
+            "type": "way",
+            "id": 75719641,
+            "lat": 49.2754654,
+            "lon": -123.1435513,
+            "tags": {
+                "building": "yes",
+                "name": "Gordon MacMillan Southam Observatory",
+                "note": "Optical Telescope",
+                "operator": "H.R. MacMillan Space Centre",
+                "source": "DataBC bc_gvrd_west_2009",
+                "tourism": "attraction",
+                "website": "https://www.spacecentre.ca/gordon-southam-observatory"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Museum_of_Vancouver.jpg/1280px-Museum_of_Vancouver.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 148484936,
+            "lat": 45.6226121,
+            "lon": -122.6542194,
+            "tags": {
+                "addr:city": "Vancouver",
+                "addr:housenumber": "201A",
+                "addr:postcode": "98661",
+                "addr:state": "WA",
+                "addr:street": "East Reserve Street",
+                "building": "yes",
+                "name": "Pearson Field Education Center",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/89/Pearson_Field_1_edit.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 148510649,
+            "lat": 45.6239408,
+            "lon": -122.6562837,
+            "tags": {
+                "addr:city": "Vancouver",
+                "addr:housenumber": "1115",
+                "addr:postcode": "98661",
+                "addr:state": "WA",
+                "addr:street": "East 5th Street",
+                "building": "hangar",
+                "fee": "no",
+                "name": "Pearson Air Museum",
+                "pets": "no",
+                "phone": "+1-360-816-6232",
+                "tourism": "museum",
+                "website": "https://www.nps.gov/fova/planyourvisit/pearsonairmuseum.htm",
+                "wheelchair": "yes",
+                "wikidata": "Q12859331",
+                "wikipedia": "en:Pearson Air Museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/89/Pearson_Field_1_edit.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 165231228,
+            "lat": 49.2728158,
+            "lon": -123.1859708,
+            "tags": {
+                "addr:housenumber": "1575",
+                "addr:street": "Alma Street",
+                "building": "yes",
+                "fee": "yes",
+                "name": "Hastings Mill Park Museum",
+                "tourism": "museum",
+                "website": "https://www.hastings-mill-museum.ca/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Hastings_Mill_Park.jpg/1280px-Hastings_Mill_Park.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 170612575,
+            "lat": 49.2777526,
+            "lon": -123.1477366,
+            "tags": {
+                "historic": "ship",
+                "name": "Ben Franklin",
+                "ref": "PX-15",
+                "ship:type": "submarine",
+                "start_date": "1968",
+                "tourism": "attraction",
+                "wheelchair": "yes",
+                "wikidata": "Q663994",
+                "wikipedia": "en:Ben Franklin (PX-15)"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/32/Ben_franklin_today.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 174530913,
+            "lat": 49.2774924,
+            "lon": -123.1475655,
+            "tags": {
+                "addr:city": "Vancouver",
+                "addr:housenumber": "1905",
+                "addr:postcode": "V6J 1A3",
+                "addr:street": "Ogden Avenue",
+                "building": "yes",
+                "fee": "yes",
+                "museum": "maritime",
+                "name": "Vancouver Maritime Museum",
+                "name:ru": "Ванкуверский морской музей",
+                "opening_hours": "Su-Sa 10:00-17:00; Sep-May: Mo off; Sep-May: Su 12:00-17:00",
+                "phone": "+1-604-257-8300",
+                "start_date": "1959",
+                "tourism": "museum",
+                "website": "https://vanmaritime.com/",
+                "wheelchair": "yes",
+                "wikidata": "Q1139295",
+                "wikipedia": "en:Vancouver Maritime Museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Vancouver_Maritime_Museum_2026.JPG/1280px-Vancouver_Maritime_Museum_2026.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 223635729,
+            "lat": 49.2885373,
+            "lon": -123.1111425,
+            "tags": {
+                "addr:city": "Vancouver",
+                "addr:housenumber": "999",
+                "addr:postcode": "V6C 3C1",
+                "addr:street": "Canada Place",
+                "alt_name": "Vancouver Convention Centre East",
+                "building": "yes",
+                "name": "Canada Place",
+                "name:en": "Canada Place",
+                "name:ko": "캐나다 플레이스",
+                "old_name": "Canadian Pavilion for Expo 86",
+                "operator": "Vancouver Fraser Port Authority",
+                "operator:wikidata": "Q1187234",
+                "tourism": "attraction",
+                "website": "https://www.canadaplace.ca/",
+                "wheelchair": "yes",
+                "wikidata": "Q1032014",
+                "wikipedia": "en:Canada Place"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Canada_Place_Landing.jpg/1280px-Canada_Place_Landing.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 310612768,
+            "lat": 49.2869083,
+            "lon": -123.1321516,
+            "tags": {
+                "addr:city": "Vancouver",
+                "addr:housenumber": "1415",
+                "addr:province": "BC",
+                "addr:street": "Barclay Street",
+                "architect": "Francis Rattenbury",
+                "architect:wikidata": "Q594781",
+                "building": "detached",
+                "building:architecture": "Queen Anne Revival",
+                "building:architecture:wikidata": "Q55164904",
+                "building:levels": "2",
+                "building:material": "wood",
+                "building:start_date": "1893",
+                "check_date:opening_hours": "2024-01-19",
+                "fee": "yes",
+                "heritage:website": "https://www.heritagesitefinder.ca/location/1415-barclay-st-vancouver-bc",
+                "historic": "house",
+                "museum:start_date": "1990",
+                "name": "Roedde House Museum",
+                "name:etymology": "Gustav Roedde",
+                "opening_hours": "We-Sa 13:00-16:00; Jun-Aug We-Sa 11:00-16:00",
+                "opening_hours:url": "https://www.roeddehouse.org/hours-admissions/",
+                "payment:cash": "yes",
+                "payment:credit_cards": "yes",
+                "payment:debit_cards": "yes",
+                "roof:colour": "#595757",
+                "roof:levels": "1",
+                "roof:shape": "hipped",
+                "tourism": "museum",
+                "website": "https://www.roeddehouse.org/",
+                "wheelchair": "yes",
+                "wikidata": "Q18167820",
+                "wikipedia": "en:Roedde House Museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Roedde_House_01.jpg/1280px-Roedde_House_01.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 359421576,
+            "lat": 49.2865024,
+            "lon": -123.1441033,
+            "tags": {
+                "area": "yes",
+                "attraction": "water_slide",
+                "capacity": "1",
+                "floating": "yes",
+                "man_made": "pier",
+                "name": "Waterslide",
+                "note": "only usable during high tide",
+                "seasonal": "summer",
+                "tourism": "attraction",
+                "water_slide": "body"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/A-maze-ing_Laughter_wide_2013.jpg/1280px-A-maze-ing_Laughter_wide_2013.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 368710213,
+            "lat": 45.633114,
+            "lon": -122.6711963,
+            "tags": {
+                "addr:city": "Vancouver",
+                "addr:housenumber": "1511",
+                "addr:postcode": "98660",
+                "addr:state": "WA",
+                "addr:street": "Main Street",
+                "building": "yes",
+                "check_date:opening_hours": "2023-05-05",
+                "ele": "28",
+                "fee": "yes",
+                "fee:conditional": "no @ (age < 5)",
+                "gnis:feature_id": "1531872",
+                "name": "Clark County Historical Museum",
+                "opening_hours": "Tu-Sa 10:45-16:00",
+                "tourism": "museum",
+                "website": "https://cchmuseum.org/",
+                "wheelchair": "yes",
+                "wikidata": "Q5127192"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Clark_County_Historical_Museum_-_Vancouver_Washington.jpg/1280px-Clark_County_Historical_Museum_-_Vancouver_Washington.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 421370496,
+            "lat": 45.6209021,
+            "lon": -122.6673118,
+            "tags": {
+                "area": "yes",
+                "bridge:structure": "beam",
+                "layer": "1",
+                "man_made": "bridge",
+                "name": "Vancouver Land Bridge",
+                "tourism": "attraction",
+                "wikidata": "Q100682824",
+                "wikipedia": "en:Vancouver Land Bridge"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Land_Bridge_%28Vancouver%2C_Washington%29-2.jpg/1280px-Land_Bridge_%28Vancouver%2C_Washington%29-2.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 432832072,
+            "lat": 45.6237033,
+            "lon": -122.6811253,
+            "tags": {
+                "area": "yes",
+                "floating": "no",
+                "man_made": "pier",
+                "name": "Grant Street Pier",
+                "operator": "City of Vancouver",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Vancouver%2C_Washington_%282019%29_-_22.jpg/1280px-Vancouver%2C_Washington_%282019%29_-_22.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 471554694,
+            "lat": 49.2064178,
+            "lon": -123.1425414,
+            "tags": {
+                "addr:city": "Vancouver",
+                "addr:housenumber": "8743",
+                "addr:postcode": "V6P 6A5",
+                "addr:province": "BC",
+                "addr:street": "Southwest Marine Drive",
+                "building": "detached",
+                "building:levels": "2",
+                "building:start_date": "1912",
+                "heritage:website": "https://www.heritagesitefinder.ca/location/8743-sw-marine-dr-vancouver-bc",
+                "historic": "building",
+                "museum:start_date": "2005",
+                "name": "Colbourne House",
+                "operator": "Marpole Museum & Historical Society",
+                "phone": "+1-604-261-0131",
+                "roof:levels": "1",
+                "roof:shape": "gambrel",
+                "tourism": "museum",
+                "website": "http://www.marpolehistorical.ca/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/CVA_677-521_-_Great_Fraser_Midden_showing_skeleton.jpg/1280px-CVA_677-521_-_Great_Fraser_Midden_showing_skeleton.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 736329120,
+            "lat": 49.1206536,
+            "lon": -123.1701767,
+            "tags": {
+                "addr:city": "Richmond",
+                "addr:housenumber": "5180",
+                "addr:province": "BC",
+                "addr:street": "Westwater Drive",
+                "building": "no",
+                "communication:amateur_radio:pota": "CA-5320",
+                "description": "Britannia Shipyards is an authentic representation of a once-thriving community of canneries, boat yards and residences. Many of the heritage buildings date back to the 1880s and tell the stories of the Chinese, European, Indigenous and Japanese workers t",
+                "museum": "history",
+                "name": "Britannia Shipyards National Historic Site",
+                "opening_hours:covid19": "off",
+                "operator": "City of Richmond",
+                "tourism": "museum",
+                "website": "https://stevestonheritage.ca/visit/britannia-shipyards-national-historic-site/"
+            }
+        },
+        {
+            "type": "way",
+            "id": 743125016,
+            "lat": 49.2822532,
+            "lon": -123.0366456,
+            "tags": {
+                "attraction": "roller_coaster",
+                "name": "Kettle Creek Mine Coaster",
+                "operator": "Playland at the PNE",
+                "roller_coaster:theme": "mine_cart",
+                "tourism": "attraction",
+                "website": "https://www.pne.ca/rides/kettle-creek-mine-coaster/"
+            }
+        },
+        {
+            "type": "way",
+            "id": 755365473,
+            "lat": 45.6152386,
+            "lon": -122.6196415,
+            "tags": {
+                "building": "yes",
+                "check_date:opening_hours": "2023-05-05",
+                "fee": "no",
+                "name": "Water Resources Education Center",
+                "opening_hours": "Mo-Fr 10:00-17:00",
+                "tourism": "museum",
+                "website": "https://www.cityofvancouver.us/publicworks/page/water-resources-education-center"
+            }
+        },
+        {
+            "type": "way",
+            "id": 1253556548,
+            "lat": 49.2992028,
+            "lon": -123.1212329,
+            "tags": {
+                "name": "Brockton Point Totem Poles",
+                "tourism": "attraction",
+                "wikidata": "Q107542577"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Chehalis_Cross%2C_Stanley_Park_%282013%29_-_1.JPG/1280px-Chehalis_Cross%2C_Stanley_Park_%282013%29_-_1.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 1371901386,
+            "lat": 49.2737056,
+            "lon": -123.1212347,
+            "tags": {
+                "addr:city": "Vancouver",
+                "addr:housenumber": "181",
+                "addr:postcode": "V6Z 2W3",
+                "addr:province": "BC",
+                "addr:street": "Roundhouse Mews",
+                "building:material": "glass",
+                "building:part": "yes",
+                "check_date:opening_hours": "2024-01-16",
+                "fee": "no",
+                "name": "Engine 374 Pavilion",
+                "opening_hours:url": "https://www.roundhouse.ca/about/history/engine-374/",
+                "seasonal": "yes",
+                "tourism": "museum",
+                "website": "https://www.roundhouse.ca/about/history/engine-374/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Yaletown_Roundhouse_Station_ext.jpg/1280px-Yaletown_Roundhouse_Station_ext.jpg",
+            "image_source": "wikipedia_verified"
+        }
+    ]
+}

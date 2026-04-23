@@ -1,0 +1,540 @@
+{
+    "city_metadata": {
+        "city_name": "Gainesville",
+        "state_code": "FL",
+        "state_full": "Florida",
+        "city_summary": "Gainesville is a city in and the county seat of Alachua County, Florida, United States. It is the most populous city in North Central Florida with a population of 141,085 at the 2020 census, while the Gainesville metropolitan area has an estimated 360,000 residents. Gainesville is home to the University of Florida, the third-largest public university campus by enrollment in the United States as of the 2023–2024 academic year.",
+        "city_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Gainesville%2C_FL_Downtown.jpg/1280px-Gainesville%2C_FL_Downtown.jpg",
+        "city_lat": 29.67888889,
+        "city_lon": -82.35333333,
+        "source": "wikipedia_verified_engine"
+    },
+    "attractions": [
+        {
+            "type": "node",
+            "id": 368164918,
+            "lat": 33.6229455,
+            "lon": -97.145215,
+            "tags": {
+                "addr:city": "Gainesville",
+                "addr:housenumber": "210",
+                "addr:postcode": "76240",
+                "addr:state": "TX",
+                "addr:street": "South Dixon Street",
+                "ele": "224",
+                "gnis:feature_id": "2014238",
+                "museum": "local",
+                "name": "Morton Museum of Cooke County",
+                "opening_hours": "Tu-Fr 10:00-15:00",
+                "phone": "+1-940-668-8900",
+                "source": "USGS Geonames",
+                "tourism": "museum",
+                "website": "https://www.mortonmuseum.org/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Cooke_County_Courthouse_Gainesville_Wiki_%281_of_1%29.jpg/1280px-Cooke_County_Courthouse_Gainesville_Wiki_%281_of_1%29.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 3903841805,
+            "lat": 29.6593965,
+            "lon": -82.3721055,
+            "tags": {
+                "name": "The Gainesville Solar Walk",
+                "opening_hours": "24/7",
+                "tourism": "attraction",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 4568833142,
+            "lat": 34.2993773,
+            "lon": -83.8273974,
+            "tags": {
+                "description": "This is the proportional marker for the distance from the real planet Mercury to the sun. The sun is located in the corner of the square.",
+                "name": "Mercury",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/GAINESVILLE_COMMERCIAL_HISTORIC_DISTRICT%2C_HALL_COUNTY.jpg/1280px-GAINESVILLE_COMMERCIAL_HISTORIC_DISTRICT%2C_HALL_COUNTY.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 4568833151,
+            "lat": 34.3003163,
+            "lon": -83.828355,
+            "tags": {
+                "description": "This is the proportional marker for the distance from the real astroid belt to the sun. The sun is located in the corner of the square.",
+                "name": "The Astroid Belt",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/GAINESVILLE_COMMERCIAL_HISTORIC_DISTRICT%2C_HALL_COUNTY.jpg/1280px-GAINESVILLE_COMMERCIAL_HISTORIC_DISTRICT%2C_HALL_COUNTY.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 6879828598,
+            "lat": 34.2992241,
+            "lon": -83.826641,
+            "tags": {
+                "description": "This is the Sun. It was donated to the city of Gainesville by Lakeview Academy. This is the beginning and center of the Solar Walk. The Solar walk is a path created by each planet. The distance between the planets is proportional to the real solar system.",
+                "historic": "memorial",
+                "name": "The Sun",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/GAINESVILLE_COMMERCIAL_HISTORIC_DISTRICT%2C_HALL_COUNTY.jpg/1280px-GAINESVILLE_COMMERCIAL_HISTORIC_DISTRICT%2C_HALL_COUNTY.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 7994037191,
+            "lat": 29.6500025,
+            "lon": -82.3502872,
+            "tags": {
+                "brand": "Gatorade",
+                "colour": "blue",
+                "direction": "90;270",
+                "historic": "memorial",
+                "image": "http://explore.research.ufl.edu/historical-markers/wp-content/uploads/sites/4/Gatorade-marker-768x1024.jpg",
+                "material": "bronze",
+                "memorial": "plaque",
+                "name": "Gatorade's Birthplace",
+                "start_date": "2007",
+                "tourism": "attraction",
+                "website": "https://explore.research.ufl.edu/historical-markers/gatorades-birthplace/",
+                "wikidata": "Q304992",
+                "wikipedia": "en:Gatorade"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/43/Dsg_UF_O_Dome_20050507.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 12494024480,
+            "lat": 33.6247876,
+            "lon": -97.140658,
+            "tags": {
+                "museum": "history",
+                "name": "Sante Fe Depot Museum",
+                "opening_hours": "\"by appointment\"",
+                "phone": "+1-940-668-8900",
+                "tourism": "museum",
+                "website": "https://www.mortonmuseum.org/santa-fe-depot-museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Gainesville%2C_TX_train_station.jpg/1280px-Gainesville%2C_TX_train_station.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 45719890,
+            "lat": 29.6500337,
+            "lon": -82.3488406,
+            "tags": {
+                "addr:city": "Gainesville",
+                "addr:housenumber": "157",
+                "addr:postcode": "32611",
+                "addr:state": "FL",
+                "addr:street": "Gale Lemerand Drive",
+                "alt_name": "The Swamp",
+                "animal": "alligator",
+                "architect": "Rudolph Weaver",
+                "brand": "Florida Gators",
+                "capacity:persons": "88548",
+                "colour": "#FA4616;#0021A5",
+                "leisure": "stadium",
+                "name": "Ben Hill Griffin Stadium",
+                "name:de": "Ben Hill Griffin Stadion",
+                "old_name": "Florida Field",
+                "operator": "University Athletic Association, Inc. (UAA)",
+                "phone": "+1-352-375-4683",
+                "smoking": "no",
+                "sport": "american_football",
+                "start_date": "1930-11-08",
+                "tourism": "attraction",
+                "website": "https://floridagators.com/facilities/?id=1",
+                "wheelchair": "yes",
+                "wikidata": "Q816516",
+                "wikipedia": "en:Ben Hill Griffin Stadium"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Ben_Hill_Griffin_Stadium_-_Florida_Gators.jpg/1280px-Ben_Hill_Griffin_Stadium_-_Florida_Gators.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 150860043,
+            "lat": 29.6488138,
+            "lon": -82.3433213,
+            "tags": {
+                "access": "no",
+                "architect": "Guy C. Fulton",
+                "building": "yes",
+                "building:material": "brick",
+                "height": "47.9",
+                "heritage:website": "https://historic.facilities.ufl.edu/hccenturytower.htm",
+                "historic": "yes",
+                "man_made": "tower",
+                "name": "Century Tower",
+                "operator": "University of Florida",
+                "start_date": "1953",
+                "tourism": "attraction",
+                "tower:construction": "brick",
+                "tower:type": "bell_tower",
+                "visibility": "excellent",
+                "website": "https://arts.ufl.edu/sites/carillon-studio/photo-galleries/century-tower/",
+                "wikidata": "Q5063212",
+                "wikipedia": "en:Century Tower (University of Florida)"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/41/Dsg_UF_Century_Tower_20050507.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 196848221,
+            "lat": 29.6442358,
+            "lon": -82.3627708,
+            "tags": {
+                "access": "no",
+                "addr:city": "Gainesville",
+                "addr:postcode": "32611",
+                "addr:state": "FL",
+                "addr:street": "Museum Road",
+                "animal": "bats",
+                "building": "barn",
+                "building:levels": "2",
+                "building:material": "wood",
+                "building:min_level": "0",
+                "colour": "white",
+                "covered": "yes",
+                "email": "museuminfo@flmnh.ufl.edu",
+                "height": "9",
+                "lit": "no",
+                "location": "outdoor",
+                "name": "Bat House",
+                "operator": "University of Florida",
+                "ref": "0084",
+                "roof:colour": "grey",
+                "start_date": "1991",
+                "support": "pillar",
+                "tourism": "attraction",
+                "website": "https://www.floridamuseum.ufl.edu/bats/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/87/BaughmanCenter.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 260712724,
+            "lat": 29.6102613,
+            "lon": -82.3838622,
+            "tags": {
+                "building": "yes",
+                "name": "The Fred Bear Archery Museum",
+                "tourism": "museum"
+            }
+        },
+        {
+            "type": "way",
+            "id": 395178802,
+            "lat": 29.6359398,
+            "lon": -82.3703895,
+            "tags": {
+                "addr:city": "Gainesville",
+                "addr:country": "US",
+                "addr:housenumber": "3215",
+                "addr:postcode": "32611",
+                "addr:state": "FL",
+                "addr:street": "Hull Road",
+                "air_conditioning": "yes",
+                "building": "university",
+                "museum": "nature",
+                "name": "Florida Museum of Natural History",
+                "old_name": "Florida State Museum",
+                "opening_hours": "Mo-Sa 10:00-17:00, Su 12:00-17:00",
+                "operator": "University of Florida",
+                "operator:type": "university",
+                "phone": "+1-352-846-2000",
+                "ref": "0308",
+                "start_date": "1891",
+                "tourism": "museum",
+                "website": "https://www.floridamuseum.ufl.edu/",
+                "wheelchair": "yes",
+                "wikidata": "Q3074272",
+                "wikipedia": "en:Florida Museum of Natural History"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Florida_Museum_of_Natural_History_2.jpg/1280px-Florida_Museum_of_Natural_History_2.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 424512419,
+            "lat": 29.6442275,
+            "lon": -82.3629077,
+            "tags": {
+                "access": "no",
+                "addr:city": "Gainesville",
+                "addr:postcode": "32611",
+                "addr:state": "FL",
+                "addr:street": "Museum Road",
+                "animal": "bats",
+                "building": "barn",
+                "building:levels": "2",
+                "building:material": "wood",
+                "building:min_level": "0",
+                "colour": "white",
+                "covered": "yes",
+                "email": "museuminfo@flmnh.ufl.edu",
+                "height": "9",
+                "lit": "no",
+                "location": "outdoor",
+                "name": "Bat House",
+                "operator": "University of Florida",
+                "roof:colour": "grey",
+                "start_date": "1991",
+                "support": "pillar",
+                "tourism": "attraction",
+                "website": "https://www.floridamuseum.ufl.edu/bats/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/87/BaughmanCenter.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 436585188,
+            "lat": 29.6516236,
+            "lon": -82.3202791,
+            "tags": {
+                "addr:city": "Gainesville",
+                "addr:country": "US",
+                "addr:housenumber": "513",
+                "addr:postcode": "32601",
+                "addr:state": "FL",
+                "addr:street": "East University Avenue",
+                "building": "yes",
+                "building:levels": "1",
+                "description": "Museum",
+                "ele": "50",
+                "gnis:feature_id": "2449137",
+                "name": "Matheson History Museum",
+                "source": "USGS Geonames",
+                "tourism": "museum",
+                "website": "https://mathesonmuseum.org/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Mpmckenziehouse.jpg/1280px-Mpmckenziehouse.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 474969876,
+            "lat": 33.6210718,
+            "lon": -97.1543577,
+            "tags": {
+                "name": "Frank Buck Zoo",
+                "tourism": "zoo"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Frank_Buck_Zoo%2C_Gainesville%2C_Texas%2C_USA-31July2010.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 857073736,
+            "lat": 29.6511078,
+            "lon": -82.3486199,
+            "tags": {
+                "addr:city": "Gainesville",
+                "addr:housenumber": "105",
+                "addr:postcode": "32611",
+                "addr:state": "FL",
+                "addr:street": "Gale Lemerand Drive",
+                "alt_name": "Chicone Hall",
+                "building:levels": "4",
+                "building:material": "brick",
+                "email": "boosters@gators.ufl.edu",
+                "name": "Heritage Hall",
+                "operator": "Gator Boosters, Inc.",
+                "phone": "+1-352-375-4683",
+                "ref": "0160",
+                "roof:colour": "grey",
+                "start_date": "1991",
+                "tourism": "museum",
+                "website": "https://www.gatorboosters.org/",
+                "wheelchair": "yes"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Ben_Hill_Griffin_Stadium_-_Florida_Gators.jpg/1280px-Ben_Hill_Griffin_Stadium_-_Florida_Gators.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 859154009,
+            "lat": 29.650811,
+            "lon": -82.3486245,
+            "tags": {
+                "addr:city": "Gainesville",
+                "addr:state": "FL",
+                "barrier": "wall",
+                "colour": "orange",
+                "covered": "no",
+                "description": "Ring of Honor Members:\n- Emmitt Smith\n- Steve Spurrier\n- Danny Wuerffel\n- Jack Youngblood",
+                "height": "48",
+                "layer": "3",
+                "level": "4",
+                "lit": "yes",
+                "location": "outdoor",
+                "luminous": "yes",
+                "material": "concrete;steel",
+                "memorial": "wall",
+                "min_height": "46",
+                "name": "Ring of Honor",
+                "operator": "University Athletic Association, Inc. (UAA)",
+                "sport": "american_football",
+                "support": "roof",
+                "tourism": "attraction",
+                "visibility": "excellent",
+                "wall": "yes",
+                "website": "https://floridagators.com/sports/2015/12/10/_facilities_q_bhgriffin_ring_honor.aspx",
+                "wikidata": "Q5461394",
+                "wikipedia": "en:Florida Gators football"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Ben_Hill_Griffin_Stadium_-_Florida_Gators.jpg/1280px-Ben_Hill_Griffin_Stadium_-_Florida_Gators.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 866087250,
+            "lat": 29.6443064,
+            "lon": -82.3630431,
+            "tags": {
+                "access": "no",
+                "addr:city": "Gainesville",
+                "addr:postcode": "32611",
+                "addr:state": "FL",
+                "addr:street": "Museum Road",
+                "animal": "bats",
+                "building": "barn",
+                "building:levels": "2",
+                "building:material": "wood",
+                "building:min_level": "0",
+                "colour": "white",
+                "covered": "yes",
+                "email": "museuminfo@flmnh.ufl.edu",
+                "height": "9",
+                "lit": "no",
+                "location": "outdoor",
+                "name": "Bat House",
+                "operator": "University of Florida",
+                "roof:colour": "grey",
+                "start_date": "1991",
+                "support": "pillar",
+                "tourism": "attraction",
+                "website": "https://www.floridamuseum.ufl.edu/bats/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/87/BaughmanCenter.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 918765377,
+            "lat": 29.6436353,
+            "lon": -82.324918,
+            "tags": {
+                "addr:city": "Gainesville",
+                "addr:housenumber": "811",
+                "addr:postcode": "32601",
+                "addr:state": "FL",
+                "addr:street": "S Main St",
+                "building": "yes",
+                "name": "Cade Museum for Creativity and Invention",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Cade_Museum_for_Creativity_and_Invention_2.jpg/1280px-Cade_Museum_for_Creativity_and_Invention_2.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 1013313784,
+            "lat": 29.6573622,
+            "lon": -82.3354697,
+            "tags": {
+                "building": "yes",
+                "name": "A. Quinn Jones House",
+                "source": "microsoft/BuildingFootprints",
+                "tourism": "museum",
+                "wikidata": "Q16892933",
+                "wikipedia": "en:A. Quinn Jones House"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Gainesville_FL_AQ_Jones01.jpg/1280px-Gainesville_FL_AQ_Jones01.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 1013620403,
+            "lat": 29.6455797,
+            "lon": -82.3153778,
+            "tags": {
+                "building": "yes",
+                "name": "Cotton Club Museum and Cultural Center",
+                "source": "microsoft/BuildingFootprints",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Gainesville_Southeast_Hist_Dist_House01.jpg/1280px-Gainesville_Southeast_Hist_Dist_House01.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 1350505169,
+            "lat": 33.6245075,
+            "lon": -97.140952,
+            "tags": {
+                "area": "yes",
+                "building:levels": "1",
+                "name": "Vintage Gulf Gas Station",
+                "source": "microsoft/BuildingFootprints",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Gainesville%2C_TX_train_station.jpg/1280px-Gainesville%2C_TX_train_station.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 903617,
+            "lat": 29.21916667,
+            "lon": -82.05583333,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Silverspringsfl.JPG",
+            "description": "Silver Springs is an unincorporated community and census-designated place (CDP) in Marion County of northern Florida.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Silver Springs, Florida",
+                "wikipedia": "en:Silver Springs, Florida",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 10913868,
+            "lat": 29.2125,
+            "lon": -81.98805556,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Silver_River.jpg/1280px-Silver_River.jpg",
+            "description": "The Silver River is a short spring-fed river located east of Ocala in Marion County, Florida.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Silver River (Florida)",
+                "wikipedia": "en:Silver River (Florida)",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 109393,
+            "lat": 29.18777778,
+            "lon": -82.13055556,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/66/OcalaFLMontage.png",
+            "description": "Ocala ( oh-KAL-ə) is a city in and the county seat of Marion County, Florida, United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Ocala, Florida",
+                "wikipedia": "en:Ocala, Florida",
+                "tourism": "attraction"
+            }
+        }
+    ]
+}

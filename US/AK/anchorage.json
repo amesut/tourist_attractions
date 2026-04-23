@@ -1,0 +1,411 @@
+{
+    "city_metadata": {
+        "city_name": "Anchorage",
+        "state_code": "AK",
+        "state_full": "Alaska",
+        "city_summary": "Anchorage (Denaʼina: Dgheyay Kaq'; Dgheyaytnu), officially the Municipality of Anchorage, is the most populous city in the U.S. state of Alaska. With a population of 291,247 at the 2020 census, it contains nearly 40 percent of the state's population. The Anchorage metropolitan area, which includes Anchorage and the neighboring Matanuska-Susitna Borough, had a population of 398,328 in 2020, accounting for more than half the state's population.",
+        "city_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Anchorage_Skyline_in_Winter_-_Hotel_Captain_Cook_-_Anchorage_Alaska.jpg/1280px-Anchorage_Skyline_in_Winter_-_Hotel_Captain_Cook_-_Anchorage_Alaska.jpg",
+        "city_lat": 61.21666667,
+        "city_lon": -149.89361111,
+        "source": "wikipedia_verified_engine"
+    },
+    "attractions": [
+        {
+            "type": "node",
+            "id": 1404745325,
+            "lat": 61.4421543,
+            "lon": -149.3587082,
+            "tags": {
+                "name": "Thunder Bird Falls",
+                "tourism": "attraction",
+                "waterway": "waterfall"
+            }
+        },
+        {
+            "type": "node",
+            "id": 2117423017,
+            "lat": 61.213377,
+            "lon": -149.891006,
+            "tags": {
+                "historic": "yes",
+                "name": "Alaska Railroad No. 556 - Steam Locomotive",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Robert_B._Atwood_Building._Anchorage%2C_Alaska.jpg/1280px-Robert_B._Atwood_Building._Anchorage%2C_Alaska.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 2412895165,
+            "lat": 60.7875903,
+            "lon": -148.8789675,
+            "tags": {
+                "mobile_reception": "no",
+                "name": "Williwaw Salmon Viewing Area",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 4252826713,
+            "lat": 61.4603875,
+            "lon": -149.3614048,
+            "tags": {
+                "addr:housenumber": "26640",
+                "addr:postcode": "99567",
+                "addr:state": "AK",
+                "addr:street": "Eklutna Village Road",
+                "name": "Eklutna Historical Park",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/18/St._Nicholas_Russian_Orthodox_Churches%2C_Old_Church%2C_Eklutna%2C_Anchorage%2C_AK.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 4303163842,
+            "lat": 60.9855716,
+            "lon": -149.5293973,
+            "tags": {
+                "addr:city": "Indian",
+                "addr:housenumber": "Mile 104",
+                "addr:postcode": "99540",
+                "addr:state": "AK",
+                "addr:street": "Seward Highway",
+                "attraction": "mining",
+                "large_vehicles": "yes",
+                "mobile_reception": "yes",
+                "name": "Indian Valley Mine",
+                "opening_hours": "09:00-18:00",
+                "phone": "+1-907-653-1120",
+                "tourism": "attraction",
+                "website": "https://indianvalleymine.com"
+            }
+        },
+        {
+            "type": "node",
+            "id": 4360466082,
+            "lat": 61.0519901,
+            "lon": -149.7969771,
+            "tags": {
+                "historic": "yes",
+                "name": "Potter Historic Site",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/POTTER_SECTION_HOUSE.jpg/1280px-POTTER_SECTION_HOUSE.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 4551596301,
+            "lat": 60.7720279,
+            "lon": -148.8299118,
+            "tags": {
+                "amenity": "ferry_terminal",
+                "cargo": "passengers",
+                "name": "Portage Glacier Cruise",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 4799717921,
+            "lat": 61.2185486,
+            "lon": -149.8893628,
+            "tags": {
+                "name": "Ceremonial Start of Iditarod Trail Sled Dog Race",
+                "opening_hours": "Mar Sa[1] 10:00+",
+                "tourism": "attraction",
+                "website": "https://iditarod.com/",
+                "wikidata": "Q1415139",
+                "wikipedia": "en:Iditarod Trail Sled Dog Race"
+            }
+        },
+        {
+            "type": "node",
+            "id": 5314336662,
+            "lat": 61.2176853,
+            "lon": -149.8863572,
+            "tags": {
+                "fee": "yes",
+                "name": "Alaska Law Enforcement Museum",
+                "opening_hours": "Mo-Fr 10:00-16:00; Sa 12:00-16:00",
+                "tourism": "museum",
+                "website": "https://foast.org/museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Anchorage_5th_Avenue_Mall_looking_southeast_from_5th_and_D_intersection.jpg/1280px-Anchorage_5th_Avenue_Mall_looking_southeast_from_5th_and_D_intersection.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 6312322385,
+            "lat": 60.9701016,
+            "lon": -149.0964024,
+            "tags": {
+                "name": "Mt.Alyeska Tram",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Alyeska_Resort_logo.png",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 7613242641,
+            "lat": 61.1262954,
+            "lon": -149.793054,
+            "tags": {
+                "attraction": "animal",
+                "name": "Dall Sheep",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Alaska_Zoo%2C_Anchorage.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 12068719799,
+            "lat": 61.2187525,
+            "lon": -149.8879637,
+            "tags": {
+                "museum": "children",
+                "name": "LumaLim",
+                "tourism": "museum",
+                "website": "https://www.facebook.com/profile.php?id=61556522124089"
+            }
+        },
+        {
+            "type": "way",
+            "id": 29406233,
+            "lat": 61.2327172,
+            "lon": -149.7164222,
+            "tags": {
+                "addr:city": "Anchorage",
+                "addr:housenumber": "8800",
+                "addr:postcode": "99504",
+                "addr:state": "AK",
+                "addr:street": "Heritage Center Drive",
+                "building": "yes",
+                "check_date:opening_hours": "2024-08-30",
+                "fee": "yes",
+                "museum": "local",
+                "name": "Alaska Native Heritage Center",
+                "opening_hours": "May 12-Sep 15 09:00-17:00; Sep 16-May 12 Mo-Fr 09:00-17:00",
+                "tourism": "museum",
+                "website": "https://www.alaskanative.net/",
+                "wikidata": "Q2637078",
+                "wikipedia": "en:Alaska Native Heritage Center"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Alaska_Native_Heritage_Center_across_Lake_Tiulana.jpg/1280px-Alaska_Native_Heritage_Center_across_Lake_Tiulana.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 285248750,
+            "lat": 61.2160512,
+            "lon": -149.8845402,
+            "tags": {
+                "addr:city": "Anchorage",
+                "addr:housenumber": "625",
+                "addr:postcode": "99501",
+                "addr:state": "AK",
+                "addr:street": "C Street",
+                "alt_name": "Anchorage Museum at Rasmuson Center",
+                "building": "yes",
+                "check_date:opening_hours": "2024-08-30",
+                "fee": "yes",
+                "name": "Anchorage Museum",
+                "opening_hours": "May-Sep 10:00-18:00; Oct-Apr Tu-Sa 10:00-18:00; Oct-Apr Su 12:00-18:00",
+                "tourism": "museum",
+                "website": "https://www.anchoragemuseum.org/",
+                "wheelchair": "yes",
+                "wikidata": "Q4752732",
+                "wikipedia": "en:Anchorage Museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Around_Anchorage_%2833884033738%29.jpg/1280px-Around_Anchorage_%2833884033738%29.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 297210608,
+            "lat": 60.8246116,
+            "lon": -148.9834082,
+            "tags": {
+                "fee": "yes",
+                "name": "Alaska Wildlife Conservation Center",
+                "tourism": "zoo",
+                "wikidata": "Q4708633",
+                "wikipedia": "en:Alaska Wildlife Conservation Center",
+                "zoo": "wildlife_park"
+            }
+        },
+        {
+            "type": "way",
+            "id": 488874470,
+            "lat": 61.219293,
+            "lon": -149.9040356,
+            "tags": {
+                "building": "yes",
+                "historic": "monument",
+                "name": "Captain Cook Monument",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Statue_of_Captain_James_Cook%2C_Anchorage%2C_Alaska.jpg/1280px-Statue_of_Captain_James_Cook%2C_Anchorage%2C_Alaska.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 623719163,
+            "lat": 61.1791831,
+            "lon": -149.9725621,
+            "tags": {
+                "addr:city": "Anchorage",
+                "addr:housenumber": "4721",
+                "addr:postcode": "99502",
+                "addr:state": "AK",
+                "addr:street": "Aircraft Drive",
+                "check_date:opening_hours": "2024-08-30",
+                "email": "director@alaskaairmuseum.org",
+                "fee": "yes",
+                "fee:conditional": "no @ age < 3",
+                "museum": "aviation",
+                "name": "Alaska Aviation Museum",
+                "opening_hours": "May-Sep 10:00-17:00; Oct-Apr Mo-Sa 10:00-17:00; Oct-Apr Su 12:00-17:00",
+                "phone": "+1-907-248-5325",
+                "tourism": "museum",
+                "website": "https://alaskaairmuseum.org/",
+                "wikidata": "Q428281"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Alaska_Aviation_Museum_in_Anchorage_Alaska_%28Quintin_Soloviev%29.jpg/1280px-Alaska_Aviation_Museum_in_Anchorage_Alaska_%28Quintin_Soloviev%29.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 677684728,
+            "lat": 61.1895484,
+            "lon": -149.8603175,
+            "tags": {
+                "addr:city": "Anchorage",
+                "addr:housenumber": "1221",
+                "addr:postcode": "99508",
+                "addr:state": "AK",
+                "addr:street": "East 35th Avenue",
+                "building": "yes",
+                "name": "Alaska Jewish Museum",
+                "tourism": "museum",
+                "website": "https://www.alaskajewishcampus.org/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Moose%27s_Tooth_Pub_%26_Pizzeria_2.jpg/1280px-Moose%27s_Tooth_Pub_%26_Pizzeria_2.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 768395033,
+            "lat": 61.2252195,
+            "lon": -149.8078485,
+            "tags": {
+                "building": "yes",
+                "name": "Alaska Museum of Science and Nature",
+                "tourism": "museum"
+            }
+        },
+        {
+            "type": "way",
+            "id": 778365099,
+            "lat": 61.1248435,
+            "lon": -149.7922097,
+            "tags": {
+                "addr:city": "Anchorage",
+                "addr:housenumber": "4731",
+                "addr:postcode": "99507",
+                "addr:state": "AK",
+                "addr:street": "O'Malley Road",
+                "city": "Anchorage",
+                "fee": "yes",
+                "name": "Alaska Zoo",
+                "opening_hours": "PH,Mo-Su 09:00-21:00",
+                "tourism": "zoo",
+                "website": "https://www.alaskazoo.org/",
+                "wikidata": "Q847845"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Alaska_Zoo%2C_Anchorage.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 804176282,
+            "lat": 61.0233171,
+            "lon": -149.1037051,
+            "tags": {
+                "attraction": "historic",
+                "historic": "ruins",
+                "name": "Girdwood Mine",
+                "note": "boundary traced from USGS Topo",
+                "source:position": "USGS Topo",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "way",
+            "id": 1049194113,
+            "lat": 61.2342796,
+            "lon": -149.2712071,
+            "tags": {
+                "addr:city": "Eagle River",
+                "addr:country": "US",
+                "addr:housenumber": "32750",
+                "addr:postcode": "99577",
+                "addr:state": "AK",
+                "addr:street": "Eagle River Road",
+                "building": "yes",
+                "check_date:opening_hours": "2024-08-30",
+                "fee": "yes",
+                "name": "Eagle River Nature Center",
+                "opening_hours": "May-Sep We-Su 10:00-17:00; Oct-Apr Fr-Su 10:00-17:00",
+                "tourism": "museum",
+                "website": "https://www.ernc.org/"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 105491,
+            "lat": 60.12444444,
+            "lon": -149.43333333,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Seward_Alaska_aerial_view.jpg/1280px-Seward_Alaska_aerial_view.jpg",
+            "description": "Seward (Alutiiq: Qutalleq; Dena'ina: Tl'ubugh) is an incorporated home rule city in Alaska, United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Seward, Alaska",
+                "wikipedia": "en:Seward, Alaska",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 6836983,
+            "lat": 61.21722222,
+            "lon": -149.88861111,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Anchorage_5th_Avenue_Mall_looking_southeast_from_5th_and_D_intersection.jpg/1280px-Anchorage_5th_Avenue_Mall_looking_southeast_from_5th_and_D_intersection.jpg",
+            "description": "Anchorage 5th Avenue Mall is a 447,000 square feet (41,500 m2) regional shopping mall located in Downtown Anchorage, Alaska, United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Anchorage 5th Avenue Mall",
+                "wikipedia": "en:Anchorage 5th Avenue Mall",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 105445,
+            "lat": 64.84361111,
+            "lon": -147.72305556,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Main_School_NRHP_Fairbanks%2C_AK_%282%29.JPG/1280px-Main_School_NRHP_Fairbanks%2C_AK_%282%29.JPG",
+            "description": "Fairbanks is a home rule city and the borough seat of the Fairbanks North Star Borough, Alaska, United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Fairbanks, Alaska",
+                "wikipedia": "en:Fairbanks, Alaska",
+                "tourism": "attraction"
+            }
+        }
+    ]
+}

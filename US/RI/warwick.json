@@ -1,0 +1,515 @@
+{
+    "city_metadata": {
+        "city_name": "Warwick",
+        "state_code": "RI",
+        "state_full": "Rhode Island",
+        "city_summary": "Warwick ( WORR-ik or  WOR-wik) is a city in Kent County, Rhode Island, United States, and is the third-largest city in the state, with a population of 82,823 at the 2020 census. Warwick is located approximately 12 miles (19 km) south of downtown Providence, Rhode Island, 63 miles (101 km) southwest of Boston, Massachusetts, and 171 miles (275 km) northeast of New York City.\nWarwick was founded by Samuel Gorton in 1642 and has witnessed major events in American history.",
+        "city_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Warwick_%28Rhode_Island%2C_USA%29_--_2006_--_6.jpg/1280px-Warwick_%28Rhode_Island%2C_USA%29_--_2006_--_6.jpg",
+        "city_lat": 41.71666667,
+        "city_lon": -71.41666667,
+        "source": "wikipedia_verified_engine"
+    },
+    "attractions": [
+        {
+            "type": "node",
+            "id": 366528478,
+            "lat": 52.3484858,
+            "lon": -1.5889961,
+            "tags": {
+                "name": "Little Virginia",
+                "tourism": "attraction",
+                "website": "https://www.ourwarwickshire.org.uk/content/article/little-virginia-kenilworth"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Kenilworth_Castle_gatehouse_landscape.jpg/1280px-Kenilworth_Castle_gatehouse_landscape.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 366533363,
+            "lat": 52.3478833,
+            "lon": -1.5907848,
+            "tags": {
+                "addr:city": "Kenilworth",
+                "addr:housename": "Castle Green",
+                "addr:postcode": "CV8 1NG",
+                "addr:street": "Castle Road",
+                "name": "Kenilworth Castle and Elizabethan Garden",
+                "tourism": "museum",
+                "website": "https://www.english-heritage.org.uk/visit/places/kenilworth-castle/",
+                "wheelchair": "yes"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Kenilworth_Castle_gatehouse_landscape.jpg/1280px-Kenilworth_Castle_gatehouse_landscape.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 366691050,
+            "lat": 41.6995104,
+            "lon": -71.4557831,
+            "tags": {
+                "addr:state": "RI",
+                "ele": "33",
+                "gnis:feature_id": "1903055",
+                "name": "Warwick Museum of Art",
+                "source": "USGS Geonames",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Kentish_Artillery%2C_Warwick_RI.jpg/1280px-Kentish_Artillery%2C_Warwick_RI.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 1639287960,
+            "lat": 52.293692,
+            "lon": -1.6552794,
+            "tags": {
+                "addr:postcode": "CV35 8XA",
+                "name": "Hatton Shopping Village",
+                "tourism": "attraction",
+                "website": "https://www.hattonworld.com/"
+            }
+        },
+        {
+            "type": "node",
+            "id": 2619501220,
+            "lat": 52.2811948,
+            "lon": -1.5872564,
+            "tags": {
+                "addr:city": "Warwick",
+                "addr:housename": "The Court House",
+                "addr:postcode": "CV34 4EW",
+                "addr:street": "Jury Street",
+                "fee": "no",
+                "museum": "history",
+                "name": "Warwickshire Yeomanry Museum",
+                "tourism": "museum",
+                "website": "https://www.warwickshire-yeomanry-museum.co.uk/",
+                "wikidata": "Q113369936"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/St._Mary%27s_Church_seen_from_Warwick_Castle%2C_geograph_6819513_by_habiloid_%28crop%29.jpg/1280px-St._Mary%27s_Church_seen_from_Warwick_Castle%2C_geograph_6819513_by_habiloid_%28crop%29.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 2622168461,
+            "lat": 52.2831847,
+            "lon": -1.5804278,
+            "tags": {
+                "fee": "no",
+                "name": "Royal Regiment of Fusiliers",
+                "tourism": "museum",
+                "wikidata": "Q7374770"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/St_John%27s_House_Museum.jpg/1280px-St_John%27s_House_Museum.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 3541491034,
+            "lat": 52.2778909,
+            "lon": -1.5853029,
+            "tags": {
+                "historic": "heritage",
+                "name": "Warwick Trebuchet",
+                "tourism": "attraction",
+                "wheelchair": "yes"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/St._Mary%27s_Church_seen_from_Warwick_Castle%2C_geograph_6819513_by_habiloid_%28crop%29.jpg/1280px-St._Mary%27s_Church_seen_from_Warwick_Castle%2C_geograph_6819513_by_habiloid_%28crop%29.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 5853595254,
+            "lat": 45.9562797,
+            "lon": -72.0053076,
+            "tags": {
+                "name": "Pont couvert de Warwick",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Pont_Joseph-%C3%89douard-Perrault_d%C3%A9cembre2011-iso2.jpg/1280px-Pont_Joseph-%C3%89douard-Perrault_d%C3%A9cembre2011-iso2.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 11932794895,
+            "lat": 52.2869156,
+            "lon": -1.5344782,
+            "tags": {
+                "check_date:opening_hours": "2025-10-09",
+                "fee": "no",
+                "name": "Leamington Spa Art Gallery & Museum",
+                "opening_hours": "Tu-Su,PH 10:00-16:00",
+                "tourism": "museum",
+                "wheelchair": "yes",
+                "wikidata": "Q125564484"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Royal_Pump_Rooms_and_Baths%2C_Leamington_Spa%2C_David_Dixon%2C_4093142.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 32111121,
+            "lat": 52.3732651,
+            "lon": -1.4955543,
+            "tags": {
+                "historic": "fort",
+                "name": "Lunt Roman Fort",
+                "note": "partially re-constructed as tourist attraction",
+                "opening_hours": "Mo-Fr School Holidays only",
+                "tourism": "attraction",
+                "website": "https://www.pastscape.org.uk/hob.aspx?hob_id=335746",
+                "wikidata": "Q12061402",
+                "wikipedia": "en:Lunt Roman Fort"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Lunt_fort_baginton.JPG/1280px-Lunt_fort_baginton.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 55280741,
+            "lat": 52.2831632,
+            "lon": -1.580362,
+            "tags": {
+                "building": "yes",
+                "fee": "no",
+                "heritage": "2",
+                "heritage:operator": "Historic England",
+                "listed_status": "Grade I",
+                "name": "St John's House",
+                "source": "OS_OpenData_StreetView;local_knowledge",
+                "tourism": "museum",
+                "wikidata": "Q7593594"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/St_John%27s_House_Museum.jpg/1280px-St_John%27s_House_Museum.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 96550114,
+            "lat": 52.3410068,
+            "lon": -1.7085974,
+            "tags": {
+                "HE_ref": "1035316",
+                "addr:postcode": "B93 0DQ",
+                "building": "yes",
+                "dog": "no",
+                "fee": "yes",
+                "heritage": "2",
+                "heritage:operator": "Historic England",
+                "historic": "manor",
+                "listed_status": "Grade I",
+                "name": "Baddesley Clinton",
+                "operator": "National Trust",
+                "ref:he": "1035316",
+                "source": "visual survey;bing",
+                "tourism": "attraction",
+                "website": "https://www.nationaltrust.org.uk/visit/warwickshire/baddesley-clinton",
+                "wikidata": "Q4386885",
+                "wikipedia": "en:Baddesley Clinton"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Baddesley_Clinton_house_north_2016.jpg/1280px-Baddesley_Clinton_house_north_2016.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 99017125,
+            "lat": 52.3479422,
+            "lon": -1.7465873,
+            "tags": {
+                "building": "yes",
+                "dog": "no",
+                "heritage": "2",
+                "heritage:operator": "Historic England",
+                "listed_status": "Grade I",
+                "name": "Packwood House",
+                "operator": "National Trust",
+                "source": "visual survey;bing",
+                "tourism": "attraction",
+                "wikidata": "Q7123054",
+                "wikipedia": "en:Packwood House"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Packwood_House_2019-08.jpg/1280px-Packwood_House_2019-08.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 184654250,
+            "lat": 52.2817662,
+            "lon": -1.5906682,
+            "tags": {
+                "addr:postcode": "CV34 4SA",
+                "building": "yes",
+                "check_date:opening_hours": "2023-12-05",
+                "fee": "no",
+                "heritage": "2",
+                "heritage:operator": "Historic England",
+                "listed_status": "Grade II*",
+                "name": "Market Hall Warwickshire Museum",
+                "opening_hours": "Tu-Sa 10:00-17:00",
+                "source": "survey",
+                "tourism": "museum",
+                "wheelchair": "yes",
+                "wikidata": "Q15961647",
+                "wikipedia": "en:Market Hall Museum, Warwick"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/St._Mary%27s_Church_seen_from_Warwick_Castle%2C_geograph_6819513_by_habiloid_%28crop%29.jpg/1280px-St._Mary%27s_Church_seen_from_Warwick_Castle%2C_geograph_6819513_by_habiloid_%28crop%29.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 217025303,
+            "lat": 42.6821812,
+            "lon": -72.3383953,
+            "tags": {
+                "building": "yes",
+                "name": "The Warwick Historical Society and Museum",
+                "tourism": "museum",
+                "website": "https://history.town.warwick.ma.us/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Warwick_Town_Hall%2C_MA.jpg/1280px-Warwick_Town_Hall%2C_MA.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 256063848,
+            "lat": 52.2834736,
+            "lon": -1.5822238,
+            "tags": {
+                "building": "yes",
+                "museum": "military",
+                "name": "The Museum of The Queen’s Royal Hussars",
+                "source": "bing, survey",
+                "tourism": "museum",
+                "website": "https://www.qrhmuseum.com/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/St_John%27s_House_Museum.jpg/1280px-St_John%27s_House_Museum.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 257539423,
+            "lat": 52.3482598,
+            "lon": -1.5832514,
+            "tags": {
+                "building": "yes",
+                "fee": "no",
+                "name": "The Barn Museum",
+                "tourism": "museum",
+                "wheelchair": "limited"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Ancient_gate_house_kenilworth_9l07.JPG/1280px-Ancient_gate_house_kenilworth_9l07.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 331991941,
+            "lat": 52.3739084,
+            "lon": -1.4789287,
+            "tags": {
+                "fee": "yes",
+                "museum": "aerospace",
+                "name": "Midland Air Museum",
+                "tourism": "museum",
+                "website": "https://www.midlandairmuseum.co.uk/",
+                "wikidata": "Q6842303",
+                "wikipedia": "en:Midland Air Museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Midland_Air_Museum_entrance_and_Vulcan.jpg/1280px-Midland_Air_Museum_entrance_and_Vulcan.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 354672689,
+            "lat": 52.282099,
+            "lon": -1.5783189,
+            "tags": {
+                "name": "Amusement Park",
+                "opening_hours": "Mo-Sa 11:00-17:00",
+                "tourism": "theme_park"
+            }
+        },
+        {
+            "type": "way",
+            "id": 374689341,
+            "lat": 52.2808089,
+            "lon": -1.5937876,
+            "tags": {
+                "access": "customers",
+                "addr:city": "Warwick",
+                "addr:postcode": "CV34 6HF",
+                "addr:street": "Bread and Meat Close",
+                "email": "centremanager@hcgt.org.uk",
+                "fee": "yes",
+                "name": "Hill Close Gardens",
+                "phone": "+44 1926 493339",
+                "tourism": "attraction",
+                "website": "https://www.hillclosegardens.com/",
+                "wheelchair": "limited"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Hill_Close_Garndens_greenhouse.jpg/1280px-Hill_Close_Garndens_greenhouse.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 385779512,
+            "lat": 41.6992314,
+            "lon": -71.457947,
+            "tags": {
+                "addr:city": "Warwick",
+                "addr:housenumber": "3259",
+                "addr:postcode": "02886",
+                "addr:state": "RI",
+                "addr:street": "Post Road",
+                "building": "yes",
+                "description": "Warwick Center for the Arts, formerly the Warwick Museum of Art, is an art museum in Warwick, Rhode Island, USA. The Center was founded in 1974 and features exhibits in its art gallery, as well as performances, camps for children, adult classes and comedy",
+                "name": "Warwick Center for the Arts",
+                "tourism": "museum",
+                "wikidata": "Q16917084",
+                "wikipedia": "en:Warwick Center for the Arts"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Kentish_Artillery%2C_Warwick_RI.jpg/1280px-Kentish_Artillery%2C_Warwick_RI.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 405935598,
+            "lat": 52.3739668,
+            "lon": -1.4802999,
+            "tags": {
+                "aircraft:type": "military",
+                "barrier": "fence",
+                "manufacturer": "A V Roe & Co.",
+                "name": "Avro Vulcan",
+                "ref": "XL360",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Midland_Air_Museum_entrance_and_Vulcan.jpg/1280px-Midland_Air_Museum_entrance_and_Vulcan.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 440390149,
+            "lat": 41.7620005,
+            "lon": -71.3907511,
+            "tags": {
+                "addr:city": "Warwick",
+                "addr:housenumber": "59",
+                "addr:postcode": "02888",
+                "addr:state": "RI",
+                "addr:street": "Remington Street",
+                "building": "yes",
+                "museum": "military",
+                "name": "Pawtuxet Rangers Armory",
+                "operator": "Pawtuxet Rangers Militia",
+                "operator:type": "private",
+                "phone": "+1-401-785-1774",
+                "tourism": "museum",
+                "website": "https://www.pawtuxetrangers.com/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/2023_Gaspee_Days_Parade%2C_Pawtuxet_Village.jpg/1280px-2023_Gaspee_Days_Parade%2C_Pawtuxet_Village.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 571681735,
+            "lat": 52.2779436,
+            "lon": -1.5876446,
+            "tags": {
+                "access": "customers",
+                "addr:postcode": "CV34 6AH",
+                "area": "yes",
+                "fee": "yes",
+                "name": "Warwick Castle",
+                "name:en": "Warwick Castle",
+                "opening_hours:url": "https://www.warwick-castle.com/plan-your-day/castle-information/opening-hours/",
+                "operator": "Merlin Entertainments",
+                "tourism": "attraction",
+                "website": "https://www.warwick-castle.com/",
+                "wikidata": "Q941276",
+                "wikipedia": "en:Warwick Castle"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Warwick_Castle.jpg/1280px-Warwick_Castle.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 783533832,
+            "lat": -28.2203712,
+            "lon": 152.0266905,
+            "tags": {
+                "area": "yes",
+                "museum": "history",
+                "name": "Warwick Museum Complex",
+                "operator": "Warwickk and District Historical Society",
+                "operator:type": "charity",
+                "start_date": "1966",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Pringle_Cottage%2C_2015.JPG/1280px-Pringle_Cottage%2C_2015.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 783533833,
+            "lat": -28.20921,
+            "lon": 152.034649,
+            "tags": {
+                "building": "yes",
+                "fee": "yes",
+                "museum": "history",
+                "name": "Australian Rodeo Heritage Centre",
+                "opening_hours": "Mo-Fr 08:30-17:00",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Warwick_High_School%2C_2017.jpg/1280px-Warwick_High_School%2C_2017.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 856387176,
+            "lat": 35.686521,
+            "lon": -97.0002602,
+            "tags": {
+                "addr:city": "Chandler",
+                "addr:housenumber": "336992",
+                "addr:postcode": "74834",
+                "addr:state": "OK",
+                "addr:street": "East Highway 66",
+                "building": "yes",
+                "museum": "motocycle,route_66",
+                "name": "Seaba Station Motorcycle Museum",
+                "name:en": "Seaba Station Motorcycle Museum",
+                "opening_hours": "10:00-17:00; We off",
+                "source": "microsoft/BuildingFootprints;local knowledge",
+                "tourism": "museum",
+                "website": "http://seabastation.com/index.html"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/SeabaFillingSstationWarwickOK.JPG/1280px-SeabaFillingSstationWarwickOK.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 917471804,
+            "lat": 32.2679593,
+            "lon": -64.7871624,
+            "tags": {
+                "name": "Surfside Beach",
+                "natural": "beach",
+                "surface": "sand",
+                "tourism": "attraction",
+                "wikidata": "Q21790259"
+            }
+        },
+        {
+            "type": "way",
+            "id": 1108354594,
+            "lat": 52.2932608,
+            "lon": -1.6531923,
+            "tags": {
+                "name": "Hatton Adventure World",
+                "tourism": "attraction",
+                "website": "https://adventure.hattonworld.com/"
+            }
+        }
+    ]
+}

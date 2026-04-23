@@ -1,0 +1,376 @@
+{
+    "city_metadata": {
+        "city_name": "Flint",
+        "state_code": "MI",
+        "state_full": "Michigan",
+        "city_summary": "Flint is a city in and the county seat of Genesee County, Michigan, United States. The city's population was 81,252 at the 2020 census, and was estimated to be 79,735 in 2024, making it the largest city in Genesee County and the 12th-most populous city in Michigan. Located along the Flint River 66 miles (106 km) northwest of Detroit, it is a principal city within the Central Michigan region.",
+        "city_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Flint%2C_Michigan.jpg/1280px-Flint%2C_Michigan.jpg",
+        "city_lat": 43.02442,
+        "city_lon": -83.691971,
+        "source": "wikipedia_verified_engine"
+    },
+    "attractions": [
+        {
+            "type": "node",
+            "id": 318612510,
+            "lat": -32.2276607,
+            "lon": 116.4225142,
+            "tags": {
+                "created_by": "Potlatch 0.10f",
+                "name": "Chrismas tree well",
+                "note": "Well made of sleepers",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "way",
+            "id": 454980941,
+            "lat": 43.0253188,
+            "lon": -83.6758698,
+            "tags": {
+                "building": "yes",
+                "name": "Buick Automotive Gallery",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Applewood_Estate-12008.jpg/1280px-Applewood_Estate-12008.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 629024402,
+            "lat": 43.0232549,
+            "lon": -83.6788629,
+            "tags": {
+                "addr:city": "Flint",
+                "addr:housenumber": "1221",
+                "addr:postcode": "48503",
+                "addr:state": "MI",
+                "addr:street": "East Kearsley Street",
+                "building": "yes",
+                "check_date:opening_hours": "2023-07-12",
+                "ele": "228",
+                "email": "sloan@sloanlongway.org",
+                "fee": "yes",
+                "gnis:feature_id": "638110",
+                "is_in:state_code": "MI",
+                "name": "Sloan Museum",
+                "opening_hours": "Tu-Sa 10:00-17:00; Su 12:00-17:00",
+                "phone": "+1 810 237 3450",
+                "source": "USGS Geonames",
+                "toilets:wheelchair": "yes",
+                "tourism": "museum",
+                "website": "https://sloanlongway.org/sloan/",
+                "wheelchair": "yes"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Historic_Vehicle_Gallery.jpg/1280px-Historic_Vehicle_Gallery.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 686774927,
+            "lat": 43.0198697,
+            "lon": -83.6839297,
+            "tags": {
+                "building": "yes",
+                "name": "Whaley House Musuem",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Flint_July_2018_18_%28Robert_J._Whaley_House%29.jpg/1280px-Flint_July_2018_18_%28Robert_J._Whaley_House%29.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 490908,
+            "lat": 42.4467,
+            "lon": -83.125,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Detroit_Skyline_%28Nov2021%29.jpg/1280px-Detroit_Skyline_%28Nov2021%29.jpg",
+            "description": "Metro Detroit is a major metropolitan area in the U.S. state of Michigan, consisting of the city of Detroit and over 200 municipalities in the surrounding area.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Metro Detroit",
+                "wikipedia": "en:Metro Detroit",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 3885235,
+            "lat": 46.42583333,
+            "lon": 21.83694444,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Borosjen%C5%91_-_V%C3%A1r_-_panoramio_%286%29.jpg/1280px-Borosjen%C5%91_-_V%C3%A1r_-_panoramio_%286%29.jpg",
+            "description": "Ineu (Romanian pronunciation: [iˈnew]; Hungarian: Borosjenő) is a town in Arad County, western Transylvania, Romania.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Ineu",
+                "wikipedia": "en:Ineu",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 29474416,
+            "lat": 50.81444444,
+            "lon": 5.685,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Canal_Albert_Lanaye-30aug2008%28detail%29.jpg/1280px-Canal_Albert_Lanaye-30aug2008%28detail%29.jpg",
+            "description": "Mount Saint Peter (French: Montagne Saint-Pierre; Dutch: Sint-Pietersberg), also referred to as Caestert Plateau, is the northern part of a plateau running north to south between the valleys of the river Geer to the west, and the Meuse to the east.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Mount Saint Peter",
+                "wikipedia": "en:Mount Saint Peter",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 3971489,
+            "lat": 34.39138889,
+            "lon": 36.39583333,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/99/Hermel_Pyramid.jpg",
+            "description": "Hermel (Levantine Arabic: الهرمل, romanized: al-Hermel) is a town in Baalbek-Hermel Governorate, Lebanon.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Hermel",
+                "wikipedia": "en:Hermel",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 1817713,
+            "lat": 43.01111111,
+            "lon": -83.64194444,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/The_Dort_Federal_Credit_Union_Event_Center.jpg/1280px-The_Dort_Federal_Credit_Union_Event_Center.jpg",
+            "description": "The Dort Financial Center (originally IMA Sports Arena and formerly Perani Arena and Event Center) is a sports, entertainment and convention venue located in Flint, Michigan, United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Dort Financial Center",
+                "wikipedia": "en:Dort Financial Center",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 117020,
+            "lat": 42.655,
+            "lon": -86.20194444,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Saugatuck%2C_Michigan.jpg/1280px-Saugatuck%2C_Michigan.jpg",
+            "description": "Saugatuck ( SAW-gə-tuck) is a city in Allegan County in the U.S. state of Michigan.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Saugatuck, Michigan",
+                "wikipedia": "en:Saugatuck, Michigan",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 683097,
+            "lat": 52.47585,
+            "lon": 0.67541,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/df/Grimes_Graves_%2C_neolithic_flint_mine_-_geograph.org.uk_-_1007207.jpg",
+            "description": "Grime's Graves is a large Neolithic flint mining complex in Norfolk, England.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Grime's Graves",
+                "wikipedia": "en:Grime's Graves",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 300009,
+            "lat": 44.33,
+            "lon": -76.17,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Gananoque_Pier.jpg/1280px-Gananoque_Pier.jpg",
+            "description": "Gananoque ( GAN-ə-NOK-way) is a town in the United Counties of Leeds and Grenville of Ontario, Canada.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Gananoque",
+                "wikipedia": "en:Gananoque",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 10266752,
+            "lat": 43.8,
+            "lon": 19.522,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/%C5%A0argan_Eight_Map-sr.svg/1280px-%C5%A0argan_Eight_Map-sr.svg.png",
+            "description": "The Šargan Eight (Serbian: Шарганска осмица / Šarganska osmica) is a narrow-gauge heritage railway in Serbia, running from the village of Mokra Gora to Šargan Vitasi station.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Šargan Eight",
+                "wikipedia": "en:Šargan Eight",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 40906624,
+            "lat": 53.63083333,
+            "lon": -2.53444444,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Noon_Hill_Tumulus_%28geograph_3857177%29.jpg/1280px-Noon_Hill_Tumulus_%28geograph_3857177%29.jpg",
+            "description": "Noon Hill is a hill on the border of the boroughs of Chorley, Blackburn with Darwen and Bolton, in North West England.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Noon Hill (North West England)",
+                "wikipedia": "en:Noon Hill (North West England)",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 41243583,
+            "lat": 43.247,
+            "lon": -83.778,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Birch_Run_Outlets.jpg",
+            "description": "Birch Run Premium Outlets is an outlet mall in Birch Run, Michigan.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Birch Run Premium Outlets",
+                "wikipedia": "en:Birch Run Premium Outlets",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 18859,
+            "lat": 44,
+            "lon": -85,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Flag_of_Michigan.svg/1280px-Flag_of_Michigan.svg.png",
+            "description": "Michigan (  MISH-ig-ən) is a peninsular state in the Great Lakes region of the Upper Midwestern United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Michigan",
+                "wikipedia": "en:Michigan",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 56865,
+            "lat": 53.5,
+            "lon": 108,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Baikal.A2001296.0420.250m-NASA.jpg/1280px-Baikal.A2001296.0420.250m-NASA.jpg",
+            "description": "Lake Baikal is a rift lake and the deepest lake in the world.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Lake Baikal",
+                "wikipedia": "en:Lake Baikal",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 11639063,
+            "lat": 36.76166667,
+            "lon": -3.84583333,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Cueva_de_Nerja_2020.jpg/1280px-Cueva_de_Nerja_2020.jpg",
+            "description": "The Caves of Nerja (Spanish: Cueva de Nerja) are a series of caverns close to the town of Nerja in the Province of Málaga, Spain.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Caves of Nerja",
+                "wikipedia": "en:Caves of Nerja",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 53838,
+            "lat": 32.77916667,
+            "lon": -96.80888889,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/View_of_Dallas_from_Reunion_Tower_August_2015_05.jpg/1280px-View_of_Dallas_from_Reunion_Tower_August_2015_05.jpg",
+            "description": "Dallas is a city in the U.S. state of Texas.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Dallas",
+                "wikipedia": "en:Dallas",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 29810,
+            "lat": 31,
+            "lon": -99,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Flag_of_Texas.svg/1280px-Flag_of_Texas.svg.png",
+            "description": "Texas (  TEK-səss) is the most populous state in the Southern United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Texas",
+                "wikipedia": "en:Texas",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 1070580,
+            "lat": 51.493,
+            "lon": -2.229,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Castle_combe_river.jpg/1280px-Castle_combe_river.jpg",
+            "description": "Castle Combe is a village and civil parish in Wiltshire, England.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Castle Combe",
+                "wikipedia": "en:Castle Combe",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 172551,
+            "lat": 47.70555556,
+            "lon": 9.19444444,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Aus_dem_Zeppelin_fotografiert%2C_Insel_Mainau%2C_Bodensee._10.jpg/1280px-Aus_dem_Zeppelin_fotografiert%2C_Insel_Mainau%2C_Bodensee._10.jpg",
+            "description": "Mainau (German pronunciation: [ˈmaɪnaʊ] ) is a German island in Lake Constance.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Mainau",
+                "wikipedia": "en:Mainau",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 28412338,
+            "lat": 45.00888889,
+            "lon": 0.9875,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Grotte_de_Rouffignac_-_Entr%C3%A9e_-_20090924.jpg/1280px-Grotte_de_Rouffignac_-_Entr%C3%A9e_-_20090924.jpg",
+            "description": "The Rouffignac cave, in the French commune of Rouffignac-Saint-Cernin-de-Reilhac in the Dordogne département, contains over 250 engravings and cave paintings dating back to the Upper Paleolithic.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Rouffignac Cave",
+                "wikipedia": "en:Rouffignac Cave",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 1020298,
+            "lat": 59.38333333,
+            "lon": 12.13333333,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Troll-arjang.jpg/1280px-Troll-arjang.jpg",
+            "description": "Årjäng is a locality and the seat of Årjäng Municipality, Värmland County, Sweden with 3,228 inhabitants in 2010.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Årjäng",
+                "wikipedia": "en:Årjäng",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 249192,
+            "lat": 45.63333333,
+            "lon": 10.66666667,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/La_Rocca_di_Manerba_del_Garda_con_l%27isola_dei_Conigli.jpg/1280px-La_Rocca_di_Manerba_del_Garda_con_l%27isola_dei_Conigli.jpg",
+            "description": "Lake Garda (Italian: Lago di Garda, Italian: [ˈlaːɡo di ˈɡarda], or (Lago) Benaco, Italian: [beˈnaːko]; Eastern Lombard: Lach de Garda; Venetian: Ƚago de Garda) is the largest lake in Italy.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Lake Garda",
+                "wikipedia": "en:Lake Garda",
+                "tourism": "attraction"
+            }
+        }
+    ]
+}

@@ -1,0 +1,394 @@
+{
+    "city_metadata": {
+        "city_name": "Eugene",
+        "state_code": "OR",
+        "state_full": "Oregon",
+        "city_summary": "Eugene (  yoo-JEEN) is a city in and the county seat of Lane County, Oregon, United States. It is located at the southern end of the Willamette Valley, near the confluence of the McKenzie and Willamette rivers, about 50 miles (80 km) east of the Oregon Coast and approximately 110 miles south of Portland.\nThe second-most populous city in Oregon, Eugene had a population of 176,654 as of the 2020 United States census and it covers a city area of 44.21 sq mi (114.5 km2).",
+        "city_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/102707-Oregon-Autzen-USC-UO-Sanchezpass.jpg/1280px-102707-Oregon-Autzen-USC-UO-Sanchezpass.jpg",
+        "city_lat": 44.05638889,
+        "city_lon": -123.1175,
+        "source": "wikipedia_verified_engine"
+    },
+    "attractions": [
+        {
+            "type": "node",
+            "id": 10277065437,
+            "lat": 44.0564329,
+            "lon": -123.072771,
+            "tags": {
+                "addr:city": "Eugene",
+                "addr:housenumber": "2300",
+                "addr:postcode": "97401",
+                "addr:state": "OR",
+                "addr:street": "Leo Harris Parkway",
+                "fee": "yes",
+                "museum": "science",
+                "name": "Eugene Science Center",
+                "opening_hours": "Mo-Th,Su 10:00-17:00; Sa 10:00-17:00 \"closed during University of Oregon home football games\"; Fr 10:00-19:00; PH off",
+                "phone": "+1-541-682-7888",
+                "tourism": "museum",
+                "website": "https://eugenesciencecenter.org",
+                "wikidata": "Q7433516"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/TheScienceFactoryEntranceEugeneOregonAltonBakerPark.jpg/1280px-TheScienceFactoryEntranceEugeneOregonAltonBakerPark.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 13300718907,
+            "lat": 44.0284922,
+            "lon": -123.0909049,
+            "tags": {
+                "name": "Nicolas Cage balcony",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Glenwood_Restaurant_in_Eugene%2C_Oregon_%2831236660754%29.jpg/1280px-Glenwood_Restaurant_in_Eugene%2C_Oregon_%2831236660754%29.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 155181220,
+            "lat": 44.042989,
+            "lon": -123.0680621,
+            "tags": {
+                "addr:city": "Eugene",
+                "addr:housenumber": "1680",
+                "addr:postcode": "97403",
+                "addr:street": "East 15th Avenue",
+                "building": "university",
+                "fee": "yes",
+                "name": "Museum of Natural and Cultural History",
+                "opening_hours": "We,Fr-Su 10:00-17:00; Th 10:00-20:00",
+                "operator": "University of Oregon",
+                "phone": "+1-541-686-3166",
+                "roof:shape": "gabled",
+                "source": "local_knowledge",
+                "tourism": "museum",
+                "url": "http://natural-history.uoregon.edu/",
+                "wheelchair": "yes",
+                "wikidata": "Q7896023"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Museum_of_Natural_and_Cultural_History_%28Eugene%2C_Oregon%29.jpg/1280px-Museum_of_Natural_and_Cultural_History_%28Eugene%2C_Oregon%29.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 395479876,
+            "lat": 44.0450972,
+            "lon": -123.1037471,
+            "tags": {
+                "addr:city": "Eugene",
+                "addr:housenumber": "740",
+                "addr:postcode": "97402",
+                "addr:street": "West 13th Avenue",
+                "building": "yes",
+                "fee": "no",
+                "name": "Lane County Historical Museum",
+                "operator": "Lane County Historical Society",
+                "tourism": "museum",
+                "website": "https://www.lchm.org/",
+                "wikidata": "Q22023094"
+            }
+        },
+        {
+            "type": "way",
+            "id": 686973956,
+            "lat": 44.0560787,
+            "lon": -123.0883952,
+            "tags": {
+                "addr:city": "Eugene",
+                "addr:housenumber": "336",
+                "addr:state": "OR",
+                "addr:street": "High Street",
+                "attraction": "historic",
+                "building": "house",
+                "historic": "yes",
+                "name": "Mim's House",
+                "start_date": "1867",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/YA-PO-AH_Terrace_%28Eugene%2C_Oregon%29.jpg/1280px-YA-PO-AH_Terrace_%28Eugene%2C_Oregon%29.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 24992929,
+            "lat": 44.050938,
+            "lon": -123.091185,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/51/Eugene_Saturday_Market_craft_booths.jpg",
+            "description": "The Eugene Saturday Market is an outdoor craft market in Eugene, Oregon.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Eugene Saturday Market",
+                "wikipedia": "en:Eugene Saturday Market",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 14994293,
+            "lat": 44.04138889,
+            "lon": -123.07611111,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Eugene_Pioneer_Cemetery_sign_2007.jpg",
+            "description": "Eugene Pioneer Cemetery (also Pioneer Memorial Cemetery and Independent Order of Odd Fellows (I.O.O.F.) Cemetery) is a pioneer cemetery in Eugene, Oregon, United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Eugene Pioneer Cemetery",
+                "wikipedia": "en:Eugene Pioneer Cemetery",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 3089520,
+            "lat": 44.0526,
+            "lon": -123.0932,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/HultCenterPerformingArts.jpg/1280px-HultCenterPerformingArts.jpg",
+            "description": "The Hult Center for the Performing Arts is a performing arts venue in Eugene, Oregon.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Hult Center for the Performing Arts",
+                "wikipedia": "en:Hult Center for the Performing Arts",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 30777188,
+            "lat": 44.03138889,
+            "lon": -123.07333333,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Eugene_Masonic_Cemetery_in_Eugene%2C_Oregon_%282013%29_-_02.JPG/1280px-Eugene_Masonic_Cemetery_in_Eugene%2C_Oregon_%282013%29_-_02.JPG",
+            "description": "Eugene Masonic Cemetery is a historic cemetery in Eugene, Oregon, United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Eugene Masonic Cemetery",
+                "wikipedia": "en:Eugene Masonic Cemetery",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 6465110,
+            "lat": 44.05117778,
+            "lon": -123.09710833,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/fb/WOWHallEugeneOregonFrontElevations.JPG",
+            "description": "The W.O.W. Hall, also stylized as WOW Hall, (AKA Community Center for the Performing Arts) is a performing arts venue in Eugene, Oregon, United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "W.O.W. Hall",
+                "wikipedia": "en:W.O.W. Hall",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 7705883,
+            "lat": 44.05455,
+            "lon": -123.09227,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Oregon_Electric_Station.jpg/1280px-Oregon_Electric_Station.jpg",
+            "description": "The Oregon Electric Railway Passenger Station is a historic railroad station in Eugene, Oregon, United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Oregon Electric Railway Passenger Station",
+                "wikipedia": "en:Oregon Electric Railway Passenger Station",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 3388116,
+            "lat": 44.0502,
+            "lon": -123.0885,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/69/The_John_G._Shedd_Institute_for_the_Arts_-_Eugene%2C_Oregon.jpg",
+            "description": "The John G. Shedd Institute for the Arts is a performing arts company, cultural arts center, and community music school in Eugene, Oregon, United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "The Shedd Institute",
+                "wikipedia": "en:The Shedd Institute",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 264573,
+            "lat": 44.0443,
+            "lon": -123.0758,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Seal_of_the_University_of_Oregon.svg/1280px-Seal_of_the_University_of_Oregon.svg.png",
+            "description": "The University of Oregon (UO, U of O or Oregon) is a public research university in Eugene, Oregon, United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "University of Oregon",
+                "wikipedia": "en:University of Oregon",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 7773356,
+            "lat": 44.069604,
+            "lon": -123.106956,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Valley_River_Center_%28Eugene%2C_Oregon%29.jpg/1280px-Valley_River_Center_%28Eugene%2C_Oregon%29.jpg",
+            "description": "Valley River Center is a super-regional-class shopping mall located in Eugene, Oregon, U.S. It is the fourth largest shopping center between Portland and Sacramento.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Valley River Center",
+                "wikipedia": "en:Valley River Center",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 14813933,
+            "lat": 44.048515,
+            "lon": -123.09306,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/McDonald_Theatre.jpg/1280px-McDonald_Theatre.jpg",
+            "description": "McDonald Theatre is a theater and music venue in Eugene, Oregon, United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "McDonald Theatre",
+                "wikipedia": "en:McDonald Theatre",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 10037585,
+            "lat": 44.050714,
+            "lon": -123.09126,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Lane_County_Farmers_Market%2C_Eugene_Oregon.jpg/1280px-Lane_County_Farmers_Market%2C_Eugene_Oregon.jpg",
+            "description": "The Lane County Farmers Market is the largest farmers market in Eugene, Oregon, United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Lane County Farmers Market",
+                "wikipedia": "en:Lane County Farmers Market",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 30809964,
+            "lat": 44.055242,
+            "lon": -123.108752,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Sam_Bond%27s_Garage.jpg/1280px-Sam_Bond%27s_Garage.jpg",
+            "description": "Sam Bonds Garage is a music venue and pub in the Whiteaker neighborhood of Eugene, Oregon, United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Sam Bond's Garage",
+                "wikipedia": "en:Sam Bond's Garage",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 60471099,
+            "lat": 53.9996,
+            "lon": -1.4508,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/St_Robert%27s_Cave%2C_Knaresborough%2C_Yorkshire%2C_England.jpg/1280px-St_Robert%27s_Cave%2C_Knaresborough%2C_Yorkshire%2C_England.jpg",
+            "description": "The early 13th century St Robert's Cave and Chapel of the Holy Cross, also known with variants such as St Robert's Chapel and Chapel of the Holy Rood, are located on Abbey Road beside the River Nidd in its gorge at Knaresborough.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "St Robert's Cave and Chapel of the Holy Cross",
+                "wikipedia": "en:St Robert's Cave and Chapel of the Holy Cross",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 5741356,
+            "lat": 43.987438,
+            "lon": -123.079764,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Cascade_Raptor_Center_%28Eugene%2C_Oregon%29_1.jpg/1280px-Cascade_Raptor_Center_%28Eugene%2C_Oregon%29_1.jpg",
+            "description": "The Cascades Raptor Center is a nature center and wildlife hospital in Eugene, Oregon that specializes in raptor rehabilitation.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Cascades Raptor Center",
+                "wikipedia": "en:Cascades Raptor Center",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 27544015,
+            "lat": 44.040231,
+            "lon": -123.043692,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Oakway_Center.jpg/1280px-Oakway_Center.jpg",
+            "description": "The Oakway Center is a shopping center in Eugene, Oregon.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Oakway Center",
+                "wikipedia": "en:Oakway Center",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 14152641,
+            "lat": 24.552389,
+            "lon": -81.754869,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Robert_The_Doll_%285999680656%29.jpg/1280px-Robert_The_Doll_%285999680656%29.jpg",
+            "description": "Robert the Doll is a reportedly haunted doll exhibited at the East Martello Museum in Key West, Florida.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Robert (doll)",
+                "wikipedia": "en:Robert (doll)",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 2284782,
+            "lat": 44.0439,
+            "lon": -123.1043,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/78/Lane_County_Fair.jpg",
+            "description": "Lane County Fair is a fair that is held in the middle of the summer every year, at Eugene, Oregon, and it features cuisine, entertainment, and music.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Lane County Fair",
+                "wikipedia": "en:Lane County Fair",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 31534628,
+            "lat": 25.43906944,
+            "lon": 56.35391111,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/2011-0209-Al_Badiyah_Mosque.jpg/1280px-2011-0209-Al_Badiyah_Mosque.jpg",
+            "description": "Al Bidya Mosque (Gulf Arabic: مَسْجِد ٱلْبِدْيَة‎, romanized: Masjid Al-Bidyah, sometimes transliterated as Al-Bidiyah (ٱلْبِدِيَة) or Al-Badiyah (ٱلْبَدِيَة)) is a historical mosque in the village of Al Bidya Emirate of Fujairah, the U.A.E. It was the oldest known mosque in the country, prior to the discovery in September 2018 of the ruins of a 1,000-year-old mosque dating back to the Islamic Golden Age, near the Sheikh Khalifa Bin Zayed Al Nahyan Mosque in the city of Al Ain, Emirate of Abu Dhabi.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Al Bidya Mosque",
+                "wikipedia": "en:Al Bidya Mosque",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 56208,
+            "lat": 35.02805556,
+            "lon": -111.02333333,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Meteor_Crater_-_Arizona.jpg/1280px-Meteor_Crater_-_Arizona.jpg",
+            "description": "Meteor Crater, or Barringer Crater, is an impact crater about 37 mi (60 km)  east of Flagstaff and 18 mi (29 km) west of Winslow in the desert of northern Arizona,  United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Meteor Crater",
+                "wikipedia": "en:Meteor Crater",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 2071111,
+            "lat": 46.8014,
+            "lon": 4.4411,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Usines_du_creusot.jpg/1280px-Usines_du_creusot.jpg",
+            "description": "Le Creusot (French pronunciation: [lə kʁøzo] ) is a commune and industrial town in the Saône-et-Loire department, region of Bourgogne-Franche-Comté, eastern France.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Le Creusot",
+                "wikipedia": "en:Le Creusot",
+                "tourism": "attraction"
+            }
+        }
+    ]
+}

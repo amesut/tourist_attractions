@@ -1,0 +1,420 @@
+{
+    "city_metadata": {
+        "city_name": "Bangor",
+        "state_code": "ME",
+        "state_full": "Maine",
+        "city_summary": "Bangor ( BANG-gor) is a city in and the county seat of Penobscot County, Maine, United States. The city proper has a population of 31,753, making it the state's third-most populous city, behind Portland (68,408) and Lewiston (37,121). Bangor is known as the \"Queen City\".",
+        "city_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Bangor%2C_Maine.jpg/1280px-Bangor%2C_Maine.jpg",
+        "city_lat": 44.85833333,
+        "city_lon": -68.76166667,
+        "source": "wikipedia_verified_engine"
+    },
+    "attractions": [
+        {
+            "type": "node",
+            "id": 367795535,
+            "lat": 44.7997932,
+            "lon": -68.7750361,
+            "tags": {
+                "addr:state": "ME",
+                "ele": "29",
+                "gnis:feature_id": "1913631",
+                "name": "Isaac Farrar Mansion Museum",
+                "source": "USGS Geonames",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Isaac_Farrar_Mansion%2C_Bangor_ME.jpg/1280px-Isaac_Farrar_Mansion%2C_Bangor_ME.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 367795537,
+            "lat": 44.813404,
+            "lon": -68.7800361,
+            "tags": {
+                "addr:state": "ME",
+                "ele": "46",
+                "gnis:feature_id": "1913551",
+                "name": "Godfrey House Museum",
+                "source": "USGS Geonames",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/The_Godfrey-Kellogg_House.jpg/1280px-The_Godfrey-Kellogg_House.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 957260221,
+            "lat": 54.6559173,
+            "lon": -5.6688119,
+            "tags": {
+                "addr:city": "Bangor",
+                "addr:housename": "Town Hall, The Casytle",
+                "addr:postcode": "BT20 4BT",
+                "fee": "no",
+                "museum": "history",
+                "name": "North Down Museum",
+                "name:en": "Bangor Town Museum",
+                "opening_hours": "Tu-Sa 10:00-16:00; Sa 12:00-16:00",
+                "tourism": "museum",
+                "website": "https://andculture.org.uk/visit-us/north-down-museum",
+                "wikidata": "Q110521450"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/79/BangorCastle2.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 3082455947,
+            "lat": 43.8918731,
+            "lon": -90.9886718,
+            "tags": {
+                "addr:city": "Bangor",
+                "addr:housenumber": "1525",
+                "addr:postcode": "54614",
+                "addr:state": "WI",
+                "addr:street": "Commercial Street",
+                "name": "Bangor & Area Historical Society",
+                "tourism": "museum",
+                "website": "https://www.wisconsinhistory.org/localhistory/directory/viewsociety.asp?id=20"
+            }
+        },
+        {
+            "type": "node",
+            "id": 3764469734,
+            "lat": 44.8057358,
+            "lon": -68.759848,
+            "tags": {
+                "addr:city": "Bangor",
+                "addr:housenumber": "247",
+                "addr:postcode": "04401",
+                "addr:state": "ME",
+                "addr:street": "State Street",
+                "name": "Hose 5 Fire Museum",
+                "tourism": "museum",
+                "wikidata": "Q4855563",
+                "wikipedia": "en:Bangor Hose House No. 5"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/34/Hose_Co._5.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 5626949978,
+            "lat": 44.7882893,
+            "lon": -68.7775868,
+            "tags": {
+                "addr:city": "Bangor",
+                "addr:housenumber": "500",
+                "addr:postcode": "04401",
+                "addr:state": "ME",
+                "addr:street": "Main Street",
+                "amenity": "casino",
+                "name": "Hollywood Casino",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Hollywood_Casino_Hotel_%26_Raceway_Bangor.jpg/1280px-Hollywood_Casino_Hotel_%26_Raceway_Bangor.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 7185034863,
+            "lat": 44.8000484,
+            "lon": -68.7718202,
+            "tags": {
+                "addr:city": "Bangor",
+                "addr:housenumber": "74",
+                "addr:postcode": "04401",
+                "addr:state": "ME",
+                "addr:street": "Main Street",
+                "name": "Maine Discovery Museum",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Adams-Pickering_Block%2C_Bangor_ME.jpg/1280px-Adams-Pickering_Block%2C_Bangor_ME.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 7185035420,
+            "lat": 44.7993567,
+            "lon": -68.7725626,
+            "tags": {
+                "addr:city": "Bangor",
+                "addr:housenumber": "131",
+                "addr:postcode": "04401",
+                "addr:state": "ME",
+                "addr:street": "Main Street",
+                "name": "Penobscot Theatre",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Bangor_Opera_House_-_June_2009.jpg/1280px-Bangor_Opera_House_-_June_2009.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 7555367385,
+            "lat": -32.9608578,
+            "lon": 138.160156,
+            "tags": {
+                "fixme": "500m from Gorge Rd. Where?",
+                "name": "Old Survey Art Gallery",
+                "tourism": "museum"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10001239683,
+            "lat": 43.8899525,
+            "lon": -90.9932634,
+            "tags": {
+                "historic": "tank",
+                "name": "M60A3",
+                "tourism": "attraction",
+                "vehicle:wikidata": "Q382421",
+                "vehicle:wikipedia": "en:M60 tank"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10001265129,
+            "lat": 43.890087,
+            "lon": -90.9932859,
+            "tags": {
+                "aircraft:type": "helicopter",
+                "historic": "aircraft",
+                "name": "Bell AH-1",
+                "tourism": "attraction",
+                "vehicle:wikidata": "Q219629",
+                "vehicle:wikipedia": "en:Bell AH-1 Cobra"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10984445940,
+            "lat": 44.7969274,
+            "lon": -68.772443,
+            "tags": {
+                "fee": "no",
+                "name": "Police Museum",
+                "opening_hours": "\"by appointment\"",
+                "tourism": "museum",
+                "website": "https://www.bangormaine.gov/content/318/354/1134/1171.aspx"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Zebulon_Smith_House%2C_Bangor_ME.jpg/1280px-Zebulon_Smith_House%2C_Bangor_ME.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 11973557969,
+            "lat": 54.6681013,
+            "lon": -5.6846032,
+            "tags": {
+                "name": "Brompton Pier",
+                "opening_hours": "24/7",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 12997995058,
+            "lat": 44.8051354,
+            "lon": -68.7853203,
+            "tags": {
+                "name": "\"IT\" Movie Manhole Cover",
+                "opening_hours": "24/7",
+                "reservation": "no",
+                "tourism": "attraction",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "way",
+            "id": 89533346,
+            "lat": 44.8277999,
+            "lon": -68.752448,
+            "tags": {
+                "addr:city": "Bangor",
+                "addr:housenumber": "557",
+                "addr:postcode": "04401",
+                "addr:state": "ME",
+                "addr:street": "Stillwater Avenue",
+                "amenity": "cinema",
+                "building": "yes",
+                "name": "Bangor Mall Cinemas 10",
+                "tourism": "attraction",
+                "wheelchair": "yes",
+                "wikidata": "Q42564120"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Bangor_Mall.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 105744122,
+            "lat": 53.2274063,
+            "lon": -4.1284531,
+            "tags": {
+                "addr:city": "Bangor",
+                "addr:postcode": "LL57 1DT",
+                "addr:street": "Ffordd Gwynedd",
+                "building": "yes",
+                "name": "Storiel",
+                "opening_hours": "Tu-Sa 11:00-17:00",
+                "operator": "Gwynedd Council",
+                "phone": "+44 1248 353368",
+                "tourism": "museum",
+                "website": "https://www.storiel.cymru/",
+                "wikidata": "Q23307698"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/3951_Formerly_the_Bishop%E2%80%99s_Palace_Bangor_20240529_0083.jpg/1280px-3951_Formerly_the_Bishop%E2%80%99s_Palace_Bangor_20240529_0083.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 222035332,
+            "lat": 44.8031587,
+            "lon": -68.7705644,
+            "tags": {
+                "addr:city": "Bangor",
+                "addr:housenumber": "99",
+                "addr:postcode": "04401",
+                "addr:state": "ME",
+                "addr:street": "Central Street",
+                "addr:unit": "Basement",
+                "building": "yes",
+                "building:levels": "1",
+                "name": "Zillman Art Museum",
+                "source": "Bing",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Graham_Building_%281911%29_Bangor_Maine.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 227316028,
+            "lat": 54.6762899,
+            "lon": -5.7411814,
+            "tags": {
+                "historic": "yes",
+                "name": "Grey Point Fort",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "way",
+            "id": 377408111,
+            "lat": 44.7855793,
+            "lon": -68.8049565,
+            "tags": {
+                "addr:city": "Bangor",
+                "addr:housenumber": "405",
+                "addr:postcode": "04401",
+                "addr:state": "ME",
+                "addr:street": "Perry Road",
+                "building": "yes",
+                "fee": "yes",
+                "name": "Cole Land Transportation Museum",
+                "opening_hours": "May 01-Nov 11 Mo-Su 9:00-16:00",
+                "seasonal": "yes",
+                "tourism": "museum",
+                "website": "https://www.colemuseum.org",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "way",
+            "id": 758897967,
+            "lat": 47.3108434,
+            "lon": -3.2273653,
+            "tags": {
+                "building": "yes",
+                "fee": "yes",
+                "name": "Le grand phare",
+                "opening_hours": "Jul-Aug Mo-Su,PH 11:00-13:00,14:00-18:00",
+                "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010",
+                "tourism": "museum",
+                "website": "https://www.belle-ile.com/aimer/une-ile-une-histoire/le-grand-phare"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Phare_Goulphar_%282%29.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 847041933,
+            "lat": 44.8006113,
+            "lon": -68.8100529,
+            "tags": {
+                "building": "yes",
+                "name": "Maine Air Museum",
+                "tourism": "museum"
+            }
+        },
+        {
+            "type": "way",
+            "id": 871402846,
+            "lat": 44.799474,
+            "lon": -68.775391,
+            "tags": {
+                "addr:city": "Bangor",
+                "addr:housenumber": "17",
+                "addr:postcode": "04401",
+                "addr:state": "ME",
+                "addr:street": "Second Street",
+                "building": "yes",
+                "name": "Bangor YMCA",
+                "source": "microsoft/BuildingFootprints",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Thomas_A._Hill_House%2C_Bangor_ME.jpg/1280px-Thomas_A._Hill_House%2C_Bangor_ME.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 1355232017,
+            "lat": 54.6599182,
+            "lon": -5.6612476,
+            "tags": {
+                "addr:city": "Bangor",
+                "addr:street": "Ward Park",
+                "fee": "no",
+                "name": "Ward Park Aviary",
+                "opening_hours": "Mo-Su,PH 00:00-00:00",
+                "operator": "Ards and North Down Borough Council",
+                "operator:wikidata": "Q17016553",
+                "tourism": "zoo",
+                "zoo": "aviary"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c6/U-19_gun_Ward_Park_Bangor_right_view_geograph.org.uk_646194_8c3d0bd1-by-Ross.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 14691647,
+            "lat": 44.8043,
+            "lon": -68.7719,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/BangorPublicLibraryMainEntrance.jpg/1280px-BangorPublicLibraryMainEntrance.jpg",
+            "description": "The Bangor Public Library is the public library of Bangor, Maine.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Bangor Public Library",
+                "wikipedia": "en:Bangor Public Library",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 7503095,
+            "lat": 44.79936944,
+            "lon": -68.772575,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Bangor_Opera_House_-_June_2009.jpg/1280px-Bangor_Opera_House_-_June_2009.jpg",
+            "description": "Penobscot Theatre Company (PTC), is located in Bangor, Maine.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Penobscot Theatre Company",
+                "wikipedia": "en:Penobscot Theatre Company",
+                "tourism": "attraction"
+            }
+        }
+    ]
+}

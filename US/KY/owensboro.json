@@ -1,0 +1,92 @@
+{
+    "city_metadata": {
+        "city_name": "Owensboro",
+        "state_code": "KY",
+        "state_full": "Kentucky",
+        "city_summary": "Owensboro is a city in Daviess County, Kentucky, United States, of which it is also the county seat. It is the fourth-most populous city in the state. Owensboro is located on U.S. Route 60 and Interstate 165 about 107 miles (172 km) southwest of Louisville, and is the principal city of the Owensboro metropolitan area.",
+        "city_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Owensboro2ndStAnn.JPG/1280px-Owensboro2ndStAnn.JPG",
+        "city_lat": 37.75777778,
+        "city_lon": -87.11833333,
+        "source": "wikipedia_verified_engine"
+    },
+    "attractions": [
+        {
+            "type": "way",
+            "id": 546746234,
+            "lat": 37.7751236,
+            "lon": -87.1141469,
+            "tags": {
+                "addr:city": "Owensboro",
+                "addr:housenumber": "311",
+                "addr:postcode": "42301",
+                "addr:state": "KY",
+                "addr:street": "West 2nd Street",
+                "building": "yes",
+                "name": "Bluegrass Hall of Fame & Museum",
+                "tourism": "museum",
+                "website": "https://www.bluegrasshall.org/"
+            }
+        },
+        {
+            "type": "way",
+            "id": 548060613,
+            "lat": 37.7746413,
+            "lon": -87.1102318,
+            "tags": {
+                "addr:city": "Owensboro",
+                "addr:housenumber": "122",
+                "addr:postcode": "42303",
+                "addr:state": "KY",
+                "addr:street": "East 2nd Street",
+                "building": "yes",
+                "name": "Owensboro Museum of Science and History",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Bluegrass_Music_Hall_of_Fame_%26_Museum.jpg/1280px-Bluegrass_Music_Hall_of_Fame_%26_Museum.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 1085898899,
+            "lat": 37.7672018,
+            "lon": -87.1124542,
+            "tags": {
+                "building": "yes",
+                "museum": "art",
+                "name": "Owensboro Museum of Fine Art",
+                "tourism": "museum",
+                "website": "https://omfa.us/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Owensboro_Union_Station.jpg/1280px-Owensboro_Union_Station.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 16846,
+            "lat": 37,
+            "lon": -86,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Flag_of_Kentucky.svg/1280px-Flag_of_Kentucky.svg.png",
+            "description": "Kentucky (US:  , UK: ), officially the Commonwealth of Kentucky, is a landlocked state in the Southeastern region of the United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Kentucky",
+                "wikipedia": "en:Kentucky",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 95599,
+            "lat": 37.46,
+            "lon": -86.35,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Grayson_County%2C_Kentucky_courthouse.png/1280px-Grayson_County%2C_Kentucky_courthouse.png",
+            "description": "Grayson County is a county located in the U.S. state of Kentucky.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Grayson County, Kentucky",
+                "wikipedia": "en:Grayson County, Kentucky",
+                "tourism": "attraction"
+            }
+        }
+    ]
+}

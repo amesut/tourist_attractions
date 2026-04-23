@@ -1,0 +1,429 @@
+{
+    "city_metadata": {
+        "city_name": "Independence",
+        "state_code": "MO",
+        "state_full": "Missouri",
+        "city_summary": "Independence is a city mostly in and one of two county seats of Jackson County, Missouri, United States. It is a satellite city of Kansas City, Missouri, and is the largest suburb on the Missouri side of the Kansas City metropolitan area. In 2020, it had a total population of 123,011, making it the fifth-most populous city in Missouri.",
+        "city_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Jackson_County_Courthouse_Independence_MO-cropped.jpg/1280px-Jackson_County_Courthouse_Independence_MO-cropped.jpg",
+        "city_lat": 39.07833333,
+        "city_lon": -94.41944444,
+        "source": "wikipedia_verified_engine"
+    },
+    "attractions": [
+        {
+            "type": "node",
+            "id": 367087395,
+            "lat": 39.0936023,
+            "lon": -94.4154206,
+            "tags": {
+                "addr:city": "Independence",
+                "addr:housenumber": "223",
+                "addr:postcode": "64050",
+                "addr:state": "MO",
+                "addr:street": "North Main Street",
+                "ele": "314",
+                "gnis:feature_id": "2476977",
+                "name": "Harry S Truman National Historic Site Visitor Center",
+                "source": "USGS Geonames",
+                "tourism": "attraction",
+                "website": "https://www.nps.gov/hstr/planyourvisit/visitorcenters.htm"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/1859_Independence%2C_Missouri_Jail.jpg/1280px-1859_Independence%2C_Missouri_Jail.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 10282682519,
+            "lat": 39.0921196,
+            "lon": -94.4227273,
+            "tags": {
+                "addr:city": "Independence",
+                "addr:housenumber": "607",
+                "addr:postcode": "64050",
+                "addr:state": "MO",
+                "addr:street": "West Lexington Avenue",
+                "museum": "children",
+                "name": "The Peace Pavilion",
+                "tourism": "museum",
+                "website": "https://www.thepeacepavilion.org/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b0/RemnantChurchHQ.jpg/1280px-RemnantChurchHQ.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 13194408357,
+            "lat": 39.093189,
+            "lon": -94.4208614,
+            "tags": {
+                "addr:city": "Independence",
+                "addr:housenumber": "416",
+                "addr:postcode": "64050",
+                "addr:state": "MO",
+                "addr:street": "West Maple Avenue",
+                "museum": "history",
+                "name": "National Frontier Trails Museum",
+                "operator": "National Park Service",
+                "operator:type": "government",
+                "tourism": "museum",
+                "website": "https://www.nps.gov/places/000/national-frontier-trails-museum.htm"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Trumanhist.JPG/1280px-Trumanhist.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 498140994,
+            "lat": 39.0934746,
+            "lon": -94.4153579,
+            "tags": {
+                "addr:city": "Independence",
+                "addr:housenumber": "217",
+                "addr:postcode": "64050",
+                "addr:state": "MO",
+                "addr:street": "North Main Street",
+                "building": "yes",
+                "email": "info@jchs.org",
+                "fee": "yes",
+                "name": "1859 Jail and Marshal's Museum",
+                "opening_hours:url": "https://www.jchs.org/plan-your-visit",
+                "phone": "+1 816 252 1892",
+                "seasonal": "yes",
+                "tourism": "museum",
+                "website": "https://www.jchs.org/1859jailmuseum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/1859_Independence%2C_Missouri_Jail.jpg/1280px-1859_Independence%2C_Missouri_Jail.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 498150524,
+            "lat": 39.0908426,
+            "lon": -94.4163279,
+            "tags": {
+                "addr:city": "Independence",
+                "addr:housenumber": "107",
+                "addr:postcode": "64050",
+                "addr:state": "MO",
+                "addr:street": "West Kansas Avenue",
+                "building": "yes",
+                "name": "1827 Log Courthouse",
+                "tourism": "museum"
+            }
+        },
+        {
+            "type": "way",
+            "id": 498406911,
+            "lat": 39.093726,
+            "lon": -94.4233502,
+            "tags": {
+                "addr:city": "Independence",
+                "addr:housenumber": "219",
+                "addr:postcode": "64050",
+                "addr:state": "MO",
+                "addr:street": "North Delaware Street",
+                "alt_name": "Harry S. Truman National Historic Site",
+                "building": "detached",
+                "building:levels": "3",
+                "name": "Truman Home",
+                "tourism": "museum"
+            }
+        },
+        {
+            "type": "way",
+            "id": 500482303,
+            "lat": 39.0855545,
+            "lon": -94.4187708,
+            "tags": {
+                "building": "yes",
+                "fee": "yes",
+                "fee:conditional": "no @ age < 6",
+                "museum": "local_history",
+                "name": "Bingham Waggoner Estate",
+                "opening_hours:url": "https://www.bwestate.net/visit",
+                "seasonal": "yes",
+                "tourism": "museum",
+                "website": "https://www.bwestate.net/"
+            }
+        },
+        {
+            "type": "way",
+            "id": 543829497,
+            "lat": 39.1075817,
+            "lon": -94.4171372,
+            "tags": {
+                "addr:city": "Independence",
+                "addr:housenumber": "1500",
+                "addr:postcode": "64052",
+                "addr:state": "MO",
+                "addr:street": "North Liberty Street",
+                "building": "detached",
+                "building:levels": "4",
+                "email": "vailemansion@gmail.com",
+                "fee": "yes",
+                "name": "Vaile Mansion",
+                "phone": "+1 816 325 7430",
+                "seasonal": "yes",
+                "tourism": "museum",
+                "website": "https://www.vailemansion.org/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Vaile_Mansion%2C_Independence%2C_Missouri_LCCN2011631466.jpg/1280px-Vaile_Mansion%2C_Independence%2C_Missouri_LCCN2011631466.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 546181384,
+            "lat": 39.0934252,
+            "lon": -94.4114338,
+            "tags": {
+                "building": "yes",
+                "name": "Pioneer Spring Cabin",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/1859_Independence%2C_Missouri_Jail.jpg/1280px-1859_Independence%2C_Missouri_Jail.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 637507375,
+            "lat": 41.3807561,
+            "lon": -81.640366,
+            "tags": {
+                "building": "yes",
+                "name": "Independence Historical Society",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Independence_Presbyterian_Church.jpg/1280px-Independence_Presbyterian_Church.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 735246395,
+            "lat": 42.4487326,
+            "lon": -91.9235074,
+            "tags": {
+                "building": "yes",
+                "name": "Heatland Acres Exhibition Center",
+                "tourism": "museum"
+            }
+        },
+        {
+            "type": "way",
+            "id": 759759272,
+            "lat": 36.801862,
+            "lon": -118.201891,
+            "tags": {
+                "addr:city": "Independence",
+                "addr:housenumber": "253",
+                "addr:state": "CA",
+                "addr:street": "West Market Street",
+                "building": "yes",
+                "building:levels": "2",
+                "description": "California Historical Landmark 229",
+                "fee": "no",
+                "museum": "local_history",
+                "name": "Mary Austin's House",
+                "operator": "Eastern California Museum",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Eastern_California_Museum_logo.png",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 759759290,
+            "lat": 36.801836,
+            "lon": -118.2041285,
+            "tags": {
+                "addr:city": "Independence",
+                "addr:housenumber": "155",
+                "addr:postcode": "93526",
+                "addr:state": "CA",
+                "addr:street": "North Grant Street",
+                "building": "yes",
+                "fee": "no",
+                "gnis:feature_id": "1804674",
+                "museum": "local",
+                "name": "Eastern California Museum",
+                "opening_hours": "Mo-Su 10:00-17:00",
+                "operator": "Eastern California Museum",
+                "phone": "+1 760 878-0258",
+                "tourism": "museum",
+                "wikidata": "Q66782651"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Eastern_California_Museum_logo.png",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 1196010234,
+            "lat": 37.2241108,
+            "lon": -95.7083923,
+            "tags": {
+                "building": "yes",
+                "name": "Independence Historical Museum & Art Center",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Booth_Hotel%2C_Independence%2C_KS.jpg/1280px-Booth_Hotel%2C_Independence%2C_KS.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 1198081647,
+            "lat": 44.8517975,
+            "lon": -123.1857923,
+            "tags": {
+                "addr:city": "Independence",
+                "addr:housenumber": "281",
+                "addr:postcode": "97351",
+                "addr:state": "OR",
+                "addr:street": "South 2nd Street",
+                "building": "yes",
+                "name": "Independence Heritage Museum",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Saint_Patrick%27s_Roman_Catholic_Church_Independence.jpg/1280px-Saint_Patrick%27s_Roman_Catholic_Church_Independence.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 356275,
+            "lat": 27.18,
+            "lon": 78.02,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Taj_Mahal%2C_Agra%2C_India.jpg/1280px-Taj_Mahal%2C_Agra%2C_India.jpg",
+            "description": "Agra (; Hindi: Āgarā, pronounced [ˈaːɡɾaː] ) is a city on the banks of the Yamuna river in the Indian state of Uttar Pradesh, about 230 kilometres (140 mi) south-east of the national capital Delhi and 330 km west of the state capital Lucknow.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Agra",
+                "wikipedia": "en:Agra",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 17454,
+            "lat": 39.09972222,
+            "lon": -94.57833333,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Kansas_City_-_Downtown_-_panoramio_%2815%29.jpg/1280px-Kansas_City_-_Downtown_-_panoramio_%2815%29.jpg",
+            "description": "Kansas City, abbreviated KC or KCMO, is the largest city in the U.S. state of Missouri by both population and area.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Kansas City, Missouri",
+                "wikipedia": "en:Kansas City, Missouri",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 4349459,
+            "lat": 10,
+            "lon": 76.3,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Boathouse_%287063399547%29.jpg/1280px-Boathouse_%287063399547%29.jpg",
+            "description": "Kerala is an Indian state on the Malabar Coast.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Kerala",
+                "wikipedia": "en:Kerala",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 12067,
+            "lat": 8.03,
+            "lon": -1.08,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Flag_of_Ghana.svg/1280px-Flag_of_Ghana.svg.png",
+            "description": "Ghana (  GAH-nə) officially the Republic of Ghana, is a country in West Africa.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Ghana",
+                "wikipedia": "en:Ghana",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 61448305,
+            "lat": 32.06805556,
+            "lon": 34.78194444,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Sarona_Market_%281%29.JPG/1280px-Sarona_Market_%281%29.JPG",
+            "description": "Sarona Market (Hebrew: שרונה מרקט) is the largest enclosed culinary market in Israel, located at the southern edge of the city's Templer Colony restoration project in Sarona, Tel Aviv.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Sarona Market",
+                "wikipedia": "en:Sarona Market",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 47946,
+            "lat": 23.25988889,
+            "lon": 77.41261111,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Deewali_New_market.jpg/1280px-Deewali_New_market.jpg",
+            "description": "Bhopal (Hindi: Bhōpāl, pronounced [bʱoːpaːl] ) is the capital city of the Indian state of Madhya Pradesh and the administrative headquarters of both Bhopal district and Bhopal division.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Bhopal",
+                "wikipedia": "en:Bhopal",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 140658,
+            "lat": 40.3875,
+            "lon": -79.86333333,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Kennywood_logo.svg/1280px-Kennywood_logo.svg.png",
+            "description": "Kennywood is an amusement park in West Mifflin, Pennsylvania, just southeast of Pittsburgh.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Kennywood",
+                "wikipedia": "en:Kennywood",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 288204,
+            "lat": 35.77666667,
+            "lon": -5.80388889,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Tanger_cor.jpg",
+            "description": "Tangier ( tan-JEER; Arabic: طنجة, romanized: Ṭanjah, [tˤandʒa], [tˤanʒa]) is a city in northwestern Morocco, on the coasts of the Mediterranean Sea and the Atlantic Ocean.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Tangier",
+                "wikipedia": "en:Tangier",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 799384,
+            "lat": 20.27,
+            "lon": 85.84,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Bhubaneswar_skyline_121224.jpg",
+            "description": "Bhubaneswar is the capital and the largest city of the Indian state of Odisha.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Bhubaneswar",
+                "wikipedia": "en:Bhubaneswar",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 3464,
+            "lat": -24.65833333,
+            "lon": 25.90833333,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_Botswana.svg/1280px-Flag_of_Botswana.svg.png",
+            "description": "Botswana, officially the Republic of Botswana, is a landlocked country in Southern Africa.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Botswana",
+                "wikipedia": "en:Botswana",
+                "tourism": "attraction"
+            }
+        }
+    ]
+}

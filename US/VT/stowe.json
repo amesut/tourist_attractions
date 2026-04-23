@@ -1,0 +1,603 @@
+{
+    "city_metadata": {
+        "city_name": "Stowe",
+        "state_code": "VT",
+        "state_full": "Vermont",
+        "city_summary": "Stowe is a town in Lamoille County, Vermont, United States. The population was 5,223 at the 2020 census. The town lies on Vermont Routes 108 and 100.",
+        "city_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Stowe_VT_1-30-2026a.jpg/1280px-Stowe_VT_1-30-2026a.jpg",
+        "city_lat": 44.47527778,
+        "city_lon": -72.70222222,
+        "source": "wikipedia_verified_engine"
+    },
+    "attractions": [
+        {
+            "type": "node",
+            "id": 366667979,
+            "lat": 44.4639275,
+            "lon": -72.6842896,
+            "tags": {
+                "addr:city": "Stowe",
+                "addr:housenumber": "90",
+                "addr:postcode": "05672",
+                "addr:state": "VT",
+                "addr:street": "School Street",
+                "check_date:opening_hours": "2023-01-28",
+                "ele": "220",
+                "gnis:feature_id": "1918459",
+                "name": "Stowe Historical Society Museum",
+                "opening_hours": "Th-Sa 13:00-16:00",
+                "source": "USGS Geonames",
+                "tourism": "museum",
+                "website": "https://www.stowehistoricalsociety.org/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/West_Branch_Schoolhouse.jpg/1280px-West_Branch_Schoolhouse.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 1541361234,
+            "lat": 52.0307847,
+            "lon": -1.0142642,
+            "tags": {
+                "heritage": "yes",
+                "historic": "memorial",
+                "name": "Captain Cook's Monument",
+                "name:ru": "Памятник капитана Кука",
+                "operator": "National Trust",
+                "source": "Bing",
+                "tourism": "attraction",
+                "wikidata": "Q60641387"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Palladian_Bridge%2C_Stowe_Gardens.jpg/1280px-Palladian_Bridge%2C_Stowe_Gardens.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 1541361241,
+            "lat": 52.0313673,
+            "lon": -1.0141288,
+            "tags": {
+                "amenity": "fountain",
+                "name": "Season's Fountain",
+                "name:ru": "Сезонный фонтан",
+                "operator": "National Trust",
+                "source": "Bing",
+                "tourism": "attraction",
+                "wikidata": "Q26506941"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Palladian_Bridge%2C_Stowe_Gardens.jpg/1280px-Palladian_Bridge%2C_Stowe_Gardens.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 1541362601,
+            "lat": 52.0306791,
+            "lon": -1.0149967,
+            "tags": {
+                "description": "A rostral column dedicated to the memory of Captain Thomas Grenville, Lord Cobham's nephew. He was a British naval officer who served during the War of the Austrian Succession and died in 1847 during the naval engagement of the First Battle of Cape Finist",
+                "heritage": "yes",
+                "historic": "monument",
+                "name": "Captain Grenville's Column",
+                "name:ru": "Колонна капитана Гренвиля",
+                "operator": "National Trust",
+                "source": "Bing",
+                "tourism": "attraction",
+                "wikidata": "Q17526998"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Palladian_Bridge%2C_Stowe_Gardens.jpg/1280px-Palladian_Bridge%2C_Stowe_Gardens.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 1543006726,
+            "lat": 52.0331119,
+            "lon": -1.0121417,
+            "tags": {
+                "name": "Saxon Deities",
+                "name:ru": "Саксонские божества",
+                "operator": "National Trust",
+                "start_date": "1773",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Palladian_Bridge%2C_Stowe_Gardens.jpg/1280px-Palladian_Bridge%2C_Stowe_Gardens.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 1543025213,
+            "lat": 52.0292704,
+            "lon": -1.0189279,
+            "tags": {
+                "historic": "ruins",
+                "name": "Dido's Cave",
+                "name:ru": "Пещера Дидоны",
+                "source": "Bing",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Stowe_House_-_Buckinghamshire%2C_England_-_DSC07055.jpg/1280px-Stowe_House_-_Buckinghamshire%2C_England_-_DSC07055.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 1543078826,
+            "lat": 52.0265328,
+            "lon": -1.0222918,
+            "tags": {
+                "historic": "monument",
+                "name": "Statue of Queen Caroline",
+                "name:ru": "Статуя королевы Каролины",
+                "operator": "National Trust",
+                "source": "Bing",
+                "tourism": "attraction",
+                "wikidata": "Q17526844"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1572464672,
+            "lat": 52.0273746,
+            "lon": -1.0138518,
+            "tags": {
+                "historic": "memorial",
+                "memorial": "sculpture",
+                "name": "Lord Chatham's Urn",
+                "name:ru": "Урна лорда Чатема",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Palladian_Bridge%2C_Stowe_Gardens.jpg/1280px-Palladian_Bridge%2C_Stowe_Gardens.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 1572464673,
+            "lat": 52.0278961,
+            "lon": -1.0125912,
+            "tags": {
+                "historic": "monument",
+                "name": "Congreve's Monument",
+                "name:ru": "Памятник Конгрев",
+                "tourism": "attraction",
+                "wikidata": "Q17526973"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Palladian_Bridge%2C_Stowe_Gardens.jpg/1280px-Palladian_Bridge%2C_Stowe_Gardens.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 4997840560,
+            "lat": 52.0294055,
+            "lon": -1.0153891,
+            "tags": {
+                "historic": "wayside_cross",
+                "name": "Gothic Cross",
+                "name:ru": "Готический крест",
+                "operator": "National Trust",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Palladian_Bridge%2C_Stowe_Gardens.jpg/1280px-Palladian_Bridge%2C_Stowe_Gardens.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 11017509587,
+            "lat": 52.0267439,
+            "lon": -1.0235833,
+            "tags": {
+                "historic": "monument",
+                "name": "Statue of Roman wrestlers",
+                "operator": "National Trust",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11395341969,
+            "lat": 44.4722262,
+            "lon": -72.7091322,
+            "tags": {
+                "addr:housenumber": "1613",
+                "addr:street": "Mountain Road",
+                "name": "Stowe Bowl",
+                "operator": "Sun & Ski Inn and Suites",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 12883821738,
+            "lat": 52.0372147,
+            "lon": -1.0135843,
+            "tags": {
+                "name": "Samson & the Philistine",
+                "operator": "National Trust",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 12883821739,
+            "lat": 52.0366602,
+            "lon": -1.0140736,
+            "tags": {
+                "name": "Grecian Urn",
+                "operator": "National Trust",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 12883821740,
+            "lat": 52.0372696,
+            "lon": -1.0141423,
+            "tags": {
+                "name": "Fane of Pastoral Poetry",
+                "operator": "National Trust",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 12883821741,
+            "lat": 52.035686,
+            "lon": -1.0152849,
+            "tags": {
+                "name": "Gladiator",
+                "operator": "National Trust",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Arms_of_Stowe_School.svg/1280px-Arms_of_Stowe_School.svg.png",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 12883821742,
+            "lat": 52.0349258,
+            "lon": -1.0165754,
+            "tags": {
+                "name": "Hercules & Antaeus",
+                "operator": "National Trust",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Arms_of_Stowe_School.svg/1280px-Arms_of_Stowe_School.svg.png",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 12886661247,
+            "lat": 52.0293107,
+            "lon": -1.013166,
+            "tags": {
+                "name": "Marquess Urn",
+                "operator": "National Trust",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Palladian_Bridge%2C_Stowe_Gardens.jpg/1280px-Palladian_Bridge%2C_Stowe_Gardens.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 12886661248,
+            "lat": 52.0271484,
+            "lon": -1.0244748,
+            "tags": {
+                "name": "Skittle Alley & Swing",
+                "operator": "National Trust",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 12886702540,
+            "lat": 52.0293125,
+            "lon": -1.0082575,
+            "tags": {
+                "name": "Brown's Cascade",
+                "operator": "National Trust",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Palladian_Bridge%2C_Stowe_Gardens.jpg/1280px-Palladian_Bridge%2C_Stowe_Gardens.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 137231933,
+            "lat": 52.033726,
+            "lon": -1.0173715,
+            "tags": {
+                "building": "yes",
+                "description": "Offering breathtaking views over the Grecian Valley, the Grecian Temple was rededicated as the Temple of Concord and Victory in the 1760s in honour of both the British victory over the French in the Seven Years’ War and political harmony at home.",
+                "historic": "folly",
+                "name": "Temple of Concord and Victory",
+                "name:ru": "Храм согласия и победы",
+                "source": "Bing",
+                "start_date": "1747..1749",
+                "tourism": "attraction",
+                "wikidata": "Q17526980"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Arms_of_Stowe_School.svg/1280px-Arms_of_Stowe_School.svg.png",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 137239820,
+            "lat": 52.0299882,
+            "lon": -1.0153344,
+            "tags": {
+                "building": "yes",
+                "description": "Cobham’s cenotaph to Socrates, Homer,",
+                "heritage": "yes",
+                "historic": "folly",
+                "name": "Temple of Ancient Virtues",
+                "name:ru": "Храм античных добродетелей",
+                "source": "Bing",
+                "tourism": "attraction",
+                "wikidata": "Q17527003"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Palladian_Bridge%2C_Stowe_Gardens.jpg/1280px-Palladian_Bridge%2C_Stowe_Gardens.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 137276464,
+            "lat": 52.0283262,
+            "lon": -1.0192013,
+            "tags": {
+                "architect": "Vanbrough",
+                "building": "yes",
+                "changing_table": "no",
+                "historic": "folly",
+                "name": "Rotunda",
+                "source": "Bing",
+                "start_date": "1720..1721",
+                "toilets": "no",
+                "tourism": "attraction",
+                "wikidata": "Q17526962"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Stowe_House_-_Buckinghamshire%2C_England_-_DSC07055.jpg/1280px-Stowe_House_-_Buckinghamshire%2C_England_-_DSC07055.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 137463347,
+            "lat": 52.0335333,
+            "lon": -1.0141878,
+            "tags": {
+                "building": "yes",
+                "description": "Lord Cobham built this for his wife to directly face his own Temple of Friendship where he and his friends would meet. Lady Cobham & her companions spent time enjoying the southerly aspect over Hawkwell Field & the temples at the bottom end of the garden.",
+                "historic": "folly",
+                "name": "Queen's Temple",
+                "name:ru": "Замок королевы",
+                "operator": "National Trust",
+                "source": "Bing",
+                "tourism": "attraction",
+                "wikidata": "Q17526775"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Arms_of_Stowe_School.svg/1280px-Arms_of_Stowe_School.svg.png",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 137463947,
+            "lat": 52.0312982,
+            "lon": -1.011465,
+            "tags": {
+                "building": "yes",
+                "description": "Book a short stay or holiday at the Gothic \\nTemple through The Landmark Trust. Stunning \\n360 degree balcony views.\"",
+                "historic": "folly",
+                "name": "Gothic Temple",
+                "name:ru": "Готический замок",
+                "source": "Bing",
+                "tourism": "attraction",
+                "wikidata": "Q17526791"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Palladian_Bridge%2C_Stowe_Gardens.jpg/1280px-Palladian_Bridge%2C_Stowe_Gardens.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 137464811,
+            "lat": 52.0271467,
+            "lon": -1.0099843,
+            "tags": {
+                "building": "yes",
+                "description": "This is where Cobham’s social and political  clique gathered - an all-male safe space for  drinking, holding forth and partying. It was  severely damaged by fire in the 1840s.",
+                "historic": "folly",
+                "name": "Temple of Friendship",
+                "name:ru": "Храм Дружбы",
+                "source": "Bing",
+                "tourism": "attraction",
+                "wikidata": "Q17526800"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Palladian_Bridge%2C_Stowe_Gardens.jpg/1280px-Palladian_Bridge%2C_Stowe_Gardens.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 137464821,
+            "lat": 52.0262027,
+            "lon": -1.0143946,
+            "tags": {
+                "building": "yes",
+                "historic": "folly",
+                "name": "Western Lake Pavilion",
+                "name:ru": "Западный прудовой павильон",
+                "source": "Bing",
+                "tourism": "attraction",
+                "wikidata": "Q17526826"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Palladian_Bridge%2C_Stowe_Gardens.jpg/1280px-Palladian_Bridge%2C_Stowe_Gardens.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 137464824,
+            "lat": 52.026508,
+            "lon": -1.013375,
+            "tags": {
+                "building": "yes",
+                "historic": "folly",
+                "name": "Eastern Lake Pavilion",
+                "name:ru": "Восточный прудовой павильон",
+                "source": "Bing",
+                "tourism": "attraction",
+                "wikidata": "Q17526826"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Palladian_Bridge%2C_Stowe_Gardens.jpg/1280px-Palladian_Bridge%2C_Stowe_Gardens.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 137729377,
+            "lat": 52.0296694,
+            "lon": -1.0135647,
+            "tags": {
+                "building": "yes",
+                "description": "A must see. This is Cobham’s monument to \nthe best of British; Shakespeare, Isaac Newton, John Milton, Elizabeth I. Other more obscure examples reflect the politics of the time. It is no accident that amongst the most worthy is Signor Fido, Cobham’s dog",
+                "heritage": "yes",
+                "historic": "folly",
+                "name": "Temple of British Worthies",
+                "source": "Local Knowledge",
+                "tourism": "attraction",
+                "wikidata": "Q17526795"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Palladian_Bridge%2C_Stowe_Gardens.jpg/1280px-Palladian_Bridge%2C_Stowe_Gardens.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 137729381,
+            "lat": 52.0318262,
+            "lon": -1.0153947,
+            "tags": {
+                "building": "yes",
+                "historic": "folly",
+                "name": "Grotto",
+                "name:ru": "Грот",
+                "source": "Local Knowledge",
+                "tourism": "attraction",
+                "wikidata": "Q17535907"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Stowe_House_-_Buckinghamshire%2C_England_-_DSC07055.jpg/1280px-Stowe_House_-_Buckinghamshire%2C_England_-_DSC07055.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 140754695,
+            "lat": 52.0274488,
+            "lon": -1.0121947,
+            "tags": {
+                "amenity": "bench",
+                "armrest": "no",
+                "backrest": "yes",
+                "building": "yes",
+                "covered": "yes",
+                "historic": "folly",
+                "material": "wood",
+                "name": "Pebble Alcove",
+                "name:ru": "Галечное укрытие",
+                "operator": "National Trust",
+                "source": "Bing",
+                "tourism": "attraction",
+                "wikidata": "Q17535915"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Palladian_Bridge%2C_Stowe_Gardens.jpg/1280px-Palladian_Bridge%2C_Stowe_Gardens.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 140755618,
+            "lat": 52.025826,
+            "lon": -1.0169323,
+            "tags": {
+                "building": "yes",
+                "historic": "folly",
+                "int_name": "Hermitage",
+                "name": "Hermitage",
+                "name:fr": "Hermitage",
+                "name:ru": "Эрмитаж",
+                "source": "Bing",
+                "tourism": "attraction",
+                "wikidata": "Q17526959"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Palladian_Bridge%2C_Stowe_Gardens.jpg/1280px-Palladian_Bridge%2C_Stowe_Gardens.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 140945974,
+            "lat": 52.0289068,
+            "lon": -1.0151999,
+            "tags": {
+                "building": "yes",
+                "historic": "folly",
+                "name": "Doric Arch",
+                "name:ru": "Дорическая арка",
+                "source": "Bing",
+                "tourism": "attraction",
+                "wikidata": "Q17526817"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Palladian_Bridge%2C_Stowe_Gardens.jpg/1280px-Palladian_Bridge%2C_Stowe_Gardens.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 558905110,
+            "lat": 44.4651927,
+            "lon": -72.6877773,
+            "tags": {
+                "addr:city": "Stowe",
+                "addr:housenumber": "1",
+                "addr:postcode": "05672",
+                "addr:state": "VT",
+                "addr:street": "South Main Street",
+                "building": "yes",
+                "check_date:opening_hours": "2023-02-24",
+                "ele": "216",
+                "email": "info@vtssm.com",
+                "fee": "donation",
+                "gnis:feature_id": "2059270",
+                "name": "Vermont Ski and Snowboard Museum",
+                "opening_hours": "Th-Su 12:00-17:00",
+                "phone": "+1 802 253 9911",
+                "short_name": "VTSSM",
+                "tourism": "museum",
+                "website": "https://www.vtssm.org/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Green_Mountain_Inn%2C_2005.jpg/1280px-Green_Mountain_Inn%2C_2005.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 667667669,
+            "lat": 52.0290006,
+            "lon": -1.0102148,
+            "tags": {
+                "building": "roof",
+                "description": "Designed to allow carriages to cross. Originally \\nhigher over the water, but Octagon Lake has risen over the centuries. Stunning views.\"",
+                "historic": "bridge",
+                "layer": "1",
+                "name": "Palladian Bridge",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Palladian_Bridge%2C_Stowe_Gardens.jpg/1280px-Palladian_Bridge%2C_Stowe_Gardens.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 1493539690,
+            "lat": 52.031358,
+            "lon": -1.0180924,
+            "tags": {
+                "building:part": "yes",
+                "fee": "yes",
+                "name": "Stowe House",
+                "operator": "Stowe School",
+                "tourism": "museum",
+                "wikidata": "Q2352431",
+                "wikipedia": "en:Stowe House"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Stowe_House_-_Buckinghamshire%2C_England_-_DSC07055.jpg/1280px-Stowe_House_-_Buckinghamshire%2C_England_-_DSC07055.jpg",
+            "image_source": "wikipedia_verified"
+        }
+    ]
+}

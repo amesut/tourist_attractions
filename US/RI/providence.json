@@ -1,0 +1,405 @@
+{
+    "city_metadata": {
+        "city_name": "Providence",
+        "state_code": "RI",
+        "state_full": "Rhode Island",
+        "city_summary": "Providence ( ) is the capital and most populous city of the U.S. state of Rhode Island. It is the third-most populous city in New England, with a population of 190,934 at the 2020 census. The Providence metropolitan area extends into Massachusetts and has approximately 1.7 million residents, making it the 39th-largest metropolitan area in the U.S. It is the county seat of Providence County.",
+        "city_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Providence_RI_skyline.jpg/1280px-Providence_RI_skyline.jpg",
+        "city_lat": 41.82361111,
+        "city_lon": -71.42222222,
+        "source": "wikipedia_verified_engine"
+    },
+    "attractions": [
+        {
+            "type": "node",
+            "id": 357266630,
+            "lat": 41.7903937,
+            "lon": -71.4145156,
+            "tags": {
+                "ele": "15",
+                "gnis:feature_id": "1904110",
+                "name": "Roger Williams Park Zoo",
+                "tourism": "zoo"
+            }
+        },
+        {
+            "type": "node",
+            "id": 357267619,
+            "lat": 41.8268518,
+            "lon": -71.4139434,
+            "tags": {
+                "description": "Waterfire is a summer weekend event where the river has brazers filled with wood and burn all night. starts at sunset and goes past midnight",
+                "ele": "1",
+                "gnis:feature_id": "1904427",
+                "name": "Waterplace Park",
+                "operator": "Waterfire",
+                "tourism": "attraction",
+                "wikidata": "Q7974388"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Waterplace_Towers_and_Blue_Cross_building.jpg/1280px-Waterplace_Towers_and_Blue_Cross_building.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 366691048,
+            "lat": 41.7862958,
+            "lon": -71.3935694,
+            "tags": {
+                "addr:state": "RI",
+                "ele": "16",
+                "gnis:feature_id": "1903368",
+                "name": "Culinary Archive and Museum;Johnson & Wales University Culinary Arts Museum",
+                "source": "USGS Geonames",
+                "tourism": "museum",
+                "website": "https://www.jwu.edu/culinarymuseum/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Rosedale_Apartments%2C_Cranston_RI.jpg/1280px-Rosedale_Apartments%2C_Cranston_RI.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 1874015375,
+            "lat": 41.8264774,
+            "lon": -71.4038132,
+            "tags": {
+                "name": "Haffenreffer Museum of Anthropology",
+                "tourism": "museum",
+                "website": "https://hma.brown.edu/"
+            }
+        },
+        {
+            "type": "node",
+            "id": 4214526089,
+            "lat": 41.825175,
+            "lon": -71.4064822,
+            "tags": {
+                "addr:city": "Providence",
+                "addr:housenumber": "15",
+                "addr:postcode": "02903",
+                "addr:state": "RI",
+                "addr:street": "Hopkins Street",
+                "name": "Governor Stephen Hopkins House",
+                "tourism": "museum",
+                "website": "http://nscda.org/",
+                "wikidata": "Q5589613"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Seal_of_Rhode_Island_%282021%29.svg/1280px-Seal_of_Rhode_Island_%282021%29.svg.png",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 8498549665,
+            "lat": 41.8349164,
+            "lon": -71.4172174,
+            "tags": {
+                "email": "rijewishmuseum@gmail.com",
+                "name": "Rhode Island Jewish Museum",
+                "tourism": "museum",
+                "website": "https://www.rhodeislandjewishmuseum.org/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Sons_of_Jacob_Synagogue-front.jpg/1280px-Sons_of_Jacob_Synagogue-front.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 8769619385,
+            "lat": 41.8269849,
+            "lon": -71.4080618,
+            "tags": {
+                "addr:city": "Providence",
+                "addr:housenumber": "13",
+                "addr:postcode": "02903",
+                "addr:state": "RI",
+                "addr:street": "Waterman Street",
+                "museum": "nature",
+                "name": "The Nature Lab at Rhode Island School of Design",
+                "tourism": "museum",
+                "website": "https://naturelab.risd.edu/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/RISD_Seal.svg/1280px-RISD_Seal.svg.png",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 9023208641,
+            "lat": 41.8311011,
+            "lon": -71.4147594,
+            "tags": {
+                "name": "Rhode Island State House Tours",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/2021_Rhode_Island_State_House_from_east.jpg/1280px-2021_Rhode_Island_State_House_from_east.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 9497339665,
+            "lat": 41.7878953,
+            "lon": -71.4147829,
+            "tags": {
+                "name": "Soaring Eagle Zip Ride",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Museum_of_Natural_History_and_Planetarium_in_Roger_Williams_Park.jpg/1280px-Museum_of_Natural_History_and_Planetarium_in_Roger_Williams_Park.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 9497339715,
+            "lat": 41.7887801,
+            "lon": -71.4148359,
+            "tags": {
+                "name": "Treehouse For All",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9497339716,
+            "lat": 41.788842,
+            "lon": -71.4146213,
+            "tags": {
+                "name": "Naturescape",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9497341717,
+            "lat": 41.789121,
+            "lon": -71.4153508,
+            "tags": {
+                "name": "Hasbro's Our Big Backyard",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9497341735,
+            "lat": 41.7879039,
+            "lon": -71.4149422,
+            "tags": {
+                "name": "Woodlands Express! Train Ride (Seasonal)",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Museum_of_Natural_History_and_Planetarium_in_Roger_Williams_Park.jpg/1280px-Museum_of_Natural_History_and_Planetarium_in_Roger_Williams_Park.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 231773863,
+            "lat": 41.7833858,
+            "lon": -71.4146227,
+            "tags": {
+                "attraction": "carousel",
+                "building": "yes",
+                "name": "Roger Williams Park Carousel",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Bandstand_and_Casino%2C_Roger_Williams_Park%2C_Providence%2C_Rhode_Island.jpg/1280px-Bandstand_and_Casino%2C_Roger_Williams_Park%2C_Providence%2C_Rhode_Island.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 231819203,
+            "lat": 41.7868375,
+            "lon": -71.4131947,
+            "tags": {
+                "alt_name": "Roger Williams Park Museum of Natural History and Planetarium",
+                "building": "yes",
+                "fee": "yes",
+                "fee:conditional": "no @ age < 3",
+                "museum": "nature",
+                "name": "Museum of Natural History and Planetarium",
+                "opening_hours": "Mo-Su 09:30-15:30; PH off",
+                "tourism": "museum",
+                "website": "https://www.providenceri.gov/museum/",
+                "wheelchair": "no",
+                "wikidata": "Q7359135"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Museum_of_Natural_History_and_Planetarium_in_Roger_Williams_Park.jpg/1280px-Museum_of_Natural_History_and_Planetarium_in_Roger_Williams_Park.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 231819596,
+            "lat": 41.7824764,
+            "lon": -71.4070545,
+            "tags": {
+                "addr:city": "Providence",
+                "addr:housenumber": "1000",
+                "addr:street": "Elmwood Ave",
+                "garden:type": "botanical",
+                "leisure": "garden",
+                "name": "Roger Williams Botanical Center",
+                "note": "Roger Williams Botanical Center Contact: Judy Knight Email: info@bccrwp.org",
+                "tourism": "attraction",
+                "website": "http://bccrwp.org"
+            }
+        },
+        {
+            "type": "way",
+            "id": 231821819,
+            "lat": 41.7858288,
+            "lon": -71.4178986,
+            "tags": {
+                "garden:type": "rosegarden",
+                "leisure": "garden",
+                "name": "Victorian Rose Garden",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Roger_Williams_Park_Botanical_Center_-_8709475591.jpg/1280px-Roger_Williams_Park_Botanical_Center_-_8709475591.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 231877213,
+            "lat": 41.7873826,
+            "lon": -71.4182606,
+            "tags": {
+                "building": "yes",
+                "name": "A World of Adaptations",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Roger_Williams_Park_Botanical_Center_-_8709475591.jpg/1280px-Roger_Williams_Park_Botanical_Center_-_8709475591.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 231916457,
+            "lat": 41.7855992,
+            "lon": -71.4163694,
+            "tags": {
+                "building": "yes",
+                "historic": "building",
+                "name": "Betsey Williams Cottage",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Entrance_to_Roger_Williams_Park.jpg/1280px-Entrance_to_Roger_Williams_Park.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 231917241,
+            "lat": 41.7806639,
+            "lon": -71.4135309,
+            "tags": {
+                "area": "yes",
+                "name": "Temple to Music",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Bandstand_and_Casino%2C_Roger_Williams_Park%2C_Providence%2C_Rhode_Island.jpg/1280px-Bandstand_and_Casino%2C_Roger_Williams_Park%2C_Providence%2C_Rhode_Island.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 295190363,
+            "lat": 41.7885612,
+            "lon": -71.4171877,
+            "tags": {
+                "addr:city": "Providence",
+                "addr:housenumber": "1000",
+                "addr:street": "Elmwood Ave",
+                "name": "Roger Williams Park Zoo",
+                "tourism": "zoo",
+                "wikidata": "Q7359136",
+                "wikipedia": "en:Roger Williams Park Zoo"
+            }
+        },
+        {
+            "type": "way",
+            "id": 309146529,
+            "lat": 41.8231741,
+            "lon": -71.4033187,
+            "tags": {
+                "addr:city": "Providence",
+                "addr:housenumber": "52",
+                "addr:postcode": "02906",
+                "addr:state": "RI",
+                "addr:street": "Power Street",
+                "building": "yes",
+                "building:levels": "3",
+                "name": "John Brown House Museum",
+                "operator": "Rhode Island Historical Society",
+                "tourism": "museum",
+                "website": "http://www.rihs.org/museums/john-brown-house/",
+                "wikidata": "Q6223544",
+                "wikipedia": "en:John Brown House (Providence, Rhode Island)"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Providence_-_John_Brown_House.jpg/1280px-Providence_-_John_Brown_House.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 425693227,
+            "lat": 41.8164737,
+            "lon": -71.4093482,
+            "tags": {
+                "building": "yes",
+                "fee": "yes",
+                "fee:conditional": "no @ age < 1",
+                "museum": "children",
+                "name": "Providence Children's Museum",
+                "opening_hours:url": "https://providencechildrensmuseum.org/plan-your-visit/",
+                "tourism": "museum",
+                "website": "https://providencechildrensmuseum.org/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Davol_Rubber_Prov.jpg/1280px-Davol_Rubber_Prov.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 486646961,
+            "lat": 41.8182024,
+            "lon": -71.4209269,
+            "tags": {
+                "building": "yes",
+                "museum": "science_and_art",
+                "name": "Rhode Island Museum of Science and Art (RIMOSA)",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Burrows_Block%2C_Providence_RI_2012.jpg/1280px-Burrows_Block%2C_Providence_RI_2012.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 495340315,
+            "lat": 41.8282619,
+            "lon": -71.3970354,
+            "tags": {
+                "building": "yes",
+                "historic": "house",
+                "name": "Lippitt House Museum",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Lippitt_House_Museum_in_snow_2017.jpg/1280px-Lippitt_House_Museum_in_snow_2017.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 1027465749,
+            "lat": 41.7806681,
+            "lon": -71.4135079,
+            "tags": {
+                "building": "yes",
+                "fee": "no",
+                "name": "Temple to Music",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Bandstand_and_Casino%2C_Roger_Williams_Park%2C_Providence%2C_Rhode_Island.jpg/1280px-Bandstand_and_Casino%2C_Roger_Williams_Park%2C_Providence%2C_Rhode_Island.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 1030209881,
+            "lat": 41.7837854,
+            "lon": -71.4152316,
+            "tags": {
+                "garden:style": "japanese",
+                "leisure": "garden",
+                "name": "Japanese Garden",
+                "tourism": "attraction"
+            }
+        }
+    ]
+}

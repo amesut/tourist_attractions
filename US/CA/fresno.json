@@ -1,0 +1,400 @@
+{
+    "city_metadata": {
+        "city_name": "Fresno",
+        "state_code": "CA",
+        "state_full": "California",
+        "city_summary": "Fresno ( ; Spanish for 'ash tree') is a city in the San Joaquin Valley of California, United States. It is the county seat of Fresno County and the largest city in the greater Central Valley region, as well as the most populated city in Central California. It covers about 114.7 square miles (297 km2) and had a population of 542,107 as of the 2020 census, making it the fifth-most populous city in California, the most populous inland city in California, and the 34th-most populous city in the nation.",
+        "city_image": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Fresno_Bee_Building_Dec_2012_%28cropped%29.jpg",
+        "city_lat": 36.75,
+        "city_lon": -119.76666667,
+        "source": "wikipedia_verified_engine"
+    },
+    "attractions": [
+        {
+            "type": "node",
+            "id": 368174123,
+            "lat": 36.7518928,
+            "lon": -119.820702,
+            "tags": {
+                "addr:state": "CA",
+                "ele": "89",
+                "gnis:feature_id": "1811549",
+                "museum": "history",
+                "name": "Fort Miller Blockhouse Museum",
+                "source": "USGS Geonames",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/LionsFresnoZoo.jpg/1280px-LionsFresnoZoo.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 368174594,
+            "lat": 36.7402438,
+            "lon": -119.7957793,
+            "tags": {
+                "addr:state": "CA",
+                "ele": "88",
+                "gnis:feature_id": "1811693",
+                "name": "Fresno Metropolitan Museum",
+                "source": "USGS Geonames",
+                "tourism": "museum",
+                "was:name": "Fresno Metropolitan Museum",
+                "was:tourism": "museum",
+                "wikidata": "Q5503186"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/13/Fresno_Bee_Building_Dec_2012.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 368174621,
+            "lat": 36.7681127,
+            "lon": -119.7314425,
+            "tags": {
+                "addr:city": "Fresno",
+                "addr:housenumber": "1944",
+                "addr:postcode": "93703",
+                "addr:state": "CA",
+                "addr:street": "North Winery Avenue",
+                "ele": "98",
+                "gnis:feature_id": "223938",
+                "name": "Fresno Discovery Center",
+                "opening_hours": "Mo, Fr 09:00-13:00; Sa-Su 09:00-14:00; PH off",
+                "phone": "+1 559 251 5533",
+                "source": "USGS Geonames",
+                "tourism": "museum",
+                "website": "https://www.fresnodiscoverycenter.org/"
+            }
+        },
+        {
+            "type": "node",
+            "id": 4213930993,
+            "lat": 36.8075845,
+            "lon": -119.8818411,
+            "tags": {
+                "addr:city": "Fresno",
+                "addr:housenumber": "5021",
+                "addr:state": "CA",
+                "addr:street": "West Shaw Avenue",
+                "name": "Forestiere Underground Gardens",
+                "note": "California Historical Landmark No. 916\nNational Register of Historic Places, 1977",
+                "tourism": "attraction",
+                "website": "https://www.undergroundgardens.com/",
+                "wikidata": "Q5469244",
+                "wikipedia": "en:Forestiere Underground Gardens"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Forestiere_Underground_Gardens_at_5021_West_Shaw_Avenue%2C_Fresno%2C_California_LCCN2013634990.jpg/1280px-Forestiere_Underground_Gardens_at_5021_West_Shaw_Avenue%2C_Fresno%2C_California_LCCN2013634990.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 4433364107,
+            "lat": 36.7521489,
+            "lon": -119.8231949,
+            "tags": {
+                "addr:city": "Fresno",
+                "addr:housenumber": "894",
+                "addr:postcode": "93728",
+                "addr:state": "CA",
+                "addr:street": "West Belmont Avenue",
+                "name": "Fresno Chaffee Zoo",
+                "tourism": "zoo",
+                "website": "https://www.fresnochaffeezoo.org/",
+                "wikidata": "Q5503166",
+                "wikipedia": "en:Fresno Chaffee Zoo"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/LionsFresnoZoo.jpg/1280px-LionsFresnoZoo.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 61405718,
+            "lat": 36.8134702,
+            "lon": -119.8981783,
+            "tags": {
+                "addr:city": "Fresno",
+                "addr:housenumber": "6099",
+                "addr:postcode": "93723",
+                "addr:state": "CA",
+                "addr:street": "West Barstow Avenue",
+                "attribution": "Fresno_County_GIS",
+                "leisure": "water_park",
+                "name": "Island Waterpark",
+                "note": "Times change every day. Check website for schedule: https://www.islandwaterpark.com/calendar/",
+                "opening_hours": "Sep-Apr off",
+                "other_use": "C",
+                "phone": "+1-559-277-6800",
+                "primary_use": "REC",
+                "secondary_use": "PSL;000",
+                "source": "http://www.co.fresno.ca.us/%5Cdepartmentpage.aspx?id=16313",
+                "tourism": "theme_park",
+                "website": "https://www.islandwaterpark.com/"
+            }
+        },
+        {
+            "type": "way",
+            "id": 61465402,
+            "lat": 36.7983399,
+            "lon": -119.7701752,
+            "tags": {
+                "AREAID": "110231562310",
+                "AWATER": "0",
+                "COUNTYFP": "019",
+                "MTFCC": "K2564",
+                "STATEFP": "06",
+                "Tiger:MTFCC": "K2564",
+                "name": "Rotary Sports Center",
+                "source": "Tiger2009",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "way",
+            "id": 492152484,
+            "lat": 36.7525109,
+            "lon": -119.8198916,
+            "tags": {
+                "name": "Fresno Chaffee Zoo",
+                "tourism": "zoo"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/LionsFresnoZoo.jpg/1280px-LionsFresnoZoo.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 708708111,
+            "lat": 36.7513204,
+            "lon": -119.821907,
+            "tags": {
+                "name": "Valley Farm",
+                "tourism": "zoo",
+                "zoo": "petting_zoo"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/LionsFresnoZoo.jpg/1280px-LionsFresnoZoo.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 1197840442,
+            "lat": 36.809297,
+            "lon": -119.7783928,
+            "tags": {
+                "addr:city": "Fresno",
+                "addr:housenumber": "550",
+                "addr:postcode": "93710",
+                "addr:state": "CA",
+                "addr:street": "East Shaw Avenue",
+                "building": "yes",
+                "museum": "history",
+                "name": "Armenian Heritage Museum",
+                "opening_hours": "Mo,We 10:00-17:00; Tu,Th-Fr 10:00-15:00",
+                "phone": "+1-559-224-1001",
+                "tourism": "museum",
+                "website": "http://www.armof.org/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Fashion_Fair_Mall_%28Fresno_CA_E._Shaw_Ave.%29%281%29.jpg/1280px-Fashion_Fair_Mall_%28Fresno_CA_E._Shaw_Ave.%29%281%29.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 1290056941,
+            "lat": 36.7397106,
+            "lon": -119.7825426,
+            "tags": {
+                "addr:state": "CA",
+                "building": "yes",
+                "ele": "91",
+                "gnis:feature_id": "1811705",
+                "name": "Meux Home Museum",
+                "source": "USGS Geonames",
+                "tourism": "museum",
+                "website": "https://meuxhomemuseum.org/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Meux_Home_Tulare_Street.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 108259,
+            "lat": 37.66138889,
+            "lon": -120.99444444,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Gallo_Center_for_the_Arts_Modesto_%28cropped%29.JPG/1280px-Gallo_Center_for_the_Arts_Modesto_%28cropped%29.JPG",
+            "description": "Modesto ( mə-DESS-toh; Spanish pronunciation: [moˈðesto]; Spanish for \"modest\") is the county seat of and the largest city in Stanislaus County, California, United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Modesto, California",
+                "wikipedia": "en:Modesto, California",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 27671149,
+            "lat": 36.758,
+            "lon": -119.8014,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Tower_Theatre_Fresno_2.jpg/1280px-Tower_Theatre_Fresno_2.jpg",
+            "description": "The Tower Theatre for the Performing Arts is a historic Streamline Moderne mixed-use theater in Fresno, California.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Tower Theatre (Fresno, California)",
+                "wikipedia": "en:Tower Theatre (Fresno, California)",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 65142053,
+            "lat": 36.751689,
+            "lon": -119.823531,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Fresno_Rotary_Play_Land_2022.jpg/1280px-Fresno_Rotary_Play_Land_2022.jpg",
+            "description": "Playland was an amusement park in Roeding Park in Fresno, California.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Playland (Fresno)",
+                "wikipedia": "en:Playland (Fresno)",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 1663687,
+            "lat": 36.75333333,
+            "lon": -119.82277778,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Roeding_Park_Entrance_Sign.jpg/1280px-Roeding_Park_Entrance_Sign.jpg",
+            "description": "Roeding Park is a 90-acre (360,000 m2) regional city park in Fresno, California established in 1903 via a gift from the Roeding family.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Roeding Park",
+                "wikipedia": "en:Roeding Park",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 15937788,
+            "lat": 33.81,
+            "lon": -117.92,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Sleeping_Beauty_Castle_-_February_2024.png/1280px-Sleeping_Beauty_Castle_-_February_2024.png",
+            "description": "Disneyland is a theme park at the Disneyland Resort in Anaheim, California, United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Disneyland",
+                "wikipedia": "en:Disneyland",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 7565305,
+            "lat": 38.5125,
+            "lon": -121.49333333,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/42/Sacramento_Executive_Airport_-_California.jpg",
+            "description": "Sacramento Executive Airport (IATA: SAC, ICAO: KSAC, FAA LID: SAC) is a public airport three miles (5 km) south of downtown Sacramento, in Sacramento County, California, United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Sacramento Executive Airport",
+                "wikipedia": "en:Sacramento Executive Airport",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 48664,
+            "lat": 37.85,
+            "lon": -119.51666667,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Half_Dome_with_Eastern_Yosemite_Valley_%2850MP%29.jpg/1280px-Half_Dome_with_Eastern_Yosemite_Valley_%2850MP%29.jpg",
+            "description": "Yosemite National Park ( yoh-SEM-ih-tee) is a national park of the United States in California.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Yosemite National Park",
+                "wikipedia": "en:Yosemite National Park",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 108142,
+            "lat": 34.59388889,
+            "lon": -120.13972222,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Tivoli_Square_Solvang.jpg/1280px-Tivoli_Square_Solvang.jpg",
+            "description": "Solvang (; Danish for \"sunny field\") is a city in Santa Barbara County, California, United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Solvang, California",
+                "wikipedia": "en:Solvang, California",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 29631,
+            "lat": 38.58166667,
+            "lon": -121.49444444,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Sacramento%2C_CA_skyline_%28cropped%29.jpg/1280px-Sacramento%2C_CA_skyline_%28cropped%29.jpg",
+            "description": "Sacramento is the capital city of the U.S. state of California.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Sacramento, California",
+                "wikipedia": "en:Sacramento, California",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 5407,
+            "lat": 37,
+            "lon": -120,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Flag_of_California.svg/1280px-Flag_of_California.svg.png",
+            "description": "California () is a state in the Western United States that lies on the Pacific Coast.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "California",
+                "wikipedia": "en:California",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 2184171,
+            "lat": 37.47777778,
+            "lon": -119.63888889,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Fish-camp-silver-tip.jpg/1280px-Fish-camp-silver-tip.jpg",
+            "description": "Fish Camp (formerly Happy Camp and Berry's Fish Camp) is a census-designated place (CDP) in Mariposa County, California, United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Fish Camp, California",
+                "wikipedia": "en:Fish Camp, California",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 3231125,
+            "lat": 33.69583333,
+            "lon": -116.37027778,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Living_desert.JPG/1280px-Living_desert.JPG",
+            "description": "The Living Desert Zoo and Gardens, formerly the Living Desert Museum, is a non-profit zoo and desert botanical garden in Palm Desert, in the Colorado Desert, in California in the United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Living Desert Zoo and Gardens",
+                "wikipedia": "en:Living Desert Zoo and Gardens",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 82025,
+            "lat": 36.24,
+            "lon": -121.31,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Big_Sur%2C_Pacific_Coast%2C_California%2C_USA7_%28cropped%29.jpg/1280px-Big_Sur%2C_Pacific_Coast%2C_California%2C_USA7_%28cropped%29.jpg",
+            "description": "Monterey County (  MON-tə-RAY), officially the County of Monterey, is a county located on the Pacific coast in the U.S. state of California.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Monterey County, California",
+                "wikipedia": "en:Monterey County, California",
+                "tourism": "attraction"
+            }
+        }
+    ]
+}

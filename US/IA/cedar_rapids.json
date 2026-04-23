@@ -1,0 +1,395 @@
+{
+    "city_metadata": {
+        "city_name": "Cedar Rapids",
+        "state_code": "IA",
+        "state_full": "Iowa",
+        "city_summary": "Cedar Rapids is a city in Linn County, Iowa, United States, and the county seat. The population was 137,710 at the 2020 census, and was estimated at 137,904 in 2024. making it the second-most populous city in Iowa.",
+        "city_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/National-Czech-and-Slovak-Museum-Library_%28cropped%29.jpg/1280px-National-Czech-and-Slovak-Museum-Library_%28cropped%29.jpg",
+        "city_lat": 41.96419,
+        "city_lon": -91.67917,
+        "source": "wikipedia_verified_engine"
+    },
+    "attractions": [
+        {
+            "type": "node",
+            "id": 367089448,
+            "lat": 41.9820924,
+            "lon": -91.6611033,
+            "tags": {
+                "addr:city": "Cedar Rapids",
+                "addr:housenumber": "800",
+                "addr:postcode": "52403",
+                "addr:state": "IA",
+                "addr:street": "2nd Avenue Southeast",
+                "ele": "232",
+                "gnis:feature_id": "2046776",
+                "name": "History Center",
+                "source": "USGS Geonames",
+                "tourism": "museum",
+                "website": "https://www.historycenter.org/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/George_B_Douglas_House_Cedar_Rapids_IA_pic1.JPG/1280px-George_B_Douglas_House_Cedar_Rapids_IA_pic1.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 9801802273,
+            "lat": 42.0252679,
+            "lon": -91.6271621,
+            "tags": {
+                "addr:housenumber": "4444 ste 0001",
+                "addr:street": "1st Avenue",
+                "name": "The 5th Realm",
+                "phone": "+1-319-804-9695",
+                "tourism": "attraction",
+                "website": "http://enterthe5threalm.com/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/41/Lindale_Mall.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 13698536001,
+            "lat": 41.8919785,
+            "lon": -91.6607288,
+            "tags": {
+                "addr:housenumber": "8920",
+                "addr:postcode": "52404",
+                "addr:street": "Brighton Way Southwest",
+                "name": "The Fun Station",
+                "opening_hours": "Su 10:00-20:00; Tu-Th 15:00-20:00; Fr 11:00-21:00; Sa 10:00-22:00",
+                "phone": "+1-319-373-1111",
+                "tourism": "theme_park",
+                "website": "http://gofunstation.com/cedar-rapids"
+            }
+        },
+        {
+            "type": "way",
+            "id": 74271807,
+            "lat": 42.0055928,
+            "lon": -91.7207056,
+            "tags": {
+                "area": "yes",
+                "historic": "yes",
+                "linncounty:objectid": "105",
+                "name": "Ushers Ferry Historical Village",
+                "tourism": "museum"
+            }
+        },
+        {
+            "type": "way",
+            "id": 178213426,
+            "lat": 41.9661309,
+            "lon": -91.6619434,
+            "tags": {
+                "addr:city": "Cedar Rapids",
+                "addr:housenumber": "1400",
+                "addr:postcode": "52404",
+                "addr:state": "IA",
+                "addr:street": "Inspiration Place SW",
+                "air_conditioning": "yes",
+                "building": "yes",
+                "fee": "yes",
+                "museum": "history",
+                "name": "National Czech & Slovak Museum & Library",
+                "opening_hours": "Mo-Sa 09:30-16:00; Su 12:00-16:00",
+                "operator": "National Czech & Slovak Museum & Library",
+                "operator:type": "private",
+                "phone": "+1 319-362-8500",
+                "source": "Bing",
+                "tourism": "museum",
+                "website": "https://ncsml.org/",
+                "wheelchair": "yes",
+                "wikidata": "Q14689261",
+                "wikipedia": "en:National Czech & Slovak Museum & Library"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/42/National_Czech_%26_Slovak_Museum_%26_Libraly-logo.png",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 180634136,
+            "lat": 41.9788757,
+            "lon": -91.6644297,
+            "tags": {
+                "addr:city": "Cedar Rapids",
+                "addr:housenumber": "410",
+                "addr:state": "IA",
+                "addr:street": "3rd Avenue Southeast",
+                "building": "yes",
+                "name": "Cedar Rapids Museum of Art",
+                "opening_hours": "Tu-Fr,Su 12:00-16:00; Sa 10:00-16:00",
+                "operator": "Cedar Rapids Musuem of Art",
+                "phone": "+1 319 3667503",
+                "source": "Bing",
+                "tourism": "museum",
+                "website": "www.crma.org",
+                "wikidata": "Q6940755"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/en/d/d2/CR-Art-Museum.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 184800423,
+            "lat": 41.9924035,
+            "lon": -91.6393528,
+            "tags": {
+                "alt_name": "T.M. Sinclair Mansion",
+                "building": "yes",
+                "fee": "yes",
+                "name": "Brucemore",
+                "ref:nrhp": "76000780",
+                "source": "Bing",
+                "tourism": "museum",
+                "wikidata": "Q4978548"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Brucemore.jpg/1280px-Brucemore.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 251284690,
+            "lat": 41.9687248,
+            "lon": -91.6597355,
+            "tags": {
+                "addr:city": "Cedar Rapids",
+                "addr:housenumber": "55",
+                "addr:postcode": "52401",
+                "addr:state": "IA",
+                "addr:street": "12th Avenue Southeast",
+                "air_conditioning": "yes",
+                "building": "yes",
+                "fee": "yes",
+                "linncounty:objectid": "214",
+                "museum": "history",
+                "name": "African American Museum Of Iowa",
+                "opening_hours": "Tu-Th,Sa 10:00-16:00; Fr 10:00-14:00",
+                "phone": "+13198622101",
+                "source": "Bing",
+                "tourism": "museum",
+                "website": "https://blackiowa.org/",
+                "wheelchair": "yes",
+                "wikidata": "Q4689668",
+                "wikipedia": "en:African American Museum of Iowa"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/African_American_Museum_of_Iowa_exterior.jpg/1280px-African_American_Museum_of_Iowa_exterior.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 447099789,
+            "lat": 41.9880241,
+            "lon": -91.6259034,
+            "tags": {
+                "name": "Petting Zoo",
+                "tourism": "zoo"
+            }
+        },
+        {
+            "type": "way",
+            "id": 690972694,
+            "lat": 41.982717,
+            "lon": -91.6649905,
+            "tags": {
+                "addr:city": "Cedar Rapids",
+                "addr:housenumber": "616",
+                "addr:postcode": "52401",
+                "addr:state": "IA",
+                "addr:street": "A Avenue Northeast",
+                "alt_name": "Consistory Building No. 2",
+                "building": "yes",
+                "name": "Cedar Rapids Scottish Rite Temple",
+                "phone": "+1-319-364-2904",
+                "ref:nrhp": "98001327",
+                "tourism": "museum",
+                "website": "http://www.crscottishrite.org/",
+                "wikidata": "Q5056853"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Consistory_Building_No_2_Cedar_Rapids_IA_pic1.JPG/1280px-Consistory_Building_No_2_Cedar_Rapids_IA_pic1.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 711202103,
+            "lat": 42.003442,
+            "lon": -91.7274327,
+            "tags": {
+                "building": "yes",
+                "linncounty:objectid": "218",
+                "name": "Seminole Valley Farm Museum",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Seminole_Farm_barn_-_east_side.jpg/1280px-Seminole_Farm_barn_-_east_side.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 113988,
+            "lat": 41.96419,
+            "lon": -91.67917,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/National-Czech-and-Slovak-Museum-Library_%28cropped%29.jpg/1280px-National-Czech-and-Slovak-Museum-Library_%28cropped%29.jpg",
+            "description": "Cedar Rapids is a city in Linn County, Iowa, United States, and the county seat.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Cedar Rapids, Iowa",
+                "wikipedia": "en:Cedar Rapids, Iowa",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 2268305,
+            "lat": 41.96805556,
+            "lon": -91.68638889,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/62/VetsStadium.jpg",
+            "description": "Veterans Memorial Stadium is a minor league baseball stadium in Cedar Rapids, Iowa.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Veterans Memorial Stadium (Cedar Rapids)",
+                "wikipedia": "en:Veterans Memorial Stadium (Cedar Rapids)",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 4197445,
+            "lat": 41.98021944,
+            "lon": -91.66744167,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/U.S._Cellular_Center_-_Cedar_Rapids%2C_Iowa_01.jpg/1280px-U.S._Cellular_Center_-_Cedar_Rapids%2C_Iowa_01.jpg",
+            "description": "Alliant Energy PowerHouse (formerly Five Seasons Center and later U.S. Cellular Center) is a multi-purpose arena located in the downtown area of Cedar Rapids, Iowa.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Alliant Energy PowerHouse",
+                "wikipedia": "en:Alliant Energy PowerHouse",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 26810748,
+            "lat": 42,
+            "lon": -94,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Flag_of_Iowa.svg/1280px-Flag_of_Iowa.svg.png",
+            "description": "Iowa (  EYE-ə-wə) is a landlocked state in the upper Midwestern region of the United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Iowa",
+                "wikipedia": "en:Iowa",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 113933,
+            "lat": 41.62083333,
+            "lon": -91.49472222,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Iowa_City_Downtown_June_2021_%28cropped%29.jpg",
+            "description": "Iowa City is the largest city in Johnson County, Iowa, United States, and its county seat.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Iowa City, Iowa",
+                "wikipedia": "en:Iowa City, Iowa",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 15880388,
+            "lat": 30.5414,
+            "lon": -97.8202,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/HEB_Center_at_Cedar_Park_2022.jpg/1280px-HEB_Center_at_Cedar_Park_2022.jpg",
+            "description": "H-E-B Center at Cedar Park is an indoor arena located in Cedar Park, Texas, near Austin.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "H-E-B Center at Cedar Park",
+                "wikipedia": "en:H-E-B Center at Cedar Park",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 112924,
+            "lat": 41.84694444,
+            "lon": -90.20722222,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Eagle_Point_Park_2.jpg",
+            "description": "Clinton is a city in and the county seat of Clinton County, Iowa, United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Clinton, Iowa",
+                "wikipedia": "en:Clinton, Iowa",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 709802,
+            "lat": 43.316,
+            "lon": -91.803,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Luther_college_logo.png",
+            "description": "Luther College is a private Lutheran liberal arts college in Decorah, Iowa, United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Luther College (Iowa)",
+                "wikipedia": "en:Luther College (Iowa)",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 132982,
+            "lat": 40.60166667,
+            "lon": -75.47722222,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/2018_-_Center_Square_-_Looking_Northeast_-_12_Oct_-_Allentown_PA.jpg/1280px-2018_-_Center_Square_-_Looking_Northeast_-_12_Oct_-_Allentown_PA.jpg",
+            "description": "Allentown is a city in eastern Pennsylvania, United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Allentown, Pennsylvania",
+                "wikipedia": "en:Allentown, Pennsylvania",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 49185698,
+            "lat": 51.92944444,
+            "lon": 134.59555556,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/cb/%D0%9E%D0%B7%D0%B5%D1%80%D0%BE_%D0%9C%D0%B5%D0%B4%D0%B2%D0%B5%D0%B6%D1%8C%D0%B5.jpg",
+            "description": "Bureya Nature Reserve (Russian: Буреинский заповедник) is a protected area (Zapovednik) about 200 km northwest of the city of Khabarovsk, in the Verkhnebureinsky District of Khabarovsk Krai, in the Russian Far East.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Bureya Nature Reserve",
+                "wikipedia": "en:Bureya Nature Reserve",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 5296852,
+            "lat": 41.67777778,
+            "lon": -93.01444444,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/78_Black_Outline.svg/1280px-78_Black_Outline.svg.png",
+            "description": "Iowa Speedway is a 0.875 mi (1.408 km) oval short track in Newton, Iowa.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Iowa Speedway",
+                "wikipedia": "en:Iowa Speedway",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 49865197,
+            "lat": 63.50388889,
+            "lon": 84.05777778,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/42/%D0%9F%D1%80%D0%B5%D0%BA%D1%80%D0%B0%D1%81%D0%BD%D1%8B%D0%B9_%D0%92%D0%B5%D1%80%D1%85%D0%BD%D0%B5-%D0%A2%D0%B0%D0%B7%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9_%D0%B7%D0%B0%D0%BF%D0%BE%D0%B2%D0%B5%D0%B4%D0%BD%D0%B8%D0%BA%29%29.jpg",
+            "description": "Upper Taz Nature Reserve (Russian: Верхне-Тазовский заповедник) (also Verkhne-Tazovsky) is a Russian 'zapovednik' (strict nature reserve) at the geographic center of the Russia Empire.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Upper Taz Nature Reserve",
+                "wikipedia": "en:Upper Taz Nature Reserve",
+                "tourism": "attraction"
+            }
+        }
+    ]
+}

@@ -1,0 +1,387 @@
+{
+    "city_metadata": {
+        "city_name": "Breckenridge",
+        "state_code": "CO",
+        "state_full": "Colorado",
+        "city_summary": "Breckenridge is the home rule town that is the county seat of Summit County, Colorado, United States. The population was 5,078 at the 2020 census, and was estimated at 4,892 in 2024.\nBreckenridge is the principal town of the Breckenridge, CO Micropolitan Statistical Area.",
+        "city_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Breckenridge_Main_Street.jpg/1280px-Breckenridge_Main_Street.jpg",
+        "city_lat": 39.4817,
+        "city_lon": -106.0384,
+        "source": "wikipedia_verified_engine"
+    },
+    "attractions": [
+        {
+            "type": "node",
+            "id": 367068452,
+            "lat": 46.265,
+            "lon": -96.5847222,
+            "tags": {
+                "addr:city": "Breckenridge",
+                "addr:housenumber": "704",
+                "addr:postcode": "56520",
+                "addr:state": "MN",
+                "addr:street": "Nebraska Avenue",
+                "ele": "294",
+                "gnis:feature_id": "2068518",
+                "name": "Wilkin County Museum",
+                "source": "USGS Geonames",
+                "tourism": "museum",
+                "website": "https://www.exploreminnesota.com/profile/wilkin-county-museum/2270"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Wilkin_County_Museum%2C_704_Nebraska_Avenue%2C_Breckenridge%2C_MN_-_Close_up.jpg/1280px-Wilkin_County_Museum%2C_704_Nebraska_Avenue%2C_Breckenridge%2C_MN_-_Close_up.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 368165535,
+            "lat": 32.755399,
+            "lon": -98.9028455,
+            "tags": {
+                "addr:state": "TX",
+                "ele": "367",
+                "gnis:feature_id": "2014458",
+                "name": "Swenson Memorial Museum",
+                "source": "USGS Geonames",
+                "tourism": "museum",
+                "website": "https://texastimetravel.com/directory/swenson-memorial-museum/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Furniture_Thurmon_downtown_Breckenridge_Wiki-1.jpg/1280px-Furniture_Thurmon_downtown_Breckenridge_Wiki-1.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 368165549,
+            "lat": 32.7562322,
+            "lon": -98.90729,
+            "tags": {
+                "addr:state": "TX",
+                "ele": "368",
+                "gnis:feature_id": "2014456",
+                "name": "Breckenridge Aviation Museum",
+                "source": "USGS Geonames",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Furniture_Thurmon_downtown_Breckenridge_Wiki-1.jpg/1280px-Furniture_Thurmon_downtown_Breckenridge_Wiki-1.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 4602297713,
+            "lat": 39.4801218,
+            "lon": -106.067484,
+            "tags": {
+                "attraction": "summer_toboggan",
+                "name": "Alpine Super Slide",
+                "operator": "Breckenridge Resort",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Breckenridge_Ski_Area_from_Dercum_Mountain%2C_Keystone_Ski_Area.jpg/1280px-Breckenridge_Ski_Area_from_Dercum_Mountain%2C_Keystone_Ski_Area.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 4980475423,
+            "lat": 39.4802854,
+            "lon": -106.0464817,
+            "tags": {
+                "fee": "no",
+                "internet_access": "wlan",
+                "name": "Breckenridge History Museum",
+                "tourism": "museum",
+                "website": "https://breckhistory.org/",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 4980786172,
+            "lat": 39.4853947,
+            "lon": -106.045831,
+            "tags": {
+                "name": "Red White and Blue Fire Museum",
+                "name:en": "Red White and Blue Fire Museum",
+                "tourism": "museum",
+                "website": "https://www.rwbfire.org/291/Museum"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11251921443,
+            "lat": 39.481424,
+            "lon": -106.04737,
+            "tags": {
+                "check_date": "2023-10-09",
+                "level": "0",
+                "museum": "children",
+                "name": "Mountain Top Exploratorium",
+                "tourism": "museum"
+            }
+        },
+        {
+            "type": "way",
+            "id": 225428327,
+            "lat": 39.4805859,
+            "lon": -106.0454712,
+            "tags": {
+                "building": "yes",
+                "name": "Barney Ford House Museum",
+                "name:en": "Barney Ford House Museum",
+                "source": "Bing",
+                "tourism": "museum",
+                "website": "https://breckhistory.org/museums/barney-ford-museum/"
+            }
+        },
+        {
+            "type": "way",
+            "id": 225432143,
+            "lat": 39.4830519,
+            "lon": -106.0452686,
+            "tags": {
+                "addr:city": "Breckenridge",
+                "addr:housenumber": "111",
+                "addr:postcode": "80424",
+                "addr:state": "CO",
+                "addr:street": "North Ridge Street",
+                "building": "yes",
+                "fee": "no",
+                "name": "Edwin Carter Discovery Center",
+                "name:en": "Edwin Carter Discovery Center",
+                "source": "Bing",
+                "tourism": "museum",
+                "website": "https://breckhistory.org/museums/edwin-carter-museum/"
+            }
+        },
+        {
+            "type": "way",
+            "id": 225853042,
+            "lat": 39.4793121,
+            "lon": -106.0670051,
+            "tags": {
+                "attraction": "alpine_coaster",
+                "building": "yes",
+                "layer": "1",
+                "name": "Gold Runner Alpine Coaster",
+                "source": "Bing",
+                "tourism": "attraction",
+                "website": "https://summitretreats.net/breckenridge-alpine-slide/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Breckenridge_Ski_Area_from_Dercum_Mountain%2C_Keystone_Ski_Area.jpg/1280px-Breckenridge_Ski_Area_from_Dercum_Mountain%2C_Keystone_Ski_Area.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 225862604,
+            "lat": 39.4832159,
+            "lon": -106.0530368,
+            "tags": {
+                "building": "yes",
+                "name": "Lomax Placer Mine",
+                "source": "Bing",
+                "tourism": "museum"
+            }
+        },
+        {
+            "type": "way",
+            "id": 1193750220,
+            "lat": 43.4077478,
+            "lon": -84.4745797,
+            "tags": {
+                "addr:city": "Breckenridge",
+                "addr:housenumber": "404",
+                "addr:postcode": "48615",
+                "addr:state": "MI",
+                "addr:street": "East Saginaw Street",
+                "building": "yes",
+                "museum": "local",
+                "name": "Plank Road Museum",
+                "phone": "+1 989-842-1241",
+                "tourism": "museum",
+                "wheelchair": "yes"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Breckenridge%2C_MI_%28September_2022%29.jpg/1280px-Breckenridge%2C_MI_%28September_2022%29.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 108652,
+            "lat": 39.4817,
+            "lon": -106.0384,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Breckenridge_Main_Street.jpg/1280px-Breckenridge_Main_Street.jpg",
+            "description": "Breckenridge is the home rule town that is the county seat of Summit County, Colorado, United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Breckenridge, Colorado",
+                "wikipedia": "en:Breckenridge, Colorado",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 1850410,
+            "lat": 39.3161,
+            "lon": -105.8928,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Como_Roundhouse.JPG/1280px-Como_Roundhouse.JPG",
+            "description": "Como is an unincorporated community in  Park County in the Rocky Mountains of central Colorado, United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Como, Colorado",
+                "wikipedia": "en:Como, Colorado",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 108654,
+            "lat": 39.57916667,
+            "lon": -106.09138889,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Frisco_Colorado_roads.jpg/1280px-Frisco_Colorado_roads.jpg",
+            "description": "Frisco is a home rule municipality located in Summit County, Colorado, United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Frisco, Colorado",
+                "wikipedia": "en:Frisco, Colorado",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 8322109,
+            "lat": 38.9972,
+            "lon": -105.5478,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Colorado_in_United_States.svg/1280px-Colorado_in_United_States.svg.png",
+            "description": "The U.S. State of Colorado  has 273 active municipalities, comprising 198 towns, 73 cities, and two consolidated city and county governments.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "List of municipalities in Colorado",
+                "wikipedia": "en:List of municipalities in Colorado",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 3359671,
+            "lat": 39.6074,
+            "lon": -106.0551,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Dillon_Reservoir.jpg/1280px-Dillon_Reservoir.jpg",
+            "description": "Dillon Reservoir, sometimes referred to as Lake Dillon, is a large fresh water reservoir located in Summit County, Colorado, United States, south of I-70 and bordered by the towns of Frisco, Silverthorne, and Dillon.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Dillon Reservoir",
+                "wikipedia": "en:Dillon Reservoir",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 4691281,
+            "lat": 38.9972,
+            "lon": -105.5478,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Colorado_in_United_States.svg/1280px-Colorado_in_United_States.svg.png",
+            "description": "This is a list of airports in the U.S. state of Colorado, grouped by type and sorted by location.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "List of airports in Colorado",
+                "wikipedia": "en:List of airports in Colorado",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 10050698,
+            "lat": 38.9972,
+            "lon": -105.5478,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/20/Colorado_statistical_areas_2023.png",
+            "description": "The U.S. State of Colorado has 20 statistical areas that have been delineated by the Office of Management and Budget (OMB).",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Colorado statistical areas",
+                "wikipedia": "en:Colorado statistical areas",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 71802240,
+            "lat": 38.9972,
+            "lon": -105.5478,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Colorado_in_United_States.svg/1280px-Colorado_in_United_States.svg.png",
+            "description": "This list ranks the 273 active incorporated municipalities of the U.S. State of Colorado by population as of July 1, 2024, as estimated by the United States Census Bureau.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "List of Colorado municipalities by population",
+                "wikipedia": "en:List of Colorado municipalities by population",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 9682967,
+            "lat": 38.9972,
+            "lon": -105.5478,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Colorado_in_United_States.svg/1280px-Colorado_in_United_States.svg.png",
+            "description": "This is a list of law enforcement agencies in the U.S. state of Colorado.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "List of law enforcement agencies in Colorado",
+                "wikipedia": "en:List of law enforcement agencies in Colorado",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 110718,
+            "lat": 47.69277778,
+            "lon": -116.78,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Coeur_d%27Alene_aerial%2C_May_2023_%28cropped%29.png/1280px-Coeur_d%27Alene_aerial%2C_May_2023_%28cropped%29.png",
+            "description": "Coeur d'Alene (  KOR də-LAYN; French: Cœur d'Alêne, lit. 'Heart of Awl' French pronunciation: [kœʁ da.lɛn]) is a city in and the county seat of Kootenai County, Idaho, United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Coeur d'Alene, Idaho",
+                "wikipedia": "en:Coeur d'Alene, Idaho",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 108408,
+            "lat": 39.96194444,
+            "lon": -105.50138889,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/19/Nederland_colorado2.jpg",
+            "description": "Nederland (, NED-ər-lənd) is a statutory town located near Barker Meadow Reservoir in the foothills of southwest Boulder County, Colorado, United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Nederland, Colorado",
+                "wikipedia": "en:Nederland, Colorado",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 5399,
+            "lat": 39,
+            "lon": -105.5,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Flag_of_Colorado.svg/1280px-Flag_of_Colorado.svg.png",
+            "description": "Colorado is a landlocked state in the Mountain West subregion of the Western United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Colorado",
+                "wikipedia": "en:Colorado",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 1313770,
+            "lat": 39.605,
+            "lon": -105.95416667,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/River_Run_Village_Fireworks%2C_Keystone%2C_CO.jpg/1280px-River_Run_Village_Fireworks%2C_Keystone%2C_CO.jpg",
+            "description": "Keystone Resort is a ski resort located in Keystone, Colorado, United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Keystone Resort",
+                "wikipedia": "en:Keystone Resort",
+                "tourism": "attraction"
+            }
+        }
+    ]
+}

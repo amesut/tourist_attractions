@@ -1,0 +1,367 @@
+{
+    "city_metadata": {
+        "city_name": "Clearwater",
+        "state_code": "FL",
+        "state_full": "Florida",
+        "city_summary": "Clearwater is a city in and the county seat of Pinellas County, Florida, United States, west of Tampa and north of St. Petersburg. To the west of Clearwater lies the Gulf of Mexico and to the southeast lies Tampa Bay.",
+        "city_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Clearwater_Beach%2C_Florida_%2835407253602%29.jpg/1280px-Clearwater_Beach%2C_Florida_%2835407253602%29.jpg",
+        "city_lat": 27.96555556,
+        "city_lon": -82.8,
+        "source": "wikipedia_verified_engine"
+    },
+    "attractions": [
+        {
+            "type": "node",
+            "id": 366766036,
+            "lat": 37.505992,
+            "lon": -97.497329,
+            "tags": {
+                "addr:city": "Clearwater",
+                "addr:postcode": "67026",
+                "ele": "389",
+                "gnis:feature_id": "2510636",
+                "name": "Clearwater Historical Society Museum",
+                "source": "USGS Geonames",
+                "tourism": "museum",
+                "website": "https://www.clearwaterks.org/326/Historical-Museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a3/Street_sign_%28Clearwater%2C_Kansas_-_2006%29.jpg/1280px-Street_sign_%28Clearwater%2C_Kansas_-_2006%29.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 4793076321,
+            "lat": 51.6455694,
+            "lon": -120.0721115,
+            "tags": {
+                "leisure": "sport",
+                "name": "Riverside Adventures",
+                "note": "Close 'nuff",
+                "sport": "canoe",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 11447343,
+            "lat": 27.979931,
+            "lon": -82.827232,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Clearwater_Beach_%2854357452307%29.jpg/1280px-Clearwater_Beach_%2854357452307%29.jpg",
+            "description": "Clearwater Beach is a beach located in Clearwater, Florida, United States, on a barrier island in the Gulf of Mexico.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Clearwater Beach",
+                "wikipedia": "en:Clearwater Beach",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 84504,
+            "lat": 27.82222222,
+            "lon": -82.67055556,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/St._Pete_Pier_-_East.jpg/1280px-St._Pete_Pier_-_East.jpg",
+            "description": "St.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "St. Petersburg, Florida",
+                "wikipedia": "en:St. Petersburg, Florida",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 74643,
+            "lat": 27.9,
+            "lon": -82.74,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Clearwater_Beach%2C_Florida_%2835188097760%29.jpg/1280px-Clearwater_Beach%2C_Florida_%2835188097760%29.jpg",
+            "description": "Pinellas County (US: , pih-NEL-əss) is located on the west central coast of the U.S. state of Florida.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Pinellas County, Florida",
+                "wikipedia": "en:Pinellas County, Florida",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 92995,
+            "lat": 27.9475,
+            "lon": -82.45861111,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Downtown_Tampa%2C_Florida.jpg/1280px-Downtown_Tampa%2C_Florida.jpg",
+            "description": "Tampa (  TAM-pə) is a major city on the Gulf Coast of the U.S. state of Florida and the county seat of Hillsborough County.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Tampa, Florida",
+                "wikipedia": "en:Tampa, Florida",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 109646,
+            "lat": 28.20388889,
+            "lon": -82.45722222,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Land_O%27_Lakes%2C_Florida_from_hot_air_balloon.jpg/1280px-Land_O%27_Lakes%2C_Florida_from_hot_air_balloon.jpg",
+            "description": "Land O' Lakes is a census-designated place (CDP) in Pasco County, Florida, United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Land O' Lakes, Florida",
+                "wikipedia": "en:Land O' Lakes, Florida",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 109572,
+            "lat": 27.69944444,
+            "lon": -80.88694444,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Desertinnyeehawjunction4.jpg",
+            "description": "Yeehaw Junction is a census-designated place (CDP) in Osceola County, Florida, United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Yeehaw Junction, Florida",
+                "wikipedia": "en:Yeehaw Junction, Florida",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 73610,
+            "lat": 26.58,
+            "lon": -81.92,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Base_Operations_at_Page_Field.jpg/1280px-Base_Operations_at_Page_Field.jpg",
+            "description": "Lee County is located in southwestern Florida, United States, on the Gulf Coast.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Lee County, Florida",
+                "wikipedia": "en:Lee County, Florida",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 73640,
+            "lat": 28.51,
+            "lon": -81.32,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Lake_Eola_Park_April_2022.jpg/1280px-Lake_Eola_Park_April_2022.jpg",
+            "description": "Orange County is a county located in the central part of the U.S. state of Florida.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Orange County, Florida",
+                "wikipedia": "en:Orange County, Florida",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 5260880,
+            "lat": 27.976033,
+            "lon": -82.704853,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Ruth-Eckerd-Hall.jpg",
+            "description": "Ruth Eckerd Hall is a 73,000-square-foot (6,800 m2) performing arts venue, located in Clearwater, Florida, in the Tampa Bay area and is part of the Richard B. Baumgardner Center for the Performing Arts.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Ruth Eckerd Hall",
+                "wikipedia": "en:Ruth Eckerd Hall",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 1968300,
+            "lat": 27.70888889,
+            "lon": -82.7375,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/21/Don_Cesar.jpg",
+            "description": "The Don CeSar is a hotel located in St.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "The Don CeSar",
+                "wikipedia": "en:The Don CeSar",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 4438199,
+            "lat": 28.41083333,
+            "lon": -81.4625,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/SeaWorld_Orlando_001.jpg/1280px-SeaWorld_Orlando_001.jpg",
+            "description": "SeaWorld Orlando is an animal theme park located just outside Orlando, Florida.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "SeaWorld Orlando",
+                "wikipedia": "en:SeaWorld Orlando",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 8217339,
+            "lat": 25.7861,
+            "lon": -80.1742,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Two_different_macaws_-Jungle_Island_-Miami-6a.jpg/1280px-Two_different_macaws_-Jungle_Island_-Miami-6a.jpg",
+            "description": "Jungle Island, formerly Parrot Jungle, is a relaunched eco-adventure park on Watson Island, Miami, Florida, United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Jungle Island",
+                "wikipedia": "en:Jungle Island",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 1207081,
+            "lat": 28.0133,
+            "lon": -82.4694,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Lowry_Park_Zoo_Sign_in_Tampa.jpg/1280px-Lowry_Park_Zoo_Sign_in_Tampa.jpg",
+            "description": "ZooTampa at Lowry Park (originally known as Tampa Fairyland and later Tampa Fairyland Zoo, Lowry Park Zoo, and Lowry Park Zoological Garden) is a 63-acre (25 ha) nonprofit zoo located in Tampa, Florida.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "ZooTampa at Lowry Park",
+                "wikipedia": "en:ZooTampa at Lowry Park",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 109756,
+            "lat": 27.35833333,
+            "lon": -82.54361111,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Sarasota_Skyline.jpeg/1280px-Sarasota_Skyline.jpeg",
+            "description": "Sarasota () is a city in and the county seat of Sarasota County, Florida, United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Sarasota, Florida",
+                "wikipedia": "en:Sarasota, Florida",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 6145830,
+            "lat": 29.88138889,
+            "lon": -81.28833333,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/St_Aug_Alligator_Farm_sign02.jpg/1280px-St_Aug_Alligator_Farm_sign02.jpg",
+            "description": "The St.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "St. Augustine Alligator Farm Zoological Park",
+                "wikipedia": "en:St. Augustine Alligator Farm Zoological Park",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 109661,
+            "lat": 27.93638889,
+            "lon": -82.81138889,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Pinellas_County_Florida_Incorporated_and_Unincorporated_areas_Belleair_Highlighted.svg/1280px-Pinellas_County_Florida_Incorporated_and_Unincorporated_areas_Belleair_Highlighted.svg.png",
+            "description": "Belleair is a town in Pinellas County, Florida, United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Belleair, Florida",
+                "wikipedia": "en:Belleair, Florida",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 5772483,
+            "lat": 27.94416667,
+            "lon": -82.445,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Florida_Aquarium_Channelside.jpg",
+            "description": "The Florida Aquarium is a 501(c)(3) non-profit organization, publicly operated institution located in downtown Tampa, Florida, United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Florida Aquarium",
+                "wikipedia": "en:Florida Aquarium",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 11295110,
+            "lat": 24.5590437,
+            "lon": -81.8073156,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Key_West_Aquarium.jpg/1280px-Key_West_Aquarium.jpg",
+            "description": "The Key West Aquarium is the only public aquarium in Key West, Florida, United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Key West Aquarium",
+                "wikipedia": "en:Key West Aquarium",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 8674564,
+            "lat": 29.65,
+            "lon": -81.64055556,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Palatka_Depot03.jpg/1280px-Palatka_Depot03.jpg",
+            "description": "Palatka station is an Amtrak train station in Palatka, Florida.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Palatka station",
+                "wikipedia": "en:Palatka station",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 18933066,
+            "lat": 28,
+            "lon": -82,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Flag_of_Florida.svg/1280px-Flag_of_Florida.svg.png",
+            "description": "Florida (  FLORR-ih-də; Spanish: [floˈɾiða] ) is a state in the Southeastern and South Atlantic\nregions of the United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Florida",
+                "wikipedia": "en:Florida",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 114932,
+            "lat": 37.68888889,
+            "lon": -97.33611111,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Wichita%2C_Kansas_skyline.jpg/1280px-Wichita%2C_Kansas_skyline.jpg",
+            "description": "Wichita ( , WITCH-ih-taw) is the most populous city in the U.S. state of Kansas and the county seat of Sedgwick County.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Wichita, Kansas",
+                "wikipedia": "en:Wichita, Kansas",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 1127761,
+            "lat": 28.225089,
+            "lon": -80.713978,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Brevard_Zoo_Monument_Sign.jpg/1280px-Brevard_Zoo_Monument_Sign.jpg",
+            "description": "The Brevard Zoo is a nonprofit zoological organization accredited by the Association of Zoos and Aquariums, and is located on 75-acres (30 ha) of land in Melbourne, Florida.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Brevard Zoo",
+                "wikipedia": "en:Brevard Zoo",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 73749699,
+            "lat": 25.393226,
+            "lon": -80.501207,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Alligators_-_Everglades_Alligator_Farm_-_Florida_City%2C_Florida_-_DSC09187.jpg/1280px-Alligators_-_Everglades_Alligator_Farm_-_Florida_City%2C_Florida_-_DSC09187.jpg",
+            "description": "Everglades Alligator Farm is a wildlife park in Miami-Dade County, Florida, nearby the city of Homestead and the entrance of Everglades National Park.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Everglades Alligator Farm",
+                "wikipedia": "en:Everglades Alligator Farm",
+                "tourism": "attraction"
+            }
+        }
+    ]
+}

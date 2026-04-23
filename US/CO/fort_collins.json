@@ -1,0 +1,393 @@
+{
+    "city_metadata": {
+        "city_name": "Fort Collins",
+        "state_code": "CO",
+        "state_full": "Colorado",
+        "city_summary": "Fort Collins is a home rule city in Larimer County, Colorado, United States, and serves as the county seat and most populous municipality of the county. It is the fourth-most populous city in Colorado with a population of 169,810 at the 2020 census, while the Fort Collins, CO Metropolitan Statistical Area has an estimated 375,000 residents.\nSituated on the Cache La Poudre River along the Colorado Front Range, Fort Collins is located 60 mi (97 km) north of the Colorado State Capitol in Denver and is a major city of the Front Range Urban Corridor.",
+        "city_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Downtown_Fort_Collins_Colorado.jpg/1280px-Downtown_Fort_Collins_Colorado.jpg",
+        "city_lat": 40.5854,
+        "city_lon": -105.0844,
+        "source": "wikipedia_verified_engine"
+    },
+    "attractions": [
+        {
+            "type": "node",
+            "id": 5999507786,
+            "lat": 40.5873876,
+            "lon": -105.082183,
+            "tags": {
+                "addr:housenumber": "328",
+                "addr:postcode": "80521",
+                "addr:street": "West Mountain Avenue",
+                "museum": "history",
+                "name": "Avery House",
+                "opening_hours": "Sa-Su 00:00-24:00",
+                "opening_hours:covid19": "closed",
+                "operator": "Poudre Landmarks Foundation",
+                "phone": "+1-970-221-0533",
+                "tourism": "museum",
+                "website": "https://poudrelandmarks.org/avery-house/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Avery_House%2C_Ft_Collins.jpg/1280px-Avery_House%2C_Ft_Collins.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 7550437261,
+            "lat": 40.5933846,
+            "lon": -105.056597,
+            "tags": {
+                "addr:city": "Fort Collins",
+                "addr:housenumber": "425",
+                "addr:postcode": "80524",
+                "addr:state": "CO",
+                "addr:street": "10th Street",
+                "museum": "history",
+                "name": "Museo de las Tres Colonias",
+                "opening_hours": "Sa[3] 12:30-15:00",
+                "tourism": "museum",
+                "website": "https://www.museodelastrescolonias.org/Museo/Museo.html"
+            }
+        },
+        {
+            "type": "node",
+            "id": 8835191333,
+            "lat": 40.5694177,
+            "lon": -105.0747239,
+            "tags": {
+                "name": "Allicar Museum",
+                "tourism": "museum"
+            }
+        },
+        {
+            "type": "node",
+            "id": 8835191335,
+            "lat": 40.5689419,
+            "lon": -105.07386,
+            "tags": {
+                "addr:city": "Fort Collins",
+                "addr:housenumber": "1574",
+                "addr:postcode": "80523",
+                "addr:state": "CO",
+                "addr:street": "Campus Dr",
+                "name": "Avenir Museum",
+                "opening_hours": "Tu-Fr 12:00-16:00",
+                "operator": "Colorado State University",
+                "operator:type": "university",
+                "tourism": "museum",
+                "website": "https://www.chhs.colostate.edu/avenir/"
+            }
+        },
+        {
+            "type": "way",
+            "id": 132401377,
+            "lat": 40.5853336,
+            "lon": -105.0775548,
+            "tags": {
+                "addr:city": "Fort Collins",
+                "addr:housenumber": "201",
+                "addr:postcode": "80524",
+                "addr:state": "CO",
+                "addr:street": "South College Avenue",
+                "addr:unit": "300",
+                "building": "yes",
+                "name": "Museum of Contemporary Art",
+                "roof:colour": "brown",
+                "roof:shape": "mansard",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Kissock_Block_Building.jpg/1280px-Kissock_Block_Building.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 260863671,
+            "lat": 40.593423,
+            "lon": -105.078081,
+            "tags": {
+                "addr:city": "Fort Collins",
+                "addr:housenumber": "408",
+                "addr:postcode": "80524",
+                "addr:state": "CO",
+                "addr:street": "Mason Court",
+                "building": "yes",
+                "contact:fax": "+1-970-416-2236",
+                "contact:phone": "+1-970-221-6738",
+                "contact:website": "http://fcmod.org/",
+                "name": "Fort Collins Museum of Discovery",
+                "opening_hours": "Tu-We 10:00-17:00; Th 10:00-20:00; Fr-Su 10:00-17:00",
+                "tourism": "museum",
+                "wheelchair": "yes",
+                "wikidata": "Q5470960",
+                "wikipedia": "en:Fort Collins Museum of Discovery"
+            }
+        },
+        {
+            "type": "way",
+            "id": 565577831,
+            "lat": 40.5960109,
+            "lon": -105.0847492,
+            "tags": {
+                "barrier": "fence",
+                "fee": "yes",
+                "landuse": "farmyard",
+                "name": "The Farm at Lee Martinez Park",
+                "operator": "City of Fort Collins",
+                "tourism": "museum",
+                "website": "https://www.fcgov.com/recreation/the-farm-lee-martinez-park"
+            }
+        },
+        {
+            "type": "way",
+            "id": 794592505,
+            "lat": 40.5845944,
+            "lon": -105.0734838,
+            "tags": {
+                "museum": "history",
+                "name": "Heritage Courtyard at Library Park",
+                "operator": "Fort Collins Museum of Discovery",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Fort_Collins_Museum_of_Discovery_Building_Photo.jpg/1280px-Fort_Collins_Museum_of_Discovery_Building_Photo.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 11507,
+            "lat": 40.5854,
+            "lon": -105.0844,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Downtown_Fort_Collins_Colorado.jpg/1280px-Downtown_Fort_Collins_Colorado.jpg",
+            "description": "Fort Collins is a home rule city in Larimer County, Colorado, United States, and serves as the county seat and most populous municipality of the county.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Fort Collins, Colorado",
+                "wikipedia": "en:Fort Collins, Colorado",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 475386,
+            "lat": 40.5762,
+            "lon": -105.0808,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Colorado_State_University_logo.svg/1280px-Colorado_State_University_logo.svg.png",
+            "description": "Colorado State University (Colorado State or CSU) is a public land-grant research university in Fort Collins, Colorado, United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Colorado State University",
+                "wikipedia": "en:Colorado State University",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 24044338,
+            "lat": 51.894497,
+            "lon": -8.477617,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Elizabeth_Fort_-_Map_-_1866.svg/1280px-Elizabeth_Fort_-_Map_-_1866.svg.png",
+            "description": "Elizabeth Fort is a 17th-century star fort off Barrack Street in Cork, Ireland.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Elizabeth Fort",
+                "wikipedia": "en:Elizabeth Fort",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 3073110,
+            "lat": 40.58518611,
+            "lon": -105.10377222,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/FortCollinsBirney_streetcar_MountainAve.jpg/1280px-FortCollinsBirney_streetcar_MountainAve.jpg",
+            "description": "The Fort Collins Municipal Railway operated streetcars in Fort Collins, Colorado, from 1919 until 1951.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Fort Collins Municipal Railway",
+                "wikipedia": "en:Fort Collins Municipal Railway",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 4432518,
+            "lat": -32.598,
+            "lon": 26.938,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/HogsbackConf18.JPG/1280px-HogsbackConf18.JPG",
+            "description": "Hogsback is a mountain retreat in the Amathole Mountains in the Eastern Cape Province, South Africa.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Hogsback, South Africa",
+                "wikipedia": "en:Hogsback, South Africa",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 135358,
+            "lat": 35.79805556,
+            "lon": -83.56388889,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Pigeon_Forge%2C_TN_2016.03.27_%2824%29.jpg/1280px-Pigeon_Forge%2C_TN_2016.03.27_%2824%29.jpg",
+            "description": "Pigeon Forge is a city in Sevier County, Tennessee, United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Pigeon Forge, Tennessee",
+                "wikipedia": "en:Pigeon Forge, Tennessee",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 71916885,
+            "lat": 38.9972,
+            "lon": -105.5478,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Colorado_in_United_States.svg/1280px-Colorado_in_United_States.svg.png",
+            "description": "This is a list of buildings that are examples of the Art Deco architectural style in the U.S. State of Colorado.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "List of Art Deco architecture in Colorado",
+                "wikipedia": "en:List of Art Deco architecture in Colorado",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 627149,
+            "lat": 13.079722,
+            "lon": 80.286944,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Fort_St._George%2C_Chennai_2.jpg/1280px-Fort_St._George%2C_Chennai_2.jpg",
+            "description": "Fort St.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Fort St. George",
+                "wikipedia": "en:Fort St. George",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 18746715,
+            "lat": 38.9972,
+            "lon": -105.5478,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/16/United_States_1861-02-28-1861-03.png",
+            "description": "This is a list of military and trading forts established in what is now the U.S. State of Colorado.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "List of forts in Colorado",
+                "wikipedia": "en:List of forts in Colorado",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 108553,
+            "lat": 40.3936,
+            "lon": -105.4947,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/West_Elkhorn_Avenue%2C_Estes_Park_%282024%29-104A4568.jpg/1280px-West_Elkhorn_Avenue%2C_Estes_Park_%282024%29-104A4568.jpg",
+            "description": "Estes Park () is a statutory town in southwestern Larimer County, Colorado, United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Estes Park, Colorado",
+                "wikipedia": "en:Estes Park, Colorado",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 108557,
+            "lat": 40.533209,
+            "lon": -104.964501,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Timnath-Downtown.JPG",
+            "description": "The Town of Timnath is a Statutory Town located in Larimer County, Colorado, United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Timnath, Colorado",
+                "wikipedia": "en:Timnath, Colorado",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 108558,
+            "lat": 40.70222222,
+            "lon": -105.00055556,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Wellington%2C_Colorado.JPG/1280px-Wellington%2C_Colorado.JPG",
+            "description": "Wellington is a statutory town in Larimer County, Colorado, United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Wellington, Colorado",
+                "wikipedia": "en:Wellington, Colorado",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 108455,
+            "lat": 39.49722222,
+            "lon": -104.76583333,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Parker%2C_Colorado.JPG/1280px-Parker%2C_Colorado.JPG",
+            "description": "Parker is a home rule municipality in Douglas County, Colorado, United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Parker, Colorado",
+                "wikipedia": "en:Parker, Colorado",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 18618416,
+            "lat": 55.01666667,
+            "lon": -2.28333333,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Hadrians_Wall_map.svg/1280px-Hadrians_Wall_map.svg.png",
+            "description": "Hadrian's Wall (Latin: Vallum Hadriani; also known as the Roman Wall, Picts' Wall, or Vallum Aelium in Latin) is a former defensive fortification of the Roman province of Britannia, begun in AD 122 in the reign of the Emperor Hadrian.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Hadrian's Wall",
+                "wikipedia": "en:Hadrian's Wall",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 603418,
+            "lat": 38.51444444,
+            "lon": -123.24361111,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Russian_chapel_at_Fort_Ross_%282016%29.jpg/1280px-Russian_chapel_at_Fort_Ross_%282016%29.jpg",
+            "description": "Fort Ross is a former Russian establishment on the west coast of North America in what is now Sonoma County, California.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Fort Ross, California",
+                "wikipedia": "en:Fort Ross, California",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 108510,
+            "lat": 40.06472222,
+            "lon": -105.91944444,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Granby%2C_CO%2C_Town_Hall_IMG_5402.JPG/1280px-Granby%2C_CO%2C_Town_Hall_IMG_5402.JPG",
+            "description": "The Town of Granby is the Statutory Town that is the most populous municipality in Grand County, Colorado, United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Granby, Colorado",
+                "wikipedia": "en:Granby, Colorado",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 53838,
+            "lat": 32.77916667,
+            "lon": -96.80888889,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/View_of_Dallas_from_Reunion_Tower_August_2015_05.jpg/1280px-View_of_Dallas_from_Reunion_Tower_August_2015_05.jpg",
+            "description": "Dallas is a city in the U.S. state of Texas.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Dallas",
+                "wikipedia": "en:Dallas",
+                "tourism": "attraction"
+            }
+        }
+    ]
+}

@@ -1,0 +1,372 @@
+{
+    "city_metadata": {
+        "city_name": "Scranton",
+        "state_code": "PA",
+        "state_full": "Pennsylvania",
+        "city_summary": "Scranton is a second A class city in and the county seat of Lackawanna County, Pennsylvania, United States. With a population of 76,328 at the 2020 census, Scranton is the sixth-most populous city in Pennsylvania and the most populous city in Northeastern Pennsylvania. It is part of the Wyoming Valley metropolitan area, which includes five cities and more than 40 boroughs forming a contiguous urban corridor with an estimated 574,000 residents.",
+        "city_image": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Scranton%2C_Pennsylvania%27s_skyline-_--Scranton%2C_Pennsylvania--_is_the_largest_city_in_the_northeastern_part_of_Pennsylvania-_2014-07-07_21-52.jpg",
+        "city_lat": 41.41055556,
+        "city_lon": -75.6675,
+        "source": "wikipedia_verified_engine"
+    },
+    "attractions": [
+        {
+            "type": "node",
+            "id": 565892273,
+            "lat": 41.4005771,
+            "lon": -75.6441116,
+            "tags": {
+                "name": "Everhart Museum",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Everhart_Museum.jpg/1280px-Everhart_Museum.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 575460944,
+            "lat": 41.4098047,
+            "lon": -75.6609068,
+            "tags": {
+                "name": "Civil War Museum",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Scranton_-_Scranton_City_Hall_%2848472742281%29.jpg/1280px-Scranton_-_Scranton_City_Hall_%2848472742281%29.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 7970681348,
+            "lat": 41.4323879,
+            "lon": -75.6632464,
+            "tags": {
+                "addr:city": "Scranton",
+                "addr:housenumber": "1344",
+                "addr:postcode": "18508",
+                "addr:state": "PA",
+                "addr:street": "North Main Avenue",
+                "museum": "person",
+                "name": "Houdini Museum",
+                "opening_hours:covid19": "closed",
+                "phone": "+1 570-383-1821",
+                "tourism": "museum",
+                "website": "https://houdini.org/"
+            }
+        },
+        {
+            "type": "way",
+            "id": 44871408,
+            "lat": 41.4058184,
+            "lon": -75.6575465,
+            "tags": {
+                "addr:city": "Scranton",
+                "addr:housenumber": "232",
+                "addr:postcode": "18510",
+                "addr:state": "PA",
+                "addr:street": "Monroe Avenue",
+                "building": "detached",
+                "description": "The Lackawanna Historical Society is headquartered at the Catlin House in Scranton’s Hill Section. The former residence of George H. Catlin, an early financier in the city, and his wife, Helen, the home is one of Scranton’s architectural treasures.",
+                "museum": "history",
+                "name": "George H. Catlin Memorial House",
+                "operator": "Lackawanna Historical Society",
+                "operator:type": "private_non_profit",
+                "tourism": "museum",
+                "website": "http://www.lackawannahistory.org/"
+            }
+        },
+        {
+            "type": "way",
+            "id": 45056127,
+            "lat": 41.400626,
+            "lon": -75.6441114,
+            "tags": {
+                "addr:city": "Scranton",
+                "addr:housenumber": "1901",
+                "addr:postcode": "18510",
+                "addr:state": "PA",
+                "addr:street": "Mulberry Street",
+                "building": "yes",
+                "name": "Everhart Museum",
+                "tourism": "museum",
+                "website": "https://everhart-museum.org/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Everhart_Museum.jpg/1280px-Everhart_Museum.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 370373456,
+            "lat": 41.4096421,
+            "lon": -75.6734309,
+            "tags": {
+                "addr:city": "Scranton",
+                "addr:housenumber": "300",
+                "addr:postcode": "18503",
+                "addr:state": "PA",
+                "addr:street": "Cliff Avenue",
+                "building": "yes",
+                "name": "Electric City Trolley Museum",
+                "source": "USGS Large Scale Imagery",
+                "tourism": "museum",
+                "website": "www.ectma.org",
+                "wikidata": "Q5357338"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Electric_City_Trolley_Museum_%28cropped%29.jpg/1280px-Electric_City_Trolley_Museum_%28cropped%29.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 399988206,
+            "lat": 41.4075744,
+            "lon": -75.6708622,
+            "tags": {
+                "building": "yes",
+                "historic": "yes",
+                "name": "1902 Roundhouse & Technology Museum",
+                "operator": "National Park Service",
+                "tourism": "museum",
+                "wikipedia": "en:Steamtown National Historic Site"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Steamtown_Roundhouse.jpg/1280px-Steamtown_Roundhouse.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 419833843,
+            "lat": 41.351958,
+            "lon": -75.6602607,
+            "tags": {
+                "area": "yes",
+                "attraction": "water_slide",
+                "name": "Tundra Tornado",
+                "operator": "Montage Mountain Waterpark",
+                "tourism": "attraction",
+                "water_slide": "funnel"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Montage_Mountain_Aerial_View.jpg/1280px-Montage_Mountain_Aerial_View.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 419834884,
+            "lat": 41.3500782,
+            "lon": -75.6611544,
+            "tags": {
+                "area": "yes",
+                "attraction": "water_slide",
+                "name": "Iceberg Alley Luge",
+                "operator": "Montage Mountain Waterpark",
+                "tourism": "attraction",
+                "water_slide": "racer_slide"
+            }
+        },
+        {
+            "type": "way",
+            "id": 445922020,
+            "lat": 41.4069502,
+            "lon": -75.6716577,
+            "tags": {
+                "building": "yes",
+                "historic": "yes",
+                "name": "History Museum",
+                "tourism": "museum",
+                "wikipedia": "en:Steamtown National Historic Site"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Steamtown_Roundhouse.jpg/1280px-Steamtown_Roundhouse.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 1191732380,
+            "lat": 41.3903687,
+            "lon": -75.6512426,
+            "tags": {
+                "building": "yes",
+                "name": "MARINE CORPS LEAGUE",
+                "tourism": "museum"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 132862,
+            "lat": 41.41055556,
+            "lon": -75.6675,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Scranton%2C_Pennsylvania%27s_skyline-_--Scranton%2C_Pennsylvania--_is_the_largest_city_in_the_northeastern_part_of_Pennsylvania-_2014-07-07_21-52.jpg",
+            "description": "Scranton is a second A class city in and the county seat of Lackawanna County, Pennsylvania, United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Scranton, Pennsylvania",
+                "wikipedia": "en:Scranton, Pennsylvania",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 9105888,
+            "lat": 41.3533,
+            "lon": -75.6592,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Montage_Mountain_Aerial_View.jpg/1280px-Montage_Mountain_Aerial_View.jpg",
+            "description": "Montage Mountain is a ski area in Pennsylvania that is located 8 miles (13 km) from downtown Scranton, Pennsylvania.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Montage Mountain Ski Resort",
+                "wikipedia": "en:Montage Mountain Ski Resort",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 132982,
+            "lat": 40.60166667,
+            "lon": -75.47722222,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/2018_-_Center_Square_-_Looking_Northeast_-_12_Oct_-_Allentown_PA.jpg/1280px-2018_-_Center_Square_-_Looking_Northeast_-_12_Oct_-_Allentown_PA.jpg",
+            "description": "Allentown is a city in eastern Pennsylvania, United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Allentown, Pennsylvania",
+                "wikipedia": "en:Allentown, Pennsylvania",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 4461191,
+            "lat": 41.4083,
+            "lon": -75.6608,
+            "image_url": "https://upload.wikimedia.org/wikipedia/en/2/20/Farley%27s_Eatery_and_Pub.png",
+            "description": "Farley's Eatery & Pub was a restaurant in downtown Scranton, Pennsylvania, United States, and was considered a staple of Scrantonian culinary culture.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Farley's Eatery and Pub",
+                "wikipedia": "en:Farley's Eatery and Pub",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 1767076,
+            "lat": 41.36040556,
+            "lon": -75.68396667,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/PNC_Field_right_field.jpg/1280px-PNC_Field_right_field.jpg",
+            "description": "PNC Field is a 10,000-seat minor league baseball stadium that is located in Moosic, Pennsylvania, in the Scranton/Wilkes-Barre metropolitan area that was built in 1989 and rebuilt in 2013.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "PNC Field",
+                "wikipedia": "en:PNC Field",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 23332,
+            "lat": 41,
+            "lon": -78,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Flag_of_Pennsylvania.svg/1280px-Flag_of_Pennsylvania.svg.png",
+            "description": "Pennsylvania, officially the Commonwealth of Pennsylvania, is a U.S. state located in the Mid-Atlantic, Northeastern, Appalachian, and Great Lakes regions of the United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Pennsylvania",
+                "wikipedia": "en:Pennsylvania",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 1886908,
+            "lat": 41.240471,
+            "lon": -75.848504,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Mohegan_Sun_Arena_at_Casey_Plaza_2_2012-05-05.JPG/1280px-Mohegan_Sun_Arena_at_Casey_Plaza_2_2012-05-05.JPG",
+            "description": "Mohegan Arena at Casey Plaza (originally Northeastern Pennsylvania Civic Arena and Convention Center, formerly First Union Arena, Wachovia Arena and Mohegan Sun Arena at Casey Plaza) is an 8,050-seat multi-purpose arena located in Wilkes-Barre Township, Pennsylvania just northeast of Wilkes-Barre.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Mohegan Arena at Casey Plaza",
+                "wikipedia": "en:Mohegan Arena at Casey Plaza",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 131731,
+            "lat": 40.87305556,
+            "lon": -75.73638889,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Jim_Thorpe_Skyline.jpg/1280px-Jim_Thorpe_Skyline.jpg",
+            "description": "Jim Thorpe, known as Mauch Chunk and East Mauch Chunk until 1954, is a borough in and the county seat of Carbon County, Pennsylvania, United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Jim Thorpe, Pennsylvania",
+                "wikipedia": "en:Jim Thorpe, Pennsylvania",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 5817277,
+            "lat": 40.90741667,
+            "lon": -74.73077778,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Mount_Olive_station.jpg/1280px-Mount_Olive_station.jpg",
+            "description": "Mount Olive is an NJ Transit station in Mount Olive, New Jersey, located in the International Trade Center.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Mount Olive station",
+                "wikipedia": "en:Mount Olive station",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 133073,
+            "lat": 41.19944444,
+            "lon": -75.99916667,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Nanticoke_City.jpg/1280px-Nanticoke_City.jpg",
+            "description": "Nanticoke is a city in Luzerne County, Pennsylvania, United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Nanticoke, Pennsylvania",
+                "wikipedia": "en:Nanticoke, Pennsylvania",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 17033536,
+            "lat": 32.07571,
+            "lon": -81.10126,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/GA_Savannah_Central_of_GA_RR_msm01.jpg/1280px-GA_Savannah_Central_of_GA_RR_msm01.jpg",
+            "description": "The Georgia State Railroad Museum (formerly the Roundhouse Railroad Museum) is a museum in Savannah, Georgia located at a historic Central of Georgia Railway site.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Georgia State Railroad Museum",
+                "wikipedia": "en:Georgia State Railroad Museum",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 299935,
+            "lat": 40.96769444,
+            "lon": -75.11988889,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Delaware_Water_Gap.jpg/1280px-Delaware_Water_Gap.jpg",
+            "description": "The Delaware Water Gap is a water gap on the border of the U.S. states of New Jersey and Pennsylvania where the Delaware River cuts through a large ridge of the Appalachian Mountains.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Delaware Water Gap",
+                "wikipedia": "en:Delaware Water Gap",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 678335,
+            "lat": 40.1186,
+            "lon": -74.953,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Parx_Casino_main_entrance.jpeg/1280px-Parx_Casino_main_entrance.jpeg",
+            "description": "Parx Casino and Racing (formerly Philadelphia Park Racetrack and Casino) is a Thoroughbred horse racing venue and the largest casino gaming complex in Pennsylvania.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Parx Casino and Racing",
+                "wikipedia": "en:Parx Casino and Racing",
+                "tourism": "attraction"
+            }
+        }
+    ]
+}

@@ -1,0 +1,426 @@
+{
+    "city_metadata": {
+        "city_name": "Chapel Hill",
+        "state_code": "NC",
+        "state_full": "North Carolina",
+        "city_summary": "Chapel Hill is a town in the counties of Orange and Durham, North Carolina, United States. Its population was 61,960 in the 2020 United States census, making Chapel Hill the 17th-most populous municipality in the state. Chapel Hill and Durham make up the Durham–Chapel Hill, NC Metropolitan Statistical Area, which had an estimated population of 608,879 in 2023.",
+        "city_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Franklin_Street_Chapel_Hill_NC.jpg/1280px-Franklin_Street_Chapel_Hill_NC.jpg",
+        "city_lat": 35.92722222,
+        "city_lon": -79.03916667,
+        "source": "wikipedia_verified_engine"
+    },
+    "attractions": [
+        {
+            "type": "node",
+            "id": 670328037,
+            "lat": -35.0830858,
+            "lon": 138.7643839,
+            "tags": {
+                "historic": "ruins",
+                "name": "Chapel Hill Gold Diggings",
+                "tourism": "attraction",
+                "wikidata": "Q21959070"
+            }
+        },
+        {
+            "type": "way",
+            "id": 44341651,
+            "lat": 35.9139161,
+            "lon": -79.0505146,
+            "tags": {
+                "addr:city": "Chapel Hill",
+                "addr:housenumber": "250",
+                "addr:postcode": "27514",
+                "addr:state": "NC",
+                "addr:street": "East Franklin Street",
+                "attribution": "City of Chapel Hill (http://gis.townofchapelhill.org/disclaimer.asp?/download_data/)",
+                "building": "yes",
+                "check_date:opening_hours": "2023-03-16",
+                "fee": "yes",
+                "fee:conditional": "no @ (age < 3); no @ UNC students; no @ members",
+                "name": "Morehead Planetarium",
+                "opening_hours": "Fr 14:30-18:00; Sa,Su 13:00-18:00",
+                "place_number": "152",
+                "source": "CCH;Chapel Hill Open Data",
+                "tourism": "museum",
+                "website": "https://moreheadplanetarium.org/",
+                "wheelchair": "yes",
+                "wikidata": "Q6911256",
+                "wikipedia": "en:Morehead Planetarium and Science Center"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Unsung_Founders_UNC_flowers_1.jpg/1280px-Unsung_Founders_UNC_flowers_1.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 44341889,
+            "lat": 35.908607,
+            "lon": -79.0492161,
+            "tags": {
+                "addr:city": "Chapel Hill",
+                "addr:housenumber": "200",
+                "addr:postcode": "27514",
+                "addr:state": "NC",
+                "addr:street": "South Road",
+                "amenity": "clock",
+                "attribution": "City of Chapel Hill (http://gis.townofchapelhill.org/disclaimer.asp?/download_data/)",
+                "building": "yes",
+                "height": "52.4",
+                "man_made": "tower",
+                "name": "Morehead-Patterson Bell Tower",
+                "source": "CCH;Wikipedia",
+                "source:addr": "Chapel Hill Open Data",
+                "tourism": "attraction",
+                "tower:construction": "brick",
+                "tower:type": "bell_tower",
+                "website": "https://www.unc.edu/interactive-tour/landmarks/morehead-patterson-bell-tower/",
+                "wheelchair": "no",
+                "wikidata": "Q23035410",
+                "wikipedia": "en:Morehead-Patterson Bell Tower"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Bell_tower_in_Chapel_Hill_%28cropped%29.jpg/1280px-Bell_tower_in_Chapel_Hill_%28cropped%29.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 44342484,
+            "lat": 35.9125591,
+            "lon": -79.054852,
+            "tags": {
+                "addr:city": "Chapel Hill",
+                "addr:housenumber": "101",
+                "addr:postcode": "27514",
+                "addr:state": "NC",
+                "addr:street": "South Columbia Street",
+                "attribution": "City of Chapel Hill (http://gis.townofchapelhill.org/disclaimer.asp?/download_data/)",
+                "building": "yes",
+                "fee": "no",
+                "name": "Ackland Art Museum",
+                "opening_hours": "We-Sa 10:00-17:00; Su 13:00-17:00; Jul 4 off; Dec 24 off; Dec 25 off; Jan 1 off; Nov Th[4] off",
+                "operator": "University of North Carolina",
+                "operator:wikidata": "Q192334",
+                "phone": "+1-919-966-5736",
+                "place_number": "003",
+                "source": "CCH",
+                "tourism": "museum",
+                "website": "https://ackland.org/",
+                "wheelchair": "yes",
+                "wikidata": "Q4674272",
+                "wikipedia": "en:Ackland Art Museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Halloween_on_franklin.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 44342795,
+            "lat": 35.9120628,
+            "lon": -79.0512346,
+            "tags": {
+                "access": "yes",
+                "addr:city": "Chapel Hill",
+                "addr:housenumber": "201",
+                "addr:postcode": "27514",
+                "addr:state": "NC",
+                "addr:street": "East Cameron Avenue",
+                "amenity": "shelter",
+                "attribution": "City of Chapel Hill (http://gis.townofchapelhill.org/disclaimer.asp?/download_data/)",
+                "building": "roof",
+                "historic": "yes",
+                "name": "Old Well",
+                "roof:shape": "dome",
+                "source": "CCH",
+                "source:addr": "Chapel Hill Open Data",
+                "tourism": "attraction",
+                "wikidata": "Q7085397",
+                "wikipedia": "en:Old Well"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/MJK49493_Old_Well_%28Chapel_Hill%2C_North_Carolina%29.jpg/1280px-MJK49493_Old_Well_%28Chapel_Hill%2C_North_Carolina%29.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 106487050,
+            "lat": 35.8998923,
+            "lon": -79.0421485,
+            "tags": {
+                "addr:city": "Chapel Hill",
+                "addr:housenumber": "450",
+                "addr:postcode": "27514",
+                "addr:state": "NC",
+                "addr:street": "Skipper Bowles Drive",
+                "building": "yes",
+                "name": "Carolina Basketball Museum",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/DeanDome_behind.jpg/1280px-DeanDome_behind.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 23956501,
+            "lat": 34,
+            "lon": -83,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Raleigh_Skyline.jpg/1280px-Raleigh_Skyline.jpg",
+            "description": "The Piedmont Atlantic megaregion, or Southeast Megalopolis, is a neologism created by the Regional Plan Association for an area of the Southeastern United States that contains parts of the states of Alabama, Georgia, Tennessee, South Carolina, and North Carolina.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Piedmont Atlantic megaregion",
+                "wikipedia": "en:Piedmont Atlantic megaregion",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 10194431,
+            "lat": 35.91611111,
+            "lon": -79.04416667,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/2008-07-11_Chapel_of_the_Cross.jpg/1280px-2008-07-11_Chapel_of_the_Cross.jpg",
+            "description": "Chapel of the Cross is a parish of the Episcopal Church of the United States in Chapel Hill in the Diocese of North Carolina.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Chapel of the Cross (Chapel Hill, North Carolina)",
+                "wikipedia": "en:Chapel of the Cross (Chapel Hill, North Carolina)",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 30865160,
+            "lat": 35.23,
+            "lon": -80.84,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Uptown_Charlotte_2018_taking_by_DJI_Phantom_4_pro.jpg/1280px-Uptown_Charlotte_2018_taking_by_DJI_Phantom_4_pro.jpg",
+            "description": "The Charlotte metropolitan area (also referred to informally as Metrolina and to a lesser extent as Greater Charlotte) is a metropolitan area of the U.S. states of North and South Carolina, containing the city of Charlotte, North Carolina.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Charlotte metropolitan area",
+                "wikipedia": "en:Charlotte metropolitan area",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 835226,
+            "lat": 34.86371278,
+            "lon": -85.3924527,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/LookoutMountain_2020.jpg/1280px-LookoutMountain_2020.jpg",
+            "description": "Lookout Mountain is a mountain ridge at the northwest corner of the U.S. state of Georgia, the northeast corner of Alabama, and along the southeastern Tennessee state line in Chattanooga.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Lookout Mountain",
+                "wikipedia": "en:Lookout Mountain",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 50265485,
+            "lat": 35.90963611,
+            "lon": -79.04982778,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Mary-Lindsay-Thornton.png",
+            "description": "The North Carolina Collection is the largest collection of traditional library materials documenting a single state.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "North Carolina Collection",
+                "wikipedia": "en:North Carolina Collection",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 128089,
+            "lat": 34.21,
+            "lon": -77.88666667,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Wilmington%2C_North_Carolina_along_the_Cape_Fear_River_-_panoramio.jpg/1280px-Wilmington%2C_North_Carolina_along_the_Cape_Fear_River_-_panoramio.jpg",
+            "description": "Wilmington is a port city in New Hanover County, North Carolina, United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Wilmington, North Carolina",
+                "wikipedia": "en:Wilmington, North Carolina",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 21650,
+            "lat": 36,
+            "lon": -80,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Flag_of_North_Carolina.svg/1280px-Flag_of_North_Carolina.svg.png",
+            "description": "North Carolina (  KAYR-ə-LIE-nə) is a state in the Southeastern and South Atlantic regions of the United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "North Carolina",
+                "wikipedia": "en:North Carolina",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 1196267,
+            "lat": 36.11111111,
+            "lon": -81.81138889,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Grandfather_Mountain-27527-1.jpg/1280px-Grandfather_Mountain-27527-1.jpg",
+            "description": "Grandfather Mountain is a mountain, a non-profit attraction, and a North Carolina state park\nnear Linville, North Carolina.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Grandfather Mountain",
+                "wikipedia": "en:Grandfather Mountain",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 150834,
+            "lat": 35.97861111,
+            "lon": -78.9,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Carolina_Theatre_%28Durham_Auditorium_1924%29.jpg/1280px-Carolina_Theatre_%28Durham_Auditorium_1924%29.jpg",
+            "description": "Durham ( DURR-əm) is a city in the U.S. state of North Carolina.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Durham, North Carolina",
+                "wikipedia": "en:Durham, North Carolina",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 128268,
+            "lat": 36.50833333,
+            "lon": -80.61527778,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Mount_Airy_Historic_District.jpg/1280px-Mount_Airy_Historic_District.jpg",
+            "description": "Mount Airy () is a city in Surry County, North Carolina, United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Mount Airy, North Carolina",
+                "wikipedia": "en:Mount Airy, North Carolina",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 1331788,
+            "lat": 35.10277778,
+            "lon": -80.94166667,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Carowinds_In_The_Evening_%2887182131%29.jpeg/1280px-Carowinds_In_The_Evening_%2887182131%29.jpeg",
+            "description": "Carowinds is a 407-acre (165 ha) amusement park primarily located in Charlotte, North Carolina.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Carowinds",
+                "wikipedia": "en:Carowinds",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 128298,
+            "lat": 35.59194444,
+            "lon": -78.78861111,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Fuquay-Varina_town_hall.jpg",
+            "description": "Fuquay-Varina ( FYOO-kway vuh-REE-nuh) is a town in southern Wake County, North Carolina, United States, lying south of Holly Springs and southwest of Garner.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Fuquay-Varina, North Carolina",
+                "wikipedia": "en:Fuquay-Varina, North Carolina",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 57447,
+            "lat": 35.22722222,
+            "lon": -80.84305556,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Uptown_Charlotte_2018_taking_by_DJI_Phantom_4_pro.jpg/1280px-Uptown_Charlotte_2018_taking_by_DJI_Phantom_4_pro.jpg",
+            "description": "Charlotte is the most populous city in the U.S. state of North Carolina.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Charlotte, North Carolina",
+                "wikipedia": "en:Charlotte, North Carolina",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 22910587,
+            "lat": 38.01,
+            "lon": -80.97055556,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/90/Clifftopstage.jpg",
+            "description": "The Appalachian String Band Music Festival (often referred to simply as \"Clifftop\") is a weeklong gathering of thousands of string band musicians and their friends from across the country and around the world, who each year since 1990 have assembled near the New River Gorge in West Virginia in late July/early August to celebrate the evolving tradition of old-time music and the community of people who keep it thriving by preserving and contributing to that tradition.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Appalachian String Band Music Festival",
+                "wikipedia": "en:Appalachian String Band Music Festival",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 127741,
+            "lat": 35.41027778,
+            "lon": -80.58527778,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Downtown_Concord_NC_5.jpg/1280px-Downtown_Concord_NC_5.jpg",
+            "description": "Concord ( kon-KORD) is the most populous city in Cabarrus County, North Carolina, United States, and its county seat.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Concord, North Carolina",
+                "wikipedia": "en:Concord, North Carolina",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 4915215,
+            "lat": 35.906238,
+            "lon": -81.914277,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Linville_Gorge-27527-3.jpg/1280px-Linville_Gorge-27527-3.jpg",
+            "description": "The Linville Gorge Wilderness (\"The Grand Canyon of North Carolina\") is the third largest wilderness area in North Carolina (after Shining Rock Wilderness and Joyce Kilmer-Slickrock Wilderness) and one of only two wilderness gorges in the Southern United States (along with Bald River Gorge Wilderness in Tennessee).",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Linville Gorge Wilderness",
+                "wikipedia": "en:Linville Gorge Wilderness",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 1394347,
+            "lat": 35.48333333,
+            "lon": -80.93333333,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/LakeNorman.jpg/1280px-LakeNorman.jpg",
+            "description": "Lake Norman is an artificial fresh water lake in southwest North Carolina.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Lake Norman",
+                "wikipedia": "en:Lake Norman",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 17308262,
+            "lat": 34.06055556,
+            "lon": -77.94638889,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Orton_House_at_Orton_Plantation%2C_Brunswick_County%2C_North_Carolina.jpg",
+            "description": "The Orton Plantation is a historic plantation house in Smithville Township in Brunswick County, North Carolina, United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Orton Plantation",
+                "wikipedia": "en:Orton Plantation",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 93327,
+            "lat": 35.14,
+            "lon": -84.06,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Cherokee_County_Courthouse_%28Cherokee_County%2C_North_Carolina%29.jpg/1280px-Cherokee_County_Courthouse_%28Cherokee_County%2C_North_Carolina%29.jpg",
+            "description": "Cherokee County is the westernmost county in the U.S. state of North Carolina.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Cherokee County, North Carolina",
+                "wikipedia": "en:Cherokee County, North Carolina",
+                "tourism": "attraction"
+            }
+        }
+    ]
+}

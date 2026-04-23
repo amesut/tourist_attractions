@@ -1,0 +1,986 @@
+{
+    "city_metadata": {
+        "city_name": "Lancaster",
+        "state_code": "PA",
+        "state_full": "Pennsylvania",
+        "city_summary": "Lancaster is a city in Lancaster County, Pennsylvania, United States, and its county seat. With a population of 58,039 at the 2020 census, it is the eighth-most populous city in the state. It is a core city within South Central Pennsylvania, with 552,984 residents in the Lancaster metropolitan area.",
+        "city_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Lancaster_Pennsylvania_downtown.jpg/1280px-Lancaster_Pennsylvania_downtown.jpg",
+        "city_lat": 40.03972222,
+        "city_lon": -76.30444444,
+        "source": "wikipedia_verified_engine"
+    },
+    "attractions": [
+        {
+            "type": "node",
+            "id": 366495288,
+            "lat": 44.4516172,
+            "lon": -71.5708166,
+            "tags": {
+                "addr:state": "NH",
+                "ele": "615",
+                "gnis:feature_id": "1917615",
+                "import_uuid": "gnis.57871b70-0100-4405-bb30-88b2e001a944",
+                "name": "John Wingate Weeks Historic Museum",
+                "source": "USGS Geonames",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/4f/WeeksStatePark_TowerView1.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 367811167,
+            "lat": 42.8478833,
+            "lon": -90.7089242,
+            "tags": {
+                "addr:state": "WI",
+                "ele": "331",
+                "gnis:feature_id": "1840485",
+                "name": "Grant County History Museum",
+                "old_name": "Cunningham Museum",
+                "source": "USGS Geonames",
+                "tourism": "museum",
+                "website": "https://grantcountyhistory.org/visit/cunningham-museum/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Grant_County%2C_Wisconsin_Courthouse.jpg/1280px-Grant_County%2C_Wisconsin_Courthouse.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 1532968132,
+            "lat": 40.0472437,
+            "lon": -76.3197288,
+            "tags": {
+                "name": "Phillips Museum of Art",
+                "tourism": "museum",
+                "website": "https://www.fandm.edu/phillips-museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/FnM_Library_Lancaster.jpg/1280px-FnM_Library_Lancaster.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 6820159648,
+            "lat": 54.0489898,
+            "lon": -2.8017465,
+            "tags": {
+                "addr:city": "Lancaster",
+                "addr:housename": "Lancaster Museum",
+                "addr:postcode": "LA1 1HT",
+                "addr:street": "Market Square",
+                "alt_website": "https://www.lancaster.gov.uk/sites/museums/kings-own-royal-regiment-museum",
+                "fee": "no",
+                "level": "1",
+                "name": "King's Own Regiment Museum",
+                "opening_hours": "Mo-Tu,Fr-Su 10:30-16:00; We-Th off",
+                "operator": "Lancaster City Council",
+                "operator:type": "public",
+                "tourism": "museum",
+                "website": "http://www.kingsownmuseum.com/",
+                "wikidata": "Q113369748"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Lancaster_City_Museum_1_2025-06-16.jpg/1280px-Lancaster_City_Museum_1_2025-06-16.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 8150181646,
+            "lat": 37.7694797,
+            "lon": -76.4647086,
+            "tags": {
+                "addr:city": "Lancaster",
+                "addr:housenumber": "8346",
+                "addr:postcode": "22503",
+                "addr:state": "VA",
+                "addr:street": "Mary Ball Road",
+                "museum": "history",
+                "name": "Mary Ball Washington Museum & Library",
+                "tourism": "museum",
+                "website": "https://lancastervahistory.org/",
+                "wikidata": "Q6779000"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/CentralLancasterVA.jpg/1280px-CentralLancasterVA.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 8342310917,
+            "lat": 40.0381093,
+            "lon": -76.3029117,
+            "tags": {
+                "addr:city": "Lancaster",
+                "addr:housenumber": "120",
+                "addr:postcode": "17602",
+                "addr:state": "PA",
+                "addr:street": "East King Street",
+                "check_date": "2025-07-07",
+                "description": "Suggested donation $10/person",
+                "fee": "donation",
+                "museum": "art",
+                "name": "Demuth Museum",
+                "opening_hours": "Mo,We,PH off; Tu,Th-Sa 10:00-16:00; Su 12:00-16:00; Fr[1] 10:00-20:00",
+                "phone": "+1 717-299-9940",
+                "tourism": "museum",
+                "website": "https://www.demuth.org/",
+                "wikidata": "Q5256433",
+                "wikipedia": "en:Demuth Museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Demuth_Lancaster_PHMC.JPG/1280px-Demuth_Lancaster_PHMC.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 9290868937,
+            "lat": 54.1297993,
+            "lon": -2.7709833,
+            "tags": {
+                "addr:city": "Carnforth",
+                "addr:housename": "Carnforth Railway Station",
+                "addr:postcode": "LA5 9TR",
+                "addr:street": "Warton Road",
+                "fee": "no",
+                "name": "Carnforth Station Heritage Centre",
+                "opening_hours": "Mo-Sa 11:00-15:00; Su off",
+                "tourism": "museum",
+                "website": "https://carnforthstation.co.uk/",
+                "wikidata": "Q113454704"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Carnforth_railway_station.JPG/1280px-Carnforth_railway_station.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 9644370097,
+            "lat": 54.0462509,
+            "lon": -2.900518,
+            "tags": {
+                "fee": "no",
+                "name": "Heysham Heritage Centre",
+                "tourism": "museum",
+                "website": "https://heyshamheritage.org.uk/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/St._Peter%27s_Church%2C_Heysham.JPG/1280px-St._Peter%27s_Church%2C_Heysham.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 9785617591,
+            "lat": 54.0502506,
+            "lon": -2.8054194,
+            "tags": {
+                "addr:city": "Lancaster",
+                "addr:housename": "Lancaster Castle",
+                "addr:postcode": "LA1 1YJ",
+                "addr:street": "Castle Park",
+                "dog": "no",
+                "fee": "no",
+                "museum": "police",
+                "name": "Lancashire Police Museum",
+                "opening_hours": "Th-Sa 10:30-12:30,13:30-16:00",
+                "operator": "Lancashire Constabulary",
+                "operator:type": "government",
+                "tourism": "museum",
+                "website": "https://www.lancashirepolicemuseum.co.uk/",
+                "wheelchair": "no"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Lancaster_Castle_-_2023-03-25.jpg/1280px-Lancaster_Castle_-_2023-03-25.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 10881113869,
+            "lat": 32.6052137,
+            "lon": -96.8164243,
+            "tags": {
+                "addr:city": "Lancaster",
+                "addr:housenumber": "1455",
+                "addr:postcode": "75134",
+                "addr:state": "TX",
+                "addr:street": "Marsalis Road",
+                "description": "enterainment",
+                "name": "Snake Encounters",
+                "opening_hours": "Mo-Su 08:00-20:00",
+                "operator": "Daryl W Sprout",
+                "payment:cash": "yes",
+                "phone": "+1214-912-7730",
+                "tourism": "attraction",
+                "website": "https://snakeencounters.com"
+            }
+        },
+        {
+            "type": "node",
+            "id": 13293389540,
+            "lat": 40.0461706,
+            "lon": -76.2966112,
+            "tags": {
+                "addr:city": "Lancaster",
+                "addr:housenumber": "454",
+                "addr:postcode": "17602",
+                "addr:state": "PA",
+                "addr:street": "New Holland Avenue",
+                "charge": "13 USD",
+                "check_date": "2025-11-09",
+                "fee": "yes",
+                "museum": "children",
+                "name": "The Lancaster Science Factory",
+                "opening_hours": "Mo off; Tu-Sa 10:00-17:00; Su 12:00-17:00",
+                "phone": "+1 717-509-6363",
+                "tourism": "museum",
+                "website": "https://lancastersciencefactory.org/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Miller_Tobacco_Lancaster_PA.jpg/1280px-Miller_Tobacco_Lancaster_PA.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 33405985,
+            "lat": 40.0435569,
+            "lon": -76.3201481,
+            "tags": {
+                "addr:city": "Lancaster",
+                "addr:housenumber": "400",
+                "addr:postcode": "17603",
+                "addr:state": "PA",
+                "addr:street": "College Avenue",
+                "building": "yes",
+                "charge": "13 USD",
+                "check_date": "2026-01-05",
+                "fee": "yes",
+                "name": "North Museum of Nature and Science",
+                "opening_hours": "Mo-Tu off; We-Th 10:00-15:00; Fr-Su 10:00-17:00",
+                "phone": "+1 717-358-3941",
+                "tourism": "museum",
+                "website": "https://northmuseum.org"
+            }
+        },
+        {
+            "type": "way",
+            "id": 34615276,
+            "lat": 40.0369443,
+            "lon": -76.304941,
+            "tags": {
+                "building": "yes",
+                "name": "Lancaster Convention Center",
+                "tourism": "attraction",
+                "wikidata": "Q6483155",
+                "wikipedia": "en:Lancaster County Convention Center"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/William_Montgomery_House%2C_Lancaster%2C_Pennsylvania.jpg/1280px-William_Montgomery_House%2C_Lancaster%2C_Pennsylvania.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 48815019,
+            "lat": 54.0499181,
+            "lon": -2.805383,
+            "tags": {
+                "HE_ref": "1194905",
+                "addr:city": "Lancaster",
+                "addr:housename": "Lancaster Castle",
+                "addr:postcode": "LA1 1YJ",
+                "addr:street": "Castle Parade",
+                "castle_type": "defensive",
+                "email": "info@lancastercastle.com",
+                "heritage": "2",
+                "heritage:operator": "Historic England",
+                "historic": "castle",
+                "historic:amenity": "prison",
+                "listed_status": "Grade I",
+                "name": "Lancaster Castle",
+                "name:eo": "Kastelo Lancaster",
+                "name:fr": "Château de Lancaster",
+                "name:ga": "Caisleán Lancaster",
+                "name:zh": "蘭卡斯特城堡",
+                "note": "prison closed 2012",
+                "phone": "+44 1524 64998",
+                "tourism": "attraction",
+                "website": "https://lancastercastle.com/",
+                "wheelchair": "limited",
+                "wikidata": "Q2969640",
+                "wikipedia": "en:Lancaster Castle"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Lancaster_Castle_-_2023-03-25.jpg/1280px-Lancaster_Castle_-_2023-03-25.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 48815025,
+            "lat": 54.0489464,
+            "lon": -2.8017937,
+            "tags": {
+                "HE_ref": "1194971",
+                "addr:city": "Lancaster",
+                "addr:postcode": "LA1 1HT",
+                "addr:street": "Market Square",
+                "building": "public",
+                "building:levels": "2",
+                "building:levels:underground": "1",
+                "check_date:opening_hours": "2025-05-02",
+                "fee": "no",
+                "heritage": "2",
+                "heritage:operator": "Historic England",
+                "listed_status": "Grade II*",
+                "name": "Lancaster City Museum",
+                "opening_hours": "Mo-Tu,Fr-Su 10:30-16:00; We-Th off",
+                "operator": "Lancaster City Council",
+                "operator:type": "public",
+                "roof:levels": "0",
+                "roof:shape": "gabled",
+                "tourism": "museum",
+                "website": "https://www.lancaster.gov.uk/sites/museums/city",
+                "wikidata": "Q6483133",
+                "wikipedia": "en:Lancaster City Museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Lancaster_City_Museum_1_2025-06-16.jpg/1280px-Lancaster_City_Museum_1_2025-06-16.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 82154003,
+            "lat": 40.0642309,
+            "lon": -76.3364012,
+            "tags": {
+                "name": "Long's Park petting farm",
+                "tourism": "zoo",
+                "zoo": "petting_zoo"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Park_City_Center_south_entrance.jpg/1280px-Park_City_Center_south_entrance.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 100696493,
+            "lat": 54.0099852,
+            "lon": -2.7879626,
+            "tags": {
+                "addr:city": "Lancaster",
+                "addr:housename": "Ruskin Library",
+                "addr:postcode": "LA1 4YW",
+                "amenity": "library",
+                "building": "university",
+                "check_date:opening_hours": "2024-10-19",
+                "name": "Ruskin Library",
+                "opening_hours:signed": "no",
+                "ref:GB:uprn": "10009273289",
+                "tourism": "museum",
+                "wikidata": "Q7380959"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Charles_Carter_Building.jpg/1280px-Charles_Carter_Building.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 116030198,
+            "lat": 34.7142271,
+            "lon": -80.7673137,
+            "tags": {
+                "addr:city": "Lancaster",
+                "addr:housenumber": "512",
+                "addr:state": "SC",
+                "addr:street": "South Main Street",
+                "building": "yes",
+                "name": "Lancaster & Chester Railway Depot",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Lancaster_County_Oil.jpg/1280px-Lancaster_County_Oil.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 135838890,
+            "lat": 44.4973363,
+            "lon": -71.5772973,
+            "tags": {
+                "building": "yes",
+                "museum": "history",
+                "name": "Lancaster Historical Society",
+                "source": "Bing",
+                "tourism": "museum"
+            }
+        },
+        {
+            "type": "way",
+            "id": 158264239,
+            "lat": 54.0453967,
+            "lon": -2.7811462,
+            "tags": {
+                "HE_ref": "1195061",
+                "building": "conservatory",
+                "building:use": "butterfly_house",
+                "listed_status": "Grade II",
+                "name": "Butterfly House",
+                "tourism": "attraction",
+                "website": "https://www.lancaster.gov.uk/sites/williamson-park/butterfly-house"
+            }
+        },
+        {
+            "type": "way",
+            "id": 162252542,
+            "lat": 40.0410759,
+            "lon": -76.3014163,
+            "tags": {
+                "addr:city": "Lancaster",
+                "addr:housenumber": "135",
+                "addr:postcode": "17602",
+                "addr:street": "North Lime Street",
+                "building": "yes",
+                "check_date": "2025-02-06",
+                "contact:facebook": "https://www.facebook.com/www.demuth.org/",
+                "email": "info@Lmapa.org",
+                "fee": "donation",
+                "name": "Lancaster Museum of Art",
+                "opening_hours": "Mo,We,PH off; Tu,Th-Sa 10:00-16:00; Su 12:00-16:00; Fr[1] 10:00-20:00",
+                "phone": "+1 717-394-3497",
+                "tourism": "museum",
+                "website": "https://www.demuth.org/",
+                "wikidata": "Q20747319"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Bowman_Lancaster_PA.jpg/1280px-Bowman_Lancaster_PA.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 190628213,
+            "lat": 40.0407873,
+            "lon": -76.3087271,
+            "tags": {
+                "addr:housename": "Transcending Flesh",
+                "addr:housenumber": "118",
+                "addr:postcode": "17603",
+                "addr:street": "West Chestnut St",
+                "name": "Trancending Flesh",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "way",
+            "id": 196509450,
+            "lat": 34.6981831,
+            "lon": -118.141845,
+            "tags": {
+                "addr:city": "Lancaster",
+                "addr:housenumber": "665",
+                "addr:postcode": "93534",
+                "addr:street": "West Lancaster Boulevard",
+                "building": "yes",
+                "building:use": "auditorium",
+                "ele": "727.9",
+                "height": "12.6",
+                "lacounty:ain": "3134009031",
+                "lacounty:bld_id": "201424357510000",
+                "name": "Museum of Art and History",
+                "opening_hours": "Tu-We 11:00-18:00; Th 11:00-20:00; Fr-Su 11:00-18:00",
+                "operator": "City of Lancaster",
+                "phone": "+1 661 723-6250",
+                "start_date": "1952",
+                "tourism": "museum",
+                "website": "https://www.lancastermoah.org/",
+                "wikidata": "Q18325656"
+            }
+        },
+        {
+            "type": "way",
+            "id": 248610770,
+            "lat": 53.9767192,
+            "lon": -2.8749211,
+            "tags": {
+                "HE_ref": "1018919",
+                "area": "yes",
+                "heritage": "2",
+                "heritage:operator": "Historic England",
+                "historic": "heritage",
+                "name": "Cockersand Abbey",
+                "note": "Cockersand Premonstratensian Abbey is a Schdeduled Monument",
+                "ruins": "yes",
+                "start_date": "c13",
+                "tourism": "attraction",
+                "website": "https://historicengland.org.uk/listing/the-list/list-entry/1018919",
+                "wikidata": "Q12055201",
+                "wikipedia": "en:Cockersand Abbey"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/71/Cockersand_Abbey_1.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 335172264,
+            "lat": 40.0204716,
+            "lon": -76.2885895,
+            "tags": {
+                "area": "yes",
+                "fee": "no",
+                "historic": "yes",
+                "name": "Historic Rock Ford Plantation",
+                "operator": "Rockford Foundation",
+                "tourism": "museum",
+                "wikidata": "Q7354426",
+                "wikipedia": "en:Historic Rock Ford"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Rock_Ford_Plantation_Lancaster_Front_1456px.jpg/1280px-Rock_Ford_Plantation_Lancaster_Front_1456px.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 387154361,
+            "lat": 54.0501234,
+            "lon": -2.803866,
+            "tags": {
+                "addr:city": "Lancaster",
+                "addr:housename": "Judges' Lodgings Museum",
+                "addr:postcode": "LA1 1YS",
+                "addr:street": "Castle Hill",
+                "building": "house",
+                "building:levels": "3",
+                "building:levels:underground": "1",
+                "name": "Judges' Lodgings Museum",
+                "roof:levels": "0",
+                "roof:shape": "gabled",
+                "tourism": "museum",
+                "wikidata": "Q15229816",
+                "wikipedia": "en:Judges' Lodgings, Lancaster"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Front_view_of_Judges_Lodgings_in_Lancaster.JPG/1280px-Front_view_of_Judges_Lodgings_in_Lancaster.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 437265667,
+            "lat": 54.0306787,
+            "lon": -2.9113733,
+            "tags": {
+                "addr:city": "Heysham",
+                "addr:housename": "Heysham 2 Power Station",
+                "addr:postcode": "LA3 2XH",
+                "addr:street": "Princess Alexandra Way",
+                "building": "office",
+                "fee": "no",
+                "museum": "nuclear",
+                "name": "Heysham Visitor Centre",
+                "opening_hours": "\"by appointment, pre-bookings only\"",
+                "tourism": "museum",
+                "website": "https://www.edfenergy.com/energy/education/visitor-centres/heysham-visitor-centre"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Heysham_Harbour_railway_station_%28geograph_5107970%29.jpg/1280px-Heysham_Harbour_railway_station_%28geograph_5107970%29.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 439624399,
+            "lat": 34.6986666,
+            "lon": -118.136699,
+            "tags": {
+                "attraction": "historic",
+                "historic": "aircraft",
+                "name": "F-4 Phantom II",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/66/Awoh-01-8.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 470632481,
+            "lat": 54.0453158,
+            "lon": -2.7818968,
+            "tags": {
+                "HE_ref": "1288429",
+                "building": "yes",
+                "construction_year": "1907-09",
+                "height": "50m",
+                "historic": "monument",
+                "listed_status": "Grade I",
+                "man_made": "tower",
+                "name": "Ashton Memorial",
+                "opening_hours": "10:00-17:00",
+                "tourism": "attraction",
+                "tower": "yes",
+                "tower:construction": "freestanding",
+                "tower:type": "observation",
+                "website": "https://www.lancaster.gov.uk/sites/williamson-park/ashton-memorial",
+                "wikidata": "Q4806060",
+                "wikipedia": "en:Ashton Memorial"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/The_Ashton_Memorial_in_Lancaster_%2812311695365%29.jpg/1280px-The_Ashton_Memorial_in_Lancaster_%2812311695365%29.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 472993709,
+            "lat": 34.6943203,
+            "lon": -118.1392326,
+            "tags": {
+                "addr:city": "Lancaster",
+                "addr:housenumber": "44665",
+                "addr:postcode": "93534",
+                "addr:state": "CA",
+                "addr:street": "Cedar Avenue",
+                "building": "house",
+                "building:levels": "2",
+                "building:units": "1",
+                "ele": "726.2",
+                "height": "6.3",
+                "historic": "house",
+                "house": "detached",
+                "lacounty:ain": "3134023009",
+                "lacounty:bld_id": "519817075088",
+                "name": "Judy Garland Childhood Home",
+                "start_date": "1915",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "way",
+            "id": 549563139,
+            "lat": 54.1756634,
+            "lon": -2.7459669,
+            "tags": {
+                "addr:city": "Yealand Redmayne",
+                "addr:postcode": "LA5 9RX",
+                "addr:street": "Tarn Lane",
+                "landuse": "railway",
+                "name": "Cinderbarrow Miniature Railway",
+                "phone": "+44 1524 781767",
+                "tourism": "attraction",
+                "website": "https://lmmes.co.uk/"
+            }
+        },
+        {
+            "type": "way",
+            "id": 550247196,
+            "lat": 54.1584383,
+            "lon": -2.7351313,
+            "tags": {
+                "addr:city": "Tewitfield",
+                "addr:postcode": "LA6 1JH",
+                "landuse": "farmyard",
+                "name": "Greenlands Farm Village",
+                "tourism": "attraction",
+                "website": "https://www.greenlandsfarmvillage.co.uk/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Tewitfield_Marina%2C_Lancaster_Canal_-_geograph.org.uk_-_1508395.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 569405731,
+            "lat": 54.049594,
+            "lon": -2.8040622,
+            "tags": {
+                "addr:city": "Lancaster",
+                "addr:housenumber": "15",
+                "addr:postcode": "LA1 1YS",
+                "addr:street": "Castle Hill",
+                "building": "yes",
+                "check_date:opening_hours": "2025-08-12",
+                "fee": "yes",
+                "name": "Cottage Museum",
+                "opening_hours:signed": "no",
+                "seasonal": "yes",
+                "tourism": "museum",
+                "website": "https://visitlancaster.org.uk/museums/cottage-museum/",
+                "wikidata": "Q113369917"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Judges%27_Lodgings_tour_and_editathon_2014_09.jpg/1280px-Judges%27_Lodgings_tour_and_editathon_2014_09.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 638040528,
+            "lat": 39.7140025,
+            "lon": -82.6001816,
+            "tags": {
+                "addr:city": "Lancaster",
+                "addr:country": "US",
+                "addr:housenumber": "145",
+                "addr:postcode": "43130",
+                "addr:state": "OH",
+                "addr:street": "East Main Street",
+                "alt_name": "Reese-Peters House",
+                "building": "house",
+                "building:levels": "2",
+                "building:levels:underground": "1",
+                "contact:facebook": "https://www.facebook.com/pages/The-Decorative-Arts-Center-of-Ohio/79869977266",
+                "fee": "no",
+                "museum": "art",
+                "name": "Decorative Arts Center of Ohio",
+                "opening_hours": "We-Fr 11:00-16:00; Sa-Su 13:00-16:00",
+                "phone": "+1 740 681 1423",
+                "short_name": "Decorative Arts Center",
+                "tourism": "museum",
+                "website": "https://www.decartsohio.org"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/John_Sherman_Birthplace%2C_Lancaster%2C_Ohio%2C_US.jpg/1280px-John_Sherman_Birthplace%2C_Lancaster%2C_Ohio%2C_US.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 674246059,
+            "lat": 54.0514882,
+            "lon": -2.8037674,
+            "tags": {
+                "archaeological_site": "roman_villa",
+                "historic": "archaeological_site",
+                "historic:civilization": "roman",
+                "name": "Roman Bath House",
+                "opening_hours": "24/7",
+                "ruins": "yes",
+                "tourism": "attraction",
+                "website": "https://www.lancaster.gov.uk/sport-and-leisure/museums/roman-bath-house"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Wery_Wall%2C_Lancaster.jpg/1280px-Wery_Wall%2C_Lancaster.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 842452323,
+            "lat": 34.733193,
+            "lon": -118.1964043,
+            "tags": {
+                "alt_name": "West Avenue G",
+                "description": "A musical road is a road, or section of a road, which when driven over causes a tactile vibration and audible rumbling that can be felt through the wheels and body of the vehicle.",
+                "hgv": "designated",
+                "highway": "secondary",
+                "man_made": "musical_road",
+                "maxspeed": "55 mph",
+                "name": "The Musical Road of California",
+                "oneway": "yes",
+                "source": "Survey",
+                "source:hgv": "https://dpw.lacounty.gov/spats/public/spatsfaq/forms/ATTACH13.pdf",
+                "surface": "paved",
+                "tiger:cfcc": "A41",
+                "tiger:county": "Los Angeles, CA",
+                "tiger:name_base": "Avenue G",
+                "tiger:name_direction_prefix": "W",
+                "tourism": "attraction",
+                "traffic_calming": "rumble_strip",
+                "video": "https://www.facebook.com/share/v/1FUTMpdTQh/"
+            }
+        },
+        {
+            "type": "way",
+            "id": 844120860,
+            "lat": 40.5220474,
+            "lon": -92.5296307,
+            "tags": {
+                "building": "yes",
+                "name": "William P. Hall House Museum",
+                "tourism": "museum",
+                "wikidata": "Q28834450",
+                "wikipedia": "en:William P. Hall House"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/78/WilliamPHallHouse1.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 876363798,
+            "lat": 44.5115514,
+            "lon": -71.5722703,
+            "tags": {
+                "area": "yes",
+                "name": "Lancaster Fairgrounds",
+                "operator": "Town of Lancaster, NH",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "way",
+            "id": 965332373,
+            "lat": 39.7139718,
+            "lon": -82.6005238,
+            "tags": {
+                "addr:city": "Lancaster",
+                "addr:country": "US",
+                "addr:postcode": "43130",
+                "addr:state": "OH",
+                "building": "yes",
+                "name": "Sherman House State Memorial",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/John_Sherman_Birthplace%2C_Lancaster%2C_Ohio%2C_US.jpg/1280px-John_Sherman_Birthplace%2C_Lancaster%2C_Ohio%2C_US.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 1024941374,
+            "lat": 44.4601896,
+            "lon": -71.652787,
+            "tags": {
+                "bridge": "covered",
+                "bridge:name": "Mount Orne Covered Bridge",
+                "building:architecture": "Howe_truss_covered_bridge",
+                "covered": "yes",
+                "heritage": "2",
+                "heritage:operator": "nrhp",
+                "heritage:ref": "76000124",
+                "heritage:website": "https://npgallery.nps.gov/AssetDetail/NRIS/76000124",
+                "historic": "yes",
+                "layer": "1",
+                "man_made": "bridge",
+                "name": "Mount Orne Covered Bridge",
+                "nrhp:inscription_date": "1983-11-23",
+                "ref:nrhp": "76000124",
+                "start_date": "1911",
+                "tourism": "attraction",
+                "wikidata": "Q14629040",
+                "wikimedia_commons": "File:IMG_4279_Mount_Orne_Covered_Bridge.jpg",
+                "wikipedia": "en:Mount Orne Covered Bridge"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Mount_Orne_Covered_Bridge_5-13-25.jpg/1280px-Mount_Orne_Covered_Bridge_5-13-25.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 1051944377,
+            "lat": 34.7212853,
+            "lon": -118.1780567,
+            "tags": {
+                "air_conditioning": "yes",
+                "building": "warehouse",
+                "museum": "history",
+                "name": "Antelope Valley Rural Museum",
+                "tourism": "museum",
+                "website": "https://avmuseum.org"
+            }
+        },
+        {
+            "type": "way",
+            "id": 1068318197,
+            "lat": 39.7152314,
+            "lon": -82.6014995,
+            "tags": {
+                "addr:city": "Lancaster",
+                "addr:country": "US",
+                "addr:housenumber": "105",
+                "addr:postcode": "43130",
+                "addr:state": "OH",
+                "addr:street": "East Wheeling Street",
+                "building": "detached",
+                "building:levels": "2",
+                "fee": "yes",
+                "museum": "history",
+                "museum_type": "municipal",
+                "name": "Georgian Museum",
+                "phone": "+1 740 654 9923",
+                "roof:levels": "0",
+                "tourism": "museum",
+                "website": "https://www.thegeorgianmuseum.org/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/St._Peter%27s_Evangelical_Lutheran_Church_Lancaster_Ohio.JPG/1280px-St._Peter%27s_Evangelical_Lutheran_Church_Lancaster_Ohio.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 1081633485,
+            "lat": 34.7200657,
+            "lon": -80.7711853,
+            "tags": {
+                "building": "yes",
+                "museum": "history",
+                "name": "Lancaster Historic Courthouse",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Lancaster_County_%28South_Carolina%29_Jail.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 1108013590,
+            "lat": 54.0455264,
+            "lon": -2.7807898,
+            "tags": {
+                "fee": "yes",
+                "name": "Butterfly House and Mini Zoo",
+                "tourism": "zoo",
+                "website": "https://www.lancaster.gov.uk/sites/williamson-park/butterfly-house"
+            }
+        },
+        {
+            "type": "way",
+            "id": 1145359079,
+            "lat": 54.0537377,
+            "lon": -2.8056539,
+            "tags": {
+                "addr:city": "Lancaster",
+                "addr:housename": "Custom House",
+                "addr:postcode": "LA1 1RB",
+                "addr:street": "St George's Quay",
+                "fee": "yes",
+                "fhrs:id": "145149",
+                "name": "Lancaster Maritime Museum",
+                "opening_hours": "Fr-Mo 12:00-16:00",
+                "operator": "Lancaster City Council",
+                "phone": "+44 1524 382264",
+                "tourism": "museum",
+                "website": "https://www.lancaster.gov.uk/sport-and-leisure/museums/maritime-museum",
+                "wikidata": "Q111817853"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/en/thumb/0/05/The_Heart_Network_logo.svg/1280px-The_Heart_Network_logo.svg.png",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 1238273472,
+            "lat": 54.0475033,
+            "lon": -2.9027833,
+            "tags": {
+                "HE_ref": "1208949",
+                "access": "yes",
+                "heritage": "2",
+                "heritage:operator": "Historic England",
+                "historic": "ruins",
+                "listed_status": "Grade I",
+                "name": "St. Patrick's Chapel",
+                "ruins": "chapel",
+                "tourism": "attraction",
+                "wheelchair": "no",
+                "wikidata": "Q7595057",
+                "wikipedia": "en:St Patrick's Chapel, Heysham"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/St._Patrick%27s_Chapel_tombs.JPG/1280px-St._Patrick%27s_Chapel_tombs.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 1426759028,
+            "lat": 40.0483801,
+            "lon": -76.3116045,
+            "tags": {
+                "attraction": "carousel",
+                "name": "Carousel",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Clipper3.PNG/1280px-Clipper3.PNG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 1429901243,
+            "lat": 53.9632764,
+            "lon": -2.8358404,
+            "tags": {
+                "landuse": "retail",
+                "name": "Black Knights Skydiving Centre",
+                "sport": "parachuting",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "way",
+            "id": 1485577815,
+            "lat": 34.6956601,
+            "lon": -118.1395143,
+            "tags": {
+                "addr:city": "Lancaster",
+                "addr:housenumber": "44711",
+                "addr:postcode": "93534",
+                "addr:state": "CA",
+                "addr:street": "Cedar Avenue",
+                "building:part": "yes",
+                "historic": "building",
+                "name": "Former Lancaster Grammar School Auditorium",
+                "tourism": "attraction"
+            }
+        }
+    ]
+}

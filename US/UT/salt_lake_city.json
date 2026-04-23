@@ -1,0 +1,1143 @@
+{
+    "city_metadata": {
+        "city_name": "Salt Lake City",
+        "state_code": "UT",
+        "state_full": "Utah",
+        "city_summary": "Salt Lake City, often shortened to Salt Lake or SLC, is the capital and most populous city of the U.S. state of Utah. It is the county seat of Salt Lake County, the most populous county in the state. The population was 199,723 at the 2020 census, while the Salt Lake City metropolitan area has an estimated 1.3 million residents and is the 46th-largest metropolitan area in the United States.",
+        "city_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Salt_Lake_Union_Pacific_Railroad_Station%2C_South_Temple_at_400_West%2C_Central_City_West%2C_Salt_Lake_City%2C_UT%2C_USA.jpg/1280px-Salt_Lake_Union_Pacific_Railroad_Station%2C_South_Temple_at_400_West%2C_Central_City_West%2C_Salt_Lake_City%2C_UT%2C_USA.jpg",
+        "city_lat": 40.76083333,
+        "city_lon": -111.89111111,
+        "source": "wikipedia_verified_engine"
+    },
+    "attractions": [
+        {
+            "type": "node",
+            "id": 366386033,
+            "lat": 40.760243,
+            "lon": -111.8431702,
+            "tags": {
+                "addr:state": "UT",
+                "check_date": "2026-03-23",
+                "check_date:opening_hours": "2026-03-23",
+                "ele": "1442",
+                "fee": "yes",
+                "gnis:feature_id": "2432447",
+                "internet_access": "wlan",
+                "name": "Utah Museum of Fine Arts",
+                "name:building": "Marcia and John Price Museum Building",
+                "opening_hours": "Mo off; Tu 10:00-17:00; We 10:00-20:00; Th-Su 10:00-17:00",
+                "tourism": "museum",
+                "website": "https://umfa.utah.edu/",
+                "wikidata": "Q2502866"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Sfebb_exterior_univ_of_utah.jpg/1280px-Sfebb_exterior_univ_of_utah.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 366386044,
+            "lat": 40.7455463,
+            "lon": -111.874446,
+            "tags": {
+                "addr:state": "UT",
+                "ele": "1301",
+                "fee": "no",
+                "gnis:feature_id": "2432459",
+                "name": "Museum of Utah Folk Art",
+                "opening_hours": "Th-Sa 10:00-16:00",
+                "tourism": "museum",
+                "website": "https://artsandmuseums.utah.gov/chase-home-museum/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Chase_Home_Salt_Lake_City_Utah.jpeg/1280px-Chase_Home_Salt_Lake_City_Utah.jpeg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 495938071,
+            "lat": 40.7764818,
+            "lon": -111.8869056,
+            "tags": {
+                "historic": "monument",
+                "name": "Mormon Battalion",
+                "tourism": "attraction",
+                "wikidata": "Q96393919"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Salt_Lake_City%2C_Utah_%282021%29_-_029.jpg/1280px-Salt_Lake_City%2C_Utah_%282021%29_-_029.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 2328421314,
+            "lat": 40.7673973,
+            "lon": -111.903884,
+            "tags": {
+                "addr:city": "Salt Lake City",
+                "addr:housenumber": "444",
+                "addr:postcode": "84116",
+                "addr:state": "UT",
+                "addr:street": "West 100 South",
+                "check_date": "2025-06-02",
+                "fee": "yes",
+                "level": "0;1",
+                "name": "Discovery Gateway Children's Museum",
+                "opening_hours": "Mo,We-Su 10:00-18:00",
+                "phone": "+1 801-456-5437",
+                "tourism": "museum",
+                "website": "https://www.discoverygateway.org/",
+                "wheelchair": "limited",
+                "wikidata": "Q5281910"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/DiscoveryGatewaySLC.JPG/1280px-DiscoveryGatewaySLC.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 2363167405,
+            "lat": 40.7681897,
+            "lon": -111.894389,
+            "tags": {
+                "addr:city": "Salt Lake City",
+                "addr:housenumber": "20",
+                "addr:postcode": "84101",
+                "addr:state": "UT",
+                "addr:street": "South West Temple",
+                "check_date": "2025-06-02",
+                "contact:facebook": "https://www.facebook.com/utahmoca/",
+                "description": "$10 suggested donation",
+                "museum": "art",
+                "name": "Utah Museum of Contemporary Art",
+                "opening_hours": "Mo,Su off; Tu-Th,Sa 11:00-18:00; Fr 11:00-21:00",
+                "phone": "+1-801-328-4201",
+                "tourism": "museum",
+                "website": "https://www.utahmoca.org/",
+                "wikidata": "Q21016297",
+                "wikipedia": "en:Utah Museum of Contemporary Art"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/UMOCA_Sculpture.jpg/1280px-UMOCA_Sculpture.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 4124652193,
+            "lat": 40.7504818,
+            "lon": -111.8169664,
+            "tags": {
+                "attraction": "animal",
+                "name": "African Elephant",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Hogle_zoo_entrance.JPG/1280px-Hogle_zoo_entrance.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 4124652201,
+            "lat": 40.7503343,
+            "lon": -111.8175734,
+            "tags": {
+                "attraction": "animal",
+                "name": "White Rhino",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Hogle_zoo_entrance.JPG/1280px-Hogle_zoo_entrance.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 4124652221,
+            "lat": 40.7503156,
+            "lon": -111.8191625,
+            "tags": {
+                "attraction": "animal",
+                "name": "Polar Bear",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Brigham_Young_Forest_Farmhouse_-_This_Is_The_Place_Heritage_Park_-_Salt_Lake_City%2C_Utah_-_20_July_2019.jpg/1280px-Brigham_Young_Forest_Farmhouse_-_This_Is_The_Place_Heritage_Park_-_Salt_Lake_City%2C_Utah_-_20_July_2019.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 4124652222,
+            "lat": 40.7501506,
+            "lon": -111.8187394,
+            "tags": {
+                "attraction": "animal",
+                "name": "Harbor Seal & Sea Lion",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/8b/This_Is_The_Place_Heritage_Park.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 4124652237,
+            "lat": 40.7500514,
+            "lon": -111.819497,
+            "tags": {
+                "attraction": "animal",
+                "name": "Grizzly Bear",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Brigham_Young_Forest_Farmhouse_-_This_Is_The_Place_Heritage_Park_-_Salt_Lake_City%2C_Utah_-_20_July_2019.jpg/1280px-Brigham_Young_Forest_Farmhouse_-_This_Is_The_Place_Heritage_Park_-_Salt_Lake_City%2C_Utah_-_20_July_2019.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 4124652278,
+            "lat": 40.7490133,
+            "lon": -111.8184263,
+            "tags": {
+                "attraction": "animal",
+                "name": "Snow Leopard",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Hogle_zoo_entrance.JPG/1280px-Hogle_zoo_entrance.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 4124652292,
+            "lat": 40.7490409,
+            "lon": -111.818139,
+            "tags": {
+                "attraction": "animal",
+                "name": "Red Fox",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Hogle_zoo_entrance.JPG/1280px-Hogle_zoo_entrance.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 4124652319,
+            "lat": 40.748818,
+            "lon": -111.8186277,
+            "tags": {
+                "attraction": "animal",
+                "name": "Amur Tiger",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Hogle_zoo_entrance.JPG/1280px-Hogle_zoo_entrance.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 4124652322,
+            "lat": 40.7488662,
+            "lon": -111.8188636,
+            "tags": {
+                "attraction": "animal",
+                "name": "Arabian Sand Cat",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Hogle_zoo_entrance.JPG/1280px-Hogle_zoo_entrance.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 4124652323,
+            "lat": 40.7489744,
+            "lon": -111.8188422,
+            "tags": {
+                "attraction": "animal",
+                "name": "Amur Leopard",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Hogle_zoo_entrance.JPG/1280px-Hogle_zoo_entrance.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 4124652342,
+            "lat": 40.7495001,
+            "lon": -111.8178344,
+            "tags": {
+                "attraction": "animal",
+                "name": "Siamese Crocodile",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Hogle_zoo_entrance.JPG/1280px-Hogle_zoo_entrance.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 4124652359,
+            "lat": 40.7495934,
+            "lon": -111.8165059,
+            "tags": {
+                "attraction": "animal",
+                "name": "Orangutan",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Hogle_zoo_entrance.JPG/1280px-Hogle_zoo_entrance.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 4124652360,
+            "lat": 40.7495462,
+            "lon": -111.8161541,
+            "tags": {
+                "attraction": "animal",
+                "name": "Gorilla",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Hogle_zoo_entrance.JPG/1280px-Hogle_zoo_entrance.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 4286292094,
+            "lat": 40.7444663,
+            "lon": -111.8747078,
+            "tags": {
+                "attraction": "carousel",
+                "name": "Carousel",
+                "playground": "roundabout",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Chase_Home_Salt_Lake_City_Utah.jpeg/1280px-Chase_Home_Salt_Lake_City_Utah.jpeg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 4361937593,
+            "lat": 40.7695234,
+            "lon": -111.8750849,
+            "tags": {
+                "addr:housenumber": "529",
+                "addr:street": "East South Temple",
+                "name": "David Keith Mansion and Carriage House",
+                "name:en": "David Keith Mansion and Carriage House",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Keith_Mansion_Salt_Lake_City.jpeg/1280px-Keith_Mansion_Salt_Lake_City.jpeg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 4361985489,
+            "lat": 40.7697511,
+            "lon": -111.873526,
+            "tags": {
+                "addr:city": "Salt Lake City",
+                "addr:housenumber": "617",
+                "addr:state": "UT",
+                "addr:street": "East South Temple",
+                "name": "Alice Gallery",
+                "name:en": "Alice Gallery",
+                "tourism": "museum",
+                "wheelchair": "no"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Kearns_Mansion_Salt_Lake_City.jpeg/1280px-Kearns_Mansion_Salt_Lake_City.jpeg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 4634211982,
+            "lat": 40.7625274,
+            "lon": -111.8750216,
+            "tags": {
+                "name": "Mercer Park Fountain",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/af/Lone_Cedar_Tree_monument_-_Salt_Lake_City%2C_Utah_-_4_July_2020.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 5849373984,
+            "lat": 40.749644,
+            "lon": -111.8151741,
+            "tags": {
+                "attraction": "animal",
+                "name": "Giraffe",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Hogle_zoo_entrance.JPG/1280px-Hogle_zoo_entrance.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 5849374585,
+            "lat": 40.7496377,
+            "lon": -111.8146948,
+            "tags": {
+                "attraction": "animal",
+                "name": "Zebra",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Hogle_zoo_entrance.JPG/1280px-Hogle_zoo_entrance.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 5849374586,
+            "lat": 40.7495146,
+            "lon": -111.8143822,
+            "tags": {
+                "attraction": "animal",
+                "name": "Ostrich",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Hogle_zoo_entrance.JPG/1280px-Hogle_zoo_entrance.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 6677655335,
+            "lat": 40.7639498,
+            "lon": -111.8467855,
+            "tags": {
+                "name": "Block U",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 6695265253,
+            "lat": 40.7498079,
+            "lon": -111.8149636,
+            "tags": {
+                "attraction": "animal",
+                "name": "Warthog",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Hogle_zoo_entrance.JPG/1280px-Hogle_zoo_entrance.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 7633003608,
+            "lat": 40.7654473,
+            "lon": -111.8237883,
+            "tags": {
+                "fee": "yes",
+                "level": "2",
+                "name": "Garden Exhibits",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Entry_-_Red_Butte_Garden_and_Arboretum_-_DSC07474.JPG/1280px-Entry_-_Red_Butte_Garden_and_Arboretum_-_DSC07474.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 12177433830,
+            "lat": 40.7571429,
+            "lon": -111.8725349,
+            "tags": {
+                "level": "2",
+                "name": "Trolley History Museum",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Candlelight_vigil_slc.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 12212411337,
+            "lat": 40.7789161,
+            "lon": -111.8882841,
+            "tags": {
+                "addr:city": "Salt Lake City",
+                "addr:housenumber": "450",
+                "addr:street": "N State Street",
+                "construction:tourism": "museum",
+                "museum": "history",
+                "name": "Museum of Utah",
+                "opening_hours": "off",
+                "operator": "Utah Historical Society",
+                "operator:type": "public",
+                "start": "2026-06-27",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Salt_Lake_City%2C_Utah_%282021%29_-_051.jpg/1280px-Salt_Lake_City%2C_Utah_%282021%29_-_051.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 12844882448,
+            "lat": 40.7697046,
+            "lon": -111.9038461,
+            "tags": {
+                "addr:city": "Salt Lake City",
+                "addr:housenumber": "16",
+                "addr:state": "UT",
+                "addr:street": "N. Rio Grande Street",
+                "description": "\"A world where imagination comes to life through immersive-physical and digital art. Dreamscapes, a project created by the Utah Arts Alliance, invites all ages...\"",
+                "level": "0",
+                "name": "Dreamscapes",
+                "opening_hours": "Tu-Su 12:00-21:00; Mo off",
+                "tourism": "attraction",
+                "website": "https://utaharts.org/en/dreamscapes/"
+            }
+        },
+        {
+            "type": "node",
+            "id": 12844882454,
+            "lat": 40.7669175,
+            "lon": -111.9042699,
+            "tags": {
+                "level": "0",
+                "name": "Museum of Illusions",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/DiscoveryGatewaySLC.JPG/1280px-DiscoveryGatewaySLC.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 32333196,
+            "lat": 40.7704254,
+            "lon": -111.8925347,
+            "tags": {
+                "addr:city": "Salt Lake City",
+                "addr:postcode": "84101",
+                "addr:state": "UT",
+                "addr:street": "North Temple",
+                "denomination": "mormon",
+                "ele": "1318",
+                "heritage": "2",
+                "heritage:operator": "nrhp",
+                "leisure": "park",
+                "name": "Temple Square",
+                "name:es": "La Manzana del Templo",
+                "note": "Historic Temple Square is square - does not include Main Street Plaza",
+                "nrhp:criteria": "(A)",
+                "nrhp:inscription_date": "January 29, 1964",
+                "nrhp:nhl": "yes",
+                "operator": "The Church of Jesus Christ of Latter-day Saints",
+                "protection_title": "protected_site",
+                "ref:nrhp": "66000738",
+                "religion": "christian",
+                "tourism": "attraction",
+                "wheelchair": "yes",
+                "wikidata": "Q2085218",
+                "wikipedia": "en:Temple Square"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/SLCConferenceCrowd.jpg/1280px-SLCConferenceCrowd.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 32333198,
+            "lat": 40.7698867,
+            "lon": -111.8905118,
+            "tags": {
+                "addr:city": "Salt Lake City",
+                "addr:housenumber": "15 E",
+                "addr:postcode": "84150",
+                "addr:state": "UT",
+                "addr:street": "South Temple",
+                "building": "office",
+                "building:colour": "#afafb4",
+                "building:levels": "2",
+                "name": "Joseph Smith Memorial Building",
+                "operator": "The Church of Jesus Christ of Latter-day Saints",
+                "roof:colour": "#867d74",
+                "tourism": "attraction",
+                "wheelchair": "no",
+                "wikidata": "Q3185653"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/JSMemorial.JPG/1280px-JSMemorial.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 32920861,
+            "lat": 40.7774323,
+            "lon": -111.8882172,
+            "tags": {
+                "addr:city": "Salt Lake City",
+                "addr:housenumber": "350",
+                "addr:postcode": "84103",
+                "addr:state": "UT",
+                "addr:street": "North State Street",
+                "building": "public",
+                "building:levels": "5",
+                "height": "87",
+                "name": "Utah State Capitol Building",
+                "note": "height is to top of dome",
+                "office": "government",
+                "operator": "State of Utah",
+                "tourism": "attraction",
+                "wheelchair": "yes",
+                "wikidata": "Q2627661",
+                "wikipedia": "en:Utah State Capitol"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Utah_State_Capitol%2C_Salt_Lake_City_%287631480380%29_%28cropped%29.jpg/1280px-Utah_State_Capitol%2C_Salt_Lake_City_%287631480380%29_%28cropped%29.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 33148441,
+            "lat": 40.7628146,
+            "lon": -111.9046066,
+            "tags": {
+                "addr:city": "Salt Lake City",
+                "addr:housenumber": "300",
+                "addr:postcode": "84101",
+                "addr:state": "UT",
+                "addr:street": "South Rio Grande Street",
+                "building": "train_station",
+                "height": "18",
+                "historic": "building",
+                "name": "Rio Grande Depot",
+                "source": "esri/USA_NAD_Addresses",
+                "tourism": "museum",
+                "wikidata": "Q5259810"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Denver_%26_Rio_Grande_Western_Depot_in_SLC_-_Feb_3%2C_2011.jpg/1280px-Denver_%26_Rio_Grande_Western_Depot_in_SLC_-_Feb_3%2C_2011.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 33153617,
+            "lat": 40.7720814,
+            "lon": -111.8904251,
+            "tags": {
+                "amenity": "library",
+                "building": "yes",
+                "name": "Church History Library",
+                "operator": "The Church of Jesus Christ of Latter-day Saints",
+                "tourism": "attraction",
+                "wikidata": "Q2901338",
+                "wikipedia": "en:Church History Library"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/HeberCKimballGraveSouth.jpg/1280px-HeberCKimballGraveSouth.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 33162696,
+            "lat": 40.7709569,
+            "lon": -111.8944824,
+            "tags": {
+                "addr:city": "Salt Lake City",
+                "addr:housenumber": "45",
+                "addr:postcode": "84150",
+                "addr:state": "UT",
+                "addr:street": "North West Temple Street",
+                "building": "museum",
+                "check_date:opening_hours": "2023-07-21",
+                "denomination": "latter_day_saints",
+                "fee": "no",
+                "name": "Church History Museum",
+                "opening_hours": "Mo-Sa 10:00-18:00, Tu-Th 10:00-20:00; Oct 31 10:00-17:00, Nov We[4] 10:00-17:00, Dec 24-26 off, PH off",
+                "operator": "The Church of Jesus Christ of Latter-day Saints",
+                "religion": "christian",
+                "tourism": "museum",
+                "website": "https://www.churchofjesuschrist.org/learn/church-history-museum-temple-square?lang=eng&y_source=1_MzA1ODU2NjktNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+                "wheelchair": "yes",
+                "wikidata": "Q3329669"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Family_History_Library_-_Salt_Lake_City%2C_Utah_-_2_May_2020.jpg/1280px-Family_History_Library_-_Salt_Lake_City%2C_Utah_-_2_May_2020.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 33162725,
+            "lat": 40.7701892,
+            "lon": -111.8944896,
+            "tags": {
+                "addr:city": "Salt Lake City",
+                "addr:housenumber": "32",
+                "addr:postcode": "84150",
+                "addr:state": "UT",
+                "addr:street": "West Temple",
+                "amenity": "library",
+                "building": "library",
+                "denomination": "latter_day_saints",
+                "internet_access": "wlan",
+                "name": "Family History Library",
+                "opening_hours": "Tu-Th 09:00-20:00; Mo,Fr,Sa 09:00-18:00",
+                "operator": "The Church of Jesus Christ of Latter-day Saints",
+                "phone": "+1-801-240-6996",
+                "religion": "christian",
+                "tourism": "attraction",
+                "website": "https://www.familysearch.org/en/library/",
+                "wheelchair": "limited",
+                "wikidata": "Q4565916"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/LDS_genealogy_library_slc_utah.jpg/1280px-LDS_genealogy_library_slc_utah.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 33167751,
+            "lat": 40.7697897,
+            "lon": -111.8889969,
+            "tags": {
+                "addr:city": "Salt Lake City",
+                "addr:housenumber": "63 E",
+                "addr:postcode": "84150",
+                "addr:state": "UT",
+                "addr:street": "South Temple",
+                "building": "retail",
+                "building:colour": "#d0d8cd",
+                "building:levels": "3",
+                "historic": "home",
+                "name": "Lion House",
+                "operator": "The Church of Jesus Christ of Latter-day Saints",
+                "roof:colour": "#868a8b",
+                "roof:shape": "gabled",
+                "tourism": "attraction",
+                "wheelchair": "yes",
+                "wikidata": "Q3303369"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Lion_House_-_Salt_Lake_City%2C_Utah_-_10_May_2020.jpg/1280px-Lion_House_-_Salt_Lake_City%2C_Utah_-_10_May_2020.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 33167760,
+            "lat": 40.76975,
+            "lon": -111.8886969,
+            "tags": {
+                "addr:city": "Salt Lake City",
+                "addr:housenumber": "67 E",
+                "addr:postcode": "84150",
+                "addr:state": "UT",
+                "addr:street": "South Temple",
+                "building": "yes",
+                "building:colour": "#a49284",
+                "building:levels": "3",
+                "historic": "home",
+                "name": "Beehive House",
+                "roof:colour": "#959691",
+                "tourism": "attraction",
+                "wikidata": "Q2363403"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Beehive_House_-_Salt_Lake_City%2C_Utah_-_2_May_2020.jpg/1280px-Beehive_House_-_Salt_Lake_City%2C_Utah_-_2_May_2020.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 33195696,
+            "lat": 40.7700376,
+            "lon": -111.9010197,
+            "tags": {
+                "addr:city": "Salt Lake City",
+                "addr:country": "US",
+                "addr:housename": "Deveraux House",
+                "addr:housenumber": "334 W",
+                "addr:postcode": "84111",
+                "addr:state": "UT",
+                "addr:street": "South Temple",
+                "building": "house",
+                "building:levels": "2",
+                "historic": "yes",
+                "image": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Devereaux_House_in_SLC_August_8%2C_2012_-_front_and_side.jpg",
+                "name": "Deveraux House",
+                "tourism": "attraction",
+                "wheelchair": "yes",
+                "wikidata": "Q5266891",
+                "wikimedia_commons": "Category:Devereaux House",
+                "wikipedia": "en:Devereaux House (Salt Lake City)"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Devereaux_House_in_SLC_August_8%2C_2012_-_front_and_side.jpg/1280px-Devereaux_House_in_SLC_August_8%2C_2012_-_front_and_side.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 33908511,
+            "lat": 40.7793692,
+            "lon": -111.839874,
+            "tags": {
+                "area": "yes",
+                "description": "Letter 'U'",
+                "man_made": "geoglyph",
+                "material": "limestone",
+                "name": "Block U",
+                "tourism": "attraction",
+                "wikidata": "Q4927176",
+                "wikipedia": "en:Block U"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Blocku.jpg/1280px-Blocku.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 39611151,
+            "lat": 40.7495115,
+            "lon": -111.815949,
+            "tags": {
+                "addr:city": "Salt Lake City",
+                "addr:housenumber": "2600",
+                "addr:postcode": "84108",
+                "addr:state": "UT",
+                "addr:street": "East Sunnyside Avenue",
+                "historic": "yes",
+                "landmark": "yes",
+                "name": "Hogle Zoo",
+                "tourism": "zoo",
+                "wikidata": "Q5877346"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Hogle_zoo_entrance.JPG/1280px-Hogle_zoo_entrance.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 143796145,
+            "lat": 40.7697959,
+            "lon": -111.8741054,
+            "tags": {
+                "addr:city": "Salt Lake City",
+                "addr:housenumber": "603",
+                "addr:postcode": "84102",
+                "addr:state": "UT",
+                "addr:street": "East South Temple",
+                "building": "house",
+                "historic": "monument",
+                "name": "Governor's Mansion",
+                "tourism": "attraction",
+                "utahagrc:parcelid": "09314870040000",
+                "wikidata": "Q7902369"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Kearns_Mansion_Salt_Lake_City.jpeg/1280px-Kearns_Mansion_Salt_Lake_City.jpeg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 154223785,
+            "lat": 40.7641321,
+            "lon": -111.8227076,
+            "tags": {
+                "addr:city": "Salt Lake City",
+                "addr:housenumber": "301",
+                "addr:postcode": "84108",
+                "addr:state": "UT",
+                "addr:street": "South Wakara Way",
+                "building": "yes",
+                "building:levels": "4",
+                "fee": "yes",
+                "museum": "nature",
+                "name": "Natural History Museum Of Utah",
+                "opening_hours": "Th-Tu 10:00-17:00; We 10:00-21:00",
+                "tourism": "museum",
+                "url": "http://umnh.utah.edu/home",
+                "website": "https://nhmu.utah.edu",
+                "wheelchair": "yes",
+                "wikidata": "Q3915972",
+                "wikipedia": "en:Natural History Museum of Utah"
+            }
+        },
+        {
+            "type": "way",
+            "id": 172543268,
+            "lat": 40.7682233,
+            "lon": -111.8877953,
+            "tags": {
+                "building": "yes",
+                "fee": "no",
+                "name": "Social Hall Museum",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Social_Hall_-_Salt_Lake_City%2C_Utah_-_Circa_1858_%28cropped%29.jpg/1280px-Social_Hall_-_Salt_Lake_City%2C_Utah_-_Circa_1858_%28cropped%29.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 224017272,
+            "lat": 40.7430459,
+            "lon": -111.8750957,
+            "tags": {
+                "addr:city": "Salt Lake City",
+                "addr:housenumber": "589",
+                "addr:postcode": "84105",
+                "addr:state": "UT",
+                "addr:street": "East 1300 South",
+                "barrier": "fence",
+                "name": "Tracy Aviary",
+                "opening_hours": "Mo-Su 09:00-17:00",
+                "tourism": "zoo",
+                "wheelchair": "yes",
+                "zoo": "aviary"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Chase_Home_Salt_Lake_City_Utah.jpeg/1280px-Chase_Home_Salt_Lake_City_Utah.jpeg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 224248583,
+            "lat": 40.7644156,
+            "lon": -111.8891636,
+            "tags": {
+                "addr:city": "Salt Lake City",
+                "addr:housenumber": "50",
+                "addr:state": "UT",
+                "addr:street": "East 200 South",
+                "description": "Gallivan outdoor ice rink (winter only).",
+                "landuse": "recreation_ground",
+                "name": "Gallivan Center Ice Rink (seasonal)",
+                "name:en": "Gallivan Center Ice Rink",
+                "tourism": "attraction",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "way",
+            "id": 238500757,
+            "lat": 40.763948,
+            "lon": -111.8336961,
+            "tags": {
+                "addr:city": "Salt Lake City",
+                "addr:country": "US",
+                "addr:housenumber": "1990",
+                "addr:postcode": "84113",
+                "addr:state": "UT",
+                "addr:street": "East Potter Street",
+                "building": "yes",
+                "building:name": "Ezekiel R. Dumke, Jr. Building",
+                "name": "Fort Douglas Museum",
+                "opening_hours": "Tu-Sa 12:00-17:00",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Fort_Douglas_Military_Museum_-_Salt_Lake_City%2C_Utah_-_15_May_2022.jpg/1280px-Fort_Douglas_Military_Museum_-_Salt_Lake_City%2C_Utah_-_15_May_2022.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 358653000,
+            "lat": 40.7455348,
+            "lon": -111.8744145,
+            "tags": {
+                "building": "house",
+                "building:levels": "2",
+                "building:use": "museum",
+                "historic": "yes",
+                "name": "Chase Home Museum Of Utah Folk Arts",
+                "tourism": "museum",
+                "wikidata": "Q5087146"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Chase_Home_Salt_Lake_City_Utah.jpeg/1280px-Chase_Home_Salt_Lake_City_Utah.jpeg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 358667821,
+            "lat": 40.750383,
+            "lon": -111.8185495,
+            "tags": {
+                "building": "yes",
+                "name": "River Otters",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/8b/This_Is_The_Place_Heritage_Park.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 358669130,
+            "lat": 40.7496385,
+            "lon": -111.8172778,
+            "tags": {
+                "attraction": "carousel",
+                "building": "yes",
+                "name": "Conservation Carousel",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Hogle_zoo_entrance.JPG/1280px-Hogle_zoo_entrance.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 398422598,
+            "lat": 40.7740113,
+            "lon": -111.890427,
+            "tags": {
+                "addr:city": "Salt Lake City",
+                "addr:housenumber": "200",
+                "addr:postcode": "84103",
+                "addr:state": "UT",
+                "addr:street": "North Main Street",
+                "building": "house",
+                "ele": "1338",
+                "gnis:feature_id": "2432453",
+                "name": "McCune Mansion",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/McCune_Mansion_2.jpg/1280px-McCune_Mansion_2.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 415811497,
+            "lat": 40.7537663,
+            "lon": -111.9017933,
+            "tags": {
+                "building": "yes",
+                "name": "Classic Cars International Museum",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Whipple_House_SLC.jpeg/1280px-Whipple_House_SLC.jpeg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 460938303,
+            "lat": 40.7830269,
+            "lon": -111.9047257,
+            "tags": {
+                "addr:city": "Salt Lake City",
+                "addr:housenumber": "476",
+                "addr:postcode": "84103",
+                "addr:state": "UT",
+                "addr:street": "West 600 North",
+                "building": "yes",
+                "charge": "18 USD",
+                "check_date": "2025-05-30",
+                "contact:facebook": "https://www.facebook.com/LandCruiserHeritageMuseum/",
+                "fee": "yes",
+                "name": "Land Cruiser Heritage Museum",
+                "opening_hours": "Mo-Sa 08:00-17:00",
+                "tourism": "museum",
+                "website": "https://landcruiserhm.com/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Fifth_Ward_Meetinghouse.JPG/1280px-Fifth_Ward_Meetinghouse.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 566877576,
+            "lat": 40.7755732,
+            "lon": -111.8868427,
+            "tags": {
+                "addr:city": "Salt Lake City",
+                "addr:housenumber": "150",
+                "addr:postcode": "84103",
+                "addr:state": "UT",
+                "addr:street": "East 300 North",
+                "alt_name": "18th Ward Chapel",
+                "amenity": "place_of_worship",
+                "building": "chapel",
+                "historic": "yes",
+                "image": "https://commons.wikimedia.org/wiki/File:White_Memorial_Chapel_(Salt_Lake_City)2.JPG",
+                "name": "White Memorial Chapel",
+                "religion": "christian",
+                "tourism": "attraction",
+                "utahagrc:parcelid": "09313110050000",
+                "wikidata": "Q14912270",
+                "wikimedia_commons": "File:White_Memorial_Chapel_(Salt_Lake_City)2.JPG",
+                "wikipedia": "de:White Memorial Chapel"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/White_Community_Memorial_Chapel_-_Salt_Lake_City%2C_Utah_-_22_June_2025.jpg/1280px-White_Community_Memorial_Chapel_-_Salt_Lake_City%2C_Utah_-_22_June_2025.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 584265797,
+            "lat": 40.7413794,
+            "lon": -111.8717834,
+            "tags": {
+                "addr:city": "Salt Lake City",
+                "addr:housenumber": "662",
+                "addr:postcode": "84105",
+                "addr:state": "UT",
+                "addr:street": "East 1300 South",
+                "amenity": "place_of_worship",
+                "building": "church",
+                "building:levels": "2",
+                "denomination": "baptist",
+                "ele": "1302",
+                "email": "info@gospelgrace.com",
+                "gnis:feature_id": "2432548;1449241",
+                "name": "Gospel Grace Church",
+                "phone": "+1 801-508-4610",
+                "religion": "christian",
+                "service_times": "Su 8:45; Su 11:15",
+                "tourism": "attraction",
+                "utahagrc:parcelid": "16083570020000",
+                "website": "https://www.gospelgrace.com/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Chase_Mill_Salt_Lake_City_Utah.jpeg/1280px-Chase_Mill_Salt_Lake_City_Utah.jpeg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 603553193,
+            "lat": 40.7766705,
+            "lon": -111.8911361,
+            "tags": {
+                "addr:city": "Salt Lake City",
+                "addr:housenumber": "300",
+                "addr:postcode": "84103",
+                "addr:state": "UT",
+                "addr:street": "North Main Street",
+                "building": "commercial",
+                "check_date": "2025-06-02",
+                "fee": "no",
+                "name": "Pioneer Memorial Museum",
+                "opening_hours": "Mo-Fr 09:00-16:30",
+                "tourism": "museum",
+                "utahagrc:parcelid": "09313010010000",
+                "website": "https://isdup.org/museum/",
+                "wheelchair": "yes"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Salt_Lake_City%2C_Utah_%282021%29_-_311.jpg/1280px-Salt_Lake_City%2C_Utah_%282021%29_-_311.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 702287914,
+            "lat": 40.7720472,
+            "lon": -111.8901278,
+            "tags": {
+                "leisure": "park",
+                "name": "CHL Park",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/HeberCKimballGraveSouth.jpg/1280px-HeberCKimballGraveSouth.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 712071621,
+            "lat": 40.7500002,
+            "lon": -111.8141227,
+            "tags": {
+                "amenity": "fountain",
+                "name": "Globe Fountian",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Hogle_zoo_entrance.JPG/1280px-Hogle_zoo_entrance.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 957227976,
+            "lat": 40.7509675,
+            "lon": -111.909712,
+            "tags": {
+                "addr:city": "Salt Lake City",
+                "addr:housenumber": "666",
+                "addr:postcode": "84104",
+                "addr:state": "UT",
+                "addr:street": "West 800 South",
+                "area": "yes",
+                "name": "Fear Factory",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/21/Welfare_Square_grain_silo.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 1163733159,
+            "lat": 40.8402641,
+            "lon": -111.9519134,
+            "tags": {
+                "addr:city": "Salt Lake City",
+                "addr:housenumber": "3500",
+                "addr:postcode": "84116",
+                "addr:state": "UT",
+                "addr:street": "North 2200 West",
+                "name": "Cross E Ranch",
+                "phone": "+1 801-203-0148",
+                "place": "farm",
+                "tourism": "attraction",
+                "website": "https://www.crosseranch.com/"
+            }
+        }
+    ]
+}

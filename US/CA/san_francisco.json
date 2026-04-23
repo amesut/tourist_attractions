@@ -1,0 +1,3988 @@
+{
+    "city_metadata": {
+        "city_name": "San Francisco",
+        "state_code": "CA",
+        "state_full": "California",
+        "city_summary": "San Francisco, officially the City and County of San Francisco, is the fourth-most populous city in California and the 17th-most populous in the United States, with a population of 826,079 in 2025. Among U.S. cities with a population of 300,000 or more, San Francisco is ranked first by per capita income, second by population density, and sixth by aggregate income as of 2023. Some 4.6 million residents live in the city's metropolitan statistical area, which is the 13th-largest in the United States.",
+        "city_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/San_Francisco_Downtown_Aerial%2C_August_2025.jpg/1280px-San_Francisco_Downtown_Aerial%2C_August_2025.jpg",
+        "city_lat": 37.7775,
+        "city_lon": -122.41638889,
+        "source": "wikipedia_verified_engine"
+    },
+    "attractions": [
+        {
+            "type": "node",
+            "id": 65328703,
+            "lat": 37.7906877,
+            "lon": -122.4055936,
+            "tags": {
+                "addr:city": "San Francisco",
+                "addr:housenumber": "401",
+                "addr:state": "CA",
+                "addr:street": "Grant Avenue",
+                "alt_name": "Chinatown Gateway Arch",
+                "ceremonial_gate": "paifang",
+                "man_made": "ceremonial_gate",
+                "name": "Dragon Gate",
+                "name:en": "Dragon Gate",
+                "name:zh": "龍門",
+                "tourism": "attraction",
+                "wikidata": "Q40729318",
+                "wikimedia_commons": "Category:Dragon Gate, San Francisco",
+                "wikipedia": "en:Dragon Gate (San Francisco)"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/1_chinatown_san_francisco_arch_gateway.JPG/1280px-1_chinatown_san_francisco_arch_gateway.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 317081601,
+            "lat": 37.7999996,
+            "lon": -122.4596162,
+            "tags": {
+                "addr:city": "San Francisco",
+                "addr:housenumber": "101",
+                "addr:postcode": "94129",
+                "addr:state": "CA",
+                "addr:street": "Montgomery Street",
+                "addr:unit": "150",
+                "name": "California Society of Pioneers Museum and Library",
+                "tourism": "museum",
+                "website": "https://www.californiapioneers.org/",
+                "wheelchair": "no",
+                "wikidata": "Q7552409"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/64/Society_of_California_Pioneers_membership_certificate.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 358803503,
+            "lat": 37.7771517,
+            "lon": -122.4349713,
+            "tags": {
+                "ele": "61",
+                "gnis:feature_id": "1655592",
+                "heritage": "8",
+                "historic": "district",
+                "name": "Alamo Square Historic District",
+                "tourism": "attraction",
+                "wikidata": "Q49472048"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Alamo_Square_with_Painted_Ladies%2C_SF%2C_CA%2C_jjron_26.03.2012.jpg/1280px-Alamo_Square_with_Painted_Ladies%2C_SF%2C_CA%2C_jjron_26.03.2012.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 368166365,
+            "lat": 37.8092456,
+            "lon": -122.415794,
+            "tags": {
+                "addr:city": "San Francisco",
+                "addr:country": "US",
+                "addr:housenumber": "Pier 45",
+                "addr:postcode": "94133",
+                "addr:state": "CA",
+                "addr:street": "Fishermans Wharf",
+                "addr:unit": "Shed A",
+                "atm": "yes",
+                "contact:facebook": "museemecaniquesf",
+                "contact:yelp": "https://www.yelp.com/biz/mus%C3%A9e-m%C3%A9canique-san-francisco-4",
+                "fee": "no",
+                "internet_access": "no",
+                "leisure": "amusement_arcade",
+                "name": "Musée Mécanique",
+                "name:en": "Musée Mécanique",
+                "name:fr": "Musée Mécanique",
+                "opening_hours": "Mo-Su,PH 10:00-20:00",
+                "phone": "+1 415 346 2000",
+                "tourism": "museum",
+                "website": "https://museemecanique.com/",
+                "wheelchair": "yes",
+                "wikidata": "Q3329291",
+                "wikimedia_commons": "Category:Musée Mécanique",
+                "wikipedia": "en:Musée Mécanique"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Mus%C3%A9e_M%C3%A9canique_003.JPG/1280px-Mus%C3%A9e_M%C3%A9canique_003.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 368173972,
+            "lat": 37.8065952,
+            "lon": -122.4202491,
+            "tags": {
+                "addr:housenumber": "645",
+                "addr:state": "CA",
+                "addr:street": "Beach Street",
+                "alt_name": "Museum of the Eye",
+                "check_date": "2023-12-16",
+                "ele": "9",
+                "fee": "no",
+                "gnis:feature_id": "1657293",
+                "name": "Truhlsen-Marmor Museum of the Eye",
+                "opening_hours": "We-Su 11:00-16:30",
+                "source": "USGS Geonames",
+                "tourism": "museum",
+                "website": "https://www.aao.org/museum-of-the-eye",
+                "wikidata": "Q125195286"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Buena_Vista_Cafe%2C_exterior%2C_San_Francisco_%28May_2025%29_03.jpg/1280px-Buena_Vista_Cafe%2C_exterior%2C_San_Francisco_%28May_2025%29_03.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 368173975,
+            "lat": 37.7852071,
+            "lon": -122.44136,
+            "tags": {
+                "addr:city": "San Francisco",
+                "addr:housenumber": "2450",
+                "addr:postcode": "94115",
+                "addr:state": "CA",
+                "addr:street": "Sutter Street",
+                "ele": "46",
+                "fee": "no",
+                "gnis:feature_id": "1657294",
+                "museum": "history",
+                "name": "Museum of Russian Culture",
+                "opening_hours": "We/Sa 12:00-17:00",
+                "source": "USGS Geonames",
+                "tourism": "museum",
+                "website": "http://www.mrcsf.org/home/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e9/LPPI-1.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 368173977,
+            "lat": 37.794275,
+            "lon": -122.4036121,
+            "tags": {
+                "addr:city": "San Francisco",
+                "addr:housenumber": "608",
+                "addr:postcode": "94111",
+                "addr:state": "CA",
+                "addr:street": "Commercial Street",
+                "ele": "7",
+                "gnis:feature_id": "1657296",
+                "name": "San Francisco Historical Society Museum",
+                "opening_hours": "Tu-Sa 10:00-16:00",
+                "phone": "+1-415-537-1105",
+                "source": "USGS Geonames",
+                "tourism": "museum",
+                "website": "https://www.sfhistory.org"
+            }
+        },
+        {
+            "type": "node",
+            "id": 386591692,
+            "lat": 37.7938022,
+            "lon": -122.3936744,
+            "tags": {
+                "addr:housenumber": "77",
+                "addr:postcode": "94105",
+                "addr:street": "Steuart Street",
+                "check_date": "2024-06-22",
+                "contact:instagram": "sfmsr",
+                "fee": "no",
+                "name": "San Francisco Railway Museum",
+                "opening_hours": "Tu-Sa 12:00-17:00",
+                "phone": "+1-415-974-1948",
+                "tourism": "museum",
+                "website": "https://www.streetcar.org/museum/",
+                "wheelchair": "yes",
+                "wikidata": "Q7414098"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c8/San_Francisco_Railway_Museum_Logo.png",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 415567011,
+            "lat": 37.7868729,
+            "lon": -122.4015219,
+            "tags": {
+                "addr:city": "San Francisco",
+                "addr:housenumber": "678",
+                "addr:street": "Mission Street",
+                "name": "California Historical Society Museum & Bookstore",
+                "source": "survey",
+                "tourism": "museum",
+                "website": "https://californiahistoricalsociety.org/",
+                "wikidata": "Q14053"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/91/California_Historical_Society_logo_%28transparent%29.png",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 415567060,
+            "lat": 37.7864689,
+            "lon": -122.4014732,
+            "tags": {
+                "addr:city": "San Francisco",
+                "addr:housenumber": "685",
+                "addr:street": "Mission Street",
+                "check_date": "2023-04-30",
+                "name": "Museum of the African Diaspora",
+                "opening_hours": "We-Sa 11:00-18:00; Su 12:00-17:00",
+                "source": "survey",
+                "tourism": "museum",
+                "website": "https://www.moadsf.org/",
+                "wheelchair": "yes",
+                "wikidata": "Q6941067"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/MoAD_Members_Outside.jpg/1280px-MoAD_Members_Outside.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 417275631,
+            "lat": 37.8074682,
+            "lon": -122.42618,
+            "tags": {
+                "landuse": "recreation_ground",
+                "name": "San Francisco Sea Scout Base",
+                "tourism": "museum",
+                "website": "https://sites.google.com/view/sf-seascouts/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Pumping_Station_No._2_%28San_Francisco%29.JPG/1280px-Pumping_Station_No._2_%28San_Francisco%29.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 621529017,
+            "lat": 37.800906,
+            "lon": -122.398523,
+            "tags": {
+                "addr:city": "San Francisco",
+                "atm": "yes",
+                "fee": "yes",
+                "internet_access": "wlan",
+                "name": "Exploratorium",
+                "opening_hours": "Tu-Su 10:00-17:00; Jun 19 - Sep 4 Mo-Su 10:00-17:00, Fr 10:00-21:00",
+                "start_date": "2013-04-12",
+                "tourism": "museum",
+                "website": "https://www.exploratorium.edu/",
+                "wheelchair": "yes",
+                "wikidata": "Q206518",
+                "wikimedia_commons": "File:Main Entrance to the Exploratorium at Pier 15.jpg",
+                "wikipedia": "en:Exploratorium"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/32/Main_Entrance_to_the_Exploratorium_at_Pier_15.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 703340011,
+            "lat": 4.5752797,
+            "lon": -74.2938047,
+            "tags": {
+                "height": "150",
+                "name": "Salto de Tequendama",
+                "tourism": "attraction",
+                "waterway": "waterfall",
+                "wikidata": "Q490295",
+                "wikipedia": "es:Salto del Tequendama"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Salto_de_Tequendama_1.jpeg/1280px-Salto_de_Tequendama_1.jpeg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 806240639,
+            "lat": 37.7938567,
+            "lon": -122.4088198,
+            "tags": {
+                "addr:city": "San Francisco",
+                "addr:housenumber": "965",
+                "addr:postcode": "94108",
+                "addr:state": "CA",
+                "addr:street": "Clay Street",
+                "check_date:opening_hours": "2023-02-24",
+                "fee": "yes",
+                "name": "Chinese Historical Society of America",
+                "opening_hours": "We-Su 11:00-16:00; Jan 1 off, Jun 19 off, Jul 4 off, Nov Th[4] off, Dec 24-25 off",
+                "phone": "+1-415-391-1188",
+                "tourism": "museum",
+                "website": "https://www.chsa.org/",
+                "wheelchair": "yes"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Chinatown_YWCA_%288467462746%29.jpg/1280px-Chinatown_YWCA_%288467462746%29.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 822484002,
+            "lat": 37.7762241,
+            "lon": -122.4327862,
+            "tags": {
+                "addr:city": "San Francisco",
+                "addr:postcode": "94117",
+                "addr:state": "CA",
+                "addr:street": "Steiner Street",
+                "name": "Painted Ladies",
+                "name:en": "Painted Ladies",
+                "tourism": "attraction",
+                "wikidata": "Q1418042",
+                "wikimedia_commons": "Category:Painted Ladies",
+                "wikipedia": "en:Painted ladies"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Painted_Ladies_San_Francisco_January_2013_panorama_2.jpg/1280px-Painted_Ladies_San_Francisco_January_2013_panorama_2.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 1183479599,
+            "lat": 37.816293,
+            "lon": -122.371733,
+            "tags": {
+                "ele": "8",
+                "name": "Treasure Island Naval Station",
+                "source": "collected by Volker Bartheld, converted and imported by malenki",
+                "tourism": "attraction",
+                "wikidata": "Q4683413"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Treasure_Island_Ferry_Terminal_-_2025_%282%29.jpg/1280px-Treasure_Island_Ferry_Terminal_-_2025_%282%29.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 1206800348,
+            "lat": 37.8100167,
+            "lon": -122.417676,
+            "tags": {
+                "name": "Pier 45",
+                "tourism": "attraction",
+                "wikidata": "Q66080037"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/39/Pampanito_%28submarine%2C_San_Francisco%29.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 1271589752,
+            "lat": 0.3543683,
+            "lon": -78.1324468,
+            "tags": {
+                "man_made": "tower",
+                "name": "Estación de Servicio 28 de Septiembre",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Imbabura_des_del_sud.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 1280720837,
+            "lat": 0.3616564,
+            "lon": -78.1195195,
+            "tags": {
+                "man_made": "tower",
+                "name": "Sede Coop. 28 de Septiembre",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/62/En_ibarra.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 1308317902,
+            "lat": 37.795699,
+            "lon": -122.407349,
+            "tags": {
+                "description": "Includes gift shop of mainly fortune cookie themed ",
+                "name": "Golden Gate Fortune Cookie Factory",
+                "tourism": "attraction",
+                "wikidata": "Q5579450"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/San_Francisco_Chinatown_%2815794436155%29.jpg/1280px-San_Francisco_Chinatown_%2815794436155%29.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 1352951648,
+            "lat": 0.3488082,
+            "lon": -78.1265278,
+            "tags": {
+                "name": "WorldTires",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1417635914,
+            "lat": 37.8106359,
+            "lon": -122.41158,
+            "tags": {
+                "name": "Pier 39 Sea Lions",
+                "species:wikidata": "Q379732",
+                "species:wikipedia": "en:California sea lion",
+                "tourism": "attraction",
+                "website": "https://www.pier39.com/sealions/",
+                "wikidata": "Q121818212",
+                "wikimedia_commons": "Category:Zalophus californianus at Pier 39",
+                "wikipedia": "en:Pier 39#Sea lions"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Pier_39_in_2021.jpg/1280px-Pier_39_in_2021.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 2321383070,
+            "lat": 37.7607664,
+            "lon": -122.435607,
+            "tags": {
+                "addr:city": "San Francisco",
+                "addr:housenumber": "4127",
+                "addr:postcode": "94114",
+                "addr:state": "CA",
+                "addr:street": "18th Street",
+                "alt_name": "GLBT Historical Society Museum",
+                "contact:facebook": "https://www.facebook.com/GLBTHistory",
+                "contact:instagram": "https://www.instagram.com/glbt_history/",
+                "contact:youtube": "https://www.youtube.com/channel/UCSWIzqg8UT0k1mJRuZA1kwQ",
+                "email": "info@glbthistory.org",
+                "lgbtq": "primary",
+                "museum": "history",
+                "name": "GLBT History Museum",
+                "opening_hours": "11:00-18:00; Su 12:00-17:00; Tu closed",
+                "phone": "+1-415-621-1107",
+                "tourism": "museum",
+                "website": "https://www.glbthistory.org/museum/",
+                "wikidata": "Q5513611",
+                "wikimedia_commons": "Category:GLBT Historical Society",
+                "wikipedia": "en:GLBT Historical Society"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Badlands_bar%2C_San_Francisco%2C_October_2023.jpg/1280px-Badlands_bar%2C_San_Francisco%2C_October_2023.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 2365845678,
+            "lat": 37.8101138,
+            "lon": -122.4103257,
+            "tags": {
+                "attraction": "maze",
+                "check_date": "2023-12-16",
+                "fee": "yes",
+                "level": "1",
+                "name": "Magowan's Infinite Mirror Maze",
+                "tourism": "attraction",
+                "website": "https://www.magowansinfinitemirrormaze.com/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Magowan%27s_Infinite_Mirror_Maze_sign.jpg/1280px-Magowan%27s_Infinite_Mirror_Maze_sign.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 2579643653,
+            "lat": 37.7950734,
+            "lon": -122.4062668,
+            "tags": {
+                "name": "Bank of Canton (former Chinese Telephone Exchange)",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/New_Sam_Wo_location_on_Clay_St.jpg/1280px-New_Sam_Wo_location_on_Clay_St.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 3594535312,
+            "lat": -31.4228316,
+            "lon": -62.1107828,
+            "tags": {
+                "addr:city": "San Francisco",
+                "addr:country": "AR",
+                "addr:housenumber": "271",
+                "addr:postcode": "2400",
+                "addr:street": "Avenida de la Universidad",
+                "name": "Archivo y Museo Gráfico.",
+                "start_date": "1996",
+                "tourism": "museum"
+            }
+        },
+        {
+            "type": "node",
+            "id": 3690164348,
+            "lat": 37.8100175,
+            "lon": -122.410352,
+            "tags": {
+                "artist_name": "Remo Saraceni",
+                "fee": "no",
+                "name": "Musical Stairs",
+                "opening_hours": "24/7",
+                "tourism": "attraction",
+                "wheelchair": "no"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Pier_39_in_2021.jpg/1280px-Pier_39_in_2021.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 3859909729,
+            "lat": 37.7332281,
+            "lon": -122.500254,
+            "tags": {
+                "attraction": "miniature_train",
+                "name": "Little Puffer Steam Train Depot",
+                "name:es": "Estación del Tren Little Puffer",
+                "tourism": "attraction",
+                "usage": "tourism"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/33/San_Francisco_Zoo_logo.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 4022645781,
+            "lat": 37.8069681,
+            "lon": -122.4314174,
+            "tags": {
+                "addr:city": "San Francisco",
+                "addr:country": "US",
+                "addr:housenumber": "2",
+                "addr:postcode": "94123",
+                "addr:state": "CA",
+                "addr:street": "Marina Boulevard",
+                "addr:unit": "Building C",
+                "check_date:opening_hours": "2024-10-11",
+                "fee": "yes",
+                "fee:conditional": "no @ Th; no @ age < 18",
+                "name": "Museo Italo Americano",
+                "opening_hours": "Tu-Sa 12:00-16:00; Su 10:00-14:00",
+                "tourism": "museum",
+                "website": "https://museoitaloamericano.org/",
+                "wikidata": "Q11073602"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Rinaldo_Cuneo%2C_California_Hills_With_White_Boat.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 4057348983,
+            "lat": 37.7569273,
+            "lon": -122.387959,
+            "tags": {
+                "name": "Museum of Craft and Design",
+                "tourism": "museum",
+                "website": "https://sfmcd.org/",
+                "wikidata": "Q55464119"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Northbound_train_at_23rd_Street_station%2C_July_2017.JPG/1280px-Northbound_train_at_23rd_Street_station%2C_July_2017.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 4102531231,
+            "lat": -31.4312404,
+            "lon": -62.084359,
+            "tags": {
+                "addr:city": "San Francisco",
+                "addr:country": "AR",
+                "addr:postcode": "2400",
+                "addr:street": "Boulevard 9 de Julio",
+                "email": "archivograficoymuseo@yahoo.com.ar",
+                "fee": "yes",
+                "name": "Archivo Grafico y Museo Histórico",
+                "phone": "+54 3564 43-9172",
+                "tourism": "museum"
+            }
+        },
+        {
+            "type": "node",
+            "id": 4242437689,
+            "lat": 37.7920515,
+            "lon": -122.4091846,
+            "tags": {
+                "name": "California and Powell streets",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b3/University_Club%2C_San_Francisco.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 4265263191,
+            "lat": 37.7139428,
+            "lon": -122.4254366,
+            "tags": {
+                "name": "Lover's Rock",
+                "natural": "rock",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 4265327027,
+            "lat": 37.7199499,
+            "lon": -122.4203951,
+            "tags": {
+                "name": "Philosopher's Hill and Labyrinth",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Visitacion_Valley_%26_Philosopher%27s_Way%2C_San_Francisco.jpg/1280px-Visitacion_Valley_%26_Philosopher%27s_Way%2C_San_Francisco.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 4265327055,
+            "lat": 37.7243208,
+            "lon": -122.4208026,
+            "tags": {
+                "name": "Gambier Plaza",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 4265327212,
+            "lat": 37.7213634,
+            "lon": -122.4146322,
+            "tags": {
+                "name": "Hidden Bridge",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Jerry_Garcia_Amphitheatre_%28April_2021%29_-3.jpg/1280px-Jerry_Garcia_Amphitheatre_%28April_2021%29_-3.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 4265327213,
+            "lat": 37.721099,
+            "lon": -122.415104,
+            "tags": {
+                "name": "Hidden Bridge",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Jerry_Garcia_Amphitheatre_%28April_2021%29_-3.jpg/1280px-Jerry_Garcia_Amphitheatre_%28April_2021%29_-3.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 4265327214,
+            "lat": 37.7216596,
+            "lon": -122.4152143,
+            "tags": {
+                "name": "Hidden Bridge",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Jerry_Garcia_Amphitheatre_%28April_2021%29_-3.jpg/1280px-Jerry_Garcia_Amphitheatre_%28April_2021%29_-3.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 4359145394,
+            "lat": 37.7699366,
+            "lon": -122.4467696,
+            "tags": {
+                "addr:housenumber": "1485",
+                "addr:street": "Haight Street",
+                "check_date": "2026-04-12",
+                "fee": "yes",
+                "level": "0",
+                "museum": "local_history",
+                "name": "Counterculture Museum",
+                "opening_hours": "Mo-Tu off; We-Su 11:00-18:00",
+                "operator:type": "private_non_profit",
+                "tourism": "museum",
+                "website": "https://counterculturemuseum.org",
+                "wheelchair": "yes"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/SF_Haight_Ashbury_2_CA.jpg/1280px-SF_Haight_Ashbury_2_CA.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 4505841291,
+            "lat": 10.6460979,
+            "lon": 124.38305,
+            "tags": {
+                "name": "Baywalk strip",
+                "name:en": "Baywalk strip",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 4548821893,
+            "lat": 37.7514234,
+            "lon": -122.4178111,
+            "tags": {
+                "addr:street": "Lilac Street",
+                "name": "The Lilac Mural Project",
+                "opening_hours": "24/7",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 4613845060,
+            "lat": 37.8088929,
+            "lon": -122.4113668,
+            "tags": {
+                "name": "Bay Cruise Line",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Pier_41%2C_San_Francisco.JPG/1280px-Pier_41%2C_San_Francisco.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 4625172114,
+            "lat": 37.8087621,
+            "lon": -122.4100559,
+            "tags": {
+                "name": "Whale Tours",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Muni_1893_at_Pier_39%2C_June_2017.JPG/1280px-Muni_1893_at_Pier_39%2C_June_2017.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 4659836677,
+            "lat": 37.8049318,
+            "lon": -122.468617,
+            "tags": {
+                "addr:city": "San Francisco",
+                "addr:housenumber": "926",
+                "addr:postcode": "94129",
+                "addr:state": "CA",
+                "addr:street": "Mason Street",
+                "name": "House of Air",
+                "opening_hours": "Su-Mo 10:00-20:00; Tu-Th 14:00-21:00; Fr-Sa 10:00-22:00",
+                "phone": "+1-415-345-9675",
+                "tourism": "theme_park",
+                "website": "https://www.houseofair.com/",
+                "wikidata": "Q5914641"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/San_Francisco_%282018%29_-_132.jpg/1280px-San_Francisco_%282018%29_-_132.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 4773733656,
+            "lat": 37.770058,
+            "lon": -122.4474656,
+            "tags": {
+                "name": "Jimmy Hendrix house",
+                "name:en": "Jimmy Hendrix house",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/SF_Haight_Ashbury_2_CA.jpg/1280px-SF_Haight_Ashbury_2_CA.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 4972243722,
+            "lat": 37.8021196,
+            "lon": -122.418716,
+            "tags": {
+                "addr:street": "Lombard Street",
+                "name": "Lombard Street",
+                "opening_hours": "24/7",
+                "tourism": "attraction",
+                "wikidata": "Q930276",
+                "wikimedia_commons": "Category:Lombard Street (San Francisco)",
+                "wikipedia": "en:Lombard Street (San Francisco)"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Russian_Hill%2C_San_Francisco%2C_CA.JPG/1280px-Russian_Hill%2C_San_Francisco%2C_CA.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 5038430321,
+            "lat": 37.8063768,
+            "lon": -122.4217874,
+            "tags": {
+                "addr:country": "US",
+                "addr:housenumber": "781",
+                "addr:postcode": "94109",
+                "addr:state": "CA",
+                "addr:street": "Beach Street",
+                "check_date:opening_hours": "2024-10-11",
+                "fee": "yes",
+                "fee:conditional": "no @ age < 6",
+                "name": "Cartoon Art Museum",
+                "opening_hours": "Mo-Tu, Th-Su 11:00-17:00; Jan 01 off; Jul 04 off; Nov Th[4] off; Dec 25 off",
+                "tourism": "museum",
+                "website": "https://www.cartoonart.org/",
+                "wheelchair": "yes",
+                "wikidata": "Q1045990"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Buena_Vista_Cafe%2C_exterior%2C_San_Francisco_%28May_2025%29_03.jpg/1280px-Buena_Vista_Cafe%2C_exterior%2C_San_Francisco_%28May_2025%29_03.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 5128563699,
+            "lat": 37.759331,
+            "lon": -122.4114628,
+            "tags": {
+                "addr:housenumber": "3030",
+                "addr:street": "20th Street",
+                "check_date": "2023-02-14",
+                "museum": "art",
+                "name": "Southern Exposure",
+                "operator:type": "private",
+                "phone": "+1 415-863-2141",
+                "tourism": "museum",
+                "website": "https://www.soex.org/",
+                "wheelchair": "yes",
+                "wikidata": "Q14684020",
+                "wikipedia": "en:Southern Exposure (art space)"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/San_Ho_Won_Facade_1.jpg/1280px-San_Ho_Won_Facade_1.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 5134506932,
+            "lat": 37.7814568,
+            "lon": -122.4107385,
+            "tags": {
+                "addr:city": "San Francisco",
+                "addr:housenumber": "1025",
+                "addr:postcode": "94103",
+                "addr:state": "CA",
+                "addr:street": "Market Street",
+                "email": "info@internationalartmuseum.org",
+                "name": "International Art Museum of America",
+                "phone": "+1 415-376-6344",
+                "tourism": "museum",
+                "website": "https://www.iamasf.org/",
+                "wikidata": "Q18325665",
+                "wikipedia": "en:International Art Museum of America"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/International_Art_Museum_of_America_building.jpg/1280px-International_Art_Museum_of_America_building.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 5134621034,
+            "lat": 37.783915,
+            "lon": -122.4141209,
+            "tags": {
+                "addr:city": "San Francisco",
+                "addr:housenumber": "398",
+                "addr:postcode": "94102",
+                "addr:state": "CA",
+                "addr:street": "Eddy Street",
+                "email": "info@tenderloinmuseum.org",
+                "name": "Tenderloin Museum",
+                "phone": "+1 415-351-1912",
+                "tourism": "museum",
+                "website": "http://www.tenderloinmuseum.org/"
+            }
+        },
+        {
+            "type": "node",
+            "id": 5328929821,
+            "lat": 10.6511224,
+            "lon": 124.312541,
+            "tags": {
+                "access": "customers",
+                "fee": "yes",
+                "name": "Paraiso cave",
+                "natural": "cave_entrance",
+                "note": "quite stiff entrance fee for a small cave",
+                "toilets": "yes",
+                "tourism": "attraction",
+                "website": "https://www.facebook.com/Paraiso.Cave/"
+            }
+        },
+        {
+            "type": "node",
+            "id": 5512004200,
+            "lat": 0.351014,
+            "lon": -78.118811,
+            "tags": {
+                "name": "Museo del Antiguo Cuartel",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Ecuador_-_Diocesi_di_Ibarra.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 5581588797,
+            "lat": 37.7980642,
+            "lon": -122.4061837,
+            "tags": {
+                "addr:city": "San Francisco",
+                "addr:housenumber": "540",
+                "addr:postcode": "94133",
+                "addr:street": "Broadway",
+                "name": "The Beat Museum",
+                "opening_hours": "Mo-Su 10:00-19:00; Tu off; We off",
+                "tourism": "museum",
+                "website": "https://www.kerouac.com/",
+                "wikidata": "Q43080164"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Beat_Museum_front_2.JPG/1280px-Beat_Museum_front_2.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 5794706153,
+            "lat": 37.7592007,
+            "lon": -122.4346932,
+            "tags": {
+                "name": "Pride Barbie Doll Display in private windows",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Castro_camera_exterior.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 5884541139,
+            "lat": 37.7373339,
+            "lon": -122.4097114,
+            "tags": {
+                "addr:street": "Bradford Street",
+                "name": "Bradford Street",
+                "note": "World's Steepest Street",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Alemany_Maze_%28seen_from_Bernal_Heights%2C_March_2019%29_-1.jpg/1280px-Alemany_Maze_%28seen_from_Bernal_Heights%2C_March_2019%29_-1.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 5891843288,
+            "lat": 37.7902007,
+            "lon": -122.3966321,
+            "tags": {
+                "addr:city": "San Francisco",
+                "addr:housenumber": "425",
+                "addr:postcode": "94105",
+                "addr:state": "CA",
+                "addr:street": "Mission Street",
+                "fee": "no",
+                "name": "Salesforce Park Cable Car",
+                "tourism": "attraction",
+                "wheelchair": "yes"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Salesforce_Tower_from_Salesforce_Park.jpg/1280px-Salesforce_Tower_from_Salesforce_Park.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 6693646147,
+            "lat": 37.7857378,
+            "lon": -122.4294507,
+            "tags": {
+                "addr:city": "San Francisco",
+                "addr:housenumber": "1684",
+                "addr:postcode": "94115",
+                "addr:state": "CA",
+                "addr:street": "Post Street",
+                "check_date": "2025-08-26",
+                "fee": "no",
+                "level": "1",
+                "museum": "history",
+                "name": "Japantown Peace Gallery",
+                "opening_hours": "Mo-Fr 12:00-17:00",
+                "operator": "National Japanese American Historical Society",
+                "operator:type": "private_non_profit",
+                "phone": "+1-415-921-5007",
+                "tourism": "museum",
+                "website": "https://www.njahs.org/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/1712_Fillmore_Street%2C_San_Francisco.jpg/1280px-1712_Fillmore_Street%2C_San_Francisco.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 6793409202,
+            "lat": 5.8828904,
+            "lon": -74.8525963,
+            "tags": {
+                "name": "Boca Caimán",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 6793409203,
+            "lat": 5.8858981,
+            "lon": -74.8537953,
+            "tags": {
+                "name": "Puerta Paraíso",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 6960980687,
+            "lat": 37.793272,
+            "lon": -122.4063714,
+            "tags": {
+                "addr:city": "San Francisco",
+                "addr:housenumber": "809",
+                "addr:postcode": "94108",
+                "addr:state": "CA",
+                "addr:street": "Sacramento Street",
+                "name": "WWII Pacific War Memorial Hall",
+                "name:zh": "海外抗日戰爭紀念館",
+                "opening_hours": "Th-Su 10:00-16:00; Mo-We off",
+                "tourism": "museum",
+                "wikidata": "Q80382835"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Asian_week_cover.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 6964627886,
+            "lat": 37.7763434,
+            "lon": -122.4347662,
+            "tags": {
+                "addr:postcode": "94117",
+                "addr:street": "Western Addition",
+                "name": "Alamo Square Park",
+                "opening_hours": "Mo-Su 05:00-12:00",
+                "phone": "+1 415 218-0259",
+                "tourism": "attraction",
+                "website": "https://sfrecpark.org/",
+                "wikidata": "Q118533801"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Alamo_Square_with_Painted_Ladies%2C_SF%2C_CA%2C_jjron_26.03.2012.jpg/1280px-Alamo_Square_with_Painted_Ladies%2C_SF%2C_CA%2C_jjron_26.03.2012.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 7005442296,
+            "lat": 37.7677347,
+            "lon": -122.4501479,
+            "tags": {
+                "name": "Matter of Trust Eco-Home",
+                "opening_hours": "\"by appointment\"",
+                "reservation": "required",
+                "tourism": "attraction",
+                "website": "https://matteroftrust.org/eco-home-and-edible-garden/"
+            }
+        },
+        {
+            "type": "node",
+            "id": 7018362585,
+            "lat": 4.9286833,
+            "lon": -74.2585266,
+            "tags": {
+                "name": "aguas calientes",
+                "name:es": "aguas calientes termal",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 7045575485,
+            "lat": 37.8075021,
+            "lon": -122.420543,
+            "tags": {
+                "addr:city": "San Francisco",
+                "addr:housenumber": "499",
+                "addr:state": "CA",
+                "addr:street": "Jefferson Street",
+                "alt_name": "San Francisco Maritime National Historic Park Visitor Center;National Park Visitor Center",
+                "check_date": "2023-12-16",
+                "fee": "no",
+                "name": "San Francisco Maritime Visitor Center",
+                "opening_hours": "Fr-Su 10:00-17:00",
+                "opening_hours:url": "https://www.nps.gov/safr/planyourvisit/the-visitor-center.htm",
+                "tourism": "museum",
+                "website": "https://www.nps.gov/safr/planyourvisit/the-visitor-center.htm",
+                "wikidata": "Q108325087"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/South_end_facade.jpg/1280px-South_end_facade.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 7212382894,
+            "lat": 37.8070414,
+            "lon": -122.4212372,
+            "tags": {
+                "name": "Cable Car Turntable (Hyde & Beach)",
+                "operator": "San Francisco Municipal Railway",
+                "owner": "San Francisco Municipal Railway",
+                "tourism": "attraction",
+                "wheelchair": "no",
+                "wikimedia_commons": "Category:Friedel Klussmann Memorial Turnaround"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Buena_Vista_Cafe%2C_exterior%2C_San_Francisco_%28May_2025%29_03.jpg/1280px-Buena_Vista_Cafe%2C_exterior%2C_San_Francisco_%28May_2025%29_03.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 7212382895,
+            "lat": 37.8052318,
+            "lon": -122.4152364,
+            "tags": {
+                "name": "Cable Car Turntable (Taylor & Bay)",
+                "operator": "San Francisco Municipal Railway",
+                "owner": "San Francisco Municipal Railway",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Bimbo%27s_Marquee.jpg/1280px-Bimbo%27s_Marquee.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 8530208117,
+            "lat": 9.9398977,
+            "lon": -84.0729072,
+            "tags": {
+                "name": "Spirogyra Butterfly Garden",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 8641952045,
+            "lat": 37.7847109,
+            "lon": -122.4076986,
+            "tags": {
+                "level": "0",
+                "name": "Cable Car Turntable (Powell & Market)",
+                "operator": "San Francisco Municipal Railway",
+                "owner": "San Francisco Municipal Railway",
+                "tourism": "attraction",
+                "wheelchair": "no"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Flood_Building_2017.jpg/1280px-Flood_Building_2017.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 8973091799,
+            "lat": 37.7598247,
+            "lon": -122.388244,
+            "tags": {
+                "addr:housenumber": "2325",
+                "addr:street": "3rd Street",
+                "addr:unit": "4R",
+                "contact:mastodon": "@ letterformarchive@typo.social",
+                "email": "visit@letterformarchive.org",
+                "museum": "art",
+                "name": "Letterform Archive",
+                "opening_hours": "Th 13:00-20:00; Fr-Su 11:00-18:00",
+                "phone": "+1 415-802-7485",
+                "source": "https://letterformarchive.org/",
+                "tourism": "museum",
+                "website": "https://letterformarchive.org/",
+                "wikidata": "Q41168759",
+                "wikipedia": "en:Letterform Archive"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9015614480,
+            "lat": 4.9639595,
+            "lon": -74.2876646,
+            "tags": {
+                "name": "Museo de la llanta y chatarra",
+                "tourism": "museum"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9341538483,
+            "lat": 37.8059144,
+            "lon": -122.42333,
+            "tags": {
+                "addr:city": "San Francisco",
+                "addr:housenumber": "891",
+                "addr:postcode": "94109",
+                "addr:state": "CA",
+                "addr:street": "Beach Street",
+                "amenity": "chocolate;dessert;ice_cream",
+                "check_date": "2023-10-10",
+                "cuisine": "chocolate;dessert;ice_cream",
+                "name": "Ghirardelli Chocolate Experience",
+                "opening_hours": "Mo-Th,Su 09:00-22:00; Fr-Sa 09:00-23:00",
+                "shop": "chocolate;ice_cream",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Ghirardelli_Square_Fountain%2C_SF%2C_CA%2C_jjron_25.03.2012.jpg/1280px-Ghirardelli_Square_Fountain%2C_SF%2C_CA%2C_jjron_25.03.2012.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 10181551683,
+            "lat": 39.4687605,
+            "lon": -6.3662405,
+            "tags": {
+                "name": "Letras Cáceres",
+                "tourism": "attraction",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10991177405,
+            "lat": 37.8084086,
+            "lon": -122.4132113,
+            "tags": {
+                "addr:housenumber": "55-61",
+                "addr:postcode": "94133",
+                "addr:street": "Jefferson Street",
+                "check_date": "2023-12-16",
+                "museum": "art",
+                "name": "Museum of 3D Illusions",
+                "tourism": "museum",
+                "website": "https://sfillusions.com/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Muni_1076_at_Jefferson_and_Powell_%281%29%2C_March_2026.jpg/1280px-Muni_1076_at_Jefferson_and_Powell_%281%29%2C_March_2026.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 11283438662,
+            "lat": 37.8081325,
+            "lon": -122.4165913,
+            "tags": {
+                "name": "Fisherman's Wharf",
+                "name:ko": "피셔맨스 워프",
+                "place": "neighbourhood",
+                "tourism": "attraction",
+                "website": "https://fishermanswharf.org/",
+                "wikidata": "Q1324280",
+                "wikimedia_commons": "Category:Fisherman's Wharf, San Francisco",
+                "wikipedia": "en:Fisherman's Wharf, San Francisco"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Fishermans_Wharf_Sign%2C_SF%2C_CA%2C_jjron_25.03.2012.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 11296123169,
+            "lat": 0.6655216,
+            "lon": -80.0938477,
+            "tags": {
+                "name": "Playa de Tongorachi",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11423890620,
+            "lat": 37.8063156,
+            "lon": -122.4211915,
+            "tags": {
+                "name": "Umbrella Alley",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Buena_Vista_Cafe%2C_exterior%2C_San_Francisco_%28May_2025%29_03.jpg/1280px-Buena_Vista_Cafe%2C_exterior%2C_San_Francisco_%28May_2025%29_03.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 11423890645,
+            "lat": 37.8087297,
+            "lon": -122.413413,
+            "tags": {
+                "addr:housenumber": "2860",
+                "addr:postcode": "94111",
+                "addr:street": "Taylor Street",
+                "attraction": "big_wheel",
+                "capacity": "215",
+                "charge": "19 USD/person",
+                "check_date": "2025-05-17",
+                "contact:facebook": "skystarwheel",
+                "contact:instagram": "skystarwheel",
+                "description:en": "The SkyStar Wheel is a Ferris wheel located at Fisherman’s Wharf, offering views of San Francisco, the Bay, and nearby landmarks. The ride lasts approximately 12 minutes and is a popular attraction for tourists.",
+                "diameter": "41.8",
+                "duration": "12 minutes",
+                "fee": "yes",
+                "height": "45.7",
+                "name": "Skystar Wheel - Fisherman’s Wharf",
+                "note:charge": "19 USD/person for general admission;50 USD/person for VIP, and kids/senior discount available.",
+                "note:start_date": "an Francisco's Fisherman's Wharf since November 13, 2023. It has previously operated in San Francisco's Music Concourse (2020–2023), Cincinnati's The Banks (2018–2020), Louisville's Waterfront Park (2018), and Norfolk (2018). via https://en.wikipedia.org/",
+                "opening_hours": "Mo-Su 10:00-22:00",
+                "phone": "+1-833-269-7827",
+                "start_date": "2023-11-13",
+                "tourism": "theme_park",
+                "website": "https://skystarwheel.com",
+                "wikidata": "Q124367032",
+                "wikimedia_commons": "Category:SkyStar_Wheel",
+                "wikipedia": "en:SkyStar Wheel"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Muni_1076_at_Jefferson_and_Powell_%281%29%2C_March_2026.jpg/1280px-Muni_1076_at_Jefferson_and_Powell_%281%29%2C_March_2026.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 11590449585,
+            "lat": 37.7679085,
+            "lon": -122.38891,
+            "tags": {
+                "addr:housenumber": "1699",
+                "addr:postcode": "94158",
+                "addr:street": "3rd Street",
+                "check_date": "2024-02-05",
+                "name": "Misalignment Museum",
+                "opening_hours": "Th-Fr 16:00-20:00; Sa-Su 14:00-17:00",
+                "tourism": "museum",
+                "website": "https://misalignmentmuseum.com/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Northbound_train_at_UCSF_Chase_Center_station%2C_August_2019.JPG/1280px-Northbound_train_at_UCSF_Chase_Center_station%2C_August_2019.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 12688179001,
+            "lat": 10.6174626,
+            "lon": 124.2834478,
+            "tags": {
+                "name": "Mangodlong Beach",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 12688230701,
+            "lat": 10.6697562,
+            "lon": 124.3126067,
+            "tags": {
+                "name": "Heaven Cave",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 12863137601,
+            "lat": 37.7623224,
+            "lon": -122.4355509,
+            "tags": {
+                "addr:housenumber": "400",
+                "addr:street": "Castro Street",
+                "name": "Gilbert Baker Memorial Rainbow Flag",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Harvey_Milk_Plaza%2C_February_2025.jpg/1280px-Harvey_Milk_Plaza%2C_February_2025.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 13055475264,
+            "lat": 37.7845069,
+            "lon": -122.4077397,
+            "tags": {
+                "information": "guidepost",
+                "name": "Sister Cities of San Francisco",
+                "operator": "San Francisco Municipal Transportation Agency",
+                "operator:wikidata": "Q7414072",
+                "start_date": "2018",
+                "tourism": "attraction;information"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Hallidie_Plaza_facing_east%2C_January_2020.JPG/1280px-Hallidie_Plaza_facing_east%2C_January_2020.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 13109439483,
+            "lat": 37.7918896,
+            "lon": -122.4207653,
+            "tags": {
+                "name": "Antique Vibrator Museum",
+                "tourism": "museum",
+                "website": "https://www.goodvibes.com/content/c/antique-vibrators"
+            }
+        },
+        {
+            "type": "node",
+            "id": 13289891501,
+            "lat": 37.7327027,
+            "lon": -122.4684495,
+            "tags": {
+                "addr:housenumber": "225",
+                "addr:street": "San Leandro Way",
+                "contact:facebook": "gregangelomuseum",
+                "contact:instagram": "gregangelomuseum",
+                "email": "velocitysf@gregangelo.com",
+                "name": "Gregangelo Museum",
+                "phone": "+1-415-664-0095",
+                "tourism": "attraction",
+                "website": "https://gregangelomuseum.com"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Gregangelo_Museum.tif/lossy-page1-1280px-Gregangelo_Museum.tif.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 13578482530,
+            "lat": 37.7614854,
+            "lon": -122.5100953,
+            "tags": {
+                "access": "yes",
+                "check_date": "2026-02-18",
+                "covered": "no",
+                "exhibit": "artwork",
+                "fee": "no",
+                "indoor": "no",
+                "level": "0",
+                "lit": "no",
+                "name": "Sunset Dunes Art Exhibition",
+                "name:en": "Sunset Dunes Art Exhibition",
+                "outdoor": "yes",
+                "tourism": "attraction",
+                "website": "https://sunsetdunes.org/art"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/N_Judah_train_at_La_Playa_loop%2C_September_2019.JPG/1280px-N_Judah_train_at_La_Playa_loop%2C_September_2019.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 13651006210,
+            "lat": 37.7975489,
+            "lon": -122.3955776,
+            "tags": {
+                "access": "yes",
+                "covered": "yes",
+                "description": "Photographs and drawings of the renovation of Piers 1 1/2, 3, and 5 in the 2000s.",
+                "exhibit": "history",
+                "fee": "no",
+                "indoor": "no",
+                "name": "Bayside History Walk",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Muni_1009_at_Washington_and_The_Embarcadero%2C_March_2019.JPG/1280px-Muni_1009_at_Washington_and_The_Embarcadero%2C_March_2019.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 8916752,
+            "lat": 37.7629851,
+            "lon": -122.4206648,
+            "tags": {
+                "highway": "service",
+                "lanes": "1",
+                "lit": "yes",
+                "name": "Clarion Alley",
+                "oneway": "yes",
+                "service": "alley",
+                "sidewalk": "no",
+                "surface": "asphalt",
+                "tiger:cfcc": "A41",
+                "tiger:county": "San Francisco, CA",
+                "tiger:name_base": "Clarion",
+                "tiger:name_type": "Aly",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "way",
+            "id": 24222973,
+            "lat": 37.7951663,
+            "lon": -122.4027858,
+            "tags": {
+                "addr:city": "San Francisco",
+                "addr:country": "US",
+                "addr:housenumber": "600",
+                "addr:postcode": "94111",
+                "addr:state": "CA",
+                "addr:street": "Montgomery Street",
+                "building": "yes",
+                "building:levels": "48",
+                "ele": "5",
+                "gnis:feature_id": "1655569",
+                "height": "260",
+                "name": "Transamerica Pyramid",
+                "name:da": "Transamerica-pyramiden",
+                "name:en": "Transamerica Pyramid",
+                "name:ko": "트랜스아메리카 피라미드",
+                "name:sv": "Transamerica-pyramiden",
+                "opening_hours": "Mo-Sa 11:00-17:00; Su 12:00-18:00",
+                "roof:height": "260 m",
+                "roof:shape": "pyramidal",
+                "source": "USGS Geonames",
+                "start_date": "1972",
+                "tourism": "attraction",
+                "website": "https://transamericapyramid.com",
+                "wheelchair": "yes",
+                "wikidata": "Q216865",
+                "wikipedia": "en:Transamerica Pyramid"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Transamerica_Pyramid_from_Coit_Tower.jpg/1280px-Transamerica_Pyramid_from_Coit_Tower.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 24563073,
+            "lat": 37.7855957,
+            "lon": -122.4021006,
+            "tags": {
+                "building": "yes",
+                "height": "28 m",
+                "name": "Yerba Buena Center for the Arts Gallery",
+                "tourism": "museum",
+                "website": "https://www.ybca.org/",
+                "wikidata": "Q1884883"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/94/YBCA_logo_circa_2020.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 24588037,
+            "lat": 37.7802455,
+            "lon": -122.4159975,
+            "tags": {
+                "addr:city": "San Francisco",
+                "addr:country": "US",
+                "addr:housenumber": "200",
+                "addr:postcode": "94102",
+                "addr:state": "CA",
+                "addr:street": "Larkin Street",
+                "building": "yes",
+                "building:levels": "3",
+                "check_date": "2026-02-23",
+                "contact:website": "http://www.asianart.org",
+                "fee": "yes",
+                "height": "46",
+                "name": "Asian Art Museum of San Francisco",
+                "name:en": "Asian Art Museum of San Francisco",
+                "note": "Formerly the Public Library",
+                "opening_hours": "Th 13:00-20:00; Fr-Mo 10:00-17:00",
+                "phone": "+1-415-581-3500",
+                "tourism": "museum",
+                "wheelchair": "yes",
+                "wikidata": "Q727277",
+                "wikipedia": "en:Asian Art Museum (San Francisco)"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/San_Francisco_Civic_Center_Historic_District_09.jpg/1280px-San_Francisco_Civic_Center_Historic_District_09.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 26697381,
+            "lat": 9.9413631,
+            "lon": -84.0735443,
+            "tags": {
+                "addr:city": "San Francisco",
+                "addr:street": "Avenida 17",
+                "landuse": "retail",
+                "name": "Centro Comercial El Pueblo",
+                "source": "KG Ground Survey 2015",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "way",
+            "id": 27104863,
+            "lat": 37.8058709,
+            "lon": -122.4229491,
+            "tags": {
+                "area": "yes",
+                "historic": "landmark",
+                "landuse": "retail",
+                "name": "Ghirardelli Square",
+                "name:ko": "기라델리 스퀘어",
+                "opening_hours": "11:00-21:00",
+                "tourism": "attraction",
+                "wikidata": "Q5556730"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Ghirardelli_Square_Fountain%2C_SF%2C_CA%2C_jjron_25.03.2012.jpg/1280px-Ghirardelli_Square_Fountain%2C_SF%2C_CA%2C_jjron_25.03.2012.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 28695389,
+            "lat": 37.7698269,
+            "lon": -122.4660916,
+            "tags": {
+                "addr:city": "San Francisco",
+                "addr:housenumber": "55",
+                "addr:postcode": "94118",
+                "addr:state": "CA",
+                "addr:street": "Music Concourse Drive",
+                "building": "museum",
+                "building:levels": "5",
+                "building:material": "glass",
+                "changing_table": "yes",
+                "ele": "78",
+                "fee": "yes",
+                "gnis:feature_id": "217950",
+                "height": "11",
+                "name": "California Academy of Sciences",
+                "opening_hours": "Mo-Sa 09:30-17:00; Su 11:00-17:00",
+                "roof:material": "grass",
+                "source": "USGS Geonames",
+                "tourism": "museum",
+                "website": "https://www.calacademy.org/",
+                "wikidata": "Q134486471"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/California-06239_-_California_Academy_of_Sciences_%2820449900470%29.jpg/1280px-California-06239_-_California_Academy_of_Sciences_%2820449900470%29.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 28839856,
+            "lat": 37.8027909,
+            "lon": -122.4053428,
+            "tags": {
+                "alt_name": "Greenwich Street;Greenwich Street Stairs",
+                "handrail": "yes",
+                "highway": "steps",
+                "incline": "down",
+                "lit": "no",
+                "name": "Greenwich Steps",
+                "ramp": "no",
+                "step_count": "148",
+                "surface": "paving_stones",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Julius%27_Castle_San_Francisco.jpg/1280px-Julius%27_Castle_San_Francisco.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 28942138,
+            "lat": 37.7324641,
+            "lon": -122.5018056,
+            "tags": {
+                "attraction": "animal",
+                "name": "Penguin Island",
+                "name:es": "Isla del Pingüino de Magallanes",
+                "species:wikidata": "Q31862308",
+                "tourism": "attraction",
+                "zoo": "enclosure"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/33/San_Francisco_Zoo_logo.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 30029681,
+            "lat": 37.7948846,
+            "lon": -122.4119197,
+            "tags": {
+                "addr:city": "San Francisco",
+                "addr:housenumber": "1201",
+                "addr:postcode": "94108",
+                "addr:state": "CA",
+                "addr:street": "Mason Street",
+                "alt_name": "Cable Car Museum",
+                "building": "yes",
+                "ele": "61",
+                "gnis:feature_id": "1655337",
+                "name": "Cable Car Powerhouse and Barn",
+                "opening_hours": "Tu-Th 10:00-16:00; Fr-Su 10:00-17:00; Mo 00:00-24:00",
+                "opening_hours:url": "http://www.cablecarmuseum.org/info.html",
+                "phone": "+1 415 4741887",
+                "tourism": "museum",
+                "website": "http://www.cablecarmuseum.org",
+                "wikidata": "Q5496957",
+                "wikimedia_commons": "Category:San Francisco Cable Car Museum",
+                "wikipedia": "en:San Francisco Cable Car Museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Exterior_of_the_Ferries_and_Cliff_House_Railway_Co._Building_Constructed_in_1887.jpg/1280px-Exterior_of_the_Ferries_and_Cliff_House_Railway_Co._Building_Constructed_in_1887.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 30518788,
+            "lat": 37.8019269,
+            "lon": -122.405035,
+            "tags": {
+                "addr:street": "Filbert Street",
+                "handrail": "yes",
+                "highway": "steps",
+                "incline": "up",
+                "name": "Filbert Steps",
+                "ramp": "no",
+                "step_count": "72",
+                "surface": "concrete",
+                "tourism": "attraction",
+                "wheelchair": "yes"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Malloch_Building.jpg/1280px-Malloch_Building.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 30675038,
+            "lat": 37.7726146,
+            "lon": -122.4602244,
+            "tags": {
+                "addr:housenumber": "100",
+                "addr:postcode": "94118-4504",
+                "addr:state": "CA",
+                "addr:street": "John F Kennedy Drive",
+                "alt_name": "San Francisco's Conservatory of Flowers",
+                "amenity": "arts_centre",
+                "building": "conservatory",
+                "check_date": "2025-10-27",
+                "ele": "77",
+                "gnis:feature_id": "1657183",
+                "height": "15",
+                "heritage": "2",
+                "heritage:operator": "nrhp",
+                "historic": "building",
+                "name": "Conservatory of Flowers",
+                "opening_hours": "Mo-Tu,Th-Su 10:00-16:30; We off",
+                "phone": "+1-415-831-2090",
+                "ref:nrhp": "71000184",
+                "source": "USGS Geonames",
+                "tourism": "attraction",
+                "website": "https://conservatoryofflowers.org/",
+                "wikidata": "Q5163145",
+                "wikipedia": "en:Conservatory of Flowers"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Conservatory_of_Flowers_-_panoramio.jpg/1280px-Conservatory_of_Flowers_-_panoramio.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 30896932,
+            "lat": 37.7698764,
+            "lon": -122.468569,
+            "tags": {
+                "amenity": "theatre",
+                "building": "yes",
+                "check_date": "2024-06-30",
+                "height": "12",
+                "name": "Spreckels Temple of Music",
+                "theatre": "open_air",
+                "tourism": "attraction",
+                "wikidata": "Q110559749",
+                "wikimedia_commons": "File:Golden Gate Park - Spreckels Temple of Music 02.jpg"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Golden_Gate_Park_-_Spreckels_Temple_of_Music_02.jpg/1280px-Golden_Gate_Park_-_Spreckels_Temple_of_Music_02.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 30900516,
+            "lat": 37.7703429,
+            "lon": -122.4700521,
+            "tags": {
+                "addr:city": "San Francisco",
+                "addr:housenumber": "75",
+                "addr:postcode": "94102",
+                "addr:state": "CA",
+                "addr:street": "Hagiwara Tea Garden Drive",
+                "ele": "77",
+                "fee": "yes",
+                "gnis:feature_id": "1655425",
+                "leisure": "garden",
+                "name": "Japanese Tea Garden",
+                "operator": "San Francisco Recreation & Park Department",
+                "operator:short": "SFRPD",
+                "operator:website": "https://sfrecpark.org/",
+                "operator:wikidata": "Q14683875",
+                "phone": "+1-415-752-4227",
+                "tourism": "attraction",
+                "website": "https://www.sfcityguides.org/mobile.php",
+                "wikidata": "Q3270367",
+                "wikimedia_commons": "Category:Japanese_Tea_Garden_(San_Francisco)",
+                "wikipedia": "en:Japanese Tea Garden (San Francisco)"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Japanese_tea_garden_Golden_Gate_Park.JPG/1280px-Japanese_tea_garden_Golden_Gate_Park.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 32776564,
+            "lat": 37.7801415,
+            "lon": -122.5137957,
+            "tags": {
+                "addr:city": "San Francisco",
+                "addr:postcode": "94121",
+                "addr:state": "CA",
+                "addr:street": "Point Lobos Avenue",
+                "area": "yes",
+                "name": "Sutro Baths",
+                "name:etymology": "Adolph Sutro",
+                "name:etymology:wikidata": "Q214461",
+                "tourism": "attraction",
+                "wikidata": "Q3505806",
+                "wikimedia_commons": "Category:Sutro Baths",
+                "wikipedia": "en:Sutro Baths"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Sutro_Baths_in_San_Francisco.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 32839686,
+            "lat": 37.80641,
+            "lon": -122.4238997,
+            "tags": {
+                "alt_name": "Sala Burton Building",
+                "attraction": "yes",
+                "building": "yes",
+                "check_date": "2024-03-01",
+                "ele": "5",
+                "height": "10",
+                "historic": "building",
+                "name": "National Maritime Museum",
+                "name:en": "National Maritime Museum",
+                "opening_hours": "We-Su 10:00-16:00",
+                "start_date": "1936",
+                "tourism": "museum",
+                "website": "https://www.nps.gov/safr/planyourvisit/maritime-museum.htm",
+                "wikimedia_commons": "Category:Aquatic Park Bathhouse"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/San_Francisco_Maritime_Museum.jpg/1280px-San_Francisco_Maritime_Museum.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 32858754,
+            "lat": 37.7976347,
+            "lon": -122.4065733,
+            "tags": {
+                "addr:city": "San Francisco",
+                "addr:housenumber": "261",
+                "addr:postcode": "94133",
+                "addr:state": "CA",
+                "addr:street": "Columbus Avenue",
+                "building": "yes",
+                "check_date": "2025-09-05",
+                "contact:facebook": "CityLightsBooks",
+                "contact:instagram": "citylightsbooks",
+                "contact:twitter": "CityLightsBooks",
+                "contact:youtube": "https://www.youtube.com/user/CityLightsBooks",
+                "email": "staff@citylights.com",
+                "height": "9",
+                "name": "City Lights Booksellers",
+                "name:en": "City Lights Booksellers",
+                "opening_hours": "Mo-Su 12:00-20:00",
+                "opening_hours:url": "https://citylights.com/bookstore/",
+                "phone": "+1 415 3628193",
+                "shop": "books",
+                "tourism": "attraction",
+                "website": "https://citylights.com/bookstore/",
+                "wheelchair": "limited",
+                "wheelchair:description": "Entrance wheelchair accessible but most areas have steps",
+                "wikidata": "Q2394278",
+                "wikimedia_commons": "Category:City Lights Booksellers",
+                "wikipedia": "en:City Lights Bookstore"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/City_Lights_Booksellers.jpg/1280px-City_Lights_Booksellers.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 36950438,
+            "lat": 37.785769,
+            "lon": -122.4467992,
+            "tags": {
+                "addr:city": "San Francisco",
+                "addr:country": "US",
+                "addr:housenumber": "655",
+                "addr:postcode": "94115",
+                "addr:state": "CA",
+                "addr:street": "Presidio Avenue",
+                "building": "yes",
+                "check_date": "2025-08-26",
+                "ele": "80",
+                "fee": "no",
+                "gnis:feature_id": "1657304",
+                "museum": "history",
+                "name": "San Francisco Fire Department Pioneer Museum",
+                "opening_hours": "Th-Su 13:00-16:00",
+                "operator": "Guardians of the City",
+                "phone": "+1 4155583546",
+                "source": "USGS Geonames",
+                "tourism": "museum",
+                "verified": "06/25/2009",
+                "website": "https://guardiansofthecity.org/"
+            }
+        },
+        {
+            "type": "way",
+            "id": 37126530,
+            "lat": 37.8027235,
+            "lon": -122.4046024,
+            "tags": {
+                "alt_name": "Greenwich Street;Greenwich Street Stairs",
+                "handrail": "yes",
+                "highway": "steps",
+                "incline": "down",
+                "lit": "no",
+                "name": "Greenwich Steps",
+                "ramp": "no",
+                "step_count": "98",
+                "surface": "concrete",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Julius%27_Castle_San_Francisco.jpg/1280px-Julius%27_Castle_San_Francisco.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 41692824,
+            "lat": 37.7859355,
+            "lon": -122.4006294,
+            "tags": {
+                "addr:city": "San Francisco",
+                "addr:housenumber": "151",
+                "addr:postcode": "94103",
+                "addr:state": "CA",
+                "addr:street": "3rd Street",
+                "alt_name": "SFMOMA",
+                "architect": "Mario Botta",
+                "building": "yes",
+                "building:levels": "7",
+                "check_date": "2024-11-16",
+                "fee": "yes",
+                "museum": "art",
+                "name": "San Francisco Museum of Modern Art",
+                "name:en": "San Francisco Museum of Modern Art",
+                "name:ko": "샌프란시스코 현대미술관",
+                "opening_hours": "Mo-Tu,Fr-Su 10:00-17:00; Th 12:00-20:00; May 27-Sep 4 10:00-20:00; Dec 25 off",
+                "toilets": "yes",
+                "tourism": "museum",
+                "website": "https://www.sfmoma.org/",
+                "wheelchair": "yes",
+                "wikidata": "Q913672",
+                "wikipedia": "en:San Francisco Museum of Modern Art"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/2017_SFMOMA_from_Yerba_Buena_Gardens.jpg/1280px-2017_SFMOMA_from_Yerba_Buena_Gardens.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 48162926,
+            "lat": 37.8030016,
+            "lon": -122.4037072,
+            "tags": {
+                "alt_name": "Greenwich Street;Greenwich Street Stairs",
+                "handrail": "yes",
+                "highway": "steps",
+                "incline": "up",
+                "lit": "no",
+                "name": "Greenwich Steps",
+                "ramp": "no",
+                "step_count": "85",
+                "surface": "concrete",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Levi%27s_Storefront_%2848105830541%29.jpg/1280px-Levi%27s_Storefront_%2848105830541%29.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 48162927,
+            "lat": 37.8029258,
+            "lon": -122.4041344,
+            "tags": {
+                "alt_name": "Greenwich Street;Greenwich Street Stairs",
+                "highway": "footway",
+                "lit": "no",
+                "name": "Greenwich Steps",
+                "surface": "concrete",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Julius%27_Castle_San_Francisco.jpg/1280px-Julius%27_Castle_San_Francisco.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 120479798,
+            "lat": 37.770813,
+            "lon": -122.4751673,
+            "tags": {
+                "building": "yes",
+                "historic": "monument",
+                "name": "Pioneer Log Cabin",
+                "source": "local_knowledge",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Blue_Book_Panama-Pacific_Expo_p.5.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 120479804,
+            "lat": 37.7720556,
+            "lon": -122.4712934,
+            "tags": {
+                "garden:type": "rosegarden",
+                "leisure": "garden",
+                "name": "Rose Garden",
+                "source": "Bing",
+                "tourism": "attraction",
+                "wikidata": "Q96376966"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/96/Thomas_Garrigue_Masaryk_-_San_Francisco_sculpture_A.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 120479810,
+            "lat": 37.768388,
+            "lon": -122.4736305,
+            "tags": {
+                "alt_name": "Golden Gate Pavilion",
+                "building": "yes",
+                "name": "Chinese Pavillion",
+                "name:zh": "金門停",
+                "source": "Bing",
+                "start_date": "1981-04-15",
+                "tourism": "attraction",
+                "wikimedia_commons": "Category:Stow Lake Pagoda"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Strawberry_Hill%2C_San_Francisco.jpg/1280px-Strawberry_Hill%2C_San_Francisco.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 120480164,
+            "lat": 37.7673689,
+            "lon": -122.4716324,
+            "tags": {
+                "addr:city": "San Francisco",
+                "addr:housenumber": "1199",
+                "addr:postcode": "94122",
+                "addr:state": "CA",
+                "addr:street": "9th Avenue",
+                "charge": "12.00 USD",
+                "fee": "yes",
+                "garden:type": "botanical",
+                "leisure": "garden",
+                "name": "San Francisco Botanical Garden",
+                "old_name": "Strybing Arboretum",
+                "operator": "San Francisco Recreation & Parks Department;San Francisco Botanical Garden Society",
+                "phone": "+1-415-661-1316",
+                "source": "Bing",
+                "tourism": "attraction",
+                "website": "https://www.sfbg.org/",
+                "wikidata": "Q589884",
+                "wikimedia_commons": "Category:San_Francisco_Botanical_Garden",
+                "wikipedia": "en:San Francisco Botanical Garden"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/San_Francisco_Botanical_Garden_Great_Lawn_2.jpg/1280px-San_Francisco_Botanical_Garden_Great_Lawn_2.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 159924616,
+            "lat": 37.7718586,
+            "lon": -122.4547398,
+            "tags": {
+                "addr:state": "CA",
+                "building": "yes",
+                "ele": "79",
+                "gnis:feature_id": "1655695",
+                "name": "McLaren Lodge",
+                "source": "USGS Geonames",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Detroit_Photographic_Company_%280038%29.jpg/1280px-Detroit_Photographic_Company_%280038%29.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 164569681,
+            "lat": 37.8077752,
+            "lon": -122.4748503,
+            "tags": {
+                "building": "yes",
+                "name": "Welcome Center",
+                "opening_hours": "09:00-18:00",
+                "shop": "gift",
+                "tourism": "attraction",
+                "website": "https://www.parksconservancy.org/park-improvements/past-accomplishments/golden-gate-bridge-pavilion.html",
+                "wikimedia_commons": "File:The Golden Gate National Recreation Area, San Francisco, California LCCN2013630482.tif"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Roundhouse_Cafe.jpg/1280px-Roundhouse_Cafe.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 165579428,
+            "lat": 37.8103608,
+            "lon": -122.4227901,
+            "tags": {
+                "building": "ship",
+                "historic": "ship",
+                "name": "Alma",
+                "ref:nrhp": "75000179",
+                "ship:type": "scow_schooner",
+                "start_date": "1891",
+                "tourism": "attraction",
+                "wikidata": "Q2156353",
+                "wikipedia": "en:Alma (1891)"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/90/1900alma.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 165601339,
+            "lat": 37.8099574,
+            "lon": -122.416401,
+            "tags": {
+                "building": "ship",
+                "building:levels": "2",
+                "check_date": "2023-04-20",
+                "check_date:opening_hours": "2024-10-11",
+                "fee": "yes",
+                "fee:conditional": "no @ age < 5",
+                "historic": "ship",
+                "museum": "military",
+                "name": "USS Pampanito",
+                "opening_hours": "Mo-Su 10:00-18:00",
+                "operator": "San Francisco Maritime National Park Association",
+                "phone": "+1-415-775-1943",
+                "ref": "SS-383",
+                "ref:nrhp": "86000089",
+                "ship:type": "submarine",
+                "start_date": "1982-03-15",
+                "toilets": "no",
+                "tourism": "museum",
+                "website": "https://maritime.org/pamphome.htm",
+                "wheelchair": "no",
+                "wikidata": "Q2548504",
+                "wikipedia": "en:USS Pampanito"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/39/Pampanito_%28submarine%2C_San_Francisco%29.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 168942987,
+            "lat": 37.7782625,
+            "lon": -122.5142287,
+            "tags": {
+                "building": "yes",
+                "fee": "yes",
+                "height": "6",
+                "name": "Camera Obscura",
+                "tourism": "attraction",
+                "wikidata": "Q5025996",
+                "wikimedia_commons": "Category:Camera Obscura (San Francisco, California)",
+                "wikipedia": "en:Camera Obscura (San Francisco, California)"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Camera_Obscura_%28San_Francisco%29.JPG/1280px-Camera_Obscura_%28San_Francisco%29.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 170797902,
+            "lat": 37.8018486,
+            "lon": -122.4800506,
+            "tags": {
+                "access": "yes",
+                "area": "yes",
+                "bicycle": "no",
+                "clothing-optional": "yes",
+                "dog": "no",
+                "name": "Marshall's Beach",
+                "natural": "beach",
+                "nudism": "yes",
+                "surface": "sand",
+                "thong": "yes",
+                "topless": "yes",
+                "tourism": "attraction",
+                "wikidata": "Q118533978",
+                "wikimedia_commons": "Category:Marshall's Beach"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Golden_Gate_-_Lands_End_-_Point_Lobos_2009.jpg/1280px-Golden_Gate_-_Lands_End_-_Point_Lobos_2009.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 173886707,
+            "lat": 37.7812921,
+            "lon": -122.4027103,
+            "tags": {
+                "building": "yes",
+                "check_date": "2024-03-31",
+                "email": "info@bookbindersmuseum.org",
+                "height": "9",
+                "name": "American Bookbinders Museum",
+                "opening_hours": "Tu-Sa 10:00-16:00",
+                "phone": "+1-415-824-9754",
+                "source": "Bing",
+                "tourism": "museum",
+                "website": "https://www.bookbindersmuseum.org/",
+                "wikidata": "Q65072545"
+            }
+        },
+        {
+            "type": "way",
+            "id": 186071977,
+            "lat": 37.7894816,
+            "lon": -122.3877314,
+            "tags": {
+                "addr:city": "San Francisco",
+                "addr:housenumber": "94105",
+                "addr:postcode": "94105",
+                "addr:state": "CA",
+                "addr:street": "The Embarcadero",
+                "building": "yes",
+                "height": "9",
+                "name": "Pier 24",
+                "phone": "+1-415-512-7424",
+                "tourism": "museum",
+                "website": "https://www.pier24.org/",
+                "wheelchair": "yes",
+                "wikidata": "Q25831311"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Pier_26_San_Francisco_Embarcadro_October_2010.jpg/1280px-Pier_26_San_Francisco_Embarcadro_October_2010.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 199829618,
+            "lat": 37.80995,
+            "lon": -122.4101656,
+            "tags": {
+                "food": "yes",
+                "landuse": "retail",
+                "man_made": "pier",
+                "name": "Pier 39",
+                "name:zh": "39号码头",
+                "opening_hours": "Mo-Su 10:00-22:00",
+                "tourism": "attraction",
+                "website": "https://www.pier39.com/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Pier_39_in_2021.jpg/1280px-Pier_39_in_2021.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 205655753,
+            "lat": 37.7652985,
+            "lon": -122.4038918,
+            "tags": {
+                "addr:housenumber": "360",
+                "addr:postcode": "94103",
+                "addr:street": "Kansas Street",
+                "building": "university",
+                "height": "6",
+                "name": "CCA Wattis Institute for Contemporary Arts",
+                "operator": "California College of the Arts",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Wattis_Institute_for_Contemporary_Arts_%28CCA%29%2C_September_2022_-3.jpg/1280px-Wattis_Institute_for_Contemporary_Arts_%28CCA%29%2C_September_2022_-3.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 206662303,
+            "lat": 37.7983283,
+            "lon": -122.4219477,
+            "tags": {
+                "addr:city": "San Francisco",
+                "addr:housenumber": "2330",
+                "addr:postcode": "94109",
+                "addr:state": "CA",
+                "addr:street": "Polk Street",
+                "building": "yes",
+                "height": "14",
+                "name": "Alhambra Theatre",
+                "source": "Bing",
+                "tourism": "attraction",
+                "wikidata": "Q4724449",
+                "wikipedia": "en:Alhambra Theatre (San Francisco)"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Alhambra_Theatre_from_Southwest.JPG/1280px-Alhambra_Theatre_from_Southwest.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 231596854,
+            "lat": 37.8020893,
+            "lon": -122.4034896,
+            "tags": {
+                "access": "yes",
+                "addr:street": "Filbert Street",
+                "handrail": "yes",
+                "highway": "steps",
+                "incline": "up",
+                "name": "Filbert Steps",
+                "ramp": "no",
+                "surface": "concrete",
+                "tiger:county": "San Francisco, CA",
+                "tourism": "attraction",
+                "wheelchair": "no"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Malloch_Building.jpg/1280px-Malloch_Building.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 232089483,
+            "lat": 4.9785544,
+            "lon": -74.2936599,
+            "tags": {
+                "building": "yes",
+                "description": "Santuario de Aves",
+                "name": "jardin encantado",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "way",
+            "id": 256993595,
+            "lat": 37.7932788,
+            "lon": -122.4249633,
+            "tags": {
+                "addr:city": "San Francisco",
+                "addr:housenumber": "2007",
+                "addr:street": "Franklin Street",
+                "building": "yes",
+                "check_date:opening_hours": "2023-02-24",
+                "fee": "yes",
+                "height": "14",
+                "name": "Haas-Lilienthal House",
+                "note": "Closed until \"spring 2024\" per web site and media reports.",
+                "opening_hours": "24/7 off",
+                "tourism": "museum",
+                "website": "https://www.haas-lilienthalhouse.org/",
+                "wikidata": "Q5636548",
+                "wikipedia": "en:Haas–Lilienthal House"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Haas-Lilienthal_House_exterior_2025.jpg/1280px-Haas-Lilienthal_House_exterior_2025.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 263509886,
+            "lat": 37.7844862,
+            "lon": -122.4443658,
+            "tags": {
+                "addr:city": "San Francisco",
+                "addr:housenumber": "2671",
+                "addr:postcode": "94109",
+                "addr:state": "CA",
+                "addr:street": "Sutter Street",
+                "building": "yes",
+                "check_date": "2025-08-25",
+                "museum": "art",
+                "name": "Musuem of Exotica",
+                "opening_hours": "by_appointment",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/df/Anza_Vista.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 263823315,
+            "lat": 37.7727994,
+            "lon": -122.4382846,
+            "tags": {
+                "addr:housenumber": "1153",
+                "addr:street": "Oak Street",
+                "alt_name": "Sarah Mish House",
+                "building": "yes",
+                "height": "13",
+                "name": "Mish House",
+                "name:etymology": "Mish Family",
+                "name:etymology:wikidata": "Q130746803",
+                "tourism": "attraction",
+                "wikidata": "Q115320151",
+                "wikimedia_commons": "Category:Mish House (San Francisco)",
+                "wikipedia": "en:Mish House"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Mish_House_%28San_Francisco%29.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 273575059,
+            "lat": 37.7836016,
+            "lon": -122.4496171,
+            "tags": {
+                "addr:city": "San Francisco",
+                "addr:housenumber": "5",
+                "addr:postcode": "94118",
+                "addr:state": "CA",
+                "addr:street": "Wood Street",
+                "building": "yes",
+                "check_date": "2025-08-26",
+                "height": "8",
+                "museum": "history",
+                "name": "Gadar Memorial",
+                "opening_hours": "We 10:00-13:00",
+                "tourism": "museum",
+                "website": "https://www.cgisf.gov.in/page/gadar-memorial-hall/",
+                "wikidata": "Q59769856"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Yugantar_Ashram.jpg/1280px-Yugantar_Ashram.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 287910488,
+            "lat": 37.7341351,
+            "lon": -122.5010142,
+            "tags": {
+                "attraction": "animal",
+                "building": "yes",
+                "height": "11",
+                "name": "South American Tropical Rainforest & Aviary",
+                "name:es": "Bosque Tropical Sudamericano",
+                "species:en": "Anaconda;Sloth",
+                "start_date": "1930s",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Mother%27s_Building_entrance%2C_1979.png/1280px-Mother%27s_Building_entrance%2C_1979.png",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 287921407,
+            "lat": 37.7704405,
+            "lon": -122.5094056,
+            "tags": {
+                "addr:state": "CA",
+                "building": "yes",
+                "ele": "11",
+                "gnis:feature_id": "1655473",
+                "height": "13",
+                "man_made": "windmill",
+                "name": "Dutch Windmill",
+                "name:nl": "Nederlandse windmolen",
+                "openplaques:id": "52626",
+                "source": "USGS Geonames",
+                "start_date": "1903",
+                "tourism": "attraction",
+                "wikidata": "Q54799943",
+                "wikipedia": "en:Dutch Windmill (Golden Gate Park)"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/GGParkNorthWindmill2.jpg/1280px-GGParkNorthWindmill2.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 287927001,
+            "lat": 37.7680069,
+            "lon": -122.4965845,
+            "tags": {
+                "addr:state": "CA",
+                "alt_name": "Angler’s Lodge",
+                "building": "yes",
+                "ele": "37",
+                "height": "4",
+                "name": "Anglers Lodge",
+                "tourism": "attraction",
+                "wikidata": "Q127515191"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/7b/ModelYachtUpwind5861.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 287927026,
+            "lat": 37.7650025,
+            "lon": -122.5086973,
+            "tags": {
+                "addr:state": "CA",
+                "building": "yes",
+                "ele": "6",
+                "gnis:feature_id": "1655464",
+                "height": "10",
+                "man_made": "windmill",
+                "name": "Murphy Windmill",
+                "source": "USGS Geonames",
+                "tourism": "attraction",
+                "wikidata": "Q50418168",
+                "wikipedia": "en:Murphy Windmill"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Murphy_windmill.jpg/1280px-Murphy_windmill.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 288305388,
+            "lat": 37.7845607,
+            "lon": -122.500738,
+            "tags": {
+                "addr:city": "San Francisco",
+                "addr:country": "US",
+                "addr:housenumber": "100",
+                "addr:postcode": "94121",
+                "addr:state": "CA",
+                "addr:street": "34th Avenue",
+                "alt_name": "California Palace of the Legion of Honor",
+                "building": "museum",
+                "contact:website": "http://legionofhonor.famsf.org/",
+                "ele": "113",
+                "fee": "yes",
+                "gnis:feature_id": "247118",
+                "height": "12 m",
+                "museum": "art",
+                "name": "Legion of Honor",
+                "opening_hours": "Tu-Su 9:30-17:15",
+                "source": "USGS Geonames",
+                "tourism": "museum",
+                "wikidata": "Q2468251",
+                "wikimedia_commons": "Category:California Palace of the Legion of Honor",
+                "wikipedia": "en:Legion of Honor (museum)"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Holocaust-mem-san-francisco-c.jpg/1280px-Holocaust-mem-san-francisco-c.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 288340246,
+            "lat": 37.8013693,
+            "lon": -122.4587099,
+            "tags": {
+                "addr:city": "San Francisco",
+                "addr:country": "US",
+                "addr:housenumber": "104",
+                "addr:postcode": "94129",
+                "addr:state": "CA",
+                "addr:street": "Montgomery Street",
+                "building": "museum",
+                "check_date:opening_hours": "2024-10-11",
+                "fee": "yes",
+                "fee:conditional": "no @ age < 6",
+                "height": "12",
+                "name": "Walt Disney Family Museum",
+                "opening_hours": "Th-Su 10:00-17:30; Dec 24, Dec 31 10:00-16:00; Nov Th[4] off; Dec 25 off; Jan 01 off;",
+                "ref": "104",
+                "toilets:wheelchair": "yes",
+                "tourism": "museum",
+                "website": "https://waltdisney.org/",
+                "wheelchair": "yes",
+                "wikidata": "Q2415048"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Walt_Disney_Family_Museum_by_Joy_of_Museums.jpg/1280px-Walt_Disney_Family_Museum_by_Joy_of_Museums.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 288365549,
+            "lat": 37.805428,
+            "lon": -122.4670591,
+            "tags": {
+                "addr:housenumber": "1903",
+                "addr:street": "Marine Drive",
+                "alt_name": "Greater Farralones National Marine Sacntuary Headquarters",
+                "building": "museum",
+                "building:levels": "2",
+                "height": "10",
+                "heritage": "2",
+                "heritage:operator": "nrhp",
+                "heritage:website": "https://www.nps.gov/subjects/culturallandscapes/research.htm",
+                "historic": "maritime",
+                "name": "Greater Farallones Marine Sanctuary Visitor Center",
+                "nrhp:criteria": "(A), (C)",
+                "nrhp:inscription_date": "1966-10-15",
+                "nrhp:nhl": "yes",
+                "old_name:1915-1990": "Fort Point Coast Guard Station",
+                "operator": "NOAA - Greater Farralones National Marine Sacntuary",
+                "protection_title": "Golden National Recreation Area",
+                "ref:cli": "975275",
+                "ref:nrhp": "66000232",
+                "roof:levels": "2",
+                "source_ref": "https://nmsfarallones.blob.core.windows.net/farallones-prod/media/archive/about/pdf/FtPtStaCLR12508.pdf",
+                "start_date": "1915",
+                "tourism": "museum",
+                "website": "https://farallones.noaa.gov/about/",
+                "wikimedia_commons": "File:Old Crissy Field Coast Guard Station in the fog (December 2015) CUT.jpg"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/San_Francisco_%282018%29_-_132.jpg/1280px-San_Francisco_%282018%29_-_132.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 288371295,
+            "lat": 37.8029181,
+            "lon": -122.448385,
+            "tags": {
+                "addr:housenumber": "3301",
+                "addr:postcode": "94123",
+                "addr:street": "Lyon Street",
+                "building": "temple",
+                "ele": "3",
+                "height": "48",
+                "layer": "1",
+                "name": "Palace of Fine Arts",
+                "name:ko": "팰리스 오브 파인 아츠",
+                "name:zh": "旧金山艺术宫",
+                "source": "Survey",
+                "start_date": "1915",
+                "tourism": "attraction",
+                "wikidata": "Q966263",
+                "wikimedia_commons": "Category:Palace of Fine Arts, San Francisco",
+                "wikipedia": "en:Palace of Fine Arts"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Palace_of_Fine_Arts_%2816794p%29.jpg/1280px-Palace_of_Fine_Arts_%2816794p%29.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 288376862,
+            "lat": 37.8028313,
+            "lon": -122.4627073,
+            "tags": {
+                "addr:housenumber": "640",
+                "addr:street": "Mason Street",
+                "building": "yes",
+                "height": "7",
+                "museum": "history",
+                "name": "Military Intelligence Service Historic Learning Center",
+                "opening_hours": "Sa-Su 12:00-17:00",
+                "tourism": "museum",
+                "website": "https://www.njahs.org/building-640/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Prsf_crissy_arial_1921.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 288473102,
+            "lat": 37.8079817,
+            "lon": -122.4154203,
+            "tags": {
+                "addr:city": "San Francisco",
+                "addr:country": "US",
+                "addr:housenumber": "175",
+                "addr:postcode": "94133",
+                "addr:state": "CA",
+                "addr:street": "Jefferson Street",
+                "building": "yes",
+                "check_date": "2023-12-16",
+                "contact:website": "https://www.ripleys.com/attractions/ripleys-believe-it-or-not-san-francisco",
+                "fee": "yes",
+                "height": "13",
+                "name": "Ripley's Believe it or Not",
+                "name:en": "Ripley's Believe it or Not",
+                "opening_hours:url": "https://www.ripleys.com/attractions/ripleys-believe-it-or-not-san-francisco#plan",
+                "tourism": "museum",
+                "wheelchair": "yes"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Muni_1059_at_Jefferson_and_Taylor%2C_March_2026.JPG/1280px-Muni_1059_at_Jefferson_and_Taylor%2C_March_2026.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 288511103,
+            "lat": 37.7925321,
+            "lon": -122.4030236,
+            "tags": {
+                "addr:city": "San Francisco",
+                "addr:housenumber": "345",
+                "addr:postcode": "94104",
+                "addr:state": "CA",
+                "addr:street": "Montgomery Street",
+                "alt_name": "ICA SF",
+                "building": "yes",
+                "check_date": "2025-09-05",
+                "contact:instagram": "Icasanfrancisco",
+                "height": "30",
+                "museum": "art",
+                "name": "Institute of Contemporary Art San Francisco",
+                "opening_hours": "We, Fr-Su 11:00-17:00; Th 11:00-19:00",
+                "tourism": "museum",
+                "website": "https://www.icasf.org",
+                "wheelchair": "yes"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Commercial_Union_Assurance_Building.jpg/1280px-Commercial_Union_Assurance_Building.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 288716388,
+            "lat": 37.7830728,
+            "lon": -122.4016798,
+            "tags": {
+                "building": "yes",
+                "fee": "yes",
+                "height": "10",
+                "name": "Children's Creativity Museum",
+                "name_alt": "Zeum",
+                "tourism": "museum",
+                "website": "https://creativity.org/",
+                "wikidata": "Q8069802"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Zeum_in_SF.jpg/1280px-Zeum_in_SF.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 295763868,
+            "lat": 4.5761854,
+            "lon": -74.296623,
+            "tags": {
+                "building": "yes",
+                "disused:tourism": "hotel",
+                "historic": "yes",
+                "name": "Casa Museo Salto del Tequendama",
+                "name:en": "Tequendama Falls Museum",
+                "old_name": "Hotel Salto del Tequendama",
+                "tourism": "museum",
+                "wikidata": "Q7701417",
+                "wikimedia_commons": "Category:Tequendama Falls Museum",
+                "wikipedia": "es:Casa Museo Salto del Tequendama"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Salto_de_Tequendama_1.jpeg/1280px-Salto_de_Tequendama_1.jpeg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 317525706,
+            "lat": 9.0084063,
+            "lon": -79.4889426,
+            "tags": {
+                "area": "yes",
+                "historic": "yes",
+                "leisure": "park",
+                "name": "Conjunto Monumental de Panama Viejo",
+                "opening_hours": "Tu-Su 08:00-17:00",
+                "start_date": "Siglo XVII",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Panama_1671_Morgan.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 370672707,
+            "lat": 37.8201751,
+            "lon": -122.4786813,
+            "tags": {
+                "alt_name:cs": "most Zlaté brány",
+                "alt_name:vi": "Cầu Cổng Vàng;Kim Môn Kiều",
+                "bridge:structure": "suspension",
+                "colour": "#f04a00",
+                "construction_date": "1933-01-05",
+                "heritage": "yes",
+                "landmark": "2",
+                "layer": "1",
+                "man_made": "bridge",
+                "name": "Golden Gate Bridge",
+                "name:ar": "جسر البوابة الذهبية",
+                "name:cs": "most Golden Gate",
+                "name:de": "Golden Gate Bridge",
+                "name:en": "Golden Gate Bridge",
+                "name:es": "Puente Golden Gate",
+                "name:fr": "Pont du Golden Gate",
+                "name:ja": "ゴールデン・ゲート・ブリッジ",
+                "name:pt": "Ponte Golden Gate",
+                "name:ru": "Мост Золоты́е Воро́та",
+                "name:vi": "Cầu Cổng Vàng",
+                "name:zh": "金門大橋",
+                "sorting_name:cs": "Golden Gate",
+                "start_date": "1937-04-19",
+                "tourism": "attraction",
+                "website": "http://goldengatebridge.org/",
+                "wheelchair": "yes",
+                "wikidata": "Q44440",
+                "wikimedia_commons": "Category:Golden Gate Bridge",
+                "wikipedia": "en:Golden Gate Bridge"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Golden_Gate_Bridge_as_seen_from_Battery_East.jpg/1280px-Golden_Gate_Bridge_as_seen_from_Battery_East.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 382796784,
+            "lat": 37.7320511,
+            "lon": -122.5051158,
+            "tags": {
+                "attraction": "animal",
+                "name": "AFRICAN REGION",
+                "name:es": "REGIÓN AFRICANA",
+                "natural": "grassland",
+                "species:en": "Giraffe;Zebra;Kudu;Ostrich;Zebra",
+                "tourism": "attraction",
+                "zoo": "enclosure"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/en/thumb/5/52/Fleishhacker_Swimming_Pool%2C_San_Francisco%2C_California_Postcard_%281932%29.jpg/1280px-Fleishhacker_Swimming_Pool%2C_San_Francisco%2C_California_Postcard_%281932%29.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 382796785,
+            "lat": 37.7314991,
+            "lon": -122.5045867,
+            "tags": {
+                "attraction": "animal",
+                "name": "Gorilla Preserve",
+                "name:es": "Reserva del Groila",
+                "natural": "grassland",
+                "species:en": "Gorilla",
+                "species:wikidata": "Q36611",
+                "species:wikipedia": "en:Gorilla",
+                "tourism": "attraction",
+                "zoo": "enclosure"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/33/San_Francisco_Zoo_logo.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 382796787,
+            "lat": 37.7317712,
+            "lon": -122.5045697,
+            "tags": {
+                "attraction": "animal",
+                "name": "African Aviary",
+                "name:es": "Aviario Africano",
+                "tourism": "attraction",
+                "zoo": "aviary"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/33/San_Francisco_Zoo_logo.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 382796788,
+            "lat": 37.7324919,
+            "lon": -122.50373,
+            "tags": {
+                "attraction": "animal",
+                "name": "Mandrill",
+                "name:es": "Mandrill",
+                "natural": "grassland",
+                "species:wikidata": "Q189868",
+                "species:wikipedia": "en:Mandrill",
+                "tourism": "attraction",
+                "zoo": "enclosure"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/33/San_Francisco_Zoo_logo.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 382796789,
+            "lat": 37.7324311,
+            "lon": -122.5032899,
+            "tags": {
+                "attraction": "animal",
+                "name": "Patas Monkey",
+                "name:es": "Mono Patas",
+                "natural": "grassland",
+                "species:wikidata": "Q504496",
+                "species:wikipedia": "en:Patas monkey",
+                "tourism": "attraction",
+                "zoo": "enclosure"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/33/San_Francisco_Zoo_logo.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 382796793,
+            "lat": 37.732582,
+            "lon": -122.5050727,
+            "tags": {
+                "attraction": "animal",
+                "name": "African Savana",
+                "name:es": "Sabana Africana",
+                "natural": "grassland",
+                "tourism": "attraction",
+                "zoo": "enclosure"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/en/thumb/5/52/Fleishhacker_Swimming_Pool%2C_San_Francisco%2C_California_Postcard_%281932%29.jpg/1280px-Fleishhacker_Swimming_Pool%2C_San_Francisco%2C_California_Postcard_%281932%29.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 382798029,
+            "lat": 37.7329847,
+            "lon": -122.5041083,
+            "tags": {
+                "attraction": "animal",
+                "name": "Lemur Forest",
+                "name:es": "Bosque del Lémur",
+                "natural": "grassland",
+                "species:en": "Lemur",
+                "species:wikidata": "Q2340126",
+                "tourism": "attraction",
+                "zoo": "enclosure"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/33/San_Francisco_Zoo_logo.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 382798030,
+            "lat": 37.7347207,
+            "lon": -122.5048958,
+            "tags": {
+                "attraction": "animal",
+                "barrier": "fence",
+                "name": "Family Farm",
+                "name:es": "Granja Familiar",
+                "natural": "sand",
+                "tourism": "attraction",
+                "zoo": "petting_zoo"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/en/thumb/5/52/Fleishhacker_Swimming_Pool%2C_San_Francisco%2C_California_Postcard_%281932%29.jpg/1280px-Fleishhacker_Swimming_Pool%2C_San_Francisco%2C_California_Postcard_%281932%29.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 382798031,
+            "lat": 37.7343417,
+            "lon": -122.5038845,
+            "tags": {
+                "attraction": "animal",
+                "barrier": "fence",
+                "name": "Meerkat",
+                "name:es": "Suricata",
+                "natural": "sand",
+                "tourism": "attraction",
+                "zoo": "enclosure"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Mother%27s_Building_entrance%2C_1979.png/1280px-Mother%27s_Building_entrance%2C_1979.png",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 382798032,
+            "lat": 37.7342102,
+            "lon": -122.5039302,
+            "tags": {
+                "attraction": "animal",
+                "barrier": "fence",
+                "name": "Prairie Dog",
+                "name:es": "Perrito de la pradera",
+                "natural": "sand",
+                "species": "Prairie Dog",
+                "species:wikidata": "Q30359",
+                "species:wikipedia": "en:Prairie dog",
+                "tourism": "attraction",
+                "zoo": "enclosure"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Mother%27s_Building_entrance%2C_1979.png/1280px-Mother%27s_Building_entrance%2C_1979.png",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 382798035,
+            "lat": 37.733519,
+            "lon": -122.5032207,
+            "tags": {
+                "attraction": "animal",
+                "genus:wikidata": "Q41994",
+                "genus:wikipedia": "en:Phoenicopterus",
+                "name": "Flamingo",
+                "name:es": "Flamenco Chileno",
+                "species:wikidata": "Q317220",
+                "tourism": "attraction",
+                "zoo": "enclosure"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/33/San_Francisco_Zoo_logo.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 382801491,
+            "lat": 37.7338813,
+            "lon": -122.5044343,
+            "tags": {
+                "attraction": "animal",
+                "barrier": "fence",
+                "name": "Red Panda Treehouse",
+                "name:es": "Panda Rojo",
+                "natural": "grassland",
+                "species:wikidata": "Q41960",
+                "species:wikipedia": "en:Red panda",
+                "tourism": "attraction",
+                "zoo": "enclosure"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/en/thumb/5/52/Fleishhacker_Swimming_Pool%2C_San_Francisco%2C_California_Postcard_%281932%29.jpg/1280px-Fleishhacker_Swimming_Pool%2C_San_Francisco%2C_California_Postcard_%281932%29.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 382803059,
+            "lat": 37.7329942,
+            "lon": -122.502932,
+            "tags": {
+                "attraction": "animal",
+                "barrier": "fence",
+                "name": "Chimpanzee",
+                "name:es": "Chimpancé",
+                "natural": "grassland",
+                "species:wikidata": "Q4126704",
+                "species:wikipedia": "en:Chimpanzee",
+                "tourism": "attraction",
+                "zoo": "enclosure"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/33/San_Francisco_Zoo_logo.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 382803073,
+            "lat": 37.7323494,
+            "lon": -122.5023226,
+            "tags": {
+                "attraction": "animal",
+                "name": "River Otter",
+                "name:es": "Nutria de Rio Norteamericana",
+                "natural": "grassland",
+                "species:wikidata": "Q327028",
+                "species:wikipedia": "en:North American river otter",
+                "tourism": "attraction",
+                "zoo": "enclosure"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/33/San_Francisco_Zoo_logo.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 382805054,
+            "lat": 37.7328781,
+            "lon": -122.4987338,
+            "tags": {
+                "attraction": "animal",
+                "name": "Grizzly Gulch",
+                "name:es": "Barranco del Oso Grizzly",
+                "natural": "grassland",
+                "species": "Grizzly Bear",
+                "species:wikidata": "Q171004",
+                "species:wikipedia": "en:Grizzly bear",
+                "tourism": "attraction",
+                "zoo": "enclosure"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/33/San_Francisco_Zoo_logo.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 382805057,
+            "lat": 37.7327253,
+            "lon": -122.4991349,
+            "tags": {
+                "area": "yes",
+                "attraction": "animal",
+                "name": "Eagle Island",
+                "name:es": "Isla del Aguila Calva",
+                "natural": "wood",
+                "tourism": "attraction",
+                "zoo": "enclosure"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/33/San_Francisco_Zoo_logo.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 382813682,
+            "lat": 37.7331911,
+            "lon": -122.500793,
+            "tags": {
+                "attraction": "animal",
+                "barrier": "fence",
+                "name": "Puente al Sur",
+                "natural": "grassland",
+                "species": "Anteater;Capybara;Greater Rhea",
+                "tourism": "attraction",
+                "zoo": "enclosure"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/33/San_Francisco_Zoo_logo.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 382813683,
+            "lat": 37.7325875,
+            "lon": -122.499701,
+            "tags": {
+                "attraction": "animal",
+                "barrier": "fence",
+                "name": "Chacoan Peccary",
+                "name:es": "Pecari del Chaco",
+                "natural": "grassland",
+                "species:wikidata": "Q1058516",
+                "species:wikipedia": "en:Chacoan peccary",
+                "tourism": "attraction",
+                "zoo": "enclosure"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/33/San_Francisco_Zoo_logo.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 382816208,
+            "lat": 37.7320707,
+            "lon": -122.5012064,
+            "tags": {
+                "attraction": "animal",
+                "name": "Snow Leopard",
+                "name:es": "Leopardo de las Nieves",
+                "natural": "grassland",
+                "species:wikidata": "Q30197",
+                "species:wikipedia": "en:Snow leopard",
+                "tourism": "attraction",
+                "zoo": "enclosure"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/33/San_Francisco_Zoo_logo.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 382818430,
+            "lat": 37.7314293,
+            "lon": -122.5016811,
+            "tags": {
+                "attraction": "animal",
+                "name": "Black Rhino",
+                "name:es": "Rinoceronte Negro",
+                "natural": "sand",
+                "species:wikidata": "Q95036",
+                "species:wikipedia": "en:Black rhinoceros",
+                "tourism": "attraction",
+                "zoo": "enclosure"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/33/San_Francisco_Zoo_logo.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 382818432,
+            "lat": 37.7314961,
+            "lon": -122.501264,
+            "tags": {
+                "attraction": "animal",
+                "name": "Hippo",
+                "name:es": "Hipopótamo",
+                "natural": "grassland",
+                "species:wikidata": "Q34505",
+                "species:wikipedia": "en:Hippopotamus",
+                "tourism": "attraction",
+                "zoo": "enclosure"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/33/San_Francisco_Zoo_logo.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 382818435,
+            "lat": 37.7314945,
+            "lon": -122.5023992,
+            "tags": {
+                "attraction": "animal",
+                "name": "Bongo",
+                "name:es": "Bongo",
+                "natural": "grassland",
+                "species:wikidata": "Q193400",
+                "species:wikipedia": "en:Bongo (antelope)",
+                "tourism": "attraction",
+                "zoo": "enclosure"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/33/San_Francisco_Zoo_logo.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 382822565,
+            "lat": 37.7335663,
+            "lon": -122.5021035,
+            "tags": {
+                "attraction": "animal",
+                "barrier": "fence",
+                "name": "Hornbill",
+                "name:es": "Cálao Terrestre Sureño",
+                "species:wikidata": "Q26773",
+                "species:wikipedia": "en:Hornbill",
+                "tourism": "attraction",
+                "zoo": "enclosure"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/33/San_Francisco_Zoo_logo.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 382822566,
+            "lat": 37.733886,
+            "lon": -122.5021058,
+            "tags": {
+                "attraction": "animal",
+                "name": "Pelican Beach",
+                "name:es": "Pelicano Blanco Americano",
+                "species:wikidata": "Q735190",
+                "species:wikipedia": "en:American white pelican",
+                "tourism": "attraction",
+                "zoo": "enclosure"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Mother%27s_Building_entrance%2C_1979.png/1280px-Mother%27s_Building_entrance%2C_1979.png",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 382822567,
+            "lat": 37.7347447,
+            "lon": -122.501807,
+            "tags": {
+                "attraction": "animal",
+                "barrier": "fence",
+                "name": "Cassowary",
+                "name:es": "Casuario",
+                "natural": "grassland",
+                "species:wikidata": "Q201231",
+                "tourism": "attraction",
+                "zoo": "enclosure"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Mother%27s_Building_entrance%2C_1979.png/1280px-Mother%27s_Building_entrance%2C_1979.png",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 382822568,
+            "lat": 37.7349238,
+            "lon": -122.5023447,
+            "tags": {
+                "attraction": "animal",
+                "barrier": "fence",
+                "name": "Australian WalkAbout",
+                "name:es": "Caminata Australiana",
+                "natural": "grassland",
+                "tourism": "attraction",
+                "zoo": "enclosure"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Mother%27s_Building_entrance%2C_1979.png/1280px-Mother%27s_Building_entrance%2C_1979.png",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 382822569,
+            "lat": 37.7330128,
+            "lon": -122.5016953,
+            "tags": {
+                "attraction": "animal",
+                "name": "Wolverine",
+                "natural": "grassland",
+                "species:wikidata": "Q14334",
+                "species:wikipedia": "en:Wolverine",
+                "tourism": "attraction",
+                "zoo": "enclosure"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/33/San_Francisco_Zoo_logo.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 382826075,
+            "lat": 37.7322966,
+            "lon": -122.5008804,
+            "tags": {
+                "attraction": "animal",
+                "barrier": "fence",
+                "name": "Anteater",
+                "name:es": "Oso Hormiguero",
+                "natural": "grassland",
+                "species:wikidata": "Q972452",
+                "species:wikipedia": "en:Anteater",
+                "tourism": "attraction",
+                "zoo": "enclosure"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/33/San_Francisco_Zoo_logo.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 382826076,
+            "lat": 37.7321848,
+            "lon": -122.5008354,
+            "tags": {
+                "attraction": "animal",
+                "barrier": "fence",
+                "name": "Bobcat",
+                "name:es": "Lince Rojo",
+                "natural": "grassland",
+                "species:wikidata": "Q131907",
+                "species:wikipedia": "en:Bobcat",
+                "tourism": "attraction",
+                "zoo": "enclosure"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/33/San_Francisco_Zoo_logo.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 402111597,
+            "lat": 37.8020452,
+            "lon": -122.4194829,
+            "tags": {
+                "alt_name": "The Crookedest Street",
+                "caravan": "no",
+                "cycleway:both": "no",
+                "foot": "no",
+                "goods": "destination",
+                "highway": "residential",
+                "incline": "-16%",
+                "lanes": "1",
+                "lit": "yes",
+                "maxspeed": "25 mph",
+                "maxspeed:advisory": "5 mph",
+                "maxweight:hgv": "3 st",
+                "motorhome": "no",
+                "name": "Lombard Street",
+                "name:en": "Lombard Street",
+                "name:etymology:wikidata": "Q15242635",
+                "name:zh": "九曲花街",
+                "oneway": "yes",
+                "parking:both": "no",
+                "sidewalk": "separate",
+                "surface": "bricks",
+                "tourism": "attraction",
+                "tourist_bus": "no",
+                "wikidata": "Q930276",
+                "wikipedia": "en:Lombard Street (San Francisco)"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Russian_Hill%2C_San_Francisco%2C_CA.JPG/1280px-Russian_Hill%2C_San_Francisco%2C_CA.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 404432093,
+            "lat": 43.2560184,
+            "lon": -2.9282337,
+            "tags": {
+                "addr:city": "Bilbao",
+                "addr:housenumber": "14",
+                "addr:postcode": "48003",
+                "addr:street": "San Frantzisko kalea",
+                "building": "apartments",
+                "name": "Museo de reproducciones artísticas",
+                "opening_hours": "Mo off; Tu-Sa 10:00-13:30,16:00-19:00; Su 10:00-14:00",
+                "tourism": "museum",
+                "website": "https://www.museoreproduccionesbilbao.org",
+                "wikidata": "Q13221631",
+                "wikipedia": "es:Museo de Reproducciones de Bilbao"
+            }
+        },
+        {
+            "type": "way",
+            "id": 404847048,
+            "lat": 37.7328989,
+            "lon": -122.5023618,
+            "tags": {
+                "contact:facebook": "https://www.facebook.com/sanfranzoo/",
+                "contact:instagram": "https://www.instagram.com/sanfranciscozoo",
+                "contact:tiktok": "https://www.tiktok.com/@sanfranciscozoo",
+                "contact:twitter": "https://twitter.com/sfzoo",
+                "contact:youtube": "https://www.youtube.com/sfzoo",
+                "fee": "yes",
+                "name": "San Francisco Zoo",
+                "name:es": "Zoológico de San Francisco",
+                "opening_hours": "Mo-Su 9:30-16:30",
+                "tourism": "zoo",
+                "website": "https://www.sfzoo.org/",
+                "wikidata": "Q1886334",
+                "wikimedia_commons": "Category:San Francisco Zoo",
+                "wikipedia": "en:San Francisco Zoo"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/33/San_Francisco_Zoo_logo.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 404862894,
+            "lat": 37.7319684,
+            "lon": -122.5016823,
+            "tags": {
+                "attraction": "animal",
+                "layer": "1",
+                "name": "Lions & Tiger Yards",
+                "name:es": "Patio del León y el Tigre",
+                "natural": "grassland",
+                "tourism": "attraction",
+                "zoo": "enclosure"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/33/San_Francisco_Zoo_logo.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 558731934,
+            "lat": 37.795538,
+            "lon": -122.3934296,
+            "tags": {
+                "addr:city": "San Francisco",
+                "addr:housename": "Ferry Building",
+                "addr:housenumber": "1",
+                "addr:postcode": "94111",
+                "addr:state": "CA",
+                "amenity": "ferry_terminal",
+                "building": "terminal",
+                "check_date": "2026-03-03",
+                "ele": "1",
+                "ferry": "yes",
+                "gnis:feature_id": "223477",
+                "height": "83.1",
+                "historic": "landmark",
+                "name": "San Francisco Ferry Building",
+                "name:ko": "페리 빌딩",
+                "opening_hours": "Mo-Fr 07:00-22:00; Sa 07:00-22:00; Su 07:00-22:00",
+                "public_transport": "station",
+                "shop": "mall",
+                "source": "USGS Geonames",
+                "tourism": "attraction",
+                "website": "https://www.ferrybuildingmarketplace.com/",
+                "wheelchair": "yes",
+                "wikidata": "Q1408117"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/San_Francisco_Ferry_Building_%28cropped%29.jpg/1280px-San_Francisco_Ferry_Building_%28cropped%29.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 676621358,
+            "lat": 37.7708543,
+            "lon": -122.3900545,
+            "tags": {
+                "addr:city": "San Francisco",
+                "addr:housenumber": "1379",
+                "addr:postcode": "94158",
+                "addr:state": "CA",
+                "addr:street": "4th Street",
+                "alt_name": "Stagecoach Greens",
+                "contact:facebook": "StagecoachGreens",
+                "contact:instagram": "stagecoachgreens",
+                "contact:youtube": "https://www.youtube.com/channel/UCGlh2p5abMkOyIAL5DAvs6g",
+                "email": "greenskeeper@popupfamilyfun.com",
+                "leisure": "miniature_golf",
+                "name": "Boom & Bust Course",
+                "opening_hours": "Mo 11:00-16:00; Tu-Su 11:00-21:00",
+                "opening_hours:url": "https://www.stagecoachgreens.com/",
+                "operator": "Stagecoach Greens",
+                "phone": "+1 415 310 3246",
+                "tourism": "theme_park",
+                "website": "https://www.stagecoachgreens.com/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Mission_Creek.jpg/1280px-Mission_Creek.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 705309578,
+            "lat": 37.7643906,
+            "lon": -122.4381827,
+            "tags": {
+                "addr:city": "San Francisco",
+                "addr:housenumber": "199",
+                "addr:state": "CA",
+                "addr:street": "Museum Way",
+                "building": "yes",
+                "check_date:opening_hours": "2023-02-24",
+                "ele": "105",
+                "fee": "no",
+                "gnis:feature_id": "226387",
+                "height": "5",
+                "layer": "1",
+                "name": "Randall Museum",
+                "opening_hours": "Tu-Sa 10:00-17:00; Jan 1 off, Jul 4 off, Nov 11 off, Dec 25 off; Nov Th[4]-Fr[4] Off; Dec 25 off",
+                "source": "USGS Geonames",
+                "tourism": "museum",
+                "website": "https://randallmuseum.org/",
+                "wheelchair": "yes",
+                "wikidata": "Q7291583"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Randall-Museum.jpg/1280px-Randall-Museum.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 745183964,
+            "lat": 37.7763606,
+            "lon": -122.4346963,
+            "tags": {
+                "addr:city": "San Francisco",
+                "addr:postcode": "94117",
+                "addr:state": "CA",
+                "ele": "79",
+                "leisure": "park",
+                "localwiki": "sf/Alamo Square",
+                "name": "Alamo Square",
+                "operator": "San Francisco Recreation & Park Department",
+                "operator:short": "SFRPD",
+                "operator:website": "https://sfrecpark.org/",
+                "operator:wikidata": "Q14683875",
+                "operator:wikipedia": "en:San Francisco Recreation & Parks Department",
+                "tourism": "attraction",
+                "wikidata": "Q1855438",
+                "wikipedia": "en:Alamo Square, San Francisco"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Alamo_Square_with_Painted_Ladies%2C_SF%2C_CA%2C_jjron_26.03.2012.jpg/1280px-Alamo_Square_with_Painted_Ladies%2C_SF%2C_CA%2C_jjron_26.03.2012.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 773826062,
+            "lat": 37.7327554,
+            "lon": -122.5033117,
+            "tags": {
+                "attraction": "animal",
+                "name": "Sifaka",
+                "species:wikidata": "Q673365",
+                "species:wikipedia": "en:Sifaka",
+                "tourism": "attraction",
+                "zoo": "enclosure"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/33/San_Francisco_Zoo_logo.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 775426702,
+            "lat": 8.2568852,
+            "lon": -80.9709663,
+            "tags": {
+                "leisure": "swimming_area",
+                "name": "Chorro El Espíritu Santo",
+                "natural": "water",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "way",
+            "id": 775426986,
+            "lat": 8.2487448,
+            "lon": -80.9678275,
+            "tags": {
+                "leisure": "swimming_area",
+                "name": "El Salto de San Francisco",
+                "natural": "water",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Iglesia_de_San_Francisco_de_La_Monta%C3%B1a_-_Flickr_-_f_msantos...lo_que_siento_por_ti%21_%283%29.jpg/1280px-Iglesia_de_San_Francisco_de_La_Monta%C3%B1a_-_Flickr_-_f_msantos...lo_que_siento_por_ti%21_%283%29.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 775426987,
+            "lat": 8.2522075,
+            "lon": -80.9716013,
+            "tags": {
+                "leisure": "swimming_area",
+                "name": "Balneario Las Delicias",
+                "natural": "water",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "way",
+            "id": 940067365,
+            "lat": 37.8018051,
+            "lon": -122.4055436,
+            "tags": {
+                "addr:street": "Filbert Street",
+                "highway": "footway",
+                "incline": "up",
+                "lit": "no",
+                "name": "Filbert Steps",
+                "surface": "concrete",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f5/TelegraphHillbyJohnCurley.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 940067366,
+            "lat": 37.8018705,
+            "lon": -122.4053494,
+            "tags": {
+                "addr:street": "Filbert Street",
+                "highway": "footway",
+                "incline": "up",
+                "lit": "no",
+                "name": "Filbert Steps",
+                "surface": "concrete",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f5/TelegraphHillbyJohnCurley.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 940067367,
+            "lat": 37.8019527,
+            "lon": -122.404749,
+            "tags": {
+                "addr:street": "Filbert Street",
+                "highway": "footway",
+                "incline": "up",
+                "name": "Filbert Steps",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Malloch_Building.jpg/1280px-Malloch_Building.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 940067368,
+            "lat": 37.8019782,
+            "lon": -122.4046204,
+            "tags": {
+                "addr:street": "Filbert Street",
+                "handrail": "yes",
+                "highway": "steps",
+                "incline": "up",
+                "name": "Filbert Steps",
+                "ramp": "no",
+                "surface": "concrete",
+                "tiger:county": "San Francisco, CA",
+                "tourism": "attraction",
+                "wheelchair": "yes"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Malloch_Building.jpg/1280px-Malloch_Building.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 940067369,
+            "lat": 37.801932,
+            "lon": -122.4045129,
+            "tags": {
+                "addr:street": "Filbert Street",
+                "highway": "footway",
+                "incline": "up",
+                "name": "Filbert Steps",
+                "tiger:county": "San Francisco, CA",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Malloch_Building.jpg/1280px-Malloch_Building.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 966201482,
+            "lat": 37.8021088,
+            "lon": -122.4186612,
+            "tags": {
+                "alt_name": "The Crookedest Street",
+                "caravan": "no",
+                "cycleway:both": "no",
+                "foot": "no",
+                "goods": "destination",
+                "highway": "residential",
+                "incline": "-16%",
+                "lanes": "1",
+                "lit": "yes",
+                "maxspeed": "25 mph",
+                "maxspeed:advisory": "5 mph",
+                "maxweight:hgv": "3 st",
+                "motorhome": "no",
+                "name": "Lombard Street",
+                "name:en": "Lombard Street",
+                "name:etymology:wikidata": "Q15242635",
+                "name:zh": "九曲花街",
+                "note": "Tour busses are banned",
+                "oneway": "yes",
+                "parking:both": "no",
+                "sidewalk": "separate",
+                "surface": "bricks",
+                "tourism": "attraction",
+                "tourist_bus": "no",
+                "wikidata": "Q930276",
+                "wikipedia": "en:Lombard Street (San Francisco)"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Russian_Hill%2C_San_Francisco%2C_CA.JPG/1280px-Russian_Hill%2C_San_Francisco%2C_CA.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 970291481,
+            "lat": 37.7630465,
+            "lon": -122.419556,
+            "tags": {
+                "foot": "no",
+                "highway": "service",
+                "lanes": "1",
+                "lit": "yes",
+                "name": "Clarion Alley",
+                "oneway": "yes",
+                "service": "alley",
+                "sidewalk": "no",
+                "surface": "asphalt",
+                "tiger:cfcc": "A41",
+                "tiger:county": "San Francisco, CA",
+                "tiger:name_base": "Clarion",
+                "tiger:name_type": "Aly",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "way",
+            "id": 1054232954,
+            "lat": -39.0087426,
+            "lon": -68.4285852,
+            "tags": {
+                "addr:city": "Senillosa",
+                "addr:housenumber": "S/N",
+                "addr:postcode": "Q8316",
+                "addr:street": "Olascoaga",
+                "building": "yes",
+                "name": "Réplica de la Casa de la Independencia",
+                "operator": "Municipalidad de Senillosa",
+                "operator:type": "public",
+                "tourism": "museum"
+            }
+        },
+        {
+            "type": "way",
+            "id": 1054232959,
+            "lat": -39.008405,
+            "lon": -68.4281132,
+            "tags": {
+                "addr:city": "Senillosa",
+                "addr:housenumber": "S/N",
+                "addr:postcode": "Q8316",
+                "addr:street": "Olascoaga",
+                "building": "yes",
+                "name": "Museo de Ciencias Naturales",
+                "operator": "Municipalidad de Senillosa",
+                "operator:type": "public",
+                "tourism": "museum"
+            }
+        },
+        {
+            "type": "way",
+            "id": 1078027190,
+            "lat": 37.8036624,
+            "lon": -122.4557607,
+            "tags": {
+                "addr:housenumber": "601",
+                "addr:street": "Mason Street",
+                "building": "yes",
+                "building:levels": "1",
+                "check_date": "2024-10-12",
+                "height": "10",
+                "name": "Field Station",
+                "opening_hours": "Mo-Tu off; We-Fr 11:00-16:00; Sa-Su 10:00-17:00",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Golden_Gate_Bridge_from_Crissy_Field.JPG/1280px-Golden_Gate_Bridge_from_Crissy_Field.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 1132011342,
+            "lat": 39.4698003,
+            "lon": -6.3690677,
+            "tags": {
+                "building": "yes",
+                "name": "Casa Museo Guayasamin",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Vista_exterior_del_Museo_de_Arte_Contempor%C3%A1neo_Helga_de_Alvear.jpg/1280px-Vista_exterior_del_Museo_de_Arte_Contempor%C3%A1neo_Helga_de_Alvear.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 1157768091,
+            "lat": 37.8020296,
+            "lon": -122.4040485,
+            "tags": {
+                "addr:street": "Filbert Street",
+                "handrail": "yes",
+                "highway": "steps",
+                "incline": "up",
+                "name": "Filbert Steps",
+                "ramp": "no",
+                "surface": "wood",
+                "tiger:county": "San Francisco, CA",
+                "tourism": "attraction",
+                "wheelchair": "no"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Malloch_Building.jpg/1280px-Malloch_Building.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 1157768096,
+            "lat": 37.8019472,
+            "lon": -122.4044011,
+            "tags": {
+                "addr:street": "Filbert Street",
+                "handrail": "yes",
+                "highway": "steps",
+                "incline": "up",
+                "name": "Filbert Steps",
+                "ramp": "no",
+                "surface": "concrete",
+                "tiger:county": "San Francisco, CA",
+                "tourism": "attraction",
+                "wheelchair": "no"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Malloch_Building.jpg/1280px-Malloch_Building.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 1280748838,
+            "lat": 37.8086754,
+            "lon": -122.4068604,
+            "tags": {
+                "building": "ship",
+                "historic": "ship",
+                "name": "SS Jeremiah O'Brien",
+                "opening_hours": "Mo-Su 10:00-16:00; Nov Th[4] off; Dec 24 off; Dec 25 off; Jan 01 off",
+                "tourism": "attraction",
+                "website": "https://www.ssjeremiahobrien.org/",
+                "wikidata": "Q2464180"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Jeremiah_O%27Brien_side.JPG/1280px-Jeremiah_O%27Brien_side.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 1364891448,
+            "lat": 37.7577828,
+            "lon": -122.4399101,
+            "tags": {
+                "access": "yes",
+                "leisure": "playground",
+                "name": "Seward Street Slides",
+                "opening_hours": "Tu-Su 10:00-17:00",
+                "playground": "slide",
+                "toilets:wheelchair": "yes",
+                "tourism": "attraction",
+                "wheelchair": "yes"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Flying_kites_on_Kite_Hill%2C_San_Francisco%2C_California%2C_USA.jpg/1280px-Flying_kites_on_Kite_Hill%2C_San_Francisco%2C_California%2C_USA.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 1437026588,
+            "lat": 37.8020932,
+            "lon": -122.4033302,
+            "tags": {
+                "access": "yes",
+                "addr:street": "Filbert Street",
+                "handrail": "yes",
+                "highway": "steps",
+                "incline": "up",
+                "name": "Filbert Steps",
+                "ramp": "no",
+                "surface": "concrete",
+                "tiger:county": "San Francisco, CA",
+                "tourism": "attraction",
+                "wheelchair": "no"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Levi%27s_Storefront_%2848105830541%29.jpg/1280px-Levi%27s_Storefront_%2848105830541%29.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 1437026589,
+            "lat": 37.8021053,
+            "lon": -122.4033429,
+            "tags": {
+                "access": "yes",
+                "addr:street": "Filbert Street",
+                "handrail": "yes",
+                "highway": "footway",
+                "incline": "up",
+                "name": "Filbert Steps",
+                "ramp": "no",
+                "surface": "concrete",
+                "tiger:county": "San Francisco, CA",
+                "tourism": "attraction",
+                "wheelchair": "no"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Levi%27s_Storefront_%2848105830541%29.jpg/1280px-Levi%27s_Storefront_%2848105830541%29.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 1437026590,
+            "lat": 37.8020839,
+            "lon": -122.4033481,
+            "tags": {
+                "access": "yes",
+                "addr:street": "Filbert Street",
+                "handrail": "yes",
+                "highway": "steps",
+                "incline": "up",
+                "name": "Filbert Steps",
+                "ramp": "no",
+                "surface": "concrete",
+                "tiger:county": "San Francisco, CA",
+                "tourism": "attraction",
+                "wheelchair": "no"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Levi%27s_Storefront_%2848105830541%29.jpg/1280px-Levi%27s_Storefront_%2848105830541%29.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 1437026591,
+            "lat": 37.8020602,
+            "lon": -122.4033448,
+            "tags": {
+                "access": "yes",
+                "addr:street": "Filbert Street",
+                "handrail": "yes",
+                "highway": "footway",
+                "incline": "up",
+                "name": "Filbert Steps",
+                "ramp": "no",
+                "surface": "concrete",
+                "tiger:county": "San Francisco, CA",
+                "tourism": "attraction",
+                "wheelchair": "no"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Levi%27s_Storefront_%2848105830541%29.jpg/1280px-Levi%27s_Storefront_%2848105830541%29.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 1437026592,
+            "lat": 37.8021099,
+            "lon": -122.4037089,
+            "tags": {
+                "access": "yes",
+                "addr:street": "Filbert Street",
+                "handrail": "yes",
+                "highway": "steps",
+                "incline": "up",
+                "name": "Filbert Steps",
+                "ramp": "no",
+                "surface": "concrete",
+                "tiger:county": "San Francisco, CA",
+                "tourism": "attraction",
+                "wheelchair": "no"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Malloch_Building.jpg/1280px-Malloch_Building.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 1437026593,
+            "lat": 37.8021167,
+            "lon": -122.403661,
+            "tags": {
+                "access": "yes",
+                "addr:street": "Filbert Street",
+                "handrail": "yes",
+                "highway": "footway",
+                "incline": "up",
+                "name": "Filbert Steps",
+                "ramp": "no",
+                "surface": "concrete",
+                "tiger:county": "San Francisco, CA",
+                "tourism": "attraction",
+                "wheelchair": "no"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Malloch_Building.jpg/1280px-Malloch_Building.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 1501253434,
+            "lat": 37.7407756,
+            "lon": -122.3774655,
+            "tags": {
+                "fee": "yes",
+                "name": "City Grazing Goat Cuddle Zone",
+                "tourism": "zoo",
+                "website": "https://www.citygrazing.org/",
+                "zoo": "petting_zoo"
+            }
+        }
+    ]
+}

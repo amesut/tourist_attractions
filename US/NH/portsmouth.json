@@ -1,0 +1,1078 @@
+{
+    "city_metadata": {
+        "city_name": "Portsmouth",
+        "state_code": "NH",
+        "state_full": "New Hampshire",
+        "city_summary": "Portsmouth is a city in Rockingham County, New Hampshire, United States. It had a population of 21,956 at the 2020 census. A historic seaport and popular summer tourist destination on the Piscataqua River bordering the state of Maine, Portsmouth was formerly the home of the Pease Air Force Base, since converted to Portsmouth International Airport at Pease.",
+        "city_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Portsmouth%2C_NH.jpg/1280px-Portsmouth%2C_NH.jpg",
+        "city_lat": 43.05805556,
+        "city_lon": -70.7825,
+        "source": "wikipedia_verified_engine"
+    },
+    "attractions": [
+        {
+            "type": "node",
+            "id": 366495269,
+            "lat": 43.0778981,
+            "lon": -70.7548669,
+            "tags": {
+                "addr:city": "Portsmouth",
+                "addr:housenumber": "150",
+                "addr:postcode": "03802",
+                "addr:state": "NH",
+                "addr:street": "Daniel Street",
+                "ele": "3",
+                "gnis:feature_id": "1914627",
+                "name": "Warner House Museum",
+                "source": "USGS Geonames",
+                "tourism": "museum",
+                "website": "https://www.warnerhouse.org/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/16/The_Warner_House%2C_Portsmouth%2C_NH.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 366495349,
+            "lat": 43.0787182,
+            "lon": -70.7600221,
+            "tags": {
+                "addr:state": "NH",
+                "ele": "6",
+                "gnis:feature_id": "1914086",
+                "name": "Moffatt-Ladd House Museum",
+                "source": "USGS Geonames",
+                "tourism": "museum",
+                "website": "https://moffattladd.org/",
+                "wikidata": "Q6890357"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/William_Whipple_House%2C_Portsmouth%2C_NH_IMG_2658.JPG/1280px-William_Whipple_House%2C_Portsmouth%2C_NH_IMG_2658.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 1316959498,
+            "lat": 50.8070814,
+            "lon": -1.0872401,
+            "tags": {
+                "addr:city": "Portsmouth",
+                "addr:housenumber": "393",
+                "addr:postcode": "PO1 4QL",
+                "addr:street": "Old Commercial Road",
+                "fee": "yes",
+                "name": "Charles Dickens Birthplace Museum",
+                "note": "only open beginning of April to end of September and 7 February for the birthday",
+                "opening_hours": "Fr-Su 10:00-17:30",
+                "operator": "Portsmouth City Council",
+                "tourism": "museum",
+                "website": "https://charlesdickensbirthplace.co.uk/",
+                "wikidata": "Q17528937"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/CharlesDickens_house_Portsmouth.JPG/1280px-CharlesDickens_house_Portsmouth.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 1805569542,
+            "lat": 43.0354953,
+            "lon": -70.7820634,
+            "tags": {
+                "name": "Triple Giant Slides",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 2566841074,
+            "lat": 50.7980995,
+            "lon": -1.1062232,
+            "tags": {
+                "addr:city": "Portsmouth",
+                "addr:housenumber": "17-18",
+                "addr:postcode": "PO1 3DT",
+                "addr:street": "The Hard",
+                "email": "csmoffice@tiscali.co.uk",
+                "fee": "no",
+                "museum": "history",
+                "name": "Genesis Expo",
+                "operator": "Creation Science Movement",
+                "phone": "+44 23 9229 3988",
+                "religion": "christian",
+                "tourism": "museum",
+                "website": "https://csm.org.uk/genesis-expo/",
+                "wikidata": "Q113370166"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Portsmouth_Harbour_Station.jpg/1280px-Portsmouth_Harbour_Station.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 3748123265,
+            "lat": 41.5552797,
+            "lon": -71.2485565,
+            "tags": {
+                "addr:city": "Portsmouth",
+                "addr:housenumber": "250",
+                "addr:postcode": "02871",
+                "addr:state": "RI",
+                "addr:street": "Linden Lane",
+                "name": "Newport Polo",
+                "note": "America's First Polo Club, est 1876. Host of Newport International Polo Series every Sat, June-Sept. Year-round polo club membership & instruction.",
+                "phone": "+1 401-846-0200",
+                "tourism": "attraction",
+                "website": "http://nptpolo.com"
+            }
+        },
+        {
+            "type": "node",
+            "id": 4741476263,
+            "lat": 50.7994558,
+            "lon": -1.1073719,
+            "tags": {
+                "name": "36 Hours Jutland 1916",
+                "toilets:wheelchair": "no",
+                "tourism": "attraction",
+                "wheelchair": "yes",
+                "wheelchair:description": "Step-free around exhibition, although some uneven surfaces inside. Gift shop at entrance. (No Hearing Loop provision for audiovisual displays or at till. )"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/be/Looking_from_Admiralty_House_towards_South_Terrace_-_geograph.org.uk_-_900013.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 4741476275,
+            "lat": 50.7998939,
+            "lon": -1.107061,
+            "tags": {
+                "name": "Action Stations",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/be/Looking_from_Admiralty_House_towards_South_Terrace_-_geograph.org.uk_-_900013.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 4741561689,
+            "lat": 50.7987584,
+            "lon": -1.1090561,
+            "tags": {
+                "name": "Harbour Tours",
+                "tourism": "attraction",
+                "wheelchair": "limited",
+                "wheelchair:description": "Pier accessible, most tour boats and ferry to Gunwharf Quay may not have Step-free loading."
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/HMS_warriorjune20092.jpg/1280px-HMS_warriorjune20092.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 4940409524,
+            "lat": 43.0753879,
+            "lon": -70.7608048,
+            "tags": {
+                "addr:city": "Portsmouth",
+                "addr:housenumber": "10",
+                "addr:postcode": "03801",
+                "addr:state": "NH",
+                "addr:street": "Middle Street",
+                "name": "Discover Portsmouth",
+                "tourism": "museum",
+                "website": "https://portsmouthhistory.org/about/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Red_ensign_of_Great_Britain_%281707%E2%80%931800%2C_square_canton%29.svg/1280px-Red_ensign_of_Great_Britain_%281707%E2%80%931800%2C_square_canton%29.svg.png",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 5826953380,
+            "lat": 36.838636,
+            "lon": -76.2980184,
+            "tags": {
+                "direction": "S",
+                "historic": "memorial",
+                "memorial": "statue",
+                "name": "Spanish American War 1898-1902",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/68/A_Light_Named_Portsmouth.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 6634191882,
+            "lat": 43.0794238,
+            "lon": -70.758057,
+            "tags": {
+                "addr:city": "Portsmouth",
+                "addr:housenumber": "64",
+                "addr:postcode": "03801",
+                "addr:state": "NH",
+                "addr:street": "Ceres Street",
+                "name": "Portsmouth Harbor Cruises",
+                "tourism": "attraction",
+                "website": "https://www.portsmouthharbor.com/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/William_Whipple_House%2C_Portsmouth%2C_NH_IMG_2658.JPG/1280px-William_Whipple_House%2C_Portsmouth%2C_NH_IMG_2658.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 9683296444,
+            "lat": 38.7317821,
+            "lon": -83.002691,
+            "tags": {
+                "name": "Candyland Children's Museum",
+                "tourism": "museum",
+                "website": "https://www.candylandmuseum.com/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Portsmouth_First_Presbyterian_Church.jpg/1280px-Portsmouth_First_Presbyterian_Church.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 9818735563,
+            "lat": 36.8375951,
+            "lon": -76.2977754,
+            "tags": {
+                "name": "Archway",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/68/A_Light_Named_Portsmouth.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 9838614504,
+            "lat": 50.8009774,
+            "lon": -1.0913748,
+            "tags": {
+                "addr:city": "Portsmouth",
+                "addr:country": "GB",
+                "addr:housename": "Cascades Shopping Centre",
+                "check_date": "2022-06-21",
+                "level": "0",
+                "name": "Motoring in Miniature - On Tour",
+                "note": "Window display in disused shop",
+                "operator": "National Motor Museum",
+                "tourism": "museum",
+                "website": "https://nationalmotormuseum.org.uk/story-of-motoring/motoring-in-miniature/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/St_Agatha%27s_Church%2C_Marketway%2C_Portsmouth_%28NHLE_Code_1245260%29_%28November_2017%29_%283%29.jpg/1280px-St_Agatha%27s_Church%2C_Marketway%2C_Portsmouth_%28NHLE_Code_1245260%29_%28November_2017%29_%283%29.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 12059585061,
+            "lat": 38.7344807,
+            "lon": -82.9959174,
+            "tags": {
+                "addr:city": "Portsmouth",
+                "addr:housenumber": "825",
+                "addr:postcode": "45662",
+                "addr:street": "Gallia Street",
+                "museum": "local",
+                "name": "Southern Ohio Museum and Cultural Center",
+                "opening_hours": "10:00-17:00",
+                "tourism": "museum",
+                "website": "https://somacc.com/"
+            }
+        },
+        {
+            "type": "node",
+            "id": 12433822991,
+            "lat": 50.7982091,
+            "lon": -1.1092567,
+            "tags": {
+                "historic": "ship",
+                "name": "HMS Warrior",
+                "opening_hours": "Mo-Su 10:00-17:30",
+                "ship:type": "frigate",
+                "start_date": "1860",
+                "toilets:wheelchair": "no",
+                "tourism": "attraction",
+                "website": "https://www.nmrn.org.uk/visit-us/portsmouth-historic-dockyard/hms-warrior",
+                "wheelchair": "limited",
+                "wheelchair:description": "Steep ramp to open deck level, accessible with mobility scooter powered chair. No step free a cytotoxic lower gun decks, cafe, gift shop and toilets below.",
+                "wikidata": "Q609925",
+                "wikipedia": "en:HMS Warrior (1860)"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/HMS_warriorjune20092.jpg/1280px-HMS_warriorjune20092.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 5576986,
+            "lat": 50.7808912,
+            "lon": -1.072306,
+            "tags": {
+                "alt_name": "Craneswater Lake",
+                "boat": "private",
+                "name": "Canoe Lake",
+                "natural": "water",
+                "ref:GB:uprn": "1775025681",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Entrance_to_Lumps_Fort%2C_Canoe_Lake_grounds%2C_Southsea_-_geograph.org.uk_-_71147.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 23911248,
+            "lat": 50.7788558,
+            "lon": -1.0850707,
+            "tags": {
+                "addr:city": "Southsea",
+                "addr:postcode": "PO5 3ST",
+                "building": "yes",
+                "leisure": "fitness_centre",
+                "name": "Pyramids Centre",
+                "ref:GB:uprn": "1775013683;1775013684",
+                "toilets:wheelchair": "yes",
+                "tourism": "attraction",
+                "wheelchair": "yes",
+                "wikidata": "Q7232489",
+                "wikipedia": "en:Portsmouth Pyramids Centre"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Portsmouth_Pyramids_Centre_1.jpg/1280px-Portsmouth_Pyramids_Centre_1.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 24774513,
+            "lat": 50.7796271,
+            "lon": -1.0894493,
+            "tags": {
+                "addr:city": "Southsea",
+                "addr:postcode": "PO5 3NT",
+                "building": "yes",
+                "name": "D-Day Museum",
+                "ref:GB:uprn": "1775127179;1775013707",
+                "tourism": "museum",
+                "website": "https://theddaystory.com/",
+                "wikidata": "Q5203249",
+                "wikipedia": "en:The D-Day Story"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/D-Day_Museum%2C_Southsea%2C_Portsmouth_%28rear_exterior%29.jpg/1280px-D-Day_Museum%2C_Southsea%2C_Portsmouth_%28rear_exterior%29.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 24857535,
+            "lat": 50.7825335,
+            "lon": -1.0956441,
+            "tags": {
+                "historic": "monument",
+                "name": "Royal Naval War Memorial",
+                "tourism": "attraction",
+                "wikidata": "Q20712306",
+                "wikipedia": "en:Portsmouth Naval Memorial"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Portsmouth_Naval_Memorial%2C_22_April_2023.jpg/1280px-Portsmouth_Naval_Memorial%2C_22_April_2023.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 27791301,
+            "lat": 50.7809422,
+            "lon": -1.0686842,
+            "tags": {
+                "attraction": "model_village",
+                "layer": "1",
+                "name": "Southsea Model Village",
+                "opening_hours": "Mo-Su 10:30-16:30",
+                "tourism": "attraction",
+                "website": "https://www.southseamodelvillage.biz/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/eb/South_Parade_pier%2C_Southsea_-_geograph.org.uk_-_8163.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 32393527,
+            "lat": 50.8017466,
+            "lon": -1.1095688,
+            "tags": {
+                "building": "ship",
+                "check_date:opening_hours": "2024-07-21",
+                "historic": "ship",
+                "name": "HMS Victory",
+                "opening_hours": "Mo-Su 10:00-17:30",
+                "ref:GB:uprn": "1775090222",
+                "ship:type": "ship_of_the_line",
+                "start_date": "1765",
+                "toilets:wheelchair": "no",
+                "tourism": "attraction",
+                "website": "https://www.nmrn.org.uk/visit-us/portsmouth-historic-dockyard/hms-victory",
+                "wheelchair": "limited",
+                "wheelchair:description": "Only one deck accessible by ramps.",
+                "wikidata": "Q213958",
+                "wikipedia": "en:HMS Victory"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/HMSVictoryPortsmouthEngland_%28version_2%29.jpg/1280px-HMSVictoryPortsmouthEngland_%28version_2%29.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 42679015,
+            "lat": 50.801792,
+            "lon": -1.1106613,
+            "tags": {
+                "building": "ship",
+                "historic": "ship",
+                "name": "HMS Monitor M33",
+                "ref:GB:uprn": "1775090223",
+                "ship:type": "monitor",
+                "start_date": "1915",
+                "toilets:wheelchair": "no",
+                "tourism": "attraction",
+                "website": "https://www.hants.gov.uk/m33.htm",
+                "wheelchair": "limited",
+                "wheelchair:description": "Lift down into dry dock, access straight through. Step-free into interior of ship, but steps to outside decks of M33.",
+                "wikidata": "Q3010574",
+                "wikipedia": "en:HMS M33"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/HMS_M.33.jpg/1280px-HMS_M.33.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 71405894,
+            "lat": 50.7916349,
+            "lon": -1.0977534,
+            "tags": {
+                "addr:city": "Portsmouth",
+                "addr:postcode": "PO1 2LJ",
+                "addr:street": "Museum Road",
+                "building": "yes",
+                "name": "City Museum",
+                "opening_hours": "Tu-Su 10:00-17:00",
+                "operator": "Portsmouth Museum Service, Portsmouth City Council",
+                "ref:GB:uprn": "1775130748;1775130563;1775130565;1775057255",
+                "source": "os_opendata_streetview",
+                "toilets:wheelchair": "yes",
+                "tourism": "museum",
+                "website": "http://www.portsmouthcitymuseums.co.uk/",
+                "wheelchair": "yes",
+                "wikidata": "Q19568980",
+                "wikipedia": "en:Portsmouth City Museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Portsmouth_City_Museum_in_March_2012.JPG/1280px-Portsmouth_City_Museum_in_March_2012.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 87013679,
+            "lat": 50.7856632,
+            "lon": -1.1013391,
+            "tags": {
+                "addr:postcode": "PO5 3AA",
+                "fee": "yes",
+                "name": "Clarence Pier",
+                "opening_hours": "Jul 05,Jul 12,Jul 19 11:00-20:00; Jul 26-Aug 30 11:00-20:00; Jul 06,Jul 13,Jul 20 11:00-19:00; Jul 23-25,Aug 31-Sep 02 11:00-19:00; Sep 06-Oct 05 Sa,Su 12:00-19:00",
+                "opening_hours:url": "https://www.clarencepier.co.uk/opening-times/",
+                "tourism": "theme_park",
+                "website": "https://www.clarencepier.co.uk/",
+                "wheelchair": "yes",
+                "wikidata": "Q5126706"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Clarence_Pier%2C_Pier_Road%2C_Southsea_%28September_2024%29_%287%29.jpg/1280px-Clarence_Pier%2C_Pier_Road%2C_Southsea_%28September_2024%29_%287%29.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 87013680,
+            "lat": 50.7862003,
+            "lon": -1.1008577,
+            "tags": {
+                "leisure": "miniature_golf",
+                "name": "Treasure Island Adventure Golf",
+                "tourism": "attraction",
+                "wheelchair": "yes"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Clarence_Pier%2C_Pier_Road%2C_Southsea_%28September_2024%29_%287%29.jpg/1280px-Clarence_Pier%2C_Pier_Road%2C_Southsea_%28September_2024%29_%287%29.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 88647913,
+            "lat": 43.0822519,
+            "lon": -70.7669562,
+            "tags": {
+                "access": "yes",
+                "addr:city": "Portsmouth",
+                "addr:housenumber": "600",
+                "addr:postcode": "03801",
+                "addr:state": "NH",
+                "addr:street": "Market Street",
+                "boundary": "protected_area",
+                "building": "ship",
+                "contact:mastodon": "@albacorepark@mastodon.social",
+                "fee": "yes",
+                "heritage": "2",
+                "heritage:operator": "nrhp",
+                "historic": "ship",
+                "museum": "maritime",
+                "name": "USS Albacore",
+                "nrhp:criteria": "(A),(C)",
+                "nrhp:inscription_date": "April 11, 1989",
+                "nrhp:nhl": "yes",
+                "phone": "+1 603-436-3680",
+                "protection_title": "protected_site",
+                "ref": "AGSS-569",
+                "ref:nrhp": "89001077",
+                "ship:type": "submarine",
+                "start_date": "1953",
+                "tourism": "museum",
+                "website": "https://www.ussalbacore.org/",
+                "wikidata": "Q1415962",
+                "wikipedia": "en:USS Albacore (AGSS-569)"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Uss_albacore_patch.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 147562091,
+            "lat": 41.5688097,
+            "lon": -71.2799328,
+            "tags": {
+                "addr:housenumber": "1947",
+                "addr:postcode": "02871",
+                "addr:state": "RI",
+                "addr:street": "West Main Road",
+                "building": "industrial",
+                "name": "Newport Car Museum",
+                "source": "esri_USDOT_RhodeIsland",
+                "tourism": "museum"
+            }
+        },
+        {
+            "type": "way",
+            "id": 154075909,
+            "lat": 50.7804583,
+            "lon": -1.0871426,
+            "tags": {
+                "addr:city": "Portsmouth",
+                "addr:country": "GB",
+                "addr:county": "Hampshire",
+                "addr:place": "Southsea",
+                "addr:postcode": "PO5 3NZ",
+                "addr:street": "Clarence Esplanade",
+                "leisure": "pitch",
+                "name": "Southsea Skate Park",
+                "phone": "+44 23 9229 5360",
+                "sport": "skateboard",
+                "surface": "concrete",
+                "tourism": "attraction",
+                "website": "www.southseaskatepark.com"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/D-Day_Museum%2C_Southsea%2C_Portsmouth_%28rear_exterior%29.jpg/1280px-D-Day_Museum%2C_Southsea%2C_Portsmouth_%28rear_exterior%29.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 154076743,
+            "lat": 50.781113,
+            "lon": -1.06796,
+            "tags": {
+                "garden:type": "community",
+                "leisure": "garden",
+                "name": "Southsea Rose Garden",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/eb/South_Parade_pier%2C_Southsea_-_geograph.org.uk_-_8163.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 173688738,
+            "lat": 36.836986,
+            "lon": -76.2961796,
+            "tags": {
+                "addr:city": "Portsmouth",
+                "addr:housenumber": "421",
+                "addr:postcode": "23704",
+                "addr:state": "VA",
+                "addr:street": "Water Street",
+                "building": "yes",
+                "ele": "2",
+                "gnis:feature_id": "1790924",
+                "heritage": "2",
+                "heritage:operator": "nrhp",
+                "heritage:website": "https://www.nps.gov/subjects/nationalregister/index.htm",
+                "historic": "ship",
+                "museum": "maritime",
+                "name": "Portsmouth Lightship Museum",
+                "nrhp:criteria": "(A), (C)",
+                "nrhp:inscription_date": "1989-05-05",
+                "nrhp:nhl": "yes",
+                "old_name": "U.S. Lighthouse Service Portsmouth Lightship",
+                "opening_hours": "Fr-Sa 10:00-17:00; Su 13:00-17:00",
+                "protection_title": "City of Portsmouth, Virginia",
+                "ref": "LV-101",
+                "ref:nrhp": "89001080",
+                "ship:type": "lightship",
+                "source": "USGS Geonames",
+                "source_ref": "https://catalog.archives.gov/id/41679105",
+                "start_date": "1916",
+                "tourism": "museum",
+                "website": "http://www.portsmouthnavalshipyardmuseum.com/lightship/index.html",
+                "wikidata": "Q7890709",
+                "wikipedia": "en:United States lightship Portsmouth (LV-101)"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/USS_Delaware_%281820%29_Model.jpg/1280px-USS_Delaware_%281820%29_Model.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 217486053,
+            "lat": 43.0369168,
+            "lon": -70.784778,
+            "tags": {
+                "addr:city": "Portsmouth",
+                "addr:housenumber": "2300",
+                "addr:postcode": "03801",
+                "addr:state": "NH",
+                "addr:street": "Lafayette Road",
+                "leisure": "water_park",
+                "name": "Water Country",
+                "opening_hours:url": "https://www.watercountry.com/hours-and-directions/calendar",
+                "phone": "+1-603-427-1111",
+                "smoking": "no",
+                "tourism": "theme_park",
+                "website": "https://www.watercountry.com/",
+                "wheelchair": "limited",
+                "wikidata": "Q14705411",
+                "wikipedia": "en:Water Country"
+            }
+        },
+        {
+            "type": "way",
+            "id": 303687511,
+            "lat": 50.8022003,
+            "lon": -1.108927,
+            "tags": {
+                "addr:city": "Portsmouth",
+                "addr:postcode": "PO1 3PY",
+                "building": "yes",
+                "name": "Mary Rose Museum",
+                "ref:GB:uprn": "1775090221;1775104994",
+                "toilets:wheelchair": "yes",
+                "tourism": "museum",
+                "website": "https://maryrose.org/",
+                "wheelchair": "yes",
+                "wheelchair:description": "Entry & Exit powered doors. High counter at till. (No loop) Double entrance lifts between levels, galleries slope along length like the deck. Toilets on top level & outside.",
+                "wikidata": "Q6780641",
+                "wikipedia": "en:Mary Rose Museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/AnthonyRoll-2_Mary_Rose.jpg/1280px-AnthonyRoll-2_Mary_Rose.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 307239966,
+            "lat": 43.0759819,
+            "lon": -70.7534191,
+            "tags": {
+                "museum": "open_air",
+                "name": "Strawbery Banke Museum",
+                "phone": "+1 603 433 1100",
+                "protect_class": "22",
+                "protection_title": "U.S. Historic District",
+                "tourism": "museum",
+                "website": "https://www.strawberybanke.org/",
+                "wikidata": "Q7622525",
+                "wikipedia": "en:Strawbery Banke"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/JeffersonSt.jpg/1280px-JeffersonSt.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 315692512,
+            "lat": 36.8305706,
+            "lon": -76.2995184,
+            "tags": {
+                "fee": "no",
+                "name": "Railroad Museum of Virginia",
+                "tourism": "museum"
+            }
+        },
+        {
+            "type": "way",
+            "id": 438505258,
+            "lat": 43.080864,
+            "lon": -70.7670595,
+            "tags": {
+                "addr:city": "Portsmouth",
+                "addr:housenumber": "76",
+                "addr:state": "NH",
+                "addr:street": "Northwest Street",
+                "alt_name": "Richard Jackson House Museum",
+                "boundary": "protected_area",
+                "building": "public",
+                "check_date": "2023-07-27",
+                "check_date:opening_hours": "2023-07-27",
+                "ele": "0",
+                "fee": "yes",
+                "gnis:feature_id": "1914471",
+                "heritage": "2",
+                "heritage:operator": "nrhp",
+                "name": "Jackson House",
+                "nrhp:criteria": "(C)",
+                "nrhp:inscription_date": "November 24, 1968",
+                "nrhp:nhl": "yes",
+                "opening_hours": "Jun 1-Oct 8: Sa[2,4] 11:30-14:30",
+                "opening_hours:url": "https://www.historicnewengland.org/property/jackson-house/",
+                "phone": "+1 603 436 3205",
+                "protection_title": "protected_site",
+                "ref:nrhp": "68000009",
+                "seasonal": "yes",
+                "source": "USGS Geonames",
+                "start_date": "1664",
+                "tourism": "museum",
+                "wheelchair": "limited",
+                "wikidata": "Q7326797",
+                "wikipedia": "en:Richard Jackson House"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Jackson_House%2C_Portsmouth%2C_NH.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 442844436,
+            "lat": 43.0713375,
+            "lon": -70.7628798,
+            "tags": {
+                "addr:state": "NH",
+                "building": "residential",
+                "building:levels": "3",
+                "ele": "6",
+                "gnis:feature_id": "1914483",
+                "import_uuid": "gnis.57871b70-0100-4405-bb30-88b2e001a944",
+                "name": "Rundlet-May House Museum",
+                "source": "USGS Geonames",
+                "tourism": "museum",
+                "wikidata": "Q14705392"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Rundlet-May_House%2C_Portsmouth_NH.jpg/1280px-Rundlet-May_House%2C_Portsmouth_NH.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 443618951,
+            "lat": 50.7821352,
+            "lon": -1.0701951,
+            "tags": {
+                "addr:housename": "Cumberland House Natural History Museum",
+                "addr:postcode": "PO4 9RF",
+                "addr:street": "Eastern Parade",
+                "building": "yes",
+                "name": "Cumberland House Natural History Museum",
+                "ref:GB:uprn": "1775022789;1775022788;1775102909",
+                "tourism": "museum",
+                "website": "https://portsmouthnaturalhistory.co.uk/",
+                "wikidata": "Q113369751"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Entrance_to_Lumps_Fort%2C_Canoe_Lake_grounds%2C_Southsea_-_geograph.org.uk_-_71147.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 446107128,
+            "lat": 36.8349373,
+            "lon": -76.2989315,
+            "tags": {
+                "addr:city": "Portsmouth",
+                "addr:housenumber": "221",
+                "addr:postcode": "23704",
+                "addr:state": "VA",
+                "addr:street": "High Street",
+                "building": "yes",
+                "ele": "3",
+                "fee": "yes",
+                "gnis:feature_id": "2056763",
+                "name": "Children's Museum of Virginia",
+                "opening_hours": "Mo-Sa 09:00-17:00; Su 11:00-17:00",
+                "source": "USGS Geonames;esri_Virginia",
+                "tourism": "museum",
+                "website": "http://www.childrensmuseumva.com/",
+                "wikidata": "Q5098187",
+                "wikipedia": "en:Children's Museum of Virginia"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/VA_Childrens_Museum.jpg/1280px-VA_Childrens_Museum.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 446107131,
+            "lat": 36.8356299,
+            "lon": -76.3013702,
+            "tags": {
+                "addr:city": "Portsmouth",
+                "addr:housenumber": "400",
+                "addr:postcode": "23704",
+                "addr:state": "VA",
+                "addr:street": "High Street",
+                "building": "yes",
+                "ele": "3",
+                "gnis:feature_id": "1790962",
+                "name": "Portsmouth Art & Cultural Center",
+                "opening_hours": "Tu-Sa 10:00-17:00; Su 13:00-17:00",
+                "operator": "City of Portsmouth",
+                "operator:type": "public/government",
+                "source": "Virginia Geographic Information Network Open Data",
+                "tourism": "museum",
+                "website": "http://portsmouthartcenter.com/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Portsmouth%2C_Virginia_%288597911744%29.jpg/1280px-Portsmouth%2C_Virginia_%288597911744%29.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 446107132,
+            "lat": 36.8360021,
+            "lon": -76.2967468,
+            "tags": {
+                "addr:city": "Portsmouth",
+                "addr:housenumber": "2",
+                "addr:postcode": "23704",
+                "addr:state": "VA",
+                "addr:street": "High Street",
+                "building": "yes",
+                "ele": "1",
+                "gnis:feature_id": "1790937",
+                "name": "Portsmouth Naval Shipyard Museum",
+                "opening_hours": "Tu-Sa 10:00-17:00; Su 13:00-17:00",
+                "operator": "City of Portsmouth",
+                "source": "Virginia Geographic Information Network Open Data",
+                "tourism": "museum",
+                "website": "http://www.portsmouthnavalshipyardmuseum.com/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/USS_Delaware_%281820%29_Model.jpg/1280px-USS_Delaware_%281820%29_Model.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 603521985,
+            "lat": 36.8329499,
+            "lon": -76.3703083,
+            "tags": {
+                "area": "yes",
+                "barrier": "fence",
+                "fence_type": "split_rail",
+                "name": "Pokey Smokey II",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "way",
+            "id": 616280320,
+            "lat": 36.8347085,
+            "lon": -76.2962675,
+            "tags": {
+                "building": "yes",
+                "historic": "exhibit",
+                "name": "Fresnel Lens from Hog Island Light",
+                "start_date": "2004",
+                "tourism": "attraction",
+                "wikipedia": "en:Hog Island Light"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Seaboard_Air_Line_Building.jpg/1280px-Seaboard_Air_Line_Building.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 627208400,
+            "lat": 41.6057885,
+            "lon": -71.305277,
+            "tags": {
+                "building": "yes",
+                "museum": "history",
+                "name": "Prudence Island Historical Society",
+                "operator": "Prudence Island Historical Society",
+                "operator:type": "community",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Prudence_Island_Light_2007_crop.jpg/1280px-Prudence_Island_Light_2007_crop.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 629490625,
+            "lat": 36.8382372,
+            "lon": -76.298837,
+            "tags": {
+                "addr:city": "Portsmouth",
+                "addr:country": "US",
+                "addr:housenumber": "221",
+                "addr:postcode": "23704",
+                "addr:state": "VA",
+                "addr:street": "North Street",
+                "building": "yes",
+                "name": "Hill House Museum",
+                "source": "Virginia Geographic Information Network Open Data",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/68/A_Light_Named_Portsmouth.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 664708852,
+            "lat": 36.8317908,
+            "lon": -76.3130504,
+            "tags": {
+                "addr:city": "Portsmouth",
+                "addr:country": "US",
+                "addr:housenumber": "904",
+                "addr:postcode": "23704",
+                "addr:state": "VA",
+                "addr:street": "Elm Avenue",
+                "building": "yes",
+                "name": "Portsmouth Colored Community Library Museum",
+                "source": "Virginia Geographic Information Network Open Data",
+                "tourism": "museum",
+                "website": "https://portsvaafricanamericanheritage.com/",
+                "wikidata": "Q16898714"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Portsmouth_Community_Library_13SEP2014.jpg/1280px-Portsmouth_Community_Library_13SEP2014.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 666420527,
+            "lat": 50.8318701,
+            "lon": -1.0527352,
+            "tags": {
+                "addr:city": "Portsmouth",
+                "addr:postcode": "PO3 5PJ",
+                "addr:street": "Airport Service Road",
+                "addr:unit": "Bastion 6",
+                "building": "yes",
+                "name": "WW1 Remembrance Centre",
+                "tourism": "museum",
+                "website": "https://ww1remembrancecentre.uk/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/de/Airspeed_Consul_G-AIDX_at_Manchester_1954.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 722380507,
+            "lat": 43.0752634,
+            "lon": -70.7602897,
+            "tags": {
+                "addr:city": "Portsmouth",
+                "addr:housenumber": "43",
+                "addr:postcode": "03801",
+                "addr:state": "NH",
+                "addr:street": "Middle Street",
+                "boundary": "protected_area",
+                "building": "yes",
+                "heritage": "2",
+                "heritage:operator": "nrhp",
+                "name": "John Paul Jones House",
+                "nrhp:criteria": "(B)",
+                "nrhp:inscription_date": "November 28, 1972",
+                "nrhp:nhl": "yes",
+                "protection_title": "Portsmouth Historical Society",
+                "ref:nrhp": "72000084",
+                "source_ref": "https://catalog.archives.gov/id/77844594",
+                "start_date": "1758",
+                "tourism": "museum",
+                "wikidata": "Q6252231",
+                "wikipedia": "en:John Paul Jones House"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Portsmouth%2C_NH_-_John_Paul_Jones_House.JPG/1280px-Portsmouth%2C_NH_-_John_Paul_Jones_House.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 971394413,
+            "lat": 50.7801724,
+            "lon": -1.0908291,
+            "tags": {
+                "building": "yes",
+                "name": "Landing Craft LCT 7074",
+                "operator": "D-Day Museum",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/en/thumb/d/dc/LCT_7074_as_seen_from_the_stern_24_October_2024.jpg/1280px-LCT_7074_as_seen_from_the_stern_24_October_2024.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 1028426861,
+            "lat": 43.081903,
+            "lon": -70.7675797,
+            "tags": {
+                "addr:city": "Portsmouth",
+                "addr:housenumber": "600",
+                "addr:postcode": "03801",
+                "addr:state": "NH",
+                "addr:street": "Market Street",
+                "building": "yes",
+                "contact:mastodon": "@albacorepark@mastodon.social",
+                "fee": "yes",
+                "gnis:feature_id": "1914115",
+                "museum": "maritime",
+                "name": "USS Albacore Museum",
+                "old_name": "Port of Portsmouth Maritime Museum",
+                "opening_hours:url": "https://www.ussalbacore.org/hours-admission",
+                "seasonal": "yes",
+                "tourism": "museum",
+                "website": "https://www.ussalbacore.org/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Uss_albacore_patch.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 1329559934,
+            "lat": 50.7891004,
+            "lon": -1.0462723,
+            "tags": {
+                "addr:city": "Eastney",
+                "addr:housename": "Gas Engine House",
+                "addr:postcode": "PO4 9JF",
+                "addr:street": "Henderson Road",
+                "building": "yes",
+                "description": "Grade II listed former municipal pumping station with historic gas engines and pumps as well as a collection of stationary engines. Generally open to the public with free admission on the last Sunday of each month, See Website for opening times.",
+                "facebook": "https://www.facebook.com/groups/824230658021566/",
+                "name": "Eastney Gas Engine House",
+                "opening_hours": "Su[-1] 11:00 - 17:00",
+                "operator": "Portsmouth City Museums",
+                "operator:type": "public",
+                "source": "microsoft/BuildingFootprints",
+                "tourism": "museum",
+                "website": "http://portsmouthmuseums.co.uk/museum-service/Eastney-Beam-Engine-House"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Eastney_Engine_Houses.jpg/1280px-Eastney_Engine_Houses.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 1329559996,
+            "lat": 50.7887245,
+            "lon": -1.0458728,
+            "tags": {
+                "addr:city": "Southsea",
+                "addr:postcode": "PO4 9JF",
+                "addr:street": "Henderson Road",
+                "building": "yes",
+                "name": "Eastney Beam Engine House",
+                "phone": "+44 23 92834779",
+                "source": "microsoft/BuildingFootprints",
+                "toilets:wheelchair": "no",
+                "tourism": "museum",
+                "website": "http://www.portsmouthmuseums.co.uk/museum-service/Eastney-Beam-Engine-House",
+                "wheelchair": "no",
+                "wheelchair:description": "This venue consists of steps to be able to visit the full site. Narrow uneven path to Base of chimney. Limited openings dates, see website.",
+                "wikidata": "Q12056883"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Eastney_Engine_Houses.jpg/1280px-Eastney_Engine_Houses.jpg",
+            "image_source": "wikipedia_verified"
+        }
+    ]
+}

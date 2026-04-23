@@ -1,0 +1,398 @@
+{
+    "city_metadata": {
+        "city_name": "Mesa",
+        "state_code": "AZ",
+        "state_full": "Arizona",
+        "city_summary": "Mesa (  MAY-sə) is a city in Maricopa County, Arizona, United States. The population was 504,258 at the 2020 census. It is the third-most populous city in Arizona, after Phoenix and Tucson, the 37th-most populous city in the U.S., and the most populous city that is not a county seat (except for independent cities Washington, D.C. and Baltimore which are not part of any county).",
+        "city_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Mesa_Arts_Center_-_West_-_2009-09-16.JPG/1280px-Mesa_Arts_Center_-_West_-_2009-09-16.JPG",
+        "city_lat": 33.42222222,
+        "city_lon": -111.82277778,
+        "source": "wikipedia_verified_engine"
+    },
+    "attractions": [
+        {
+            "type": "node",
+            "id": 7963992247,
+            "lat": 33.4176269,
+            "lon": -111.8192031,
+            "tags": {
+                "historic": "locomotive",
+                "locomotive:type": "steam",
+                "name": "Engine 2355",
+                "panoramax": "173d4f91-b810-4bb9-b338-d935034583ff",
+                "tourism": "attraction",
+                "website": "https://www.mesaparks.com/parks-facilities/parks/pioneer-park/engine-2355-history"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Mesa_Dr_Station_VMR.jpg/1280px-Mesa_Dr_Station_VMR.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 9161279648,
+            "lat": 33.4145144,
+            "lon": -111.831011,
+            "tags": {
+                "museum": "art",
+                "name": "Mesa Contemporary Arts Museum",
+                "operator:website": "https://www.mesaartscenter.com/index.php/museum/visit",
+                "tourism": "museum"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9610200439,
+            "lat": 33.3422554,
+            "lon": -111.6858851,
+            "tags": {
+                "name": "Vertuccio Farms",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10665305869,
+            "lat": 33.3103264,
+            "lon": -111.6709835,
+            "tags": {
+                "historic": "aircraft",
+                "name": "T38 Talon",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "way",
+            "id": 134180156,
+            "lat": 33.4166902,
+            "lon": -111.833691,
+            "tags": {
+                "addr:city": "Mesa",
+                "addr:housenumber": "53",
+                "addr:postcode": "85201",
+                "addr:state": "AZ",
+                "addr:street": "North MacDonald",
+                "building": "yes",
+                "name": "Arizona Museum of Natural History",
+                "opening_hours": "Tu-Fr 10:00-17:00, Sa 11:00-17:00, Su 13:00-17:00",
+                "phone": "+1-480-644-2230",
+                "tourism": "museum",
+                "website": "https://arizonamuseumofnaturalhistory.org/",
+                "wikidata": "Q4069233",
+                "wikipedia": "en:Arizona Museum of Natural History"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Mesa-Arizona_Museum_of_Natural_History-Entrance_to_the_Museum..JPG/1280px-Mesa-Arizona_Museum_of_Natural_History-Entrance_to_the_Museum..JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 501539303,
+            "lat": 33.4166327,
+            "lon": -111.8360617,
+            "tags": {
+                "addr:city": "Mesa",
+                "addr:country": "US",
+                "addr:housenumber": "150",
+                "addr:postcode": "85201",
+                "addr:state": "AZ",
+                "addr:street": "West Pepper Place",
+                "building": "yes",
+                "internet_access": "wlan",
+                "name": "idea Museum",
+                "tourism": "museum",
+                "website": "https://www.ideamuseum.org/index.html",
+                "wikidata": "Q4791354"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Idea_Museum.jpg/1280px-Idea_Museum.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 548913749,
+            "lat": 33.3877231,
+            "lon": -111.8372409,
+            "tags": {
+                "addr:city": "Mesa",
+                "addr:housenumber": "155",
+                "addr:postcode": "85210",
+                "addr:state": "AZ",
+                "addr:street": "West Hampton Avenue",
+                "name": "Golfland Sunsplash",
+                "tourism": "theme_park",
+                "website": "https://www.golfland.com/mesa/",
+                "wikidata": "Q5580654",
+                "wikipedia": "en:Golfland Sunsplash"
+            }
+        },
+        {
+            "type": "way",
+            "id": 720574233,
+            "lat": 33.4526703,
+            "lon": -111.7350141,
+            "tags": {
+                "addr:city": "Mesa",
+                "addr:housenumber": "2017",
+                "addr:postcode": "85215",
+                "addr:state": "AZ",
+                "addr:street": "North Greenfield Road",
+                "name": "Arizona Commemorative Air Force Museum",
+                "opening_hours": "We-Su 10:00-16:00; Jan 1 off, Dec 25 off, Nov Th[4] off",
+                "phone": "+1-480-924-1940",
+                "tourism": "museum",
+                "website": "https://www.azcaf.org/",
+                "wikidata": "Q65121187",
+                "wikipedia": "en:Arizona Commemorative Air Force Museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Mesa-Arizona_Commemorative_Air_Force_Museum-2.jpg/1280px-Mesa-Arizona_Commemorative_Air_Force_Museum-2.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 831449958,
+            "lat": 33.42537,
+            "lon": -111.856054,
+            "tags": {
+                "building": "yes",
+                "name": "Zarco Guerrero",
+                "tourism": "museum"
+            }
+        },
+        {
+            "type": "way",
+            "id": 933612151,
+            "lat": 33.3878472,
+            "lon": -111.8363729,
+            "tags": {
+                "addr:city": "Mesa",
+                "addr:housenumber": "155",
+                "addr:postcode": "85210",
+                "addr:state": "AZ",
+                "addr:street": "West Hampton Avenue",
+                "building": "yes",
+                "name": "King Ben's Castle",
+                "source": "esri_USDOT_Arizona",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "way",
+            "id": 1082451465,
+            "lat": 33.4584432,
+            "lon": -111.8131198,
+            "tags": {
+                "addr:city": "Mesa",
+                "addr:housenumber": "2345",
+                "addr:postcode": "85203",
+                "addr:state": "AZ",
+                "addr:street": "North Horne",
+                "building": "yes",
+                "check_date:opening_hours": "2023-07-21",
+                "fee": "yes",
+                "fee:conditional": "no @ (age < 6)",
+                "museum": "local",
+                "name": "Mesa Historical Museum",
+                "opening_hours": "Tu-Sa 10:00-16:00; PH off",
+                "tourism": "museum",
+                "website": "https://www.mesahistoricalmuseum.com/",
+                "wheelchair": "yes",
+                "wikidata": "Q3179228"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Mesa_Historical_Museum_June_2021.jpg/1280px-Mesa_Historical_Museum_June_2021.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 35758885,
+            "lat": 33.38,
+            "lon": -111.73,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Superstition_Mountain_56.JPG/1280px-Superstition_Mountain_56.JPG",
+            "description": "The Phoenix Metropolitan Area (Metro Phoenix) consists of a valley that has multiple city regions in it.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "East Valley (Phoenix metropolitan area)",
+                "wikipedia": "en:East Valley (Phoenix metropolitan area)",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 49595484,
+            "lat": 33.5547,
+            "lon": -111.8778,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/OdySea_Aquarium_Arizona.jpg/1280px-OdySea_Aquarium_Arizona.jpg",
+            "description": "OdySea Aquarium in the Salt River Pima-Maricopa Indian Community in Scottsdale, Arizona, is a marine aquarium, and the largest aquarium in the Southwest United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "OdySea Aquarium",
+                "wikipedia": "en:OdySea Aquarium",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 106659,
+            "lat": 33.49305556,
+            "lon": -111.92611111,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Scottsdale_waterfront.jpg/1280px-Scottsdale_waterfront.jpg",
+            "description": "Scottsdale is a city in eastern Maricopa County, Arizona, United States, and is part of the Phoenix metropolitan area.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Scottsdale, Arizona",
+                "wikipedia": "en:Scottsdale, Arizona",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 96622,
+            "lat": 34.86972222,
+            "lon": -111.76111111,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Cathedral_Rock_-_Sedona_AZ-1.jpg/1280px-Cathedral_Rock_-_Sedona_AZ-1.jpg",
+            "description": "Sedona ( si-DOH-nə) is a city that straddles the county line between Coconino and Yavapai counties in the northern Verde Valley region of the U.S. state of Arizona.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Sedona, Arizona",
+                "wikipedia": "en:Sedona, Arizona",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 106639,
+            "lat": 33.39861111,
+            "lon": -111.535,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Apache_Junction-welcome_to_Apache_Junction-1.JPG/1280px-Apache_Junction-welcome_to_Apache_Junction-1.JPG",
+            "description": "Apache Junction (Western Apache: Hagosgeed) is a city in Pinal and Maricopa County, Arizona, United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Apache Junction, Arizona",
+                "wikipedia": "en:Apache Junction, Arizona",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 1481584,
+            "lat": 33.52638889,
+            "lon": -111.38972222,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Maricopa_County_Incorporated_and_Planning_areas_Tortilla_Flat_location.svg/1280px-Maricopa_County_Incorporated_and_Planning_areas_Tortilla_Flat_location.svg.png",
+            "description": "Tortilla Flat is a small unincorporated community in far eastern Maricopa County, Arizona, United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Tortilla Flat, Arizona",
+                "wikipedia": "en:Tortilla Flat, Arizona",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 57554,
+            "lat": 35.18055556,
+            "lon": -111.62,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Flagstaff_AZ_-_downtown_hotel.jpg",
+            "description": "Flagstaff ( FLAG-staf) is a city in and the county seat of Coconino County, Arizona, United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Flagstaff, Arizona",
+                "wikipedia": "en:Flagstaff, Arizona",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 49121,
+            "lat": 33.44833333,
+            "lon": -112.07388889,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Downtown_Phoenix_Aerial_Looking_Northeast.jpg/1280px-Downtown_Phoenix_Aerial_Looking_Northeast.jpg",
+            "description": "Phoenix (  FEE-niks) is the capital and most populous city of the U.S. state of Arizona.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Phoenix, Arizona",
+                "wikipedia": "en:Phoenix, Arizona",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 57180,
+            "lat": 32.22166667,
+            "lon": -110.92638889,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/View_of_Tucson_from_Sentinel_Peak_2.jpg/1280px-View_of_Tucson_from_Sentinel_Peak_2.jpg",
+            "description": "Tucson (; O'odham: Cuk Ṣon; Spanish: Tucsón) is the county seat of and the most populated city in Pima County, Arizona, United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Tucson, Arizona",
+                "wikipedia": "en:Tucson, Arizona",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 21883824,
+            "lat": 35,
+            "lon": -112,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Flag_of_Arizona.svg/1280px-Flag_of_Arizona.svg.png",
+            "description": "Arizona is a landlocked state in the Southwestern United States, sharing the Four Corners region with Colorado, New Mexico, and Utah.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Arizona",
+                "wikipedia": "en:Arizona",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 106582,
+            "lat": 31.73888889,
+            "lon": -110.0875,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Tombstone_Main_street_61.jpg/1280px-Tombstone_Main_street_61.jpg",
+            "description": "Tombstone is a city in Cochise County, Arizona, United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Tombstone, Arizona",
+                "wikipedia": "en:Tombstone, Arizona",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 8391576,
+            "lat": 41.25066,
+            "lon": -80.49041,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Buhl_Farm_Park_Golf_Course_Hole.jpg/1280px-Buhl_Farm_Park_Golf_Course_Hole.jpg",
+            "description": "Buhl Farm Golf Course, formerly known as Buhland Golf Course, located in Hermitage, Pennsylvania, is currently the only known free public golf course in the United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Buhl Farm Golf Course",
+                "wikipedia": "en:Buhl Farm Golf Course",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 106575,
+            "lat": 31.345,
+            "lon": -109.54138889,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/GadsdenHotel.jpg/1280px-GadsdenHotel.jpg",
+            "description": "Douglas is a city in Cochise County, Arizona, United States, that lies in the north-west to south-east running Sulphur Springs Valley.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Douglas, Arizona",
+                "wikipedia": "en:Douglas, Arizona",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 106674,
+            "lat": 35.23611111,
+            "lon": -114.01111111,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Kingman_courthouse.jpg",
+            "description": "Kingman is a city in and the county seat of Mohave County, Arizona, United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Kingman, Arizona",
+                "wikipedia": "en:Kingman, Arizona",
+                "tourism": "attraction"
+            }
+        }
+    ]
+}

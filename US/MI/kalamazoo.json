@@ -1,0 +1,376 @@
+{
+    "city_metadata": {
+        "city_name": "Kalamazoo",
+        "state_code": "MI",
+        "state_full": "Michigan",
+        "city_summary": "Kalamazoo () is a city in Kalamazoo County, Michigan, United States, and its county seat. At the 2020 census, Kalamazoo had a population of 73,598. It is the principal city of the Kalamazoo–Portage metropolitan area in southwestern Michigan, which had a population of 261,670 in 2020.",
+        "city_image": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Kalamazoo.jpg",
+        "city_lat": 42.29,
+        "city_lon": -85.58583333,
+        "source": "wikipedia_verified_engine"
+    },
+    "attractions": [
+        {
+            "type": "node",
+            "id": 33676813,
+            "lat": 42.289757,
+            "lon": -85.5857497,
+            "tags": {
+                "name": "South Street",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 769037428,
+            "lat": 42.2898116,
+            "lon": -85.5831439,
+            "tags": {
+                "name": "Kalamazoo Mall",
+                "tourism": "attraction",
+                "wheelchair": "yes"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Fifth_Third_Bank_Building_from_Michigan_Ave_and_Kalamazoo_Mall.jpg/1280px-Fifth_Third_Bank_Building_from_Michigan_Ave_and_Kalamazoo_Mall.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 6975231077,
+            "lat": 42.2918265,
+            "lon": -85.5830848,
+            "tags": {
+                "addr:city": "Kalamazoo",
+                "addr:housenumber": "100",
+                "addr:state": "MI",
+                "addr:street": "East Michigan Avenue",
+                "fee": "no",
+                "museum": "art",
+                "name": "Kalamazoo Valley Community College Center for New Media Art Museum",
+                "tourism": "museum",
+                "website": "https://www.kvcc.edu/artexhibits/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Fifth_Third_Bank_Building_from_Michigan_Ave_and_Kalamazoo_Mall.jpg/1280px-Fifth_Third_Bank_Building_from_Michigan_Ave_and_Kalamazoo_Mall.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 261571073,
+            "lat": 42.2933191,
+            "lon": -85.5838337,
+            "tags": {
+                "addr:city": "Kalamazoo",
+                "addr:housenumber": "230",
+                "addr:postcode": "49007",
+                "addr:street": "North Rose Street",
+                "building": "yes",
+                "fee": "yes",
+                "name": "Kalamazoo Valley Museum",
+                "operator": "Kalamazoo Valley Community College",
+                "phone": "+1 269 373 7990",
+                "tourism": "museum",
+                "website": "https://kvm.kvcc.edu/",
+                "wikidata": "Q6350425",
+                "wikipedia": "en:Kalamazoo Valley Museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Rickman_Hotel.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 1286859246,
+            "lat": 42.2286704,
+            "lon": -85.555634,
+            "tags": {
+                "check_date:opening_hours": "2025-10-13",
+                "fee": "yes",
+                "name": "Air Zoo",
+                "opening_hours": "Mo-Sa 09:00-17:00; Su 12:00-17:00",
+                "operator": "Kalamazoo Aviation History Museum",
+                "tourism": "museum",
+                "url": "http://www.airzoo.org",
+                "wikidata": "Q1721935",
+                "wikipedia": "en:Air Zoo"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 117020,
+            "lat": 42.655,
+            "lon": -86.20194444,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Saugatuck%2C_Michigan.jpg/1280px-Saugatuck%2C_Michigan.jpg",
+            "description": "Saugatuck ( SAW-gə-tuck) is a city in Allegan County in the U.S. state of Michigan.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Saugatuck, Michigan",
+                "wikipedia": "en:Saugatuck, Michigan",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 5787064,
+            "lat": 41.94393,
+            "lon": -85.6311,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/7d/BoysDam49093.jpg",
+            "description": "Portage River is a 38.6-mile-long (62.1 km) river that flows southward through Kalamazoo County and St.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Portage River (Kalamazoo–St. Joseph counties)",
+                "wikipedia": "en:Portage River (Kalamazoo–St. Joseph counties)",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 17421561,
+            "lat": -29.12861111,
+            "lon": 19.39472222,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/51/050_Pofadder_DRC_church.jpg",
+            "description": "Pofadder (Afrikaans for \"puff adder\") is a small town in the Northern Cape province of South Africa.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Pofadder, South Africa",
+                "wikipedia": "en:Pofadder, South Africa",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 117803,
+            "lat": 42.10861111,
+            "lon": -85.7025,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Prairie_Ronde_Township%2C_MI_location.png/1280px-Prairie_Ronde_Township%2C_MI_location.png",
+            "description": "Prairie Ronde Township is a civil township located in the southwestern corner of Kalamazoo County in the U.S. state of Michigan.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Prairie Ronde Township, Michigan",
+                "wikipedia": "en:Prairie Ronde Township, Michigan",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 8107480,
+            "lat": 42.2203,
+            "lon": -85.5943,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Crossroads_Mall_%28Portage%2C_Michigan%29_1.jpg/1280px-Crossroads_Mall_%28Portage%2C_Michigan%29_1.jpg",
+            "description": "The Crossroads is a shopping mall located in Portage, Michigan.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "The Crossroads (Portage, Michigan)",
+                "wikipedia": "en:The Crossroads (Portage, Michigan)",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 18859,
+            "lat": 44,
+            "lon": -85,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Flag_of_Michigan.svg/1280px-Flag_of_Michigan.svg.png",
+            "description": "Michigan (  MISH-ig-ən) is a peninsular state in the Great Lakes region of the Upper Midwestern United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Michigan",
+                "wikipedia": "en:Michigan",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 328986,
+            "lat": 35.09558333,
+            "lon": 138.86344444,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/%E6%B2%BC%E6%B4%A5%E5%B8%82%E3%83%A2%E3%83%B3%E3%82%BF%E3%83%BC%E3%82%B8%E3%83%A5%E7%94%BB%E5%83%8F.png/1280px-%E6%B2%BC%E6%B4%A5%E5%B8%82%E3%83%A2%E3%83%B3%E3%82%BF%E3%83%BC%E3%82%B8%E3%83%A5%E7%94%BB%E5%83%8F.png",
+            "description": "Numazu (沼津市, Numazu-shi) is a city located in eastern Shizuoka Prefecture, Japan.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Numazu",
+                "wikipedia": "en:Numazu",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 24109126,
+            "lat": 42.9633,
+            "lon": -85.6678,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Meyer_May_House.jpg/1280px-Meyer_May_House.jpg",
+            "description": "Grand Rapids is a city in and the county seat of Kent County, Michigan, United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Grand Rapids, Michigan",
+                "wikipedia": "en:Grand Rapids, Michigan",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 119247,
+            "lat": 42.31444444,
+            "lon": -83.21333333,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Former_city_hall_during_Memorial_Day_Parade%2C_Dearborn%2C_Michigan.jpg/1280px-Former_city_hall_during_Memorial_Day_Parade%2C_Dearborn%2C_Michigan.jpg",
+            "description": "Dearborn is a city in Wayne County in the U.S. state of Michigan.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Dearborn, Michigan",
+                "wikipedia": "en:Dearborn, Michigan",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 14344664,
+            "lat": 44.33916667,
+            "lon": -85.33888889,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Cadillac%2C_MI_downtown_%28July_2022%29.jpg/1280px-Cadillac%2C_MI_downtown_%28July_2022%29.jpg",
+            "description": "The Cadillac micropolitan area is a micropolitan statistical area (μSA) defined by the United States Census Bureau as an area encompassing two counties (Missaukee and Wexford) in the U.S. state of Michigan.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Cadillac micropolitan area",
+                "wikipedia": "en:Cadillac micropolitan area",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 117174,
+            "lat": 42.21222222,
+            "lon": -86.27194444,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Paw_Paw_Lake%2C_MI_location.png/1280px-Paw_Paw_Lake%2C_MI_location.png",
+            "description": "Paw Paw Lake is an unincorporated community in Berrien County in the U.S. state of Michigan.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Paw Paw Lake, Michigan",
+                "wikipedia": "en:Paw Paw Lake, Michigan",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 849263,
+            "lat": 8.89319444,
+            "lon": 76.61411111,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Location_map_India_Kollam_EN.svg/1280px-Location_map_India_Kollam_EN.svg.png",
+            "description": "Kollam (Malayalam: [kolːɐm] ;), is an ancient seaport and the fourth largest city in the Indian state of Kerala.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Kollam",
+                "wikipedia": "en:Kollam",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 373272,
+            "lat": 46.56,
+            "lon": -87.39361111,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/2009-0618-Marquette-SuperiorDome.jpg/1280px-2009-0618-Marquette-SuperiorDome.jpg",
+            "description": "The Superior Dome is a domed stadium on the campus of Northern Michigan University (NMU) in Marquette, Michigan, United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Superior Dome",
+                "wikipedia": "en:Superior Dome",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 150537,
+            "lat": 42.40305556,
+            "lon": -86.27361111,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/South_Pier_Lighthouse_at_South_Haven%2C_MI.jpg/1280px-South_Pier_Lighthouse_at_South_Haven%2C_MI.jpg",
+            "description": "South Haven is a city in the U.S. state of Michigan.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "South Haven, Michigan",
+                "wikipedia": "en:South Haven, Michigan",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 106211,
+            "lat": 39.3625,
+            "lon": -74.425,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/A_sunset_view_of_the_beach_in_Atlantic_City%2C_NJ.jpg/1280px-A_sunset_view_of_the_beach_in_Atlantic_City%2C_NJ.jpg",
+            "description": "Atlantic City, sometimes referred to by its initials A.C., is a seaside resort city in Atlantic County, in the U.S. state of New Jersey.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Atlantic City, New Jersey",
+                "wikipedia": "en:Atlantic City, New Jersey",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 12139414,
+            "lat": 40.5358,
+            "lon": -77.3895,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/DaveBlaney1984PortRoyalSpeedwaySprint_CarWin.jpg/1280px-DaveBlaney1984PortRoyalSpeedwaySprint_CarWin.jpg",
+            "description": "Port Royal Speedway is a 0.5-mile (0.80 km) dirt racetrack in Port Royal, Juniata County, Pennsylvania in the United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Port Royal Speedway",
+                "wikipedia": "en:Port Royal Speedway",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 58277066,
+            "lat": 39.81916667,
+            "lon": -75.31777778,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Bridgeport_Speedway_modifieds_heat_race_from_frontstretch_7-29-2020.jpg/1280px-Bridgeport_Speedway_modifieds_heat_race_from_frontstretch_7-29-2020.jpg",
+            "description": "Bridgeport Motorsports Park is a dirt speedway located in the community of Bridgeport in Logan Township, Gloucester County, New Jersey, that consists of a high banked, progressive 4/10 mile 0.375-mile (0.604 km) and a 1/4 mile 0.25-mile (0.40 km) oval located within the bigger track.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Bridgeport Motorsports Park",
+                "wikipedia": "en:Bridgeport Motorsports Park",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 13627586,
+            "lat": 43.17777778,
+            "lon": -89.21111111,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/MidgetCarsRacingAngellParkMay2010.jpg/1280px-MidgetCarsRacingAngellParkMay2010.jpg",
+            "description": "Angell Park Speedway is a 1/3 mile (0.54 km) dirt racetrack located in Sun Prairie, Wisconsin.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Angell Park Speedway",
+                "wikipedia": "en:Angell Park Speedway",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 15652588,
+            "lat": 41.476882,
+            "lon": -87.42332,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/75/Illiana_Motor_Speedway_2012.jpg",
+            "description": "The Illiana Motor Speedway is a closed race track located in Schererville, Indiana, United States and was built in 1947.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Illiana Motor Speedway",
+                "wikipedia": "en:Illiana Motor Speedway",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 5617443,
+            "lat": 40.17527778,
+            "lon": -85.02694444,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/WinchesterSpeedwayTurn.jpg/1280px-WinchesterSpeedwayTurn.jpg",
+            "description": "Winchester Speedway is a 0.500 mi (0.805 km) paved oval motor racetrack in White River Township, Randolph County, just outside Winchester, Indiana, approximately 90 miles (144.8 km) northeast of Indianapolis.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Winchester Speedway",
+                "wikipedia": "en:Winchester Speedway",
+                "tourism": "attraction"
+            }
+        }
+    ]
+}

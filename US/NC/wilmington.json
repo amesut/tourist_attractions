@@ -1,0 +1,555 @@
+{
+    "city_metadata": {
+        "city_name": "Wilmington",
+        "state_code": "NC",
+        "state_full": "North Carolina",
+        "city_summary": "Wilmington is a port city in New Hanover County, North Carolina, United States. With a population of 115,451 as of the 2020 census, it is the eighth-most populous city in the state. The county seat of New Hanover County, it is the principal city of the Wilmington metropolitan area, which includes New Hanover, Brunswick, and Pender counties.",
+        "city_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Wilmington%2C_North_Carolina_along_the_Cape_Fear_River_-_panoramio.jpg/1280px-Wilmington%2C_North_Carolina_along_the_Cape_Fear_River_-_panoramio.jpg",
+        "city_lat": 34.21,
+        "city_lon": -77.88666667,
+        "source": "wikipedia_verified_engine"
+    },
+    "attractions": [
+        {
+            "type": "node",
+            "id": 367912238,
+            "lat": 34.2332309,
+            "lon": -77.9461096,
+            "tags": {
+                "addr:housenumber": "126",
+                "addr:postcode": "28401",
+                "addr:state": "NC",
+                "addr:street": "South 3rd Street",
+                "ele": "14",
+                "email": "info@latimerhouse.org",
+                "gnis:feature_id": "2505975",
+                "name": "Latimer House Museum",
+                "phone": "+1 910-762-0492",
+                "source": "USGS Geonames",
+                "tourism": "museum",
+                "website": "https://latimerhouse.org/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/First_Presbyterian_Church_Wilmington.jpg/1280px-First_Presbyterian_Church_Wilmington.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 367912240,
+            "lat": 34.2358,
+            "lon": -77.9383,
+            "tags": {
+                "addr:state": "NC",
+                "ele": "15",
+                "gnis:feature_id": "2505973",
+                "name": "Cape Fear Museum",
+                "source": "USGS Geonames",
+                "tourism": "museum",
+                "website": "https://www.capefearmuseum.com/",
+                "wheelchair": "yes"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Cape_Fear_Museum_in_Wilmington%2C_NC_IMG_4427.JPG/1280px-Cape_Fear_Museum_in_Wilmington%2C_NC_IMG_4427.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 367912243,
+            "lat": 34.2361,
+            "lon": -77.9429,
+            "tags": {
+                "addr:city": "Wilmington",
+                "addr:housenumber": "503",
+                "addr:postcode": "28401",
+                "addr:state": "NC",
+                "addr:street": "Market Street",
+                "contact:instagram": "https://www.instagram.com/bellamymansion/",
+                "contact:youtube": "https://www.youtube.com/channel/UC_KdQa9QKc7Uadewb7NONxA",
+                "ele": "17",
+                "email": "info@bellamymansion.org",
+                "fee": "yes",
+                "gnis:feature_id": "2505971",
+                "name": "Bellamy Mansion Museum of History & Design Arts",
+                "opening_hours": "10:00-17:00",
+                "phone": "+1 910-251-3700",
+                "source": "USGS Geonames",
+                "tourism": "museum",
+                "website": "https://www.bellamymansion.org/",
+                "wikipedia": "en:Bellamy Mansion"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/First_Baptist_Church_Wilmington_North_Carolina_facing_north.jpg/1280px-First_Baptist_Church_Wilmington_North_Carolina_facing_north.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 368069354,
+            "lat": 41.308587,
+            "lon": -88.1462981,
+            "tags": {
+                "addr:city": "Wilmington",
+                "addr:postcode": "60481",
+                "addr:state": "IL",
+                "addr:street": "North Main Street",
+                "ele": "165",
+                "gnis:feature_id": "1802356",
+                "museum": "local",
+                "name": "Wilmington Historical Society Building",
+                "source": "USGS Geonames",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Eagle_Hotel_1837_%26_8.jpg/1280px-Eagle_Hotel_1837_%26_8.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 3256815169,
+            "lat": 34.2327675,
+            "lon": -77.948832,
+            "tags": {
+                "addr:housenumber": "Orange Street",
+                "addr:street": "20",
+                "name": "Cape Fear Serpentarium",
+                "tourism": "zoo"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Saint_Thomas_Preservation_Hall.jpg/1280px-Saint_Thomas_Preservation_Hall.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 4286310176,
+            "lat": 41.3061045,
+            "lon": -88.14966,
+            "tags": {
+                "addr:city": "Wilmington",
+                "addr:housenumber": "201",
+                "addr:postcode": "60481",
+                "addr:state": "IL",
+                "addr:street": "Bridge Street",
+                "name": "Gemini Giant",
+                "tourism": "attraction",
+                "wikidata": "Q5530651",
+                "wikipedia": "en:Gemini Giant"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Gemini_Giant.jpg/1280px-Gemini_Giant.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 4601482803,
+            "lat": 39.7369553,
+            "lon": -75.5540054,
+            "tags": {
+                "name": "Wilmington Riverwalk",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 5387994222,
+            "lat": 34.2349008,
+            "lon": -77.9245465,
+            "tags": {
+                "addr:street": "Wrightsville Avenue",
+                "name": "One Tree Hill Lucas Home",
+                "opening_hours": "24/7",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Carolina_Place_Historic_District_Medium_street_shot.jpg/1280px-Carolina_Place_Historic_District_Medium_street_shot.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 5580792777,
+            "lat": 39.4456773,
+            "lon": -83.8097677,
+            "tags": {
+                "description": "Ohio Historical Marker that includes photos",
+                "historic": "memorial",
+                "inscription": "On April 18, 1967, reservists from the 302nd Troop Carrier Wing at the Clinton County Air Force Base (CCAFB) and the 2nd Special Forces Group (Green Berets) of Fort Hayes, Columbus were to undergo an Operational Readiness Inspection.  (...continues...)",
+                "memorial": "war_memorial",
+                "name": "Military Air Disaster",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Doan_House_in_Wilmington.jpg/1280px-Doan_House_in_Wilmington.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 5923082186,
+            "lat": 34.2406002,
+            "lon": -77.9491419,
+            "tags": {
+                "addr:housenumber": "610",
+                "addr:postcode": "28401",
+                "addr:street": "North Front Street",
+                "name": "One Tree Hill Institute",
+                "opening_hours": "Mo-Fr 07:00-17:00",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Union_Station%2C_Wilmington_001_%2821955202408%29.jpg/1280px-Union_Station%2C_Wilmington_001_%2821955202408%29.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 5923082685,
+            "lat": 34.2351246,
+            "lon": -77.9498859,
+            "tags": {
+                "addr:street": "Market Street",
+                "name": "One Tree Hill Nathan and Haley Place",
+                "opening_hours": "24/7",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Federal_Building_and_Courthouse_%28Wilmington%2C_NC%29_3.JPG/1280px-Federal_Building_and_Courthouse_%28Wilmington%2C_NC%29_3.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 7218450963,
+            "lat": -32.6522368,
+            "lon": 138.0992499,
+            "tags": {
+                "name": "Sansouci Puppet Museum & Gallery",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Wilmington_Memorial_Hall%2C_2017_%2801%29.jpg/1280px-Wilmington_Memorial_Hall%2C_2017_%2801%29.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 9669524993,
+            "lat": -32.6505793,
+            "lon": 138.0981871,
+            "tags": {
+                "name": "Wilmington Toy Museum",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Wilmington_Memorial_Hall%2C_2017_%2801%29.jpg/1280px-Wilmington_Memorial_Hall%2C_2017_%2801%29.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 12753021555,
+            "lat": -32.6509125,
+            "lon": 138.0989567,
+            "tags": {
+                "addr:housenumber": "28",
+                "addr:postcode": "5485",
+                "addr:state": "SA",
+                "addr:street": "Horrocks Highway",
+                "addr:suburb": "Wilmington",
+                "name": "Dawes Brothers Geological Museum",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Wilmington_Memorial_Hall%2C_2017_%2801%29.jpg/1280px-Wilmington_Memorial_Hall%2C_2017_%2801%29.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 43324584,
+            "lat": 51.4361799,
+            "lon": 0.1887467,
+            "tags": {
+                "name": "Dartford Heath",
+                "natural": "heath",
+                "operator": "Dartford Borough Council",
+                "toilets:wheelchair": "no",
+                "tourism": "attraction",
+                "wheelchair": "limited",
+                "wheelchair:description": "Open land, some areas are partly accessible via reasonable tracks but rough going"
+            }
+        },
+        {
+            "type": "way",
+            "id": 85540782,
+            "lat": 39.7655641,
+            "lon": -75.5650017,
+            "tags": {
+                "addr:city": "Wilmington",
+                "addr:housenumber": "2301",
+                "addr:postcode": "19806",
+                "addr:state": "DE",
+                "addr:street": "Kentmere Parkway",
+                "building": "yes",
+                "check_date": "2025-11-06",
+                "contact:facebook": "https://www.facebook.com/delawareartmuseum/",
+                "name": "Delaware Art Museum",
+                "opening_hours": "Mo-Tu off; We-Su 10:00-16:00; Apr-Dec Th 10:00-20:00",
+                "phone": "+1-302-571-9590",
+                "source": "Yahoo",
+                "tourism": "museum",
+                "website": "https://www.delart.org/",
+                "wikidata": "Q1183941",
+                "wikipedia": "en:Delaware Art Museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Dam_front_web.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 214115133,
+            "lat": 42.5795054,
+            "lon": -71.1476333,
+            "tags": {
+                "addr:city": "Wilmington",
+                "addr:housenumber": "430",
+                "addr:postcode": "01887",
+                "addr:street": "Salem Street",
+                "alt_name": "Col. Joshua Harnden Tavern",
+                "building": "museum",
+                "name": "Wilmington Town Museum",
+                "phone": "+1 978 6585475",
+                "tourism": "museum",
+                "website": "http://www.town.wilmington.ma.us/Pages/WilmingtonMA_Museum/index",
+                "wikidata": "Q14715506"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/1b/WilmingtonMA_HarndenTavern.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 319505863,
+            "lat": 34.2416379,
+            "lon": -77.9510456,
+            "tags": {
+                "addr:city": "Wilmington",
+                "addr:country": "US",
+                "addr:housenumber": "505",
+                "addr:postcode": "28401",
+                "addr:state": "NC",
+                "addr:street": "Nutt Street",
+                "building": "yes",
+                "check_date:opening_hours": "2023-07-21",
+                "fee": "yes",
+                "museum": "railway",
+                "name": "Wilmington Railroad Museum",
+                "opening_hours": "Sep Mo[1] - May Mo[-1] Mo-Sa 10:00-16:00, Su off; May Mo[-1] - Sep Mo[1] Mo-Sa 10:00-17:00, Su 13:00-17:00; PH off",
+                "tourism": "museum",
+                "website": "https://www.wrrm.org/"
+            }
+        },
+        {
+            "type": "way",
+            "id": 368140733,
+            "lat": 39.7507799,
+            "lon": -75.547499,
+            "tags": {
+                "building": "church",
+                "heritage": "2",
+                "heritage:operator": "nrhp",
+                "historic": "heritage",
+                "name": "Old First Presbyterian Church",
+                "ref:nrhp": "72000295",
+                "tourism": "museum",
+                "wikidata": "Q7083988"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/1st_Presb_Wilmington.JPG/1280px-1st_Presb_Wilmington.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 368340134,
+            "lat": 39.7385216,
+            "lon": -75.5405399,
+            "tags": {
+                "addr:city": "Wilmington",
+                "addr:housenumber": "606",
+                "addr:postcode": "19801",
+                "addr:state": "DE",
+                "addr:street": "North Church Street",
+                "building": "church",
+                "check_date": "2025-11-22",
+                "contact:facebook": "https://www.facebook.com/oldswedesde/",
+                "contact:instagram": "https://www.instagram.com/oldswedesde",
+                "denomination": "episcopal",
+                "heritage": "2",
+                "heritage:operator": "nrhp",
+                "museum": "history",
+                "name": "Old Swedes Church",
+                "nrhp:criteria": "(A),(C)",
+                "nrhp:inscription_date": "November 5, 1961",
+                "nrhp:nhl": "yes",
+                "phone": "+1 302-652-5629",
+                "protection_title": "*",
+                "ref:nrhp": "66000261",
+                "tourism": "museum",
+                "website": "https://oldswedes.org/",
+                "wikidata": "Q5886688",
+                "wikipedia": "en:Holy Trinity Church (Old Swedes)"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Old_Swedes_front_corner_1.JPG/1280px-Old_Swedes_front_corner_1.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 425178231,
+            "lat": 39.734624,
+            "lon": -75.5603505,
+            "tags": {
+                "addr:city": "Wilmington",
+                "addr:housenumber": "550",
+                "addr:postcode": "19801",
+                "addr:state": "DE",
+                "addr:street": "Justison Street",
+                "building": "yes",
+                "check_date": "2024-06-25",
+                "contact:facebook": "https://www.facebook.com/delawarechildrensmuseum/",
+                "fee": "yes",
+                "name": "Delaware Children's Museum",
+                "opening_hours": "We-Su 10:00-17:00; Mo,Tu off; PH 10:00-17:00",
+                "phone": "+1 302-654-2340",
+                "tourism": "museum",
+                "website": "https://delawarechildrensmuseum.org"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Steamer_%27State_of_Pennsylvania%27%2C_Riverview_Beach%2C_N._J._Tichnor_Card.jpg/1280px-Steamer_%27State_of_Pennsylvania%27%2C_Riverview_Beach%2C_N._J._Tichnor_Card.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 425618547,
+            "lat": 39.7554667,
+            "lon": -75.5485829,
+            "tags": {
+                "addr:city": "Wilmington",
+                "addr:housenumber": "1001",
+                "addr:postcode": "19802",
+                "addr:state": "DE",
+                "addr:street": "North Park Drive",
+                "area": "yes",
+                "barrier": "fence",
+                "contact:facebook": "https://www.facebook.com/BrandywineZoo/",
+                "contact:instagram": "https://www.instagram.com/brandywinezoo/",
+                "contact:twitter": "https://twitter.com/brandywinezoo",
+                "contact:youtube": "https://www.youtube.com/channel/UCmQBAeuZG_A-cDgbWnWNJxw",
+                "description": "Brandywine Zoo is a small 4.7-acre (1.9 ha) zoo that opened in 1905 in Brandywine Park in Wilmington, Delaware, United States. It is located on the banks of the Brandywine River.",
+                "fee": "yes",
+                "name": "Brandywine Zoo",
+                "phone": "+1 302-571-7788",
+                "tourism": "zoo",
+                "website": "https://brandywinezoo.org/",
+                "wheelchair": "yes",
+                "wikidata": "Q4957298",
+                "wikipedia": "en:Brandywine Zoo"
+            }
+        },
+        {
+            "type": "way",
+            "id": 426169138,
+            "lat": 39.7413361,
+            "lon": -75.5502616,
+            "tags": {
+                "addr:city": "Wilmington",
+                "addr:housenumber": "504",
+                "addr:postcode": "19801",
+                "addr:state": "DE",
+                "addr:street": "North Market Street",
+                "building": "yes",
+                "building:levels": "2",
+                "check_date": "2024-06-25",
+                "contact:facebook": "https://www.facebook.com/MitchellCenterAfricanAmericanHeritageDHS/",
+                "fee": "yes",
+                "name": "Delaware History Museum and Mitchell Center for African American Heritage",
+                "opening_hours": "Mo-Tu,Su off; We-Sa 12:00-17:00",
+                "phone": "+1 302-655-7161",
+                "tourism": "museum",
+                "website": "https://dehistory.org/visit/jane-and-littleton-mitchell-center-for-african-american-heritage/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Old_Town_Hall_Wilmington.JPG/1280px-Old_Town_Hall_Wilmington.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 651910385,
+            "lat": 39.4467241,
+            "lon": -83.8258868,
+            "tags": {
+                "addr:state": "OH",
+                "building": "yes",
+                "ele": "312",
+                "gnis:feature_id": "1960662",
+                "museum": "local",
+                "name": "Clinton County Historical Society Museum",
+                "source": "USGS Geonames",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Rombach_Place_in_Wilmington.jpg/1280px-Rombach_Place_in_Wilmington.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 974385224,
+            "lat": 34.2351789,
+            "lon": -77.9462665,
+            "tags": {
+                "addr:city": "Wilmington",
+                "addr:housenumber": "224",
+                "addr:postcode": "28401",
+                "addr:state": "NC",
+                "addr:street": "Market Street",
+                "building": "yes",
+                "description": "House museum in an 18th-century home featuring period furnishings & terraced gardens.",
+                "ele": "6",
+                "gnis:feature_id": "2505972",
+                "museum": "history",
+                "name": "Burgwin - Wright House",
+                "opening_hours": "Mo-Sa 10:00-16:00",
+                "phone": "+19107620570",
+                "tourism": "museum",
+                "website": "https://www.burgwinwrighthouse.com/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Georgedavis6.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 984094576,
+            "lat": 34.2068889,
+            "lon": -77.8625858,
+            "tags": {
+                "name": "Jungle Rapids",
+                "tourism": "theme_park",
+                "website": "https://junglerapids.com/"
+            }
+        },
+        {
+            "type": "way",
+            "id": 1149768983,
+            "lat": 39.7553255,
+            "lon": -75.548795,
+            "tags": {
+                "attraction": "animal",
+                "barrier": "wall",
+                "name": "Red Panda",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "way",
+            "id": 1149768986,
+            "lat": 39.7557087,
+            "lon": -75.5492337,
+            "tags": {
+                "attraction": "animal",
+                "barrier": "fence",
+                "name": "Andean Condor",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "way",
+            "id": 1192073373,
+            "lat": 34.2411097,
+            "lon": -77.9410156,
+            "tags": {
+                "addr:city": "Wilmington",
+                "addr:housenumber": "410",
+                "addr:postcode": "28401",
+                "addr:state": "NC",
+                "addr:street": "North 7th Street",
+                "building": "yes",
+                "name": "Burnett-Eaton Museum Foundation 3.8 (9)",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/James_Walker_Nursing_School_Quarters_%28Wilmington%2C_NC%29_2.JPG/1280px-James_Walker_Nursing_School_Quarters_%28Wilmington%2C_NC%29_2.JPG",
+            "image_source": "wikipedia_verified"
+        }
+    ]
+}

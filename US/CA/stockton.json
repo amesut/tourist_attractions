@@ -1,0 +1,396 @@
+{
+    "city_metadata": {
+        "city_name": "Stockton",
+        "state_code": "CA",
+        "state_full": "California",
+        "city_summary": "Stockton is a city in and the county seat of San Joaquin County, California, United States. It is the most populous city in the county, the 11th-most populous city in California and the 60th-most populous city in the U.S, with 320,804 residents at the 2020 census. The city is located on the San Joaquin River in the northern San Joaquin Valley, within California's Central Valley.",
+        "city_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Aerial_view_of_Stockton%2C_California_skyline.jpg/1280px-Aerial_view_of_Stockton%2C_California_skyline.jpg",
+        "city_lat": 37.9575,
+        "city_lon": -121.2925,
+        "source": "wikipedia_verified_engine"
+    },
+    "attractions": [
+        {
+            "type": "node",
+            "id": 10562173009,
+            "lat": 37.9537053,
+            "lon": -121.2914352,
+            "tags": {
+                "name": "Stockton",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Hotel_Stockton_-_Stockton%2C_CA.JPG/1280px-Hotel_Stockton_-_Stockton%2C_CA.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 287553636,
+            "lat": 37.9606503,
+            "lon": -121.3139182,
+            "tags": {
+                "addr:city": "Stockton",
+                "addr:housenumber": "1201",
+                "addr:state": "CA",
+                "addr:street": "North Pershing Avenue",
+                "building": "yes",
+                "ele": "4",
+                "fee": "yes",
+                "fee:conditional": "no @ (age < 10)",
+                "gnis:feature_id": "224779",
+                "name": "Haggin Museum",
+                "opening_hours": "We-Fr 13:50-17:00; Sa-Su 12:00-17:00; Mo[3], Th[3] 13:30-21:00; Jul 04 off; Nov Th[4]; Dec 24-25",
+                "source": "USGS Geonames",
+                "tourism": "museum",
+                "website": "https://hagginmuseum.org/",
+                "wheelchair": "yes",
+                "wikidata": "Q5638699"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Haggin-museum-logo.png/1280px-Haggin-museum-logo.png",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 293624857,
+            "lat": 37.9518669,
+            "lon": -121.2967839,
+            "tags": {
+                "addr:city": "Stockton",
+                "addr:housenumber": "402",
+                "addr:street": "West Weber Avenue",
+                "building": "yes",
+                "fee": "yes",
+                "name": "Children's Museum of Stockton",
+                "opening_hours": "We-Fr 09:00-16:00; Sa,Su 10:00-17:00",
+                "tourism": "museum",
+                "website": "https://www.childrensmuseumstockton.org/"
+            }
+        },
+        {
+            "type": "way",
+            "id": 539368596,
+            "lat": 39.427858,
+            "lon": -99.275768,
+            "tags": {
+                "addr:city": "Stockton",
+                "addr:housenumber": "921",
+                "addr:postcode": "67669",
+                "addr:state": "KS",
+                "addr:street": "South Cedar Street",
+                "building": "yes",
+                "name": "Rooks County Historical Society & Museum",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Rooks_County%2C_Kansas_courthouse_from_NE_1.JPG/1280px-Rooks_County%2C_Kansas_courthouse_from_NE_1.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 760801572,
+            "lat": 42.3501103,
+            "lon": -90.0072053,
+            "tags": {
+                "building": "yes",
+                "museum": "history",
+                "name": "Stockton Heritage Museum",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Stockton_IL_W.E._White_Bldg1.JPG/1280px-Stockton_IL_W.E._White_Bldg1.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 949115556,
+            "lat": 37.9538114,
+            "lon": -121.3426736,
+            "tags": {
+                "addr:city": "Stockton",
+                "addr:housenumber": "3100",
+                "addr:postcode": "95203",
+                "addr:state": "CA",
+                "addr:street": "Monte Diablo Avenue",
+                "building": "ship",
+                "contact:facebook": "https://facebook.com/471056952910916",
+                "historic": "ship",
+                "name": "USS Lucid",
+                "source_ref": "https://www.museumships.us/minesweeper/lucid",
+                "tourism": "museum",
+                "website": "https://stocktonhistoricalmaritimemuseum.org/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/USS_Lucid_%28MSO-458%29_underway_in_the_Pacific_Ocean_in_February_1970.jpg/1280px-USS_Lucid_%28MSO-458%29_underway_in_the_Pacific_Ocean_in_February_1970.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 1391770078,
+            "lat": 30.9960377,
+            "lon": -87.8574794,
+            "tags": {
+                "addr:city": "Stockton",
+                "addr:housenumber": "52915",
+                "addr:postcode": "36579",
+                "addr:state": "AL",
+                "addr:street": "Highway 59",
+                "building": "yes",
+                "museum": "local",
+                "name": "Stockton Heritage Museum",
+                "opening_hours": "Th 11:30-14:00",
+                "tourism": "museum",
+                "website": "https://stocktonheritage.org/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Baldwin_County_Alabama_Incorporated_and_Unincorporated_areas_Stockton_Highlighted_0173272.svg/1280px-Baldwin_County_Alabama_Incorporated_and_Unincorporated_areas_Stockton_Highlighted_0173272.svg.png",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 108259,
+            "lat": 37.66138889,
+            "lon": -120.99444444,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Gallo_Center_for_the_Arts_Modesto_%28cropped%29.JPG/1280px-Gallo_Center_for_the_Arts_Modesto_%28cropped%29.JPG",
+            "description": "Modesto ( mə-DESS-toh; Spanish pronunciation: [moˈðesto]; Spanish for \"modest\") is the county seat of and the largest city in Stanislaus County, California, United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Modesto, California",
+                "wikipedia": "en:Modesto, California",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 1520246,
+            "lat": 37.80833333,
+            "lon": -122.41555556,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Fishermans_Wharf_Sign%2C_SF%2C_CA%2C_jjron_25.03.2012.jpg",
+            "description": "Fisherman's Wharf is a neighborhood and tourist attraction in San Francisco, located in the northern part of the city's waterfront.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Fisherman's Wharf, San Francisco",
+                "wikipedia": "en:Fisherman's Wharf, San Francisco",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 445363,
+            "lat": 37.79416667,
+            "lon": -122.40694444,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/San_Francisco_China_Town_MC.jpg/1280px-San_Francisco_China_Town_MC.jpg",
+            "description": "The Chinatown, centered on Grant Avenue and Stockton Street in San Francisco, California, is the oldest Chinatown in North America and is one of the largest Chinese enclaves outside Asia.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Chinatown, San Francisco",
+                "wikipedia": "en:Chinatown, San Francisco",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 29631,
+            "lat": 38.58166667,
+            "lon": -121.49444444,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Sacramento%2C_CA_skyline_%28cropped%29.jpg/1280px-Sacramento%2C_CA_skyline_%28cropped%29.jpg",
+            "description": "Sacramento is the capital city of the U.S. state of California.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Sacramento, California",
+                "wikipedia": "en:Sacramento, California",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 23665336,
+            "lat": 38.59333333,
+            "lon": -121.43472222,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/State_Fair_2014.jpg/1280px-State_Fair_2014.jpg",
+            "description": "The California State Fair (CSF) is the annual state fair for the state of California.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "California State Fair",
+                "wikipedia": "en:California State Fair",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 49728,
+            "lat": 37.7775,
+            "lon": -122.41638889,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/San_Francisco_Downtown_Aerial%2C_August_2025.jpg/1280px-San_Francisco_Downtown_Aerial%2C_August_2025.jpg",
+            "description": "San Francisco, officially the City and County of San Francisco, is the fourth-most populous city in California and the 17th-most populous in the United States, with a population of 826,079 in 2025.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "San Francisco",
+                "wikipedia": "en:San Francisco",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 206772,
+            "lat": 37.825,
+            "lon": -122.371,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Treasure_Island_Shoreline_Sunset_-_2025_%282%29.jpg/1280px-Treasure_Island_Shoreline_Sunset_-_2025_%282%29.jpg",
+            "description": "Treasure Island is a man-made island in San Francisco Bay, and a neighborhood in the City and County of San Francisco.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Treasure Island, San Francisco",
+                "wikipedia": "en:Treasure Island, San Francisco",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 28504,
+            "lat": 32.715,
+            "lon": -117.1625,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/La_Jolla_Shores_view_%28cropped%29.jpg/1280px-La_Jolla_Shores_view_%28cropped%29.jpg",
+            "description": "San Diego (  SAN dee-AY-goh; Spanish: [san ˈdjeɣo]) is a city on the Pacific coast of Southern California, adjacent to the Mexico–United States border.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "San Diego",
+                "wikipedia": "en:San Diego",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 5407,
+            "lat": 37,
+            "lon": -120,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Flag_of_California.svg/1280px-Flag_of_California.svg.png",
+            "description": "California () is a state in the Western United States that lies on the Pacific Coast.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "California",
+                "wikipedia": "en:California",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 107503,
+            "lat": 37.36666667,
+            "lon": -118.39583333,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Downtown_Bishop_with_the_Sierra_Nevada_Mountains_in_the_background.jpg/1280px-Downtown_Bishop_with_the_Sierra_Nevada_Mountains_in_the_background.jpg",
+            "description": "Bishop is the only incorporated city in Inyo County, California, United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Bishop, California",
+                "wikipedia": "en:Bishop, California",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 10012799,
+            "lat": 34.90472222,
+            "lon": -117.02472222,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Harveyhouse3.JPG/1280px-Harveyhouse3.JPG",
+            "description": "The Barstow Harvey House, also known as Harvey House Railroad Depot and Barstow station, is a historic building in Barstow, California.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Barstow Harvey House",
+                "wikipedia": "en:Barstow Harvey House",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 132982,
+            "lat": 40.60166667,
+            "lon": -75.47722222,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/2018_-_Center_Square_-_Looking_Northeast_-_12_Oct_-_Allentown_PA.jpg/1280px-2018_-_Center_Square_-_Looking_Northeast_-_12_Oct_-_Allentown_PA.jpg",
+            "description": "Allentown is a city in eastern Pennsylvania, United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Allentown, Pennsylvania",
+                "wikipedia": "en:Allentown, Pennsylvania",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 1429857,
+            "lat": 37.78805556,
+            "lon": -122.4075,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/San_Francisco_Union_Square.jpg/1280px-San_Francisco_Union_Square.jpg",
+            "description": "Union Square is a 2.6-acre (1.1-hectare) public plaza bordered by Geary, Powell, Post, and Stockton Streets in downtown San Francisco, California.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Union Square, San Francisco",
+                "wikipedia": "en:Union Square, San Francisco",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 8896321,
+            "lat": 37.78333333,
+            "lon": -122.41666667,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Tenderloin_Street_Chess%2C_SF%2C_CA%2C_jjron_26.03.2012.jpg/1280px-Tenderloin_Street_Chess%2C_SF%2C_CA%2C_jjron_26.03.2012.jpg",
+            "description": "The Tenderloin is a neighborhood in downtown San Francisco, in the flatlands on the southern slope of Nob Hill, situated between the Union Square shopping district to the northeast and the Civic Center office district to the southwest.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Tenderloin, San Francisco",
+                "wikipedia": "en:Tenderloin, San Francisco",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 108012,
+            "lat": 34.05472222,
+            "lon": -117.1825,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Chapel%2C_U_or_R%2C_Redlands%2C_CA_2-14_%2824956331101%29_%28cropped%29.jpg/1280px-Chapel%2C_U_or_R%2C_Redlands%2C_CA_2-14_%2824956331101%29_%28cropped%29.jpg",
+            "description": "Redlands ( RED-ləndz) is a city in San Bernardino County, California, United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Redlands, California",
+                "wikipedia": "en:Redlands, California",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 106211,
+            "lat": 39.3625,
+            "lon": -74.425,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/A_sunset_view_of_the_beach_in_Atlantic_City%2C_NJ.jpg/1280px-A_sunset_view_of_the_beach_in_Atlantic_City%2C_NJ.jpg",
+            "description": "Atlantic City, sometimes referred to by its initials A.C., is a seaside resort city in Atlantic County, in the U.S. state of New Jersey.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Atlantic City, New Jersey",
+                "wikipedia": "en:Atlantic City, New Jersey",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 98542,
+            "lat": 37.80028889,
+            "lon": -122.41018333,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/SF_Filbert_St_North_Beach_CA.jpg/1280px-SF_Filbert_St_North_Beach_CA.jpg",
+            "description": "North Beach is a neighborhood in the northeast of San Francisco adjacent to Chinatown, the Financial District, and Russian Hill.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "North Beach, San Francisco",
+                "wikipedia": "en:North Beach, San Francisco",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 2821019,
+            "lat": 37.59388889,
+            "lon": -121.88972222,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a7/NCRyTrain2006.jpg",
+            "description": "The Niles Canyon Railway (NCRy) (reporting mark NICX) is a heritage railway running on the first transcontinental railroad alignment (1866, 1869) through Niles Canyon, between Sunol and the Niles district of Fremont in the East Bay of the San Francisco Bay Area, in California, United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Niles Canyon Railway",
+                "wikipedia": "en:Niles Canyon Railway",
+                "tourism": "attraction"
+            }
+        }
+    ]
+}

@@ -1,0 +1,387 @@
+{
+    "city_metadata": {
+        "city_name": "Daytona Beach",
+        "state_code": "FL",
+        "state_full": "Florida",
+        "city_summary": "Daytona Beach is a coastal resort city in Volusia County, Florida, United States. Located on the East Coast of the United States, its population was 72,647 at the 2020 census. It is part of the Deltona–Daytona Beach–Ormond Beach metropolitan area, and is a principal city of the Fun Coast region of Florida.",
+        "city_image": "https://upload.wikimedia.org/wikipedia/commons/d/de/DaytonaBeach_Collage-2009-26-04.png",
+        "city_lat": 29.21083333,
+        "city_lon": -81.08944444,
+        "source": "wikipedia_verified_engine"
+    },
+    "attractions": [
+        {
+            "type": "node",
+            "id": 3566573805,
+            "lat": 29.1917532,
+            "lon": -81.0678089,
+            "tags": {
+                "name": "Daytona International Speedway Visitors Center",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 3658198184,
+            "lat": 29.2019776,
+            "lon": -81.0408457,
+            "tags": {
+                "name": "Zoom Air Adventure Park",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 4233655968,
+            "lat": 29.2124588,
+            "lon": -81.0069637,
+            "tags": {
+                "addr:city": "Daytona Beach",
+                "addr:housenumber": "111",
+                "addr:state": "FL",
+                "addr:street": "Silver Beach Avenue",
+                "museum": "history",
+                "name": "Lilian Place",
+                "tourism": "museum",
+                "website": "https://www.lilianplacehc.org/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/VMB%28DB%29-0794.JPG/1280px-VMB%28DB%29-0794.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 4234066528,
+            "lat": 29.1920533,
+            "lon": -81.036874,
+            "tags": {
+                "addr:city": "Daytona Beach",
+                "addr:housenumber": "352",
+                "addr:postcode": "32114",
+                "addr:state": "FL",
+                "addr:street": "Nova Road",
+                "name": "Cici and Hyatt Brown Museum of Art",
+                "opening_hours": "Mo-Sa 10:00-17:00, Su 11:00-17:00",
+                "phone": "+1-386-255-0285",
+                "tourism": "museum",
+                "website": "https://www.moas.org/explore/cici-and-hyatt-brown-museum-of-art/index"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d4/MOAS_Logo.png/1280px-MOAS_Logo.png",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 9559443926,
+            "lat": 29.2006124,
+            "lon": -81.0491515,
+            "tags": {
+                "name": "Southeast Museum of Photography",
+                "tourism": "museum",
+                "website": "https://southeastmuseumofphotography.org/",
+                "wikidata": "Q2304653",
+                "wikipedia": "en:Southeast Museum of Photography"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/27/Tarragonatower1.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 10583204936,
+            "lat": 29.191679,
+            "lon": -81.0682306,
+            "tags": {
+                "addr:city": "Daytona Beach",
+                "addr:housenumber": "1801",
+                "addr:postcode": "32114",
+                "addr:state": "FL",
+                "addr:street": "W. International Speedway Blvd.",
+                "museum": "sport",
+                "name": "Motorsports Hall of Fame of America",
+                "tourism": "museum",
+                "website": "https://www.mshf.com/"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11895168077,
+            "lat": 29.2086786,
+            "lon": -81.0178601,
+            "tags": {
+                "addr:city": "Daytona Beach",
+                "addr:housenumber": "252",
+                "addr:postcode": "32114",
+                "addr:state": "FL",
+                "addr:street": "South Beach Street",
+                "name": "Halifax Historical Museum",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/90/Kressbuilding.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 60273832,
+            "lat": 29.2004358,
+            "lon": -81.0493211,
+            "tags": {
+                "addr:city": "Daytona Beach",
+                "addr:housenumber": "1200",
+                "addr:postcode": "32114",
+                "addr:state": "FL",
+                "addr:street": "W International Speedway Boulevard",
+                "addr:unit": "1200",
+                "building": "yes",
+                "building:levels": "2",
+                "museum": "art",
+                "name": "Hosseini Center",
+                "note": "Mori Hosseini Center / SMP / Hospitality / Café 101",
+                "opening_hours": "Tu-Fr 11:00-17:00; Sa 13:00-17:00",
+                "operator": "Daytona State College",
+                "phone": "+1-386 -506-4475",
+                "tourism": "museum"
+            }
+        },
+        {
+            "type": "way",
+            "id": 361321034,
+            "lat": 29.2128766,
+            "lon": -81.0317732,
+            "tags": {
+                "building": "yes",
+                "name": "Mary McLeod Bethune House",
+                "tourism": "museum",
+                "website": "https://www.cookman.edu/mmbhome/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Mary_McLeod_Bethune_with_a_Line_of_Girls_from_the_School_WDL4013.png/1280px-Mary_McLeod_Bethune_with_a_Line_of_Girls_from_the_School_WDL4013.png",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 361328125,
+            "lat": 29.1921226,
+            "lon": -81.0373513,
+            "tags": {
+                "addr:city": "Daytona Beach",
+                "addr:housenumber": "352",
+                "addr:postcode": "32114",
+                "addr:state": "FL",
+                "addr:street": "S Nova Road",
+                "building": "yes",
+                "name": "Museum of Arts & Sciences",
+                "opening_hours": "Mo-Sa 10:00-17:00, Su 11:00-17:00",
+                "phone": "+1 386 255 0285",
+                "tourism": "museum",
+                "website": "https://www.moas.org/",
+                "wikidata": "Q6940774",
+                "wikipedia": "en:Museum of Arts and Sciences (Daytona Beach)"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d4/MOAS_Logo.png/1280px-MOAS_Logo.png",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 407713787,
+            "lat": 29.1880714,
+            "lon": -81.070486,
+            "tags": {
+                "area": "yes",
+                "name": "UNOH FanZone",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Daytona_International_Speedway_2024.svg/1280px-Daytona_International_Speedway_2024.svg.png",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 1149405159,
+            "lat": 29.2211668,
+            "lon": -81.0218602,
+            "tags": {
+                "building": "yes",
+                "name": "Dr. Josie Rogers' House",
+                "source": "microsoft/BuildingFootprints",
+                "tourism": "museum"
+            }
+        },
+        {
+            "type": "way",
+            "id": 1280958849,
+            "lat": 29.2260325,
+            "lon": -81.0074342,
+            "tags": {
+                "name": "Daytona Beach Screamer's Park",
+                "tourism": "theme_park",
+                "website": "https://slingshotdaytonabeach.com/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/fb/1941_davidson_broadwalk.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 431712,
+            "lat": 29.18555556,
+            "lon": -81.06944444,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Daytona_International_Speedway_2024.svg/1280px-Daytona_International_Speedway_2024.svg.png",
+            "description": "Daytona International Speedway is a race track in Daytona Beach, Florida, United States, about 50 mi (80 km) north of Orlando.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Daytona International Speedway",
+                "wikipedia": "en:Daytona International Speedway",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 1467803,
+            "lat": 28.54,
+            "lon": -81.38,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/ColoursOfOrlando_%2827608606290%29.jpg/1280px-ColoursOfOrlando_%2827608606290%29.jpg",
+            "description": "The Orlando metropolitan area (officially, for U.S. census purposes, the Orlando–Kissimmee–Sanford, Florida metropolitan statistical area, MSA) is an inland metropolitan area in the central region of the U.S. state of Florida.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Greater Orlando",
+                "wikipedia": "en:Greater Orlando",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 54488,
+            "lat": 28.46,
+            "lon": -80.53,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Cape_canaveral.jpg/1280px-Cape_canaveral.jpg",
+            "description": "Cape Canaveral (Spanish: Cabo Cañaveral) is a cape in Brevard County, Florida, in the United States, near the center of the state's Atlantic coast.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Cape Canaveral",
+                "wikipedia": "en:Cape Canaveral",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 100582,
+            "lat": 28.54,
+            "lon": -81.38,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Lake-eola-park-orlando-florida.jpg/1280px-Lake-eola-park-orlando-florida.jpg",
+            "description": "Orlando (  or-LAN-doh) is a city in and the county seat of Orange County, Florida, United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Orlando, Florida",
+                "wikipedia": "en:Orlando, Florida",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 1806485,
+            "lat": 24.55906,
+            "lon": -81.80503,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Sloppy_Joe%27s_Bar%2C_Key_West_2025-05-17.jpg/1280px-Sloppy_Joe%27s_Bar%2C_Key_West_2025-05-17.jpg",
+            "description": "Sloppy Joe's Bar is a historic American bar in Key West, Florida, located at the corner of Greene and Duval Street since 1937.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Sloppy Joe's",
+                "wikipedia": "en:Sloppy Joe's",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 109793,
+            "lat": 27.40416667,
+            "lon": -80.39111111,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Fort_Pierce_Inlet_State_Park.jpg/1280px-Fort_Pierce_Inlet_State_Park.jpg",
+            "description": "Fort Pierce is a city in and the county seat of St.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Fort Pierce, Florida",
+                "wikipedia": "en:Fort Pierce, Florida",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 72008,
+            "lat": 28.3,
+            "lon": -80.7,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Titusville%2C_FL%2C_Courthouse%2C_Brevard_County%2C_08-07-2010_%285%29.JPG/1280px-Titusville%2C_FL%2C_Courthouse%2C_Brevard_County%2C_08-07-2010_%285%29.JPG",
+            "description": "Brevard County ( brə-VARD) is a county in the U.S. state of Florida.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Brevard County, Florida",
+                "wikipedia": "en:Brevard County, Florida",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 25895056,
+            "lat": 27.98917222,
+            "lon": -81.68993611,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Legoland_Florida_1_%286827572795%29.jpg/1280px-Legoland_Florida_1_%286827572795%29.jpg",
+            "description": "Legoland Florida Resort is a family-friendly, multi-day vacation destination in Central Florida featuring a 150-acre Lego theme park with more than 50 rides, shows, and attractions, the Legoland Water Park, and a botanical garden.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Legoland Florida",
+                "wikipedia": "en:Legoland Florida",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 58834494,
+            "lat": 29.46668861,
+            "lon": -81.25706917,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Holden_House_-_SE_Front_View_-_new_siding_on_top_front_gable.jpg/1280px-Holden_House_-_SE_Front_View_-_new_siding_on_top_front_gable.jpg",
+            "description": "The Holden House, located at 204 E. Moody Blvd., Bunnell, Florida, was built in 1918 by Samuel Merwin Bortree (1859–1918) as a wedding gift for his daughter Ethel Lura Bortree Holden (1892–1977), and her husband Thomas Edward Holden (1892–1974).",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Holden House",
+                "wikipedia": "en:Holden House",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 109790,
+            "lat": 29.88916667,
+            "lon": -81.30416667,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Aerial_view_of_the_Castillo_de_San_Marcos%2C_St._Augustine%2C_FL_2025-05-20.jpg/1280px-Aerial_view_of_the_Castillo_de_San_Marcos%2C_St._Augustine%2C_FL_2025-05-20.jpg",
+            "description": "St.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "St. Augustine, Florida",
+                "wikipedia": "en:St. Augustine, Florida",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 18933066,
+            "lat": 28,
+            "lon": -82,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Flag_of_Florida.svg/1280px-Flag_of_Florida.svg.png",
+            "description": "Florida (  FLORR-ih-də; Spanish: [floˈɾiða] ) is a state in the Southeastern and South Atlantic\nregions of the United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Florida",
+                "wikipedia": "en:Florida",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 58062,
+            "lat": 29.21,
+            "lon": -82.06,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Marion_County_Judicial_Center.jpg/1280px-Marion_County_Judicial_Center.jpg",
+            "description": "Marion County is a county located in the North Central region of the U.S. state of Florida.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Marion County, Florida",
+                "wikipedia": "en:Marion County, Florida",
+                "tourism": "attraction"
+            }
+        }
+    ]
+}

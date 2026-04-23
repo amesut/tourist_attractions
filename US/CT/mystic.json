@@ -1,0 +1,361 @@
+{
+    "city_metadata": {
+        "city_name": "Mystic",
+        "state_code": "CT",
+        "state_full": "Connecticut",
+        "city_summary": "Mystic is a village and census-designated place (CDP) in Groton and Stonington, Connecticut.\nMystic was a significant Connecticut seaport with more than 600 ships built over 135 years starting in 1784.  Mystic Seaport, located in the village, is the largest maritime museum in the United States and has preserved a number of sailing ships, such as the whaling ship Charles W. Morgan.",
+        "city_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Mystic%2C_Connecticut_aerial_view.jpg/1280px-Mystic%2C_Connecticut_aerial_view.jpg",
+        "city_lat": 41.35416667,
+        "city_lon": -71.96638889,
+        "source": "wikipedia_verified_engine"
+    },
+    "attractions": [
+        {
+            "type": "way",
+            "id": 384119758,
+            "lat": 41.361074,
+            "lon": -71.9653845,
+            "tags": {
+                "building": "yes",
+                "fee": "no",
+                "historic": "maritime",
+                "layer": "1",
+                "name": "Mystic River Scale Model",
+                "source_ref": "https://www.mysticseaport.org/explore/village/",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/La_Amistad_%28ship%29_restored.jpg/1280px-La_Amistad_%28ship%29_restored.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 384147369,
+            "lat": 41.3621958,
+            "lon": -71.9641486,
+            "tags": {
+                "building": "yes",
+                "fee": "no",
+                "name": "Children's Museum",
+                "source_ref": "https://www.mysticseaport.org/explore/village/",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Annie_sloop_2008.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 948557116,
+            "lat": 41.3631627,
+            "lon": -71.9475514,
+            "tags": {
+                "addr:city": "Stonington",
+                "addr:housenumber": "120",
+                "addr:postcode": "06378",
+                "addr:state": "CT",
+                "addr:street": "Pequotsepos Road",
+                "building": "yes",
+                "heritage": "yes",
+                "name": "Denison Homestead",
+                "tourism": "museum",
+                "website": "https://www.denisonhomestead.org/",
+                "wikidata": "Q7166605",
+                "wikipedia": "en:Pequotsepos Manor"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Pequotseposmanor-mystic-ct-usa.jpg/1280px-Pequotseposmanor-mystic-ct-usa.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 948557147,
+            "lat": 41.3623807,
+            "lon": -71.9467046,
+            "tags": {
+                "addr:city": "Stonington",
+                "addr:housenumber": "109",
+                "addr:postcode": "06378",
+                "addr:state": "CT",
+                "addr:street": "Pequotsepos Road",
+                "building": "yes",
+                "ele": "11",
+                "gnis:feature_id": "1931391",
+                "name": "Denison Pequotsepos Nature Center",
+                "opening_hours": "Mo-Sa 09:00-16:00; Su 10:00-16:00",
+                "source": "USGS Geonames",
+                "tourism": "museum",
+                "website": "https://dpnc.org/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Pequotseposmanor-mystic-ct-usa.jpg/1280px-Pequotseposmanor-mystic-ct-usa.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 958741758,
+            "lat": 41.3529817,
+            "lon": -71.9710922,
+            "tags": {
+                "addr:city": "Groton",
+                "addr:housenumber": "9",
+                "addr:postcode": "06355",
+                "addr:state": "CT",
+                "addr:street": "Water Street",
+                "building": "yes",
+                "name": "Mystic Museum of Art",
+                "tourism": "museum",
+                "website": "https://www.mysticmuseumofart.org/",
+                "wikidata": "Q38251388",
+                "wikipedia": "en:Mystic Museum of Art"
+            }
+        },
+        {
+            "type": "way",
+            "id": 967291493,
+            "lat": 41.3632063,
+            "lon": -71.963852,
+            "tags": {
+                "building": "yes",
+                "fee": "yes",
+                "name": "Thompson Exhibition Building",
+                "source_ref": "https://www.mysticseaport.org/explore/village/",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Annie_sloop_2008.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 967954262,
+            "lat": 41.3618299,
+            "lon": -71.9637478,
+            "tags": {
+                "addr:city": "Mystic",
+                "addr:housenumber": "75",
+                "addr:postcode": "06355",
+                "addr:state": "CT",
+                "addr:street": "Greenmanville Avenue",
+                "check_date": "2026-03-30",
+                "ele": "0",
+                "gnis:feature_id": "212515",
+                "historic": "maritime",
+                "name": "Mystic Seaport Marine Museum",
+                "short_name": "Mystic Seaport",
+                "tourism": "theme_park",
+                "website": "https://www.mysticseaport.org/",
+                "wheelchair": "yes",
+                "wikidata": "Q1890082",
+                "wikipedia": "en:Mystic Seaport"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Mystic_Shipyard_aerial_by_Don_Ramey_Logan.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 108826,
+            "lat": 41.35416667,
+            "lon": -71.96638889,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Mystic%2C_Connecticut_aerial_view.jpg/1280px-Mystic%2C_Connecticut_aerial_view.jpg",
+            "description": "Mystic is a village and census-designated place (CDP) in Groton and Stonington, Connecticut.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Mystic, Connecticut",
+                "wikipedia": "en:Mystic, Connecticut",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 6466,
+            "lat": 41.6,
+            "lon": -72.7,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Flag_of_Connecticut.svg/1280px-Flag_of_Connecticut.svg.png",
+            "description": "Connecticut (  kə-NET-ih-kət) is a state in the New England region of the Northeastern United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Connecticut",
+                "wikipedia": "en:Connecticut",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 2791448,
+            "lat": 41.101,
+            "lon": -73.4164,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Maritime_Aquarium_at_Norwalk_%2854412835630%29.jpg/1280px-Maritime_Aquarium_at_Norwalk_%2854412835630%29.jpg",
+            "description": "The Maritime Aquarium at Norwalk (formerly Maritime Center) is an aquarium located in the South Norwalk (or \"SoNo\") section of Norwalk, Connecticut.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Maritime Aquarium at Norwalk",
+                "wikipedia": "en:Maritime Aquarium at Norwalk",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 13588925,
+            "lat": 41.36083333,
+            "lon": -71.96722222,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Sabino_Mystic_Oct_2020.jpg/1280px-Sabino_Mystic_Oct_2020.jpg",
+            "description": "Sabino (pronounced Sah-BYE-No) is a small wooden, coal-fired steamboat built in 1908 and located at the Mystic Seaport Museum in Mystic, Connecticut.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Sabino (steamer)",
+                "wikipedia": "en:Sabino (steamer)",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 74137331,
+            "lat": 41.4326,
+            "lon": -72.2226,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Monty_T_Rex.jpg/1280px-Monty_T_Rex.jpg",
+            "description": "The Dinosaur Place is a family-owned 60-acre dinosaur-themed adventure park located in Nature's Art Village in Montville, Connecticut.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "The Dinosaur Place",
+                "wikipedia": "en:The Dinosaur Place",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 1645518,
+            "lat": 42.3,
+            "lon": -72,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Flag_of_Massachusetts.svg/1280px-Flag_of_Massachusetts.svg.png",
+            "description": "Massachusetts (   MASS-ə-CHOO-sits, -⁠zits; Massachusett: Muhsachuweesut [məhswatʃəwiːsət]), officially the Commonwealth of Massachusetts, is a state in the New England region of the Northeastern United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Massachusetts",
+                "wikipedia": "en:Massachusetts",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 746,
+            "lat": 40.3,
+            "lon": 47.7,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Flag_of_Azerbaijan.svg/1280px-Flag_of_Azerbaijan.svg.png",
+            "description": "Azerbaijan, officially the Republic of Azerbaijan, is a transcontinental landlocked country at the boundary of Western Asia and Eastern Europe.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Azerbaijan",
+                "wikipedia": "en:Azerbaijan",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 8587169,
+            "lat": 41.20638889,
+            "lon": -72.10694444,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c4/2022_Little_Gull_Island_Light.jpg",
+            "description": "Little Gull Island Light is a lighthouse on Little Gull Island, a small island in Long Island Sound, located approximately 0.4 miles (0.6 km) northeast of Great Gull Island.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Little Gull Island Light",
+                "wikipedia": "en:Little Gull Island Light",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 173602,
+            "lat": 42.64666667,
+            "lon": -71.31027778,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Boott_mill_rooftop_view.jpg",
+            "description": "Lowell National Historical Park is a National Historical Park of the United States located in Lowell, Massachusetts.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Lowell National Historical Park",
+                "wikipedia": "en:Lowell National Historical Park",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 7123996,
+            "lat": 41.31666667,
+            "lon": -72.08975,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d6/New_London_Harbor_Light_1984.jpg",
+            "description": "New London Harbor Light is a lighthouse in Connecticut on the west side of the New London harbor entrance.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "New London Harbor Light",
+                "wikipedia": "en:New London Harbor Light",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 19857,
+            "lat": 46.13277778,
+            "lon": -64.77138889,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/View_of_the_Moncton%2C_New_Brunswick_skyline_%28cropped%29.jpg/1280px-View_of_the_Moncton%2C_New_Brunswick_skyline_%28cropped%29.jpg",
+            "description": "Moncton (; French pronunciation: [mɔŋktœn]) is the most populous city in the Canadian province of New Brunswick.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Moncton",
+                "wikipedia": "en:Moncton",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 1451532,
+            "lat": 37.27111111,
+            "lon": -76.70277778,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Bruton_Church%2C_Williamsburg.JPG/1280px-Bruton_Church%2C_Williamsburg.JPG",
+            "description": "Bruton Parish Church is located in the restored area of Colonial Williamsburg in Williamsburg, Virginia, United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Bruton Parish Church",
+                "wikipedia": "en:Bruton Parish Church",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 535486,
+            "lat": 41.2103,
+            "lon": -73.1815,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Entrance%2C_Beardsley_Zoo%2C_2009-11-06.jpg/1280px-Entrance%2C_Beardsley_Zoo%2C_2009-11-06.jpg",
+            "description": "Connecticut's Beardsley Zoo, located in Bridgeport, Connecticut, is the only Association of Zoos and Aquariums (AZA)–accredited zoo in the state of Connecticut.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Connecticut's Beardsley Zoo",
+                "wikipedia": "en:Connecticut's Beardsley Zoo",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 7124643,
+            "lat": 41.26324444,
+            "lon": -72.34277778,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Saybrook_breakwater_light.jpg/1280px-Saybrook_breakwater_light.jpg",
+            "description": "Saybrook Breakwater Lighthouse is a sparkplug lighthouse in Connecticut,\nUnited States, at Fenwick Point at the mouth of the Connecticut River near Old Saybrook, Connecticut.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Saybrook Breakwater Light",
+                "wikipedia": "en:Saybrook Breakwater Light",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 7192961,
+            "lat": 41.23138889,
+            "lon": -72.92361111,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/SouthwestLedge_NewHaven.jpg/1280px-SouthwestLedge_NewHaven.jpg",
+            "description": "Southwest Ledge Light is an active lighthouse marking the main entrance channel to the harbor of New Haven, Connecticut.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Southwest Ledge Light",
+                "wikipedia": "en:Southwest Ledge Light",
+                "tourism": "attraction"
+            }
+        }
+    ]
+}

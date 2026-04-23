@@ -1,0 +1,820 @@
+{
+    "city_metadata": {
+        "city_name": "Fort Worth",
+        "state_code": "TX",
+        "state_full": "Texas",
+        "city_summary": "Fort Worth is a city in the U.S. state of Texas. It is the county seat of Tarrant County, covering nearly 350 square miles (910 km2) and extending into Denton, Johnson, Parker, and Wise counties. Fort Worth's population was estimated to be 1,008,156 in 2024, making it the 11th-most populous city in the United States.",
+        "city_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Fort_Worth_Skyline.jpg/1280px-Fort_Worth_Skyline.jpg",
+        "city_lat": 32.75638889,
+        "city_lon": -97.3325,
+        "source": "wikipedia_verified_engine"
+    },
+    "attractions": [
+        {
+            "type": "node",
+            "id": 368164723,
+            "lat": 32.719298,
+            "lon": -97.347517,
+            "tags": {
+                "addr:state": "TX",
+                "ele": "198",
+                "gnis:feature_id": "2032698",
+                "name": "Rogers-O'Daniel House",
+                "source": "USGS Geonames",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 368165087,
+            "lat": 32.7342977,
+            "lon": -97.315016,
+            "tags": {
+                "addr:state": "TX",
+                "ele": "186",
+                "gnis:feature_id": "2014372",
+                "name": "Tarrant County Black Historical and Genealogical Museum",
+                "source": "USGS Geonames",
+                "tourism": "museum",
+                "website": "https://www.tarrantcountyblackhistory.org/"
+            }
+        },
+        {
+            "type": "node",
+            "id": 368165552,
+            "lat": 32.7896014,
+            "lon": -97.3466664,
+            "tags": {
+                "addr:city": "Fort Worth",
+                "addr:country": "US",
+                "addr:housenumber": "131",
+                "addr:postcode": "76164",
+                "addr:state": "TX",
+                "addr:street": "East Exchange Avenue",
+                "ele": "165",
+                "gnis:feature_id": "2014468",
+                "name": "Fort Worth Stockyards Museum",
+                "source": "USGS Geonames",
+                "tourism": "museum",
+                "website": "http://www.stockyardsmuseum.org/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Fort_Worth_Stock_Yards_Entrance_Wiki_%281_of_1%29.jpg/1280px-Fort_Worth_Stock_Yards_Entrance_Wiki_%281_of_1%29.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 368165554,
+            "lat": 32.7438852,
+            "lon": -97.3692795,
+            "tags": {
+                "addr:state": "TX",
+                "ele": "175",
+                "gnis:feature_id": "2014462",
+                "name": "Cattle Raisers Museum",
+                "source": "USGS Geonames",
+                "tourism": "museum",
+                "website": "https://cattleraisersmuseum.org/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Fort_Worth_Cultural_District_June_2016_06_%28National_Cowgirl_Museum_and_Hall_of_Fame%29.jpg/1280px-Fort_Worth_Cultural_District_June_2016_06_%28National_Cowgirl_Museum_and_Hall_of_Fame%29.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 600486152,
+            "lat": 32.7883841,
+            "lon": -97.3455556,
+            "tags": {
+                "name": "Stockyards",
+                "public_transport": "stop_position",
+                "railway": "stop",
+                "tourism": "attraction",
+                "train": "yes",
+                "wheelchair": "limited"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Fort_Worth_Stock_Yards_Entrance_Wiki_%281_of_1%29.jpg/1280px-Fort_Worth_Stock_Yards_Entrance_Wiki_%281_of_1%29.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 868433023,
+            "lat": 32.7885774,
+            "lon": -97.3467907,
+            "tags": {
+                "addr:city": "Fort Worth",
+                "addr:country": "US",
+                "addr:housenumber": "128",
+                "addr:postcode": "76164",
+                "addr:state": "TX",
+                "addr:street": "East Exchange Avenue",
+                "name": "Texas Cowboy Hall of Fame",
+                "phone": "+1-817-626-7131",
+                "tourism": "museum",
+                "website": "http://www.texascowboyhalloffame.org/",
+                "wikidata": "Q7707613",
+                "wikipedia": "en:Texas Cowboy Hall of Fame"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/dc/MVI_2986_Texas_Cowboy_Hall_of_Fame_in_Fort_Worth.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 4273376249,
+            "lat": 32.7893307,
+            "lon": -97.3467174,
+            "tags": {
+                "addr:city": "Fort Worth",
+                "addr:housenumber": "131",
+                "addr:postcode": "76164",
+                "addr:state": "TX",
+                "addr:street": "East Exchange Avenue",
+                "name": "Livestock Exchange Building",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/dc/MVI_2986_Texas_Cowboy_Hall_of_Fame_in_Fort_Worth.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 5268941121,
+            "lat": 32.8329239,
+            "lon": -97.063696,
+            "tags": {
+                "access": "yes",
+                "addr:city": "Fort Worth",
+                "addr:housenumber": "4601",
+                "addr:postcode": "76155",
+                "addr:state": "TX",
+                "addr:street": "Highway 360",
+                "name": "C.R. Smith Aviation Museum",
+                "opening_hours": "Th 10:00-14:00; Fr,Sa 10:00-16:00",
+                "tourism": "museum",
+                "website": "https://www.crsmithmuseum.org/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Scene_outside_the_American_Airlines_C.R._Smith_Museum_on_the_campus_of_the_American_Airlines_Flight_Academy%2C_at_the_southern_end_of_DFW_International_Airport_near_the_world_headquarters_of_American_LCCN2015630845.tif/lossy-page1-1280px-thumbnail.tif.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 6563716754,
+            "lat": 32.7485917,
+            "lon": -97.3651885,
+            "tags": {
+                "fee": "no",
+                "level": "2",
+                "name": "Kimbell Art Museum Kahn Building West Lobby",
+                "operator": "Kimbell Art Museum",
+                "tourism": "museum",
+                "website": "https://kimbellart.org/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Kimbell_Art_Museum_Highsmith.jpg/1280px-Kimbell_Art_Museum_Highsmith.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 6563716755,
+            "lat": 32.748599,
+            "lon": -97.3660789,
+            "tags": {
+                "level": "2",
+                "name": "Kimbell Art Museum Piano Pavilion Lobby",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Kimbell_Art_Museum_Highsmith.jpg/1280px-Kimbell_Art_Museum_Highsmith.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 6563721586,
+            "lat": 32.7483387,
+            "lon": -97.3661335,
+            "tags": {
+                "air_conditioning": "yes",
+                "internet_access": "wlan",
+                "level": "2",
+                "name": "Kimbell Art Museum Piano Pavilion South Gallery",
+                "operator": "Kimbell Art Museum",
+                "tourism": "museum",
+                "website": "https://kimbellart.org"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Kimbell_Art_Museum_Highsmith.jpg/1280px-Kimbell_Art_Museum_Highsmith.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 6563721587,
+            "lat": 32.7483703,
+            "lon": -97.366509,
+            "tags": {
+                "air_conditioning": "yes",
+                "internet_access": "wlan",
+                "level": "2",
+                "name": "Kimbell Art Museum Piano Pavilion West Gallery",
+                "operator": "Kimbell Art Museum",
+                "tourism": "museum",
+                "website": "https://www.kimbellart.org",
+                "wheelchair": "yes"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Kimbell_Art_Museum_Highsmith.jpg/1280px-Kimbell_Art_Museum_Highsmith.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 6585434285,
+            "lat": 32.7893388,
+            "lon": -97.3476942,
+            "tags": {
+                "name": "Cowtown Coliseum Rodeo",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Fort_Worth_Stockyards_June_2016_49_%28Cowtown_Coliseum%29.jpg/1280px-Fort_Worth_Stockyards_June_2016_49_%28Cowtown_Coliseum%29.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 6585434385,
+            "lat": 32.7890094,
+            "lon": -97.3523608,
+            "tags": {
+                "addr:housenumber": "302",
+                "addr:street": "West Exchange Avenue",
+                "name": "Pearls Dance Hall",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Fort_Worth_Stockyards_June_2016_64_%28Cattlemen%27s_Steak_House%29.jpg/1280px-Fort_Worth_Stockyards_June_2016_64_%28Cattlemen%27s_Steak_House%29.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 6600510187,
+            "lat": 32.7488978,
+            "lon": -97.3660786,
+            "tags": {
+                "air_conditioning": "yes",
+                "beacon:uuid": "4480ea4b-8b66-456e-b325-44dec46e235c",
+                "internet_access": "wlan",
+                "level": "2",
+                "name": "Kimbell Art Museum Piano Pavilion North Gallery",
+                "tourism": "museum",
+                "website": "https://www.kimbellart.org"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Kimbell_Art_Museum_Highsmith.jpg/1280px-Kimbell_Art_Museum_Highsmith.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 6600510188,
+            "lat": 32.7488799,
+            "lon": -97.3652813,
+            "tags": {
+                "beacon:uuid": "5ac9a4ac-16f4-483d-a9ed-32daec290825",
+                "fee": "no",
+                "level": "2",
+                "name": "Kimbell Art Museum Kahn Building North Gallery",
+                "operator": "Kimbell Art Museum",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Kimbell_Art_Museum_Highsmith.jpg/1280px-Kimbell_Art_Museum_Highsmith.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 6600510189,
+            "lat": 32.7484016,
+            "lon": -97.3652191,
+            "tags": {
+                "beacon:uuid": "17d3afb9-8177-44e7-a9cb-da1d8c05fc23",
+                "fee": "no",
+                "level": "2",
+                "name": "Kimbell Art Museum Kahn Building South Gallery",
+                "operator": "Kimbell Art Museum",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Kimbell_Art_Museum_Highsmith.jpg/1280px-Kimbell_Art_Museum_Highsmith.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 6818241636,
+            "lat": 32.7439846,
+            "lon": -97.3587483,
+            "tags": {
+                "addr:city": "Fort Worth",
+                "addr:housenumber": "2933",
+                "addr:postcode": "76107",
+                "addr:state": "TX",
+                "addr:street": "Farm House Way",
+                "name": "Van Zandt Cottage",
+                "opening_hours": "Tu-Sa 09:30-16:00",
+                "operator": "Fort Worth Park and Recreation",
+                "tourism": "museum",
+                "website": "https://www.logcabinvillage.org/vanzandtcottage"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Casa_Manana_01.jpg/1280px-Casa_Manana_01.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 13160144028,
+            "lat": 32.7373534,
+            "lon": -97.3652688,
+            "tags": {
+                "name": "Japanese Tea House",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Japanese_Lantern%2C_FWJG.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 13162169508,
+            "lat": 32.7353068,
+            "lon": -97.3644696,
+            "tags": {
+                "name": "Republic of Texas Garden",
+                "operator": "Fort Worth Botanic Garden",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Japanese_Lantern%2C_FWJG.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 13162169509,
+            "lat": 32.7347077,
+            "lon": -97.3645444,
+            "tags": {
+                "name": "Lower Rose Garden",
+                "operator": "Fort Worth Botanic Garden",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Japanese_Lantern%2C_FWJG.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 13162169510,
+            "lat": 32.7357756,
+            "lon": -97.3645793,
+            "tags": {
+                "name": "Oval Rose Garden",
+                "operator": "Fort Worth Botanic Garden",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Japanese_Lantern%2C_FWJG.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 75507735,
+            "lat": 32.7203071,
+            "lon": -97.3561978,
+            "tags": {
+                "addr:city": "Fort Worth",
+                "addr:full": "1989 Colonial Parkway",
+                "addr:housenumber": "1989",
+                "addr:state": "TX",
+                "addr:street": "Colonial Parkway",
+                "email": "info@fortworthzoo.org",
+                "fax": "+1 817-759-7501",
+                "name": "Fort Worth Zoo",
+                "payment:cash": "yes",
+                "payment:credit_cards": "yes",
+                "payment:debit_cards": "yes",
+                "phone": "+1-817-759-7555",
+                "toilets": "yes",
+                "tourism": "zoo",
+                "website": "https://fortworthzoo.org",
+                "wikidata": "Q5472415",
+                "wikipedia": "en:Fort Worth Zoo"
+            }
+        },
+        {
+            "type": "way",
+            "id": 112647982,
+            "lat": 32.7419907,
+            "lon": -97.362549,
+            "tags": {
+                "addr:city": "Fort Worth",
+                "addr:housenumber": "1700",
+                "addr:postcode": "76107",
+                "addr:state": "TX",
+                "addr:street": "University Drive",
+                "building": "yes",
+                "internet_access": "wlan",
+                "museum": "nature",
+                "name": "Botanical Research Institute of Texas",
+                "name:en": "Botanical Research Institute of Texas",
+                "phone": "+1 817 332 4441",
+                "tourism": "museum",
+                "website": "https://www.brit.org/",
+                "wikidata": "Q2759819",
+                "wikipedia": "en:Botanical Research Institute of Texas"
+            }
+        },
+        {
+            "type": "way",
+            "id": 128890090,
+            "lat": 32.7891481,
+            "lon": -97.3453862,
+            "tags": {
+                "addr:city": "Fort Worth",
+                "addr:country": "US",
+                "addr:housenumber": "145",
+                "addr:postcode": "76164",
+                "addr:state": "TX",
+                "addr:street": "East Exchange Avenue",
+                "attraction": "maze",
+                "building": "commercial",
+                "name": "Cowtown Cattlepen Maze",
+                "tourism": "attraction",
+                "wheelchair": "limited"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Fort_Worth_Stock_Yards_Entrance_Wiki_%281_of_1%29.jpg/1280px-Fort_Worth_Stock_Yards_Entrance_Wiki_%281_of_1%29.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 141505023,
+            "lat": 32.7447088,
+            "lon": -97.3671945,
+            "tags": {
+                "building": "yes",
+                "name": "Amon G. Carter, Jr. Exhibits Hall",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "way",
+            "id": 141505027,
+            "lat": 32.7432565,
+            "lon": -97.3687899,
+            "tags": {
+                "addr:city": "Fort Worth",
+                "addr:country": "US",
+                "addr:housenumber": "1720",
+                "addr:postcode": "76107",
+                "addr:state": "TX",
+                "addr:street": "Gendy Street",
+                "building": "yes",
+                "check_date:opening_hours": "2023-07-24",
+                "ele": "188",
+                "fee": "yes",
+                "fee:conditional": "no @ (age < 3)",
+                "gnis:feature_id": "2014422",
+                "name": "National Cowgirl Museum and Hall of Fame",
+                "opening_hours": "Tu-Sa 10:00-17:00; Su 12:00-17:00; Jan 01 off; Jul 04 off; Nov Th[4] off; Dec 24-25 off",
+                "source": "USGS Geonames",
+                "tourism": "museum",
+                "website": "https://www.cowgirl.net/",
+                "wikidata": "Q6971983"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Fort_Worth_Cultural_District_June_2016_06_%28National_Cowgirl_Museum_and_Hall_of_Fame%29.jpg/1280px-Fort_Worth_Cultural_District_June_2016_06_%28National_Cowgirl_Museum_and_Hall_of_Fame%29.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 141505034,
+            "lat": 32.7432605,
+            "lon": -97.3637213,
+            "tags": {
+                "addr:housenumber": "3201",
+                "addr:street": "Burnett-Tandy Drive",
+                "building": "yes",
+                "name": "Charlie & Kit Moncrief Building",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "way",
+            "id": 141505038,
+            "lat": 32.7446282,
+            "lon": -97.3637116,
+            "tags": {
+                "addr:housenumber": "1591",
+                "addr:street": "Rip Johnson Drive",
+                "building": "yes",
+                "name": "Richardson - Bass Building",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Casa_Manana_01.jpg/1280px-Casa_Manana_01.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 141506526,
+            "lat": 32.7493374,
+            "lon": -97.3629756,
+            "tags": {
+                "addr:city": "Fort Worth",
+                "addr:housenumber": "3200",
+                "addr:postcode": "76107",
+                "addr:state": "TX",
+                "addr:street": "Darnell Street",
+                "air_conditioning": "yes",
+                "building": "yes",
+                "building:levels": "2",
+                "check_date": "2024-04-05",
+                "contact:facebook": "https://www.facebook.com/themodernfw",
+                "fee": "yes",
+                "internet_access": "wlan",
+                "internet_access:fee": "customers",
+                "name": "Modern Art Museum of Fort Worth",
+                "opening_hours": "Tu-Th,Sa,Su 10:00-17:00; Fr 10:00-20:00",
+                "payment:cash": "yes",
+                "payment:credit_cards": "yes",
+                "payment:debit_cards": "yes",
+                "payment:discover_card": "yes",
+                "payment:mastercard": "yes",
+                "payment:visa": "yes",
+                "toilets": "yes",
+                "toilets:wheelchair": "yes",
+                "tourism": "museum",
+                "website": "https://www.themodern.org/",
+                "wheelchair": "yes",
+                "wikidata": "Q1414796",
+                "wikipedia": "en:Modern Art Museum of Fort Worth"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Fort_Worth_Texas_Modern_Art_Museum_2003.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 152376460,
+            "lat": 32.6802274,
+            "lon": -97.4080248,
+            "tags": {
+                "addr:housenumber": "4801",
+                "addr:street": "Citylake Boulevard East",
+                "building": "commercial",
+                "name": "Main Event Entertainment",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "way",
+            "id": 178604011,
+            "lat": 32.7564136,
+            "lon": -97.3310887,
+            "tags": {
+                "building": "fire_station",
+                "name": "Fire Station #1 (Historical)",
+                "tourism": "museum",
+                "wikidata": "Q107319502"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/City_Center_Towers_FW.JPG/1280px-City_Center_Towers_FW.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 178613279,
+            "lat": 32.7447249,
+            "lon": -97.3655759,
+            "tags": {
+                "addr:housenumber": "3401",
+                "addr:street": "West Lancaster Avenue",
+                "building": "yes",
+                "name": "Burnett Building",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "way",
+            "id": 178613280,
+            "lat": 32.7457149,
+            "lon": -97.3659591,
+            "tags": {
+                "addr:housenumber": "3401",
+                "addr:street": "West Lancaster Avenue",
+                "building": "yes",
+                "name": "Will Rogers Coliseum",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/54/WillRogersMemorialCenter1.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 178613283,
+            "lat": 32.7478665,
+            "lon": -97.3690323,
+            "tags": {
+                "addr:city": "Fort Worth",
+                "addr:housenumber": "3501",
+                "addr:postcode": "76107",
+                "addr:state": "TX",
+                "addr:street": "Camp Bowie Boulevard",
+                "alt": "Amon Carter Museum of American Art",
+                "building": "yes",
+                "name": "Amon Carter Museum",
+                "phone": "+1-817-738-1933",
+                "tourism": "museum",
+                "website": "https://www.cartermuseum.org/",
+                "wikidata": "Q255559",
+                "wikipedia": "en:Amon Carter Museum of American Art"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Amon_Carter_Museum_of_American_Art_Logo.svg/1280px-Amon_Carter_Museum_of_American_Art_Logo.svg.png",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 178613286,
+            "lat": 32.7431499,
+            "lon": -97.3664476,
+            "tags": {
+                "building": "yes",
+                "name": "Livestock Barns",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/1908FortWorthShow.jpg/1280px-1908FortWorthShow.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 497275649,
+            "lat": 32.7323972,
+            "lon": -97.3179102,
+            "tags": {
+                "addr:housenumber": "901",
+                "addr:street": "East Rosedale Street",
+                "building": "yes",
+                "name": "JUNETEENTH MUSEUM",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/OurMotherofMercy1_%281_of_1%29.jpg/1280px-OurMotherofMercy1_%281_of_1%29.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 497275942,
+            "lat": 32.7343552,
+            "lon": -97.3147852,
+            "tags": {
+                "addr:city": "Fort Worth",
+                "addr:housenumber": "1020",
+                "addr:state": "TX",
+                "addr:street": "East Humbolt Street",
+                "building": "yes",
+                "name": "Lenora Rolla",
+                "tourism": "museum"
+            }
+        },
+        {
+            "type": "way",
+            "id": 497506978,
+            "lat": 32.7577606,
+            "lon": -97.354997,
+            "tags": {
+                "addr:housenumber": "200",
+                "addr:street": "Carroll Street",
+                "building": "yes",
+                "name": "Leonard's Museum",
+                "tourism": "museum"
+            }
+        },
+        {
+            "type": "way",
+            "id": 497510853,
+            "lat": 32.7404966,
+            "lon": -97.3639618,
+            "tags": {
+                "building": "yes",
+                "layer": "1",
+                "name": "Deborah Beggs Moncrief Garden Center",
+                "opening_hours": "09:00-17:00",
+                "operator": "Fort Worth Botanic Garden",
+                "operator:type": "government",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Fort_Worth_Botanical_Gardens_Rose_Garden_Wiki_%281_of_1%29.jpg/1280px-Fort_Worth_Botanical_Gardens_Rose_Garden_Wiki_%281_of_1%29.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 497513600,
+            "lat": 32.7546153,
+            "lon": -97.3640879,
+            "tags": {
+                "addr:housenumber": "3213",
+                "addr:street": "Hamilton Avenue",
+                "building": "yes",
+                "name": "Christian Arts Museum",
+                "tourism": "museum"
+            }
+        },
+        {
+            "type": "way",
+            "id": 498619170,
+            "lat": 32.7225592,
+            "lon": -97.3576128,
+            "tags": {
+                "attraction": "animal",
+                "building": "public",
+                "name": "World of Primates",
+                "species:wikidata": "Q7380",
+                "species:wikipedia": "en:Primate",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "way",
+            "id": 499182549,
+            "lat": 32.7826037,
+            "lon": -97.3494923,
+            "tags": {
+                "addr:city": "Fort Worth",
+                "addr:housenumber": "2029",
+                "addr:postcode": "76164",
+                "addr:state": "TX",
+                "addr:street": "North Main Street",
+                "building": "yes",
+                "fee": "yes",
+                "name": "National Multicultural Western Heritage Museum and Hall of Fame",
+                "opening_hours:url": "https://nmwhm.org/contact-us/",
+                "tourism": "museum",
+                "website": "https://nmwhm.org/about-us"
+            }
+        },
+        {
+            "type": "way",
+            "id": 504049283,
+            "lat": 32.7118569,
+            "lon": -97.2751455,
+            "tags": {
+                "addr:city": "Fort Worth",
+                "addr:housenumber": "3433",
+                "addr:postcode": "76119",
+                "addr:state": "TX",
+                "addr:street": "Martin Luther King Freeway",
+                "building": "yes",
+                "name": "WMC Texas Prince Hall Library Museum",
+                "tourism": "museum"
+            }
+        },
+        {
+            "type": "way",
+            "id": 655072039,
+            "lat": 32.8056895,
+            "lon": -97.3555854,
+            "tags": {
+                "building": "yes",
+                "name": "Fort Worth Aviation Museum",
+                "tourism": "museum"
+            }
+        },
+        {
+            "type": "way",
+            "id": 670273369,
+            "lat": 32.75552,
+            "lon": -97.3315799,
+            "tags": {
+                "addr:city": "Fort Worth",
+                "addr:housenumber": "309",
+                "addr:postcode": "76102",
+                "addr:state": "TX",
+                "addr:street": "Main Street",
+                "building:part": "yes",
+                "name": "Sid Richardson Museum",
+                "opening_hours": "Mo-Sa 10:00-17:00; Fr 10:00-18:00; Su 12:00-17:00",
+                "tourism": "museum",
+                "website": "https://sidrichardsonmuseum.org/",
+                "wikidata": "Q7507891"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Fort_Worth_June_2016_42_%28Sid_Richardson_Museum%29.jpg/1280px-Fort_Worth_June_2016_42_%28Sid_Richardson_Museum%29.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 673413384,
+            "lat": 32.7222015,
+            "lon": -97.3584963,
+            "tags": {
+                "attraction": "animal",
+                "name": "Elephant",
+                "natural": "bare_rock",
+                "species:wikidata": "Q7378",
+                "species:wikipedia": "en:Elephant",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/WestbrookHouse.jpg/1280px-WestbrookHouse.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 1295565759,
+            "lat": 32.8118318,
+            "lon": -97.3561141,
+            "tags": {
+                "addr:state": "TX",
+                "ele": "202",
+                "gnis:feature_id": "2014375",
+                "name": "Vintage Flying Museum",
+                "source": "USGS Geonames",
+                "tourism": "museum",
+                "website": "https://vintageflyingmuseum.org/",
+                "wikidata": "Q14711398"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Vintage_Flying_Museum_2016.jpg/1280px-Vintage_Flying_Museum_2016.jpg",
+            "image_source": "wikipedia_verified"
+        }
+    ]
+}

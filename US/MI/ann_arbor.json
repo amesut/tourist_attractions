@@ -1,0 +1,443 @@
+{
+    "city_metadata": {
+        "city_name": "Ann Arbor",
+        "state_code": "MI",
+        "state_full": "Michigan",
+        "city_summary": "Ann Arbor is a city in Washtenaw County, Michigan, United States, of which it is the county seat. It had a population of 123,851 in 2020, making it the fifth most populous in Michigan.\nThe city is home to the University of Michigan, the oldest university in the state.",
+        "city_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/A_picture_of_the_University_of_Michigan_campus_in_Ann_Arbor%2C_Michigan%2C_USA.jpg/1280px-A_picture_of_the_University_of_Michigan_campus_in_Ann_Arbor%2C_Michigan%2C_USA.jpg",
+        "city_lat": 42.28138889,
+        "city_lon": -83.74833333,
+        "source": "wikipedia_verified_engine"
+    },
+    "attractions": [
+        {
+            "type": "node",
+            "id": 4811828091,
+            "lat": 42.277683,
+            "lon": -83.7545686,
+            "tags": {
+                "addr:housenumber": "525",
+                "addr:street": "West William Street",
+                "check_date:opening_hours": "2023-07-25",
+                "fee": "no",
+                "name": "Argus Museum",
+                "opening_hours:signed": "no",
+                "tourism": "museum",
+                "website": "https://argusmuseum.wordpress.com/",
+                "wikidata": "Q14716063",
+                "wikipedia": "en:Argus Museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/87/The_Argus_Museum.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 7121895104,
+            "lat": 42.2788567,
+            "lon": -83.7342551,
+            "tags": {
+                "addr:city": "Ann Arbor",
+                "addr:housenumber": "1105",
+                "addr:postcode": "48109",
+                "addr:state": "MI",
+                "addr:street": "North University Avenue",
+                "fee": "no",
+                "museum": "nature",
+                "name": "University of Michigan Museum of Natural History",
+                "opening_hours": "Tu-Su 10:00-16:00",
+                "operator": "University of Michigan",
+                "tourism": "museum",
+                "website": "https://lsa.umich.edu/ummnh",
+                "wikidata": "Q7895767",
+                "wikipedia": "en:University of Michigan Museum of Natural History"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Seal_of_the_University_of_Michigan.svg/1280px-Seal_of_the_University_of_Michigan.svg.png",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 10042811416,
+            "lat": 42.2664969,
+            "lon": -83.7499387,
+            "tags": {
+                "name": "Northwest Tower (Ross)",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Michigan_Stadium_Aerial.jpg/1280px-Michigan_Stadium_Aerial.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 10042832017,
+            "lat": 42.2665254,
+            "lon": -83.7475468,
+            "tags": {
+                "name": "Northeast Tower (Tisch)",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Michigan_Stadium_Aerial.jpg/1280px-Michigan_Stadium_Aerial.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 10042832018,
+            "lat": 42.2652383,
+            "lon": -83.7475175,
+            "tags": {
+                "name": "Southeast Tower",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/University_of_Michigan_August_2013_253_%28Crisler_Center%29.jpg/1280px-University_of_Michigan_August_2013_253_%28Crisler_Center%29.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 10042832019,
+            "lat": 42.2652303,
+            "lon": -83.7499685,
+            "tags": {
+                "name": "Southwest Tower (Levine)",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Michigan_Stadium_Aerial.jpg/1280px-Michigan_Stadium_Aerial.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 11208835437,
+            "lat": 42.2446755,
+            "lon": -83.6968645,
+            "tags": {
+                "name": "Decode",
+                "name:en": "Decode Ann Arbor",
+                "phone": "+13134388054",
+                "tourism": "attraction",
+                "website": "https://www.decodedetroit.com/#Games"
+            }
+        },
+        {
+            "type": "node",
+            "id": 12950231632,
+            "lat": 42.3017111,
+            "lon": -83.7304312,
+            "tags": {
+                "name": "Sunset Point",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "way",
+            "id": 154202607,
+            "lat": 42.2767438,
+            "lon": -83.741394,
+            "tags": {
+                "addr:city": "Ann Arbor",
+                "addr:housenumber": "434",
+                "addr:postcode": "48109",
+                "addr:street": "South State Street",
+                "building": "university",
+                "fee": "no",
+                "museum": "archaeological",
+                "name": "Kelsey Museum of Archaeology",
+                "name:zh": "凯尔希建筑博物馆",
+                "opening_hours": "Tu-Fr 09:00-16:00; Sa,Su 13:00-16:00; PH,Mo off",
+                "operator": "University of Michigan",
+                "tourism": "museum",
+                "website": "https://lsa.umich.edu/kelsey",
+                "wheelchair": "yes",
+                "wikidata": "Q1738346",
+                "wikipedia": "en:Kelsey Museum of Archaeology"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Newberry_Hall_%28Kelsey_Museum_of_Archaeology%29%2C_University_of_Michigan%2C_State_Street%2C_Ann_Arbor%2C_MI.jpg/1280px-Newberry_Hall_%28Kelsey_Museum_of_Archaeology%29%2C_University_of_Michigan%2C_State_Street%2C_Ann_Arbor%2C_MI.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 154202613,
+            "lat": 42.2755859,
+            "lon": -83.7397763,
+            "tags": {
+                "addr:city": "Ann Arbor",
+                "addr:housenumber": "525",
+                "addr:postcode": "48109",
+                "addr:state": "MI",
+                "addr:street": "South State Street",
+                "building": "university",
+                "check_date:opening_hours": "2025-01-07",
+                "email": "umma.info@umich.edu",
+                "fee": "no",
+                "museum": "art",
+                "name": "University of Michigan Museum of Art",
+                "opening_hours": "Tu-Sa 11:00-17:00; Su 12:00-17:00",
+                "operator": "University of Michigan",
+                "phone": "+1-734-764-0395",
+                "tourism": "museum",
+                "website": "https://umma.umich.edu/",
+                "wikidata": "Q2495870",
+                "wikipedia": "en:University of Michigan Museum of Art"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/People_walking_in_front_of_the_University_of_Michigan_Museum_of_Art.jpg/1280px-People_walking_in_front_of_the_University_of_Michigan_Museum_of_Art.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 190113027,
+            "lat": 42.2363826,
+            "lon": -83.7283203,
+            "tags": {
+                "addr:city": "Ann Arbor",
+                "addr:housenumber": "3600",
+                "addr:postcode": "48108",
+                "addr:state": "MI",
+                "addr:street": "Varsity Drive",
+                "building": "commercial",
+                "museum": "science",
+                "name": "UM Research Museums Center",
+                "operator": "University of Michigan",
+                "operator:type": "university",
+                "tourism": "museum",
+                "website": "https://lsa.umich.edu/rmc"
+            }
+        },
+        {
+            "type": "way",
+            "id": 193357104,
+            "lat": 42.278397,
+            "lon": -83.7413946,
+            "tags": {
+                "building": "commercial",
+                "building:levels": "2",
+                "name": "Nickels Arcade",
+                "tourism": "attraction",
+                "wikidata": "Q54557540"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Nickels_Arcade_at_night.jpg/1280px-Nickels_Arcade_at_night.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 222485470,
+            "lat": 42.2455971,
+            "lon": -83.710584,
+            "tags": {
+                "addr:city": "Ann Arbor",
+                "addr:housenumber": "2781",
+                "addr:postcode": "48108",
+                "addr:state": "MI",
+                "addr:street": "Packard Road",
+                "email": "cfinfo@a2gov.org",
+                "localwiki": "ann-arbor/Cobblestone_Farm",
+                "name": "Cobblestone Farm",
+                "operator": "City of Ann Arbor",
+                "phone": "+1 734 794 6230",
+                "tourism": "museum",
+                "website": "https://www.a2gov.org/departments/Parks-Recreation/parks-places/cobblestone-farm/Pages/default.aspx",
+                "wikidata": "Q5138811",
+                "wikipedia": "en:Cobblestone Farm and Museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Cobblestone_Farm_Ticknor_House.JPG/1280px-Cobblestone_Farm_Ticknor_House.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 368014066,
+            "lat": 42.2817563,
+            "lon": -83.7464291,
+            "tags": {
+                "addr:city": "Ann Arbor",
+                "addr:housenumber": "220",
+                "addr:postcode": "48104",
+                "addr:state": "MI",
+                "addr:street": "East Ann Street",
+                "building": "commercial",
+                "building:levels": "4",
+                "name": "Ann Arbor Hands-On Museum",
+                "phone": "+1-734-995-5439",
+                "smoking": "no",
+                "tourism": "museum",
+                "website": "https://discoverscienceandnature.org/aahom",
+                "wikidata": "Q4766219",
+                "wikipedia": "en:Ann Arbor Hands-On Museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Hands-On_Museum_Ann_Arbor.JPG/1280px-Hands-On_Museum_Ann_Arbor.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 453625329,
+            "lat": 42.2789892,
+            "lon": -83.7443865,
+            "tags": {
+                "addr:city": "Ann Arbor",
+                "addr:housenumber": "312",
+                "addr:postcode": "48104",
+                "addr:street": "South Division Street",
+                "building": "yes",
+                "fee": "no",
+                "name": "Kempf House Museum",
+                "phone": "+1 734 994 4898",
+                "tourism": "museum",
+                "website": "https://kempfhousemuseum.org/",
+                "wikidata": "Q55316808",
+                "wikipedia": "en:Kempf House Museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/HenryBennettHouseAnnArborMI.JPG/1280px-HenryBennettHouseAnnArborMI.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 1001275491,
+            "lat": 42.2785777,
+            "lon": -83.7157432,
+            "tags": {
+                "addr:city": "Ann Arbor",
+                "addr:housenumber": "227",
+                "addr:state": "MI",
+                "addr:street": "Orchard Hills Drive",
+                "architect": "Frank Lloyd Wright",
+                "building": "detached",
+                "building:levels": "1",
+                "contact:website": "http://www.flwpalmerhouse.com/",
+                "name": "Palmer House",
+                "roof:shape": "hipped",
+                "tourism": "attraction",
+                "website": "http://www.flwpalmerhouse.com/",
+                "wikidata": "Q8016552",
+                "wikipedia": "en:William Palmer Residence"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/WilliamandMaryPalmerHouseAnnArborMI.JPG/1280px-WilliamandMaryPalmerHouseAnnArborMI.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 1020299959,
+            "lat": 42.2851273,
+            "lon": -83.7480297,
+            "tags": {
+                "addr:city": "Ann Arbor",
+                "addr:housenumber": "500",
+                "addr:postcode": "48104",
+                "addr:state": "MI",
+                "addr:street": "North Main Street",
+                "building": "detached",
+                "name": "Museum On Main",
+                "source": "microsoft/BuildingFootprints",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Kellogg-WardenHouseAnnArborMI.JPG/1280px-Kellogg-WardenHouseAnnArborMI.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 490908,
+            "lat": 42.4467,
+            "lon": -83.125,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Detroit_Skyline_%28Nov2021%29.jpg/1280px-Detroit_Skyline_%28Nov2021%29.jpg",
+            "description": "Metro Detroit is a major metropolitan area in the U.S. state of Michigan, consisting of the city of Detroit and over 200 municipalities in the surrounding area.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Metro Detroit",
+                "wikipedia": "en:Metro Detroit",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 31740,
+            "lat": 42.27694444,
+            "lon": -83.73805556,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Seal_of_the_University_of_Michigan.svg/1280px-Seal_of_the_University_of_Michigan.svg.png",
+            "description": "The University of Michigan (UMich, U-M, or Michigan) is a public research university in Ann Arbor, Michigan, United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "University of Michigan",
+                "wikipedia": "en:University of Michigan",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 1589830,
+            "lat": -13.33333333,
+            "lon": -72.08333333,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Urubamba_-_Valle_Sagrado_3.JPG/1280px-Urubamba_-_Valle_Sagrado_3.JPG",
+            "description": "The Sacred Valley of the Incas (Spanish: Valle Sagrado de los Incas; Quechua: Willka Qhichwa), or the Urubamba Valley, is a valley in the Andes of Peru, north of the Inca capital of Cusco.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Sacred Valley",
+                "wikipedia": "en:Sacred Valley",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 18859,
+            "lat": 44,
+            "lon": -85,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Flag_of_Michigan.svg/1280px-Flag_of_Michigan.svg.png",
+            "description": "Michigan (  MISH-ig-ən) is a peninsular state in the Great Lakes region of the Upper Midwestern United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Michigan",
+                "wikipedia": "en:Michigan",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 2305678,
+            "lat": 45.14083333,
+            "lon": 6.68888889,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Bardonecchia_%28TO%29_-_portale_sud_del_traforo_ferroviario_del_Frejus.jpg/1280px-Bardonecchia_%28TO%29_-_portale_sud_del_traforo_ferroviario_del_Frejus.jpg",
+            "description": "The Fréjus Rail Tunnel (also called Mont Cenis Tunnel) is a rail tunnel of 13.7 km (8.5 mi) length in the European Alps, carrying the Turin–Modane railway through Mont Cenis to an end-on connection with the Culoz–Modane railway and linking Bardonecchia in Italy to Modane in France.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Fréjus Rail Tunnel",
+                "wikipedia": "en:Fréjus Rail Tunnel",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 27644777,
+            "lat": 42.22451,
+            "lon": -83.612938,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Eagle_Crest_Golf_Resort_EMU.JPG/1280px-Eagle_Crest_Golf_Resort_EMU.JPG",
+            "description": "Eagle Crest Resort is located in Ypsilanti, Michigan, located in the southeast part of the state.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Eagle Crest Resort (Ypsilanti, Michigan)",
+                "wikipedia": "en:Eagle Crest Resort (Ypsilanti, Michigan)",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 21008117,
+            "lat": 20.07777778,
+            "lon": -87.61527778,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Muyil_-_1820_-_Castel.jpg/1280px-Muyil_-_1820_-_Castel.jpg",
+            "description": "Muyil (also known as Chunyaxché) was one of the earliest and longest inhabited ancient Maya sites on the eastern coast of the Yucatan Peninsula.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Muyil",
+                "wikipedia": "en:Muyil",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 354313,
+            "lat": 30.24694444,
+            "lon": 120.14416667,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/West_Lake%2C_Hangzhou_2025.jpg/1280px-West_Lake%2C_Hangzhou_2025.jpg",
+            "description": "West Lake, also known as Xihu and by other names, is a freshwater lake in Hangzhou, China.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "West Lake",
+                "wikipedia": "en:West Lake",
+                "tourism": "attraction"
+            }
+        }
+    ]
+}

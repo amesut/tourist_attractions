@@ -1,0 +1,641 @@
+{
+    "city_metadata": {
+        "city_name": "Indianapolis",
+        "state_code": "IN",
+        "state_full": "Indiana",
+        "city_summary": "Indianapolis ( , IN-dee-ə-NAP-ə-lis), colloquially known as Indy, is the capital and most populous city of the U.S. state of Indiana and the county seat of Marion County. Indianapolis is situated in the state's central till plain region along the west fork of the White River. The city's official slogan, \"Crossroads of America\", reflects its historic importance as a transportation hub and its relative proximity to other major North American markets.",
+        "city_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Indianapolis-1872528.jpg/1280px-Indianapolis-1872528.jpg",
+        "city_lat": 39.76861111,
+        "city_lon": -86.15805556,
+        "source": "wikipedia_verified_engine"
+    },
+    "attractions": [
+        {
+            "type": "node",
+            "id": 1283229759,
+            "lat": 39.7719906,
+            "lon": -86.15699,
+            "tags": {
+                "access": "yes",
+                "amenity": "fountain",
+                "lit": "yes",
+                "name": "Depew Memorial Fountain",
+                "source": "wiki",
+                "tourism": "attraction",
+                "wheelchair": "yes",
+                "wikidata": "Q5260645"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/DepewFountain.jpg/1280px-DepewFountain.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 1289479681,
+            "lat": 39.7747971,
+            "lon": -86.1568856,
+            "tags": {
+                "height": "30",
+                "historic": "monument",
+                "name": "The Obelisk",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Reserve_Loan_Life_Insurance_Company.jpg/1280px-Reserve_Loan_Life_Insurance_Company.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 2993385395,
+            "lat": 39.8737813,
+            "lon": -86.2966101,
+            "tags": {
+                "name": "Ancient Tree Trunk",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 4988783387,
+            "lat": 39.7825501,
+            "lon": -86.1703295,
+            "tags": {
+                "addr:city": "Indianapolis",
+                "addr:housenumber": "1140",
+                "addr:postcode": "46202",
+                "addr:state": "IN",
+                "addr:street": "Dr Martin Luther King Jr Street",
+                "name": "Crispus Attucks Museum",
+                "tourism": "museum",
+                "website": "https://crispusattucksmuseum.business.site/",
+                "wikidata": "Q75971291"
+            }
+        },
+        {
+            "type": "node",
+            "id": 5010257145,
+            "lat": 39.7971228,
+            "lon": -86.0147373,
+            "tags": {
+                "addr:city": "Indianapolis",
+                "addr:housenumber": "8660",
+                "addr:postcode": "46219",
+                "addr:state": "IN",
+                "addr:street": "East 21st Street",
+                "email": "ISPMuseum@isp.in.gov",
+                "fee": "no",
+                "name": "Indiana State Police Museum",
+                "opening_hours": "Tu-Th 10:00-15:00",
+                "phone": "+1-317-899-8293",
+                "tourism": "museum",
+                "website": "https://www.in.gov/isp/indiana-state-police-museum/"
+            }
+        },
+        {
+            "type": "node",
+            "id": 5223502000,
+            "lat": 39.7998152,
+            "lon": -86.0182925,
+            "tags": {
+                "addr:city": "Indianapolis",
+                "addr:housenumber": "8620",
+                "addr:housenumber_1": "8660",
+                "addr:postcode": "46219",
+                "addr:state": "IN",
+                "addr:street": "E 21st Street",
+                "information": "guidepost",
+                "name": "Memorial and External Flame",
+                "name_1": "State Police Post Museum",
+                "operator": "Indiana State Police",
+                "operator_1": "Indiana State Police",
+                "tourism": "attraction",
+                "tourism_1": "museum"
+            }
+        },
+        {
+            "type": "node",
+            "id": 5499944136,
+            "lat": 39.8254617,
+            "lon": -86.1851419,
+            "tags": {
+                "addr:city": "Indianapolis",
+                "addr:housenumber": "4000",
+                "addr:postcode": "46208",
+                "addr:state": "IN",
+                "addr:street": "Michigan Road",
+                "name": "Newfields",
+                "tourism": "museum",
+                "website": "https://discovernewfields.org/"
+            }
+        },
+        {
+            "type": "node",
+            "id": 6887315648,
+            "lat": 39.7148075,
+            "lon": -86.2953172,
+            "tags": {
+                "name": "American Heart Association Learn CPR Station",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Indianapolis_International_Airport_satellite_image_from_April_8%2C_2024.jpg/1280px-Indianapolis_International_Airport_satellite_image_from_April_8%2C_2024.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 6887320772,
+            "lat": 39.7150114,
+            "lon": -86.2975984,
+            "tags": {
+                "name": "Indy Logo",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Indianapolis_International_Airport_satellite_image_from_April_8%2C_2024.jpg/1280px-Indianapolis_International_Airport_satellite_image_from_April_8%2C_2024.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 9035735603,
+            "lat": 39.7773119,
+            "lon": -86.1460716,
+            "tags": {
+                "addr:city": "Indianapolis",
+                "addr:housenumber": "748",
+                "addr:postcode": "46204",
+                "addr:state": "IN",
+                "addr:street": "Massachusetts Avenue",
+                "fax": "+1-317-262-5165",
+                "name": "Indianapolis Fire Fighters Museum",
+                "opening_hours": "Mo-Th 09:00-17:00; Fr 09:00-16:00",
+                "phone": "+1-317-262-5161",
+                "tourism": "museum",
+                "website": "https://l416.com/museum/",
+                "wikidata": "Q130399418",
+                "wikimedia_commons": "File:Indianapolis Fire Fighters Museum 1 2024 jeh.jpg"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11406452777,
+            "lat": 39.781205,
+            "lon": -86.162361,
+            "tags": {
+                "fee": "no",
+                "name": "The Car Museum",
+                "opening_hours": "Th,Fr 16:00-20:00; Sa,Su 10:00-18:00; Mo-We off",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Stutz_%2836648371805%29_%28cropped%29.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 11988829220,
+            "lat": 39.7664018,
+            "lon": -86.1768396,
+            "tags": {
+                "attraction": "animal",
+                "name": "International Chimpanzee Complex Community Hub",
+                "species:wikidata": "Q4126704",
+                "species:wikipedia": "en:Chimpanzee",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 12230702823,
+            "lat": 39.7738683,
+            "lon": -86.1751864,
+            "tags": {
+                "addr:city": "Indianapolis",
+                "addr:housenumber": "425",
+                "addr:postcode": "46202",
+                "addr:state": "IN",
+                "addr:street": "University Boulevard",
+                "addr:unit": "Room 121",
+                "alt_name": "Ray Bradbury Museum",
+                "level": "0",
+                "museum": "history",
+                "name": "Ray Bradbury Center",
+                "old_name": "Center for Ray Bradbury Studies",
+                "operator": "Indiana University",
+                "operator:type": "university",
+                "short_name": "Bradbury Center",
+                "tourism": "museum",
+                "website": "https://liberalarts.indianapolis.iu.edu/centers/bradbury-center/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Ray_Bradbury_and_his_wife_Maggie.jpg/1280px-Ray_Bradbury_and_his_wife_Maggie.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 58152308,
+            "lat": 39.8284233,
+            "lon": -86.185513,
+            "tags": {
+                "building": "yes",
+                "check_date:opening_hours": "2023-07-27",
+                "name": "Lilly House",
+                "opening_hours": "Mo-Su 11:00-20:00",
+                "tourism": "museum",
+                "website": "https://discovernewfields.org/do-and-see/places-to-go/lilly-house",
+                "wheelchair": "yes",
+                "wikidata": "Q7085605"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Oldfields_at_Newfields_-_2011.jpg/1280px-Oldfields_at_Newfields_-_2011.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 58253291,
+            "lat": 39.8260277,
+            "lon": -86.1854892,
+            "tags": {
+                "addr:city": "Indianapolis",
+                "addr:housenumber": "4000",
+                "addr:postcode": "46208",
+                "addr:state": "IN",
+                "addr:street": "Michigan Road",
+                "building": "yes",
+                "museum": "art",
+                "name": "Indianapolis Museum of Art",
+                "phone": "+1-317-923-1331",
+                "tourism": "museum",
+                "website": "http://www.imamuseum.org/",
+                "wikidata": "Q1117704",
+                "wikipedia": "en:Indianapolis Museum of Art"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Newfields_logo.svg/1280px-Newfields_logo.svg.png",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 113050080,
+            "lat": 39.7683056,
+            "lon": -86.1712974,
+            "tags": {
+                "addr:city": "Indianapolis",
+                "addr:housenumber": "750",
+                "addr:postcode": "46204",
+                "addr:state": "IN",
+                "addr:street": "West Washington Street",
+                "building": "office",
+                "fee": "yes",
+                "fee:conditional": "no @ age < 5",
+                "layer": "1",
+                "museum": "sport",
+                "name": "NCAA Hall of Champions",
+                "opening_hours:url": "https://ncaahallofchampions.org/hours-and-prices-2/",
+                "source": "esri_USDOT_Indiana",
+                "tourism": "museum",
+                "website": "https://ncaahallofchampions.org/",
+                "wheelchair": "yes",
+                "wikidata": "Q6952965",
+                "wikipedia": "en:NCAA Hall of Champions"
+            }
+        },
+        {
+            "type": "way",
+            "id": 113050097,
+            "lat": 39.7685493,
+            "lon": -86.1677967,
+            "tags": {
+                "addr:city": "Indianapolis",
+                "addr:country": "US",
+                "addr:housenumber": "500",
+                "addr:postcode": "46204",
+                "addr:state": "IN",
+                "addr:street": "West Washington Street",
+                "alt_name": "Eiteljorg Museum of American Indians and Western Art",
+                "building": "civic",
+                "museum": "art",
+                "name": "Eiteljorg Museum",
+                "opening_hours": "Mo-Sa 10:00-17:00; Su 12:00-17:00; Dec 25 off; Jan 01 off; Nov Th[4] off",
+                "operator": "Eiteljorg Museum",
+                "phone": "+1 317 636 9378",
+                "tourism": "museum",
+                "website": "http://www.eiteljorg.org/",
+                "wheelchair": "yes",
+                "wikidata": "Q5350016",
+                "wikipedia": "en:Eiteljorg Museum of American Indians and Western Art"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Eiteljorg_Museum_of_American_Indians_and_Western_Art_2024_jeh.jpg/1280px-Eiteljorg_Museum_of_American_Indians_and_Western_Art_2024_jeh.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 113879534,
+            "lat": 39.7670582,
+            "lon": -86.1801051,
+            "tags": {
+                "addr:city": "Indianapolis",
+                "addr:housenumber": "1200",
+                "addr:postcode": "46222",
+                "addr:state": "IN",
+                "addr:street": "West Washington Street",
+                "area": "yes",
+                "fee": "yes",
+                "name": "Indianapolis Zoo",
+                "tourism": "zoo",
+                "website": "https://www.indianapoliszoo.com/",
+                "wikidata": "Q2229222",
+                "wikipedia": "en:Indianapolis Zoo"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Indianapolis_Zoo_Entrance.jpg/1280px-Indianapolis_Zoo_Entrance.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 199466767,
+            "lat": 39.7546887,
+            "lon": -86.1537802,
+            "tags": {
+                "building": "yes",
+                "museum": "history",
+                "name": "Eli Lilly Replica Lab",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/South_Side_Turnverein_Hall.jpg/1280px-South_Side_Turnverein_Hall.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 211263358,
+            "lat": 39.7711666,
+            "lon": -86.2147291,
+            "tags": {
+                "addr:city": "Indianapolis",
+                "addr:housenumber": "3270",
+                "addr:postcode": "46222",
+                "addr:street": "Kirkbride Way",
+                "building": "yes",
+                "email": "admin@imhm.org",
+                "fee": "yes",
+                "name": "Indiana Medical History Museum",
+                "opening_hours:url": "https://www.imhm.org/visit/",
+                "phone": "+1 317 635 7329",
+                "short_name": "IMHM",
+                "tourism": "museum",
+                "website": "https://www.imhm.org/",
+                "wikidata": "Q6023326"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Indiana_Medical_History_Museum.png/1280px-Indiana_Medical_History_Museum.png",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 211263360,
+            "lat": 39.7698742,
+            "lon": -86.2133245,
+            "tags": {
+                "addr:city": "Indianapolis",
+                "addr:housenumber": "3270",
+                "addr:postcode": "46222",
+                "addr:state": "IN",
+                "addr:street": "Kirkbride Way",
+                "building": "yes",
+                "name": "Indiana Medical History Museum",
+                "tourism": "museum",
+                "website": "https://www.imhm.org/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Indiana_Medical_History_Museum.png/1280px-Indiana_Medical_History_Museum.png",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 264030292,
+            "lat": 39.8267785,
+            "lon": -86.1375697,
+            "tags": {
+                "building": "yes",
+                "museum": "history",
+                "name": "Hook's Drug Store",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Coliseum_Exterior_2014.JPG/1280px-Coliseum_Exterior_2014.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 297351032,
+            "lat": 39.8107644,
+            "lon": -86.1579191,
+            "tags": {
+                "addr:city": "Indianapolis",
+                "addr:housenumber": "3000",
+                "addr:postcode": "46208",
+                "addr:state": "IN",
+                "addr:street": "North Meridian Street",
+                "building": "yes",
+                "ele": "220",
+                "gnis:feature_id": "2094777",
+                "museum": "children",
+                "name": "Childrens Museum",
+                "operator": "The Children's Museum of Indianapolis",
+                "operator:type": "community",
+                "phone": "+1-317-334-3322",
+                "source": "USGS Geonames;esri_USDOT_Indiana",
+                "tourism": "museum",
+                "website": "https://www.childrensmuseum.org",
+                "wikidata": "Q1336277",
+                "wikipedia": "en:The Children's Museum of Indianapolis"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/01/The_Childrens_Museum_of_Indianapolis_Welcome_Center.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 339570769,
+            "lat": 39.7701978,
+            "lon": -86.1529535,
+            "tags": {
+                "addr:city": "Indianapolis",
+                "addr:country": "US",
+                "addr:county": "Marion",
+                "addr:housenumber": "202",
+                "addr:postcode": "46204",
+                "addr:state": "IN",
+                "addr:street": "North Alabama Street",
+                "addr:township": "Center",
+                "alt_name": "Old Indianapolis City Hall",
+                "building": "yes",
+                "name": "The Hall",
+                "tourism": "museum",
+                "wikidata": "Q28124558"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Old_Indianapolis_City_Hall_in_color.jpg/1280px-Old_Indianapolis_City_Hall_in_color.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 339773760,
+            "lat": 39.7685216,
+            "lon": -86.1580438,
+            "tags": {
+                "access": "yes",
+                "addr:city": "Indianapolis",
+                "addr:country": "US",
+                "addr:county": "Marion",
+                "addr:housenumber": "1",
+                "addr:postcode": "46204",
+                "addr:state": "IN",
+                "addr:street": "Monument Circle",
+                "addr:township": "Center",
+                "building": "yes",
+                "foot": "yes",
+                "height": "284'6\"",
+                "heritage": "yes",
+                "historic": "monument",
+                "man_made": "obelisk",
+                "material": "limestone",
+                "name": "Soldiers and Sailors Monument",
+                "start_date": "1902-05-15",
+                "tourism": "attraction",
+                "website": "https://www.in.gov/iwm/soldiers-and-sailors-monument/",
+                "wheelchair": "no",
+                "wikidata": "Q1748884",
+                "wikimedia_commons": "File:MonumentIndy.jpg",
+                "wikipedia": "en:Soldiers' and Sailors' Monument (Indianapolis)"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Indianapolis-1872528.jpg/1280px-Indianapolis-1872528.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 340008420,
+            "lat": 39.7705223,
+            "lon": -86.166044,
+            "tags": {
+                "addr:city": "Indianapolis",
+                "addr:country": "US",
+                "addr:county": "Marion",
+                "addr:housenumber": "450",
+                "addr:postcode": "46202",
+                "addr:state": "IN",
+                "addr:street": "West Ohio Street",
+                "addr:township": "Center",
+                "building": "yes",
+                "check_date:opening_hours": "2023-07-25",
+                "fee": "yes",
+                "name": "Indiana Historical Society",
+                "opening_hours": "Tu-Sa 10:00-17:00",
+                "source": "esri_USDOT_Indiana",
+                "tourism": "museum",
+                "wikidata": "Q6023236"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Indiana_History_Center_Indianapolis%2C_Indiana.jpg/1280px-Indiana_History_Center_Indianapolis%2C_Indiana.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 340194677,
+            "lat": 39.7755038,
+            "lon": -86.1662505,
+            "tags": {
+                "addr:city": "Indianapolis",
+                "addr:country": "US",
+                "addr:county": "Marion",
+                "addr:housenumber": "543",
+                "addr:postcode": "46202",
+                "addr:state": "IN",
+                "addr:street": "Indiana Avenue",
+                "addr:township": "Center",
+                "building": "yes",
+                "building:levels": "2",
+                "cuisine": "crepe",
+                "name": "Kurt Vonnegut Museum and Library",
+                "source": "esri_USDOT_Indiana",
+                "tourism": "museum",
+                "wikidata": "Q6447107"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Kurt_Vonnegut_Museum_and_Library_Indianapolis_July_2022.jpg/1280px-Kurt_Vonnegut_Museum_and_Library_Indianapolis_July_2022.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 395057889,
+            "lat": 39.7841047,
+            "lon": -86.1544207,
+            "tags": {
+                "addr:city": "Indianapolis",
+                "addr:housenumber": "1230",
+                "addr:postcode": "46202",
+                "addr:state": "IN",
+                "addr:street": "N Delaware St",
+                "building": "yes",
+                "building:levels": "2",
+                "ele": "219",
+                "gnis:feature_id": "1964539",
+                "name": "Benjamin Harrison Presidential Site",
+                "phone": "+1-317-631-1888",
+                "source": "USGS Geonames",
+                "tourism": "attraction",
+                "website": "https://bhpsite.org/",
+                "wheelchair": "limited",
+                "wikidata": "Q4888783"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Benjamin_Harrison_Home.jpg/1280px-Benjamin_Harrison_Home.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 396659062,
+            "lat": 39.7683998,
+            "lon": -86.1806879,
+            "tags": {
+                "building": "yes",
+                "name": "Skyline",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "way",
+            "id": 960876625,
+            "lat": 39.781141,
+            "lon": -86.1152177,
+            "tags": {
+                "building": "yes",
+                "name": "Indy's Teeny Statue Of Liberty Museum",
+                "tourism": "museum",
+                "wikidata": "Q130399167"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Rivoli_Theater_in_Indianapolis.jpg/1280px-Rivoli_Theater_in_Indianapolis.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 1014936609,
+            "lat": 39.817508,
+            "lon": -86.1649527,
+            "tags": {
+                "addr:city": "Indianapolis",
+                "addr:housenumber": "3402",
+                "addr:postcode": "46208",
+                "addr:state": "IN",
+                "addr:street": "Boulevard Place",
+                "building": "yes",
+                "museum": "history",
+                "name": "Crown Hill Waiting Station",
+                "source": "esri/Indianapolis_IN_Buildings",
+                "tourism": "museum"
+            }
+        },
+        {
+            "type": "way",
+            "id": 1033763256,
+            "lat": 39.7722298,
+            "lon": -86.1478479,
+            "tags": {
+                "addr:city": "Indianapolis",
+                "addr:housenumber": "528",
+                "addr:postcode": "46202",
+                "addr:state": "IN",
+                "addr:street": "Lockerbie Street",
+                "building": "yes",
+                "name": "James Whitcomb Riley Home",
+                "source": "esri/Indianapolis_IN_Buildings",
+                "tourism": "museum",
+                "wikidata": "Q6145403"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/James_Whitcomb_Riley_House_in_Indianapolis%2C_front_and_western_side.jpg/1280px-James_Whitcomb_Riley_House_in_Indianapolis%2C_front_and_western_side.jpg",
+            "image_source": "wikipedia_verified"
+        }
+    ]
+}

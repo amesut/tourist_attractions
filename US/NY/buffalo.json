@@ -1,0 +1,846 @@
+{
+    "city_metadata": {
+        "city_name": "Buffalo",
+        "state_code": "NY",
+        "state_full": "New York",
+        "city_summary": "Buffalo is a city in the U.S. state of New York. It lies in Western New York on the eastern shore of Lake Erie and at the head of the Niagara River on the Canada–United States border. It is the second-most populous city in New York, with a population of 278,349 at the 2020 census.",
+        "city_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/KeyBank_Center_side_view_from_Main_Street_at_Prime_Street%2C_Buffalo%2C_New_York_-_20210725.jpg/1280px-KeyBank_Center_side_view_from_Main_Street_at_Prime_Street%2C_Buffalo%2C_New_York_-_20210725.jpg",
+        "city_lat": 42.88638889,
+        "city_lon": -78.87805556,
+        "source": "wikipedia_verified_engine"
+    },
+    "attractions": [
+        {
+            "type": "node",
+            "id": 256127867,
+            "lat": 42.9352103,
+            "lon": -78.8751269,
+            "tags": {
+                "garden:style": "japanese",
+                "leisure": "garden",
+                "name": "Delaware Park Japanese Gardens",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Lincoln%2C_the_Emancipator_at_The_Buffalo_History_Museum.jpg/1280px-Lincoln%2C_the_Emancipator_at_The_Buffalo_History_Museum.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 357607711,
+            "lat": 42.9015679,
+            "lon": -78.8726259,
+            "tags": {
+                "communication:amateur_radio:pota": "US-0866",
+                "ele": "204",
+                "gnis:feature_id": "2035603",
+                "name": "Theodore Roosevelt Inaugural National Historic Site",
+                "tourism": "museum",
+                "website": "https://www.nps.gov/thri/index.htm",
+                "wikidata": "Q7782001"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Theodore_Roosevelt_Inaugural_National_Historic_Site.jpg/1280px-Theodore_Roosevelt_Inaugural_National_Historic_Site.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 628061016,
+            "lat": 42.9004612,
+            "lon": -78.9018723,
+            "tags": {
+                "name": "Charles & Marie Fontana Boathouse Tour",
+                "tourism": "attraction",
+                "website": "http://franklloydwrightboathouse.com/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/West_Side_Rowing_Club%2C_2021.jpg/1280px-West_Side_Rowing_Club%2C_2021.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 1342600765,
+            "lat": 42.936123,
+            "lon": -78.8480595,
+            "tags": {
+                "alt_name": "Darwin Martin House National Historic Landmark",
+                "artist_name": "Frank Lloyd Wright",
+                "fee": "yes",
+                "heritage": "2",
+                "heritage:operator": "nrhp",
+                "name": "Darwin D. Martin House",
+                "ref:nrhp": "86000160",
+                "source": "Bing",
+                "tourism": "museum",
+                "website": "https://www.darwinmartinhouse.org/",
+                "wikidata": "Q1166906",
+                "wikipedia": "en:Darwin D. Martin House"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Darwin_D._Martin_House.jpg/1280px-Darwin_D._Martin_House.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 1498880937,
+            "lat": 42.8645915,
+            "lon": -78.8437771,
+            "tags": {
+                "addr:country": "US",
+                "addr:housenumber": "100",
+                "addr:state": "NY",
+                "addr:street": "Lee Street",
+                "museum": "history",
+                "name": "Heritage DiscoveRy Center",
+                "tourism": "museum",
+                "website": "http://www.trainweb.org/wnyrhs"
+            }
+        },
+        {
+            "type": "node",
+            "id": 2485104787,
+            "lat": 42.878138,
+            "lon": -78.8812288,
+            "tags": {
+                "addr:city": "Buffalo",
+                "addr:housenumber": "1",
+                "addr:postcode": "14202",
+                "addr:state": "NY",
+                "addr:street": "Naval Park Cove",
+                "memorial": "ship",
+                "name": "USS Grenadier (SS210)",
+                "tourism": "attraction",
+                "wikidata": "Q7869851",
+                "wikipedia": "en:USS Grenadier (SS-210)"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/ed/USS_Croaker%3B0824616.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 4124545289,
+            "lat": 42.8491678,
+            "lon": -78.8632388,
+            "tags": {
+                "name": "Lucy Smith & Colesville",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Gallagher_Beach%2C_Buffalo_Harbor_State_Park%2C_Buffalo%2C_New_York_-_20210527.jpg/1280px-Gallagher_Beach%2C_Buffalo_Harbor_State_Park%2C_Buffalo%2C_New_York_-_20210527.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 4208090731,
+            "lat": 42.9397168,
+            "lon": -78.8538756,
+            "tags": {
+                "name": "Amphibian and Reptile House",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Entrance_Court_at_Buffalo_Zoo_Correct_Apr_13.jpg/1280px-Entrance_Court_at_Buffalo_Zoo_Correct_Apr_13.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 4208090732,
+            "lat": 42.9389628,
+            "lon": -78.854449,
+            "tags": {
+                "name": "Gorilla",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Entrance_Court_at_Buffalo_Zoo_Correct_Apr_13.jpg/1280px-Entrance_Court_at_Buffalo_Zoo_Correct_Apr_13.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 4208090733,
+            "lat": 42.939078,
+            "lon": -78.8552376,
+            "tags": {
+                "name": "Bison",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Entrance_Court_at_Buffalo_Zoo_Correct_Apr_13.jpg/1280px-Entrance_Court_at_Buffalo_Zoo_Correct_Apr_13.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 4208090734,
+            "lat": 42.9400934,
+            "lon": -78.8546852,
+            "tags": {
+                "name": "Gemsbok",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Entrance_Court_at_Buffalo_Zoo_Correct_Apr_13.jpg/1280px-Entrance_Court_at_Buffalo_Zoo_Correct_Apr_13.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 4208090735,
+            "lat": 42.9400562,
+            "lon": -78.8538993,
+            "tags": {
+                "name": "Zebra",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Entrance_Court_at_Buffalo_Zoo_Correct_Apr_13.jpg/1280px-Entrance_Court_at_Buffalo_Zoo_Correct_Apr_13.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 4208090736,
+            "lat": 42.9399263,
+            "lon": -78.8531175,
+            "tags": {
+                "name": "Roan Antelope",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Entrance_Court_at_Buffalo_Zoo_Correct_Apr_13.jpg/1280px-Entrance_Court_at_Buffalo_Zoo_Correct_Apr_13.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 4208090737,
+            "lat": 42.939883,
+            "lon": -78.8528175,
+            "tags": {
+                "name": "Addax",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Entrance_Court_at_Buffalo_Zoo_Correct_Apr_13.jpg/1280px-Entrance_Court_at_Buffalo_Zoo_Correct_Apr_13.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 4208090738,
+            "lat": 42.9392304,
+            "lon": -78.8550174,
+            "tags": {
+                "name": "Vanishing Animals South",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Entrance_Court_at_Buffalo_Zoo_Correct_Apr_13.jpg/1280px-Entrance_Court_at_Buffalo_Zoo_Correct_Apr_13.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 4208090739,
+            "lat": 42.939913,
+            "lon": -78.8544234,
+            "tags": {
+                "name": "Vanishing Animals North",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Entrance_Court_at_Buffalo_Zoo_Correct_Apr_13.jpg/1280px-Entrance_Court_at_Buffalo_Zoo_Correct_Apr_13.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 4433650552,
+            "lat": 42.8789624,
+            "lon": -78.8689352,
+            "tags": {
+                "addr:city": "Buffalo",
+                "name": "Buffalo Transportation Pierce Arrow Museum",
+                "source": "Bing",
+                "tourism": "museum",
+                "website": "https://www.pierce-arrow.com/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/The_Hub_-_fmr_Sibley_%26_Holmwood_Candy_Factory_-_Buffalo%2C_New_York_-_20190910.jpg/1280px-The_Hub_-_fmr_Sibley_%26_Holmwood_Candy_Factory_-_Buffalo%2C_New_York_-_20190910.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 4470669830,
+            "lat": 42.8649033,
+            "lon": -78.843442,
+            "tags": {
+                "addr:country": "US",
+                "addr:housenumber": "100",
+                "addr:state": "NY",
+                "addr:street": "Lee Street",
+                "name": "Steel Plant Museum of Western New York",
+                "source": "Bing",
+                "tourism": "museum",
+                "website": "https://www.steelplantmuseumwny.org/"
+            }
+        },
+        {
+            "type": "node",
+            "id": 7231398943,
+            "lat": 42.8818249,
+            "lon": -78.8776628,
+            "tags": {
+                "addr:city": "Buffalo",
+                "addr:housenumber": "66",
+                "addr:postcode": "14202",
+                "addr:state": "NY",
+                "addr:street": "Erie Street",
+                "check_date:opening_hours": "2025-05-20",
+                "fee": "no",
+                "museum": "history",
+                "name": "Buffalo Harbor Museum",
+                "opening_hours": "Tu 10:00-15:00; Th,Sa 10:00-15:00",
+                "tourism": "museum",
+                "website": "https://www.llmhs.org/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Saint_Joseph_Cathedral%2C_Franklin_Street%2C_Buffalo%2C_NY.jpg/1280px-Saint_Joseph_Cathedral%2C_Franklin_Street%2C_Buffalo%2C_NY.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 8400639416,
+            "lat": 42.9390937,
+            "lon": -78.8535387,
+            "tags": {
+                "name": "The Bone Zone",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Entrance_Court_at_Buffalo_Zoo_Correct_Apr_13.jpg/1280px-Entrance_Court_at_Buffalo_Zoo_Correct_Apr_13.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 8400681413,
+            "lat": 42.9376184,
+            "lon": -78.8520201,
+            "tags": {
+                "name": "Sea Lion Cove",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Entrance_Court_at_Buffalo_Zoo_Correct_Apr_13.jpg/1280px-Entrance_Court_at_Buffalo_Zoo_Correct_Apr_13.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 8573061479,
+            "lat": 37.63362,
+            "lon": -93.1052616,
+            "tags": {
+                "museum": "history",
+                "name": "Buffalo Historic Society",
+                "tourism": "museum"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9088577925,
+            "lat": 42.8693858,
+            "lon": -78.8715154,
+            "tags": {
+                "attraction": "big_wheel",
+                "name": "Buffal \"O\"",
+                "status": "closed",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Zoom-Backdrop-Be-in-Buffalo-Riverworks.jpg/1280px-Zoom-Backdrop-Be-in-Buffalo-Riverworks.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 9815278723,
+            "lat": 42.88992,
+            "lon": -78.8114186,
+            "tags": {
+                "name": "Iron Island Museum",
+                "operator": "Iron Island Preservation Society of Lovejoy, Inc.",
+                "tourism": "museum",
+                "website": "http://www.ironislandmuseum.com/"
+            }
+        },
+        {
+            "type": "node",
+            "id": 12479742551,
+            "lat": 42.8850032,
+            "lon": -78.8022663,
+            "tags": {
+                "addr:city": "Buffalo",
+                "addr:housenumber": "1850",
+                "addr:postcode": "14206",
+                "addr:state": "NY",
+                "addr:street": "William Street",
+                "name": "Buffalo Fire Museum",
+                "opening_hours": "Sa 10:00-16:00",
+                "operator": "Buffalo Fire Historical Society",
+                "subject:wikidata": "Q4985722",
+                "tourism": "museum",
+                "website": "https://bfhsmuseum.com/",
+                "wikidata": "Q4985723",
+                "wikipedia": "en:Buffalo Fire Historical Museum"
+            }
+        },
+        {
+            "type": "way",
+            "id": 24219597,
+            "lat": 42.9386914,
+            "lon": -78.8532783,
+            "tags": {
+                "name": "Buffalo Zoo",
+                "tourism": "zoo",
+                "wikidata": "Q1768319"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Entrance_Court_at_Buffalo_Zoo_Correct_Apr_13.jpg/1280px-Entrance_Court_at_Buffalo_Zoo_Correct_Apr_13.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 99164773,
+            "lat": 42.8721898,
+            "lon": -78.8728201,
+            "tags": {
+                "historic": "ship",
+                "name": "Edward M. Cotter",
+                "ship:type": "fireboat",
+                "start_date": "1900",
+                "tourism": "attraction",
+                "wikipedia": "en:Edward M. Cotter (fireboat)"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Lackawanna_Terminal_Buffalo_LOC_HAER_116325.jpg/1280px-Lackawanna_Terminal_Buffalo_LOC_HAER_116325.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 119504315,
+            "lat": 42.9017424,
+            "lon": -78.8833996,
+            "tags": {
+                "amenity": "theatre",
+                "building": "yes",
+                "name": "Kleinhans Music Hall",
+                "source": "Bing",
+                "tourism": "attraction",
+                "wikidata": "Q6420299"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Kleinhans_Music_Hall%2C_Symphony_Circle%2C_Front_Park%2C_Buffalo%2C_NY_-_52562411062.jpg/1280px-Kleinhans_Music_Hall%2C_Symphony_Circle%2C_Front_Park%2C_Buffalo%2C_NY_-_52562411062.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 119506015,
+            "lat": 42.9353985,
+            "lon": -78.8762781,
+            "tags": {
+                "building": "yes",
+                "museum": "history",
+                "name": "Buffalo and Erie County Historical Society",
+                "old_name": "New York State Building",
+                "tourism": "museum",
+                "wikidata": "Q4985761",
+                "wikipedia": "en:Buffalo History Museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Lincoln%2C_the_Emancipator_at_The_Buffalo_History_Museum.jpg/1280px-Lincoln%2C_the_Emancipator_at_The_Buffalo_History_Museum.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 170664996,
+            "lat": 42.8776298,
+            "lon": -78.8809471,
+            "tags": {
+                "addr:city": "Buffalo",
+                "addr:housenumber": "1",
+                "addr:postcode": "14202",
+                "addr:state": "NY",
+                "addr:street": "Naval Park Cove",
+                "building": "ship",
+                "historic": "ship",
+                "name": "USS Little Rock",
+                "ref": "CL-92",
+                "ship:type": "light_cruiser",
+                "start_date": "1944",
+                "tourism": "attraction",
+                "wikidata": "Q2299203",
+                "wikipedia": "en:USS Little Rock (CL-92)"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/02/USS_Little_Rock_%28CLG-4%29_off_Naples%2C_Italy%2C_on_31_July_1967_%28NH_98957%29.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 170664997,
+            "lat": 42.8781486,
+            "lon": -78.88158,
+            "tags": {
+                "addr:city": "Buffalo",
+                "addr:housenumber": "1",
+                "addr:postcode": "14202",
+                "addr:state": "NY",
+                "addr:street": "Naval Park Cove",
+                "building": "ship",
+                "heritage": "2",
+                "heritage:operator": "nrhp",
+                "historic": "ship",
+                "name": "USS Croaker",
+                "ref": "SS-246",
+                "ref:nrhp": "08000863",
+                "ship:type": "submarine",
+                "start_date": "1943",
+                "tourism": "attraction",
+                "wikidata": "Q2207722",
+                "wikipedia": "en:USS Croaker"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/ed/USS_Croaker%3B0824616.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 170664998,
+            "lat": 42.8776027,
+            "lon": -78.8804816,
+            "tags": {
+                "addr:city": "Buffalo",
+                "addr:housenumber": "1",
+                "addr:postcode": "14202",
+                "addr:state": "NY",
+                "addr:street": "Naval Park Cove",
+                "building": "ship",
+                "heritage": "2",
+                "heritage:operator": "nrhp",
+                "historic": "ship",
+                "name": "USS The Sullivans",
+                "ref": "DD-537",
+                "ref:nrhp": "86000085",
+                "ship:type": "destroyer",
+                "start_date": "1943",
+                "tourism": "attraction",
+                "wikidata": "Q7874697",
+                "wikipedia": "en:USS The Sullivans (DD-537)"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/USS_The_Sullivans_%28DD-537%29_underway_at_sea_on_29_October_1962_%28USN_1063617%29.jpg/1280px-USS_The_Sullivans_%28DD-537%29_underway_at_sea_on_29_October_1962_%28USN_1063617%29.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 173677766,
+            "lat": 42.8775538,
+            "lon": -78.8800231,
+            "tags": {
+                "addr:city": "Buffalo",
+                "addr:housenumber": "1",
+                "addr:postcode": "14202",
+                "addr:state": "NY",
+                "addr:street": "Naval Park Cove",
+                "building": "ship",
+                "historic": "ship",
+                "name": "PTF-17",
+                "ship:type": "patrol_boat",
+                "start_date": "1968",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/USS_The_Sullivans_%28DD-537%29_underway_at_sea_on_29_October_1962_%28USN_1063617%29.jpg/1280px-USS_The_Sullivans_%28DD-537%29_underway_at_sea_on_29_October_1962_%28USN_1063617%29.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 174372327,
+            "lat": 42.931652,
+            "lon": -78.8731054,
+            "tags": {
+                "access": "yes",
+                "garden:style": "rosarium",
+                "leisure": "garden",
+                "name": "Delaware Park Rose Garden",
+                "tourism": "attraction",
+                "website": "https://www.bfloparks.org/?bopcwaypoint=rose-garden"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/2024.10.10_AKGCampusExteriorDronePhotos-1001.jpg/1280px-2024.10.10_AKGCampusExteriorDronePhotos-1001.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 274456471,
+            "lat": 42.8773963,
+            "lon": -78.8796658,
+            "tags": {
+                "addr:city": "Buffalo",
+                "addr:housenumber": "1",
+                "addr:postcode": "14202",
+                "addr:state": "NY",
+                "addr:street": "Naval Park Cove",
+                "air_conditioning": "yes",
+                "building": "commercial",
+                "building:levels": "4",
+                "museum": "maritime",
+                "name": "Buffalo and Erie County Naval & Military Park Museum",
+                "short_name": "Buffalo Naval Park Gift Shop",
+                "smoking": "no",
+                "tourism": "museum",
+                "website": "https://buffalonavalpark.org/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/U.S.S._Little_Rock_6.jpg/1280px-U.S.S._Little_Rock_6.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 275704895,
+            "lat": 42.9273181,
+            "lon": -78.8819374,
+            "tags": {
+                "addr:city": "Buffalo",
+                "addr:housenumber": "459",
+                "addr:postcode": "14213",
+                "addr:street": "Forest Avenue",
+                "building": "yes",
+                "name": "Buffalo History Museum - Resource Center",
+                "operator": "Buffalo and Erie County Historical Society",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Central_Wing%2C_Old_Buffalo_State_Hospital%2C_Richardson_Olmsted_Complex%2C_Elmwood_Village%2C_Buffalo%2C_NY_-_52596088993.jpg/1280px-Central_Wing%2C_Old_Buffalo_State_Hospital%2C_Richardson_Olmsted_Complex%2C_Elmwood_Village%2C_Buffalo%2C_NY_-_52596088993.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 410810557,
+            "lat": 42.9390255,
+            "lon": -78.8524632,
+            "tags": {
+                "building": "yes",
+                "name": "M&T Bank Rainforest Falls",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Entrance_Court_at_Buffalo_Zoo_Correct_Apr_13.jpg/1280px-Entrance_Court_at_Buffalo_Zoo_Correct_Apr_13.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 502716391,
+            "lat": 45.5819122,
+            "lon": -103.5454173,
+            "tags": {
+                "addr:city": "Buffalo",
+                "addr:postcode": "55720",
+                "building": "yes",
+                "fee": "yes",
+                "name": "Buffalo Museum",
+                "opening_hours": "Tu-Fr 10:00-15:00",
+                "tourism": "museum",
+                "website": "https://www.travelsouthdakota.com/buffalo/arts-culture-history/museums/buffalo-museum-one-room-schoolhouse"
+            }
+        },
+        {
+            "type": "way",
+            "id": 503333864,
+            "lat": 36.1521848,
+            "lon": -115.2318061,
+            "tags": {
+                "name": "Magical Forest",
+                "operator": "Opportunity Village",
+                "tourism": "theme_park",
+                "website": "https://www.opportunityvillage.org/ovevents/magical-forest"
+            }
+        },
+        {
+            "type": "way",
+            "id": 785374924,
+            "lat": 44.3479114,
+            "lon": -106.6999899,
+            "tags": {
+                "addr:city": "Buffalo",
+                "addr:housenumber": "100",
+                "addr:postcode": "82834",
+                "addr:state": "WY",
+                "addr:street": "Fort Street",
+                "building": "public",
+                "heritage": "2",
+                "heritage:operator": "nrhp",
+                "historic": "yes",
+                "museum": "local",
+                "name": "Jim Gatchell Memorial Museum",
+                "old_name": "Carnegie Public Library",
+                "ref:nrhp": "76001949",
+                "tourism": "museum",
+                "website": "https://www.jimgatchell.com/",
+                "wikidata": "Q14714748",
+                "wikipedia": "en:Jim Gatchell Memorial Museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Jim_Gatchell_Museum_WY1.jpg/1280px-Jim_Gatchell_Museum_WY1.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 904602618,
+            "lat": 42.9384764,
+            "lon": -78.8531609,
+            "tags": {
+                "attraction": "carousel",
+                "building": "yes",
+                "name": "Carousel (seasonal)",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Entrance_Court_at_Buffalo_Zoo_Correct_Apr_13.jpg/1280px-Entrance_Court_at_Buffalo_Zoo_Correct_Apr_13.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 908529280,
+            "lat": 42.8778796,
+            "lon": -78.8781258,
+            "tags": {
+                "addr:city": "Buffalo",
+                "addr:housenumber": "130",
+                "addr:postcode": "14202",
+                "addr:street": "Main Street",
+                "alt_name": "Explore & More The Ralph C. Wilson, Jr. Children's Museum",
+                "building": "yes",
+                "building:levels": "5",
+                "museum": "local",
+                "name": "Explore & More Children's Museum",
+                "tourism": "museum",
+                "wikidata": "Q16736420",
+                "wikipedia": "en:Explore & More Children's Museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Explore_%26_More_Children%27s_Museum%2C_Buffalo%2C_New_York_-_20191014.jpg/1280px-Explore_%26_More_Children%27s_Museum%2C_Buffalo%2C_New_York_-_20191014.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 960196933,
+            "lat": 42.8858616,
+            "lon": -78.8666235,
+            "tags": {
+                "addr:city": "Buffalo",
+                "addr:housenumber": "36",
+                "addr:postcode": "14204",
+                "addr:state": "NY",
+                "addr:street": "Nash Street",
+                "building": "yes",
+                "name": "Nash House Museum",
+                "opening_hours": "Sa 11:00-16:00",
+                "phone": "+1-716-322-1002",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Rev._J._Edward_Nash_Sr._House%2C_Buffalo%2C_New_York%2C_December_2009.jpg/1280px-Rev._J._Edward_Nash_Sr._House%2C_Buffalo%2C_New_York%2C_December_2009.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 995132490,
+            "lat": 36.8350956,
+            "lon": -99.6305847,
+            "tags": {
+                "building": "yes",
+                "name": "Buffalo Museum",
+                "source": "bing",
+                "tourism": "museum"
+            }
+        },
+        {
+            "type": "way",
+            "id": 1014540898,
+            "lat": 42.9019016,
+            "lon": -78.8774669,
+            "tags": {
+                "addr:city": "Buffalo",
+                "addr:housenumber": "220",
+                "addr:postcode": "14201",
+                "addr:state": "NY",
+                "addr:street": "North Street",
+                "building": "yes",
+                "name": "North Hall - The Karpeles Manuscript Library Museum",
+                "nysgissam:nysaddresspointid": "ERIE114547",
+                "nysgissam:review": "existing element's addr:housenumber has different addr:housenumber",
+                "opening_hours": "Th-Su 11:00-16:00",
+                "phone": "+1-716-885-1986",
+                "tourism": "museum",
+                "website": "https://www.karpeles.com/visit/buffalo-new-york/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/ElmwoodAve.jpg/1280px-ElmwoodAve.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 1061890693,
+            "lat": 45.20531,
+            "lon": -93.8634809,
+            "tags": {
+                "addr:city": "Buffalo",
+                "addr:housenumber": "2001",
+                "addr:postcode": "55313",
+                "addr:state": "MN",
+                "addr:street": "State Highway 25",
+                "building": "yes",
+                "museum": "history",
+                "name": "Wright County Hisrotical Society",
+                "tourism": "museum"
+            }
+        },
+        {
+            "type": "way",
+            "id": 1072510133,
+            "lat": 42.8770033,
+            "lon": -78.8797712,
+            "tags": {
+                "addr:city": "Buffalo",
+                "addr:postcode": "14202",
+                "addr:state": "NY",
+                "addr:street": "Lloyd Street",
+                "building": "ship",
+                "name": "Spirit of Buffalo",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/USS_The_Sullivans_%28DD-537%29_underway_at_sea_on_29_October_1962_%28USN_1063617%29.jpg/1280px-USS_The_Sullivans_%28DD-537%29_underway_at_sea_on_29_October_1962_%28USN_1063617%29.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 1157093773,
+            "lat": 42.9384211,
+            "lon": -78.8527944,
+            "tags": {
+                "attraction": "animal",
+                "name": "Bighorn Sheep",
+                "species:wikidata": "Q189466",
+                "species:wikipedia": "en:Bighorn sheep",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Entrance_Court_at_Buffalo_Zoo_Correct_Apr_13.jpg/1280px-Entrance_Court_at_Buffalo_Zoo_Correct_Apr_13.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 1157093774,
+            "lat": 42.9382547,
+            "lon": -78.8517155,
+            "tags": {
+                "attraction": "animal",
+                "name": "Polar Bear",
+                "species:wikidata": "Q33609",
+                "species:wikipedia": "en:Polar bear",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Entrance_Court_at_Buffalo_Zoo_Correct_Apr_13.jpg/1280px-Entrance_Court_at_Buffalo_Zoo_Correct_Apr_13.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 1157093776,
+            "lat": 42.9399551,
+            "lon": -78.8513028,
+            "tags": {
+                "attraction": "animal",
+                "name": "Giraffes",
+                "species:wikidata": "Q15083",
+                "species:wikipedia": "en:Northern giraffe",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Entrance_Court_at_Buffalo_Zoo_Correct_Apr_13.jpg/1280px-Entrance_Court_at_Buffalo_Zoo_Correct_Apr_13.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 1432170372,
+            "lat": 42.8769515,
+            "lon": -78.8794506,
+            "tags": {
+                "addr:city": "Buffalo",
+                "addr:postcode": "14202",
+                "building": "yes",
+                "building:levels": "1",
+                "height": "10",
+                "museum": "history",
+                "name": "Erie Canal Packet Boat Exhibit",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/USS_The_Sullivans_%28DD-537%29_underway_at_sea_on_29_October_1962_%28USN_1063617%29.jpg/1280px-USS_The_Sullivans_%28DD-537%29_underway_at_sea_on_29_October_1962_%28USN_1063617%29.jpg",
+            "image_source": "wikipedia_verified"
+        }
+    ]
+}

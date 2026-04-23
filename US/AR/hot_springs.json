@@ -1,0 +1,410 @@
+{
+    "city_metadata": {
+        "city_name": "Hot Springs",
+        "state_code": "AR",
+        "state_full": "Arkansas",
+        "city_summary": "Hot Springs is a resort city in the state of Arkansas, United States, and the county seat of Garland County. The city is located in the Ouachita Mountains among the U.S. Interior Highlands, and is set among several natural hot springs for which the city is named. As of the 2020 United States census, the city had a population of 37,930, making it the eleventh-most populous city in Arkansas.",
+        "city_image": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Hot_Springs_collage.png",
+        "city_lat": 34.50361111,
+        "city_lon": -93.05527778,
+        "source": "wikipedia_verified_engine"
+    },
+    "attractions": [
+        {
+            "type": "node",
+            "id": 627688432,
+            "lat": 43.4246207,
+            "lon": -103.4832058,
+            "tags": {
+                "addr:city": "Hot Springs",
+                "addr:housenumber": "1800",
+                "addr:postcode": "57747",
+                "addr:state": "SD",
+                "addr:street": "US-18 bypass",
+                "name": "The Mammoth Site of Hot Springs, SD",
+                "tourism": "attraction",
+                "website": "http://mammothsite.com/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Mammoth_Site_Hot_Springs.jpg/1280px-Mammoth_Site_Hot_Springs.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 4217219170,
+            "lat": 43.4335972,
+            "lon": -103.477095,
+            "tags": {
+                "addr:city": "Hot Springs",
+                "addr:housenumber": "300",
+                "addr:postcode": "57747",
+                "addr:state": "SD",
+                "addr:street": "North Chicago Street",
+                "museum": "history",
+                "name": "Pioneer Museum",
+                "phone": "+1-605-745-5147",
+                "tourism": "museum",
+                "website": "https://fallriverpioneermuseum.wordpress.com/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Battle_Mountain_Sanitarium.JPG/1280px-Battle_Mountain_Sanitarium.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 5742270972,
+            "lat": 34.4363123,
+            "lon": -93.0492505,
+            "tags": {
+                "name": "Evans Children's Adventure Garden",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Lake_Hamilton.jpg/1280px-Lake_Hamilton.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 472157621,
+            "lat": 34.519598,
+            "lon": -93.0162112,
+            "tags": {
+                "addr:city": "Hot Springs",
+                "addr:housenumber": "1701",
+                "addr:postcode": "71901",
+                "addr:state": "AR",
+                "addr:street": "East Grand Avenue",
+                "landuse": "commercial",
+                "name": "Magic Springs Theme & Water Park",
+                "opening_hours:url": "https://www.magicsprings.com/calendar.php",
+                "pets": "no",
+                "phone": "+1 501-624-0100",
+                "smoking": "designated",
+                "tourism": "theme_park",
+                "website": "https://www.magicsprings.com/",
+                "wheelchair": "limited",
+                "wikidata": "Q2372906",
+                "wikipedia": "en:Magic Springs"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Magic_Springs_Theme_Park_entrance_%281%29_-_Jeremy_Thompson.jpg/1280px-Magic_Springs_Theme_Park_entrance_%281%29_-_Jeremy_Thompson.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 484800454,
+            "lat": 34.435973,
+            "lon": -93.048739,
+            "tags": {
+                "TODO": "improve boundary",
+                "addr:city": "Hot Springs",
+                "addr:housenumber": "550",
+                "addr:postcode": "71913",
+                "addr:state": "AR",
+                "addr:street": "Arkridge Road",
+                "leisure": "garden",
+                "name": "Garvan Woodland Gardens",
+                "note": "Confirmed on 3 April 2017 by Susan Harper Visitor Services Director Garvan Woodland Gardens 550 Arkridge Road, Hot Springs, AR 71913 501-262-9603 or 800-366-4664",
+                "phone": "+1-800-366-4664",
+                "tourism": "attraction",
+                "website": "https://www.garvangardens.org/",
+                "wikidata": "Q5524513",
+                "wikipedia": "en:Garvan Woodland Gardens"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Lake_Hamilton.jpg/1280px-Lake_Hamilton.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 999353169,
+            "lat": 34.5046643,
+            "lon": -93.0600539,
+            "tags": {
+                "addr:city": "Hot Springs",
+                "addr:housenumber": "536",
+                "addr:postcode": "71901",
+                "addr:state": "AR",
+                "addr:street": "Ouachita Avenue",
+                "building": "yes",
+                "check_date": "2024-06-29",
+                "contact:facebook": "https://www.facebook.com/TheGalaxyConnection/",
+                "fee": "yes",
+                "name": "The Galaxy Connection",
+                "opening_hours": "May 20-Aug 03 Mo-Sa 10:00-16:00, Su 13:00-16:00",
+                "phone": "+1 501-276-4432",
+                "tourism": "museum",
+                "website": "https://www.thegalaxyconnection.com/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Garland_County_Courthouse_001.jpg/1280px-Garland_County_Courthouse_001.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 1002554551,
+            "lat": 34.5168521,
+            "lon": -93.0623176,
+            "tags": {
+                "addr:city": "Hot Springs",
+                "addr:housenumber": "374",
+                "addr:postcode": "71901",
+                "addr:state": "AR",
+                "addr:street": "Whittington Avenue",
+                "area": "yes",
+                "name": "Tiny Town",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/First_Presbyterian_Church%2C_Hot_Springs%2C_AR.JPG/1280px-First_Presbyterian_Church%2C_Hot_Springs%2C_AR.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 1093352096,
+            "lat": 43.425322,
+            "lon": -103.4665868,
+            "tags": {
+                "addr:city": "Hot Springs",
+                "addr:housenumber": "719",
+                "addr:postcode": "57747",
+                "addr:state": "SD",
+                "addr:street": "Jensen Highway",
+                "building": "yes",
+                "name": "World Fossil Finder Museum",
+                "tourism": "museum"
+            }
+        },
+        {
+            "type": "way",
+            "id": 1214394141,
+            "lat": 34.5124695,
+            "lon": -93.0544532,
+            "tags": {
+                "building": "yes",
+                "museum": "history",
+                "name": "Gangster Museum",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/47/The_Sumpter_House_in_Hot_Springs%2C_Arkansas.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 106991,
+            "lat": 34.50361111,
+            "lon": -93.05527778,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Hot_Springs_collage.png",
+            "description": "Hot Springs is a resort city in the state of Arkansas, United States, and the county seat of Garland County.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Hot Springs, Arkansas",
+                "wikipedia": "en:Hot Springs, Arkansas",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 106876,
+            "lat": 36.41055556,
+            "lon": -93.745,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Eurekaandsuch_291.jpg/1280px-Eurekaandsuch_291.jpg",
+            "description": "Eureka Springs is a city in Carroll County, Arkansas, United States, and one of two county seats for the county.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Eureka Springs, Arkansas",
+                "wikipedia": "en:Eureka Springs, Arkansas",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 11877466,
+            "lat": 34.51666667,
+            "lon": -93.05305556,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Hot_Springs_062.jpg",
+            "description": "The Arlington Resort Hotel & Spa is a resort in the Ouachita Mountains of Hot Springs National Park, Arkansas, home of Oaklawn Race Track and the Arkansas Derby.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Arlington Hotel (Hot Springs National Park)",
+                "wikipedia": "en:Arlington Hotel (Hot Springs National Park)",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 35776400,
+            "lat": 60.87888889,
+            "lon": -135.35916667,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Takhini_Hot_Springs_2008.jpg/1280px-Takhini_Hot_Springs_2008.jpg",
+            "description": "Takhini Hot Springs (Takhini Hotspring) (tɑːkiːniː) is a natural hot springs located just outside the border of Whitehorse, Yukon (28 km (17 mi) from the city centre).",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Takhini Hot Springs",
+                "wikipedia": "en:Takhini Hot Springs",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 3888062,
+            "lat": 23.39083333,
+            "lon": 57.42444444,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Al_Rustaq_Fort_%282%29_%2827255509348%29.jpg/1280px-Al_Rustaq_Fort_%282%29_%2827255509348%29.jpg",
+            "description": "Rustaq (Arabic: ٱلرُّسْتَاق, romanized: Ar-Rustāq) is a town and Wilayah (District) in the Al Batinah South Governorate of northern Oman in the Western Hajar Mountains.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Rustaq",
+                "wikipedia": "en:Rustaq",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 13380523,
+            "lat": 34.51361111,
+            "lon": -93.05361111,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Hots_Springs_National_Park_aerial.jpg",
+            "description": "Bathhouse Row is a collection of bathhouses, associated buildings, and gardens located at Hot Springs National Park in the city of Hot Springs, Arkansas.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Bathhouse Row",
+                "wikipedia": "en:Bathhouse Row",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 269358,
+            "lat": 46.36,
+            "lon": 25.8,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Jud_Harghita.jpg/1280px-Jud_Harghita.jpg",
+            "description": "Harghita County (Romanian: Județul Harghita, Romanian pronunciation: [harˈɡita]  and Hungarian: Hargita megye, pronounced [ˈhɒrɡitɒ]) is a county (județ) in the center of Romania, in eastern Transylvania, with the county seat at Miercurea Ciuc.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Harghita County",
+                "wikipedia": "en:Harghita County",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 81424149,
+            "lat": 24.58877778,
+            "lon": 46.33266667,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Six_Flags_Qiddiya_Theme_Park%2C_Saudi_Arabia_%282025%29.jpg/1280px-Six_Flags_Qiddiya_Theme_Park%2C_Saudi_Arabia_%282025%29.jpg",
+            "description": "Six Flags Qiddiya City is an amusement park located in Qiddiya City in Riyadh Province, Saudi Arabia.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Six Flags Qiddiya City",
+                "wikipedia": "en:Six Flags Qiddiya City",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 3972544,
+            "lat": 36.45,
+            "lon": 7.43333333,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f8/GM_Guelma_Center01.jpg",
+            "description": "Guelma (Arabic: قالمة Qālima; Algerian Arabic: ڨالمة; Algerian Arabic pronunciation: [ɡelmæ]) is the capital of Guelma Province and Guelma District, located in north-eastern Algeria, about 52 kilometers from the Mediterranean coast.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Guelma",
+                "wikipedia": "en:Guelma",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 520542,
+            "lat": -27.78333333,
+            "lon": -64.26666667,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Nuevo_puente_a_inaugurar_-_panoramio.jpg/1280px-Nuevo_puente_a_inaugurar_-_panoramio.jpg",
+            "description": "Santiago del Estero (Spanish pronunciation: [sanˈtjaɣo ðel esˈteɾo]), also known simply as Santiago, is a province in the north of Argentina.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Santiago del Estero Province",
+                "wikipedia": "en:Santiago del Estero Province",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 106883,
+            "lat": 34.12194444,
+            "lon": -93.06611111,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Downtown_Arkadelphia%2C_AR_001.jpg/1280px-Downtown_Arkadelphia%2C_AR_001.jpg",
+            "description": "Arkadelphia is a city in Clark County, Arkansas, United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Arkadelphia, Arkansas",
+                "wikipedia": "en:Arkadelphia, Arkansas",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 2520782,
+            "lat": 24.05861111,
+            "lon": 55.7775,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Jebel_Hafeet_-_Aerial_View.jpg/1280px-Jebel_Hafeet_-_Aerial_View.jpg",
+            "description": "Jabal Hafeet (Arabic: جَبَل حَفِيْت, romanized: Jabal Ḥafīt, \"Mount Hafeet\"; variously transcribed Jabel or Jebal and Hafit – literally \"empty mountain\") is a mountain in the region of Tawam, on the border of the United Arab Emirates and Oman.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Jebel Hafeet",
+                "wikipedia": "en:Jebel Hafeet",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 1930,
+            "lat": 35,
+            "lon": -92,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Flag_of_Arkansas.svg/1280px-Flag_of_Arkansas.svg.png",
+            "description": "Arkansas ( , AR-kən-saw) is a landlocked state in the West South Central region of the Southern United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Arkansas",
+                "wikipedia": "en:Arkansas",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 4240248,
+            "lat": 36.065921,
+            "lon": -94.164843,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Walton_Arts_Center_photograph_new.jpg/1280px-Walton_Arts_Center_photograph_new.jpg",
+            "description": "The Walton Arts Center is a performing arts center located in Fayetteville, Arkansas.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Walton Arts Center",
+                "wikipedia": "en:Walton Arts Center",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 5602674,
+            "lat": 24.51,
+            "lon": 56.57,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Liwa_Fort_2025_%284%29.jpg/1280px-Liwa_Fort_2025_%284%29.jpg",
+            "description": "Liwa (Arabic: لوى) is a Wilayah (Province) in the Al Batinah North Governorate of Oman.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Liwa, Oman",
+                "wikipedia": "en:Liwa, Oman",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 177097,
+            "lat": 25.69666667,
+            "lon": 32.64444444,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/35/LuxorHotelsIbnWalidSt.jpg",
+            "description": "Luxor is a city in southern Egypt.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Luxor",
+                "wikipedia": "en:Luxor",
+                "tourism": "attraction"
+            }
+        }
+    ]
+}

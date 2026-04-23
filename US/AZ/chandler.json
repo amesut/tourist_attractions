@@ -1,0 +1,370 @@
+{
+    "city_metadata": {
+        "city_name": "Chandler",
+        "state_code": "AZ",
+        "state_full": "Arizona",
+        "city_summary": "Chandler is a city in Maricopa County, Arizona, United States, and a suburb in the Phoenix-Mesa-Chandler Metropolitan Statistical Area. It is the fourth-most populous city in Arizona, after Phoenix, Tucson, and Mesa. Chandler is considered to be a part of the East Valley.",
+        "city_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Neighborhoods_in_the_City_of_Chandler.jpg/1280px-Neighborhoods_in_the_City_of_Chandler.jpg",
+        "city_lat": 33.3,
+        "city_lon": -111.83333333,
+        "source": "wikipedia_verified_engine"
+    },
+    "attractions": [
+        {
+            "type": "node",
+            "id": 1969314430,
+            "lat": 33.2700725,
+            "lon": -111.8363813,
+            "tags": {
+                "addr:city": "Chandler",
+                "addr:housenumber": "330",
+                "addr:postcode": "85286",
+                "addr:state": "AZ",
+                "addr:street": "East Ryan Road",
+                "museum": "railway",
+                "name": "Arizona Railway Museum",
+                "opening_hours": "Sa-Su 12:00-16:00",
+                "source": "esri_USDOT_Arizona",
+                "tourism": "museum",
+                "website": "http://www.azrymuseum.org/",
+                "wikidata": "Q4791377"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Az-rrm-logo.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 2291940953,
+            "lat": 33.3009357,
+            "lon": -111.8992103,
+            "tags": {
+                "brand": "Sears",
+                "brand:wikidata": "Q6499202",
+                "disused": "yes",
+                "name": "The Crayola Experience",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/231119-12_Chandler_Fashion_Center.jpg/1280px-231119-12_Chandler_Fashion_Center.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 4632683995,
+            "lat": 35.7029584,
+            "lon": -96.8809458,
+            "tags": {
+                "addr:city": "Chandler",
+                "addr:housenumber": "719",
+                "addr:postcode": "74834",
+                "addr:state": "OK",
+                "addr:street": "Manvel Avenue",
+                "name": "Lincoln County Museum of Pioneer History",
+                "tourism": "museum",
+                "website": "https://www.okpioneermuseum.com/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/FlyntBldgChandlerOkV2.JPG/1280px-FlyntBldgChandlerOkV2.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 4738702353,
+            "lat": 48.3249158,
+            "lon": -64.6957342,
+            "tags": {
+                "name": "Centre d’interprétation du Site historique et archéologique de Pabos",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 4970541733,
+            "lat": 35.7097196,
+            "lon": -96.8771753,
+            "tags": {
+                "name": "Route 66 Interpretative Center (Chandler)",
+                "name:en": "Route 66 Interpretative Center (Chandler)",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Chandler_Armory.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 4970558128,
+            "lat": 35.6977684,
+            "lon": -96.8802762,
+            "tags": {
+                "name": "St. Cloud Classics (Chandler)",
+                "name:en": "St. Cloud Classics (Chandler)",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Lincoln_County_Courthouse%2C_Chandler%2C_Oklahoma.jpg/1280px-Lincoln_County_Courthouse%2C_Chandler%2C_Oklahoma.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 5242975221,
+            "lat": 33.2967397,
+            "lon": -111.9341696,
+            "tags": {
+                "name": "Edith House",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "way",
+            "id": 823328980,
+            "lat": 33.2705036,
+            "lon": -111.8264284,
+            "tags": {
+                "name": "Tumbleweed Ranch",
+                "operator": "Chander Museum",
+                "tourism": "museum",
+                "website": "https://www.chandleraz.gov/explore/arts-and-culture/chandler-museum/about-us/tumbleweed-ranch"
+            }
+        },
+        {
+            "type": "way",
+            "id": 1134330796,
+            "lat": 33.2978436,
+            "lon": -111.9021445,
+            "tags": {
+                "addr:city": "Chandler",
+                "addr:housenumber": "300",
+                "addr:postcode": "85226",
+                "addr:state": "AZ",
+                "addr:street": "South Chandler Village Drive South",
+                "name": "Chandler Museum",
+                "source": "esri/USA_NAD_Addresses",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/The_McCullough-Price_House_Museum.JPG/1280px-The_McCullough-Price_House_Museum.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 1148094583,
+            "lat": 35.6955871,
+            "lon": -96.8809892,
+            "tags": {
+                "building": "yes",
+                "name": "Old Gas Station",
+                "name:en": "Old Gas Station",
+                "source": "microsoft/BuildingFootprints",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Lincoln_County_Courthouse%2C_Chandler%2C_Oklahoma.jpg/1280px-Lincoln_County_Courthouse%2C_Chandler%2C_Oklahoma.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 35758885,
+            "lat": 33.38,
+            "lon": -111.73,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Superstition_Mountain_56.JPG/1280px-Superstition_Mountain_56.JPG",
+            "description": "The Phoenix Metropolitan Area (Metro Phoenix) consists of a valley that has multiple city regions in it.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "East Valley (Phoenix metropolitan area)",
+                "wikipedia": "en:East Valley (Phoenix metropolitan area)",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 106639,
+            "lat": 33.39861111,
+            "lon": -111.535,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Apache_Junction-welcome_to_Apache_Junction-1.JPG/1280px-Apache_Junction-welcome_to_Apache_Junction-1.JPG",
+            "description": "Apache Junction (Western Apache: Hagosgeed) is a city in Pinal and Maricopa County, Arizona, United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Apache Junction, Arizona",
+                "wikipedia": "en:Apache Junction, Arizona",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 206754,
+            "lat": 33.15444444,
+            "lon": -111.92666667,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Pinal_County_Arizona_Incorporated_and_Unincorporated_areas_GRIC_highlighted.svg/1280px-Pinal_County_Arizona_Incorporated_and_Unincorporated_areas_GRIC_highlighted.svg.png",
+            "description": "The Gila River Indian Community of the Gila River Indian Reservation is federally recognized tribe of Native Americans.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Gila River Indian Community",
+                "wikipedia": "en:Gila River Indian Community",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 49121,
+            "lat": 33.44833333,
+            "lon": -112.07388889,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Downtown_Phoenix_Aerial_Looking_Northeast.jpg/1280px-Downtown_Phoenix_Aerial_Looking_Northeast.jpg",
+            "description": "Phoenix (  FEE-niks) is the capital and most populous city of the U.S. state of Arizona.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Phoenix, Arizona",
+                "wikipedia": "en:Phoenix, Arizona",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 21883824,
+            "lat": 35,
+            "lon": -112,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Flag_of_Arizona.svg/1280px-Flag_of_Arizona.svg.png",
+            "description": "Arizona is a landlocked state in the Southwestern United States, sharing the Four Corners region with Colorado, New Mexico, and Utah.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Arizona",
+                "wikipedia": "en:Arizona",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 77649202,
+            "lat": 33.45106,
+            "lon": -112.07943,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Phoenix_401_west_Van_Buren.jpg/1280px-Phoenix_401_west_Van_Buren.jpg",
+            "description": "The Van Buren is a music venue located in Downtown Phoenix, Arizona.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "The Van Buren",
+                "wikipedia": "en:The Van Buren",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 23425513,
+            "lat": 32.26,
+            "lon": -110.87388889,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Tucson-Fort_Lowell_Hospital-1878.JPG/1280px-Tucson-Fort_Lowell_Hospital-1878.JPG",
+            "description": "Fort Lowell was a United States Army post active from 1873 to 1891 on the outskirts of Tucson, Arizona.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Fort Lowell (Tucson, Arizona)",
+                "wikipedia": "en:Fort Lowell (Tucson, Arizona)",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 2076038,
+            "lat": 33.4716331,
+            "lon": -112.2345288,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Ak-Chin_Pavilion-1.jpg/1280px-Ak-Chin_Pavilion-1.jpg",
+            "description": "Talking Stick Resort Amphitheatre (originally known as the Desert Sky Pavilion and most recently known as Ak-Chin Pavilion) is an amphitheater located in Phoenix, Arizona, which seats 8,106 under a pavilion roof and an additional 12,000 on a hillside behind the main stands.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Talking Stick Resort Amphitheatre",
+                "wikipedia": "en:Talking Stick Resort Amphitheatre",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 9968533,
+            "lat": 33.44909167,
+            "lon": -112.07591667,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Orpheum_Theater-1.jpg/1280px-Orpheum_Theater-1.jpg",
+            "description": "The Orpheum Theatre is a 1364-seat theatre in downtown Phoenix.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Orpheum Theatre (Phoenix, Arizona)",
+                "wikipedia": "en:Orpheum Theatre (Phoenix, Arizona)",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 12125781,
+            "lat": 33.43694444,
+            "lon": -111.94388889,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Marquee_Theatre_-_NEC_-_2011-02-15.JPG/1280px-Marquee_Theatre_-_NEC_-_2011-02-15.JPG",
+            "description": "Marquee Theatre (originally known as the Red River Opry or the Red River Music Hall) is a music venue in Tempe, Arizona.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Marquee Theatre",
+                "wikipedia": "en:Marquee Theatre",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 3713516,
+            "lat": 33.4625,
+            "lon": -112.07333333,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Burton_Barr_Central_Library-6.jpg/1280px-Burton_Barr_Central_Library-6.jpg",
+            "description": "The Burton Barr Central Library is the central library of Phoenix, Arizona.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Burton Barr Central Library",
+                "wikipedia": "en:Burton Barr Central Library",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 27369084,
+            "lat": 33.4544,
+            "lon": -112.0147,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Phoenix-Phoenix_Star_Theatre_Celebrity_Theatre-1963.JPG/1280px-Phoenix-Phoenix_Star_Theatre_Celebrity_Theatre-1963.JPG",
+            "description": "Celebrity Theatre is a theater in the round located in Phoenix, Arizona.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Celebrity Theatre",
+                "wikipedia": "en:Celebrity Theatre",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 12898299,
+            "lat": 33.4317,
+            "lon": -111.949,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Tempe_Center_for_the_Arts%2C_Tempe%2C_Arizona_-_panoramio_%283%29.jpg/1280px-Tempe_Center_for_the_Arts%2C_Tempe%2C_Arizona_-_panoramio_%283%29.jpg",
+            "description": "Tempe Center for the Arts (TCA) is a publicly owned performing and visual arts center in Tempe, Arizona.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Tempe Center for the Arts",
+                "wikipedia": "en:Tempe Center for the Arts",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 150969,
+            "lat": 36.13138889,
+            "lon": -95.93722222,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Tulsa_skyline_aerial%2C_April_2023.jpg/1280px-Tulsa_skyline_aerial%2C_April_2023.jpg",
+            "description": "Tulsa (  TUL-sə) is the second-most-populous city in the U.S. state of Oklahoma and the 48th-most populous city in the United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Tulsa, Oklahoma",
+                "wikipedia": "en:Tulsa, Oklahoma",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 1006530,
+            "lat": 33.50388889,
+            "lon": -111.92861111,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Fashion_Square_-_East_Addition_Entrance_South_-_2010-01-24.JPG/1280px-Fashion_Square_-_East_Addition_Entrance_South_-_2010-01-24.JPG",
+            "description": "Scottsdale Fashion Square is an upscale luxury shopping mall located in the downtown area of Scottsdale, Arizona, United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Scottsdale Fashion Square",
+                "wikipedia": "en:Scottsdale Fashion Square",
+                "tourism": "attraction"
+            }
+        }
+    ]
+}

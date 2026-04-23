@@ -1,0 +1,430 @@
+{
+    "city_metadata": {
+        "city_name": "Fort Smith",
+        "state_code": "AR",
+        "state_full": "Arkansas",
+        "city_summary": "Fort Smith is the third-most populous city in Arkansas, United States, and one of the two county seats of Sebastian County. As of the 2020 census, the population was 89,142. It is the principal city of the Fort Smith, Arkansas–Oklahoma Metropolitan Statistical Area, a region of 298,592 residents that encompasses the Arkansas counties of Crawford, Franklin, and Sebastian, and the Oklahoma counties of LeFlore and Sequoyah.",
+        "city_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Fort_Smith%2C_AR_002.jpg/1280px-Fort_Smith%2C_AR_002.jpg",
+        "city_lat": 35.37972222,
+        "city_lon": -94.38194444,
+        "source": "wikipedia_verified_engine"
+    },
+    "attractions": [
+        {
+            "type": "node",
+            "id": 1390489992,
+            "lat": 35.3877184,
+            "lon": -94.4333101,
+            "tags": {
+                "name": "Trail of Tears Overlook",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Poteau_River_Panama_Oklahoma.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 2681223114,
+            "lat": 35.3886756,
+            "lon": -94.4304516,
+            "tags": {
+                "man_made": "water_well",
+                "name": "Cistern",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Fortsmithhist.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 2681237321,
+            "lat": 35.3882183,
+            "lon": -94.4312637,
+            "tags": {
+                "historic": "monument",
+                "name": "Initial Point Marker",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Fortsmithhist.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 3319949036,
+            "lat": 35.3883708,
+            "lon": -94.4296724,
+            "tags": {
+                "name": "Barracks-Courthouse-Jail",
+                "operator": "National Park Service",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Fortsmithhist.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 3319949677,
+            "lat": 35.3881687,
+            "lon": -94.4298597,
+            "tags": {
+                "name": "Visitor Center",
+                "operator": "National Park Service",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Fortsmithhist.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 8190829531,
+            "lat": 35.3129734,
+            "lon": -94.3323721,
+            "tags": {
+                "name": "World's Largest Christmas Pickle",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "way",
+            "id": 125119975,
+            "lat": 35.3877041,
+            "lon": -94.4325257,
+            "tags": {
+                "historic": "fort",
+                "name": "First Fort Smith",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/COMMISSARY_BUILDING_IN_FT._SMITH.jpg/1280px-COMMISSARY_BUILDING_IN_FT._SMITH.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 255623736,
+            "lat": 60.0051671,
+            "lon": -111.8880064,
+            "tags": {
+                "addr:housenumber": "110",
+                "addr:street": "King Street",
+                "email": "info@nlmcc.ca",
+                "museum": "history",
+                "name": "Northern Life Museum",
+                "phone": "+1-867-872-2859",
+                "tourism": "museum",
+                "website": "http://www.nlmcc.ca/",
+                "wikidata": "Q595422",
+                "wikipedia": "en:Northern Life Museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Reassembly_of_the_Radium_King%2C_1937.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 262459193,
+            "lat": 35.3885285,
+            "lon": -94.4306214,
+            "tags": {
+                "addr:city": "Fort Smith",
+                "addr:postcode": "72901",
+                "addr:state": "AR",
+                "historic": "building",
+                "name": "Officers' Quarters",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Fortsmithhist.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 262459194,
+            "lat": 35.3889236,
+            "lon": -94.4302277,
+            "tags": {
+                "addr:city": "Fort Smith",
+                "addr:postcode": "72901",
+                "addr:state": "AR",
+                "historic": "building",
+                "name": "Officers' Quarters",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Fortsmithhist.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 262459195,
+            "lat": 35.3895173,
+            "lon": -94.4300023,
+            "tags": {
+                "addr:city": "Fort Smith",
+                "addr:state": "AR",
+                "building": "yes",
+                "building:levels": "2",
+                "name": "Commissary",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/COMMERCIAL_HOTEL.jpg/1280px-COMMERCIAL_HOTEL.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 262459198,
+            "lat": 35.3890004,
+            "lon": -94.4293526,
+            "tags": {
+                "building": "yes",
+                "historic": "building",
+                "name": "Guardhouse",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Fortsmithhist.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 262459199,
+            "lat": 35.3890043,
+            "lon": -94.4303922,
+            "tags": {
+                "leisure": "garden",
+                "name": "Officers' Garden",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Fortsmithhist.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 262462078,
+            "lat": 35.3859317,
+            "lon": -94.430061,
+            "tags": {
+                "addr:city": "Fort Smith",
+                "addr:housenumber": "100",
+                "addr:state": "AR",
+                "addr:street": "South 4th Street",
+                "building": "yes",
+                "name": "Fort Smith Trolley Museum",
+                "phone": "+1 479-783-0205",
+                "tourism": "museum",
+                "website": "https://www.fstm.org/",
+                "wikidata": "Q8564778"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Fort_Smith_Birney_streetcar_224_behind_Museum_of_History_%281997%29.jpg/1280px-Fort_Smith_Birney_streetcar_224_behind_Museum_of_History_%281997%29.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 262464342,
+            "lat": 35.3875805,
+            "lon": -94.4283966,
+            "tags": {
+                "addr:city": "Fort Smith",
+                "addr:housenumber": "320",
+                "addr:postcode": "72901",
+                "addr:state": "AR",
+                "addr:street": "Rogers Avenue",
+                "building": "yes",
+                "fee": "yes",
+                "museum": "history",
+                "name": "Fort Smith Museum of HIstory",
+                "opening_hours": "Tu-Sa 10:00-16:00",
+                "phone": "+1 479-783-7841",
+                "tourism": "museum",
+                "website": "http://www.fortsmithmuseum.com/",
+                "wikidata": "Q19865813"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Fort_Smith%2C_Arkansas_History_Museum.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 262584111,
+            "lat": 35.3875701,
+            "lon": -94.4301923,
+            "tags": {
+                "addr:city": "Fort Smith",
+                "addr:postcode": "72901",
+                "addr:state": "AR",
+                "building": "yes",
+                "historic": "building",
+                "name": "Gallows",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Fortsmithhist.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 463454914,
+            "lat": 35.3886735,
+            "lon": -94.4311713,
+            "tags": {
+                "addr:city": "Fort Smith",
+                "addr:housenumber": "301",
+                "addr:postcode": "72901",
+                "addr:state": "AR",
+                "addr:street": "Parker Avenue",
+                "alt_name": "Fort Smith National Historic Park",
+                "heritage": "2",
+                "heritage:operator": "nrhp",
+                "leisure": "park",
+                "name": "Fort Smith National Historic Site",
+                "nrhp:criteria": "(A)",
+                "nrhp:inscription_date": "December 19, 1960",
+                "nrhp:nhl": "yes",
+                "opening_hours": "09:00-17:00",
+                "operator": "National Park Service",
+                "operator:short": "NPS",
+                "operator:type": "public",
+                "operator:wikidata": "Q308439",
+                "protection_title": "protected_site",
+                "ref:nrhp": "66000202",
+                "tourism": "attraction",
+                "website": "https://www.nps.gov/fosm",
+                "wikidata": "Q3078083",
+                "wikipedia": "en:Fort Smith National Historic Site"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Fortsmithhist.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 474805638,
+            "lat": 35.3912782,
+            "lon": -94.4207584,
+            "tags": {
+                "addr:city": "Fort Smith",
+                "addr:housenumber": "514",
+                "addr:postcode": "72901",
+                "addr:state": "AR",
+                "addr:street": "North 6th Street",
+                "building": "yes",
+                "name": "Clayton House",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/W.H.H._Clayton_House.JPG/1280px-W.H.H._Clayton_House.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 641090223,
+            "lat": 35.3814529,
+            "lon": -94.4154521,
+            "tags": {
+                "addr:city": "Fort Smith",
+                "addr:housenumber": "1601",
+                "addr:postcode": "72901",
+                "addr:state": "AR",
+                "addr:street": "Rogers Avenue",
+                "building": "yes",
+                "name": "Fort Smith Regional Art Museum",
+                "opening_hours": "Tu-Sa 11:00-18:00; Su 13:00-17:00",
+                "phone": "+14797842787",
+                "tourism": "museum",
+                "website": "https://fsram.org/"
+            }
+        },
+        {
+            "type": "way",
+            "id": 1002870837,
+            "lat": 35.3116835,
+            "lon": -94.3014515,
+            "tags": {
+                "addr:city": "Fort Smith",
+                "addr:housenumber": "7313",
+                "addr:postcode": "72916",
+                "addr:state": "AR",
+                "addr:street": "Terry Street",
+                "building": "yes",
+                "name": "Chaffee Barbershop Museum",
+                "tourism": "museum"
+            }
+        },
+        {
+            "type": "way",
+            "id": 1053334015,
+            "lat": 35.3899438,
+            "lon": -94.429927,
+            "tags": {
+                "addr:city": "Fort Smith",
+                "addr:housenumber": "100",
+                "addr:postcode": "72901",
+                "addr:state": "AR",
+                "addr:street": "Garrison Avenue",
+                "building": "yes",
+                "building:levels": "2",
+                "name": "Frisco Train Station",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/COMMERCIAL_HOTEL.jpg/1280px-COMMERCIAL_HOTEL.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 1203174995,
+            "lat": 35.3985362,
+            "lon": -94.4255898,
+            "tags": {
+                "addr:city": "Fort Smith",
+                "addr:housenumber": "789",
+                "addr:postcode": "72901",
+                "addr:state": "AR",
+                "addr:street": "Riverfront Drive",
+                "building": "yes",
+                "fee": "yes",
+                "layer": "-1",
+                "location": "surface",
+                "museum": "history",
+                "name": "United States Marshals Museum",
+                "opening_hours": "09:00-17:00",
+                "operator": "United States Marshals Service",
+                "operator:type": "government",
+                "phone": "+1 479-242-1789",
+                "tourism": "museum",
+                "website": "https://usmmuseum.org/"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 107254,
+            "lat": 35.37972222,
+            "lon": -94.38194444,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Fort_Smith%2C_AR_002.jpg/1280px-Fort_Smith%2C_AR_002.jpg",
+            "description": "Fort Smith is the third-most populous city in Arkansas, United States, and one of the two county seats of Sebastian County.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Fort Smith, Arkansas",
+                "wikipedia": "en:Fort Smith, Arkansas",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 107201,
+            "lat": 34.58611111,
+            "lon": -94.23972222,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Polk_Co._Courthouse.JPG/1280px-Polk_Co._Courthouse.JPG",
+            "description": "Mena ( MEE-nə) is a city in and the county seat of Polk County, Arkansas, United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Mena, Arkansas",
+                "wikipedia": "en:Mena, Arkansas",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 3073110,
+            "lat": 40.58518611,
+            "lon": -105.10377222,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/FortCollinsBirney_streetcar_MountainAve.jpg/1280px-FortCollinsBirney_streetcar_MountainAve.jpg",
+            "description": "The Fort Collins Municipal Railway operated streetcars in Fort Collins, Colorado, from 1919 until 1951.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Fort Collins Municipal Railway",
+                "wikipedia": "en:Fort Collins Municipal Railway",
+                "tourism": "attraction"
+            }
+        }
+    ]
+}

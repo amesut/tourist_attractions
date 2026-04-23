@@ -1,0 +1,357 @@
+{
+    "city_metadata": {
+        "city_name": "Kenosha",
+        "state_code": "WI",
+        "state_full": "Wisconsin",
+        "city_summary": "Kenosha ( ) is a city in Kenosha County, Wisconsin, United States, and its county seat. Located on the southwestern shore of Lake Michigan, it is the fourth-most populous city in Wisconsin, with 99,986 residents at the 2020 census. The Kenosha metropolitan statistical area, consisting solely of Kenosha County, has roughly 169,000 residents.",
+        "city_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Kenosha_July_2022_071_%287th_Avenue%29_%28cropped%29.jpg/1280px-Kenosha_July_2022_071_%287th_Avenue%29_%28cropped%29.jpg",
+        "city_lat": 42.58222222,
+        "city_lon": -87.84555556,
+        "source": "wikipedia_verified_engine"
+    },
+    "attractions": [
+        {
+            "type": "way",
+            "id": 84722883,
+            "lat": 42.5861972,
+            "lon": -87.8130561,
+            "tags": {
+                "addr:city": "Kenosha",
+                "addr:housenumber": "5501",
+                "addr:postcode": "53140",
+                "addr:state": "WI",
+                "addr:street": "1st Avenue",
+                "building": "commercial",
+                "building:levels": "4",
+                "charge": "$5 suggested",
+                "fee": "donation",
+                "museum": "art",
+                "name": "Kenosha Public Museum",
+                "opening_hours": "Mo-Sa 10:00-17:00; Su 12:00-17:00; PH off",
+                "phone": "+1-262-653-4140",
+                "tourism": "museum",
+                "website": "https://museums.kenosha.org/public/",
+                "wikidata": "Q6391317",
+                "wikipedia": "en:Kenosha Public Museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Kenosha_July_2022_008_%28Kenosha_Public_Museum%29.jpg/1280px-Kenosha_July_2022_008_%28Kenosha_Public_Museum%29.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 84737215,
+            "lat": 42.5891196,
+            "lon": -87.8153928,
+            "tags": {
+                "addr:city": "Kenosha",
+                "addr:housenumber": "220",
+                "addr:postcode": "53140",
+                "addr:state": "WI",
+                "addr:street": "51st Place",
+                "building": "yes",
+                "museum": "history",
+                "name": "Kenosha History Center",
+                "operator": "Kenosha History Center",
+                "operator:type": "private_non_profit",
+                "tourism": "museum",
+                "website": "https://www.kenoshahistorycenter.org/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Kenosha_Southport_Lighthouse.jpg/1280px-Kenosha_Southport_Lighthouse.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 84835903,
+            "lat": 42.5894218,
+            "lon": -87.8159041,
+            "tags": {
+                "addr:city": "Kenosha",
+                "addr:housenumber": "5123",
+                "addr:postcode": "53140",
+                "addr:state": "WI",
+                "addr:street": "4th Avenue",
+                "building": "yes",
+                "heritage": "2",
+                "heritage:operator": "nrhp",
+                "heritage:website": "https://www.nps.gov/subjects/nationalregister/index.htm",
+                "historic": "maritime",
+                "museum": "history",
+                "name": "Southport Light Station Museum",
+                "nrhp:criteria": "(A)",
+                "nrhp:inscription_date": "1990-06-28",
+                "old_name:1866-1942": "Kenosha Light Station",
+                "protection_title": "City of Kenosha",
+                "ref:nrhp": "90000995",
+                "source_ref": "https://catalog.archives.gov/id/106781308",
+                "start_date": "1866",
+                "tourism": "museum",
+                "website": "https://kenoshahistorycenter.org/lightstation.html",
+                "wikidata": "Q6391310"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Kenosha_Southport_Lighthouse.jpg/1280px-Kenosha_Southport_Lighthouse.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 191940807,
+            "lat": 42.5871307,
+            "lon": -87.8132156,
+            "tags": {
+                "addr:city": "Kenosha",
+                "addr:housenumber": "5400",
+                "addr:postcode": "53140",
+                "addr:state": "WI",
+                "addr:street": "1st Avenue",
+                "building": "commercial",
+                "building:levels": "5",
+                "museum": "military",
+                "name": "Kenosha Civil War Museum",
+                "opening_hours": "Mo-Sa 10:00-17:00; Su 12:00-17:00",
+                "phone": "+1-262-653-4141",
+                "tourism": "museum",
+                "website": "http://thecivilwarmuseum.org"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Kenosha_July_2022_008_%28Kenosha_Public_Museum%29.jpg/1280px-Kenosha_July_2022_008_%28Kenosha_Public_Museum%29.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 220680359,
+            "lat": 42.5838989,
+            "lon": -87.8236741,
+            "tags": {
+                "addr:city": "Kenosha",
+                "addr:housenumber": "5608",
+                "addr:postcode": "53140",
+                "addr:state": "WI",
+                "addr:street": "10th Avenue",
+                "building": "commercial",
+                "check_date:opening_hours": "2023-03-10",
+                "fee": "donation",
+                "museum": "archaeological",
+                "name": "Dinosaur Discovery Museum",
+                "opening_hours": "Tu-Su 12:00-17:00; PH off",
+                "operator": "City of Kenosha",
+                "tourism": "museum",
+                "website": "https://museums.kenosha.org/dinosaur-discovery-museum",
+                "wheelchair": "yes",
+                "wikidata": "Q5278627",
+                "wikipedia": "en:Dinosaur Discovery Museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/85/Tyrannosaurus_rex.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 514609641,
+            "lat": 42.5658804,
+            "lon": -87.9570829,
+            "tags": {
+                "addr:city": "Kenosha",
+                "addr:housenumber": "12345",
+                "addr:postcode": "53142",
+                "addr:state": "WI",
+                "addr:street": "75th Street",
+                "name": "America's Action Territory",
+                "tourism": "theme_park",
+                "website": "https://actionterritory.com/"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 139221,
+            "lat": 42.58222222,
+            "lon": -87.84555556,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Kenosha_July_2022_071_%287th_Avenue%29_%28cropped%29.jpg/1280px-Kenosha_July_2022_071_%287th_Avenue%29_%28cropped%29.jpg",
+            "description": "Kenosha ( ) is a city in Kenosha County, Wisconsin, United States, and its county seat.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Kenosha, Wisconsin",
+                "wikipedia": "en:Kenosha, Wisconsin",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 33127,
+            "lat": 44,
+            "lon": -90,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Flag_of_Wisconsin.svg/1280px-Flag_of_Wisconsin.svg.png",
+            "description": "Wisconsin is a state in the Upper Midwest and Great Lakes regions of the United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Wisconsin",
+                "wikipedia": "en:Wisconsin",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 6832184,
+            "lat": 38.290294,
+            "lon": -86.945125,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/League_Stadium%2C_Huntingburg%2C_Indiana.JPG/1280px-League_Stadium%2C_Huntingburg%2C_Indiana.JPG",
+            "description": "League Stadium is a historic baseball stadium in Huntingburg, Indiana, United States, located at 203 South Cherry Street.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "League Stadium",
+                "wikipedia": "en:League Stadium",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 36489692,
+            "lat": 46.19038889,
+            "lon": -123.83155556,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Astoria_Riverfront_Trolley_-_Old_300_at_12th_Street.jpg/1280px-Astoria_Riverfront_Trolley_-_Old_300_at_12th_Street.jpg",
+            "description": "The Astoria Riverfront Trolley is a 3-mile (4.8 km) heritage streetcar line that operates in Astoria, Oregon, United States, using former freight railroad tracks along or near the south bank of the Columbia River, with no overhead line.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Astoria Riverfront Trolley",
+                "wikipedia": "en:Astoria Riverfront Trolley",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 5093205,
+            "lat": 43.03398,
+            "lon": -87.98196,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Chapel_Hill.jpg",
+            "description": "Calvary Cemetery is the oldest existing Catholic cemetery in Milwaukee, Wisconsin.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Calvary Cemetery (Milwaukee)",
+                "wikipedia": "en:Calvary Cemetery (Milwaukee)",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 768424,
+            "lat": 40.09916667,
+            "lon": -88.23583333,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Memorial_Stadium%2C_Smith_Football_Performance_Center_and_State_Farm_Center%2C_University_of_Illinois.jpg/1280px-Memorial_Stadium%2C_Smith_Football_Performance_Center_and_State_Farm_Center%2C_University_of_Illinois.jpg",
+            "description": "Gies Memorial Stadium is a stadium on the campus of the University of Illinois Urbana-Champaign in Champaign, Illinois, United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Gies Memorial Stadium",
+                "wikipedia": "en:Gies Memorial Stadium",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 46336516,
+            "lat": 43.03517139,
+            "lon": -89.43009944,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Seal_of_Wisconsin.svg/1280px-Seal_of_Wisconsin.svg.png",
+            "description": "The Wisconsin Department of Tourism is a governmental agency of the U.S. state of Wisconsin responsible for marketing and promoting the state as a travel destination.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Wisconsin Department of Tourism",
+                "wikipedia": "en:Wisconsin Department of Tourism",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 675480,
+            "lat": 44.93303056,
+            "lon": -93.30820278,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/9a/TRCT_1300.jpg",
+            "description": "The Como-Harriet Streetcar Line (CHSL) is a heritage streetcar line in Minneapolis, Minnesota, which follows original streetcar right-of-way between Lake Harriet and Bde Maka Ska and is operated by the Minnesota Streetcar Museum.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Como-Harriet Streetcar Line",
+                "wikipedia": "en:Como-Harriet Streetcar Line",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 173602,
+            "lat": 42.64666667,
+            "lon": -71.31027778,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Boott_mill_rooftop_view.jpg",
+            "description": "Lowell National Historical Park is a National Historical Park of the United States located in Lowell, Massachusetts.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Lowell National Historical Park",
+                "wikipedia": "en:Lowell National Historical Park",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 6197700,
+            "lat": 35.38555556,
+            "lon": -94.43027778,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Fort_Smith_Birney_streetcar_224_behind_Museum_of_History_%281997%29.jpg/1280px-Fort_Smith_Birney_streetcar_224_behind_Museum_of_History_%281997%29.jpg",
+            "description": "The Fort Smith Trolley Museum is a streetcar and railroad museum in Fort Smith, in the U.S. state of Arkansas, which includes an operating heritage streetcar line.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Fort Smith Trolley Museum",
+                "wikipedia": "en:Fort Smith Trolley Museum",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 3073110,
+            "lat": 40.58518611,
+            "lon": -105.10377222,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/FortCollinsBirney_streetcar_MountainAve.jpg/1280px-FortCollinsBirney_streetcar_MountainAve.jpg",
+            "description": "The Fort Collins Municipal Railway operated streetcars in Fort Collins, Colorado, from 1919 until 1951.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Fort Collins Municipal Railway",
+                "wikipedia": "en:Fort Collins Municipal Railway",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 4055196,
+            "lat": 42.74155,
+            "lon": -87.80096,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Westsidebleachers.jpg",
+            "description": "Horlick Field, located on the north side of Racine, Wisconsin, in the United States, is a 5,000-seat football stadium and a baseball park enclosed within stone walls and chain fences.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Horlick Field",
+                "wikipedia": "en:Horlick Field",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 29224389,
+            "lat": 44.385493,
+            "lon": -89.820621,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Wisconsin_Rapids_baseball_field_for_Northwoods_League.jpg/1280px-Wisconsin_Rapids_baseball_field_for_Northwoods_League.jpg",
+            "description": "Witter Field is a ballpark located at 521 Lincoln Street in Wisconsin Rapids, Wisconsin, United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Witter Field",
+                "wikipedia": "en:Witter Field",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 1247045,
+            "lat": 41.888,
+            "lon": -87.797,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Oak_Park_Il_Unity_Temple8.jpg/1280px-Oak_Park_Il_Unity_Temple8.jpg",
+            "description": "Unity Temple is a Unitarian Universalist church building that houses the Unity Temple Unitarian Universalist Congregation at 875 Lake Street in Oak Park, Illinois, United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Unity Temple",
+                "wikipedia": "en:Unity Temple",
+                "tourism": "attraction"
+            }
+        }
+    ]
+}

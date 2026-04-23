@@ -1,0 +1,368 @@
+{
+    "city_metadata": {
+        "city_name": "Aspen",
+        "state_code": "CO",
+        "state_full": "Colorado",
+        "city_summary": "Aspen is the home rule city that is the county seat of, and most populous municipality in, Pitkin County, Colorado, United States. The city population was 7,004 at the 2020 United States census. Aspen is in a remote area of the Rocky Mountains' Sawatch Range and Elk Mountains, along the Roaring Fork River at an elevation just below 8,000 feet (2,400 m) on the Western Slope, 11 miles (18 km) west of the Continental Divide.",
+        "city_image": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Downtown_of_Aspen%2C_Colorado.jpg",
+        "city_lat": 39.1911,
+        "city_lon": -106.8175,
+        "source": "wikipedia_verified_engine"
+    },
+    "attractions": [
+        {
+            "type": "node",
+            "id": 4227991739,
+            "lat": 39.1882627,
+            "lon": -106.8165408,
+            "tags": {
+                "addr:city": "Aspen",
+                "addr:housenumber": "637",
+                "addr:postcode": "81611",
+                "addr:state": "CO",
+                "addr:street": "East Hyman Avenue",
+                "fee": "no",
+                "name": "Aspen Art Museum",
+                "opening_hours": "Tu-Su 10:00-18:00",
+                "phone": "+1-970-925-8050",
+                "tourism": "museum",
+                "website": "https://www.aspenartmuseum.org/",
+                "wikidata": "Q2854654",
+                "wikipedia": "en:Aspen Art Museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/La_Fave_Block%2C_Aspen%2C_CO.jpg/1280px-La_Fave_Block%2C_Aspen%2C_CO.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 4227991749,
+            "lat": 39.1938033,
+            "lon": -106.828993,
+            "tags": {
+                "name": "Aspen Historical Society",
+                "tourism": "museum",
+                "website": "https://aspenhistory.org/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Wheeler-Stallard_House%2C_Aspen%2C_CO.jpg/1280px-Wheeler-Stallard_House%2C_Aspen%2C_CO.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 4227991750,
+            "lat": 39.1939987,
+            "lon": -106.8290264,
+            "tags": {
+                "fee": "yes",
+                "fee:conditional": "no @ (age < 19); no @ members; no @ Military",
+                "name": "Wheeler/Stallard House Museum",
+                "tourism": "museum",
+                "website": "https://aspenhistory.org/tours-sites/wheeler-stallard-museum/",
+                "wikidata": "Q7992278"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Wheeler-Stallard_House%2C_Aspen%2C_CO.jpg/1280px-Wheeler-Stallard_House%2C_Aspen%2C_CO.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 5859932735,
+            "lat": 45.3053407,
+            "lon": -62.0539638,
+            "tags": {
+                "addr:housenumber": "12453",
+                "addr:street": "Highway 7",
+                "check_date:opening_hours": "2023-12-01",
+                "name": "Baird's Tradesmen Museum",
+                "opening_hours:url": "https://www.novascotia.com/see-do/attractions/bairds-tradesmen-museum/1643",
+                "seasonal": "yes",
+                "tourism": "museum",
+                "website": "https://www.novascotia.com/see-do/attractions/bairds-tradesmen-museum/1643"
+            }
+        },
+        {
+            "type": "way",
+            "id": 1068055271,
+            "lat": 39.1931704,
+            "lon": -106.834819,
+            "tags": {
+                "addr:city": "Aspen",
+                "addr:housenumber": "40180",
+                "addr:postcode": "81611",
+                "addr:state": "CO",
+                "addr:street": "Highway 82",
+                "fee": "yes",
+                "fee:conditional": "no @ (age < 19); no @ members; no @ Military",
+                "name": "Holden/Marolt Mining & Ranching Museum",
+                "seasonal": "yes",
+                "tourism": "museum",
+                "website": "https://aspenhistory.org/tours-sites/holden-marolt-mining-and-ranching-museum/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Holden_Mining_and_Smelting_Company.JPG/1280px-Holden_Mining_and_Smelting_Company.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 1206775029,
+            "lat": 39.1881926,
+            "lon": -106.8166638,
+            "tags": {
+                "building": "yes",
+                "name": "Marx • Phelan Building",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/La_Fave_Block%2C_Aspen%2C_CO.jpg/1280px-La_Fave_Block%2C_Aspen%2C_CO.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 32402132,
+            "lat": 39.19361111,
+            "lon": -106.82888889,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Wheeler-Stallard_House%2C_Aspen%2C_CO.jpg/1280px-Wheeler-Stallard_House%2C_Aspen%2C_CO.jpg",
+            "description": "The Wheeler–Stallard House is located on West Bleeker Street in Aspen, Colorado, United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Wheeler–Stallard House",
+                "wikipedia": "en:Wheeler–Stallard House",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 34247231,
+            "lat": 39.19277778,
+            "lon": -106.83472222,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Holden_Mining_and_Smelting_Company.JPG/1280px-Holden_Mining_and_Smelting_Company.JPG",
+            "description": "The Holden/Marolt Mining and Ranching Museum is located on the former Holden Lixiviation Works facility on the western edge of the city of Aspen, Colorado, United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Holden/Marolt Mining and Ranching Museum",
+                "wikipedia": "en:Holden/Marolt Mining and Ranching Museum",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 108617,
+            "lat": 39.24583333,
+            "lon": -106.93666667,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Snowmass_Village.JPG/1280px-Snowmass_Village.JPG",
+            "description": "Snowmass Village is a home rule municipality in Pitkin County, Colorado, United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Snowmass Village, Colorado",
+                "wikipedia": "en:Snowmass Village, Colorado",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 356309,
+            "lat": 33.80611111,
+            "lon": -117.91944444,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Pixarpiersunset2019_%28cropped%29_%28cropped%29.jpg/1280px-Pixarpiersunset2019_%28cropped%29_%28cropped%29.jpg",
+            "description": "Disney California Adventure is a theme park at the Disneyland Resort in Anaheim, California.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Disney California Adventure",
+                "wikipedia": "en:Disney California Adventure",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 9682967,
+            "lat": 38.9972,
+            "lon": -105.5478,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Colorado_in_United_States.svg/1280px-Colorado_in_United_States.svg.png",
+            "description": "This is a list of law enforcement agencies in the U.S. state of Colorado.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "List of law enforcement agencies in Colorado",
+                "wikipedia": "en:List of law enforcement agencies in Colorado",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 1192661,
+            "lat": 38.9972,
+            "lon": -105.5478,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Seal_of_Colorado.svg/1280px-Seal_of_Colorado.svg.png",
+            "description": "The seal of the state of Colorado is an adaptation of the territorial seal which was adopted by the First Territorial Assembly on November 6, 1861.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Seal of Colorado",
+                "wikipedia": "en:Seal of Colorado",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 108602,
+            "lat": 40.23027778,
+            "lon": -104.07333333,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Wiggins%2C_Colorado_Municipal_Building.JPG/1280px-Wiggins%2C_Colorado_Municipal_Building.JPG",
+            "description": "Wiggins is a statutory town in Morgan County, Colorado, United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Wiggins, Colorado",
+                "wikipedia": "en:Wiggins, Colorado",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 108510,
+            "lat": 40.06472222,
+            "lon": -105.91944444,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Granby%2C_CO%2C_Town_Hall_IMG_5402.JPG/1280px-Granby%2C_CO%2C_Town_Hall_IMG_5402.JPG",
+            "description": "The Town of Granby is the Statutory Town that is the most populous municipality in Grand County, Colorado, United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Granby, Colorado",
+                "wikipedia": "en:Granby, Colorado",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 108686,
+            "lat": 40.52333333,
+            "lon": -104.85111111,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Weld_County_Colorado_Incorporated_and_Unincorporated_areas_Severance_Highlighted_0869150.svg/1280px-Weld_County_Colorado_Incorporated_and_Unincorporated_areas_Severance_Highlighted_0869150.svg.png",
+            "description": "Severance is a home rule municipality in Weld County, Colorado, United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Severance, Colorado",
+                "wikipedia": "en:Severance, Colorado",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 108674,
+            "lat": 40.0725,
+            "lon": -104.64,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Hudson%2C_Colorado_Town_Hall.JPG/1280px-Hudson%2C_Colorado_Town_Hall.JPG",
+            "description": "The Town of Hudson is a  home rule municipality in Weld County, Colorado, United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Hudson, Colorado",
+                "wikipedia": "en:Hudson, Colorado",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 108669,
+            "lat": 40.11111111,
+            "lon": -104.96083333,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Frederick%2C_CO.jpg/1280px-Frederick%2C_CO.jpg",
+            "description": "The Town of Frederick is a Statutory Town located in Weld County, Colorado, United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Frederick, Colorado",
+                "wikipedia": "en:Frederick, Colorado",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 7694948,
+            "lat": 39.55086111,
+            "lon": -107.32469444,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Hotel_Colorado_April_2012.jpg/1280px-Hotel_Colorado_April_2012.jpg",
+            "description": "Hotel Colorado is an 1893 Italianate structure in Glenwood Springs, Colorado, United States, and one of the oldest hotels in Colorado.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Hotel Colorado",
+                "wikipedia": "en:Hotel Colorado",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 108590,
+            "lat": 37.36805556,
+            "lon": -108.5625,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Cortez_City_Hall.JPG/1280px-Cortez_City_Hall.JPG",
+            "description": "Cortez ( ) is a home-rule municipality that is the county seat of and the most populous municipality in Montezuma County, Colorado, United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Cortez, Colorado",
+                "wikipedia": "en:Cortez, Colorado",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 8047563,
+            "lat": -29.73333333,
+            "lon": 31.07083333,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/UmhlangaKZN-pier.jpg/1280px-UmhlangaKZN-pier.jpg",
+            "description": "uMhlanga, alternatively rendered Umhlanga, is a residential, commercial and resort town  north of Durban on the coast of KwaZulu-Natal, South Africa.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "UMhlanga, KwaZulu-Natal",
+                "wikipedia": "en:UMhlanga, KwaZulu-Natal",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 4691281,
+            "lat": 38.9972,
+            "lon": -105.5478,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Colorado_in_United_States.svg/1280px-Colorado_in_United_States.svg.png",
+            "description": "This is a list of airports in the U.S. state of Colorado, grouped by type and sorted by location.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "List of airports in Colorado",
+                "wikipedia": "en:List of airports in Colorado",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 4897306,
+            "lat": 38.9972,
+            "lon": -105.5478,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Flag_of_Colorado.svg/1280px-Flag_of_Colorado.svg.png",
+            "description": "This is a list of some notable people who have lived in the U.S. state of Colorado.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "List of people from Colorado",
+                "wikipedia": "en:List of people from Colorado",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 108470,
+            "lat": 39.50916667,
+            "lon": -106.37,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/48/DSCN3053_redcliff_e_600.jpg",
+            "description": "Red Cliff (sometimes spelled Redcliff) is a statutory town in Eagle County, Colorado, United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Red Cliff, Colorado",
+                "wikipedia": "en:Red Cliff, Colorado",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 108519,
+            "lat": 38.90833333,
+            "lon": -106.96055556,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Welcome_to_Mt_Crested_Butte_sign.JPG/1280px-Welcome_to_Mt_Crested_Butte_sign.JPG",
+            "description": "Mt.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Mount Crested Butte, Colorado",
+                "wikipedia": "en:Mount Crested Butte, Colorado",
+                "tourism": "attraction"
+            }
+        }
+    ]
+}

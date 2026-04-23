@@ -1,0 +1,2961 @@
+{
+    "city_metadata": {
+        "city_name": "San Diego",
+        "state_code": "CA",
+        "state_full": "California",
+        "city_summary": "San Diego (  SAN dee-AY-goh; Spanish: [san ˈdjeɣo]) is a city on the Pacific coast of Southern California, adjacent to the Mexico–United States border. It is the eighth-most populous city in the U.S. and second-most populous city in California with a population of over 1.4 million, while the San Diego metropolitan area with over 3.3 million residents is the 18th-largest metropolitan area in the country. San Diego is the county seat of San Diego County.",
+        "city_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/La_Jolla_Shores_view_%28cropped%29.jpg/1280px-La_Jolla_Shores_view_%28cropped%29.jpg",
+        "city_lat": 32.715,
+        "city_lon": -117.1625,
+        "source": "wikipedia_verified_engine"
+    },
+    "attractions": [
+        {
+            "type": "node",
+            "id": 150964201,
+            "lat": 32.8398116,
+            "lon": -117.2446749,
+            "tags": {
+                "alt_name": "Mount Soledad Cross",
+                "ele": "244",
+                "gnis:feature_id": "1660587",
+                "internet_access": "wlan",
+                "man_made": "cross",
+                "name": "Easter Cross",
+                "tourism": "attraction",
+                "wikidata": "Q337916"
+            }
+        },
+        {
+            "type": "node",
+            "id": 358792401,
+            "lat": 32.8469962,
+            "lon": -117.2786563,
+            "tags": {
+                "ele": "7",
+                "gnis:feature_id": "249242",
+                "name": "Seal Rock",
+                "natural": "rock",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/LaJollaChildrensPoolByPhilKonstantin.jpg/1280px-LaJollaChildrensPoolByPhilKonstantin.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 368173981,
+            "lat": 32.8445548,
+            "lon": -117.277995,
+            "tags": {
+                "addr:city": "La Jolla",
+                "addr:housenumber": "700",
+                "addr:postcode": "92037-4291",
+                "addr:state": "CA",
+                "addr:street": "Prospect Street",
+                "check_date": "2026-04-12",
+                "check_date:opening_hours": "2026-04-12",
+                "ele": "26",
+                "fee": "yes",
+                "gnis:feature_id": "1702485",
+                "name": "Museum of Contemporary Art San Diego",
+                "opening_hours": "Mo-Sa 11:00-19:00; Su 11:00-17:00",
+                "phone": "+1-858-454-3541",
+                "sensory_friendly:accommodation": "quiet_area",
+                "source": "USGS Geonames",
+                "tourism": "museum",
+                "website": "https://www.mcasd.org/",
+                "wikidata": "Q3329587",
+                "wikipedia": "en:Museum of Contemporary Art San Diego"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Museum_Contemporary_Art_San_Diego_2024.jpg/1280px-Museum_Contemporary_Art_San_Diego_2024.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 368174501,
+            "lat": 32.7321695,
+            "lon": -117.1504503,
+            "tags": {
+                "addr:city": "San Diego",
+                "addr:housenumber": "1450",
+                "addr:state": "CA",
+                "addr:street": "El Prado",
+                "ele": "82",
+                "gnis:feature_id": "1869917",
+                "museum": "art",
+                "name": "San Diego Museum of Art",
+                "opening_hours": "Mo-Tu, Th-Sa 10:00-17:00; Su 12:00-17:00",
+                "phone": "+1-619-232-7931",
+                "source": "USGS Geonames",
+                "tourism": "museum",
+                "website": "https://www.sdmart.org/",
+                "wikidata": "Q1368166",
+                "wikipedia": "en:San Diego Museum of Art"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/San_Diego_Museum_of_Art_02.jpg/1280px-San_Diego_Museum_of_Art_02.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 368174504,
+            "lat": 32.7172469,
+            "lon": -117.1694057,
+            "tags": {
+                "addr:city": "San Diego",
+                "addr:housenumber": "1100",
+                "addr:postcode": "92101",
+                "addr:state": "CA",
+                "addr:street": "Kettner Boulevard",
+                "ele": "9",
+                "name": "Museum of Contemporary Art",
+                "opening_hours": "Th-Tu 11:00-17:00",
+                "phone": "+1-858-454-3541",
+                "tourism": "museum",
+                "website": "https://www.mcasd.org/",
+                "wikidata": "Q3329587"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/San_Diego_Train_Station.jpg/1280px-San_Diego_Train_Station.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 368174636,
+            "lat": 32.7212803,
+            "lon": -117.2296579,
+            "tags": {
+                "ele": "5",
+                "gnis:feature_id": "2456341",
+                "name": "Portuguese Historical Center",
+                "source": "USGS Geonames",
+                "tourism": "museum",
+                "website": "https://www.phcsandiego.com/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Motor_Torpedo_Boat_PT-658.jpg/1280px-Motor_Torpedo_Boat_PT-658.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 596520858,
+            "lat": 32.7081403,
+            "lon": -117.146076,
+            "tags": {
+                "addr:city": "San Diego",
+                "addr:country": "US",
+                "addr:housenumber": "1925",
+                "addr:postcode": "92102",
+                "addr:street": "K Street",
+                "name": "Villa Montezuma Museum",
+                "source": "SanGIS Addresses Public Domain (http://www.sangis.org/)",
+                "tourism": "museum",
+                "website": "https://www.villamontezumamuseum.org/_public_html/Home.html"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Villa_Montezuma_%28San_Diego%2C_CA%29.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 887632863,
+            "lat": 10.4300158,
+            "lon": -75.5465376,
+            "tags": {
+                "historic": "citywalls",
+                "name": "Las Bovedas",
+                "shop": "gift",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1128901304,
+            "lat": 33.0992876,
+            "lon": -116.9981814,
+            "tags": {
+                "alt_name": "Denny Sanford Elephant Valley",
+                "attraction": "animal",
+                "name": "Elephant Valley",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b7/San_Diego_Zoo_Safari_Park_roadside_sign_2014.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 1128901480,
+            "lat": 33.0982535,
+            "lon": -117.000362,
+            "tags": {
+                "attraction": "animal",
+                "name": "Gorilla",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b7/San_Diego_Zoo_Safari_Park_roadside_sign_2014.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 1128905570,
+            "lat": 33.1021502,
+            "lon": -116.995733,
+            "tags": {
+                "attraction": "animal",
+                "name": "California Condor",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b7/San_Diego_Zoo_Safari_Park_roadside_sign_2014.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 1342884038,
+            "lat": 10.4305952,
+            "lon": -75.5459291,
+            "tags": {
+                "contact:facebook": "fortificacioneacartagena",
+                "contact:instagram": "fortificacionesctg",
+                "contact:twitter": "fortificaciones",
+                "name": "Museo De Las Fortificaciones",
+                "tourism": "museum",
+                "website": "http://www fortificacionescartagena.com"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1346369199,
+            "lat": 32.7257982,
+            "lon": -117.1487934,
+            "tags": {
+                "name": "Veteran's Museum and Memorial Center",
+                "tourism": "museum",
+                "website": "https://veteranmuseum.net/",
+                "wikidata": "Q7923661",
+                "wikipedia": "en:Veterans Museum and Memorial Center"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Veterans_Museum_and_Memorial_Center_-_1.jpg/1280px-Veterans_Museum_and_Memorial_Center_-_1.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 1458212924,
+            "lat": 32.7311558,
+            "lon": -117.1487415,
+            "tags": {
+                "addr:city": "San Diego",
+                "addr:housenumber": "1649",
+                "addr:postcode": "92101",
+                "addr:state": "CA",
+                "addr:street": "El Prado",
+                "level": "-1",
+                "name": "San Diego Model Railroad Museum",
+                "opening_hours": "Tu-Fr 11:00-16:00; Sa-Su 11:00-17:00",
+                "phone": "+1-619-696-0199",
+                "tourism": "museum",
+                "website": "https://www.sdmrm.org/",
+                "wikidata": "Q7413693",
+                "wikipedia": "en:San Diego Model Railroad Museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Facade_of_San_Diego_Model_Railroad_Museum.jpg/1280px-Facade_of_San_Diego_Model_Railroad_Museum.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 1458213374,
+            "lat": 32.7311633,
+            "lon": -117.1488901,
+            "tags": {
+                "addr:city": "San Diego",
+                "addr:housenumber": "1649",
+                "addr:postcode": "92101",
+                "addr:state": "CA",
+                "addr:street": "El Prado",
+                "email": "info@mopa.org",
+                "name": "Museum of Photographic Arts",
+                "opening_hours": "Fr-Su 11:00-16:00",
+                "phone": "+1-619-238-7559",
+                "short_name": "MOPA",
+                "tourism": "museum",
+                "website": "https://mopa.org/",
+                "wikidata": "Q9046984",
+                "wikipedia": "en:Museum of Photographic Arts"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Museum_of_Photographic_Arts.jpg/1280px-Museum_of_Photographic_Arts.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 1713143030,
+            "lat": 32.7310117,
+            "lon": -117.1510312,
+            "tags": {
+                "addr:city": "San Diego",
+                "addr:housenumber": "1439",
+                "addr:postcode": "92101",
+                "addr:state": "CA",
+                "addr:street": "El Prado",
+                "fee": "no",
+                "museum": "art",
+                "name": "Mingei International Museum",
+                "opening_hours": "Tu-Th, Sa-Su 10:00-17:00; Fr 10:00-20:00",
+                "phone": "+1-619-239-0003",
+                "tourism": "museum",
+                "website": "https://www.mingei.org/",
+                "wikidata": "Q6864705",
+                "wikipedia": "en:Mingei International Museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Mingei_nternational_museum_2013-10-20_13-40.jpg/1280px-Mingei_nternational_museum_2013-10-20_13-40.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 1803431547,
+            "lat": 32.710666,
+            "lon": -117.165156,
+            "tags": {
+                "addr:city": "San Diego",
+                "addr:country": "US",
+                "addr:housenumber": "205",
+                "addr:postcode": "92101",
+                "addr:street": "West Island Avenue",
+                "fee": "yes",
+                "museum": "children",
+                "name": "The New Children's Museum",
+                "opening_hours": "Mo-Sa 09:30-16:00",
+                "opening_hours:covid19": "closed",
+                "phone": "+1 619 233 8792",
+                "source": "SanGIS Addresses Public Domain (http://www.sangis.org/)",
+                "tourism": "museum",
+                "website": "https://thinkplaycreate.org/",
+                "wikidata": "Q64166817"
+            }
+        },
+        {
+            "type": "node",
+            "id": 2707959679,
+            "lat": 32.7327201,
+            "lon": -117.147489,
+            "tags": {
+                "circumference": "12.3",
+                "denotation": "landmark",
+                "height": "24",
+                "leaf_cycle": "evergreen",
+                "leaf_type": "broadleaved",
+                "name": "Moreton Bay Fig Tree",
+                "natural": "tree",
+                "species": "Ficus macrophylla",
+                "species:wikidata": "Q1439079",
+                "species:wikipedia": "en:Ficus macrophylla",
+                "start_date": "1914",
+                "tourism": "attraction",
+                "wikidata": "Q27728107",
+                "wikipedia": "en:Moreton Bay Fig Tree (Balboa Park)"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/San_Diego%2C_2016_-_507.jpg/1280px-San_Diego%2C_2016_-_507.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 2797162631,
+            "lat": 32.7659313,
+            "lon": -117.2254621,
+            "tags": {
+                "amenity": "theatre",
+                "name": "Dolphin Adventures",
+                "tourism": "attraction",
+                "website": "https://seaworldparks.com/en/seaworld-sandiego/attractions/shows/blue-horizons/"
+            }
+        },
+        {
+            "type": "node",
+            "id": 2797162633,
+            "lat": 32.7668201,
+            "lon": -117.2265611,
+            "tags": {
+                "amenity": "theatre",
+                "name": "Flippers, Facts, and Fun",
+                "tourism": "attraction",
+                "website": "https://seaworldparks.com/en/seaworld-sandiego/attractions/shows/sea-lions-live/"
+            }
+        },
+        {
+            "type": "node",
+            "id": 2797191970,
+            "lat": 32.7645735,
+            "lon": -117.2265673,
+            "tags": {
+                "attraction": "animal",
+                "name": "Explorer's Reef",
+                "tourism": "attraction",
+                "website": "https://seaworldparks.com/en/seaworld-sandiego/attractions/exhibits/explorers-reef/"
+            }
+        },
+        {
+            "type": "node",
+            "id": 2797250110,
+            "lat": 32.7654216,
+            "lon": -117.226662,
+            "tags": {
+                "fee": "yes",
+                "man_made": "pole",
+                "name": "Skytower",
+                "tourism": "attraction",
+                "website": "https://seaworldparks.com/en/seaworld-sandiego/attractions/rides/skytower/"
+            }
+        },
+        {
+            "type": "node",
+            "id": 2797296014,
+            "lat": 32.7662511,
+            "lon": -117.226505,
+            "tags": {
+                "attraction": "animal",
+                "name": "Sea Lion Point",
+                "tourism": "attraction",
+                "website": "https://seaworldparks.com/en/seaworld-sandiego/attractions/exhibits/pacific-point/"
+            }
+        },
+        {
+            "type": "node",
+            "id": 2798069187,
+            "lat": 32.7670727,
+            "lon": -117.2291286,
+            "tags": {
+                "amenity": "theatre",
+                "name": "Cirque de Neon",
+                "opening_hours": "seasonal",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/MantaEntranceSanDiego.jpg/1280px-MantaEntranceSanDiego.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 2798086076,
+            "lat": 32.7655819,
+            "lon": -117.2292282,
+            "tags": {
+                "name": "Shipwreck Rapids",
+                "tourism": "attraction",
+                "website": "https://seaworldparks.com/en/seaworld-sandiego/attractions/rides/shipwreck-rapids/"
+            }
+        },
+        {
+            "type": "node",
+            "id": 2807913325,
+            "lat": 32.7662552,
+            "lon": -117.2291563,
+            "tags": {
+                "attraction": "animal",
+                "name": "California Tide Pool",
+                "tourism": "attraction",
+                "website": "https://seaworldparks.com/en/seaworld-sandiego/attractions/exhibits/california-tide-pool/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/MantaEntranceSanDiego.jpg/1280px-MantaEntranceSanDiego.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 2807917999,
+            "lat": 32.7653124,
+            "lon": -117.2274721,
+            "tags": {
+                "attraction": "animal",
+                "name": "Dolphin Point",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 2807918000,
+            "lat": 32.7652852,
+            "lon": -117.2271905,
+            "tags": {
+                "attraction": "animal",
+                "name": "Penguins",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 2934551225,
+            "lat": 10.4294279,
+            "lon": -75.5479868,
+            "tags": {
+                "defensive_works": "bastion",
+                "name": "Baluarte de Santa Clara",
+                "name:en": "Santa Clara Bastion",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Escudo_Unicartagena.png",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 2941359636,
+            "lat": 32.7667006,
+            "lon": -117.2292919,
+            "tags": {
+                "name": "Aquarium de la Mer",
+                "tourism": "attraction",
+                "website": "https://seaworldparks.com/en/seaworld-sandiego/attractions/exhibits/aquarium-de-la-mer/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/MantaEntranceSanDiego.jpg/1280px-MantaEntranceSanDiego.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 4238854905,
+            "lat": 32.7087869,
+            "lon": -117.1707089,
+            "tags": {
+                "addr:street": "Boardwalk",
+                "name": "Mistletoe",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/46/SeaportVillage.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 4284785772,
+            "lat": 32.7106897,
+            "lon": -117.1705108,
+            "tags": {
+                "name": "San Diego Police Museum",
+                "tourism": "museum",
+                "website": "http://www.sdpolicemuseum.com/THE-MUSEUM.html"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Old_Police_Headquarters_%28San_Diego%2C_California%29_09.jpg/1280px-Old_Police_Headquarters_%28San_Diego%2C_California%29_09.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 4485822291,
+            "lat": 32.7209898,
+            "lon": -117.1666637,
+            "tags": {
+                "name": "Little Italy",
+                "name:en": "Little Italy",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Little_Italy_Sign_in_San_Diego.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 4738387021,
+            "lat": 10.4257787,
+            "lon": -75.5484468,
+            "tags": {
+                "name": "Casa de Simón Bolívar",
+                "name:en": "Simon Bolivar House",
+                "name:es": "Casa de Simón Bolívar",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Escudo_Unicartagena.png",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 4777387244,
+            "lat": 32.7390989,
+            "lon": -117.2124828,
+            "tags": {
+                "addr:city": "San Diego",
+                "addr:housenumber": "2730",
+                "addr:postcode": "92106",
+                "addr:street": "Historic Decatur Road",
+                "name": "Women's Museum of California",
+                "tourism": "museum",
+                "website": "https://www.womensmuseumca.org/",
+                "wikidata": "Q27991556",
+                "wikipedia": "en:Women's Museum of California"
+            }
+        },
+        {
+            "type": "node",
+            "id": 4826892825,
+            "lat": 32.8497484,
+            "lon": -117.2700794,
+            "tags": {
+                "addr:street": "Cave Street",
+                "name": "Sunny Jim Cave",
+                "name:en": "Sunny Jim Cave",
+                "name:ja": "サニージムケイブ",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Coast_Walk%2C_La_Jolla%2C_California.jpg/1280px-Coast_Walk%2C_La_Jolla%2C_California.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 5773070175,
+            "lat": 10.4281145,
+            "lon": -75.5475833,
+            "tags": {
+                "name": "Plaza de San Diego",
+                "place": "square",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Escudo_Unicartagena.png",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 5890165685,
+            "lat": 32.7076082,
+            "lon": -117.160105,
+            "tags": {
+                "name": "Sign Welcome to Gaslamp Quarter",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Buel-Town_Building_1898.jpg/1280px-Buel-Town_Building_1898.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 6340758615,
+            "lat": 32.7774464,
+            "lon": -117.0721864,
+            "tags": {
+                "name": "Historical Archaeology and Maya Research (HAMR) Lab",
+                "tourism": "museum",
+                "website": "https://anthropology.sdsu.edu/research/labs"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/en/f/fe/HepnerHallHardyTower.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 6351453997,
+            "lat": 14.0494163,
+            "lon": 120.6234144,
+            "tags": {
+                "name": "EXACT Site",
+                "name:en": "EXACT Site",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 6561971845,
+            "lat": 33.0971249,
+            "lon": -116.9980328,
+            "tags": {
+                "name": "Balloon Safari",
+                "reservation": "no",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b7/San_Diego_Zoo_Safari_Park_roadside_sign_2014.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 6579135920,
+            "lat": 32.7311591,
+            "lon": -117.148272,
+            "tags": {
+                "addr:housenumber": "1649",
+                "addr:street": "El Prado",
+                "addr:unit": "3",
+                "name": "San Diego History Center",
+                "name:en": "San Diego History Center",
+                "opening_hours": "Mo-Su 10:00-17:00",
+                "tourism": "museum",
+                "website": "https://sandiegohistory.org",
+                "wheelchair": "yes",
+                "wikidata": "Q27704794",
+                "wikipedia": "en:San Diego History Center"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/San_Diego_History_Center_entrance.jpg/1280px-San_Diego_History_Center_entrance.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 6653698524,
+            "lat": 32.9288549,
+            "lon": -117.2346099,
+            "tags": {
+                "name": "Martian Mountains",
+                "natural": "rock",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 6654042485,
+            "lat": 32.7105895,
+            "lon": -117.170109,
+            "tags": {
+                "addr:city": "San Diego",
+                "addr:housenumber": "789",
+                "addr:postcode": "92101",
+                "addr:state": "CA",
+                "addr:street": "West Harbor Drive",
+                "name": "San Diego Police Department Exhibit & Jail Cells",
+                "opening_hours": "Mo-Sa 10:00-21:00, Su 10:00-20:00",
+                "tourism": "museum",
+                "website": "https://theheadquarters.com/police-jail-cells"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Old_Police_Headquarters_%28San_Diego%2C_California%29_09.jpg/1280px-Old_Police_Headquarters_%28San_Diego%2C_California%29_09.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 6801459648,
+            "lat": 32.759301,
+            "lon": -117.170947,
+            "tags": {
+                "name": "Legacy International",
+                "tourism": "museum",
+                "website": "https://legacysandiego.com/"
+            }
+        },
+        {
+            "type": "node",
+            "id": 8873186326,
+            "lat": 32.7640445,
+            "lon": -117.2222303,
+            "tags": {
+                "attraction": "roller_coaster",
+                "name": "Emperor",
+                "tourism": "attraction",
+                "website": "https://seaworld.com/san-diego/rides/emperor/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Emperor_%28SeaWorld_San_Diego%29_1.jpg/1280px-Emperor_%28SeaWorld_San_Diego%29_1.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 8893487077,
+            "lat": 33.1009412,
+            "lon": -116.9967514,
+            "tags": {
+                "animal": "Tiger",
+                "attraction": "animal",
+                "name": "Tiger",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b7/San_Diego_Zoo_Safari_Park_roadside_sign_2014.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 9287204417,
+            "lat": 32.8484114,
+            "lon": -117.2675863,
+            "tags": {
+                "name": "La Jolla Swing - Coastal Walk Trail",
+                "note": "Entrance to swing should be, before white bridge behind the sign that says \"Danger Bluff Collapse\". Tips: The darker the dirt the more slippery, also make sure to inspect swing quality before swinging USE AT YOUR OWN RISK!!!",
+                "playground": "swing",
+                "tourism": "attraction",
+                "wheelchair": "no"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Postcard_Green_Dragon_Cottage_1911_La_Jolla.jpg/1280px-Postcard_Green_Dragon_Cottage_1911_La_Jolla.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 9538810733,
+            "lat": 32.7288294,
+            "lon": -117.1522209,
+            "tags": {
+                "name": "House of Colombia",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/House_of_Pacific_Relations_-_Int%27l_Cottages_2.JPG/1280px-House_of_Pacific_Relations_-_Int%27l_Cottages_2.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 9607389522,
+            "lat": 32.7105646,
+            "lon": -117.160651,
+            "tags": {
+                "addr:city": "San Diego",
+                "addr:housenumber": "410",
+                "addr:postcode": "92101",
+                "addr:state": "CA",
+                "addr:street": "Island Avenue",
+                "museum": "history",
+                "name": "Gaslamp Museum at the Davis-Horton House",
+                "phone": "+1-619-233-4692",
+                "tourism": "museum",
+                "website": "https://gaslampfoundation.org/",
+                "wikidata": "Q64166202"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/05/SD_Chinese_Historical_Museum.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 9793672435,
+            "lat": 32.7382032,
+            "lon": -117.213409,
+            "tags": {
+                "name": "New Americans Museum",
+                "tourism": "museum",
+                "website": "http://www.newamericansmuseum.org/"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9793672436,
+            "lat": 32.7380775,
+            "lon": -117.213214,
+            "tags": {
+                "museum": "art",
+                "name": "Visions Art Museum",
+                "tourism": "museum",
+                "website": "https://vmota.org/"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10684041385,
+            "lat": 32.7294416,
+            "lon": -117.151524,
+            "tags": {
+                "name": "House of Panama",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/House_of_Pacific_Relations_-_Int%27l_Cottages_2.JPG/1280px-House_of_Pacific_Relations_-_Int%27l_Cottages_2.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 10684041386,
+            "lat": 32.7294252,
+            "lon": -117.1514452,
+            "tags": {
+                "name": "House of Mexico",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/House_of_Pacific_Relations_-_Int%27l_Cottages_2.JPG/1280px-House_of_Pacific_Relations_-_Int%27l_Cottages_2.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 10684041394,
+            "lat": 32.7288112,
+            "lon": -117.1530149,
+            "tags": {
+                "name": "House of Korea",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/House_of_Pacific_Relations_-_Int%27l_Cottages_2.JPG/1280px-House_of_Pacific_Relations_-_Int%27l_Cottages_2.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 10684041395,
+            "lat": 32.7287658,
+            "lon": -117.1530715,
+            "tags": {
+                "name": "House of India",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/House_of_Pacific_Relations_-_Int%27l_Cottages_2.JPG/1280px-House_of_Pacific_Relations_-_Int%27l_Cottages_2.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 10684041396,
+            "lat": 32.7286906,
+            "lon": -117.153083,
+            "tags": {
+                "name": "House of Peru",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/House_of_Pacific_Relations_-_Int%27l_Cottages_2.JPG/1280px-House_of_Pacific_Relations_-_Int%27l_Cottages_2.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 10684041397,
+            "lat": 32.7286556,
+            "lon": -117.153037,
+            "tags": {
+                "name": "House of Chamorros",
+                "tourism": "attraction",
+                "website": "https://houseofchamorros.org"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/House_of_Pacific_Relations_-_Int%27l_Cottages_2.JPG/1280px-House_of_Pacific_Relations_-_Int%27l_Cottages_2.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 10684041398,
+            "lat": 32.7286608,
+            "lon": -117.1529246,
+            "tags": {
+                "name": "House of Palestine",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/House_of_Pacific_Relations_-_Int%27l_Cottages_2.JPG/1280px-House_of_Pacific_Relations_-_Int%27l_Cottages_2.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 10684041399,
+            "lat": 32.7287271,
+            "lon": -117.1528583,
+            "tags": {
+                "name": "House of Turkey",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/House_of_Pacific_Relations_-_Int%27l_Cottages_2.JPG/1280px-House_of_Pacific_Relations_-_Int%27l_Cottages_2.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 10684064305,
+            "lat": 32.7288794,
+            "lon": -117.1522097,
+            "tags": {
+                "name": "House of France",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/House_of_Pacific_Relations_-_Int%27l_Cottages_2.JPG/1280px-House_of_Pacific_Relations_-_Int%27l_Cottages_2.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 11048431822,
+            "lat": 32.7291638,
+            "lon": -117.1498145,
+            "tags": {
+                "name": "Deborah Szekely Activity Center",
+                "operator": "Japanese Friendship Garden",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Japanese_Friendship_Garden.jpg/1280px-Japanese_Friendship_Garden.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 11170882537,
+            "lat": 32.708991,
+            "lon": -117.087746,
+            "tags": {
+                "addr:postcode": "92114",
+                "email": "info@womensmuseumca.org",
+                "name": "Women's Museum of California Education Center",
+                "opening_hours": "Sa 11:00-16:00",
+                "phone": "+1-619-939-5234",
+                "tourism": "museum",
+                "website": "https://www.womensmuseumca.org/educationcenter"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Euclid_Trolley_Station.jpg/1280px-Euclid_Trolley_Station.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 11926135844,
+            "lat": 33.1015843,
+            "lon": -116.9972073,
+            "tags": {
+                "animal": "Tiger",
+                "attraction": "animal",
+                "name": "Platypus",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b7/San_Diego_Zoo_Safari_Park_roadside_sign_2014.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 12092410908,
+            "lat": 32.7538707,
+            "lon": -117.1969772,
+            "tags": {
+                "check_date": "2024-08-04",
+                "description": "Spinning & weaving",
+                "name": "Threads of the Past",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/en/b/ba/Franklin_House-_Exchange_Hotel_San_Diego%2C_California.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 12191571099,
+            "lat": 33.0969374,
+            "lon": -116.9994735,
+            "tags": {
+                "name": "Mawazo Woods Discovery Area",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b7/San_Diego_Zoo_Safari_Park_roadside_sign_2014.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 12199703601,
+            "lat": 32.7638826,
+            "lon": -117.2238228,
+            "tags": {
+                "name": "Journey to Atlantis",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Electric_Eel_1.jpg/1280px-Electric_Eel_1.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 12199710402,
+            "lat": 32.765952,
+            "lon": -117.2275292,
+            "tags": {
+                "name": "Manta - Entrance",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 12770357520,
+            "lat": 32.9236159,
+            "lon": -117.1860143,
+            "tags": {
+                "name": "Sycamore crossing",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 13465428554,
+            "lat": 32.7294524,
+            "lon": -117.1516978,
+            "tags": {
+                "name": "House of Italy",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/House_of_Pacific_Relations_-_Int%27l_Cottages_2.JPG/1280px-House_of_Pacific_Relations_-_Int%27l_Cottages_2.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 13577371071,
+            "lat": 32.7234545,
+            "lon": -117.1683669,
+            "tags": {
+                "name": "Little Italy Sign",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/3a/EastVillageSanDiego.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 13587420832,
+            "lat": 32.7368456,
+            "lon": -117.1512014,
+            "tags": {
+                "name": "Animals in Action",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/San_Diego%2C_2016_-_514.jpg/1280px-San_Diego%2C_2016_-_514.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 13587438322,
+            "lat": 32.7345632,
+            "lon": -117.1527831,
+            "tags": {
+                "name": "Panda Ridge Portal",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Old_Globe_Theatre%2C_San_Diego.jpg/1280px-Old_Globe_Theatre%2C_San_Diego.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 13706219558,
+            "lat": 32.700158,
+            "lon": -117.1440597,
+            "tags": {
+                "addr:housenumber": "1950",
+                "addr:street": "National Avenue",
+                "check_date": "2026-04-04",
+                "name": "Chicano Park Museum and Cultural Center",
+                "opening_hours": "Mo-We off; Th-Su 11:00-17:00",
+                "tourism": "museum",
+                "wheelchair": "yes"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/66/Chicano_Park_Kiosk.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 24251993,
+            "lat": 4.6120661,
+            "lon": -74.0688228,
+            "tags": {
+                "addr:city": "Bogotá",
+                "addr:country": "CO",
+                "addr:full": "Calle 26 B No.5 – 93",
+                "addr:housenumber": "5-93",
+                "addr:street": "Calle 26B",
+                "amenity": "planetarium",
+                "building": "yes",
+                "building:material": "concrete",
+                "changing_table": "yes",
+                "description": "El Planetario de Bogotá fue una idea materializada por el alcalde de Bogotá Virgilio Barco Vargas con el apoyo de la Federación de Cafeteros y el Banco Cafetero con Jorge Cárdenas Gutierrez.",
+                "height": "10",
+                "museum": "science",
+                "name": "Planetario de Bogotá",
+                "name:etymology:wikidata": "Q6077641",
+                "opening_hours": "Tu-Su 10:00-17:00",
+                "operator": "Instituto Distrital de las Artes",
+                "roof:colour": "grey",
+                "roof:shape": "flat",
+                "toilets": "yes",
+                "tourism": "museum",
+                "website": "https://www.planetariodebogota.gov.co/",
+                "wikidata": "Q6077641",
+                "wikimedia_commons": "Category:Planetarium of Bogotá",
+                "wikipedia": "es:Planetario de Bogotá"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/73/Planetario_de_Bogot%C3%A1_logo.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 25447605,
+            "lat": 10.4264759,
+            "lon": -75.5482694,
+            "tags": {
+                "name": "Parque Fernández de Madrid",
+                "place": "square",
+                "source": "bing",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Escudo_Unicartagena.png",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 25965018,
+            "lat": 32.7137403,
+            "lon": -117.1752259,
+            "tags": {
+                "addr:city": "San Diego",
+                "addr:housenumber": "910",
+                "addr:postcode": "92101",
+                "addr:state": "CA",
+                "addr:street": "North Harbor Drive",
+                "air_conditioning": "yes",
+                "alt_name": "USS Midway",
+                "building": "yes",
+                "building:colour": "848482",
+                "building:levels": "16",
+                "building:material": "metal",
+                "description": "The USS Midway was the longest-serving aircraft carrier in the 20th century. Named after the climactic Battle of Midway of June 1942, Midway was built in only 17 months, but missed World War II by one week when commissioned on September 10, 1945. Midway w",
+                "exhibit": "ship",
+                "fax": "+1-619-544-9188",
+                "fee": "yes",
+                "floating": "yes",
+                "height": "18",
+                "historic": "ship",
+                "museum": "military",
+                "name": "USS Midway Museum",
+                "name:zh": "中途岛航空母舰博物馆",
+                "opening_hours": "Mo-Su 10:00-17:00",
+                "outdoor": "yes",
+                "phone": "+1-619-544-9600",
+                "ref": "CV-41",
+                "roof:colour": "9C9C9B",
+                "roof:shape": "flat",
+                "ship:type": "aircraft_carrier",
+                "start_date": "1945",
+                "tourism": "museum",
+                "website": "https://www.midway.org",
+                "wheelchair": "limited",
+                "wikidata": "Q907779",
+                "wikipedia": "en:USS Midway Museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/USS_Midway_Museum.jpg/1280px-USS_Midway_Museum.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 28824905,
+            "lat": 32.7308234,
+            "lon": -117.1470715,
+            "tags": {
+                "alt_name": "The Fleet",
+                "building": "yes",
+                "fee": "yes",
+                "name": "Reuben H. Fleet Science Center",
+                "note": "Floorplan: http://www.rhfleet.org/visit/groups-private-events",
+                "tourism": "museum",
+                "website": "https://www.rhfleet.org/",
+                "wikidata": "Q3428321",
+                "wikipedia": "en:Fleet Science Center"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/San_Diego_Reuben_H._Fleet_Science_Center_03.jpg/1280px-San_Diego_Reuben_H._Fleet_Science_Center_03.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 28824920,
+            "lat": 32.727276,
+            "lon": -117.1524062,
+            "tags": {
+                "addr:city": "San Diego",
+                "addr:housenumber": "2131",
+                "addr:postcode": "92101",
+                "addr:state": "CA",
+                "addr:street": "Pan American Plaza",
+                "air_conditioning": "yes",
+                "building": "yes",
+                "fee": "yes",
+                "name": "Comic-Con Museum",
+                "opening_hours:covid19": "closed",
+                "tourism": "museum",
+                "website": "https://www.balboapark.org/museums/comic-con-museum",
+                "wikidata": "Q65665941",
+                "wikipedia": "en:Comic-Con Museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Comic-Con_Museum_2024_12.jpg/1280px-Comic-Con_Museum_2024_12.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 30407390,
+            "lat": 32.7217091,
+            "lon": -117.1676679,
+            "tags": {
+                "addr:housenumber": "1572",
+                "addr:postcode": "92101",
+                "addr:street": "Columbia Street",
+                "building": "yes",
+                "ele": "15",
+                "email": "sdfirehousemuseum@gmail.com",
+                "gnis:feature_id": "1869944",
+                "name": "Firehouse Museum",
+                "opening_hours": "Th,Fr 10:00-14:00; Sa,Su 10:00-16:00",
+                "phone": "+1 619 232 3473",
+                "source": "USGS Geonames;SanGIS Addresses Public Domain (http://www.sangis.org/)",
+                "tourism": "museum",
+                "website": "http://www.sandiegofirehousemuseum.com/",
+                "wikidata": "Q64167289"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Amici_Park.jpg/1280px-Amici_Park.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 30929677,
+            "lat": 32.7063538,
+            "lon": -117.1618222,
+            "tags": {
+                "addr:city": "San Diego",
+                "addr:housenumber": "111",
+                "addr:postcode": "92101",
+                "addr:state": "CA",
+                "addr:street": "West Harbor Drive",
+                "amenity": "conference_centre",
+                "building": "yes",
+                "building:colour": "white",
+                "building:levels": "3",
+                "ele": "4",
+                "gnis:feature_id": "1869967",
+                "layer": "1",
+                "name": "San Diego Convention Center",
+                "name:zh": "AACC会展中心",
+                "source": "USGS Geonames",
+                "tourism": "attraction",
+                "wikidata": "Q2236617"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Downtown_San_Diego_021.jpg/1280px-Downtown_San_Diego_021.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 31240330,
+            "lat": 32.7318452,
+            "lon": -117.1496304,
+            "tags": {
+                "addr:city": "San Diego",
+                "addr:housenumber": "1500",
+                "addr:postcode": "92101",
+                "addr:state": "CA",
+                "addr:street": "El Prado",
+                "building": "yes",
+                "fee": "no",
+                "height": "10.5",
+                "height:source": "estimated",
+                "museum": "art",
+                "name": "Timken Museum of Art",
+                "opening_hours": "We-Su 10:00-17:00",
+                "phone": "+1-619-239-5548",
+                "tourism": "museum",
+                "website": "https://www.timkenmuseum.org/",
+                "wheelchair": "yes",
+                "wikidata": "Q585462",
+                "wikipedia": "en:Timken Museum of Art"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Timken_Museum_of_Art%2C_San_Diego_01.jpg/1280px-Timken_Museum_of_Art%2C_San_Diego_01.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 31240535,
+            "lat": 32.726241,
+            "lon": -117.1544102,
+            "tags": {
+                "addr:city": "San Diego",
+                "addr:housenumber": "2001",
+                "addr:postcode": "92101",
+                "addr:state": "CA",
+                "addr:street": "Pan American Plaza",
+                "air_conditioning": "yes",
+                "building": "yes",
+                "ele": "69",
+                "fee": "yes",
+                "gnis:feature_id": "1869915",
+                "museum": "aerospace",
+                "name": "San Diego Air & Space Museum",
+                "phone": "+1-619-234-8291",
+                "source": "USGS Geonames",
+                "tourism": "museum",
+                "website": "https://www.sandiegoairandspace.org",
+                "wikidata": "Q3308955",
+                "wikipedia": "en:San Diego Air & Space Museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/San_Diego_Air_%26_Space_Museum_entrance_2009.jpg/1280px-San_Diego_Air_%26_Space_Museum_entrance_2009.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 31274621,
+            "lat": 32.7359727,
+            "lon": -117.1507094,
+            "tags": {
+                "addr:city": "San Diego",
+                "addr:housenumber": "2920",
+                "addr:postcode": "92101",
+                "addr:state": "CA",
+                "addr:street": "Zoo Drive",
+                "fee": "yes",
+                "name": "San Diego Zoo",
+                "opening_hours": "Mo-Su 09:00-21:00",
+                "phone": "+1 619 231 1515",
+                "tourism": "zoo",
+                "website": "https://www.sandiegozoo.org/",
+                "wheelchair": "yes",
+                "wikidata": "Q818395",
+                "wikipedia": "en:San Diego Zoo"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/San_Diego%2C_2016_-_514.jpg/1280px-San_Diego%2C_2016_-_514.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 31284612,
+            "lat": 32.7708985,
+            "lon": -117.2520295,
+            "tags": {
+                "addr:city": "San Diego",
+                "addr:housenumber": "3146",
+                "addr:postcode": "92109",
+                "addr:state": "CA",
+                "addr:street": "Mission Boulevard",
+                "name": "Belmont Park",
+                "opening_hours:url": "https://www.belmontpark.com/hours/",
+                "tourism": "theme_park",
+                "website": "https://www.belmontpark.com/",
+                "wikidata": "Q44041",
+                "wikipedia": "en:Belmont Park (San Diego)"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Belmont_Park_with_Giant_Dipper.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 31554299,
+            "lat": 32.5439707,
+            "lon": -117.0413746,
+            "tags": {
+                "landuse": "retail",
+                "name": "Las Americas Premium Outlets",
+                "source": "survey;bing_imagery",
+                "source_ref": "The Temecula Mapper",
+                "tourism": "attraction",
+                "wikidata": "Q18153435"
+            }
+        },
+        {
+            "type": "way",
+            "id": 31841162,
+            "lat": 32.7095405,
+            "lon": -117.1622005,
+            "tags": {
+                "addr:city": "San Diego",
+                "addr:housenumber": "404",
+                "addr:postcode": "92101",
+                "addr:state": "CA",
+                "addr:street": "Third Avenue",
+                "building": "yes",
+                "building_type": "office",
+                "name": "San Diego Chinese Historical Museum",
+                "opening_hours": "Fr-Su 12:00-16:00",
+                "phone": "+1-619-338-9888",
+                "sangis:OBJECTID": "14519",
+                "sangis:TYPE": "Office",
+                "source": "SanGIS Footprints_Nonresidential_SD public domain (http://www.sangis.org/)",
+                "tourism": "museum",
+                "website": "https://sdchm.org/",
+                "wikidata": "Q64167130"
+            }
+        },
+        {
+            "type": "way",
+            "id": 31842235,
+            "lat": 32.7511031,
+            "lon": -117.1929917,
+            "tags": {
+                "building": "yes",
+                "building_type": "commercial",
+                "name": "Sheriff's Museum",
+                "sangis:OBJECTID": "11444",
+                "sangis:TYPE": "Commercial",
+                "source": "SanGIS Footprints_Nonresidential_SD public domain (http://www.sangis.org/)",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Adobe_Chapel.jpg/1280px-Adobe_Chapel.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 31843367,
+            "lat": 32.7515576,
+            "lon": -117.1952191,
+            "tags": {
+                "addr:city": "San Diego",
+                "addr:housenumber": "2471",
+                "addr:postcode": "92110",
+                "addr:state": "CA",
+                "addr:street": "Congress Street",
+                "building": "yes",
+                "check_date:opening_hours": "2024-08-16",
+                "name": "African Museum Casa del Rey Moro",
+                "opening_hours": "Th-Sa 12:00-19:00; Su 12:00-16:00",
+                "sangis:OBJECTID": "11831",
+                "sangis:TYPE": "Commercial",
+                "source": "SanGIS Footprints_Nonresidential_SD public domain (http://www.sangis.org/)",
+                "tourism": "museum",
+                "website": "http://www.africanmuseumsandiego.com/index.html"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Adobe_Chapel.jpg/1280px-Adobe_Chapel.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 32502505,
+            "lat": 32.7105926,
+            "lon": -117.1606508,
+            "tags": {
+                "addr:housenumber": "410",
+                "addr:postcode": "92101",
+                "addr:street": "Island Avenue",
+                "building": "yes",
+                "building:levels": "2",
+                "name": "Gaslamp Museum at the Davis-Horton House",
+                "tourism": "museum",
+                "website": "https://www.gaslampmuseum.org/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/05/SD_Chinese_Historical_Museum.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 44501180,
+            "lat": 33.098127,
+            "lon": -116.9944281,
+            "tags": {
+                "Tiger:MTFCC": "K2564",
+                "addr:city": "Escondido",
+                "addr:housenumber": "15500",
+                "addr:street": "San Pasqual Valley Road",
+                "drive_through": "yes",
+                "name": "San Diego Zoo Safari Park",
+                "old_name": "San DIego Wild Animal Park",
+                "source": "Tiger2009",
+                "tiger:ALAND": "2069599",
+                "tiger:AREAID": "110686317211",
+                "tiger:AWATER": "0",
+                "tiger:COUNTYFP": "073",
+                "tiger:STATEFP": "06",
+                "tourism": "zoo",
+                "website": "https://www.sdzsafaripark.org/",
+                "wikidata": "Q1368242",
+                "wikipedia": "en:San Diego Zoo Safari Park",
+                "zoo": "safari_park"
+            }
+        },
+        {
+            "type": "way",
+            "id": 60194724,
+            "lat": 32.7274854,
+            "lon": -117.1539073,
+            "tags": {
+                "addr:city": "San Diego",
+                "addr:housenumber": "2080",
+                "addr:postcode": "92101",
+                "addr:state": "CA",
+                "addr:street": "Pan American Plaza",
+                "building": "yes",
+                "ele": "72",
+                "fee": "yes",
+                "gnis:feature_id": "2084630",
+                "museum": "automotive",
+                "name": "San Diego Automotive Museum",
+                "source": "USGS Geonames",
+                "tourism": "museum",
+                "website": "https://www.sdautomuseum.org/",
+                "wikidata": "Q7413596",
+                "wikipedia": "en:San Diego Automotive Museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/San_Diego_Automotive_Museum_-_Entrance_%28May_2022%29.jpg/1280px-San_Diego_Automotive_Museum_-_Entrance_%28May_2022%29.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 60194728,
+            "lat": 32.7272089,
+            "lon": -117.1495749,
+            "tags": {
+                "addr:city": "San Diego",
+                "addr:housenumber": "2100",
+                "addr:postcode": "92101",
+                "addr:state": "CA",
+                "addr:street": "Park Boulevard",
+                "building": "yes",
+                "museum": "cultural",
+                "name": "WorldBeat Cultural Center",
+                "phone": "+1 619-230-1190",
+                "tourism": "museum",
+                "website": "https://www.worldbeatcenter.org"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Veterans_Museum_and_Memorial_Center_-_1.jpg/1280px-Veterans_Museum_and_Memorial_Center_-_1.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 60194854,
+            "lat": 32.727723,
+            "lon": -117.148656,
+            "tags": {
+                "addr:city": "San Diego",
+                "addr:housenumber": "2004",
+                "addr:postcode": "92101",
+                "addr:state": "CA",
+                "addr:street": "Park Boulevard",
+                "building": "yes",
+                "ele": "78",
+                "gnis:feature_id": "1869888",
+                "museum": "cultural",
+                "name": "Centro Cultural de la Raza",
+                "phone": "+1-619-559-6389",
+                "source": "USGS Geonames",
+                "tourism": "museum",
+                "website": "https://centrodelaraza.com",
+                "wikidata": "Q5062815",
+                "wikipedia": "en:Centro Cultural de la Raza"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Veterans_Museum_and_Memorial_Center_-_1.jpg/1280px-Veterans_Museum_and_Memorial_Center_-_1.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 63525986,
+            "lat": 10.4272918,
+            "lon": -75.5494101,
+            "tags": {
+                "area": "yes",
+                "barrier": "city_wall",
+                "height": "4",
+                "highway": "pedestrian",
+                "historic": "citywalls",
+                "name": "Las Murallas de Cartagena",
+                "name:en": "Cartagena City Walls",
+                "tourism": "attraction",
+                "two_sided": "yes"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Escudo_Unicartagena.png",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 67487417,
+            "lat": 32.6734007,
+            "lon": -117.2417711,
+            "tags": {
+                "building": "yes",
+                "description": "During World War II, radio operations were moved to the harbor defense command post and the building became the meteorological station for the coast artillery",
+                "heritage": "2",
+                "heritage:operator": "nrhp",
+                "heritage:website": "https://www.nps.gov/subjects/nationalregister/index.htm",
+                "historic": "military",
+                "name": "The Coast Defenses of Point Loma",
+                "note": "03HS2",
+                "nrhp:criteria": "(A), (C)",
+                "nrhp:inscription_date": "196610-16",
+                "old_name": "Radio Station",
+                "opening_hours": "\"Closed until further notice due to COVID\"",
+                "protection_title": "Cabrillo National Monument",
+                "ref:nrhp": "66000224",
+                "source_ref": "https://catalog.archives.gov/id/123860829",
+                "start_date": "1918",
+                "tourism": "attraction",
+                "wheelchair": "limited"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Cabrillo_National_Monument_and_Lighthouse.jpg/1280px-Cabrillo_National_Monument_and_Lighthouse.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 79135710,
+            "lat": 32.7345799,
+            "lon": -117.1466628,
+            "tags": {
+                "attraction": "carousel",
+                "building": "yes",
+                "name": "Balboa Park Carousel",
+                "opening_hours": "Su-Sa 11:00-17:30",
+                "operator": "Friends of Balboa Park",
+                "tourism": "attraction",
+                "website": "http://www.balboaparkcarousel.org/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/San_Diego%2C_2016_-_514.jpg/1280px-San_Diego%2C_2016_-_514.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 79288741,
+            "lat": 32.7320549,
+            "lon": -117.1473636,
+            "tags": {
+                "addr:state": "CA",
+                "building": "yes",
+                "changing_table": "yes",
+                "changing_table:location": "male_toilet;female_toilet",
+                "ele": "89",
+                "gnis:feature_id": "1869905",
+                "museum": "nature",
+                "name": "San Diego Natural History Museum",
+                "opening_hours": "Mo-Su 09:00-17:00; May 30-Aug 30 Th-Fr 09:00-22:00",
+                "source": "USGS Geonames",
+                "toilets": "yes",
+                "toilets:access": "customers",
+                "tourism": "museum",
+                "website": "https://www.sdnhm.org",
+                "wheelchair": "yes",
+                "wikidata": "Q4891895",
+                "wikipedia": "en:San Diego Natural History Museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/San_Diego_Natural_History_Museum_exterior.jpg/1280px-San_Diego_Natural_History_Museum_exterior.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 111267390,
+            "lat": 32.7535255,
+            "lon": -117.1977408,
+            "tags": {
+                "addr:postcode": "92110",
+                "addr:street": "Congress Street",
+                "building": "yes",
+                "building:levels": "1",
+                "description": "An Historic Adobe home museum first established in 1835. Now part of Old Town San Diego State Historic Park",
+                "name": "La Casa de Machado y Stewart",
+                "tourism": "museum",
+                "website": "https://www.parks.ca.gov/?page_id=26884"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Casa_de_Machado_y_Silvas.jpg/1280px-Casa_de_Machado_y_Silvas.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 119717461,
+            "lat": 10.4310532,
+            "lon": -75.5460481,
+            "tags": {
+                "area": "yes",
+                "barrier": "city_wall",
+                "height": "1 m",
+                "historic": "citywalls",
+                "layer": "2",
+                "name": "Espigon de La Tenaza",
+                "tourism": "attraction",
+                "two_sided": "yes"
+            }
+        },
+        {
+            "type": "way",
+            "id": 132957479,
+            "lat": 32.73375,
+            "lon": -117.147588,
+            "tags": {
+                "amenity": "arts_centre",
+                "name": "Spanish Village Art Center",
+                "source": "Bing;SanGIS Addresses Public Domain (http://www.sangis.org/)",
+                "tourism": "attraction",
+                "wikidata": "Q28403888",
+                "wikipedia": "en:Spanish Village Art Center"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/San_Diego%2C_2016_-_514.jpg/1280px-San_Diego%2C_2016_-_514.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 133174688,
+            "lat": 32.8491684,
+            "lon": -117.2701812,
+            "tags": {
+                "addr:city": "La Jolla",
+                "addr:housenumber": "1325",
+                "addr:postcode": "92037",
+                "addr:state": "CA",
+                "addr:street": "Coast Boulevard",
+                "building": "yes",
+                "name": "The Cave Store",
+                "source": "Bing",
+                "tourism": "attraction",
+                "website": "https://www.cavestore.com/",
+                "wheelchair": "no"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Sunny_Jim_Cave_in_La_Jolla_-_1.jpg/1280px-Sunny_Jim_Cave_in_La_Jolla_-_1.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 148910128,
+            "lat": 32.7347394,
+            "lon": -117.1481239,
+            "tags": {
+                "building": "yes",
+                "name": "Balboa Park Miniature Railroad Station",
+                "railway": "station",
+                "tourism": "attraction",
+                "train": "yes"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/San_Diego%2C_2016_-_514.jpg/1280px-San_Diego%2C_2016_-_514.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 170659470,
+            "lat": 32.7202715,
+            "lon": -117.1735604,
+            "tags": {
+                "addr:city": "San Diego",
+                "addr:housenumber": "1492",
+                "addr:postcode": "92101",
+                "addr:state": "CA",
+                "addr:street": "North Harbor Drive",
+                "building": "ship",
+                "historic": "ship",
+                "name": "Star of India",
+                "opening_hours": "Mo-Su 10:00-16:00",
+                "phone": "+1-619-234-9153",
+                "ref:nrhp": "66000223",
+                "ship:type": "sailship",
+                "start_date": "1863",
+                "tourism": "attraction",
+                "website": "https://sdmaritime.org/visit/the-ships/star-of-india/",
+                "wikidata": "Q1581178",
+                "wikipedia": "en:Star of India (ship)"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Starofindia.jpg/1280px-Starofindia.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 170659472,
+            "lat": 32.7207437,
+            "lon": -117.1737723,
+            "tags": {
+                "building": "ship",
+                "historic": "ship",
+                "name": "HMS Surprise",
+                "ship:type": "frigate",
+                "start_date": "1970",
+                "tourism": "attraction",
+                "wikidata": "Q3125114",
+                "wikipedia": "en:HMS Surprise (replica ship)"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b4/HMS-Surprise-overall.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 170659473,
+            "lat": 32.7209488,
+            "lon": -117.1740001,
+            "tags": {
+                "building": "ship",
+                "historic": "ship",
+                "name": "Berkeley",
+                "ref:nrhp": "90002220",
+                "ship:type": "ferry",
+                "start_date": "1898",
+                "tourism": "attraction",
+                "wikidata": "Q2897187",
+                "wikipedia": "en:Berkeley (ferryboat)"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Berkeley_Ferry_and_U.S.S._Dolphin_at_the_Maritime_Museum_of_San_Diego.jpg/1280px-Berkeley_Ferry_and_U.S.S._Dolphin_at_the_Maritime_Museum_of_San_Diego.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 174506309,
+            "lat": 32.7427301,
+            "lon": -117.1945373,
+            "tags": {
+                "addr:city": "San Diego",
+                "addr:housenumber": "1600",
+                "addr:postcode": "92140",
+                "addr:state": "CA",
+                "addr:street": "Henderson Ave",
+                "architect": "Bertram Goodhue",
+                "building": "yes",
+                "description": "Orginally a barracks and mess hall",
+                "heritage": "2",
+                "heritage:operator": "nrhp",
+                "heritage:website": "https://www.nps.gov/subjects/nationalregister/index.htm",
+                "historic": "military",
+                "name": "MCRD San Diego Command Museum",
+                "nrhp:criteria": "(A), (C)",
+                "nrhp:inscription_date": "1991-01-31",
+                "protection_title": "U.S. Marine Corps",
+                "ref:nrhp": "90001477",
+                "source_ref": "https://catalog.archives.gov/id/123860917",
+                "start_date": "1939",
+                "tourism": "museum"
+            }
+        },
+        {
+            "type": "way",
+            "id": 230949215,
+            "lat": 32.7652148,
+            "lon": -117.2227216,
+            "tags": {
+                "building": "yes",
+                "name": "Wild Arctic Exhibit & Arctic Rescue Rollercoaster",
+                "old_name": "Wild Arctic",
+                "tourism": "attraction",
+                "website": "https://seaworld.com/san-diego/rides/wild-arctic"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Electric_Eel_1.jpg/1280px-Electric_Eel_1.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 230949224,
+            "lat": 32.7659185,
+            "lon": -117.2228933,
+            "tags": {
+                "attraction": "animal",
+                "building": "yes",
+                "name": "Penguin Encounter",
+                "tourism": "attraction",
+                "website": "https://seaworld.com/san-diego/animals/penguins/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Electric_Eel_1.jpg/1280px-Electric_Eel_1.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 230949227,
+            "lat": 32.7674657,
+            "lon": -117.2269993,
+            "tags": {
+                "alt_name": "Madagascar Live! Operation: Vacation",
+                "amenity": "theatre",
+                "building": "yes",
+                "name": "Mission Bay Theater",
+                "old_name": "Sparkletts Water Fantasy Show; Window to the Sea; Pirates 4-D; R.L. Stine's Haunted Lighthouse 4-D; Lights, Camera, Imagination 4-D!",
+                "tourism": "attraction",
+                "website": "https://seaworldparks.com/en/seaworld-sandiego/attractions/shows/madagascar-live/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/MantaEntranceSanDiego.jpg/1280px-MantaEntranceSanDiego.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 246261012,
+            "lat": 32.8914057,
+            "lon": -117.139127,
+            "tags": {
+                "museum": "aviation",
+                "name": "Flying Leathernecks Aviation Museum",
+                "tourism": "museum",
+                "wikidata": "Q5463466"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Outdoor_exhibit_aircraft_looking_northwest.jpeg/1280px-Outdoor_exhibit_aircraft_looking_northwest.jpeg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 264882985,
+            "lat": 32.7344359,
+            "lon": -117.1475899,
+            "tags": {
+                "name": "San Diego Zoo Miniature Railroad",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/San_Diego%2C_2016_-_514.jpg/1280px-San_Diego%2C_2016_-_514.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 265210993,
+            "lat": 32.7340452,
+            "lon": -117.1477733,
+            "tags": {
+                "building": "commercial",
+                "check_date": "2024-08-02",
+                "fee": "no",
+                "name": "San Diego Mineral & Gem Society",
+                "tourism": "museum",
+                "website": "https://sdmg.org/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/San_Diego%2C_2016_-_514.jpg/1280px-San_Diego%2C_2016_-_514.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 275049156,
+            "lat": 32.7676324,
+            "lon": -117.2278886,
+            "tags": {
+                "attraction": "suspended_gondola",
+                "building": "yes",
+                "fee": "yes",
+                "name": "Bayside Skyride",
+                "tourism": "attraction",
+                "website": "https://seaworld.com/san-diego/rides/bayside-skyride/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/MantaEntranceSanDiego.jpg/1280px-MantaEntranceSanDiego.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 275049163,
+            "lat": 32.7669796,
+            "lon": -117.2272758,
+            "tags": {
+                "attraction": "animal",
+                "barrier": "fence",
+                "name": "Flamingos",
+                "tourism": "attraction",
+                "website": "https://seaworld.com/san-diego/animals/flamingos/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/MantaEntranceSanDiego.jpg/1280px-MantaEntranceSanDiego.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 275053210,
+            "lat": 32.7648504,
+            "lon": -117.2260957,
+            "tags": {
+                "barrier": "fence",
+                "name": "Rescue Riders",
+                "tourism": "attraction",
+                "website": "https://seaworld.com/san-diego/rides/rescue-riders/"
+            }
+        },
+        {
+            "type": "way",
+            "id": 275053223,
+            "lat": 32.7650442,
+            "lon": -117.2261628,
+            "tags": {
+                "attraction": "teacup",
+                "barrier": "fence",
+                "name": "Tidepool Twist",
+                "tourism": "attraction",
+                "website": "https://seaworld.com/san-diego/rides/tidepool-twist/"
+            }
+        },
+        {
+            "type": "way",
+            "id": 275064611,
+            "lat": 32.7668264,
+            "lon": -117.2252814,
+            "tags": {
+                "attraction": "animal",
+                "building": "yes",
+                "name": "Shark Encounter and Turtle Reef",
+                "tourism": "attraction",
+                "website": "https://seaworld.com/san-diego/animals/sharks/;https://seaworld.com/san-diego/animals/turtle-reef/"
+            }
+        },
+        {
+            "type": "way",
+            "id": 275064620,
+            "lat": 32.7647789,
+            "lon": -117.2229169,
+            "tags": {
+                "attraction": "animal",
+                "building": "yes",
+                "name": "Wild Arctic",
+                "tourism": "attraction",
+                "website": "https://seaworldparks.com/en/seaworld-sandiego/attractions/exhibits/wild-arctic/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Emperor_%28SeaWorld_San_Diego%29_1.jpg/1280px-Emperor_%28SeaWorld_San_Diego%29_1.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 275069243,
+            "lat": 32.7648159,
+            "lon": -117.2258485,
+            "tags": {
+                "name": "Rescue Rafter",
+                "tourism": "attraction",
+                "website": "https://seaworld.com/san-diego/rides/rescue-rafter/"
+            }
+        },
+        {
+            "type": "way",
+            "id": 279542969,
+            "lat": 32.7551606,
+            "lon": -117.1986064,
+            "tags": {
+                "building": "yes",
+                "name": "James McCoy House",
+                "tourism": "museum",
+                "website": "http://www.sandiegohistory.org/links/oldtown.htm#silvas"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5e/SDT_Old_Town1.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 285605725,
+            "lat": 32.7210197,
+            "lon": -117.1751925,
+            "tags": {
+                "building": "ship",
+                "historic": "ship",
+                "name": "Californian",
+                "ship:type": "shooner",
+                "start_date": "1984",
+                "tourism": "attraction",
+                "wikipedia": "en:Californian (schooner)"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Pilot2011.jpg/1280px-Pilot2011.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 285605727,
+            "lat": 32.7210519,
+            "lon": -117.1742301,
+            "tags": {
+                "building": "ship",
+                "historic": "ship",
+                "name": "Medea",
+                "ship:type": "yacht",
+                "start_date": "1904",
+                "tourism": "attraction",
+                "wikidata": "Q3651673",
+                "wikipedia": "en:Medea (yacht)"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/1d/SDMM--Medea.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 286940469,
+            "lat": 32.7660787,
+            "lon": -117.2276764,
+            "tags": {
+                "attraction": "animal",
+                "barrier": "retaining_wall",
+                "name": "Bat Rays Pool",
+                "natural": "water",
+                "tourism": "attraction",
+                "website": "https://seaworld.com/san-diego/animals/bat-ray/"
+            }
+        },
+        {
+            "type": "way",
+            "id": 287211122,
+            "lat": 32.7665475,
+            "lon": -117.22726,
+            "tags": {
+                "attraction": "roller_coaster",
+                "building": "roof",
+                "name": "Manta",
+                "tourism": "attraction",
+                "website": "https://seaworld.com/san-diego/rides/manta-roller-coaster/",
+                "wikidata": "Q1891206"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/MantaEntranceSanDiego.jpg/1280px-MantaEntranceSanDiego.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 287774469,
+            "lat": 32.7651218,
+            "lon": -117.2256031,
+            "tags": {
+                "name": "Rescue Jr.",
+                "old_name": "Sesame Street Bay of Play;Shamu's Happy Harbor",
+                "tourism": "attraction",
+                "website": "https://seaworldparks.com/en/seaworld-sandiego/attractions/exhibits/sesame-street-bay-of-play/"
+            }
+        },
+        {
+            "type": "way",
+            "id": 288264262,
+            "lat": 32.7646213,
+            "lon": -117.2276667,
+            "tags": {
+                "attraction": "animal",
+                "building": "roof",
+                "name": "Orca Underwater Viewing",
+                "tourism": "attraction",
+                "website": "https://seaworld.com/san-diego/animals/orca-underwater-viewing/"
+            }
+        },
+        {
+            "type": "way",
+            "id": 288863217,
+            "lat": 32.7284614,
+            "lon": -117.2163098,
+            "tags": {
+                "alt_name": "Naval Training Station Historic District",
+                "building": "ship",
+                "building:levels": "6",
+                "fee": "no",
+                "heritage": "2",
+                "heritage:operator": "nrhp",
+                "heritage:website": "https://www.nps.gov/subjects/nationalregister/index.htm",
+                "historic": "ship",
+                "name": "USS Recruit",
+                "nrhp:criteria": "(A), (C)",
+                "nrhp:inscription_date": "2001-07-05",
+                "protection_title": "Liberty Station",
+                "ref:nrhp": "00000426",
+                "roof:shape": "many",
+                "source_ref": "https://catalog.archives.gov/id/123860935",
+                "start_date": "1949",
+                "tourism": "museum",
+                "website": "https://libertystation.com/events/centennial/uss-recruit",
+                "wikidata": "Q5303529"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/27/USS_Recruit_TDE-1.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 362339141,
+            "lat": 32.7096085,
+            "lon": -117.1617363,
+            "tags": {
+                "building": "yes",
+                "name": "San Diego Chinese Historical Museum - Sun Yat Sen Memorial Extension",
+                "tourism": "museum",
+                "website": "https://sdchm.org/"
+            }
+        },
+        {
+            "type": "way",
+            "id": 528172919,
+            "lat": 32.7595021,
+            "lon": -117.1934352,
+            "tags": {
+                "addr:city": "San Diego",
+                "addr:housenumber": "2727",
+                "addr:postcode": "92103",
+                "addr:state": "CA",
+                "addr:street": "Presidio Drive",
+                "building": "yes",
+                "check_date:opening_hours": "2024-08-16",
+                "ele": "34",
+                "fee": "no;donation",
+                "gnis:feature_id": "244176",
+                "historic": "yes",
+                "museum": "local_history",
+                "name": "Junipero Serra Museum",
+                "opening_hours": "Sa,Su 10:00-16:00; May 24-Aug 30 Fr-Su 10:00-16:00",
+                "source": "USGS Geonames",
+                "tourism": "museum",
+                "website": "https://sandiegohistory.org/serramuseum/",
+                "wheelchair": "no"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/San_Diego%2C_CA_USA_-_Presidio_Park_-_El_Presidio_Re%C3%A1l_de_San_Diego_%28Royal_Presidio_of_San_Diego%29_-_The_Jun%C3%ADpero_Serra_Museum_-_panoramio.jpg/1280px-San_Diego%2C_CA_USA_-_Presidio_Park_-_El_Presidio_Re%C3%A1l_de_San_Diego_%28Royal_Presidio_of_San_Diego%29_-_The_Jun%C3%ADpero_Serra_Museum_-_panoramio.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 538559748,
+            "lat": 32.72107,
+            "lon": -117.1737634,
+            "tags": {
+                "building": "ship",
+                "historic": "ship",
+                "name": "USS Dolphin",
+                "ref": "AGSS-555",
+                "ship:type": "submarine",
+                "start_date": "1968",
+                "tourism": "attraction",
+                "wikidata": "Q5225893",
+                "wikipedia": "en:USS Dolphin (AGSS-555)"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/8b/USS_Dolphin_AGSS-555.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 538559749,
+            "lat": 32.7210254,
+            "lon": -117.1746821,
+            "tags": {
+                "building": "ship",
+                "historic": "ship",
+                "name": "San Salvador",
+                "ship:type": "sailship",
+                "start_date": "2015",
+                "tourism": "attraction",
+                "wikipedia": "en:San Salvador (Cabrillo's ship)"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Pilot2011.jpg/1280px-Pilot2011.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 565565149,
+            "lat": 32.7544363,
+            "lon": -117.1960069,
+            "tags": {
+                "building": "stable",
+                "name": "Seeley Stable Museum",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/en/d/d9/Flag_Pole_and_Cosmopolitan_Hotel_San_Diego_Plaza.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 565565154,
+            "lat": 32.7537871,
+            "lon": -117.1961967,
+            "tags": {
+                "building": "yes",
+                "name": "San Diego Union Newspaper Building",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/en/b/ba/Franklin_House-_Exchange_Hotel_San_Diego%2C_California.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 565565155,
+            "lat": 32.7536529,
+            "lon": -117.197429,
+            "tags": {
+                "addr:city": "San Diego",
+                "addr:housenumber": "3966",
+                "addr:postcode": "92110",
+                "addr:street": "Mason Street",
+                "building": "yes",
+                "name": "Mason Street Schoolhouse",
+                "operator": "State of California",
+                "tourism": "museum",
+                "website": "https://www.parks.ca.gov/?page_id=28017"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Casa_de_Machado_y_Silvas.jpg/1280px-Casa_de_Machado_y_Silvas.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 565565163,
+            "lat": 32.7536605,
+            "lon": -117.1959235,
+            "tags": {
+                "building": "yes",
+                "museum": "history",
+                "name": "El Museo de Casa Aguirre",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/en/b/ba/Franklin_House-_Exchange_Hotel_San_Diego%2C_California.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 565565165,
+            "lat": 32.7541024,
+            "lon": -117.1972286,
+            "tags": {
+                "addr:city": "San Diego",
+                "addr:housenumber": "2733",
+                "addr:postcode": "92110",
+                "addr:state": "CA",
+                "addr:street": "San Diego Avenue",
+                "building": "yes",
+                "name": "First San Diego Courthouse",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Casa_de_Machado_y_Silvas.jpg/1280px-Casa_de_Machado_y_Silvas.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 565565166,
+            "lat": 32.7541183,
+            "lon": -117.1973457,
+            "tags": {
+                "addr:city": "San Diego",
+                "addr:housenumber": "2733",
+                "addr:postcode": "92110",
+                "addr:street": "San Diego Avenue",
+                "building": "yes",
+                "building:levels": "2",
+                "description": "1851 building that now houses the Wells Fargo Museum and ATM location",
+                "fee": "no",
+                "name": "Colorado House",
+                "phone": "+1 619-238-3929",
+                "tourism": "museum",
+                "website": "https://www.parks.ca.gov/?page_id=28010"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Casa_de_Machado_y_Silvas.jpg/1280px-Casa_de_Machado_y_Silvas.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 565567630,
+            "lat": 32.7528154,
+            "lon": -117.1946215,
+            "tags": {
+                "addr:city": "San Diego",
+                "addr:housenumber": "2476",
+                "addr:postcode": "92110",
+                "addr:state": "CA",
+                "addr:street": "San Diego Avenue",
+                "building": "house",
+                "fee": "yes",
+                "name": "Whaley House Museum",
+                "opening_hours": "Mo-Su 10:00-16:30",
+                "tourism": "museum",
+                "website": "https://www.whaleyhousesandiego.com/",
+                "wheelchair": "limited",
+                "wikidata": "Q7990553"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/San_Diego_-_Whaley_House_01.jpg/1280px-San_Diego_-_Whaley_House_01.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 608989787,
+            "lat": 33.0958947,
+            "lon": -116.9974675,
+            "tags": {
+                "building": "yes",
+                "name": "Africa Tram",
+                "reservation": "no",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "way",
+            "id": 610127080,
+            "lat": 32.7417145,
+            "lon": -117.1578336,
+            "tags": {
+                "alt_name": "The George and Anna Marston House Museum and Gardens",
+                "building": "yes",
+                "name": "Marston House",
+                "tourism": "museum",
+                "wikidata": "Q5545691",
+                "wikipedia": "en:George W. Marston House"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/George_Marston_House.jpg/1280px-George_Marston_House.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 673524817,
+            "lat": 32.7462101,
+            "lon": -117.2549585,
+            "tags": {
+                "name": "Ocean Beach Tidepools",
+                "natural": "bare_rock",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/46/Hodad%27s_storefront.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 701452865,
+            "lat": 32.7320022,
+            "lon": -117.1492304,
+            "tags": {
+                "alt_name": "Laguna de las Flores",
+                "name": "Lily Pond",
+                "tourism": "attraction",
+                "wheelchair": "yes"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Timken_Museum_of_Art%2C_San_Diego_01.jpg/1280px-Timken_Museum_of_Art%2C_San_Diego_01.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 816411968,
+            "lat": 32.7645759,
+            "lon": -117.2240614,
+            "tags": {
+                "attraction": "roller_coaster",
+                "building": "yes",
+                "name": "Electric Eel",
+                "roller_coaster": "station",
+                "tourism": "attraction",
+                "website": "https://seaworld.com/san-diego/rides/electric-eel/",
+                "wikidata": "Q88293031"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Electric_Eel_1.jpg/1280px-Electric_Eel_1.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 953829505,
+            "lat": 32.7645235,
+            "lon": -117.2254807,
+            "tags": {
+                "attraction": "amusement_ride",
+                "barrier": "fence",
+                "name": "Octarock",
+                "tourism": "attraction",
+                "website": "https://seaworld.com/san-diego/rides/octarock/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Electric_Eel_1.jpg/1280px-Electric_Eel_1.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 953829506,
+            "lat": 32.764515,
+            "lon": -117.225594,
+            "tags": {
+                "attraction": "mini_drop_tower",
+                "barrier": "fence",
+                "name": "Sea Dragon Drop",
+                "tourism": "attraction",
+                "website": "https://seaworld.com/san-diego/rides/sea-dragon-drop/"
+            }
+        },
+        {
+            "type": "way",
+            "id": 953829507,
+            "lat": 32.7646243,
+            "lon": -117.2256028,
+            "tags": {
+                "attraction": "amusement_ride",
+                "barrier": "fence",
+                "name": "Aqua Scout",
+                "tourism": "attraction",
+                "website": "https://seaworld.com/san-diego/rides/aqua-scout/"
+            }
+        },
+        {
+            "type": "way",
+            "id": 953829508,
+            "lat": 32.7647565,
+            "lon": -117.2252518,
+            "tags": {
+                "attraction": "chair_swing",
+                "barrier": "fence",
+                "name": "Tentacle Twirl",
+                "tourism": "attraction",
+                "website": "https://seaworld.com/san-diego/rides/tentacle-twirl/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Electric_Eel_1.jpg/1280px-Electric_Eel_1.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 958319719,
+            "lat": 32.7646626,
+            "lon": -117.2248788,
+            "tags": {
+                "attraction": "animal",
+                "building": "yes",
+                "name": "Ocean Explorer Animals",
+                "tourism": "attraction",
+                "website": "https://seaworld.com/san-diego/ocean-explorer/animals/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Electric_Eel_1.jpg/1280px-Electric_Eel_1.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 958480186,
+            "lat": 32.7664849,
+            "lon": -117.2286681,
+            "tags": {
+                "attraction": "animal",
+                "name": "Sea Turtles",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/MantaEntranceSanDiego.jpg/1280px-MantaEntranceSanDiego.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 961431088,
+            "lat": 33.1023619,
+            "lon": -116.9958022,
+            "tags": {
+                "attraction": "animal",
+                "name": "Big Horn Sheep",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b7/San_Diego_Zoo_Safari_Park_roadside_sign_2014.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 970510686,
+            "lat": 32.7670929,
+            "lon": -117.2256831,
+            "tags": {
+                "attraction": "amusement_ride",
+                "barrier": "fence",
+                "name": "Riptide Rescue",
+                "tourism": "attraction",
+                "website": "https://seaworld.com/san-diego/rides/riptide-rescue/"
+            }
+        },
+        {
+            "type": "way",
+            "id": 1031619550,
+            "lat": 10.4308208,
+            "lon": -75.545719,
+            "tags": {
+                "defensive_works": "bastion",
+                "name": "Baluarte de Santa Catalina",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "way",
+            "id": 1031619551,
+            "lat": 10.4296529,
+            "lon": -75.5447794,
+            "tags": {
+                "defensive_works": "bastion",
+                "name": "Baluarte de San Lucas",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "way",
+            "id": 1031619552,
+            "lat": 10.4270023,
+            "lon": -75.5448732,
+            "tags": {
+                "defensive_works": "bastion",
+                "name": "Baluarte San Pedro Mártir",
+                "note": "construction_age:1721",
+                "start_date": "1721",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "way",
+            "id": 1035486236,
+            "lat": 32.7292151,
+            "lon": -117.1515706,
+            "tags": {
+                "building": "house",
+                "name": "House of Iran",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/House_of_Pacific_Relations_-_Int%27l_Cottages_2.JPG/1280px-House_of_Pacific_Relations_-_Int%27l_Cottages_2.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 1035486238,
+            "lat": 32.7288993,
+            "lon": -117.1519374,
+            "tags": {
+                "building": "house",
+                "name": "House of Hungary",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/House_of_Pacific_Relations_-_Int%27l_Cottages_2.JPG/1280px-House_of_Pacific_Relations_-_Int%27l_Cottages_2.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 1035486239,
+            "lat": 32.7289449,
+            "lon": -117.1517416,
+            "tags": {
+                "building": "house",
+                "name": "House of Spain",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/House_of_Pacific_Relations_-_Int%27l_Cottages_2.JPG/1280px-House_of_Pacific_Relations_-_Int%27l_Cottages_2.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 1035486240,
+            "lat": 32.7290576,
+            "lon": -117.1521721,
+            "tags": {
+                "building": "house",
+                "name": "House of Czechia and Slovakia",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/House_of_Pacific_Relations_-_Int%27l_Cottages_2.JPG/1280px-House_of_Pacific_Relations_-_Int%27l_Cottages_2.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 1035486241,
+            "lat": 32.7289552,
+            "lon": -117.1522415,
+            "tags": {
+                "building": "house",
+                "name": "House of England",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/House_of_Pacific_Relations_-_Int%27l_Cottages_2.JPG/1280px-House_of_Pacific_Relations_-_Int%27l_Cottages_2.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 1035486243,
+            "lat": 32.7291895,
+            "lon": -117.1523439,
+            "tags": {
+                "building": "house",
+                "name": "House of Scotland",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/House_of_Pacific_Relations_-_Int%27l_Cottages_2.JPG/1280px-House_of_Pacific_Relations_-_Int%27l_Cottages_2.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 1035486244,
+            "lat": 32.7291519,
+            "lon": -117.1524468,
+            "tags": {
+                "addr:state": "CA",
+                "building": "house",
+                "ele": "76",
+                "gnis:feature_id": "1869949",
+                "name": "House of China",
+                "source": "USGS Geonames",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/House_of_Pacific_Relations_-_Int%27l_Cottages_2.JPG/1280px-House_of_Pacific_Relations_-_Int%27l_Cottages_2.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 1035486245,
+            "lat": 32.729123,
+            "lon": -117.1525571,
+            "tags": {
+                "building": "house",
+                "name": "House of Norway",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/House_of_Pacific_Relations_-_Int%27l_Cottages_2.JPG/1280px-House_of_Pacific_Relations_-_Int%27l_Cottages_2.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 1035486246,
+            "lat": 32.7290655,
+            "lon": -117.1526808,
+            "tags": {
+                "building": "house",
+                "name": "House of Denmark",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/House_of_Pacific_Relations_-_Int%27l_Cottages_2.JPG/1280px-House_of_Pacific_Relations_-_Int%27l_Cottages_2.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 1035486247,
+            "lat": 32.7290382,
+            "lon": -117.1527997,
+            "tags": {
+                "building": "house",
+                "name": "House of Sweden",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/House_of_Pacific_Relations_-_Int%27l_Cottages_2.JPG/1280px-House_of_Pacific_Relations_-_Int%27l_Cottages_2.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 1035486248,
+            "lat": 32.7287836,
+            "lon": -117.1527124,
+            "tags": {
+                "building": "house",
+                "name": "House of Poland",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/House_of_Pacific_Relations_-_Int%27l_Cottages_2.JPG/1280px-House_of_Pacific_Relations_-_Int%27l_Cottages_2.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 1035486249,
+            "lat": 32.7287204,
+            "lon": -117.152625,
+            "tags": {
+                "building": "house",
+                "name": "House of Ireland",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/House_of_Pacific_Relations_-_Int%27l_Cottages_2.JPG/1280px-House_of_Pacific_Relations_-_Int%27l_Cottages_2.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 1035486250,
+            "lat": 32.7286848,
+            "lon": -117.1525266,
+            "tags": {
+                "building": "house",
+                "name": "House of Finland",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/House_of_Pacific_Relations_-_Int%27l_Cottages_2.JPG/1280px-House_of_Pacific_Relations_-_Int%27l_Cottages_2.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 1035486251,
+            "lat": 32.7287152,
+            "lon": -117.1524275,
+            "tags": {
+                "building": "house",
+                "name": "House of Germany",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/House_of_Pacific_Relations_-_Int%27l_Cottages_2.JPG/1280px-House_of_Pacific_Relations_-_Int%27l_Cottages_2.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 1035486253,
+            "lat": 32.7289171,
+            "lon": -117.1528969,
+            "tags": {
+                "building": "house",
+                "name": "House of Ukraine",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/House_of_Pacific_Relations_-_Int%27l_Cottages_2.JPG/1280px-House_of_Pacific_Relations_-_Int%27l_Cottages_2.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 1035486254,
+            "lat": 32.7288132,
+            "lon": -117.1528316,
+            "tags": {
+                "building": "house",
+                "name": "House of the United States of America",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/House_of_Pacific_Relations_-_Int%27l_Cottages_2.JPG/1280px-House_of_Pacific_Relations_-_Int%27l_Cottages_2.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 1035486255,
+            "lat": 32.7287662,
+            "lon": -117.152302,
+            "tags": {
+                "building": "house",
+                "name": "House of Israel",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/House_of_Pacific_Relations_-_Int%27l_Cottages_2.JPG/1280px-House_of_Pacific_Relations_-_Int%27l_Cottages_2.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 1064371115,
+            "lat": 32.8299789,
+            "lon": -117.280881,
+            "tags": {
+                "addr:state": "CA",
+                "alt_name": "The Shack",
+                "building": "roof",
+                "name": "Windansea Surf Shack",
+                "source": "esri/SanGIS_Buildings",
+                "start_date": "1946",
+                "tourism": "attraction",
+                "wikipedia": "en:Windansea Beach#The Windansea Shack"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Windansea_Beach_-_1.jpg/1280px-Windansea_Beach_-_1.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 1078598877,
+            "lat": 32.7165343,
+            "lon": -117.1689308,
+            "tags": {
+                "building": "yes",
+                "building:levels": "2",
+                "building:part": "yes",
+                "museum": "military",
+                "name": "Navy SEAL Museum San Diego",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/OneAmericaPlazaSDSept10.jpg/1280px-OneAmericaPlazaSDSept10.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 1086870358,
+            "lat": 32.7292777,
+            "lon": -117.1514551,
+            "tags": {
+                "building": "house",
+                "name": "House of the Philippines",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/House_of_Pacific_Relations_-_Int%27l_Cottages_2.JPG/1280px-House_of_Pacific_Relations_-_Int%27l_Cottages_2.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 1285801116,
+            "lat": 33.0966442,
+            "lon": -116.9972958,
+            "tags": {
+                "name": "Lions",
+                "natural": "grassland",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b7/San_Diego_Zoo_Safari_Park_roadside_sign_2014.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 1293809671,
+            "lat": 32.7659928,
+            "lon": -117.2266653,
+            "tags": {
+                "addr:housenumber": "500",
+                "addr:postcode": "92109",
+                "addr:street": "Sea World Drive",
+                "name": "SeaWorld San Diego",
+                "note": "Physical barrier does not exist along or across water boundaries.",
+                "operator": "United Parks & Resorts",
+                "start_date": "1964-03-21",
+                "tourism": "theme_park",
+                "website": "https://seaworld.com/san-diego/",
+                "wheelchair": "yes",
+                "wikidata": "Q1946237",
+                "wikipedia": "en:SeaWorld San Diego"
+            }
+        },
+        {
+            "type": "way",
+            "id": 1352466939,
+            "lat": 32.7205052,
+            "lon": -117.1744437,
+            "tags": {
+                "addr:city": "San Diego",
+                "addr:housenumber": "1492",
+                "addr:postcode": "92101",
+                "addr:state": "CA",
+                "addr:street": "The Embarcadero",
+                "fee": "yes",
+                "museum": "maritime",
+                "name": "Maritime Museum of San Diego",
+                "opening_hours": "Mo-Su 10:00-17:00",
+                "toilets": "yes",
+                "tourism": "museum",
+                "website": "https://sdmaritime.org/",
+                "wikidata": "Q3330638",
+                "wikipedia": "en:Maritime Museum of San Diego"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/B39FullSDMaritimeMuseumSep2014.JPG/1280px-B39FullSDMaritimeMuseumSep2014.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 1444057670,
+            "lat": 32.7291154,
+            "lon": -117.1517185,
+            "tags": {
+                "building": "house",
+                "name": "House of Puerto Rico",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/House_of_Pacific_Relations_-_Int%27l_Cottages_2.JPG/1280px-House_of_Pacific_Relations_-_Int%27l_Cottages_2.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 1454689889,
+            "lat": 32.7962976,
+            "lon": -117.256762,
+            "tags": {
+                "area": "yes",
+                "layer": "1",
+                "name": "Crystal Pier Entrance",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "way",
+            "id": 1468142310,
+            "lat": 32.7268281,
+            "lon": -117.1539524,
+            "tags": {
+                "addr:city": "San Diego",
+                "addr:housenumber": "2080",
+                "addr:postcode": "92101",
+                "addr:state": "CA",
+                "addr:street": "Pan American Plaza",
+                "area": "yes",
+                "artwork_type": "installation",
+                "name": "Lockheed A-12 Blackbird 06933",
+                "tourism": "attraction",
+                "website": "https://sandiegoairandspace.org/collection/item/lockheed-a-12-blackbird",
+                "wikidata": "Q138514384"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Starlight_Bowl%2C_SD_2.JPG/1280px-Starlight_Bowl%2C_SD_2.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 1468142311,
+            "lat": 32.7267136,
+            "lon": -117.1537871,
+            "tags": {
+                "area": "yes",
+                "name": "Convair YF2Y-1 Sea Dart",
+                "tourism": "attraction",
+                "wikidata": "Q133846752"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Starlight_Bowl%2C_SD_2.JPG/1280px-Starlight_Bowl%2C_SD_2.JPG",
+            "image_source": "wikipedia_verified"
+        }
+    ]
+}

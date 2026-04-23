@@ -1,0 +1,385 @@
+{
+    "city_metadata": {
+        "city_name": "Palm Springs",
+        "state_code": "CA",
+        "state_full": "California",
+        "city_summary": "Palm Springs (Cahuilla: Séc-he) is a desert resort city in Riverside County, California, United States, within the Colorado Desert's Coachella Valley. The city covers approximately 94 square miles (240 km2), making it the largest city in Riverside County by land area. With multiple plots in checkerboard pattern, more than 10% of the city is part of the Agua Caliente Band of Cahuilla Indians reservation land and is the administrative capital of the most populated reservation in California.",
+        "city_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Palm_Springs_from_the_Museum_Trail.jpg/1280px-Palm_Springs_from_the_Museum_Trail.jpg",
+        "city_lat": 33.83027778,
+        "city_lon": -116.54527778,
+        "source": "wikipedia_verified_engine"
+    },
+    "attractions": [
+        {
+            "type": "node",
+            "id": 2395298713,
+            "lat": 33.83282,
+            "lon": -116.5046479,
+            "tags": {
+                "name": "Flak 37 88mm Gun",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/fc/PSAM_Star_Logo_Vertical.png",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 4343629889,
+            "lat": 33.830452,
+            "lon": -116.533647,
+            "tags": {
+                "name": "Frank Sinatra House",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Frank_Sinatra_House_-_Palm_Springs_02.jpg/1280px-Frank_Sinatra_House_-_Palm_Springs_02.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 4343629989,
+            "lat": 33.8000821,
+            "lon": -116.5148692,
+            "tags": {
+                "name": "Park Imperial South House",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 4737291102,
+            "lat": 33.820856,
+            "lon": -116.547073,
+            "tags": {
+                "fee": "no",
+                "name": "Palm Springs Historical Society",
+                "tourism": "museum",
+                "website": "https://pshistoricalsociety.org/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Palm_Springs%2C_CA%2C_2024_-_036.jpg/1280px-Palm_Springs%2C_CA%2C_2024_-_036.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 5048285028,
+            "lat": 33.837272,
+            "lon": -116.6142162,
+            "tags": {
+                "addr:street": "Tramway Road",
+                "name": "Palm Springs Aerial Tramway",
+                "name:fr": "tramway aérien",
+                "tourism": "attraction",
+                "website": "https://pstramway.com/"
+            }
+        },
+        {
+            "type": "node",
+            "id": 8947017814,
+            "lat": 33.82404,
+            "lon": -116.545021,
+            "tags": {
+                "fee": "yes",
+                "name": "Agua Caliente Cultural Museum",
+                "opening_hours": "Tu-Su 10:00-17:00",
+                "tourism": "museum",
+                "website": "https://www.accmuseum.org/",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 12459896992,
+            "lat": 33.8229178,
+            "lon": -116.5444916,
+            "tags": {
+                "addr:city": "Palm Springs",
+                "addr:housenumber": "267",
+                "addr:postcode": "92262",
+                "addr:state": "CA",
+                "addr:street": "East Tahquitz Canyon Way",
+                "name": "Drag & Fly Tours",
+                "operator": "Drag & Fly Tours",
+                "phone": "+17602270199",
+                "tourism": "attraction",
+                "tourist_bus": "yes",
+                "website": "https://www.dragandflytours.com/"
+            }
+        },
+        {
+            "type": "way",
+            "id": 44486099,
+            "lat": 33.8039732,
+            "lon": -116.4916247,
+            "tags": {
+                "Tiger:MTFCC": "K2564",
+                "addr:city": "Palm Springs",
+                "addr:housenumber": "1500",
+                "addr:postcode": "92264",
+                "addr:state": "CA",
+                "addr:street": "S Gene Autry Trail",
+                "latitude": "+33.8053340",
+                "leisure": "water_park",
+                "longitude": "-116.4921103",
+                "name": "Palm Springs Surf Club",
+                "source": "Tiger2009",
+                "tiger:ALAND": "6845",
+                "tiger:AREAID": "110458305754",
+                "tiger:AWATER": "0",
+                "tiger:COUNTYFP": "065",
+                "tiger:STATEFP": "06",
+                "tiger:reviewed": "no",
+                "tourism": "attraction",
+                "website": "https://palmspringssurfclub.com/",
+                "wikidata": "Q16903186"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Surf_Loch_-_Cheyne_Barrel_-_Mar_5%2C_2020.jpg/1280px-Surf_Loch_-_Cheyne_Barrel_-_Mar_5%2C_2020.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 44486283,
+            "lat": 33.794458,
+            "lon": -116.5249826,
+            "tags": {
+                "Tiger:MTFCC": "K2564",
+                "landuse": "residential",
+                "latitude": "+33.7942555",
+                "longitude": "-116.5250879",
+                "name": "Smoke Tree Ranch",
+                "source": "Tiger2009",
+                "tiger:ALAND": "590563",
+                "tiger:AREAID": "110458305873",
+                "tiger:AWATER": "0",
+                "tiger:COUNTYFP": "065",
+                "tiger:STATEFP": "06",
+                "tiger:reviewed": "no",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "way",
+            "id": 316849790,
+            "lat": 33.8241919,
+            "lon": -116.5499392,
+            "tags": {
+                "addr:city": "Palm Springs",
+                "addr:housenumber": "101",
+                "addr:postcode": "92262",
+                "addr:state": "CA",
+                "addr:street": "North Museum Drive",
+                "building": "civic",
+                "building:levels": "4",
+                "contact:facebook": "PalmSpringsArtMuseum",
+                "contact:instagram": "psartmuseum",
+                "email": "info@psmuseum.org",
+                "fee": "yes",
+                "name": "Palm Springs Art Museum",
+                "opening_hours": "Fr-Su 10:00-17:00; Th 12:00-20:00",
+                "phone": "+1-760-322-4800",
+                "tourism": "museum",
+                "website": "https://www.psmuseum.org/",
+                "wikidata": "Q2048123"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/The_Palm_Springs_Art_Museum%2C_formerly_the_Palm_Springs_Desert_Museum%2C_in_Palm_Springs%2C_California_LCCN2013631275.tif/lossy-page1-1280px-The_Palm_Springs_Art_Museum%2C_formerly_the_Palm_Springs_Desert_Museum%2C_in_Palm_Springs%2C_California_LCCN2013631275.tif.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 316849794,
+            "lat": 33.8233048,
+            "lon": -116.549738,
+            "tags": {
+                "building": "yes",
+                "name": "Aluminaire House",
+                "tourism": "museum",
+                "website": "https://www.psmuseum.org/visit/aluminaire"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/The_Palm_Springs_Art_Museum%2C_formerly_the_Palm_Springs_Desert_Museum%2C_in_Palm_Springs%2C_California_LCCN2013631275.tif/lossy-page1-1280px-The_Palm_Springs_Art_Museum%2C_formerly_the_Palm_Springs_Desert_Museum%2C_in_Palm_Springs%2C_California_LCCN2013631275.tif.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 480740940,
+            "lat": 33.8191676,
+            "lon": -116.5464876,
+            "tags": {
+                "building": "yes",
+                "name": "Palm Springs Art Museum Architecture and Design Center",
+                "old_name": "Santa Fe Federal Savings & Loan",
+                "operator": "Palm Springs Art Museum",
+                "tourism": "museum",
+                "website": "https://www.psmuseum.org/visit/psam-a-and-d-center"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Palm_Springs_Art_Museum_Architecture_%26_Design_Centerr-Edwards_Harris_Pavilion_03.jpg/1280px-Palm_Springs_Art_Museum_Architecture_%26_Design_Centerr-Edwards_Harris_Pavilion_03.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 480761702,
+            "lat": 33.8207293,
+            "lon": -116.5470382,
+            "tags": {
+                "building": "yes",
+                "fee": "no",
+                "name": "Cornelia White House",
+                "opening_hours": "We-Mo 10:00-16:00",
+                "tourism": "museum",
+                "wikidata": "Q5171185"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/21/Cornelia_White_House.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 480761703,
+            "lat": 33.8207561,
+            "lon": -116.5472405,
+            "tags": {
+                "building": "yes",
+                "fee": "no",
+                "name": "McCallum Adobe",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Palm_Springs%2C_CA%2C_2024_-_036.jpg/1280px-Palm_Springs%2C_CA%2C_2024_-_036.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 480761704,
+            "lat": 33.8208713,
+            "lon": -116.5473198,
+            "tags": {
+                "building": "yes",
+                "fee": "no",
+                "name": "Ruddy's General Store",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Photo_Courtesy_of_The_Agua_Caliente_Band_of_Cahuilla_Indians.jpg/1280px-Photo_Courtesy_of_The_Agua_Caliente_Band_of_Cahuilla_Indians.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 542172760,
+            "lat": 33.8231856,
+            "lon": -116.5532216,
+            "tags": {
+                "addr:city": "Palm Springs",
+                "addr:housenumber": "686",
+                "addr:state": "CA",
+                "addr:street": "Palisades Drive",
+                "architect": "Albert Frey",
+                "building": "yes",
+                "historic": "house",
+                "name": "Frey House II",
+                "operator": "Palm Springs Art Museum",
+                "tourism": "museum",
+                "website": "https://www.psmuseum.org/visit/frey-house",
+                "wikidata": "Q55065512"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/The_Palm_Springs_Art_Museum%2C_formerly_the_Palm_Springs_Desert_Museum%2C_in_Palm_Springs%2C_California_LCCN2013631275.tif/lossy-page1-1280px-The_Palm_Springs_Art_Museum%2C_formerly_the_Palm_Springs_Desert_Museum%2C_in_Palm_Springs%2C_California_LCCN2013631275.tif.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 1252507081,
+            "lat": 33.824065,
+            "lon": -116.5450226,
+            "tags": {
+                "building": "yes",
+                "fee": "yes",
+                "name": "Agua Caliente Cultural Museum",
+                "tourism": "museum"
+            }
+        },
+        {
+            "type": "way",
+            "id": 1293274587,
+            "lat": 33.8322237,
+            "lon": -116.5046201,
+            "tags": {
+                "addr:city": "Palm Springs",
+                "addr:housenumber": "745",
+                "addr:postcode": "92262",
+                "addr:street": "North Gene Autry Trail",
+                "museum": "aerospace",
+                "name": "Palm Springs Air Museum",
+                "phone": "+1-760-778-6262",
+                "tourism": "museum",
+                "website": "https://www.palmspringsairmuseum.org/",
+                "wikidata": "Q7128065",
+                "wikipedia": "en:Palm Springs Air Museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/fc/PSAM_Star_Logo_Vertical.png",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 10311463,
+            "lat": 33.83027778,
+            "lon": -116.54527778,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Palm_Springs_from_the_Museum_Trail.jpg/1280px-Palm_Springs_from_the_Museum_Trail.jpg",
+            "description": "Palm Springs (Cahuilla: Séc-he) is a desert resort city in Riverside County, California, United States, within the Colorado Desert's Coachella Valley.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Palm Springs, California",
+                "wikipedia": "en:Palm Springs, California",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 750601,
+            "lat": 33.7,
+            "lon": -116.2,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Coachella_Valley_on_a_Fall_Morning.jpg/1280px-Coachella_Valley_on_a_Fall_Morning.jpg",
+            "description": "The Coachella Valley ( koh-CHEL-ə, KOH-ə-) is an arid rift valley in the Colorado Desert of Southern California in Riverside County.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Coachella Valley",
+                "wikipedia": "en:Coachella Valley",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 107936,
+            "lat": 33.72222222,
+            "lon": -116.37444444,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/El_Paseo_%28Palm_Desert%29_01.jpg/1280px-El_Paseo_%28Palm_Desert%29_01.jpg",
+            "description": "Palm Desert is a city in the Coachella Valley region of Riverside County, California.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Palm Desert, California",
+                "wikipedia": "en:Palm Desert, California",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 107924,
+            "lat": 33.72055556,
+            "lon": -116.21555556,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Coachella_2013_Do_Lab_and_Helix_Poeticus.jpg",
+            "description": "Indio (Spanish for \"Indian\") is a city in Riverside County, California, United States, in the Coachella Valley of Southern California's Colorado Desert region.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Indio, California",
+                "wikipedia": "en:Indio, California",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 48845133,
+            "lat": 33.83111111,
+            "lon": -116.53361111,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Frank_Sinatra_House_-_Palm_Springs_02.jpg/1280px-Frank_Sinatra_House_-_Palm_Springs_02.jpg",
+            "description": "Twin Palms, also known as the Frank Sinatra House, at 1148 East Alejo Rd is a mid-century modern house in the Movie Colony East neighborhood of Palm Springs, California.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Twin Palms",
+                "wikipedia": "en:Twin Palms",
+                "tourism": "attraction"
+            }
+        }
+    ]
+}

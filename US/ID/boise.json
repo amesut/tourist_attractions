@@ -1,0 +1,432 @@
+{
+    "city_metadata": {
+        "city_name": "Boise",
+        "state_code": "ID",
+        "state_full": "Idaho",
+        "city_summary": "Boise (locally   also ) is the capital and most populous city in the U.S. state of Idaho. It is the county seat of Ada County. The population of the city was 235,685 at the 2020 census.",
+        "city_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Boise_Metro_Chamber_of_Commerce_photo_to_share_-_winter_2017.jpg/1280px-Boise_Metro_Chamber_of_Commerce_photo_to_share_-_winter_2017.jpg",
+        "city_lat": 43.61583333,
+        "city_lon": -116.20166667,
+        "source": "wikipedia_verified_engine"
+    },
+    "attractions": [
+        {
+            "type": "node",
+            "id": 8672380789,
+            "lat": 43.6215609,
+            "lon": -116.321571,
+            "tags": {
+                "addr:city": "Boise",
+                "addr:housenumber": "1835",
+                "addr:postcode": "83713",
+                "addr:state": "ID",
+                "addr:street": "North Wildwood Street",
+                "name": "Northwest Science Museum Vision Center",
+                "opening_hours": "Mo,Tu,Th,Fr 12:00-16:00; We,Sa,Su closed",
+                "phone": "+1-208-972-6288",
+                "tourism": "museum",
+                "website": "https://www.northwestsciencemuseum.com/",
+                "wikidata": "Q19897885",
+                "wikipedia": "en:Northwest Science Museum"
+            }
+        },
+        {
+            "type": "node",
+            "id": 13095091201,
+            "lat": 43.602783,
+            "lon": -116.1614652,
+            "tags": {
+                "name": "Idaho museum of mining and geology",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/57/Image-Id-state-penitentiary-old-facade.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 375105915,
+            "lat": 43.608506,
+            "lon": -116.1992661,
+            "tags": {
+                "addr:city": "Boise",
+                "addr:housenumber": "131",
+                "addr:postcode": "83702",
+                "addr:state": "ID",
+                "addr:street": "West Myrtle Street",
+                "building": "yes",
+                "fee": "yes",
+                "museum": "science",
+                "name": "Discovery Center of Idaho",
+                "tourism": "museum",
+                "website": "https://www.dcidaho.org/",
+                "wikidata": "Q5281878"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Julia_Davis_Park1.jpg/1280px-Julia_Davis_Park1.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 375317804,
+            "lat": 43.6027701,
+            "lon": -116.161491,
+            "tags": {
+                "addr:city": "Boise",
+                "addr:housenumber": "2455",
+                "addr:postcode": "83712",
+                "addr:state": "ID",
+                "addr:street": "Old Penitentiary Road",
+                "building": "yes",
+                "fee": "no",
+                "name": "Idaho Museum of Mining and Geology",
+                "opening_hours": "Fr-Sa 12:00-17:00",
+                "tourism": "museum",
+                "website": "https://www.idahomuseum.org/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/57/Image-Id-state-penitentiary-old-facade.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 421958184,
+            "lat": 43.6022486,
+            "lon": -116.1622063,
+            "tags": {
+                "abandoned:amenity": "prison",
+                "addr:city": "Boise",
+                "addr:housenumber": "2445",
+                "addr:postcode": "83712",
+                "addr:state": "ID",
+                "addr:street": "East Old Penitentiary Road",
+                "barrier": "wall",
+                "historic": "building",
+                "name": "Old Idaho Penitentiary",
+                "tourism": "museum",
+                "website": "https://history.idaho.gov/old-penitentiary-hours-location",
+                "wikidata": "Q7084260",
+                "wikipedia": "en:Old Idaho State Penitentiary"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/57/Image-Id-state-penitentiary-old-facade.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 444838390,
+            "lat": 43.5578377,
+            "lon": -116.239615,
+            "tags": {
+                "addr:city": "Boise",
+                "addr:housenumber": "4748",
+                "addr:postcode": "83705",
+                "addr:state": "ID",
+                "addr:street": "South Lindbergh Street",
+                "building": "yes",
+                "name": "Idaho Military History Museum",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Idaho_Military_History_Museum.jpg/1280px-Idaho_Military_History_Museum.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 449008123,
+            "lat": 43.609624,
+            "lon": -116.2063694,
+            "tags": {
+                "addr:city": "Boise",
+                "addr:housenumber": "670",
+                "addr:postcode": "83702",
+                "addr:state": "ID",
+                "addr:street": "West Julia Davis Drive",
+                "building": "yes",
+                "building:levels": "1",
+                "name": "Boise Art Museum",
+                "phone": "+1-208-345-8330",
+                "tourism": "museum",
+                "website": "https://www.boiseartmuseum.org/",
+                "wikidata": "Q24191518",
+                "wikipedia": "en:Boise Art Museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Boise_Art_Museum_Entrance.jpg/1280px-Boise_Art_Museum_Entrance.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 463467939,
+            "lat": 43.6078301,
+            "lon": -116.2025738,
+            "tags": {
+                "addr:city": "Boise",
+                "addr:housenumber": "355",
+                "addr:postcode": "83702",
+                "addr:state": "ID",
+                "addr:street": "West Julia Davis Drive",
+                "charge": "General (12-61) $11",
+                "fee": "yes",
+                "name": "Zoo Boise",
+                "opening_hours": "Mo-Su 10:00-17:00",
+                "tourism": "zoo",
+                "wikidata": "Q80496553"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Julia_Davis_Park1.jpg/1280px-Julia_Davis_Park1.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 661654273,
+            "lat": 43.6414986,
+            "lon": -116.1849003,
+            "tags": {
+                "building": "yes",
+                "fee": "no",
+                "name": "Jim Hall Foothills Learning Center",
+                "tourism": "museum",
+                "website": "https://www.cityofboise.org/departments/parks-and-recreation/facilities/jim-hall-foothills-learning-center/"
+            }
+        },
+        {
+            "type": "way",
+            "id": 663723100,
+            "lat": 43.610652,
+            "lon": -116.205567,
+            "tags": {
+                "addr:city": "Boise",
+                "addr:housenumber": "610",
+                "addr:postcode": "83702",
+                "addr:state": "ID",
+                "addr:street": "West Julia Davis Drive",
+                "building": "yes",
+                "fee": "yes",
+                "name": "Idaho State Museum",
+                "opening_hours": "Mo-Sa 10:00-17:00; Su 12:00-17:00",
+                "tourism": "museum",
+                "website": "https://history.idaho.gov/museum/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Thomas_E._Logan_House_%281%29.jpg/1280px-Thomas_E._Logan_House_%281%29.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 663723162,
+            "lat": 43.6100212,
+            "lon": -116.203864,
+            "tags": {
+                "addr:city": "Boise",
+                "addr:housenumber": "508",
+                "addr:postcode": "83702",
+                "addr:state": "ID",
+                "addr:street": "West Julia Davis Drive",
+                "building": "yes",
+                "check_date:opening_hours": "2023-06-30",
+                "name": "Idaho Black History Museum",
+                "opening_hours": "May 28-Jun 11 We,Sa 11:00-15:00; Jun 11-Aug 06 We-Sa 11:00-15:00; Jun 11-Aug 06 Th off",
+                "tourism": "museum",
+                "website": "https://www.ibhm.org/",
+                "wikidata": "Q105883520"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Thomas_E._Logan_House_%281%29.jpg/1280px-Thomas_E._Logan_House_%281%29.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 666811317,
+            "lat": 43.575869,
+            "lon": -116.1573465,
+            "tags": {
+                "addr:city": "Boise",
+                "addr:housenumber": "2020",
+                "addr:postcode": "83706",
+                "addr:state": "ID",
+                "addr:street": "East Victory Road",
+                "building": "detached",
+                "building:levels": "2",
+                "name": "Joseph Bown House",
+                "ref:nrhp": "79000768",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Joseph_Bown_House_%286%29.jpg/1280px-Joseph_Bown_House_%286%29.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 1226882097,
+            "lat": 43.5615087,
+            "lon": -116.2294438,
+            "tags": {
+                "aircraft:type": "Fairchild Republic A-10 Thunderbolt II",
+                "area": "yes",
+                "historic": "aircraft",
+                "name": "A-10",
+                "operator": "USAF",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 855382,
+            "lat": 43.612357,
+            "lon": -116.216147,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/67/BoiseGreenbeltWildlifeSignage.jpg",
+            "description": "The Boise River Greenbelt is a recreational and alternate transportation trail along the banks of the Boise River through Boise, Idaho, United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Boise River Greenbelt",
+                "wikipedia": "en:Boise River Greenbelt",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 14607,
+            "lat": 45,
+            "lon": -115,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Flag_of_Idaho.svg/1280px-Flag_of_Idaho.svg.png",
+            "description": "Idaho ( , EYE-də-hoe) is a landlocked state in the Pacific Northwest and Mountain West subregions of the Western United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Idaho",
+                "wikipedia": "en:Idaho",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 2321507,
+            "lat": 43.764,
+            "lon": -116.104,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/BogusBackside.JPG/1280px-BogusBackside.JPG",
+            "description": "Bogus Basin Mountain Recreation Area is a ski area in the western United States, located in Boise County, Idaho, sixteen road miles (26 km) north-northeast of the city of Boise.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Bogus Basin",
+                "wikipedia": "en:Bogus Basin",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 20713065,
+            "lat": 43.595,
+            "lon": -116.143,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Table_Rock_Boise_View.jpg/1280px-Table_Rock_Boise_View.jpg",
+            "description": "Table Rock is a mountain pillar in the western United States, located just south-east of downtown Boise, Idaho, in the foothills of the Boise Range of the Rocky Mountains.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Table Rock (Ada County, Idaho)",
+                "wikipedia": "en:Table Rock (Ada County, Idaho)",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 110718,
+            "lat": 47.69277778,
+            "lon": -116.78,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Coeur_d%27Alene_aerial%2C_May_2023_%28cropped%29.png/1280px-Coeur_d%27Alene_aerial%2C_May_2023_%28cropped%29.png",
+            "description": "Coeur d'Alene (  KOR də-LAYN; French: Cœur d'Alêne, lit. 'Heart of Awl' French pronunciation: [kœʁ da.lɛn]) is a city in and the county seat of Kootenai County, Idaho, United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Coeur d'Alene, Idaho",
+                "wikipedia": "en:Coeur d'Alene, Idaho",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 28199077,
+            "lat": 45.405,
+            "lon": -122.624,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Portland_Aquarium_Exterior.jpg",
+            "description": "The Portland Aquarium was a 12,500-square-foot (1,160 m2) for-profit aquarium in Oak Grove, Oregon, United States that opened to the public on December 15, 2012.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Portland Aquarium",
+                "wikipedia": "en:Portland Aquarium",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 3373884,
+            "lat": 47.25,
+            "lon": -115.80972222,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Averyfallnew.jpg",
+            "description": "Avery is a small unincorporated community in the northwest United States, located in the St.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Avery, Idaho",
+                "wikipedia": "en:Avery, Idaho",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 1896746,
+            "lat": 43.608106,
+            "lon": -116.508175,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Ford_Idaho_Center.jpg/1280px-Ford_Idaho_Center.jpg",
+            "description": "The Ford Idaho Center is a complex of sports and entertainment venues in Nampa, Idaho, approximately 15 miles (24 km) west of Boise.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Ford Idaho Center",
+                "wikipedia": "en:Ford Idaho Center",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 264310,
+            "lat": 43.46167,
+            "lon": -113.56271,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/CratersDrone1.jpg/1280px-CratersDrone1.jpg",
+            "description": "Craters of the Moon National Monument and Preserve is a U.S. national monument and national preserve in the Snake River Plain in central Idaho.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Craters of the Moon National Monument and Preserve",
+                "wikipedia": "en:Craters of the Moon National Monument and Preserve",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 5296358,
+            "lat": 44.964,
+            "lon": -118.235,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/AnthonyLakes.JPG/1280px-AnthonyLakes.JPG",
+            "description": "Anthony Lakes is a ski area in the northwest United States, located  in northeastern Oregon in the Wallowa–Whitman National Forest west of North Powder.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Anthony Lakes (ski area)",
+                "wikipedia": "en:Anthony Lakes (ski area)",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 124417,
+            "lat": 40.83888889,
+            "lon": -115.74027778,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/2012-09-30_14_28_33_View_of_downtown_Elko_in_Nevada_from_a_bluff_to_the_south.jpg/1280px-2012-09-30_14_28_33_View_of_downtown_Elko_in_Nevada_from_a_bluff_to_the_south.jpg",
+            "description": "Elko is a city in and the county seat of Elko County, Nevada, United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Elko, Nevada",
+                "wikipedia": "en:Elko, Nevada",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 906915,
+            "lat": 46.50222222,
+            "lon": -116.325,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/02/Dworshak_National_Fish_Hatchery_%284863857874%29.jpg",
+            "description": "Dworshak National Fish Hatchery is a mitigation hatchery located on the Clearwater River within the Nez Perce Reservation near Ahsahka, in north-central Idaho, United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Dworshak National Fish Hatchery",
+                "wikipedia": "en:Dworshak National Fish Hatchery",
+                "tourism": "attraction"
+            }
+        }
+    ]
+}

@@ -1,0 +1,392 @@
+{
+    "city_metadata": {
+        "city_name": "Evansville",
+        "state_code": "IN",
+        "state_full": "Indiana",
+        "city_summary": "Evansville is a city in Vanderburgh County, Indiana, United States, and its county seat. With a population of 118,414 at the 2020 census, it is the third-most populous city in Indiana (after Indianapolis and Fort Wayne), the most populous city in Southern Indiana, and the 249th-most populous city in the United States. It is the central city of the Evansville metropolitan area, a hub of commercial, medical, and cultural activity of southwestern Indiana and the Illinois–Indiana–Kentucky tri-state area, which is home to over 911,000 people.",
+        "city_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Ford_Center_from_Main_Street.jpg/1280px-Ford_Center_from_Main_Street.jpg",
+        "city_lat": 37.97722222,
+        "city_lon": -87.55055556,
+        "source": "wikipedia_verified_engine"
+    },
+    "attractions": [
+        {
+            "type": "way",
+            "id": 173679864,
+            "lat": 37.9727586,
+            "lon": -87.5802609,
+            "tags": {
+                "addr:city": "Evansville",
+                "addr:housenumber": "610",
+                "addr:postcode": "47708",
+                "addr:state": "IN",
+                "addr:street": "Northwest Riverside Drive",
+                "alt_name": "LST 325;USS LST Ship Memorial",
+                "building": "ship",
+                "facebook": "https://www.facebook.com/USSLST325",
+                "heritage": "2",
+                "heritage:operator": "nrhp",
+                "heritage:ref": "09000434",
+                "heritage:website": "https://npgallery.nps.gov/AssetDetail/NRIS/09000434",
+                "historic": "ship",
+                "name": "USS LST-325",
+                "note": "Open 10-4 Tuesday from April-October.",
+                "nrhp:criteria": "(A),(C)",
+                "nrhp:inscription_date": "2009-06-24",
+                "opening_hours": "We-Su 10:00-16:00",
+                "phone": "+1-812-435-8678",
+                "ref:nrhp": "09000434",
+                "ship:type": "landing_ship",
+                "start_date": "1942-08-10",
+                "tourism": "attraction",
+                "twitter": "https://twitter.com/USS_LST_325",
+                "website": "https://www.lstmemorial.org/",
+                "wikidata": "Q6119988",
+                "wikipedia": "en:USS LST-325"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/USS_LST-325-9.jpg/1280px-USS_LST-325-9.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 238316328,
+            "lat": 37.9705478,
+            "lon": -87.5567856,
+            "tags": {
+                "addr:city": "Evansville",
+                "addr:housenumber": "579",
+                "addr:postcode": "47713",
+                "addr:street": "South Garvin Street",
+                "building": "yes",
+                "name": "Evansville African American Museum",
+                "tourism": "museum",
+                "website": "https://evansvilleaamuseum.wordpress.com/",
+                "wikidata": "Q56221070"
+            }
+        },
+        {
+            "type": "way",
+            "id": 301418671,
+            "lat": 42.7838492,
+            "lon": -89.2995542,
+            "tags": {
+                "building": "civic",
+                "building:levels": "1",
+                "fee": "no",
+                "name": "Evansville Community Partnership",
+                "opening_hours": "Jun-Sep: Sa 13:00-15:00",
+                "roof:levels": "0",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Grange_Store%2C_Evansville_Historic_District%2C_Evansville%2C_WI.JPG/1280px-Grange_Store%2C_Evansville_Historic_District%2C_Evansville%2C_WI.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 354181269,
+            "lat": 37.9652637,
+            "lon": -87.5731626,
+            "tags": {
+                "building": "yes",
+                "fee": "yes",
+                "name": "Evansville Museum",
+                "opening_hours": "We-Sa 11:00-17:00; Su 12:00-17:00",
+                "tourism": "museum",
+                "website": "https://emuseum.org/",
+                "wikidata": "Q5416035"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Sunset_Park_Pavilion_in_Evansville.jpg/1280px-Sunset_Park_Pavilion_in_Evansville.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 544645210,
+            "lat": 37.9977444,
+            "lon": -87.6034853,
+            "tags": {
+                "addr:city": "Evansville",
+                "addr:housenumber": "1545",
+                "addr:postcode": "47720",
+                "addr:state": "IN",
+                "addr:street": "Mesker Park Drive",
+                "alt_name": "Mesker Park;Mesker Park Zoo;Mesker Zoo",
+                "fee": "yes",
+                "name": "Mesker Park Zoo & Botanical Garden",
+                "note": "Mesker Park Zoo & Botanical Garden is free for University of Southern Indiana students.\n\nOpen 365 days a year.",
+                "opening_hours": "Mo-Su 09:00-16:00",
+                "tourism": "zoo",
+                "website": "https://meskerparkzoo.com/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Mesker_Park_Zoo.JPG/1280px-Mesker_Park_Zoo.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 675452512,
+            "lat": 37.996459,
+            "lon": -87.6011228,
+            "tags": {
+                "name": "Gilmore Haynie's Monkey Ship",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Mesker_Park_Zoo.JPG/1280px-Mesker_Park_Zoo.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 1093494664,
+            "lat": 37.9716442,
+            "lon": -87.5692349,
+            "tags": {
+                "building": "yes",
+                "fee": "yes",
+                "name": "Children's Museum of Evansville",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Children%27s_Museum_of_Evansville.jpg/1280px-Children%27s_Museum_of_Evansville.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 1193702090,
+            "lat": 37.967815,
+            "lon": -87.5720342,
+            "tags": {
+                "addr:city": "Evansville",
+                "addr:housenumber": "112",
+                "addr:postcode": "47713",
+                "addr:state": "IN",
+                "addr:street": "Chestnut Street",
+                "building": "yes",
+                "fee": "yes",
+                "name": "Reitz Home Museum",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/en/5/5e/Reitzhome.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 1457837059,
+            "lat": 37.9670573,
+            "lon": -87.57419,
+            "tags": {
+                "area": "yes",
+                "name": "Four Freedom's Monument",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Sunset_Park_Pavilion_in_Evansville.jpg/1280px-Sunset_Park_Pavilion_in_Evansville.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 3212368,
+            "lat": 37.972756,
+            "lon": -87.580219,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Bally%27s_Evansville_logo.png",
+            "description": "Bally's Evansville is a casino hotel and entertainment complex in downtown Evansville, Indiana, United States, owned by Gaming and Leisure Properties and operated by Bally's Corporation.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Bally's Evansville",
+                "wikipedia": "en:Bally's Evansville",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 1207224,
+            "lat": 37.9971,
+            "lon": -87.6016,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Mesker_Park_Zoo.JPG/1280px-Mesker_Park_Zoo.JPG",
+            "description": "The Mesker Park Zoo and Botanic Garden is a zoo that opened in 1928 in Evansville, Indiana, United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Mesker Park Zoo and Botanic Garden",
+                "wikipedia": "en:Mesker Park Zoo and Botanic Garden",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 21290785,
+            "lat": 37.97147222,
+            "lon": -87.56827778,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/EvansvilleSkyline.jpg/1280px-EvansvilleSkyline.jpg",
+            "description": "Downtown Evansville is the central business district of Evansville, Indiana.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Downtown Evansville",
+                "wikipedia": "en:Downtown Evansville",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 9334074,
+            "lat": 37.98438,
+            "lon": -87.49564,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/-_Eastland_Mall_Evansville%2C_IN_%2826734988555%29.jpg/1280px--_Eastland_Mall_Evansville%2C_IN_%2826734988555%29.jpg",
+            "description": "Eastland Mall is a regional shopping mall located on North Green River Road in Evansville, Indiana.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Eastland Mall (Evansville, Indiana)",
+                "wikipedia": "en:Eastland Mall (Evansville, Indiana)",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 24266676,
+            "lat": 37.960219,
+            "lon": -87.490764,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Washington_Square_Mall_Evansville%2C_IN_%2826735973845%29.jpg/1280px-Washington_Square_Mall_Evansville%2C_IN_%2826735973845%29.jpg",
+            "description": "Washington Square Mall is a shopping mall located in Evansville, Indiana, United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Washington Square Mall (Evansville, Indiana)",
+                "wikipedia": "en:Washington Square Mall (Evansville, Indiana)",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 28788902,
+            "lat": 37.97833333,
+            "lon": -87.57416667,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Willard_Library_from_southwest.jpg/1280px-Willard_Library_from_southwest.jpg",
+            "description": "The Willard Library is a private donation library incorporated in 1881 to serve the city of Evansville, Indiana.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Willard Library",
+                "wikipedia": "en:Willard Library",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 34831311,
+            "lat": 37.98333333,
+            "lon": -87.58333333,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Willard_Library_from_southwest.jpg/1280px-Willard_Library_from_southwest.jpg",
+            "description": "Lamasco is a former town, and current district, in Evansville, Indiana originally bounded by the present day streets of St.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Lamasco",
+                "wikipedia": "en:Lamasco",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 24764198,
+            "lat": 37.96225,
+            "lon": -87.56616667,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Alhambra_Theatorium.jpg/1280px-Alhambra_Theatorium.jpg",
+            "description": "The Haynie's Corner Arts District is a small area in Evansville's south-central side, adjacent to Downtown Evansville.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Haynies Corner Arts District",
+                "wikipedia": "en:Haynies Corner Arts District",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 7826769,
+            "lat": 37.97277778,
+            "lon": -87.56888889,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Victory_theatre.jpg",
+            "description": "The Victory Theatre is a 1,950-seat venue in Evansville, Indiana.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Victory Theatre",
+                "wikipedia": "en:Victory Theatre",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 4869618,
+            "lat": 37.98472222,
+            "lon": -87.50638889,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Wesselman_Woods_%285209578906%29.jpg/1280px-Wesselman_Woods_%285209578906%29.jpg",
+            "description": "Wesselman Woods Nature Preserve is a 240-acre (0.97 km2) nature preserve located in Evansville, Indiana.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Wesselman Woods Nature Preserve",
+                "wikipedia": "en:Wesselman Woods Nature Preserve",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 23444259,
+            "lat": 37.97416667,
+            "lon": -87.57333333,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/71/Soldiers_and_Sailors_Memorial_Coliseum.jpg",
+            "description": "The Soldiers and Sailors Memorial Coliseum (a.k.a.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Soldiers and Sailors Memorial Coliseum",
+                "wikipedia": "en:Soldiers and Sailors Memorial Coliseum",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 34829006,
+            "lat": 37.96583333,
+            "lon": -87.55,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/72/East_Branch_Library.jpg",
+            "description": "The Bayard Park Neighborhood is a neighborhood in Evansville, Indiana which is bounded by Lincoln Avenue, US Highway 41, Washington Avenue and Garvin Street.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Bayard Park Neighborhood",
+                "wikipedia": "en:Bayard Park Neighborhood",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 41207347,
+            "lat": 38.11527778,
+            "lon": -86.90944444,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Deutsch_Evangelische_St._Paul%27s_Kirche_at_Santa_Claus.jpg/1280px-Deutsch_Evangelische_St._Paul%27s_Kirche_at_Santa_Claus.jpg",
+            "description": "Santa Claus Museum & Village is an attraction being developed near the community of Santa Claus, Indiana.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Santa Claus Museum and Village",
+                "wikipedia": "en:Santa Claus Museum and Village",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 100584,
+            "lat": 39.47972222,
+            "lon": -87.375,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Terre_Haute%2C_Indiana_city_hall.jpg/1280px-Terre_Haute%2C_Indiana_city_hall.jpg",
+            "description": "Terre Haute ( TERR-ə HOHT) is a city in Vigo County, Indiana, United States, and its county seat.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Terre Haute, Indiana",
+                "wikipedia": "en:Terre Haute, Indiana",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 21883857,
+            "lat": 40,
+            "lon": -86,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Flag_of_Indiana.svg/1280px-Flag_of_Indiana.svg.png",
+            "description": "Indiana (  IN-dee-AN-ə) is a state in the Midwestern region of the United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Indiana",
+                "wikipedia": "en:Indiana",
+                "tourism": "attraction"
+            }
+        }
+    ]
+}

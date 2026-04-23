@@ -1,0 +1,534 @@
+{
+    "city_metadata": {
+        "city_name": "Alexandria",
+        "state_code": "VA",
+        "state_full": "Virginia",
+        "city_summary": "Alexandria is an independent city in the U.S. state of Virginia. It lies on the western bank of the Potomac River in Northern Virginia, bordering Washington, D.C. to the northeast. The city's population of 159,467 at the 2020 census made it the sixth-most populous city in Virginia and 169th-most populous city in the U.S. Alexandria is a principal city of the Washington metropolitan area, which is part of the larger Washington–Baltimore combined statistical area.",
+        "city_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Old_Town_Alexandria_from_George_Washington_Masonic_National_Memorial.jpg/1280px-Old_Town_Alexandria_from_George_Washington_Masonic_National_Memorial.jpg",
+        "city_lat": 38.82027778,
+        "city_lon": -77.05027778,
+        "source": "wikipedia_verified_engine"
+    },
+    "attractions": [
+        {
+            "type": "node",
+            "id": 2245515674,
+            "lat": 38.8024926,
+            "lon": -77.0636553,
+            "tags": {
+                "description": "also a fountain\nDesigner/inventor Richard Buckminster Fuller, US patent number 2,682,235\ndate issued June 29, 1954",
+                "name": "Geodesic Dome",
+                "toilets:wheelchair": "no",
+                "tourism": "attraction",
+                "wheelchair": "yes"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Seal_of_the_United_States_Patent_and_Trademark_Office.svg/1280px-Seal_of_the_United_States_Patent_and_Trademark_Office.svg.png",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 2245523619,
+            "lat": 38.8018904,
+            "lon": -77.059812,
+            "tags": {
+                "addr:city": "Alexandria",
+                "addr:housenumber": "500",
+                "addr:street": "Holland Lane",
+                "name": "African American Heritage Park Sculpture",
+                "tourism": "attraction",
+                "website": "http://alexandriava.gov/historic/blackhistory/default.aspx?id=37348#sculptures"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Orange_and_Alexandria_Railroad_Hooff%27s_Run_Bridge.JPG/1280px-Orange_and_Alexandria_Railroad_Hooff%27s_Run_Bridge.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 2634652935,
+            "lat": 43.9716029,
+            "lon": 25.3269655,
+            "tags": {
+                "SIRUTA:code": "151807",
+                "addr:city": "Alexandria",
+                "addr:housenumber": "1",
+                "addr:postcode": "140033",
+                "addr:street": "Strada 1848",
+                "codul_entității_muzeale": "6971500.0",
+                "description:ro": "infiintat, ca Muzeu orasenesc, in 1951. in 1981, se transforma in Complex Muzeal Judetean, functionand in trei sedii.",
+                "email": "muzjudteleorman@yahoo.com",
+                "fax": "+40 247 314 761",
+                "heritage": "2",
+                "heritage:operator": "lmi",
+                "name": "Muzeul Județean Teleorman",
+                "name:en": "Teleorman County Museum",
+                "opening_hours": "9:00-17:00; Sa, Su closed",
+                "phone": "+40 247 314 761",
+                "ref:RO:lmi": "TR-II-m-B-14251",
+                "source": "INP",
+                "source:link": "http://date.gov.ro/dataset/ghidul-muzeelor-din-romania",
+                "start_date": "1952",
+                "tourism": "museum",
+                "tourism_survey": "12.12.2013 12:55:06",
+                "website": "https://www.muzeulteleorman.ro/",
+                "wikidata": "Q18542248"
+            }
+        },
+        {
+            "type": "node",
+            "id": 4214522990,
+            "lat": 38.812692,
+            "lon": -77.0481099,
+            "tags": {
+                "addr:housenumber": "901",
+                "addr:street": "Wythe Street",
+                "name": "Memorial Pool",
+                "phone": "+1-703-746-5552",
+                "tourism": "attraction",
+                "website": "https://www.alexandriava.gov/Aquatics#OutdoorPools"
+            }
+        },
+        {
+            "type": "node",
+            "id": 4247447687,
+            "lat": 31.308973,
+            "lon": -92.4447428,
+            "tags": {
+                "addr:city": "Alexandria",
+                "addr:housenumber": "503",
+                "addr:state": "LA",
+                "addr:street": "Washington Street",
+                "museum": "history",
+                "name": "Louisiana History Museum",
+                "tourism": "museum",
+                "website": "http://www.louisianahistorymuseum.org/",
+                "wikidata": "Q6689220",
+                "wikipedia": "en:Louisiana History Museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Louisiana_history_museum.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 4413744423,
+            "lat": 38.7925837,
+            "lon": -77.0417404,
+            "tags": {
+                "name": "World War I-Era Rudder",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Jones_Point_Park_-_Alexandria%2C_Virginia.jpg/1280px-Jones_Point_Park_-_Alexandria%2C_Virginia.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 4880518249,
+            "lat": 38.7903397,
+            "lon": -77.0405837,
+            "tags": {
+                "historic": "boundary_stone",
+                "name": "South Corner Boundary Stone",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Jones_Point_Light.jpg/1280px-Jones_Point_Light.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 7108114389,
+            "lat": 38.9597024,
+            "lon": -84.3867173,
+            "tags": {
+                "addr:street": "East Main Street",
+                "name": "Campbell County Historical and Genealogical Society Museum",
+                "operator": "Campbell County Historical and Genealogical Society",
+                "operator:type": "private_non_profit",
+                "tourism": "museum",
+                "website": "https://cchgsky.org/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Old_Campbell_County_Courthouse_2022a.jpg/1280px-Old_Campbell_County_Courthouse_2022a.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 8274807496,
+            "lat": 38.8042469,
+            "lon": -77.0427505,
+            "tags": {
+                "addr:city": "Alexandria",
+                "addr:housenumber": "105;107",
+                "addr:postcode": "22314",
+                "addr:state": "VA",
+                "addr:street": "South Fairfax Street",
+                "fee": "yes",
+                "name": "Stabler-Leadbeater Apothecary Musuem",
+                "opening_hours:url": "https://www.alexandriava.gov/museums/location/visit-stabler-leadbeater-apothecary-museum",
+                "tourism": "museum",
+                "website": "https://alexandriava.gov/Apothecary",
+                "wheelchair": "limited",
+                "wheelchair:description": "Only the first floor is wheelchair accessible.",
+                "wikidata": "Q7595786",
+                "wikipedia": "en:Stabler-Leadbeater Apothecary Shop"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Stabler-Leadbeater_Apothecary_Shop_%28present_day%29.jpg/1280px-Stabler-Leadbeater_Apothecary_Shop_%28present_day%29.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 9558867368,
+            "lat": 38.8246349,
+            "lon": -77.0563169,
+            "tags": {
+                "description": "https://thezebra.org/2019/04/01/renee-adams-celebrates-10-years-of-her-poetry-fence/",
+                "name": "Del Ray Poetry Fence",
+                "operator": "Renee Adams",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Town_of_Potomac_05.JPG/1280px-Town_of_Potomac_05.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 10711178598,
+            "lat": 38.8014329,
+            "lon": -77.0641927,
+            "tags": {
+                "addr:city": "Alexandria",
+                "addr:housenumber": "600",
+                "addr:postcode": "22314",
+                "addr:state": "VA",
+                "addr:street": "Dulany Street",
+                "check_date:opening_hours": "2025-04-11",
+                "fee": "no",
+                "name": "National Inventors Hall of Fame and Museum",
+                "opening_hours": "Mo-Sa 10:00-16:00; Sa[1] 11:00-15:00; Su, PH off",
+                "tourism": "museum",
+                "website": "https://www.uspto.gov/about-us/uspto-locations/alexandria-va/national-inventors-hall-fame-and-museum",
+                "wikidata": "Q1366018"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Interactive_kiosk_for_inventor_information_-_1%2C_National_Inventors_Hall_of_Fame_-_USPTO_building_in_Alexandria%2C_Virginia.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 11876397521,
+            "lat": 38.8284889,
+            "lon": -77.0603779,
+            "tags": {
+                "colour": "red",
+                "description": "Red Norfolk and Western caboose, number 518297",
+                "gauge": "1435",
+                "historic": "railway_car",
+                "name": "Mount Vernon Community School Caboose",
+                "old_name": "Norfolk and Western number 518297",
+                "operator": "Alexandria City Public Schools",
+                "operator:short": "ACPS",
+                "operator:type": "public",
+                "operator:wikidata": "Q4720962",
+                "operator:wikipedia": "en:Alexandria City Public Schools",
+                "railway_car": "caboose",
+                "start_date": "1973",
+                "tourism": "attraction",
+                "website": "https://mvcs.acps.k12.va.us/about/history-of-our-school"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Town_of_Potomac_05.JPG/1280px-Town_of_Potomac_05.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 42679829,
+            "lat": 31.2879986,
+            "lon": -92.4588693,
+            "tags": {
+                "addr:city": "Alexandria",
+                "addr:housenumber": "3016",
+                "addr:state": "LA",
+                "addr:street": "Masonic Drive",
+                "alt_name": "Alexandria Zoo",
+                "leisure": "park",
+                "name": "Alexandria Zoological Park",
+                "phone": "+1 318-441-6810",
+                "tourism": "zoo",
+                "website": "https://www.thealexandriazoo.com/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Alexandria%2C_LA%2C_Zoo_sign_IMG_1164.JPG/1280px-Alexandria%2C_LA%2C_Zoo_sign_IMG_1164.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 88558705,
+            "lat": 31.3121936,
+            "lon": -92.4441994,
+            "tags": {
+                "addr:city": "Alexandria",
+                "addr:housenumber": "933",
+                "addr:postcode": "71301",
+                "addr:state": "LA",
+                "addr:street": "2nd Street",
+                "building": "yes",
+                "building:levels": "3",
+                "ele": "24",
+                "gnis:feature_id": "551812",
+                "museum": "art",
+                "name": "Alexandria Museum of Art",
+                "source": "USGS Geonames",
+                "tourism": "museum",
+                "wikidata": "Q931081",
+                "wikipedia": "en:Alexandria Museum of Art"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Alexandria_museum.JPG/1280px-Alexandria_museum.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 89078521,
+            "lat": 31.3095774,
+            "lon": -92.4422783,
+            "tags": {
+                "addr:city": "Alexandria",
+                "addr:housenumber": "1327",
+                "addr:postcode": "71301",
+                "addr:state": "LA",
+                "addr:street": "3rd Street",
+                "building": "yes",
+                "name": "Arna Bontemps African-American Museum",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/James_Wade_Bolton_House.jpg/1280px-James_Wade_Bolton_House.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 89078527,
+            "lat": 31.3094722,
+            "lon": -92.4416131,
+            "tags": {
+                "building": "yes",
+                "name": "T.R.E.E. House Children's Museum",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/James_Wade_Bolton_House.jpg/1280px-James_Wade_Bolton_House.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 160819595,
+            "lat": 38.8075031,
+            "lon": -77.0659881,
+            "tags": {
+                "addr:city": "Alexandria",
+                "addr:country": "US",
+                "addr:housenumber": "101",
+                "addr:postcode": "22301",
+                "addr:state": "VA",
+                "addr:street": "Callahan Drive",
+                "building": "memorial",
+                "building:colour": "linen",
+                "building:levels": "3",
+                "club": "freemasonry",
+                "ele": "37",
+                "fax": "+1-703-519-9270",
+                "gnis:feature_id": "1478644",
+                "heritage": "2",
+                "heritage:operator": "nrhp",
+                "heritage:ref": "15000622",
+                "heritage:website": "https://npgallery.nps.gov/AssetDetail/NRIS/15000622",
+                "historic": "heritage",
+                "landmark": "yes",
+                "name": "George Washington Masonic National Memorial",
+                "nrhp:inscription_date": "2015-07-21",
+                "nrhp:nhl": "yes",
+                "operator": "The George Washington Masonic National Memorial Association",
+                "operator:abbr": "GWMNMA",
+                "phone": "+1-703-683-2007",
+                "ref:nrhp": "15000622",
+                "short_name": "GWMNM",
+                "start_date": "1932-05-12",
+                "tourism": "attraction",
+                "website": "https://gwmemorial.org/",
+                "wikidata": "Q611813",
+                "wikipedia": "en:George Washington Masonic National Memorial"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Front_View_of_George_Washington_Masonic_National_Memorial.jpg/1280px-Front_View_of_George_Washington_Masonic_National_Memorial.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 205035488,
+            "lat": 38.8049578,
+            "lon": -77.0494958,
+            "tags": {
+                "addr:city": "Alexandria",
+                "addr:housenumber": "107",
+                "addr:postcode": "22314",
+                "addr:state": "VA",
+                "addr:street": "South Alfred Street",
+                "building": "yes",
+                "ele": "13",
+                "gnis:feature_id": "1501761",
+                "name": "Friendship Fire Station",
+                "source": "USGS Geonames",
+                "tourism": "museum",
+                "website": "https://alexandriava.gov/historic/friendship/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Alfred_Street_Baptist_Church_-_historic_building.jpg/1280px-Alfred_Street_Baptist_Church_-_historic_building.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 233012511,
+            "lat": 38.8037454,
+            "lon": -77.0476069,
+            "tags": {
+                "addr:city": "Alexandria",
+                "addr:housenumber": "700",
+                "addr:postcode": "22314",
+                "addr:state": "VA",
+                "addr:street": "Prince Street",
+                "building": "yes",
+                "ele": "12",
+                "fee": "yes",
+                "fee:conditional": "no@(Alexandria residents); no@(age <= 5); no@(American Alliance of Museum members); no@(Virginia Association of Museums Members); no@(veterans); no@(Alexandria City employees)",
+                "gnis:feature_id": "1501833",
+                "name": "Lyceum Museum",
+                "source": "USGS Geonames",
+                "tourism": "museum",
+                "website": "https://www.alexandriava.gov/Lyceum",
+                "wikidata": "Q6707234"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Alexandria_History_Museum_at_the_Lyceum%2C_Alexandria%2C_Virginia.jpg/1280px-Alexandria_History_Museum_at_the_Lyceum%2C_Alexandria%2C_Virginia.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 425354833,
+            "lat": 31.3034439,
+            "lon": -92.4829077,
+            "tags": {
+                "addr:city": "Alexandria",
+                "addr:housenumber": "3601",
+                "addr:state": "LA",
+                "addr:street": "Bayou Rapides Road",
+                "building": "yes",
+                "name": "Kent Plantation House",
+                "tourism": "museum",
+                "website": "http://www.kenthouse.org/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/26/Kent_Plantation_House.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 745715820,
+            "lat": 38.8039168,
+            "lon": -77.0544858,
+            "tags": {
+                "addr:city": "Alexandria",
+                "addr:housenumber": "1315",
+                "addr:postcode": "22314",
+                "addr:state": "VA",
+                "addr:street": "Duke Street",
+                "building": "yes",
+                "name": "Freedom House Museum",
+                "operator": "Northern Virginia Urban League",
+                "operator:type": "association",
+                "tourism": "museum",
+                "wikidata": "Q1445302",
+                "wikipedia": "en:Franklin and Armfield Office"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Freedom_House_2025.jpg/1280px-Freedom_House_2025.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 831013781,
+            "lat": 45.8902726,
+            "lon": -95.379352,
+            "tags": {
+                "building": "yes",
+                "name": "Legacy of the Lakes Museum",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Legacy_of_the_Lakes_Museum_logo.png",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 1077528557,
+            "lat": 45.905685,
+            "lon": -95.3657883,
+            "tags": {
+                "addr:city": "Alexandria",
+                "addr:housenumber": "1305",
+                "addr:postcode": "56308",
+                "addr:state": "MN",
+                "addr:street": "North Nokomis Northeast",
+                "name": "Casey's Amusement Park",
+                "opening_hours": "Mo-Su 10:30-22:00",
+                "tourism": "theme_park",
+                "website": "http://www.caseysamusementpark.com/"
+            }
+        },
+        {
+            "type": "way",
+            "id": 1102716114,
+            "lat": 45.8902094,
+            "lon": -95.378079,
+            "tags": {
+                "addr:city": "Alexandria",
+                "addr:housenumber": "206",
+                "addr:postcode": "56308",
+                "addr:state": "MN",
+                "addr:street": "Broadway Street",
+                "alt_name": "Kensington Runestone Museum",
+                "building": "yes",
+                "ele": "425",
+                "email": "bigole@rea-alp.com",
+                "fax": "+1-320-763-9705",
+                "gnis:feature_id": "2069792",
+                "name": "Runestone Museum",
+                "phone": "+1-320-763-3160",
+                "source": "microsoft/BuildingFootprints;USGS Geonames",
+                "tourism": "museum",
+                "website": "https://www.runestonemuseum.org/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Runestone_Museum-00.jpg/1280px-Runestone_Museum-00.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 1185184374,
+            "lat": 40.5576233,
+            "lon": -78.0994271,
+            "tags": {
+                "addr:housenumber": "311",
+                "addr:postcode": "16611",
+                "addr:street": "Main Street",
+                "building": "yes",
+                "contact:facebook": "hartslog",
+                "email": "hartslogday@gmail.com",
+                "name": "Hartslog Heritage Museum",
+                "phone": "+1-814-207-1410",
+                "tourism": "museum",
+                "website": "https://huntingdonhistory.org/links/hartslog-heritage-museum/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Alexandria_PA_Library.jpg/1280px-Alexandria_PA_Library.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 1228983365,
+            "lat": 40.2651695,
+            "lon": -85.674136,
+            "tags": {
+                "addr:city": "Alexandria",
+                "addr:housenumber": "313",
+                "addr:postcode": "46001",
+                "addr:state": "IN",
+                "addr:street": "North Harrison Street",
+                "building": "yes",
+                "name": "Alexandria Monroe Historical Society",
+                "opening_hours": "Th 13:00-17:00; Sa 10:00-13:00; Su-We,Fr off",
+                "tourism": "museum"
+            }
+        }
+    ]
+}

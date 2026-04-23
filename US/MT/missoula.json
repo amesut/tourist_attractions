@@ -1,0 +1,396 @@
+{
+    "city_metadata": {
+        "city_name": "Missoula",
+        "state_code": "MT",
+        "state_full": "Montana",
+        "city_summary": "Missoula (  miz-OO-lə) is a city in and the county seat of Missoula County, Montana, United States. It is located along the Clark Fork River near its confluence with the Bitterroot and Blackfoot rivers in western Montana and at the convergence of five mountain ranges, and thus it is often described as the \"hub of five valleys\". It is the second-most populous city in Montana with a population of 73,489 at the 2020 census and estimated at 78,204 in 2024, while the Missoula metropolitan area has an estimated 128,000 residents.",
+        "city_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Missoula%2C_Montana.jpg/1280px-Missoula%2C_Montana.jpg",
+        "city_lat": 46.874359,
+        "city_lon": -114.026136,
+        "source": "wikipedia_verified_engine"
+    },
+    "attractions": [
+        {
+            "type": "node",
+            "id": 7165548181,
+            "lat": 46.8717535,
+            "lon": -113.9972065,
+            "tags": {
+                "name": "E3 Convergance Gallery",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Gleim_Building.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 134016998,
+            "lat": 46.9175146,
+            "lon": -114.0780678,
+            "tags": {
+                "addr:city": "Missoula",
+                "addr:housenumber": "5843",
+                "addr:postcode": "59801",
+                "addr:state": "MT",
+                "building": "yes",
+                "name": "Museum of Mountain Flying",
+                "source": "bing",
+                "tourism": "museum"
+            }
+        },
+        {
+            "type": "way",
+            "id": 141801135,
+            "lat": 46.8724152,
+            "lon": -113.9924467,
+            "tags": {
+                "addr:city": "Missoula",
+                "addr:housenumber": "335",
+                "addr:postcode": "59802",
+                "addr:state": "MT",
+                "addr:street": "North Pattee Street",
+                "air_conditioning": "yes",
+                "building": "yes",
+                "building:levels": "3",
+                "name": "Missoula Art Museum",
+                "opening_hours": "Tu-Sa 10:00-17:00",
+                "phone": "+1-406-728-0447",
+                "tourism": "museum",
+                "wheelchair": "yes"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Missoula%2C_Montana_-_Masonic_Temple.JPG/1280px-Missoula%2C_Montana_-_Masonic_Temple.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 749461106,
+            "lat": 46.8430416,
+            "lon": -114.063196,
+            "tags": {
+                "area": "yes",
+                "historic": "railway_car",
+                "name": "Library Car",
+                "start_date": "1921",
+                "tourism": "attraction",
+                "website": "https://buildings.fortmissoulamuseum.org/library-car/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Barracks_at_Fort_Missoula.jpg/1280px-Barracks_at_Fort_Missoula.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 749461107,
+            "lat": 46.8430622,
+            "lon": -114.0633539,
+            "tags": {
+                "area": "yes",
+                "historic": "railway_car",
+                "name": "“Galloping Goose” Crummy",
+                "tourism": "attraction",
+                "website": "https://buildings.fortmissoulamuseum.org/galloping-goose-crummy/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Barracks_at_Fort_Missoula.jpg/1280px-Barracks_at_Fort_Missoula.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 749461121,
+            "lat": 46.8438157,
+            "lon": -114.0629012,
+            "tags": {
+                "addr:city": "Missoula",
+                "addr:housenumber": "3400",
+                "addr:postcode": "59804",
+                "addr:state": "MT",
+                "addr:street": "Capt Rawn Way",
+                "building": "yes",
+                "ele": "959",
+                "gnis:feature_id": "1781213",
+                "name": "Historical Museum at Fort Missoula",
+                "source": "USGS Geonames",
+                "tourism": "museum",
+                "website": "https://fortmissoulamuseum.org/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Barracks_at_Fort_Missoula.jpg/1280px-Barracks_at_Fort_Missoula.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 832961455,
+            "lat": 46.8706428,
+            "lon": -114.005993,
+            "tags": {
+                "addr:housenumber": "120",
+                "addr:state": "MT",
+                "addr:street": "Hickory Street",
+                "building": "yes",
+                "museum": "nature",
+                "name": "Montana Natural History Center / Five Valleys Land Trust",
+                "source": "microsoft/BuildingFootprints",
+                "tourism": "museum",
+                "website": "https://www.montananaturalist.org"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Ogren_Park_at_Allegiance_Field_%28Missoula%2C_Montana%29.jpg/1280px-Ogren_Park_at_Allegiance_Field_%28Missoula%2C_Montana%29.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 897821855,
+            "lat": 46.8728,
+            "lon": -113.9685526,
+            "tags": {
+                "area": "yes",
+                "man_made": "geoglyph",
+                "name": "The L",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "way",
+            "id": 930375259,
+            "lat": 46.870787,
+            "lon": -113.99039,
+            "tags": {
+                "addr:city": "Missoula",
+                "addr:housenumber": "327",
+                "addr:postcode": "59802",
+                "addr:state": "MT",
+                "addr:street": "East Broadway Street",
+                "building": "yes",
+                "layer": "1",
+                "name": "Arts Missoula",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Bookmobile_at_Dragon_Hollow_and_the_Carousel.jpg/1280px-Bookmobile_at_Dragon_Hollow_and_the_Carousel.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 1149785200,
+            "lat": 46.8485098,
+            "lon": -114.0142958,
+            "tags": {
+                "addr:city": "Missoula",
+                "addr:housenumber": "1075",
+                "addr:postcode": "59801",
+                "addr:state": "MT",
+                "addr:street": "South Avenue West",
+                "addr:unit": "2",
+                "building": "yes",
+                "name": "Missoula Butterfly House and Insectarium",
+                "tourism": "zoo",
+                "website": "https://www.missoulabutterflyhouse.org/",
+                "zoo": "butterfly"
+            }
+        },
+        {
+            "type": "way",
+            "id": 1155345324,
+            "lat": 46.8647689,
+            "lon": -113.9846678,
+            "tags": {
+                "building": "commercial",
+                "name": "Montana Museum of Art and Culture",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Montana_Museum_of_Art_and_Culture_from_the_south_side.jpg/1280px-Montana_Museum_of_Art_and_Culture_from_the_south_side.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 28554384,
+            "lat": 46.87222222,
+            "lon": -113.99388889,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Downtown_Missoula_center.jpg/1280px-Downtown_Missoula_center.jpg",
+            "description": "Downtown Missoula is the central business district in Missoula, Montana, and West-Central Montana.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Downtown Missoula",
+                "wikipedia": "en:Downtown Missoula",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 30136395,
+            "lat": 46.874504,
+            "lon": -113.998022,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/St._Francis_Xavier_Church.jpg/1280px-St._Francis_Xavier_Church.jpg",
+            "description": "The St.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "St. Francis Xavier Church (Missoula, Montana)",
+                "wikipedia": "en:St. Francis Xavier Church (Missoula, Montana)",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 29628100,
+            "lat": 46.89305556,
+            "lon": -114.02083333,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Missoula_Cemetery_Gates.jpg/1280px-Missoula_Cemetery_Gates.jpg",
+            "description": "Missoula Cemetery is the second oldest cemetery located in Missoula, Montana, with Fort Missoula Cemetery being the oldest.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Missoula Cemetery",
+                "wikipedia": "en:Missoula Cemetery",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 29618574,
+            "lat": 46.8525,
+            "lon": -113.96333333,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Umt-mt-sentinel.jpg",
+            "description": "Mount Sentinel, originally known as \"Mount Woody,\" is a small mountain located immediately east of the University of Montana in Missoula, Montana.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Mount Sentinel",
+                "wikipedia": "en:Mount Sentinel",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 19978,
+            "lat": 47,
+            "lon": -110,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Flag_of_Montana.svg/1280px-Flag_of_Montana.svg.png",
+            "description": "Montana (  mon-TAN-ə) is a landlocked state in the Mountain West subregion of the Western United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Montana",
+                "wikipedia": "en:Montana",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 257453,
+            "lat": 45.90222222,
+            "lon": -112.65666667,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/31/Butte_uptown.jpg",
+            "description": "Butte ( BYEWT) is a consolidated city-county in and the county seat of Silver Bow County, Montana, United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Butte, Montana",
+                "wikipedia": "en:Butte, Montana",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 2842506,
+            "lat": 48.20833333,
+            "lon": -109.5175,
+            "image_url": "https://upload.wikimedia.org/wikipedia/en/1/18/Little_Belts.PNG",
+            "description": "The Bears Paw Mountains (Bear Paw Mountains, Bear's Paw Mountains or Bearpaw  Mountains) are an insular-montane island range in the Central Montana Alkalic Province in north-central Montana, United States, located approximately 10 miles south of Havre, Montana.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Bears Paw Mountains",
+                "wikipedia": "en:Bears Paw Mountains",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 123563,
+            "lat": 45.66166667,
+            "lon": -110.58027778,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Livingston%2C_Montana_aerial_view_of_town.jpg/1280px-Livingston%2C_Montana_aerial_view_of_town.jpg",
+            "description": "Livingston is a city in and the county seat of Park County, Montana, United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Livingston, Montana",
+                "wikipedia": "en:Livingston, Montana",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 95437,
+            "lat": 48.7,
+            "lon": -113.02,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Glacier_County_Courthouse_July_2020.jpg/1280px-Glacier_County_Courthouse_July_2020.jpg",
+            "description": "Glacier County is located in the U.S. state of Montana.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Glacier County, Montana",
+                "wikipedia": "en:Glacier County, Montana",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 123354,
+            "lat": 47.49166667,
+            "lon": -111.28916667,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Central_Ave_and_Civic_Center_2.JPG/1280px-Central_Ave_and_Civic_Center_2.JPG",
+            "description": "Great Falls is the third most populous city in the U.S. state of Montana and the county seat of Cascade County.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Great Falls, Montana",
+                "wikipedia": "en:Great Falls, Montana",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 123412,
+            "lat": 48.54277778,
+            "lon": -109.68027778,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Hill_County_Montana_Incorporated_and_Unincorporated_areas_Havre_Highlighted.svg/1280px-Hill_County_Montana_Incorporated_and_Unincorporated_areas_Havre_Highlighted.svg.png",
+            "description": "Havre ( HAV-ər) is the county seat of and the largest city in Hill County, Montana, United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Havre, Montana",
+                "wikipedia": "en:Havre, Montana",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 123505,
+            "lat": 45.34611111,
+            "lon": -111.73194444,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Ennismainstreet.jpg/1280px-Ennismainstreet.jpg",
+            "description": "Ennis is a town in Madison County, Montana, United States, in the southwestern part of the state.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Ennis, Montana",
+                "wikipedia": "en:Ennis, Montana",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 134987,
+            "lat": 44.07138889,
+            "lon": -103.22083333,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Rapid_City_Skyline_%282022%29.jpg/1280px-Rapid_City_Skyline_%282022%29.jpg",
+            "description": "Rapid City is a city in and the county seat of Pennington County, South Dakota, United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Rapid City, South Dakota",
+                "wikipedia": "en:Rapid City, South Dakota",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 346097,
+            "lat": 45.57595,
+            "lon": -122.11536,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Multnomah_Falls_on_2_August_2012.jpg/1280px-Multnomah_Falls_on_2_August_2012.jpg",
+            "description": "Multnomah Falls is a waterfall located on Multnomah Creek in the Columbia River Gorge, east of Troutdale, between Corbett and Dodson, Oregon, United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Multnomah Falls",
+                "wikipedia": "en:Multnomah Falls",
+                "tourism": "attraction"
+            }
+        }
+    ]
+}

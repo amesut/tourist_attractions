@@ -1,0 +1,413 @@
+{
+    "city_metadata": {
+        "city_name": "Chattanooga",
+        "state_code": "TN",
+        "state_full": "Tennessee",
+        "city_summary": "Chattanooga ( CHAT-ə-NOO-gə) is a city in Hamilton County, Tennessee, United States, and its county seat. It is located along the Tennessee River and borders Georgia to the south. The population was 181,099 at the 2020 census, and was estimated at 191,496 in 2024, it is Tennessee's fourth-most populous city and one of the two principal cities of East Tennessee, along with Knoxville.",
+        "city_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Chattanooga%2C_Tennessee_%282023%29.jpg/1280px-Chattanooga%2C_Tennessee_%282023%29.jpg",
+        "city_lat": 35.065958,
+        "city_lon": -85.248386,
+        "source": "wikipedia_verified_engine"
+    },
+    "attractions": [
+        {
+            "type": "node",
+            "id": 368158248,
+            "lat": 35.0503516,
+            "lon": -85.290513,
+            "tags": {
+                "addr:state": "TN",
+                "ele": "213",
+                "gnis:feature_id": "1986315",
+                "name": "Siskin Museum of Religious Artifacts",
+                "source": "USGS Geonames",
+                "tourism": "museum",
+                "website": "https://www.siskin.org/museum-of-religious-artifacts/#:~:text=The%20Siskin%20Museum%20of%20Religious%20Artifacts%20contains%20over%20400%20religious,%2C%20Hinduism%2C%20Confucianism%20and%20others."
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Children%27s_Hospital_at_Erlanger.jpg/1280px-Children%27s_Hospital_at_Erlanger.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 10966558261,
+            "lat": 35.0651711,
+            "lon": -85.2057086,
+            "tags": {
+                "addr:city": "Chattanooga",
+                "addr:housenumber": "4543",
+                "addr:postcode": "37421",
+                "addr:state": "TN",
+                "addr:street": "Turntable Road",
+                "description": "Office and archives of the Southern Railway Historical Assoc. Not open to the public.",
+                "email": "membership@srha.net",
+                "museum": "history",
+                "name": "Southern Railway Historical Assoc",
+                "opening_hours": "Open by appointment only",
+                "operator": "SRHA",
+                "operator:type": "private_non_profit",
+                "tourism": "museum"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10966558262,
+            "lat": 35.0649214,
+            "lon": -85.2058296,
+            "tags": {
+                "addr:city": "Chattanooga",
+                "addr:housenumber": "4543",
+                "addr:postcode": "37421",
+                "addr:state": "TN",
+                "addr:street": "Turntable Road",
+                "description": "Offices and archives of the L&N Historical Society. Not open to the public.",
+                "email": "contactlnhs@gmail.com",
+                "museum": "history",
+                "name": "Louisville & Nashville Historical Society",
+                "opening_hours": "Open by appointment only",
+                "operator": "L&N Historical Society",
+                "operator:type": "private_non_profit",
+                "tourism": "museum",
+                "website": "http://www.lnrr.org"
+            }
+        },
+        {
+            "type": "node",
+            "id": 12691312191,
+            "lat": 35.0552275,
+            "lon": -85.3104918,
+            "tags": {
+                "addr:city": "Chattanooga",
+                "addr:housenumber": "2",
+                "addr:postcode": "37401",
+                "addr:state": "TN",
+                "addr:street": "West Aquarium Way",
+                "addr:unit": "104",
+                "alt_name": "National Medal of Honor Heritage Center",
+                "museum": "military",
+                "name": "Coolidge National Medal of Honor Heritage Center",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/TN_Aquarium.jpg/1280px-TN_Aquarium.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 13547349743,
+            "lat": 35.0482146,
+            "lon": -85.2928749,
+            "tags": {
+                "alt_name": "Steam Engine 349",
+                "historic": "locomotive",
+                "name": "Central of Georgia 349",
+                "tourism": "attraction",
+                "website": "https://www.tvrail.com/equipment/central-of-georgia-349/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Children%27s_Hospital_at_Erlanger.jpg/1280px-Children%27s_Hospital_at_Erlanger.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 45189188,
+            "lat": 35.0547297,
+            "lon": -85.3057668,
+            "tags": {
+                "addr:city": "Chattanooga",
+                "addr:housenumber": "201",
+                "addr:postcode": "37403",
+                "addr:state": "TN",
+                "addr:street": "High Street",
+                "building": "yes",
+                "fee": "yes",
+                "name": "Houston Museum of Decorative Arts",
+                "opening_hours": "Tu-Sa 12:00-16:00",
+                "tourism": "museum",
+                "website": "https://www.thehoustonmuseum.org/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Hunter_Museum_entrance_2.jpg/1280px-Hunter_Museum_entrance_2.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 45200590,
+            "lat": 35.05268,
+            "lon": -85.3122013,
+            "tags": {
+                "building": "yes",
+                "name": "Creative Discovery Museum",
+                "tourism": "museum",
+                "website": "https://www.cdmfun.org/",
+                "wikidata": "Q5183511"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Creative_Discovery_Museum.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 78344212,
+            "lat": 35.0445706,
+            "lon": -85.3065903,
+            "tags": {
+                "addr:city": "Chattanooga",
+                "addr:housenumber": "200",
+                "addr:postcode": "37403",
+                "addr:state": "TN",
+                "addr:street": "East Martin Luther King Boulevard",
+                "building": "yes",
+                "name": "Bessie Smith Cultural Center and Chattanooga African American Museum",
+                "source": "USGS Ortho",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Exterior._The_Joel_Solomon_Federal_Building_and_U.S._Courthouse%2C_Chattanooga%2C_Tennessee_LCCN2014630076.tif/lossy-page1-1280px-Exterior._The_Joel_Solomon_Federal_Building_and_U.S._Courthouse%2C_Chattanooga%2C_Tennessee_LCCN2014630076.tif.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 84563650,
+            "lat": 35.0187325,
+            "lon": -85.3392923,
+            "tags": {
+                "name": "Ruby Falls",
+                "note": "Boundaries probably need adjusting versus NPS park boundaries.",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/RubyExt2.JPG/1280px-RubyExt2.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 122697233,
+            "lat": 35.0431547,
+            "lon": -85.28334,
+            "tags": {
+                "name": "Chattanooga Zoo",
+                "tourism": "zoo"
+            }
+        },
+        {
+            "type": "way",
+            "id": 147177617,
+            "lat": 35.0394631,
+            "lon": -85.2735803,
+            "tags": {
+                "gnis:feature_id": "1986316",
+                "historic": "battlefield",
+                "leisure": "park",
+                "name": "Orchard Knob Reservation",
+                "tourism": "attraction",
+                "wikidata": "Q49535924"
+            }
+        },
+        {
+            "type": "way",
+            "id": 231130663,
+            "lat": 35.0678909,
+            "lon": -85.2061398,
+            "tags": {
+                "addr:city": "Chattanooga",
+                "addr:housenumber": "4119",
+                "addr:postcode": "37421",
+                "addr:state": "TN",
+                "addr:street": "Cromwell Road",
+                "building": "yes",
+                "museum": "history",
+                "name": "Tennessee Valley Railroad Museum - Grand Junction",
+                "operator": "Tennessee Valley Railroad Museum",
+                "tourism": "museum",
+                "usage": "tourism"
+            }
+        },
+        {
+            "type": "way",
+            "id": 495659441,
+            "lat": 35.0138036,
+            "lon": -85.3414359,
+            "tags": {
+                "building": "yes",
+                "name": "Cravens House",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Harper%27s_weekly_%281867%29_%2814596679829%29.jpg/1280px-Harper%27s_weekly_%281867%29_%2814596679829%29.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 691099409,
+            "lat": 35.01464,
+            "lon": -85.2076495,
+            "tags": {
+                "name": "Sir Goony's Family Fun Center",
+                "tourism": "theme_park"
+            }
+        },
+        {
+            "type": "way",
+            "id": 800173064,
+            "lat": 35.065688,
+            "lon": -85.2071347,
+            "tags": {
+                "addr:city": "Chattanooga",
+                "addr:housenumber": "4540",
+                "addr:postcode": "37421",
+                "addr:state": "TN",
+                "addr:street": "Turntable Road",
+                "air_conditioning": "yes",
+                "building": "yes",
+                "description": "Exhibit building for the Tennessee Valley Railroad Muesum. Admission Required. Tickets available in the Grand Junction Depot, 4119 Cromwell Rd. Chattanooga or online at: TVRAIL.com",
+                "fee": "yes",
+                "museum": "history",
+                "name": "Tennessee Valley Railroad Museum",
+                "opening_hours": "Mo-Su 10:00-17:00",
+                "operator": "Tennessee Valley Railroad Museum",
+                "operator:type": "public",
+                "phone": "+1-423-894-8028",
+                "tourism": "museum",
+                "website": "https://www.tvrail.com/"
+            }
+        },
+        {
+            "type": "way",
+            "id": 844065956,
+            "lat": 35.0671607,
+            "lon": -85.2057825,
+            "tags": {
+                "name": "Tennessee Valley Railroad Museum",
+                "tourism": "museum",
+                "wikidata": "Q7700229"
+            }
+        },
+        {
+            "type": "way",
+            "id": 890249490,
+            "lat": 35.0169936,
+            "lon": -85.323637,
+            "tags": {
+                "addr:city": "Chattanooga",
+                "addr:housenumber": "3315",
+                "addr:postcode": "37408",
+                "addr:state": "TN",
+                "addr:street": "Broad Street",
+                "fee": "yes",
+                "name": "International Towing and Recovery Hall of Fame and Museum",
+                "opening_hours": "09:00-17:00; PH off",
+                "tourism": "museum",
+                "website": "https://internationaltowingmuseum.org/",
+                "wikidata": "Q14709960",
+                "wikipedia": "en:International Towing Museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Chattanooga_Christian_School_%28CCS%29_in_Chattanooga%2C_Tennessee_01.jpg/1280px-Chattanooga_Christian_School_%28CCS%29_in_Chattanooga%2C_Tennessee_01.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 102797,
+            "lat": 35.065958,
+            "lon": -85.248386,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Chattanooga%2C_Tennessee_%282023%29.jpg/1280px-Chattanooga%2C_Tennessee_%282023%29.jpg",
+            "description": "Chattanooga ( CHAT-ə-NOO-gə) is a city in Hamilton County, Tennessee, United States, and its county seat.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Chattanooga, Tennessee",
+                "wikipedia": "en:Chattanooga, Tennessee",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 30395,
+            "lat": 36,
+            "lon": -86,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Flag_of_Tennessee.svg/1280px-Flag_of_Tennessee.svg.png",
+            "description": "Tennessee ( , locally ), officially the State of Tennessee, is a landlocked state in the Southeastern region of the United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Tennessee",
+                "wikipedia": "en:Tennessee",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 4628179,
+            "lat": 35.035,
+            "lon": -85.28944444,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Entrance_to_Chattanooga_National_Cemetery.jpg/1280px-Entrance_to_Chattanooga_National_Cemetery.jpg",
+            "description": "Chattanooga National Cemetery is a United States National Cemetery located near the center of the city of Chattanooga in Hamilton County, Tennessee.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Chattanooga National Cemetery",
+                "wikipedia": "en:Chattanooga National Cemetery",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 1709362,
+            "lat": 35.03694444,
+            "lon": -85.30694444,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Chattanooga_Choo-Choo_02.jpg/1280px-Chattanooga_Choo-Choo_02.jpg",
+            "description": "The Chattanooga Choo-Choo (formerly known as Terminal Station) in Chattanooga, Tennessee, is a former railroad station once owned and operated by the Southern Railway.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Chattanooga Choo-Choo Hotel",
+                "wikipedia": "en:Chattanooga Choo-Choo Hotel",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 6077257,
+            "lat": 36.16222222,
+            "lon": -86.77444444,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Nashville_Skyline_from_Ft_Negly-_Photo_2-_June_2022.jpg/1280px-Nashville_Skyline_from_Ft_Negly-_Photo_2-_June_2022.jpg",
+            "description": "The Nashville metropolitan area (officially the Nashville–Davidson–Murfreesboro–Franklin, TN Metropolitan Statistical Area) is a metropolitan statistical area in north-central Tennessee.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Nashville metropolitan area",
+                "wikipedia": "en:Nashville metropolitan area",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 151067,
+            "lat": 35.36861111,
+            "lon": -86.21333333,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Tullahoma-downtown-tn1.jpg/1280px-Tullahoma-downtown-tn1.jpg",
+            "description": "Tullahoma is a city in Coffee and Franklin counties in southern Middle Tennessee, United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Tullahoma, Tennessee",
+                "wikipedia": "en:Tullahoma, Tennessee",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 135210,
+            "lat": 34.99638889,
+            "lon": -85.35083333,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Lookout_mountain_TN.JPG/1280px-Lookout_mountain_TN.JPG",
+            "description": "Lookout Mountain is a town in Hamilton County, Tennessee, United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Lookout Mountain, Tennessee",
+                "wikipedia": "en:Lookout Mountain, Tennessee",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 135265,
+            "lat": 35.24361111,
+            "lon": -87.33444444,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Lawrenceburg_Square.jpg/1280px-Lawrenceburg_Square.jpg",
+            "description": "Lawrenceburg is a city in and the county seat of Lawrence County, Tennessee, United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Lawrenceburg, Tennessee",
+                "wikipedia": "en:Lawrenceburg, Tennessee",
+                "tourism": "attraction"
+            }
+        }
+    ]
+}

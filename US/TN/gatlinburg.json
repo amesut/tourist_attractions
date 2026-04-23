@@ -1,0 +1,446 @@
+{
+    "city_metadata": {
+        "city_name": "Gatlinburg",
+        "state_code": "TN",
+        "state_full": "Tennessee",
+        "city_summary": "Gatlinburg is a city in Sevier County, Tennessee, United States. It is located 39 miles (63 km) southeast of Knoxville and had a population of 3,577 at the 2020 census. It is a popular mountain resort town, as it rests on the border of Great Smoky Mountains National Park along U.S. Route 441.",
+        "city_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Gatlinburg%2C_Tennessee_IMG_6598.tif/lossless-page1-1280px-Gatlinburg%2C_Tennessee_IMG_6598.tif.png",
+        "city_lat": 35.71444444,
+        "city_lon": -83.52472222,
+        "source": "wikipedia_verified_engine"
+    },
+    "attractions": [
+        {
+            "type": "node",
+            "id": 2693389626,
+            "lat": 35.7128145,
+            "lon": -83.5155113,
+            "tags": {
+                "name": "Earthquake: The Ride",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/First_Methodist_Church%2C_Gatlinburg.JPG/1280px-First_Methodist_Church%2C_Gatlinburg.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 2693389628,
+            "lat": 35.7128334,
+            "lon": -83.5153908,
+            "tags": {
+                "name": "Treasure Quest Miniature Golf",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/First_Methodist_Church%2C_Gatlinburg.JPG/1280px-First_Methodist_Church%2C_Gatlinburg.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 5125293121,
+            "lat": 35.7095717,
+            "lon": -83.504987,
+            "tags": {
+                "addr:housenumber": "576",
+                "addr:postcode": "37738",
+                "name": "Anakeesta",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Confluence_of_Bullhead_and_Rainbow_Falls_Trails.JPG/1280px-Confluence_of_Bullhead_and_Rainbow_Falls_Trails.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 9662017709,
+            "lat": 35.7105349,
+            "lon": -83.5190382,
+            "tags": {
+                "addr:city": "Gatlinburg",
+                "addr:housenumber": "914",
+                "addr:postcode": "37738",
+                "addr:state": "TN",
+                "addr:street": "Parkway",
+                "museum": "transport",
+                "name": "Hollywood Star Cars Museum",
+                "opening_hours": "Su-Sa 09:00-21:00",
+                "phone": "+1-865-430-7900",
+                "tourism": "museum",
+                "website": "https://www.starcarstn.com/"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9662022290,
+            "lat": 35.7134831,
+            "lon": -83.5179301,
+            "tags": {
+                "name": "Mysterious Mansion",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/First_Methodist_Church%2C_Gatlinburg.JPG/1280px-First_Methodist_Church%2C_Gatlinburg.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 9901026062,
+            "lat": 35.7155012,
+            "lon": -83.5198794,
+            "tags": {
+                "name": "SkyCenter",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Gatlinburg%2C_Tennessee_IMG_6598.tif/lossless-page1-1280px-Gatlinburg%2C_Tennessee_IMG_6598.tif.png",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 10144863320,
+            "lat": 35.7129653,
+            "lon": -83.5143592,
+            "tags": {
+                "name": "Breakout",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/First_Methodist_Church%2C_Gatlinburg.JPG/1280px-First_Methodist_Church%2C_Gatlinburg.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 10650859244,
+            "lat": 35.723684,
+            "lon": -83.5093376,
+            "tags": {
+                "addr:housenumber": "188",
+                "addr:postcode": "37738",
+                "addr:street": "Parkway",
+                "name": "Ripley's Davy Crockett Mini-Golf",
+                "phone": "+1-865-430-8851",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "way",
+            "id": 263705704,
+            "lat": 35.7131519,
+            "lon": -83.5142375,
+            "tags": {
+                "addr:housenumber": "623",
+                "addr:street": "Parkway",
+                "building": "retail",
+                "name": "Ripley's Marvelous Mirror Maze",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/First_Methodist_Church%2C_Gatlinburg.JPG/1280px-First_Methodist_Church%2C_Gatlinburg.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 263705710,
+            "lat": 35.7118199,
+            "lon": -83.5183483,
+            "tags": {
+                "addr:city": "Gatlinburg",
+                "addr:housenumber": "765",
+                "addr:postcode": "37738",
+                "addr:state": "TN",
+                "addr:street": "Parkway",
+                "building": "yes",
+                "name": "Skypark",
+                "phone": "+1-865-436-4307",
+                "tourism": "attraction",
+                "website": "https://www.gatlinburgskylift.com/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/First_Methodist_Church%2C_Gatlinburg.JPG/1280px-First_Methodist_Church%2C_Gatlinburg.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 263705712,
+            "lat": 35.7112251,
+            "lon": -83.5183691,
+            "tags": {
+                "addr:city": "Gatlinburg",
+                "addr:housenumber": "800",
+                "addr:postcode": "37738",
+                "addr:state": "TN",
+                "addr:street": "Parkway",
+                "building": "commercial",
+                "museum": "technology",
+                "name": "Ripley's Believe It Or Not!",
+                "opening_hours": "Su-Th 09:00-22:00; Fr-Sa 09:00-23:00",
+                "operator": "Ripley's",
+                "tourism": "museum",
+                "website": "https://www.ripleys.com/attractions/ripleys-believe-it-or-not-gatlinburg",
+                "wheelchair": "yes"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/GatlinburgSpaceNeedle.jpg/1280px-GatlinburgSpaceNeedle.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 263858013,
+            "lat": 35.7147166,
+            "lon": -83.5107575,
+            "tags": {
+                "addr:housenumber": "467",
+                "addr:street": "Parkway",
+                "building": "retail",
+                "name": "Speedwerkz Exotic Car Experience",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Arrowmont-parkway-entrance-tn1.jpg/1280px-Arrowmont-parkway-entrance-tn1.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 263858038,
+            "lat": 35.7132396,
+            "lon": -83.5113105,
+            "tags": {
+                "addr:city": "Gatlinburg",
+                "addr:housenumber": "542",
+                "addr:postcode": "37738",
+                "addr:state": "TN",
+                "addr:street": "Parkway",
+                "alt_name": "Cooter's Place",
+                "alt_name_1": "Cooter’s Gatlinburg",
+                "building": "retail",
+                "contact:website": "http://www.cootersplace.com/museum/gatlinburg/",
+                "name": "Ripley's Super Fun Zone",
+                "official_name": "Cooter’s Museum and Store Gatlinburg",
+                "phone": "+1-865-430-9909",
+                "tourism": "attraction",
+                "website": "http://www.cootersplace.com/museum/gatlinburg/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Arrowmont-parkway-entrance-tn1.jpg/1280px-Arrowmont-parkway-entrance-tn1.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 263859664,
+            "lat": 35.7123492,
+            "lon": -83.5154103,
+            "tags": {
+                "addr:city": "Gatlinburg",
+                "addr:housenumber": "656",
+                "addr:postcode": "37738",
+                "addr:state": "TN",
+                "addr:street": "Parkway",
+                "building": "retail",
+                "name": "Fannie Farkie's Family Fun Parlor",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/First_Methodist_Church%2C_Gatlinburg.JPG/1280px-First_Methodist_Church%2C_Gatlinburg.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 263859670,
+            "lat": 35.7120784,
+            "lon": -83.5164942,
+            "tags": {
+                "building": "retail",
+                "name": "Ghostly Adventure Motion Theater",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/First_Methodist_Church%2C_Gatlinburg.JPG/1280px-First_Methodist_Church%2C_Gatlinburg.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 263859672,
+            "lat": 35.7117493,
+            "lon": -83.5166284,
+            "tags": {
+                "building": "yes",
+                "name": "Fort Fun Family Entertainment Center",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/First_Methodist_Church%2C_Gatlinburg.JPG/1280px-First_Methodist_Church%2C_Gatlinburg.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 263859673,
+            "lat": 35.7116787,
+            "lon": -83.5158761,
+            "tags": {
+                "leisure": "miniature_golf",
+                "name": "Old Gatlinburg Golf & Game",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/First_Methodist_Church%2C_Gatlinburg.JPG/1280px-First_Methodist_Church%2C_Gatlinburg.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 279169910,
+            "lat": 35.7105441,
+            "lon": -83.5198403,
+            "tags": {
+                "addr:city": "Gatlinburg",
+                "addr:housenumber": "919",
+                "addr:postcode": "37738",
+                "addr:state": "TN",
+                "addr:street": "Parkway",
+                "building": "retail",
+                "name": "Amazing Mirror Maze",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "way",
+            "id": 279172555,
+            "lat": 35.7162327,
+            "lon": -83.5023902,
+            "tags": {
+                "addr:city": "Gatlinburg",
+                "addr:housenumber": "461",
+                "addr:postcode": "37738",
+                "addr:state": "TN",
+                "addr:street": "Brookside Village Way",
+                "check_date:currency:XBT": "2026-02-11",
+                "contact:facebook": "https://www.facebook.com/SPMuseum/wall/",
+                "currency:XBT": "yes",
+                "email": "spmuseumtn@gmail.com",
+                "museum": "attraction",
+                "name": "The Salt and Pepper Shaker Museum;The Salt & Pepper Shaker Museum",
+                "payment:lightning": "yes",
+                "payment:lightning_contactless": "no",
+                "payment:onchain": "no",
+                "phone": "+1-888-778-1802",
+                "tourism": "museum",
+                "website": "https://www.thesaltandpeppershakermuseum.com",
+                "wikidata": "Q55075349"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Salt_and_Pepper_Shaker_Museum_Gatlinburg.jpg/1280px-Salt_and_Pepper_Shaker_Museum_Gatlinburg.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 968606456,
+            "lat": 35.717185,
+            "lon": -83.5109223,
+            "tags": {
+                "addr:city": "Pigeon Forge",
+                "addr:housenumber": "386",
+                "addr:postcode": "37738",
+                "addr:state": "TN",
+                "addr:street": "Parkway",
+                "attraction": "roller_coaster",
+                "building": "retail",
+                "name": "Ripley's Mountain Coaster",
+                "phone": "+1-865-430-7800",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "way",
+            "id": 968606464,
+            "lat": 35.7200326,
+            "lon": -83.5098498,
+            "tags": {
+                "addr:housenumber": "306",
+                "addr:postcode": "37738",
+                "addr:street": "Parkway",
+                "attraction": "roller_coaster",
+                "building": "yes",
+                "name": "Moonshine Mountain Coaster",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "way",
+            "id": 1081041500,
+            "lat": 35.701132,
+            "lon": -83.5573173,
+            "tags": {
+                "name": "Ober Mountain Coaster",
+                "roller_coaster": "track",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/2026-02-01-Pow-Day-Aerials-Ober-Mountain-17-Medium.jpg/1280px-2026-02-01-Pow-Day-Aerials-Ober-Mountain-17-Medium.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 1081041502,
+            "lat": 35.7016775,
+            "lon": -83.5575056,
+            "tags": {
+                "bridge": "yes",
+                "layer": "1",
+                "name": "Ski Mountain Coaster",
+                "roller_coaster": "track",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/2026-02-01-Pow-Day-Aerials-Ober-Mountain-17-Medium.jpg/1280px-2026-02-01-Pow-Day-Aerials-Ober-Mountain-17-Medium.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 1081041690,
+            "lat": 35.7029229,
+            "lon": -83.5570106,
+            "tags": {
+                "attraction": "animal",
+                "name": "Bears",
+                "species:wikidata": "Q122783",
+                "species:wikipedia": "en:American black bear",
+                "tourism": "attraction",
+                "wikidata": "Q122783",
+                "wikipedia": "en:American black bear"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/2026-02-01-Pow-Day-Aerials-Ober-Mountain-17-Medium.jpg/1280px-2026-02-01-Pow-Day-Aerials-Ober-Mountain-17-Medium.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 1081041691,
+            "lat": 35.7028235,
+            "lon": -83.5571882,
+            "tags": {
+                "attraction": "animal",
+                "name": "Otter",
+                "species:wikidata": "Q327028",
+                "species:wikipedia": "en:North American river otter",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/2026-02-01-Pow-Day-Aerials-Ober-Mountain-17-Medium.jpg/1280px-2026-02-01-Pow-Day-Aerials-Ober-Mountain-17-Medium.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 1081042958,
+            "lat": 35.7029566,
+            "lon": -83.5570293,
+            "tags": {
+                "name": "Wildlife Encounter",
+                "tourism": "zoo"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/2026-02-01-Pow-Day-Aerials-Ober-Mountain-17-Medium.jpg/1280px-2026-02-01-Pow-Day-Aerials-Ober-Mountain-17-Medium.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 1435782642,
+            "lat": 35.7105431,
+            "lon": -83.518941,
+            "tags": {
+                "addr:city": "Gatlinburg",
+                "addr:housenumber": "908",
+                "addr:postcode": "37738",
+                "addr:state": "TN",
+                "addr:street": "Parkway",
+                "attraction": "haunted_house",
+                "building": "yes",
+                "name": "Ripley's Haunted Adventure",
+                "opening_hours": "Su 12:00-21:00; Mo-Th 11:00-22:00; Fr 11:00-23:00; -Sa 10:00-23:00",
+                "operator": "Ripley's",
+                "tourism": "attraction",
+                "website": "https://www.ripleys.com/attractions/ripleys-haunted-adventure-gatlinburg"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/GatlinburgSpaceNeedle.jpg/1280px-GatlinburgSpaceNeedle.jpg",
+            "image_source": "wikipedia_verified"
+        }
+    ]
+}

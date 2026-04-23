@@ -1,0 +1,492 @@
+{
+    "city_metadata": {
+        "city_name": "Berkeley",
+        "state_code": "CA",
+        "state_full": "California",
+        "city_summary": "Berkeley (  BURK-lee) is a city on the eastern shore of San Francisco Bay in northern Alameda County, California, United States. It is named after the 18th-century Anglo-Irish bishop and philosopher George Berkeley. It borders the cities of Oakland and Emeryville to the south and the city of Albany and the unincorporated community of Kensington to the north.",
+        "city_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Berkeley_cityscape.jpg/1280px-Berkeley_cityscape.jpg",
+        "city_lat": 37.87166667,
+        "city_lon": -122.27277778,
+        "source": "wikipedia_verified_engine"
+    },
+    "attractions": [
+        {
+            "type": "node",
+            "id": 288992419,
+            "lat": 37.8702403,
+            "lon": -122.259509,
+            "tags": {
+                "heritage": "2",
+                "heritage:operator": "nrhp",
+                "historic": "monument",
+                "landmark": "yes",
+                "man_made": "gate",
+                "name": "Sather Gate",
+                "ref:nrhp": "82004649",
+                "start_date": "1910",
+                "tourism": "attraction",
+                "wheelchair": "yes",
+                "wikidata": "Q2226051",
+                "wikipedia": "en:Sather Gate"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Sather_Gate_at_University_of_California%2C_Berkeley%2C_California_LCCN2013633500_%28edited%29.jpg/1280px-Sather_Gate_at_University_of_California%2C_Berkeley%2C_California_LCCN2013633500_%28edited%29.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 354077999,
+            "lat": 37.869997,
+            "lon": -122.271773,
+            "tags": {
+                "addr:city": "Berkeley",
+                "addr:housenumber": "1931",
+                "addr:street": "Center Street",
+                "contact:facebook": "berkeleyhistory",
+                "name": "Berkeley Historical Society",
+                "tourism": "museum",
+                "website": "https://berkhistory.org/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/12/ICSI_logo_qa.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 4098669305,
+            "lat": 37.8492163,
+            "lon": -122.2965873,
+            "tags": {
+                "name": "California Historical Radio Society Bay Area Radio Museum",
+                "source": "Bing",
+                "tourism": "museum"
+            }
+        },
+        {
+            "type": "node",
+            "id": 4717972459,
+            "lat": -34.4668993,
+            "lon": 150.8505603,
+            "tags": {
+                "amenity": "bell",
+                "name": "Nan Tien Gratitude Bell",
+                "source": "survey",
+                "source:geometry": "LPI Imagery",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/1.-Nan_Tien_Temple_front.jpg/1280px-1.-Nan_Tien_Temple_front.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 5630337753,
+            "lat": -34.488187,
+            "lon": 150.8362086,
+            "tags": {
+                "man_made": "tower",
+                "name": "Observation Tower",
+                "note": "access to tower by 4 flights of steps.",
+                "source:exists": "survey",
+                "source:location": "lpi_imagery",
+                "steps": "yes",
+                "tourism": "attraction",
+                "wheelchair": "no"
+            }
+        },
+        {
+            "type": "node",
+            "id": 8307614286,
+            "lat": 37.8766086,
+            "lon": -122.26294,
+            "tags": {
+                "name": "Badè Museum of Biblical Archaeology",
+                "operator": "Pacific School of Religion",
+                "tourism": "museum",
+                "website": "https://www.psr.edu/centers/bade-museum/"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10780618504,
+            "lat": 37.8659391,
+            "lon": -122.299571,
+            "tags": {
+                "contact:instagram": "takarasakeusa",
+                "name": "Takara Sake Museum",
+                "tourism": "museum",
+                "website": "https://www.takarasake.com/visit-us/sake-museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/San_Joaquin_passing_Berkeley_station%2C_June_2018.JPG/1280px-San_Joaquin_passing_Berkeley_station%2C_June_2018.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 24024507,
+            "lat": 37.8720601,
+            "lon": -122.2578318,
+            "tags": {
+                "addr:state": "CA",
+                "alt_name": "The Campanile",
+                "amenity": "clock",
+                "architect": "John Galen Howard",
+                "building": "yes",
+                "contact:yelp": "the-campanile-berkeley",
+                "display": "analog",
+                "ele": "96",
+                "faces": "4",
+                "gnis:feature_id": "1656758",
+                "height": "93.6",
+                "man_made": "tower",
+                "name": "Sather Tower",
+                "opening_hours": "Mo-Fr 10:00-15:45, Sa 10:00-16:45, Su 10:00-13:30, Su 15:00-16:45",
+                "source": "USGS Geonames",
+                "start_date": "1914",
+                "support": "tower",
+                "tourism": "attraction",
+                "tower:construction": "freestanding",
+                "tower:type": "clock",
+                "visibility": "area",
+                "website": "https://campanile.berkeley.edu/",
+                "wheelchair": "yes",
+                "wikidata": "Q357019",
+                "wikipedia": "en:Sather Tower"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Campanile_Hi-Res_-_reduced_file_size.jpg/1280px-Campanile_Hi-Res_-_reduced_file_size.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 24026035,
+            "lat": 37.8792009,
+            "lon": -122.2466936,
+            "tags": {
+                "addr:housenumber": "1",
+                "addr:postcode": "94720",
+                "addr:state": "CA",
+                "addr:street": "Centennial Drive",
+                "building": "museum",
+                "contact:facebook": "LawrenceHallofScience",
+                "contact:instagram": "lawrencehallofscience",
+                "ele": "353",
+                "gnis:feature_id": "1676020",
+                "museum": "science",
+                "name": "Lawrence Hall of Science",
+                "opening_hours": "Mo-Su 10:00-17:00",
+                "source": "USGS Geonames",
+                "tourism": "museum",
+                "website": "https://www.lawrencehallofscience.org/",
+                "wheelchair": "yes",
+                "wikidata": "Q14683059",
+                "wikimedia_commons": "Category:Lawrence Hall of Science",
+                "wikipedia": "en:Lawrence Hall of Science"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/ec/The_Lawrence_Hall_of_Science_logo.png",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 37060579,
+            "lat": 37.8698004,
+            "lon": -122.2668851,
+            "tags": {
+                "addr:city": "Berkeley",
+                "addr:country": "US",
+                "addr:housenumber": "2121",
+                "addr:postcode": "93710",
+                "addr:street": "Allston Way",
+                "building": "commercial",
+                "name": "Magnes Collection of Jewish Art and Life",
+                "old_name": "Judah L. Magnes Museum",
+                "opening_hours": "Tu-Fr 11:00-16:00",
+                "operator": "University of California, Berkeley",
+                "phone": "+1 510 6432526",
+                "tourism": "museum",
+                "website": "https://www.magnes.org/",
+                "wikidata": "Q6731353",
+                "wikipedia": "en:Magnes Collection of Jewish Art and Life"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/David_Brower_Center-Berkeley_wall_words_DevSummit2018.jpg/1280px-David_Brower_Center-Berkeley_wall_words_DevSummit2018.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 71675870,
+            "lat": 37.8549522,
+            "lon": -122.2695261,
+            "tags": {
+                "addr:country": "US",
+                "addr:housenumber": "2982",
+                "addr:state": "CA",
+                "addr:street": "Adeline Street",
+                "building": "commercial",
+                "building:levels": "2",
+                "check_date": "2024-12-11",
+                "museum": "history",
+                "name": "Lacis Museum of Lace and Textiles",
+                "opening_hours": "Mo-Sa 12:00-18:00; Su off",
+                "phone": "+1 510-843-7290",
+                "roof:levels": "0",
+                "shop": "sewing",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/The_Ashby_Stage.jpg/1280px-The_Ashby_Stage.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 106253639,
+            "lat": 51.6902582,
+            "lon": -2.4573186,
+            "tags": {
+                "addr:housename": "The Chantry",
+                "addr:postcode": "GL13 9BN",
+                "addr:street": "Church Lane",
+                "alt_name": "Jenner Museum",
+                "building": "yes",
+                "contact:facebook": "https://www.facebook.com/DrJennersHouse",
+                "email": "info@edwardjenner.co.uk",
+                "fee": "yes",
+                "museum": "history",
+                "name": "Edward Jenner Museum",
+                "phone": "+44 1453 810631",
+                "seasonal": "yes",
+                "tourism": "museum",
+                "website": "https://jennermuseum.com",
+                "wikidata": "Q5343755",
+                "wikipedia": "en:Dr. Jenner's House"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Church_of_St_Mary_the_Virgin%2C_Berkeley_-_geograph.org.uk_-_585484.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 170659473,
+            "lat": 32.7209488,
+            "lon": -117.1740001,
+            "tags": {
+                "building": "ship",
+                "historic": "ship",
+                "name": "Berkeley",
+                "ref:nrhp": "90002220",
+                "ship:type": "ferry",
+                "start_date": "1898",
+                "tourism": "attraction",
+                "wikidata": "Q2897187",
+                "wikipedia": "en:Berkeley (ferryboat)"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Berkeley_Ferry_and_U.S.S._Dolphin_at_the_Maritime_Museum_of_San_Diego.jpg/1280px-Berkeley_Ferry_and_U.S.S._Dolphin_at_the_Maritime_Museum_of_San_Diego.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 262514549,
+            "lat": 37.8794421,
+            "lon": -122.2685092,
+            "tags": {
+                "addr:city": "Berkeley",
+                "addr:housenumber": "1518-1/2",
+                "addr:postcode": "94709",
+                "addr:state": "CA",
+                "addr:street": "Walnut Street",
+                "building": "yes",
+                "email": "info@aftelier.com",
+                "museum": "science",
+                "name": "Aftel Archive of Curious Scents",
+                "opening_hours": "Sa 10:00-18:00",
+                "phone": "+1 510-841-2111",
+                "tourism": "museum",
+                "website": "https://www.aftelier.com/Articles.asp?ID=256"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/74/ChezPanisse.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 282349724,
+            "lat": 37.8629549,
+            "lon": -122.3158385,
+            "tags": {
+                "addr:country": "US",
+                "addr:housenumber": "160",
+                "addr:state": "CA",
+                "building": "yes",
+                "name": "Shorebird Nature Center",
+                "opening_hours": "We-Sa 09:00-17:00",
+                "phone": "+1-510-981-6720",
+                "tourism": "museum",
+                "website": "https://berkeleyca.gov/community-recreation/waterfront/shorebird-nature-center"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Adventure_Playground_%2811988%29a.jpg/1280px-Adventure_Playground_%2811988%29a.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 365948557,
+            "lat": -34.4666335,
+            "lon": 150.8485722,
+            "tags": {
+                "amenity": "place_of_worship",
+                "building": "temple",
+                "name": "Nan Tien Temple",
+                "opening_hours": "Tu-Su 09:00-17:00",
+                "religion": "buddhist",
+                "tourism": "attraction",
+                "website": "https://www.nantien.org.au/",
+                "wikidata": "Q713281",
+                "wikipedia": "en:Nan Tien Temple"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/1.-Nan_Tien_Temple_front.jpg/1280px-1.-Nan_Tien_Temple_front.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 396383943,
+            "lat": 37.8709547,
+            "lon": -122.2664344,
+            "tags": {
+                "addr:city": "Berkeley",
+                "addr:housenumber": "2155",
+                "addr:postcode": "94704",
+                "addr:state": "CA",
+                "addr:street": "Center Street",
+                "air_conditioning": "yes",
+                "alt_name": "BAMPFA;BAM/PFA;University of California, Berkeley Art Museum and Pacific Film Archive",
+                "architect": "Diller Scofidio + Renfro",
+                "building": "museum",
+                "building:levels": "3",
+                "check_date": "2025-06-18",
+                "check_date:opening_hours": "2025-04-18",
+                "contact:facebook": "https://www.facebook.com/bampfa",
+                "fee": "yes",
+                "fee:conditional": "no @ age < 14",
+                "museum": "art;film",
+                "name": "Berkeley Art Museum - Pacific Film Archive",
+                "note": "approximate building outline",
+                "opening_hours": "We-Su 11:00-19:00",
+                "operator": "University of California, Berkeley",
+                "payment:cash": "yes",
+                "payment:credit_cards": "yes",
+                "payment:debit_cards": "yes",
+                "toilets": "yes",
+                "toilets:wheelchair": "yes",
+                "tourism": "museum",
+                "website": "https://bampfa.org/",
+                "wheelchair": "yes",
+                "wikidata": "Q2916280",
+                "wikipedia": "en:Berkeley Art Museum and Pacific Film Archive"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Studio_Building_%28Berkeley%2C_CA%29.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 108259,
+            "lat": 37.66138889,
+            "lon": -120.99444444,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Gallo_Center_for_the_Arts_Modesto_%28cropped%29.JPG/1280px-Gallo_Center_for_the_Arts_Modesto_%28cropped%29.JPG",
+            "description": "Modesto ( mə-DESS-toh; Spanish pronunciation: [moˈðesto]; Spanish for \"modest\") is the county seat of and the largest city in Stanislaus County, California, United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Modesto, California",
+                "wikipedia": "en:Modesto, California",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 3156919,
+            "lat": 37.86845,
+            "lon": -122.27147,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/26/Berkeley_Community_Theater.jpg",
+            "description": "Berkeley Community Theater is a theater located in Berkeley, California, United States, on the campus of Berkeley High School.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Berkeley Community Theater",
+                "wikipedia": "en:Berkeley Community Theater",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 532547,
+            "lat": 37.86555556,
+            "lon": -122.25694444,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/People%27s_Park_Berkeley_September_2024_004.jpg/1280px-People%27s_Park_Berkeley_September_2024_004.jpg",
+            "description": "People's Park in Berkeley, California is a parcel of land owned by the University of California, Berkeley.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "People's Park (Berkeley)",
+                "wikipedia": "en:People's Park (Berkeley)",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 1520246,
+            "lat": 37.80833333,
+            "lon": -122.41555556,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Fishermans_Wharf_Sign%2C_SF%2C_CA%2C_jjron_25.03.2012.jpg",
+            "description": "Fisherman's Wharf is a neighborhood and tourist attraction in San Francisco, located in the northern part of the city's waterfront.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Fisherman's Wharf, San Francisco",
+                "wikipedia": "en:Fisherman's Wharf, San Francisco",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 74198807,
+            "lat": 37.883115,
+            "lon": -122.261546,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Rose_Walk%2C_Berkeley%2C_California.png/1280px-Rose_Walk%2C_Berkeley%2C_California.png",
+            "description": "The Rose Walk, formerly known as Rose Street, is a historic pathway with landscaping designed by architect Bernard Maybeck in the La Loma Park neighborhood of Berkeley, California, U.S. It is located in the 2500 block of Rose Walk, between Euclid Avenue and Le Roy Avenue.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Rose Walk (Berkeley, California)",
+                "wikipedia": "en:Rose Walk (Berkeley, California)",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 2823226,
+            "lat": 37.87369444,
+            "lon": -122.25419444,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Hearst_Greek_Theatre_%28Berkeley%2C_CA%29.JPG/1280px-Hearst_Greek_Theatre_%28Berkeley%2C_CA%29.JPG",
+            "description": "The William Randolph Hearst Greek Theatre, known locally as simply the Greek Theatre, is an 8,500-seat Greek Theatre owned and operated by the University of California, Berkeley in Berkeley, California, United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Hearst Greek Theatre",
+                "wikipedia": "en:Hearst Greek Theatre",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 4232448,
+            "lat": 37.89222222,
+            "lon": -122.27305556,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Berkeley_Indian_Rock_Panorama.jpeg/1280px-Berkeley_Indian_Rock_Panorama.jpeg",
+            "description": "Indian Rock Park is a 1.18-acre (4,800 m2) public park in the city of Berkeley, California, on the slope of the Berkeley Hills.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Indian Rock Park",
+                "wikipedia": "en:Indian Rock Park",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 40444,
+            "lat": 36.60305556,
+            "lon": -121.89361111,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Santa_Catalina_School%2C_Monterey%2C_CA_%28cropped%29.jpg/1280px-Santa_Catalina_School%2C_Monterey%2C_CA_%28cropped%29.jpg",
+            "description": "Monterey (  MON-tə-RAY; Spanish: Monterrey) is a city on the southern edge of Monterey Bay, on the Central Coast of California.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Monterey, California",
+                "wikipedia": "en:Monterey, California",
+                "tourism": "attraction"
+            }
+        }
+    ]
+}

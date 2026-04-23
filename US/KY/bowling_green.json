@@ -1,0 +1,401 @@
+{
+    "city_metadata": {
+        "city_name": "Bowling Green",
+        "state_code": "KY",
+        "state_full": "Kentucky",
+        "city_summary": "Bowling Green is a city in and the county seat of Warren County, Kentucky, United States. Its population was 72,294 as of the  2020 census, making it the third-most populous city in the state, after Louisville and Lexington. The Bowling Green metropolitan area is the fourth-largest in the state and had a population of 179,639 in 2020.",
+        "city_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Fountain_Square_Park%2C_Bowling_Green%2C_Kentucky.JPG/1280px-Fountain_Square_Park%2C_Bowling_Green%2C_Kentucky.JPG",
+        "city_lat": 36.98166667,
+        "city_lon": -86.44444444,
+        "source": "wikipedia_verified_engine"
+    },
+    "attractions": [
+        {
+            "type": "node",
+            "id": 812667206,
+            "lat": 36.9509835,
+            "lon": -86.4687824,
+            "tags": {
+                "name": "Butterfly House",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Lost_River_Cave_entrance.jpg/1280px-Lost_River_Cave_entrance.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 812667251,
+            "lat": 36.9540759,
+            "lon": -86.4734183,
+            "tags": {
+                "name": "Lost River Cave Entrance",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Lost_River_Cave_entrance.jpg/1280px-Lost_River_Cave_entrance.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 3714138930,
+            "lat": 41.3752914,
+            "lon": -83.6258837,
+            "tags": {
+                "addr:city": "Bowling Green",
+                "addr:postcode": "43403",
+                "addr:state": "OH",
+                "museum": "local",
+                "name": "Bowling Green Athletics Hall of Fame",
+                "operator": "Bowling Green State University",
+                "tourism": "museum",
+                "website": "https://bgsufalcons.com/honors/hall-of-fame",
+                "wheelchair": "yes"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/StrohCenterexterior.jpg/1280px-StrohCenterexterior.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 12269294742,
+            "lat": 36.9525271,
+            "lon": -86.4710483,
+            "tags": {
+                "name": "Blue Hole 3",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Lost_River_Cave_entrance.jpg/1280px-Lost_River_Cave_entrance.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 12269314803,
+            "lat": 36.9499022,
+            "lon": -86.4673949,
+            "tags": {
+                "name": "Blue Hole 2",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 12269315035,
+            "lat": 36.9495891,
+            "lon": -86.4666208,
+            "tags": {
+                "name": "Blue Hole",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "way",
+            "id": 277178197,
+            "lat": 37.0042087,
+            "lon": -86.3746999,
+            "tags": {
+                "addr:city": "Bowling Green",
+                "addr:country": "US",
+                "addr:housenumber": "350",
+                "addr:postcode": "42101",
+                "addr:state": "KY",
+                "addr:street": "Corvette Drive",
+                "building": "yes",
+                "check_date:opening_hours": "2025-04-25",
+                "fax": "+1 270 781 5286",
+                "fee": "yes",
+                "name": "National Corvette Museum",
+                "opening_hours": "Mar 01-Oct 31 09:00-17:00; Nov 01-Dec 31 Mo-Fr 10:00-17:00; Nov 01-Dec 31,Jan 01-Feb 28 Sa,Su 09:00-17:00; Jan 01-Feb 28 Mo,We-Fr 10:00-17:00; Dec 24-25 off; Jan 01 off; Nov Th[4] off",
+                "phone": "+1 270 781 7973",
+                "short_name": "NCM",
+                "tourism": "museum",
+                "website": "https://www.corvettemuseum.org/",
+                "wikidata": "Q6971870",
+                "wikipedia": "en:National Corvette Museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/National_Corvette_Museum_from_Above.jpg/1280px-National_Corvette_Museum_from_Above.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 312812666,
+            "lat": 36.9887698,
+            "lon": -86.4544961,
+            "tags": {
+                "fee": "no",
+                "name": "Kentucky Museum",
+                "tourism": "museum",
+                "wikidata": "Q6392313"
+            }
+        },
+        {
+            "type": "way",
+            "id": 320900874,
+            "lat": 37.0001771,
+            "lon": -86.4382577,
+            "tags": {
+                "addr:city": "Bowling Green",
+                "addr:housenumber": "401",
+                "addr:postcode": "42101",
+                "addr:state": "KY",
+                "addr:street": "Kentucky Street",
+                "building": "train_station",
+                "check_date:opening_hours": "2025-04-25",
+                "fee": "yes",
+                "fee:conditional": "no @ age < 5",
+                "name": "The Historic Railpark and Train Museum",
+                "opening_hours": "Jan 01-Mar 19 We-Su 10:00-16:00; Mar 19-Dec 31 10:00-16:00",
+                "source": "Bing",
+                "tourism": "museum",
+                "website": "https://historicrailpark.com/",
+                "wikidata": "Q7739754"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/L%26N_Bowling_Green.jpg/1280px-L%26N_Bowling_Green.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 335640895,
+            "lat": 41.3785085,
+            "lon": -83.6424706,
+            "tags": {
+                "access": "private",
+                "addr:city": "Bowling Green",
+                "addr:postcode": "43403",
+                "addr:state": "OH",
+                "area": "yes",
+                "capacity": "24",
+                "description": "A roof showcasing many green technologies and sustainable techniques. Available by tour only. Call the office of Campus Sustainability at 419-372-9949 to arrange one.",
+                "name": "The Oaks Green Roof",
+                "operator": "Bowling Green State University",
+                "tourism": "attraction",
+                "website": "https://www.bgsu.edu/campus-sustainability/design-construction/the-oaks-green-roof.html"
+            }
+        },
+        {
+            "type": "way",
+            "id": 386896763,
+            "lat": 41.354242,
+            "lon": -83.6103047,
+            "tags": {
+                "addr:city": "Bowling Green",
+                "addr:state": "OH",
+                "building": "retail",
+                "building:colour": "white",
+                "building:material": "metal",
+                "museum": "transport",
+                "name": "Snook's Dream Cars",
+                "roof:colour": "red",
+                "roof:material": "metal",
+                "roof:shape": "gabled",
+                "tourism": "museum",
+                "website": "https://www.snooksdreamcars.com/"
+            }
+        },
+        {
+            "type": "way",
+            "id": 415581216,
+            "lat": 41.3797699,
+            "lon": -83.6404807,
+            "tags": {
+                "access": "yes",
+                "addr:city": "Bowling Green",
+                "addr:postcode": "43403",
+                "addr:state": "OH",
+                "alt_name": "Herpetarium",
+                "area": "yes",
+                "description": "The Herpetology Lab is an indoor collection of Reptiles and Amphibians. The Lab is open to the public.",
+                "indoor": "room",
+                "level": "0",
+                "name": "Herpetology Lab",
+                "note": "Indoor collection of Reptiles and Amphibians. Open to the public.",
+                "operator": "Bowling Green State University",
+                "ref": "111",
+                "tourism": "zoo",
+                "website": "https://www.bgsu.edu/arts-and-sciences/biological-sciences/facilities-and-resources/herpetology-laboratory.html"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/BGSUAndersonArena2.jpg/1280px-BGSUAndersonArena2.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 761082611,
+            "lat": 39.3415263,
+            "lon": -91.1905806,
+            "tags": {
+                "boundary": "protected_area",
+                "building": "yes",
+                "heritage": "2",
+                "heritage:operator": "nrhp",
+                "name": "James Beauchamp Clark House",
+                "nrhp:criteria": "(B)",
+                "nrhp:inscription_date": "12/8/1976",
+                "nrhp:nhl": "yes",
+                "protection_title": "protected_site",
+                "ref:nrhp": "76001114",
+                "tourism": "museum",
+                "wikidata": "Q6129553",
+                "wikipedia": "en:James Beauchamp Clark House"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Clark_House.jpg/1280px-Clark_House.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 958799424,
+            "lat": 36.9532472,
+            "lon": -86.4739915,
+            "tags": {
+                "addr:city": "Bowling Green",
+                "addr:housenumber": "2818",
+                "addr:postcode": "42101",
+                "addr:state": "KY",
+                "addr:street": "Nashville Road",
+                "area": "yes",
+                "name": "Lost River Cave",
+                "tourism": "attraction",
+                "wikidata": "Q6684214"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Lost_River_Cave_entrance.jpg/1280px-Lost_River_Cave_entrance.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 1011465827,
+            "lat": 37.0119759,
+            "lon": -86.4596688,
+            "tags": {
+                "building": "yes",
+                "name": "Riverview at Hobson Grove",
+                "tourism": "museum",
+                "website": "https://www.bgky.org/riverview",
+                "wikidata": "Q7338782"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/HobsonGrove.JPG/1280px-HobsonGrove.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 11755141,
+            "lat": 36.99677778,
+            "lon": -86.44090556,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/BGBallparkJune2012.jpg/1280px-BGBallparkJune2012.jpg",
+            "description": "Bowling Green Ballpark is a 4,559-seat stadium in Downtown Bowling Green, Kentucky.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Bowling Green Ballpark",
+                "wikipedia": "en:Bowling Green Ballpark",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 95612,
+            "lat": 37.21,
+            "lon": -86.25,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Edmonson_County_Courthouse.png/1280px-Edmonson_County_Courthouse.png",
+            "description": "Edmonson County is a county located in the south central portion of the U.S. state of Kentucky.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Edmonson County, Kentucky",
+                "wikipedia": "en:Edmonson County, Kentucky",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 95637,
+            "lat": 36.96,
+            "lon": -85.93,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Barren_County_Kentucky_courthouse_2.jpg/1280px-Barren_County_Kentucky_courthouse_2.jpg",
+            "description": "Barren County is a county located in the south-central portion of the U.S. state of Kentucky.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Barren County, Kentucky",
+                "wikipedia": "en:Barren County, Kentucky",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 3451759,
+            "lat": 36.98472222,
+            "lon": -86.45944444,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Outsidesmith.jpeg/1280px-Outsidesmith.jpeg",
+            "description": "Houchens Industries–L. T. Smith Stadium at Jimmy Feix Field is a 22,000-seat multi-purpose stadium in Bowling Green, in the U.S. state of Kentucky.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Houchens Industries–L. T. Smith Stadium",
+                "wikipedia": "en:Houchens Industries–L. T. Smith Stadium",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 16846,
+            "lat": 37,
+            "lon": -86,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Flag_of_Kentucky.svg/1280px-Flag_of_Kentucky.svg.png",
+            "description": "Kentucky (US:  , UK: ), officially the Commonwealth of Kentucky, is a landlocked state in the Southeastern region of the United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Kentucky",
+                "wikipedia": "en:Kentucky",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 58592,
+            "lat": 38.25611111,
+            "lon": -85.75138889,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Louisville_Skyline_2021_%283%29.jpg/1280px-Louisville_Skyline_2021_%283%29.jpg",
+            "description": "Louisville is the most populous city in the U.S. state of Kentucky, sixth-most populous city in the Southeast, and the 27th-most-populous city in the United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Louisville, Kentucky",
+                "wikipedia": "en:Louisville, Kentucky",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 31784788,
+            "lat": 36.99472222,
+            "lon": -86.44805556,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Thomas_Hines_house.jpg/1280px-Thomas_Hines_house.jpg",
+            "description": "Eloise B. Houchens Center is a Greek Revival style house in Bowling Green, Kentucky.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Eloise B. Houchens Center",
+                "wikipedia": "en:Eloise B. Houchens Center",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 2277521,
+            "lat": 36.8683,
+            "lon": -85.1475,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/54/Wolf_Creek_Dam.jpg",
+            "description": "The Wolf Creek Dam is a multi-purpose dam on the Cumberland River in the western part of Russell County, Kentucky, United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Wolf Creek Dam",
+                "wikipedia": "en:Wolf Creek Dam",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 5002871,
+            "lat": 40.71305556,
+            "lon": -74.01333333,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/One_WTC_logo.svg/1280px-One_WTC_logo.svg.png",
+            "description": "One World Trade Center, also known as One WTC and the Freedom Tower, is the main building of the rebuilt World Trade Center complex in Lower Manhattan, New York City.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "One World Trade Center",
+                "wikipedia": "en:One World Trade Center",
+                "tourism": "attraction"
+            }
+        }
+    ]
+}

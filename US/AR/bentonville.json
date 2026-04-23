@@ -1,0 +1,142 @@
+{
+    "city_metadata": {
+        "city_name": "Bentonville",
+        "state_code": "AR",
+        "state_full": "Arkansas",
+        "city_summary": "Bentonville is a city in and the county seat of Benton County, Arkansas, United States. The city is centrally located in the county with Rogers adjacent to the east. The city proper had a population of 54,164 at the 2020 census, making it the ninth-most populous city in Arkansas.",
+        "city_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Central_Avenue_at_night.jpg/1280px-Central_Avenue_at_night.jpg",
+        "city_lat": 36.35277778,
+        "city_lon": -94.23111111,
+        "source": "wikipedia_verified_engine"
+    },
+    "attractions": [
+        {
+            "type": "way",
+            "id": 477498320,
+            "lat": 36.371449,
+            "lon": -94.2313574,
+            "tags": {
+                "addr:city": "Bentonville",
+                "addr:housenumber": "202",
+                "addr:postcode": "72712",
+                "addr:state": "AR",
+                "addr:street": "Southwest O Street",
+                "name": "Museum of Native American History",
+                "tourism": "museum",
+                "website": "https://www.monah.us/contactus.html",
+                "wikidata": "Q19864161",
+                "wikipedia": "en:Museum of Native American History"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Museum_of_Native_American_History.jpg/1280px-Museum_of_Native_American_History.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 533182186,
+            "lat": 36.3792061,
+            "lon": -94.1972783,
+            "tags": {
+                "building": "yes",
+                "name": "Scott Family Amazeum",
+                "tourism": "museum",
+                "website": "https://www.amazeum.org/"
+            }
+        },
+        {
+            "type": "way",
+            "id": 912497161,
+            "lat": 36.367019,
+            "lon": -94.209228,
+            "tags": {
+                "addr:city": "Bentonville",
+                "addr:housenumber": "416",
+                "addr:postcode": "72712",
+                "addr:state": "AR",
+                "addr:street": "South Main Street",
+                "building": "yes",
+                "name": "Bentonville History Museum office",
+                "source": "microsoft/BuildingFootprints",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Bentonville_Train_Station.jpg/1280px-Bentonville_Train_Station.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 1002587034,
+            "lat": 36.3692636,
+            "lon": -94.2223608,
+            "tags": {
+                "addr:city": "Bentonville",
+                "addr:country": "US",
+                "addr:full": "400 South Walton Boulevard",
+                "addr:housenumber": "400",
+                "addr:postcode": "72712",
+                "addr:state": "AR",
+                "addr:street": "South Walton Boulevard",
+                "building": "museum",
+                "name": "The Peel Mansion Museum & Heritage Gardens",
+                "tourism": "museum",
+                "website": "https://www.peelmansion.org/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/COL._SAMUEL_W._PEEL_HOUSE%2C_BENTONVILLE%2C_BENTON_COUNTY%2C_AR.jpg/1280px-COL._SAMUEL_W._PEEL_HOUSE%2C_BENTONVILLE%2C_BENTON_COUNTY%2C_AR.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 1930,
+            "lat": 35,
+            "lon": -92,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Flag_of_Arkansas.svg/1280px-Flag_of_Arkansas.svg.png",
+            "description": "Arkansas ( , AR-kən-saw) is a landlocked state in the West South Central region of the Southern United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Arkansas",
+                "wikipedia": "en:Arkansas",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 106841,
+            "lat": 36.42444444,
+            "lon": -94.42388889,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Kansas_City_Southern_caboose_in_Gravette%2C_AR.jpg/1280px-Kansas_City_Southern_caboose_in_Gravette%2C_AR.jpg",
+            "description": "Gravette  is a city in Benton County, Arkansas, United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Gravette, Arkansas",
+                "wikipedia": "en:Gravette, Arkansas",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 4240248,
+            "lat": 36.065921,
+            "lon": -94.164843,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Walton_Arts_Center_photograph_new.jpg/1280px-Walton_Arts_Center_photograph_new.jpg",
+            "description": "The Walton Arts Center is a performing arts center located in Fayetteville, Arkansas.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Walton Arts Center",
+                "wikipedia": "en:Walton Arts Center",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 44438344,
+            "lat": 36.30292,
+            "lon": -94.1838,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Walmart_AMP.jpg/1280px-Walmart_AMP.jpg",
+            "description": "The Walmart Arkansas Music Pavilion (originally known as the Arkansas Music Pavilion and commonly known as the Walmart AMP) is an outdoor amphitheater located in Rogers, Arkansas.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Walmart Arkansas Music Pavilion",
+                "wikipedia": "en:Walmart Arkansas Music Pavilion",
+                "tourism": "attraction"
+            }
+        }
+    ]
+}

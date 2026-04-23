@@ -1,0 +1,429 @@
+{
+    "city_metadata": {
+        "city_name": "Lubbock",
+        "state_code": "TX",
+        "state_full": "Texas",
+        "city_summary": "Lubbock ( LUB-ək) is a city in the U.S. state of Texas and the county seat of Lubbock County. With a population of 257,141\tat the 2020 census (estimated at 272,086 in 2024), Lubbock is the 10th-most populous city in Texas and the 84th-most populous in the United States. The city is in the northwestern part of the state, in the Great Plains region, an area known historically and geographically as the Llano Estacado, and ecologically is part of the southern end of the High Plains, lying at the economic center of the Lubbock metropolitan area, which had an estimated population of 367,109 in 2024.",
+        "city_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Lubbock_Skyline.jpg/1280px-Lubbock_Skyline.jpg",
+        "city_lat": 33.585,
+        "city_lon": -101.845,
+        "source": "wikipedia_verified_engine"
+    },
+    "attractions": [
+        {
+            "type": "node",
+            "id": 4686468432,
+            "lat": 33.6072989,
+            "lon": -101.9055888,
+            "tags": {
+                "name": "The Spiral by Dr. Alon Kvashny",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 4815554192,
+            "lat": 33.578618,
+            "lon": -101.84259,
+            "tags": {
+                "addr:city": "Lubbock",
+                "addr:housenumber": "1801",
+                "addr:state": "TX",
+                "addr:street": "Crickets Avenue",
+                "name": "The Buddy Holly Center",
+                "tourism": "museum",
+                "website": "https://ci.lubbock.tx.us/departments/buddy-holly-center"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c1/WoF_Wide_Shot.png",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 6988514070,
+            "lat": 33.5870143,
+            "lon": -101.8295411,
+            "tags": {
+                "addr:city": "Lubbock",
+                "addr:housenumber": "600",
+                "addr:postcode": "79401",
+                "addr:state": "TX",
+                "addr:street": "Cesar E. Chavez Drive",
+                "name": "Santa Land",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9944263825,
+            "lat": 33.6576793,
+            "lon": -101.8335601,
+            "tags": {
+                "aircraft:type": "military",
+                "historic": "aircraft",
+                "name": "Douglas C-47 Skytrain",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Silent_Wings_Museum_2009.jpg/1280px-Silent_Wings_Museum_2009.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 77607198,
+            "lat": 33.5916123,
+            "lon": -101.8319115,
+            "tags": {
+                "addr:city": "Lubbock",
+                "addr:housenumber": "500",
+                "addr:postcode": "79401",
+                "addr:state": "TX",
+                "addr:street": "Cesar E. Chavez Drive",
+                "name": "Joyland Amusement Park",
+                "operator": "David Dean",
+                "tourism": "theme_park",
+                "website": "https://www.joylandpark.com/",
+                "wikidata": "Q1906703",
+                "wikipedia": "en:Joyland Amusement Park"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Yellow_House_Draw_Lubbock_Lake_2010.jpg/1280px-Yellow_House_Draw_Lubbock_Lake_2010.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 78068009,
+            "lat": 33.5907595,
+            "lon": -101.8840964,
+            "tags": {
+                "addr:city": "Lubbock",
+                "addr:housenumber": "3121",
+                "addr:postcode": "79409",
+                "addr:state": "TX",
+                "addr:street": "4th Street",
+                "alt_name": "Texas Tech Ranching Heritage Center",
+                "building": "yes",
+                "check_date:opening_hours": "2023-07-24",
+                "fee": "no",
+                "name": "National Ranching Heritage Center",
+                "opening_hours": "Mo-Sa 10:00-17:00; Su 13:00-17:00",
+                "service_animals": "yes",
+                "tourism": "museum",
+                "website": "https://ranchingheritage.org/",
+                "wheelchair": "yes",
+                "wikidata": "Q6975200"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/AH-Gibson.jpg/1280px-AH-Gibson.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 177618621,
+            "lat": 33.5898974,
+            "lon": -101.8756068,
+            "tags": {
+                "name": "Sundial",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/65/Dan_Law_Field_at_Rip_Griffin_Park.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 177636261,
+            "lat": 33.6220555,
+            "lon": -101.8896781,
+            "tags": {
+                "addr:city": "Lubbock",
+                "addr:housenumber": "2401",
+                "addr:postcode": "79415",
+                "addr:state": "TX",
+                "addr:street": "Landmark Drive",
+                "building": "yes",
+                "name": "Lubbock Lake Landmark Visitors Center",
+                "opening_hours": "08:00-16:30",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Lllcenter.jpg/1280px-Lllcenter.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 177826534,
+            "lat": 33.5881483,
+            "lon": -101.8333037,
+            "tags": {
+                "addr:city": "Lubbock",
+                "addr:housenumber": "1012",
+                "addr:postcode": "79403",
+                "addr:state": "TX",
+                "addr:street": "Avenue A",
+                "leisure": "sports_centre",
+                "name": "South Plains Fairgrounds",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lubbock_County_South_Plains_Fair_2012.jpg/1280px-Lubbock_County_South_Plains_Fair_2012.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 177852930,
+            "lat": 33.5899963,
+            "lon": -101.8837228,
+            "tags": {
+                "alt_name": "Texas Tech Ranching Heritage Center",
+                "name": "National Ranching Heritage Center",
+                "tourism": "theme_park"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/AH-Gibson.jpg/1280px-AH-Gibson.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 178103601,
+            "lat": 33.5989935,
+            "lon": -101.8333111,
+            "tags": {
+                "name": "Prairie Dog Town",
+                "operator": "City of Lubbock",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "way",
+            "id": 220970347,
+            "lat": 33.5283119,
+            "lon": -101.8765715,
+            "tags": {
+                "addr:city": "Lubbock",
+                "addr:housenumber": "2579",
+                "addr:postcode": "79423",
+                "addr:state": "TX",
+                "addr:street": "South Loop 289",
+                "building": "yes",
+                "fee": "yes",
+                "fee:conditional": "no @ (age < 2)",
+                "name": "Science Spectrum & OMNI Theater",
+                "opening_hours": "Mo-Fr 10:00-17:00; Sa 10:00-18:00; Su 13:00-17:00",
+                "tourism": "museum",
+                "website": "https://www.sciencespectrum.org/",
+                "wikidata": "Q7433607"
+            }
+        },
+        {
+            "type": "way",
+            "id": 221452861,
+            "lat": 33.6576245,
+            "lon": -101.8317323,
+            "tags": {
+                "addr:city": "Lubbock",
+                "addr:housenumber": "6202",
+                "addr:postcode": "79403",
+                "addr:state": "TX",
+                "addr:street": "North Cedar Avenue",
+                "building": "yes",
+                "museum": "military",
+                "name": "Silent Wings Museum",
+                "operator": "National World War II Glider Pilots Association, City of Lubbock",
+                "phone": "+1-806-775-3049",
+                "tourism": "museum",
+                "website": "https://silentwingsmuseum.com/",
+                "wikidata": "Q7514716",
+                "wikipedia": "en:Silent Wings Museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Silent_Wings_Museum_2009.jpg/1280px-Silent_Wings_Museum_2009.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 270670721,
+            "lat": 33.5866787,
+            "lon": -101.8757241,
+            "tags": {
+                "name": "Blarney Stone",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/30/TTeng.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 406115842,
+            "lat": 33.5904285,
+            "lon": -101.8858103,
+            "tags": {
+                "addr:city": "Lubbock",
+                "addr:housenumber": "3301",
+                "addr:postcode": "79409",
+                "addr:state": "TX",
+                "addr:street": "4th Street",
+                "building": "yes",
+                "check_date:opening_hours": "2023-07-24",
+                "fee": "no",
+                "name": "Museum of Texas Tech University",
+                "opening_hours": "Tu-Sa 09:45-17:00; Su 13:00-17:00",
+                "tourism": "museum",
+                "website": "https://www.depts.ttu.edu/museumttu/",
+                "wheelchair": "yes"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/AH-Gibson.jpg/1280px-AH-Gibson.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 422843554,
+            "lat": 33.5815997,
+            "lon": -101.8236907,
+            "tags": {
+                "addr:city": "Lubbock",
+                "addr:housenumber": "1701",
+                "addr:postcode": "79403",
+                "addr:state": "TX",
+                "addr:street": "Canyon Lake Drive",
+                "name": "American Wind Power Center",
+                "tourism": "theme_park",
+                "website": "https://windmill.com/",
+                "wikidata": "Q4745381"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Windmills_at_the_American_Wind_Power_Center.jpg/1280px-Windmills_at_the_American_Wind_Power_Center.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 422848220,
+            "lat": 33.5865081,
+            "lon": -101.8235516,
+            "tags": {
+                "addr:city": "Lubbock",
+                "addr:housenumber": "1121",
+                "addr:postcode": "79403",
+                "addr:state": "TX",
+                "addr:street": "Canyon Lake Drive",
+                "name": "Bayer Museum of Agriculture",
+                "tourism": "museum"
+            }
+        },
+        {
+            "type": "way",
+            "id": 430418567,
+            "lat": 33.5784589,
+            "lon": -101.8425974,
+            "tags": {
+                "addr:city": "Lubbock",
+                "addr:housenumber": "1801",
+                "addr:postcode": "79401",
+                "addr:state": "TX",
+                "addr:street": "Crickets Avenue",
+                "ele": "974",
+                "gnis:feature_id": "2014562",
+                "name": "Buddy Holly Center",
+                "operator": "City of Lubbock",
+                "tourism": "museum",
+                "website": "https://www.mylubbock.us/departmental-websites/departments/buddy-holly-center/home"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c1/WoF_Wide_Shot.png",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 442966450,
+            "lat": 33.5906866,
+            "lon": -101.847057,
+            "tags": {
+                "amenity": "arts_centre",
+                "name": "Arts District",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Buddy_Holly_Hall_Under_Construction_-_South_View_-_August_2019.jpg/1280px-Buddy_Holly_Hall_Under_Construction_-_South_View_-_August_2019.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 465235060,
+            "lat": 33.5790828,
+            "lon": -101.836127,
+            "tags": {
+                "addr:city": "Lubbock",
+                "addr:housenumber": "1719",
+                "addr:postcode": "79403",
+                "addr:state": "TX",
+                "addr:street": "Avenue A",
+                "building": "yes",
+                "name": "Caviel Museum of African American History",
+                "tourism": "museum"
+            }
+        },
+        {
+            "type": "way",
+            "id": 474947138,
+            "lat": 33.5678578,
+            "lon": -101.9188286,
+            "tags": {
+                "addr:city": "Lubbock",
+                "addr:housenumber": "5110",
+                "addr:postcode": "79407",
+                "addr:state": "TX",
+                "addr:street": "29th Drive",
+                "name": "Adventure Park",
+                "tourism": "theme_park",
+                "website": "https://adventureparkfun.com/"
+            }
+        },
+        {
+            "type": "way",
+            "id": 678786760,
+            "lat": 33.578197,
+            "lon": -101.8435674,
+            "tags": {
+                "addr:city": "Lubbock",
+                "addr:housenumber": "1824",
+                "addr:state": "TX",
+                "addr:street": "Crickets Avenue",
+                "name": "West Texas Walk of Fame",
+                "tourism": "attraction",
+                "wikidata": "Q16878770"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c1/WoF_Wide_Shot.png",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 29810,
+            "lat": 31,
+            "lon": -99,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Flag_of_Texas.svg/1280px-Flag_of_Texas.svg.png",
+            "description": "Texas (  TEK-səss) is the most populous state in the Southern United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Texas",
+                "wikipedia": "en:Texas",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 151232,
+            "lat": 35.19916667,
+            "lon": -101.84527778,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Amarillo_Texas_Downtown.jpg/1280px-Amarillo_Texas_Downtown.jpg",
+            "description": "Amarillo ( AM-ə-RIL-oh; Spanish for \"yellow\") is a city in the U.S. state of Texas and the county seat of Potter County, though most of the southern half of the city extends into Randall County.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Amarillo, Texas",
+                "wikipedia": "en:Amarillo, Texas",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 53848,
+            "lat": 29.425,
+            "lon": -98.4939,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/San_Antonio_Botanical_Garden_Overlook_View.jpg/1280px-San_Antonio_Botanical_Garden_Overlook_View.jpg",
+            "description": "San Antonio ( SAN an-TOH-nee-oh; Spanish for \"Saint Anthony\") is a city in the U.S. state of Texas.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "San Antonio",
+                "wikipedia": "en:San Antonio",
+                "tourism": "attraction"
+            }
+        }
+    ]
+}

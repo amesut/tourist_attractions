@@ -1,0 +1,963 @@
+{
+    "city_metadata": {
+        "city_name": "Charlotte",
+        "state_code": "NC",
+        "state_full": "North Carolina",
+        "city_summary": "Charlotte is the most populous city in the U.S. state of North Carolina. With a population of 874,579 at the 2020 census, it is the 14th-most populous city in the U.S., seventh-most populous city in the South, and second-most populous city in the Southeast (after Jacksonville, Florida). The Charlotte metropolitan area, with an estimated 2.88 million residents, is the 21st-largest metropolitan area in the U.S. The Charlotte metropolitan area is part of an 18-county combined statistical area with an estimated population of 3.47 million as of 2024.",
+        "city_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Uptown_Charlotte_2018_taking_by_DJI_Phantom_4_pro.jpg/1280px-Uptown_Charlotte_2018_taking_by_DJI_Phantom_4_pro.jpg",
+        "city_lat": 35.22722222,
+        "city_lon": -80.84305556,
+        "source": "wikipedia_verified_engine"
+    },
+    "attractions": [
+        {
+            "type": "node",
+            "id": 3883809284,
+            "lat": 13.3761067,
+            "lon": -61.1399433,
+            "tags": {
+                "name": "Owia Salt Pond",
+                "name:en": "Owia Salt Pond",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 4880354210,
+            "lat": 35.1508126,
+            "lon": -80.9480419,
+            "tags": {
+                "amenity": "fountain",
+                "artist_name": "David Černý",
+                "name": "METALmorphosis",
+                "tourism": "attraction",
+                "website": "https://www.metalmorphosis.tv/",
+                "wikidata": "Q28455368",
+                "wikipedia": "en:METALmorphosis"
+            }
+        },
+        {
+            "type": "node",
+            "id": 5484630021,
+            "lat": 13.3026213,
+            "lon": -61.1178762,
+            "tags": {
+                "name": "Turnoff to La Soufriere",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 5484659221,
+            "lat": 13.3009929,
+            "lon": -61.1172348,
+            "tags": {
+                "name": "Rabacca Bridge",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 5484802021,
+            "lat": 13.3164739,
+            "lon": -61.1525283,
+            "tags": {
+                "name": "Bamboo Range La Soufriere",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 5964485974,
+            "lat": 35.0550217,
+            "lon": -80.8507649,
+            "tags": {
+                "name": "Arch",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 5964485975,
+            "lat": 35.0550315,
+            "lon": -80.8497752,
+            "tags": {
+                "name": "Arch",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 5964485976,
+            "lat": 35.0542938,
+            "lon": -80.8497698,
+            "tags": {
+                "name": "Arch",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 5964485977,
+            "lat": 35.0542861,
+            "lon": -80.8507314,
+            "tags": {
+                "name": "Arch",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 8558009126,
+            "lat": 35.1925923,
+            "lon": -80.8431885,
+            "tags": {
+                "name": "Gainseville Midland",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/83/Freedom_Park_Pavilion%2C_Charlotte%2C_NC.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 8575598685,
+            "lat": 35.0615756,
+            "lon": -80.8277337,
+            "tags": {
+                "name": "Big Rock",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Big_Rock_Nature_Preserve_13.jpg/1280px-Big_Rock_Nature_Preserve_13.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 9099545840,
+            "lat": 35.2268915,
+            "lon": -80.8420148,
+            "tags": {
+                "level": "0",
+                "museum": "history",
+                "name": "Bank of America Heritage Center",
+                "tourism": "museum"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11149114406,
+            "lat": 13.3178541,
+            "lon": -61.1219208,
+            "tags": {
+                "name": "Orange Hill Aqueduct",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11504215025,
+            "lat": 35.15539,
+            "lon": -80.8539307,
+            "tags": {
+                "name": "Abandoned Charlotte Delivery Service Truck and Car",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 12394312490,
+            "lat": 35.2253092,
+            "lon": -80.9616917,
+            "tags": {
+                "name": "F-4 Phantom II",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 12513705156,
+            "lat": 35.2223345,
+            "lon": -80.8491318,
+            "tags": {
+                "name": "Museum of Illusions",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/615_S_College_building.jpg/1280px-615_S_College_building.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 12599393249,
+            "lat": 35.2298521,
+            "lon": -80.8273981,
+            "tags": {
+                "name": "Coal car",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/McGill_Rose_Garden_Sign.jpg/1280px-McGill_Rose_Garden_Sign.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 13235170445,
+            "lat": 42.546279,
+            "lon": -84.8338831,
+            "tags": {
+                "name": "Trail Map Kiosk",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "way",
+            "id": 117005466,
+            "lat": 43.257727,
+            "lon": -77.6055541,
+            "tags": {
+                "addr:city": "Rochester",
+                "addr:housenumber": "50",
+                "addr:postcode": "14612",
+                "addr:state": "NY",
+                "addr:street": "Beach Avenue",
+                "attraction": "carousel",
+                "building": "yes",
+                "description": "Open Memorial Day through Labor Day. Rides $1",
+                "name": "Historic Dentzel Carousel",
+                "operator": "City of Rochester",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/The_street_railway_review_%281891%29_%2814761095922%29.jpg/1280px-The_street_railway_review_%281891%29_%2814761095922%29.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 131139722,
+            "lat": 35.2231064,
+            "lon": -80.8479206,
+            "tags": {
+                "addr:city": "Charlotte",
+                "addr:housenumber": "551",
+                "addr:postcode": "28202",
+                "addr:state": "NC",
+                "addr:street": "South Tryon Street",
+                "building": "yes",
+                "email": "gsa@ganttcenter.org",
+                "height": "29",
+                "museum": "art",
+                "name": "Harvey B. Gantt Center for African American Arts & Culture",
+                "phone": "+1 704 547 3700",
+                "tourism": "museum",
+                "website": "https://www.ganttcenter.org/",
+                "wikidata": "Q16983412"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Harvey_B._Gantt_Center_on_Opening_Day.jpg/1280px-Harvey_B._Gantt_Center_on_Opening_Day.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 131139728,
+            "lat": 35.2245865,
+            "lon": -80.8474035,
+            "tags": {
+                "addr:city": "Charlotte",
+                "addr:housenumber": "420",
+                "addr:postcode": "28202",
+                "addr:state": "NC",
+                "addr:street": "South Tryon Street",
+                "building": "yes",
+                "height": "30",
+                "name": "Bechtler Museum Of Modern Art",
+                "phone": "+1-704-353-9200",
+                "tourism": "museum",
+                "website": "https://www.bechtler.org/",
+                "wikidata": "Q4878575",
+                "wikipedia": "en:Bechtler Museum of Modern Art"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Bechtler_Museum_of_Modern_Art.jpg/1280px-Bechtler_Museum_of_Modern_Art.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 131139755,
+            "lat": 35.2245205,
+            "lon": -80.8483605,
+            "tags": {
+                "addr:city": "Charlotte",
+                "addr:housenumber": "500",
+                "addr:postcode": "28202",
+                "addr:state": "NC",
+                "addr:street": "South Tryon Street",
+                "building": "yes",
+                "building:levels": "3",
+                "fee": "yes",
+                "height": "31",
+                "museum": "art",
+                "name": "Mint Museum Uptown",
+                "name:en": "Mint Museum Uptown",
+                "opening_hours:url": "https://www.mintmuseum.org/plan-your-visit/mint-museum-uptown/#hours",
+                "phone": "+1 704 337 2000",
+                "tourism": "museum",
+                "website": "https://www.mintmuseum.org/",
+                "wheelchair": "yes",
+                "wikidata": "Q6869561"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Museum_Tower_Complete.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 131493860,
+            "lat": 35.1011306,
+            "lon": -80.9470443,
+            "tags": {
+                "covered": "no",
+                "leisure": "swimming_pool",
+                "name": "Tidal Wave Bay",
+                "swimming_pool": "wave_pool",
+                "tourism": "attraction",
+                "website": "https://www.carowinds.com/play/carolina-harbor/tidal-wave-bay"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/44/Flying_Super_Saturator.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 174231925,
+            "lat": 35.2296144,
+            "lon": -80.8409227,
+            "tags": {
+                "addr:city": "Charlotte",
+                "addr:housenumber": "301",
+                "addr:postcode": "28202",
+                "addr:state": "NC",
+                "addr:street": "North Tryon Street",
+                "building": "yes",
+                "building:levels": "2",
+                "fee": "yes",
+                "height": "22",
+                "name": "Discovery Place",
+                "opening_hours": "Mo-Fr 9:30-16:30",
+                "phone": "+1-704-372-6261",
+                "tourism": "museum",
+                "website": "https://discoveryplace.org/",
+                "wheelchair": "yes",
+                "wikidata": "Q5281960"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Discovery_Place-27527-1.jpg/1280px-Discovery_Place-27527-1.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 241199374,
+            "lat": 35.1042578,
+            "lon": -80.9436079,
+            "tags": {
+                "attraction": "roller_coaster",
+                "building": "yes",
+                "minimum_height_requirement": "48in (122cm)",
+                "name": "Carolina Cyclone",
+                "tourism": "attraction",
+                "website": "https://www.carowinds.com/play/rides/carolina-cyclone",
+                "wikipedia": "en:Carolina Cyclone"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Carolina_Cyclone_loops_and_corkscrew.jpg/1280px-Carolina_Cyclone_loops_and_corkscrew.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 241408487,
+            "lat": 35.102716,
+            "lon": -80.9428048,
+            "tags": {
+                "attraction": "roller_coaster",
+                "building": "yes",
+                "minimum_height_requirement": "48in (122cm)",
+                "name": "Flying Cobras",
+                "tourism": "attraction",
+                "website": "https://www.carowinds.com/play/rides/the-flying-cobras",
+                "wikipedia": "en:The Flying Cobras"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Carolina_Cobra_sign.jpg/1280px-Carolina_Cobra_sign.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 242538214,
+            "lat": 35.100758,
+            "lon": -80.9458684,
+            "tags": {
+                "attraction": "raft_slide",
+                "building": "yes",
+                "minimum_height_requirement": "42in (107cm)",
+                "name": "Hurricane Falls",
+                "tourism": "attraction",
+                "website": "https://www.carowinds.com/play/carolina-harbor/hurricane-falls"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Copperhead_Strike_1.jpg/1280px-Copperhead_Strike_1.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 242541772,
+            "lat": 35.1016204,
+            "lon": -80.9452626,
+            "tags": {
+                "covered": "no",
+                "leisure": "playground",
+                "name": "Murtle Turtle Beach",
+                "playground": "splash_pad",
+                "sport": "swimming",
+                "tourism": "attraction",
+                "website": "https://www.carowinds.com/play/carolina-harbor/myrtle-turtle-beach"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/44/Flying_Super_Saturator.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 242541773,
+            "lat": 35.1017498,
+            "lon": -80.9446635,
+            "tags": {
+                "covered": "no",
+                "leisure": "playground",
+                "name": "Kiddy Hawk Cove",
+                "playground": "splash_pad",
+                "playground:theme": "water",
+                "tourism": "attraction",
+                "website": "https://www.carowinds.com/play/carolina-harbor/kiddy-hawk-cove"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/44/Flying_Super_Saturator.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 242547595,
+            "lat": 35.1049005,
+            "lon": -80.9441379,
+            "tags": {
+                "attraction": "drop_tower",
+                "minimum_height_requirement": "54in (137cm)",
+                "name": "Drop Tower",
+                "tourism": "attraction",
+                "website": "https://www.carowinds.com/play/rides/drop-tower",
+                "wikipedia": "en:Drop Tower (Cedar Fair)"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Carolina_Cyclone_loops_and_corkscrew.jpg/1280px-Carolina_Cyclone_loops_and_corkscrew.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 322278731,
+            "lat": 35.2210348,
+            "lon": -80.8441204,
+            "tags": {
+                "addr:city": "Charlotte",
+                "addr:housenumber": "400",
+                "addr:postcode": "28202",
+                "addr:state": "NC",
+                "addr:street": "East Martin Luther King Jr Boulevard",
+                "building": "yes",
+                "check_date:opening_hours": "2023-02-17",
+                "fee": "yes",
+                "height": "60",
+                "name": "NASCAR Hall of Fame",
+                "opening_hours": "Mo-Su 10:00-17:00; Tu off",
+                "source": "Bing",
+                "toilets:wheelchair": "yes",
+                "tourism": "museum",
+                "website": "https://www.nascarhall.com/",
+                "wheelchair": "yes",
+                "wikidata": "Q1443089"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/NASCAR_HoF_from_CCC.JPG/1280px-NASCAR_HoF_from_CCC.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 398591589,
+            "lat": 35.2281955,
+            "lon": -80.8387317,
+            "tags": {
+                "addr:city": "Charlotte",
+                "addr:housenumber": "200",
+                "addr:postcode": "28202",
+                "addr:state": "NC",
+                "addr:street": "East 7th Street",
+                "building": "yes",
+                "check_date": "2023-06-12",
+                "fee": "no",
+                "height": "12",
+                "name": "Levine Museum of the New South",
+                "opening_hours": "Tu-Fr 11:00-17:00; We 11:00-21:00; Sa 10:00-17:00; Su 12:00-17:00; PH off",
+                "tourism": "museum",
+                "website": "https://www.museumofthenewsouth.org/",
+                "wikidata": "Q6535654"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Philip_Carey_Building.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 543434158,
+            "lat": 43.2527437,
+            "lon": -77.610619,
+            "tags": {
+                "building": "yes",
+                "heritage": "2",
+                "heritage:operator": "nrhp",
+                "heritage:website": "https://www.nps.gov/subjects/nationalregister/index.htm",
+                "historic": "lighthouse",
+                "man_made": "lighthouse",
+                "name": "Charlotte-Genesee Lighthouse",
+                "nrhp:criteria": "(A),(C)",
+                "nrhp:inscription_date": "1974-08-13",
+                "old_name": "Genesee Lighthouse",
+                "operator": "U.S. Coast Guard",
+                "protection_title": "Charlotte-Genesee Lighthouse Historical Society",
+                "ref:nrhp": "74001259",
+                "seamark:landmark:category": "tower",
+                "seamark:landmark:conspicuity": "conspicuous",
+                "seamark:landmark:function": "tower",
+                "seamark:light:character": "Fl",
+                "seamark:light:colour": "white",
+                "seamark:name": "Charlotte-Genesee Lighthouse",
+                "seamark:reference": "LLNR 2333",
+                "seamark:type": "landmark",
+                "source": "U.S. Coast Guard, Light List vol. VII, Great Lakes, COMDTPUB P16502.7, 2025",
+                "source_ref": "https://catalog.archives.gov/id/75318828",
+                "start_date": "1822",
+                "tourism": "attraction",
+                "website": "https://geneseelighthouse.org/",
+                "wikidata": "Q5086268",
+                "wikipedia": "en:Charlotte–Genesee Lighthouse"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Rochester_-_Charlotte-Genesee_Lighthouse.jpg/1280px-Rochester_-_Charlotte-Genesee_Lighthouse.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 543434159,
+            "lat": 43.252765,
+            "lon": -77.6107683,
+            "tags": {
+                "addr:city": "Rochester",
+                "addr:housenumber": "70",
+                "addr:postcode": "14612",
+                "addr:state": "NY",
+                "addr:street": "Lighthouse Street",
+                "building": "house",
+                "heritage": "2",
+                "heritage:operator": "nrhp",
+                "heritage:website": "https://www.nps.gov/subjects/nationalregister/index.htm",
+                "historic": "lighthouse",
+                "museum": "history",
+                "name": "Keeper's House",
+                "nrhp:criteria": "(A),(C)",
+                "nrhp:inscription_date": "1974-08-13",
+                "nysgissam:nysaddresspointid": "MONR013723",
+                "operator": "Charlotte-Genesee Lighthouse Historical Society",
+                "operator:type": "private_non_profit",
+                "protection_title": "Charlotte-Genesee Lighthouse Historical Society",
+                "ref:nrhp": "74001259",
+                "source_ref": "https://catalog.archives.gov/id/75318828",
+                "start_date": "1863",
+                "tourism": "museum",
+                "website": "https://geneseelighthouse.org/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Rochester_-_Charlotte-Genesee_Lighthouse.jpg/1280px-Rochester_-_Charlotte-Genesee_Lighthouse.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 543823785,
+            "lat": 35.1054712,
+            "lon": -80.9424747,
+            "tags": {
+                "attraction": "roller_coaster",
+                "building": "roof",
+                "minimum_height_requirement": "54in (137cm)",
+                "name": "Fury 325",
+                "roller_coaster": "station",
+                "tourism": "attraction",
+                "website": "https://www.carowinds.com/play/rides/fury-325",
+                "wikipedia": "en:Fury 325"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/00/Carowinds-Fury325Entry.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 544135045,
+            "lat": 35.2547941,
+            "lon": -80.8057166,
+            "tags": {
+                "addr:city": "Charlotte",
+                "addr:housenumber": "3427",
+                "addr:postcode": "28206",
+                "addr:state": "NC",
+                "addr:street": "North Tryon Street",
+                "building": "house",
+                "building:levels": "4",
+                "description": "The 200+ year old home is the centerpiece of the property known as Historic Rosedale Plantation.",
+                "name": "Rosedale House",
+                "tourism": "museum"
+            }
+        },
+        {
+            "type": "way",
+            "id": 553088169,
+            "lat": 35.2252863,
+            "lon": -80.8823006,
+            "tags": {
+                "addr:city": "Charlotte",
+                "addr:housenumber": "2216",
+                "addr:postcode": "28208",
+                "addr:state": "NC",
+                "addr:street": "Monument Street",
+                "building": "yes",
+                "name": "The James C. Dowd House",
+                "operator": "Charlotte Mecklenburg Library",
+                "ownership": "county",
+                "tourism": "museum",
+                "website": "https://www.cmstory.org/exhibits/doughboys-camp-greene-mecklenburg-county-nc-1917-1918-dowd-house/dowd-house"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Drilling_Recruits%2C_Camp_Greene%2C_Charlotte%2C_N.C.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 579963694,
+            "lat": 35.2617158,
+            "lon": -80.7193912,
+            "tags": {
+                "building": "yes",
+                "name": "Reedy Creek Nature Center",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "way",
+            "id": 668700357,
+            "lat": 35.1039154,
+            "lon": -80.9420674,
+            "tags": {
+                "attraction": "sling_shot",
+                "building": "yes",
+                "fee": "yes",
+                "maximum_height_requirement": "79in (201cm)",
+                "minimum_height_requirement": "48in (122cm)",
+                "name": "Slingshot",
+                "tourism": "attraction",
+                "website": "https://www.carowinds.com/play/rides/slingshot",
+                "wikipedia": "en:SlingShot (Cedar Fair)"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/6f/PCW-Vortex.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 668700368,
+            "lat": 35.1052722,
+            "lon": -80.9437525,
+            "tags": {
+                "attraction": "roller_coaster",
+                "building": "yes",
+                "minimum_height_requirement": "48in (122cm)",
+                "name": "Hurler",
+                "roller_coaster": "station",
+                "tourism": "attraction",
+                "website": "https://www.carowinds.com/play/rides/hurler",
+                "wikipedia": "en:Hurler (roller coaster)"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/00/Carowinds-Fury325Entry.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 668700374,
+            "lat": 35.1040953,
+            "lon": -80.9429351,
+            "tags": {
+                "attraction": "roller_coaster",
+                "building": "yes",
+                "layer": "2",
+                "maximum_height_requirement": "54in (137cm)",
+                "minimum_height_requirement": "44in (112cm)",
+                "name": "Ricochet",
+                "roller_coaster": "station",
+                "tourism": "attraction",
+                "website": "https://www.carowinds.com/play/rides/ricochet",
+                "wikipedia": "en:Ricochet (Carowinds)"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Ricochet_%28Full%29.JPG/1280px-Ricochet_%28Full%29.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 668730923,
+            "lat": 35.1032114,
+            "lon": -80.9428401,
+            "tags": {
+                "attraction": "roller_coaster",
+                "building": "yes",
+                "minimum_height_requirement": "48in (122cm)",
+                "name": "Carolina Goldrusher",
+                "roller_coaster": "station",
+                "tourism": "attraction",
+                "website": "https://www.carowinds.com/play/rides/carolina-goldrusher",
+                "wheelchair": "yes",
+                "wikipedia": "en:Carolina Goldrusher"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Carolina_Goldrusher_entrance_sign.jpg/1280px-Carolina_Goldrusher_entrance_sign.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 668876654,
+            "lat": 35.100832,
+            "lon": -80.9463049,
+            "tags": {
+                "attraction": "body_slide",
+                "building": "roof",
+                "minimum_height_requirement": "48in (122cm)",
+                "name": "Storm Surge",
+                "tourism": "attraction",
+                "website": "https://www.carowinds.com/play/carolina-harbor/storm-surge"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Copperhead_Strike_1.jpg/1280px-Copperhead_Strike_1.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 669164155,
+            "lat": 35.1037619,
+            "lon": -80.9416673,
+            "tags": {
+                "attraction": "roller_coaster",
+                "building": "yes",
+                "minimum_height_requirement": "54in (137cm)",
+                "name": "Vortex",
+                "roller_coaster": "station",
+                "tourism": "attraction",
+                "website": "https://www.carowinds.com/play/rides/vortex",
+                "wikipedia": "en:Vortex (Carowinds)"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/6f/PCW-Vortex.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 672891983,
+            "lat": 35.1021302,
+            "lon": -80.9441316,
+            "tags": {
+                "covered": "no",
+                "leisure": "playground",
+                "name": "Seaside Splashworks",
+                "playground": "splash_pad",
+                "playground:theme": "water",
+                "tourism": "attraction",
+                "website": "https://www.carowinds.com/play/carolina-harbor/seaside-splashworks"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/44/Flying_Super_Saturator.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 784079334,
+            "lat": 35.1973497,
+            "lon": -80.8146672,
+            "tags": {
+                "addr:city": "Charlotte",
+                "addr:housenumber": "2730",
+                "addr:postcode": "28207",
+                "addr:state": "NC",
+                "addr:street": "Randolph Road",
+                "building": "yes",
+                "ele": "196",
+                "fee": "yes",
+                "gnis:feature_id": "990063",
+                "image": "https://www.mintmuseum.org/plan-your-visit/mint-museum-randolph/",
+                "museum": "art",
+                "name": "Mint Museum Randolph",
+                "operator": "The Mint Museum",
+                "operator:type": "private_non_profit",
+                "phone": "+1-704-337-2000",
+                "source": "USGS Geonames",
+                "tourism": "museum",
+                "website": "https://mintmuseum.org/",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "way",
+            "id": 886367048,
+            "lat": 35.1041845,
+            "lon": -80.9420633,
+            "tags": {
+                "attraction": "carousel",
+                "building": "yes",
+                "name": "The Grand Carousel",
+                "tourism": "attraction",
+                "website": "https://www.carowinds.com/play/rides/the-grand-carousel"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Ricochet_%28Full%29.JPG/1280px-Ricochet_%28Full%29.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 890497061,
+            "lat": 35.1020834,
+            "lon": -80.9446732,
+            "tags": {
+                "attraction": "tube_slide",
+                "building": "yes",
+                "minimum_height_requirement": "36in (91cm)",
+                "name": "Pelican Plunge",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/44/Flying_Super_Saturator.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 890497443,
+            "lat": 35.1012844,
+            "lon": -80.9450383,
+            "tags": {
+                "covered": "no",
+                "leisure": "playground",
+                "name": "Pirate's Landing",
+                "playground": "splash_pad",
+                "playground:theme": "water",
+                "sport": "swimming",
+                "tourism": "attraction",
+                "website": "https://www.carowinds.com/play/carolina-harbor/pirates-landing"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Copperhead_Strike_1.jpg/1280px-Copperhead_Strike_1.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 894382560,
+            "lat": 35.1029127,
+            "lon": -80.9430761,
+            "tags": {
+                "addr:city": "Charlotte",
+                "addr:housenumber": "300",
+                "addr:postcode": "28273",
+                "addr:state": "NC",
+                "addr:street": "Carowinds Boulevard",
+                "brand": "Six Flags",
+                "brand:wikidata": "Q127324768",
+                "name": "Carowinds",
+                "operator": "Six Flags Entertainment Corporation",
+                "tourism": "theme_park",
+                "website": "https://www.sixflags.com/carowinds",
+                "wikidata": "Q2940113",
+                "wikipedia": "en:Carowinds"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Carowinds_In_The_Evening_%2887182131%29.jpeg/1280px-Carowinds_In_The_Evening_%2887182131%29.jpeg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 927281243,
+            "lat": 35.2335385,
+            "lon": -80.7665488,
+            "tags": {
+                "addr:city": "Charlotte",
+                "addr:housenumber": "3500",
+                "addr:postcode": "28205",
+                "addr:state": "NC",
+                "addr:street": "Shamrock Drive",
+                "building": "yes",
+                "fee": "yes",
+                "museum": "history",
+                "name": "Charlotte Museum of History",
+                "opening_hours": "Tu-Sa 11:00-17:00",
+                "tourism": "museum",
+                "website": "https://charlottemuseum.org"
+            }
+        },
+        {
+            "type": "way",
+            "id": 977820493,
+            "lat": 42.5644823,
+            "lon": -84.8365718,
+            "tags": {
+                "addr:city": "Charlotte",
+                "addr:housenumber": "100",
+                "addr:postcode": "48813",
+                "addr:state": "MI",
+                "addr:street": "West Lawrence Avenue",
+                "building": "yes",
+                "name": "Courthouse Square Museum",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/County_Courthouse_Museum_Charlotte.jpg/1280px-County_Courthouse_Museum_Charlotte.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 1047155940,
+            "lat": 44.3330411,
+            "lon": -73.2823128,
+            "tags": {
+                "attraction": "historic",
+                "bridge": "covered",
+                "historic": "bridge",
+                "layer": "1",
+                "man_made": "bridge",
+                "name": "Holmes Creek Covered Bridge",
+                "tourism": "attraction",
+                "wikidata": "Q5883555",
+                "wikipedia": "en:Holmes Creek Covered Bridge"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/HolmesCreekBridge.JPG/1280px-HolmesCreekBridge.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 1190648645,
+            "lat": 35.2549964,
+            "lon": -80.8053984,
+            "tags": {
+                "landuse": "recreation_ground",
+                "name": "Historic Rosedale",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "way",
+            "id": 1384185470,
+            "lat": 35.2413985,
+            "lon": -80.8166541,
+            "tags": {
+                "access": "yes",
+                "area": "yes",
+                "artwork_type": "graffiti",
+                "leisure": "artwork",
+                "name": "Graffiti Park",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/25th_Street_Mosaic.jpg/1280px-25th_Street_Mosaic.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 1446412201,
+            "lat": 35.1881321,
+            "lon": -80.8437033,
+            "tags": {
+                "addr:city": "Charlotte",
+                "addr:housenumber": "1658",
+                "addr:postcode": "28209",
+                "addr:state": "NC",
+                "addr:street": "Sterling Road",
+                "building": "construction",
+                "name": "Charlotte Museum of Nature",
+                "tourism": "museum"
+            }
+        }
+    ]
+}

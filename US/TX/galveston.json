@@ -1,0 +1,584 @@
+{
+    "city_metadata": {
+        "city_name": "Galveston",
+        "state_code": "TX",
+        "state_full": "Texas",
+        "city_summary": "Galveston ( GAL-vis-tən) is a resort city and port on the Gulf Coast of the U.S. state of Texas. It encompasses 211.31 square miles (547.3 km2) on Galveston Island and Pelican Island. As of the 2020 census, the city had a population of 53,695, making it the second-largest municipality in Galveston County, where it also serves as the county seat.",
+        "city_image": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Galveston_Texas_Skyline.jpg",
+        "city_lat": 29.30138889,
+        "city_lon": -94.79777778,
+        "source": "wikipedia_verified_engine"
+    },
+    "attractions": [
+        {
+            "type": "node",
+            "id": 368164865,
+            "lat": 29.3033635,
+            "lon": -94.7888293,
+            "tags": {
+                "addr:city": "Galveston",
+                "addr:housenumber": "722",
+                "addr:postcode": "77550",
+                "addr:state": "TX",
+                "addr:street": "Moody Avenue - 21st Street",
+                "ele": "1",
+                "fee": "no",
+                "gnis:feature_id": "2014170",
+                "museum": "history",
+                "name": "Galveston County Historical Museum",
+                "operator": "Galveston County",
+                "operator:type": "government",
+                "source": "USGS Geonames",
+                "tourism": "museum",
+                "website": "https://galvestoncomuseum.wixsite.com/museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/GalvestonCountyCourthouseformer.JPG/1280px-GalvestonCountyCourthouseformer.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 368164888,
+            "lat": 29.3087434,
+            "lon": -94.7818409,
+            "tags": {
+                "addr:state": "TX",
+                "ele": "2",
+                "gnis:feature_id": "2014116",
+                "name": "Galveston Historic Seaport",
+                "tourism": "museum",
+                "website": "https://www.galvestonhistory.org/sites/1877-tall-ship-elissa-at-the-galveston-historic-seaport",
+                "wheelchair": "yes"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/The_Isaac_Heffron_House_in_2016.jpg/1280px-The_Isaac_Heffron_House_in_2016.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 915538574,
+            "lat": 29.304955,
+            "lon": -94.7813427,
+            "tags": {
+                "addr:housenumber": "1302",
+                "addr:street": "Ball Street",
+                "name": "Dolphin Tree Sculpture",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Colonel_Walter_Gresham_House%2C_1402_Broadway%2C_Galveston_%28Galveston_County%2C_Texas%29.jpg/1280px-Colonel_Walter_Gresham_House%2C_1402_Broadway%2C_Galveston_%28Galveston_County%2C_Texas%29.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 4663824146,
+            "lat": 29.2869593,
+            "lon": -94.7899262,
+            "tags": {
+                "attraction": "bumper_car",
+                "name": "Pier Pileup",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Pleasure_Pier_in_Galveston%2C_Texas_%28cropped%29.jpg/1280px-Pleasure_Pier_in_Galveston%2C_Texas_%28cropped%29.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 5939681297,
+            "lat": 29.3065514,
+            "lon": -94.7969187,
+            "tags": {
+                "addr:city": "Galveston",
+                "addr:housenumber": "123",
+                "addr:state": "TX",
+                "addr:street": "Rosenberg Avenue - 25th Street",
+                "name": "Galveston Railroad Museum",
+                "opening_hours": "Mo-Su 10:00-17:00",
+                "service_animals": "yes",
+                "tourism": "museum",
+                "website": "https://galvestonrrmuseum.org/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Old_Santa_Fe_Union_Station.jpg/1280px-Old_Santa_Fe_Union_Station.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 6431981117,
+            "lat": 29.2888837,
+            "lon": -94.790036,
+            "tags": {
+                "addr:housenumber": "2412",
+                "addr:street": "Seawall Boulevard",
+                "name": "Shark Attack 5D Theatee",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Beach_hotel_galveston.jpg/1280px-Beach_hotel_galveston.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 33852020,
+            "lat": 29.2744319,
+            "lon": -94.8522995,
+            "tags": {
+                "addr:city": "Galveston",
+                "addr:housenumber": "1",
+                "addr:postcode": "77554",
+                "addr:state": "TX",
+                "addr:street": "Hope Boulevard",
+                "ele": "2",
+                "gnis:feature_id": "2498277",
+                "name": "Moody Gardens",
+                "phone": "+1 409-744-4673",
+                "tourism": "attraction",
+                "website": "https://www.moodygardens.com/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Moody_Gardens_Corpse_Flower.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 56044910,
+            "lat": 29.3030756,
+            "lon": -94.7821511,
+            "tags": {
+                "addr:city": "Galveston",
+                "addr:housenumber": "1402",
+                "addr:postcode": "77550",
+                "addr:state": "TX",
+                "addr:street": "Broadway",
+                "building": "yes",
+                "ele": "2",
+                "heritage": "yes",
+                "name": "1892 Bishop's Palace",
+                "operator": "Galveston Historical Foundation",
+                "source": "Yahoo,GNIS",
+                "tourism": "attraction",
+                "website": "https://www.galvestonhistory.org/",
+                "wikidata": "Q3728690",
+                "wikipedia": "en:Bishop's Palace, Galveston"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Colonel_Walter_Gresham_House%2C_1402_Broadway%2C_Galveston_%28Galveston_County%2C_Texas%29.jpg/1280px-Colonel_Walter_Gresham_House%2C_1402_Broadway%2C_Galveston_%28Galveston_County%2C_Texas%29.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 62623954,
+            "lat": 29.2866321,
+            "lon": -94.7897957,
+            "tags": {
+                "addr:city": "Galveston",
+                "addr:housenumber": "2501",
+                "addr:postcode": "77550",
+                "addr:state": "TX",
+                "addr:street": "Seawall Boulevard",
+                "area": "yes",
+                "man_made": "pier",
+                "name": "Galveston Island Historic Pleasure Pier",
+                "tourism": "theme_park",
+                "website": "https://www.pleasurepier.com/",
+                "wikidata": "Q3094882",
+                "wikipedia": "en:Galveston Island Historic Pleasure Pier"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Pleasure_Pier_in_Galveston%2C_Texas_%28cropped%29.jpg/1280px-Pleasure_Pier_in_Galveston%2C_Texas_%28cropped%29.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 62798450,
+            "lat": 29.3342059,
+            "lon": -94.7788864,
+            "tags": {
+                "building": "ship",
+                "heritage": "2",
+                "heritage:operator": "nrhp",
+                "historic": "ship",
+                "name": "USS Cavalla",
+                "ref": "SS-244",
+                "ref:nrhp": "08000477",
+                "ship:type": "submarine",
+                "start_date": "1943",
+                "tourism": "attraction",
+                "wikipedia": "en:USS Cavalla (SS-244)"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/USS_Cavalla%3B0824408.jpg/1280px-USS_Cavalla%3B0824408.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 62798451,
+            "lat": 29.33407,
+            "lon": -94.7793871,
+            "tags": {
+                "building": "ship",
+                "historic": "ship",
+                "name": "USS Stewart",
+                "ref": "DE-238",
+                "ref:nrhp": "07000689",
+                "ship:type": "destroyer_escort",
+                "start_date": "1942",
+                "tourism": "attraction",
+                "wikidata": "Q7874393",
+                "wikipedia": "en:USS Stewart (DE-238)"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/USS_Stewart_%28DE-238%29_underway_at_sea_on_21_November_1943_%2880-G-200282%29.jpg/1280px-USS_Stewart_%28DE-238%29_underway_at_sea_on_21_November_1943_%2880-G-200282%29.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 287982534,
+            "lat": 29.3114135,
+            "lon": -94.7906422,
+            "tags": {
+                "building": "yes",
+                "layer": "1",
+                "man_made": "offshore_platform",
+                "museum": "technology",
+                "name": "Ocean Star Offshore Drilling Rig Museum",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Elissa-ship.jpg/1280px-Elissa-ship.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 417744690,
+            "lat": 29.2706098,
+            "lon": -94.8514659,
+            "tags": {
+                "addr:city": "Galveston",
+                "addr:housenumber": "2026",
+                "addr:postcode": "77554",
+                "addr:state": "TX",
+                "addr:street": "Lockheed Road",
+                "ele": "2",
+                "gnis:feature_id": "2498258",
+                "leisure": "water_park",
+                "name": "Schlitterbahn Waterpark Galveston",
+                "operator": "Enchanted Parks",
+                "operator:wikidata": "Q138698068",
+                "owner": "EPR Properties",
+                "owner:wikidata": "Q48977470",
+                "phone": "+1 409 770 9283",
+                "tourism": "theme_park",
+                "website": "https://galvestonislandwaterpark.enchantedparks.com",
+                "wikidata": "Q137970688"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Moody_Gardens_Corpse_Flower.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 436777878,
+            "lat": 29.3094012,
+            "lon": -94.7932613,
+            "tags": {
+                "building": "yes",
+                "check_date:opening_hours": "2023-03-27",
+                "fee": "yes",
+                "fee:conditional": "no @ (age < 6)",
+                "name": "Texas Seaport Museum",
+                "opening_hours": "Tu-Su 10:00-17:00; Mo off; Nov 24 off; Dec 23-25 off; Jan 01 off",
+                "tourism": "museum",
+                "website": "https://www.galvestonhistory.org/sites/1877-tall-ship-elissa-at-the-galveston-historic-seaport"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Elissa-ship.jpg/1280px-Elissa-ship.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 472161969,
+            "lat": 29.2872056,
+            "lon": -94.7903029,
+            "tags": {
+                "attraction": "amusement_ride",
+                "name": "Frog Hopper",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Pleasure_Pier_in_Galveston%2C_Texas_%28cropped%29.jpg/1280px-Pleasure_Pier_in_Galveston%2C_Texas_%28cropped%29.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 472161970,
+            "lat": 29.2871647,
+            "lon": -94.7901916,
+            "tags": {
+                "attraction": "amusement_ride",
+                "name": "Big Wheelin'",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Pleasure_Pier_in_Galveston%2C_Texas_%28cropped%29.jpg/1280px-Pleasure_Pier_in_Galveston%2C_Texas_%28cropped%29.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 472161971,
+            "lat": 29.2868398,
+            "lon": -94.7901165,
+            "tags": {
+                "attraction": "amusement_ride",
+                "name": "Rock n' Roll",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Pleasure_Pier_in_Galveston%2C_Texas_%28cropped%29.jpg/1280px-Pleasure_Pier_in_Galveston%2C_Texas_%28cropped%29.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 472161972,
+            "lat": 29.286653,
+            "lon": -94.7900669,
+            "tags": {
+                "attraction": "amusement_ride",
+                "name": "Cyclone",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Pleasure_Pier_in_Galveston%2C_Texas_%28cropped%29.jpg/1280px-Pleasure_Pier_in_Galveston%2C_Texas_%28cropped%29.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 472161973,
+            "lat": 29.2870542,
+            "lon": -94.7902049,
+            "tags": {
+                "attraction": "amusement_ride",
+                "name": "Texas Tea Cups",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Pleasure_Pier_in_Galveston%2C_Texas_%28cropped%29.jpg/1280px-Pleasure_Pier_in_Galveston%2C_Texas_%28cropped%29.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 472161977,
+            "lat": 29.2873344,
+            "lon": -94.7901794,
+            "tags": {
+                "attraction": "carousel",
+                "name": "Double Decker Carousel",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Pleasure_Pier_in_Galveston%2C_Texas_%28cropped%29.jpg/1280px-Pleasure_Pier_in_Galveston%2C_Texas_%28cropped%29.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 472161980,
+            "lat": 29.2877695,
+            "lon": -94.7904784,
+            "tags": {
+                "attraction": "swing_carousel",
+                "name": "Gulf Glider",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Pleasure_Pier_in_Galveston%2C_Texas_%28cropped%29.jpg/1280px-Pleasure_Pier_in_Galveston%2C_Texas_%28cropped%29.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 472161983,
+            "lat": 29.2865092,
+            "lon": -94.7900187,
+            "tags": {
+                "attraction": "amusement_ride",
+                "name": "Revolution",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Pleasure_Pier_in_Galveston%2C_Texas_%28cropped%29.jpg/1280px-Pleasure_Pier_in_Galveston%2C_Texas_%28cropped%29.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 472161984,
+            "lat": 29.2864069,
+            "lon": -94.7899745,
+            "tags": {
+                "attraction": "pirate_ship",
+                "name": "Sea Dragon",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Pleasure_Pier_in_Galveston%2C_Texas_%28cropped%29.jpg/1280px-Pleasure_Pier_in_Galveston%2C_Texas_%28cropped%29.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 472161985,
+            "lat": 29.2862779,
+            "lon": -94.7899323,
+            "tags": {
+                "attraction": "swing_carousel",
+                "name": "Sky Shooter",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Pleasure_Pier_in_Galveston%2C_Texas_%28cropped%29.jpg/1280px-Pleasure_Pier_in_Galveston%2C_Texas_%28cropped%29.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 472161986,
+            "lat": 29.2865521,
+            "lon": -94.7897926,
+            "tags": {
+                "attraction": "log_flume",
+                "name": "Pirate's Plunge",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Pleasure_Pier_in_Galveston%2C_Texas_%28cropped%29.jpg/1280px-Pleasure_Pier_in_Galveston%2C_Texas_%28cropped%29.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 472161987,
+            "lat": 29.2859329,
+            "lon": -94.7895897,
+            "tags": {
+                "attraction": "roller_coaster",
+                "name": "Iron Shark",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/The_Iron_Shark_Euro-Fighter.JPG/1280px-The_Iron_Shark_Euro-Fighter.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 472161990,
+            "lat": 29.2852492,
+            "lon": -94.7893743,
+            "tags": {
+                "attraction": "big_wheel",
+                "name": "Galaxy Wheel",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "way",
+            "id": 472161991,
+            "lat": 29.2855006,
+            "lon": -94.78953,
+            "tags": {
+                "attraction": "amusement_ride",
+                "name": "Texas Star Flyer",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "way",
+            "id": 520810917,
+            "lat": 29.3059915,
+            "lon": -94.7980604,
+            "tags": {
+                "addr:city": "Galveston",
+                "addr:housenumber": "2602",
+                "addr:postcode": "77550",
+                "addr:state": "TX",
+                "addr:street": "Santa Fe Place",
+                "building": "yes",
+                "name": "Galveston Railroad Museum",
+                "opening_hours": "Mo-Su 10:00-17:00",
+                "phone": "+1 409 765 5700",
+                "source": "Bing",
+                "tourism": "museum",
+                "website": "https://www.galvestonrrmuseum.org"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Old_Santa_Fe_Union_Station.jpg/1280px-Old_Santa_Fe_Union_Station.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 817699177,
+            "lat": 29.2994015,
+            "lon": -94.7962589,
+            "tags": {
+                "addr:city": "Galveston",
+                "addr:housenumber": "2618",
+                "addr:postcode": "77550",
+                "addr:state": "TX",
+                "addr:street": "Broadway - Avenue J",
+                "building": "yes",
+                "name": "Moody Mansion",
+                "source": "microsoft/BuildingFootprints",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/The_William_Lewis_Moody_Home.jpg/1280px-The_William_Lewis_Moody_Home.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 1086209506,
+            "lat": 29.2996125,
+            "lon": -94.7908675,
+            "tags": {
+                "addr:state": "TX",
+                "building": "yes",
+                "ele": "2",
+                "gnis:feature_id": "2014164",
+                "museum": "history",
+                "name": "1859 Saint Josephs Church Museum",
+                "operator": "Galveston Historical Foundation",
+                "operator:type": "private",
+                "source": "USGS Geonames;microsoft/BuildingFootprints",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/9b/St._Joseph_German_Catholic_Church_Galveston.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 1196378001,
+            "lat": 29.296024,
+            "lon": -94.7952049,
+            "tags": {
+                "addr:city": "Galveston",
+                "addr:housenumber": "2627",
+                "addr:postcode": "77550",
+                "addr:state": "TX",
+                "addr:street": "Avenue M",
+                "building": "yes",
+                "name": "Central Cultural Center",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/The_William_Lewis_Moody_Home.jpg/1280px-The_William_Lewis_Moody_Home.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 1286096379,
+            "lat": 29.3341269,
+            "lon": -94.778286,
+            "tags": {
+                "area": "yes",
+                "name": "Conning Tower of USS Carp",
+                "operator": "seawolf park",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/USS_Cavalla%3B0824408.jpg/1280px-USS_Cavalla%3B0824408.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 1286096380,
+            "lat": 29.334201,
+            "lon": -94.7782395,
+            "tags": {
+                "area": "yes",
+                "name": "Sail of USS Tautog",
+                "operator": "Seawolf Park",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/USS_Cavalla%3B0824408.jpg/1280px-USS_Cavalla%3B0824408.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 1486777960,
+            "lat": 29.3094913,
+            "lon": -94.7935959,
+            "tags": {
+                "area": "yes",
+                "name": "Elissa",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Elissa-ship.jpg/1280px-Elissa-ship.jpg",
+            "image_source": "wikipedia_verified"
+        }
+    ]
+}

@@ -1,0 +1,471 @@
+{
+    "city_metadata": {
+        "city_name": "Lawrence",
+        "state_code": "KS",
+        "state_full": "Kansas",
+        "city_summary": "Lawrence is a city in and the county seat of Douglas County, Kansas, United States, It is in the northeastern sector of the state, astride Interstate 70, between the Kansas and Wakarusa rivers. As of the 2020 census, the population of the city was 94,934, making it the sixth-largest city in the state. The city is a college town with a significant student population, because it is home to both the University of Kansas (KU) and Haskell Indian Nations University (HINU).",
+        "city_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Lawrence%2C_KS_August_2025.jpg/1280px-Lawrence%2C_KS_August_2025.jpg",
+        "city_lat": 38.95972222,
+        "city_lon": -95.26416667,
+        "source": "wikipedia_verified_engine"
+    },
+    "attractions": [
+        {
+            "type": "node",
+            "id": 4356677686,
+            "lat": -29.4916217,
+            "lon": 153.1134962,
+            "tags": {
+                "fee": "no",
+                "name": "Lawrence Museum",
+                "opening_hours": "Tu 09:00-13:00; Sa,Su 13:00-16:00; Mo,We-Fr off",
+                "source": "NSW LPI Base Map",
+                "source:date": "2016-08",
+                "tourism": "museum"
+            }
+        },
+        {
+            "type": "node",
+            "id": 4856420650,
+            "lat": 42.7066408,
+            "lon": -71.1575474,
+            "tags": {
+                "addr:city": "Lawrence",
+                "addr:housenumber": "1",
+                "addr:postcode": "01840",
+                "addr:state": "MA",
+                "addr:street": "Jackson Street",
+                "name": "Lawrence Heritage State Park - Visitors Center",
+                "tourism": "museum",
+                "website": "https://www.mass.gov/locations/lawrence-heritage-state-park"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Visitor_Center%2C_Lawrence_Heritage_State_Park%2C_Lawrence_MA.jpg/1280px-Visitor_Center%2C_Lawrence_Heritage_State_Park%2C_Lawrence_MA.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 5648566009,
+            "lat": -45.9129992,
+            "lon": 169.6869147,
+            "tags": {
+                "addr:city": "Lawrence",
+                "addr:housenumber": "17",
+                "addr:postcode": "9532",
+                "addr:street": "Ross Place",
+                "addr:suburb": "Lawrence",
+                "description": "Local, community-maintained museum with artefacts from the Otago gold rush, turn of the century rural life, and the historical Chinese settlement.",
+                "museum": "local",
+                "name": "Tuapeka Goldfields Museum",
+                "opening_hours": "Mo-Su 09:30-15:30",
+                "operator": "Tuapeka Goldfields Museum Society Inc.",
+                "operator:type": "ngo",
+                "ref:linz:address_id": "907858",
+                "tourism": "museum",
+                "website": "https://www.facebook.com/Tuapeka-Goldfields-Museum-521323161327628/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Lawrence_Ross_Place_005.JPG/1280px-Lawrence_Ross_Place_005.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 9701849245,
+            "lat": 38.9723457,
+            "lon": -95.238656,
+            "tags": {
+                "name": "Locomotive #1073",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "way",
+            "id": 44931605,
+            "lat": 38.9664516,
+            "lon": -95.2343718,
+            "tags": {
+                "access": "yes",
+                "addr:city": "Lawrence",
+                "addr:housenumber": "940",
+                "addr:postcode": "66044",
+                "addr:state": "KS",
+                "addr:street": "New Hampshire Street",
+                "amenity": "arts_centre",
+                "building": "yes",
+                "contact:facebook": "https://www.facebook.com/pages/Lawrence-Arts-Center/113150182037379",
+                "contact:instagram": "instagram.com/lawrenceartscenter",
+                "contact:phone": "+1-785-843-2787",
+                "contact:pinterest": "http://www.pinterest.com/lawrenceartsctr/",
+                "contact:twitter": "https://twitter.com/LawrenceArtsCtr",
+                "contact:website": "https://lawrenceartscenter.org",
+                "landuse": "retail",
+                "name": "Lawrence Arts Center",
+                "opening_hours": "Mo-Sa 09:00-21:00; Su 09:00-17:00",
+                "tourism": "attraction",
+                "wikidata": "Q6503816"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/2c/The_Lawrence_Arts_Center.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 134806460,
+            "lat": 38.9585709,
+            "lon": -95.2437773,
+            "tags": {
+                "addr:city": "Lawrence",
+                "addr:housename": "Dyche Hall",
+                "addr:housenumber": "1345",
+                "addr:postcode": "66045",
+                "addr:state": "KS",
+                "addr:street": "Jayhawk Boulevard",
+                "alt_name": "Dyche Hall",
+                "building": "university",
+                "check_date:opening_hours": "2023-06-11",
+                "ele": "308",
+                "fee": "yes",
+                "fee:conditional": "no @ (KU Students)",
+                "gnis:feature_id": "2510536",
+                "museum": "nature",
+                "name": "Natural History Museum",
+                "official_name": "KU Biodiversity Institute and Natural History Museum",
+                "opening_hours": "Tu-Sa 09:00-17:00; Su 12:00-16:00; Jun-Jul Tu-Su 09:00-17:00",
+                "operator": "University of Kansas",
+                "operator:type": "university",
+                "source": "USGS Geonames",
+                "tourism": "museum",
+                "website": "https://biodiversity.ku.edu/",
+                "wheelchair": "yes",
+                "wikidata": "Q1111807",
+                "wikipedia": "en:University of Kansas Natural History Museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/0b/KUNaturalHistoryMusMar06.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 134806461,
+            "lat": 38.9596515,
+            "lon": -95.2445943,
+            "tags": {
+                "addr:city": "Lawrence",
+                "addr:housenumber": "1301",
+                "addr:postcode": "66045",
+                "addr:state": "KS",
+                "addr:street": "Mississippi Street",
+                "building": "yes",
+                "ele": "289",
+                "email": "spencerart@ku.edu",
+                "fee": "no",
+                "gnis:feature_id": "2510600",
+                "museum": "art",
+                "name": "Spencer Museum of Art",
+                "opening_hours": "Tu-Fr 10:00-17:00; Th 10:00-20:00; Sa,Su 12:00-17:00",
+                "operator": "University of Kansas",
+                "phone": "+1 785 864 4710",
+                "source": "USGS Geonames",
+                "tourism": "museum",
+                "website": "https://www.spencerart.ku.edu/",
+                "wheelchair": "yes",
+                "wikidata": "Q1601838",
+                "wikipedia": "en:Spencer Museum of Art"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/SpencerMuseumofArt_Entrance_2016.jpg/1280px-SpencerMuseumofArt_Entrance_2016.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 171147512,
+            "lat": 38.9543125,
+            "lon": -95.2522645,
+            "tags": {
+                "addr:city": "Lawrence",
+                "addr:housenumber": "1651",
+                "addr:postcode": "66045",
+                "addr:state": "KS",
+                "addr:street": "Naismith Drive",
+                "building": "university",
+                "ele": "277",
+                "fee": "no",
+                "gnis:feature_id": "2510519",
+                "museum": "sports",
+                "name": "Booth Family Hall of Athletics",
+                "opening_hours": "Mo-Sa 10:00-17:00",
+                "operator": "University of Kansas",
+                "operator:type": "school",
+                "phone": "+1-785-864-7050",
+                "start_date": "2006-01",
+                "tourism": "museum",
+                "website": "https://kuathletics.com/facilities/the-booth-family-hall-of-athletics/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Ian_Balinger_Kansas_Jayhawks_Allen_Fieldhouse_March_2026.jpg/1280px-Ian_Balinger_Kansas_Jayhawks_Allen_Fieldhouse_March_2026.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 172577364,
+            "lat": 38.9405438,
+            "lon": -95.2331509,
+            "tags": {
+                "addr:state": "KS",
+                "building": "civic",
+                "ele": "267",
+                "gnis:feature_id": "2510655",
+                "name": "Haskell Cultural Center and Museum",
+                "operator": "Haskell Indian Nations University",
+                "source": "USGS Geonames",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/68/Haskell_Indian_Nations_Uni_Logo.png",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 173108121,
+            "lat": 38.9330483,
+            "lon": -95.2155034,
+            "tags": {
+                "addr:city": "Lawrence",
+                "addr:housenumber": "2730",
+                "addr:postcode": "66046",
+                "addr:state": "KS",
+                "addr:street": "Harper Street",
+                "building": "yes",
+                "fee": "no",
+                "museum": "nature",
+                "name": "Prairie Park Nature Center",
+                "opening_hours": "Tu-Sa 09:00-17:00; Su 13:00-16:00",
+                "operator": "City of Lawrence",
+                "operator:type": "public",
+                "phone": "+1-785-832-7980",
+                "tourism": "museum",
+                "website": "http://www.lawrenceks.org/lprd/ppnc"
+            }
+        },
+        {
+            "type": "way",
+            "id": 217605648,
+            "lat": 38.9639836,
+            "lon": -95.236294,
+            "tags": {
+                "addr:city": "Lawrence",
+                "addr:housenumber": "1047",
+                "addr:postcode": "66044",
+                "addr:state": "KS",
+                "addr:street": "Massachusetts Street",
+                "building": "yes",
+                "ele": "263",
+                "email": "info@watkinsmuseum.org",
+                "fee": "no",
+                "full_name": "Elizabeth M. Watkins Museum of History",
+                "gnis:feature_id": "2510312",
+                "museum": "history",
+                "name": "Watkins Museum of History",
+                "opening_hours": "Tu-Sa 10:00-16:00",
+                "operator": "Douglas County Historical Society",
+                "operator:type": "community",
+                "phone": "+1 785-841-4109",
+                "source": "USGS Geonames",
+                "start_date": "1975",
+                "tourism": "museum",
+                "website": "https://www.watkinsmuseum.org",
+                "wikidata": "Q66812973",
+                "wikipedia": "en:Elizabeth M. Watkins Community Museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Watkins_Museum.JPG/1280px-Watkins_Museum.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 1411442403,
+            "lat": 39.8511745,
+            "lon": -86.0181926,
+            "tags": {
+                "addr:housenumber": "5360",
+                "building": "yes",
+                "name": "Indiana Military Veterans Hall of Fame",
+                "tourism": "museum"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 10895468,
+            "lat": 38.96638889,
+            "lon": -95.23611111,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Massachusetts_Street_in_downtown_Lawrence%2C_Kansas.jpg/1280px-Massachusetts_Street_in_downtown_Lawrence%2C_Kansas.jpg",
+            "description": "Massachusetts Street (often referred to colloquially as either Mass Street or Mass) is the main street that runs through the central business district of downtown Lawrence, Kansas.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Massachusetts Street",
+                "wikipedia": "en:Massachusetts Street",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 114560,
+            "lat": 37.76111111,
+            "lon": -100.01833333,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Dodge_City_Longhorn.jpg/1280px-Dodge_City_Longhorn.jpg",
+            "description": "Dodge City is a city in and the county seat of Ford County, Kansas, United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Dodge City, Kansas",
+                "wikipedia": "en:Dodge City, Kansas",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 114910,
+            "lat": 38.84027778,
+            "lon": -97.61138889,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Salina_water_tower.jpg/1280px-Salina_water_tower.jpg",
+            "description": "Salina  is a city in and the county seat of Saline County, Kansas, United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Salina, Kansas",
+                "wikipedia": "en:Salina, Kansas",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 114932,
+            "lat": 37.68888889,
+            "lon": -97.33611111,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Wichita%2C_Kansas_skyline.jpg/1280px-Wichita%2C_Kansas_skyline.jpg",
+            "description": "Wichita ( , WITCH-ih-taw) is the most populous city in the U.S. state of Kansas and the county seat of Sedgwick County.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Wichita, Kansas",
+                "wikipedia": "en:Wichita, Kansas",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 114780,
+            "lat": 37.66944444,
+            "lon": -95.46194444,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Aerial_photo_of_Chanute%2C_Kansas_09-04-2013.JPG/1280px-Aerial_photo_of_Chanute%2C_Kansas_09-04-2013.JPG",
+            "description": "Chanute () is a city in Neosho County, Kansas, United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Chanute, Kansas",
+                "wikipedia": "en:Chanute, Kansas",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 658978,
+            "lat": 50.4682,
+            "lon": -3.503,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Kents_Cavern_%287036%29.jpg/1280px-Kents_Cavern_%287036%29.jpg",
+            "description": "Kents Cavern (also spelled Kent's Cavern) is a cave system in Torquay, Devon, England.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Kents Cavern",
+                "wikipedia": "en:Kents Cavern",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 132982,
+            "lat": 40.60166667,
+            "lon": -75.47722222,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/2018_-_Center_Square_-_Looking_Northeast_-_12_Oct_-_Allentown_PA.jpg/1280px-2018_-_Center_Square_-_Looking_Northeast_-_12_Oct_-_Allentown_PA.jpg",
+            "description": "Allentown is a city in eastern Pennsylvania, United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Allentown, Pennsylvania",
+                "wikipedia": "en:Allentown, Pennsylvania",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 2392969,
+            "lat": 39.39444444,
+            "lon": -99.61694444,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Nicodemus.JPG/1280px-Nicodemus.JPG",
+            "description": "Nicodemus is an unincorporated community and census-designated place (CDP) in Graham County, Kansas, United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Nicodemus, Kansas",
+                "wikipedia": "en:Nicodemus, Kansas",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 17833508,
+            "lat": 39.112352,
+            "lon": -94.62761,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Soldiers_and_Sailors_Memorial_Building_%28front%29.JPG/1280px-Soldiers_and_Sailors_Memorial_Building_%28front%29.JPG",
+            "description": "Memorial Hall, or Soldiers and Sailors Memorial Building, is a multi-purpose auditorium located in Kansas City, Kansas.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Memorial Hall (Kansas City, Kansas)",
+                "wikipedia": "en:Memorial Hall (Kansas City, Kansas)",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 31308360,
+            "lat": 19.15277778,
+            "lon": 77.31861111,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Takht_Sri_Hazur_Sahib.jpg",
+            "description": "Hazur Sahib (Hazūrī Sāhib; lit. 'presence of the sahib/master'), officially Takht Sachkhand Sri Hazur Abchalnagar Sahib, is one of the five takhts (religious centres) in Sikhism.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Hazur Sahib",
+                "wikipedia": "en:Hazur Sahib",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 2808833,
+            "lat": 39.034136,
+            "lon": -95.685854,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Landon_Arena.jpg",
+            "description": "The Stormont Vail Events Center, formerly known as Kansas Expocentre, is a 10,000-seat multi-purpose arena built in 1987 in Topeka, Kansas.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Stormont Vail Events Center",
+                "wikipedia": "en:Stormont Vail Events Center",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 2028233,
+            "lat": 38.9972,
+            "lon": -105.5478,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Seal_of_the_Executive_Office_of_Colorado.svg/1280px-Seal_of_the_Executive_Office_of_Colorado.svg.png",
+            "description": "The lieutenant governor of Colorado is the second-highest-ranking member of the executive department of the Government of Colorado, United States, below the governor of Colorado.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "List of lieutenant governors of Colorado",
+                "wikipedia": "en:List of lieutenant governors of Colorado",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 43608017,
+            "lat": 30.32555556,
+            "lon": 77.3175,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Kapal_Mochan_Sarovar.jpg/1280px-Kapal_Mochan_Sarovar.jpg",
+            "description": "Gopal Mochan is an ancient place of pilgrimage for both Hindus and Sikhs, 17 km north-east of Yamunanagar city-Jagadhari town, on the Bilaspur road in Yamunanagar district, Haryana, India.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Kapal Mochan",
+                "wikipedia": "en:Kapal Mochan",
+                "tourism": "attraction"
+            }
+        }
+    ]
+}

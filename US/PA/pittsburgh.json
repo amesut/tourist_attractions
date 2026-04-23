@@ -1,0 +1,823 @@
+{
+    "city_metadata": {
+        "city_name": "Pittsburgh",
+        "state_code": "PA",
+        "state_full": "Pennsylvania",
+        "city_summary": "Pittsburgh ( PITS-burg) is a city in Allegheny County, Pennsylvania, United States, and its county seat. Located in southwestern Pennsylvania where the Allegheny and Monongahela Rivers meet to form the Ohio River, it had a population of 302,971 at the 2020 census, making it the second-most populous city in Pennsylvania (after Philadelphia). The Pittsburgh metropolitan area has over 2.43 million people, making it the largest in the Ohio Valley and Appalachia, the second-largest in Pennsylvania, and the 28th-largest in the U.S. The greater Pittsburgh–Weirton–Steubenville combined statistical area includes parts of Ohio and West Virginia.",
+        "city_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Ascending_the_Duquesne_Incline.jpg/1280px-Ascending_the_Duquesne_Incline.jpg",
+        "city_lat": 40.43972222,
+        "city_lon": -79.97638889,
+        "source": "wikipedia_verified_engine"
+    },
+    "attractions": [
+        {
+            "type": "node",
+            "id": 1371543259,
+            "lat": 40.447112,
+            "lon": -79.9021099,
+            "tags": {
+                "access": "yes",
+                "fee": "no",
+                "museum": "car",
+                "name": "Car & Carraige Museum",
+                "operator": "The Frick",
+                "toilets:wheelchair": "yes",
+                "tourism": "museum",
+                "website": "https://www.thefrickpittsburgh.org/carandcarriagemuseum",
+                "wheelchair": "limited"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1666899036,
+            "lat": 40.4444396,
+            "lon": -79.9534184,
+            "tags": {
+                "fee": "yes",
+                "name": "Nationality Rooms",
+                "note": "One floor is open to the public, the other two are for a tour fee",
+                "operator": "University of Pittsburgh",
+                "source": "local knowledge",
+                "tourism": "museum",
+                "website": "https://www.nationalityrooms.pitt.edu/",
+                "wikidata": "Q6979818",
+                "wikipedia": "en:Nationality Rooms"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Cathedral_of_Learning_inside_left.jpg/1280px-Cathedral_of_Learning_inside_left.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 1666922240,
+            "lat": 40.4437547,
+            "lon": -79.9529557,
+            "tags": {
+                "name": "Stephen Foster Memorial Museum",
+                "operator": "University of Pittsburgh",
+                "source": "local knowledge",
+                "tourism": "museum",
+                "website": "https://www.pitt.edu/~amerimus/Museum.html",
+                "wikidata": "Q7609218"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/6c/StephenFosterMemorial.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 1671036228,
+            "lat": 40.4415567,
+            "lon": -79.9508834,
+            "tags": {
+                "fee": "no",
+                "name": "University Art Gallery",
+                "operator": "University of Pittsburgh",
+                "tourism": "museum",
+                "website": "https://www.haa.pitt.edu/collections/university-art-gallery"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1671036236,
+            "lat": 40.4436183,
+            "lon": -79.9548449,
+            "tags": {
+                "fee": "no",
+                "name": "International Academy of Jazz Hall of Fame",
+                "operator": "University of Pittsburgh",
+                "tourism": "museum",
+                "website": "https://www.pitt.edu/~pittjazz/academy.html"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/William_Pitt_Union_02p.jpg/1280px-William_Pitt_Union_02p.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 3681697953,
+            "lat": 40.4422748,
+            "lon": -79.9995486,
+            "tags": {
+                "addr:city": "Pittsburgh",
+                "addr:housenumber": "601",
+                "addr:postcode": "15222",
+                "addr:state": "PA",
+                "addr:street": "Wood Street",
+                "name": "Wood Street Galleries",
+                "opening_hours": "We,Th 11:00-18:00; Fr,Sa 11:00-20:00; Su 11:00-17:00",
+                "phone": "+14124715605",
+                "tourism": "museum",
+                "website": "https://trustarts.org/pct_home/visual-arts/galleries/wood-street",
+                "wheelchair": "limited",
+                "wikidata": "Q8032280",
+                "wikipedia": "en:Wood Street Galleries"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Wood_St_Galleries_south_sun_jeh.jpg/1280px-Wood_St_Galleries_south_sun_jeh.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 4515573590,
+            "lat": 40.4569286,
+            "lon": -80.0122738,
+            "tags": {
+                "addr:housenumber": "500",
+                "addr:street": "Sampsonia Street",
+                "name": "Mattress Factory",
+                "name:en": "Mattress Factory",
+                "opening_hours": "Tu-Sa 10:00-17:00; Su 13:00-17:00",
+                "tourism": "museum",
+                "website": "https://mattress.org/",
+                "wikidata": "Q6791877"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/10/Mexican_War_Streets_neighborhood_210038.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 6354957261,
+            "lat": 40.4641218,
+            "lon": -79.9328361,
+            "tags": {
+                "addr:housenumber": "5472",
+                "addr:street": "Penn Avenue",
+                "name": "Pittsburgh Glass Center",
+                "shop": "art",
+                "tourism": "museum",
+                "website": "https://www.pittsburghglasscenter.org/",
+                "wikidata": "Q7199292"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Friendship_Elementary_School.jpg/1280px-Friendship_Elementary_School.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 9453097195,
+            "lat": 40.4624602,
+            "lon": -79.9677114,
+            "tags": {
+                "name": "The Clemente Museum",
+                "tourism": "museum",
+                "website": "https://clementemuseum.com/",
+                "wikidata": "Q7723358",
+                "wikipedia": "en:The Clemente Museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Doughboy_Lawrenceville_Pittsburgh_2019.jpg/1280px-Doughboy_Lawrenceville_Pittsburgh_2019.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 10270169543,
+            "lat": 40.4502572,
+            "lon": -80.020206,
+            "tags": {
+                "addr:city": "Pittsburgh",
+                "addr:housenumber": "1016",
+                "addr:postcode": "15233",
+                "addr:state": "PA",
+                "addr:street": "North Lincoln Avenue",
+                "charge": "10.00 USD",
+                "charge:conditional": "5.00 USD @ (age < 18)",
+                "contact:facebook": "MoonshotMuseum",
+                "contact:instagram": "moonshotmuseum",
+                "contact:twitter": "moonshotmuseum",
+                "contact:youtube": "UCXPWdqB76_MTkiXiXmmZ17A",
+                "fee": "yes",
+                "fee:conditional": "no @ (age <= 2)",
+                "museum": "technology",
+                "name": "Moonshot Museum",
+                "opening_hours": "We-Su 10:00-16:00",
+                "phone": "+1-412-314-4111",
+                "source": "https://moonshotmuseum.org/",
+                "source:start_date": "https://moonshotmuseum.org/2022/08/22/moonshot-museum-announces-october-grand-opening/",
+                "start_date": "2022-10-15",
+                "tourism": "museum",
+                "website": "https://moonshotmuseum.org/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/33/CalvaryUnitedMethodistChurch.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 12128475537,
+            "lat": 40.4461041,
+            "lon": -80.0091921,
+            "tags": {
+                "name": "Museum of Illusions Pittsburgh",
+                "tourism": "museum",
+                "website": "https://moipittsburgh.com/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Exposition_Park_Pittsburgh_1903.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 12621445906,
+            "lat": 40.4649426,
+            "lon": -79.9413779,
+            "tags": {
+                "addr:city": "Pittsburgh",
+                "addr:housenumber": "5139",
+                "addr:postcode": "15224",
+                "addr:state": "PA",
+                "addr:street": "Penn Avenue",
+                "name": "Boom Concepts",
+                "tourism": "museum",
+                "website": "https://www.boomuniverse.co/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d8/VictoriaHallUrsulineAcademyLynchHouse.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 30678664,
+            "lat": 40.4443343,
+            "lon": -79.9531617,
+            "tags": {
+                "addr:housenumber": "4200",
+                "addr:postcode": "15260",
+                "addr:street": "Fifth Avenue",
+                "architect": "Charles Zeller Klauder",
+                "building": "university",
+                "building:colour": "#c0b29c",
+                "building:levels": "42",
+                "building:material": "concrete",
+                "historic": "building",
+                "loc_name": "Cathy",
+                "name": "Cathedral of Learning",
+                "operator": "University of Pittsburgh",
+                "roof:shape": "flat",
+                "tourism": "attraction",
+                "wheelchair": "yes",
+                "wikidata": "Q797017",
+                "wikipedia": "en:Cathedral of Learning"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Cathedral_of_Learning_stitch_1.jpg/1280px-Cathedral_of_Learning_stitch_1.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 30678681,
+            "lat": 40.4452541,
+            "lon": -79.95187,
+            "tags": {
+                "amenity": "place_of_worship",
+                "building": "university",
+                "denomination": "nondenominational",
+                "name": "Heinz Memorial Chapel",
+                "name:he": "קפלת הזיכרון של היינץ",
+                "operator": "University of Pittsburgh",
+                "religion": "multifaith",
+                "source": "local knowledge",
+                "tourism": "attraction",
+                "website": "https://www.heinzchapel.pitt.edu/",
+                "wheelchair": "yes",
+                "wikidata": "Q5700795",
+                "wikipedia": "en:Heinz Memorial Chapel"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/9f/HeinzChapelPittsummer.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 35324264,
+            "lat": 40.409526,
+            "lon": -80.0300727,
+            "tags": {
+                "hgv": "no",
+                "highway": "residential",
+                "incline": "34%",
+                "maxspeed": "25 mph",
+                "name": "Canton Avenue",
+                "note": "Steepest road in the US",
+                "oneway": "yes",
+                "postal_code": "15216",
+                "smoothness": "bad",
+                "surface": "paving_stones",
+                "tourism": "attraction",
+                "wikidata": "Q2936640",
+                "wikipedia": "en:Canton Avenue"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/54/CantonAve_Bottom.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 109499955,
+            "lat": 40.4407006,
+            "lon": -80.0096936,
+            "tags": {
+                "addr:state": "PA",
+                "building": "yes",
+                "ele": "222",
+                "gnis:feature_id": "1211280",
+                "name": "Fort Pitt Museum",
+                "opening_hours": "Mo-Su 10:00-17:00",
+                "phone": "+1 412-281-9284",
+                "source": "USGS Geonames",
+                "tourism": "museum",
+                "wikidata": "Q5471847",
+                "wikipedia": "en:Fort Pitt Museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Fort_Pitt_Museum_%28front_view%29.jpg/1280px-Fort_Pitt_Museum_%28front_view%29.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 121051329,
+            "lat": 40.4438251,
+            "lon": -79.952779,
+            "tags": {
+                "architect": "Charles Zeller Klauder",
+                "building": "university",
+                "building:levels": "4",
+                "name": "Stephen Foster Memorial",
+                "nohousenumber": "yes",
+                "operator": "University of Pittsburgh",
+                "roof:levels": "0",
+                "roof:shape": "flat",
+                "source": "Bing",
+                "tourism": "attraction",
+                "website": "https://www.pitt.edu/~amerimus/Museum.html",
+                "wikipedia": "en:Stephen Foster Memorial"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/6c/StephenFosterMemorial.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 154245869,
+            "lat": 40.4433838,
+            "lon": -79.9548353,
+            "tags": {
+                "addr:city": "Pittsburgh",
+                "addr:housenumber": "3959",
+                "addr:postcode": "15260",
+                "addr:state": "PA",
+                "addr:street": "Fifth Avenue",
+                "architect": "Rutan & Russell",
+                "building": "university",
+                "building:architecture": "beaux_arts",
+                "building:levels": "2",
+                "building:material": "brick",
+                "layer": "1",
+                "name": "William Pitt Union",
+                "old_name:1898-1956": "Hotel Schenley",
+                "opening_hours": "Mo-Th, Su 08:00-23:00; Fr, Sa 08:00-00:00",
+                "operator": "University of Pittsburgh",
+                "phone": "+1-412-648-7815",
+                "roof:shape": "flat",
+                "start_date": "1898",
+                "toilets": "yes",
+                "tourism": "attraction",
+                "website": "https://www.studentaffairs.pitt.edu/wpu",
+                "wikidata": "Q8016943",
+                "wikipedia": "en:William Pitt Union"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/William_Pitt_Union_02p.jpg/1280px-William_Pitt_Union_02p.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 154257481,
+            "lat": 40.4430662,
+            "lon": -79.9501488,
+            "tags": {
+                "addr:city": "Pittsburgh",
+                "addr:housenumber": "4400",
+                "addr:postcode": "15213",
+                "addr:state": "PA",
+                "addr:street": "Forbes Avenue",
+                "building": "yes",
+                "fee": "yes",
+                "name": "Carnegie Museum of Natural History",
+                "operator": "Carnegie Institute",
+                "tourism": "museum",
+                "website": "https://www.carnegiemnh.org/",
+                "wikidata": "Q1043983",
+                "wikipedia": "en:Carnegie Museum of Natural History"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Carnegie_Museum_of_Natural_History%2C_Pittsburgh_-_20191226.jpg/1280px-Carnegie_Museum_of_Natural_History%2C_Pittsburgh_-_20191226.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 168453724,
+            "lat": 40.3985272,
+            "lon": -79.9283643,
+            "tags": {
+                "name": "Sandcastle Water Park",
+                "tourism": "theme_park",
+                "wikidata": "Q3471816",
+                "wikipedia": "en:Sandcastle Waterpark"
+            }
+        },
+        {
+            "type": "way",
+            "id": 170669929,
+            "lat": 40.4451088,
+            "lon": -80.0185233,
+            "tags": {
+                "building": "yes",
+                "historic": "ship",
+                "name": "USS Requin",
+                "ref": "SS-481",
+                "ship:type": "submarine",
+                "start_date": "1945",
+                "tourism": "attraction",
+                "wikidata": "Q7873400",
+                "wikipedia": "en:USS Requin"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/USSRequin.jpg/1280px-USSRequin.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 181174109,
+            "lat": 40.4835426,
+            "lon": -79.9188801,
+            "tags": {
+                "addr:city": "Pittsburgh",
+                "addr:housenumber": "7370",
+                "addr:postcode": "15206",
+                "addr:state": "PA",
+                "addr:street": "Baker Street",
+                "fee": "yes",
+                "name": "Pittsburgh Zoo & Aquarium",
+                "opening_hours:url": "https://www.pittsburghzoo.org/plan-your-visit/#hours",
+                "source:addr": "http://www.pittsburghzoo.com/AboutUs/ContactUs",
+                "tourism": "zoo",
+                "website": "https://www.pittsburghzoo.org/",
+                "wikidata": "Q4363922",
+                "wikipedia": "en:Pittsburgh Zoo & Aquarium"
+            }
+        },
+        {
+            "type": "way",
+            "id": 222624191,
+            "lat": 40.4456384,
+            "lon": -80.0179287,
+            "tags": {
+                "addr:city": "Pittsburgh",
+                "addr:housenumber": "1",
+                "addr:postcode": "15212",
+                "addr:state": "PA",
+                "addr:street": "Allegheny Avenue",
+                "building": "yes",
+                "check_date": "2025-12-19",
+                "description": "Opened in October 1991, CSC replaced the Buhl Science Center. CSC includes the Miniature Railroad & Village, the WWII submarine USS Requin, the Buhl Planetarium, children's area, Works Theater, Rangos Giant Cinema, and other exhibits.",
+                "fee": "yes",
+                "name": "Kamin Science Center",
+                "operator": "Carnegie Mueums of Pittsburgh",
+                "tourism": "museum",
+                "type": "multipolygon",
+                "website": "https://carnegiesciencecenter.org/",
+                "wheelchair": "yes",
+                "wikidata": "Q2426244"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Carnegie_Science_Center%2C_2023-01-14%2C_02.jpg/1280px-Carnegie_Science_Center%2C_2023-01-14%2C_02.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 222624193,
+            "lat": 40.4462789,
+            "lon": -80.0186924,
+            "tags": {
+                "building": "yes",
+                "name": "Highmark SportsWorks",
+                "tourism": "museum",
+                "wikidata": "Q5759569",
+                "wikipedia": "en:Highmark SportsWorks"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/03/MRRV_corner_shot.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 226327660,
+            "lat": 40.4563101,
+            "lon": -80.032414,
+            "tags": {
+                "addr:city": "Pittsburgh",
+                "addr:housenumber": "1800",
+                "addr:postcode": "15233",
+                "addr:state": "PA",
+                "addr:street": "Preble Avenue",
+                "building": "yes",
+                "museum": "transport",
+                "name": "Bicycle Heaven",
+                "opening_hours": "Mo-Su 08:00-19:00",
+                "tourism": "museum",
+                "wikidata": "Q65082333",
+                "wikipedia": "en:Bicycle Heaven"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Pee-wee_Herman%27s_Bicycle.jpg/1280px-Pee-wee_Herman%27s_Bicycle.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 253994633,
+            "lat": 40.4527238,
+            "lon": -80.0066734,
+            "tags": {
+                "building": "yes",
+                "building:levels": "3",
+                "name": "Children's Museum of Pittsburgh",
+                "tourism": "museum",
+                "wikidata": "Q15209674"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Children%27s_Museum_of_Pittsburgh.jpg/1280px-Children%27s_Museum_of_Pittsburgh.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 257862194,
+            "lat": 40.45244,
+            "lon": -79.9201209,
+            "tags": {
+                "addr:city": "Pittsburgh",
+                "addr:housenumber": "6300",
+                "addr:postcode": "15232",
+                "addr:street": "Fifth Avenue",
+                "building": "yes",
+                "name": "Pittsburgh Center for the Arts",
+                "tourism": "museum",
+                "wikidata": "Q7199244"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Pittsburgh_Center_for_the_Arts_-_DSC04992-001.JPG/1280px-Pittsburgh_Center_for_the_Arts_-_DSC04992-001.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 282628116,
+            "lat": 40.4534038,
+            "lon": -80.0100797,
+            "tags": {
+                "addr:housenumber": "700",
+                "addr:postcode": "15212",
+                "addr:street": "Arch Street",
+                "ele": "234",
+                "gnis:feature_id": "1196458",
+                "name": "National Aviary",
+                "tourism": "zoo",
+                "website": "https://www.aviary.org/",
+                "wikidata": "Q6970845",
+                "wikipedia": "en:National Aviary",
+                "zoo": "aviary"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/National_Aviary.jpg/1280px-National_Aviary.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 329218882,
+            "lat": 40.4426395,
+            "lon": -79.9494159,
+            "tags": {
+                "building": "yes",
+                "name": "Alcohol House",
+                "operator": "Carnegie Museum of Natural History",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/BellefieldBoilerPlantCarnegie.jpg/1280px-BellefieldBoilerPlantCarnegie.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 363410316,
+            "lat": 40.4465766,
+            "lon": -79.9921947,
+            "tags": {
+                "building": "yes",
+                "building:levels": "7",
+                "fee": "yes",
+                "fee:conditional": "no @ age < 5",
+                "layer": "1",
+                "name": "Senator John Heinz History Center",
+                "opening_hours": "Mo-Su 10:00-17:00",
+                "tourism": "museum",
+                "website": "https://www.heinzhistorycenter.org/",
+                "wheelchair": "yes",
+                "wikidata": "Q5700701"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/HistoryCener_from_Strip_District.JPG/1280px-HistoryCener_from_Strip_District.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 533489817,
+            "lat": 40.4466591,
+            "lon": -79.9023744,
+            "tags": {
+                "addr:city": "Pittsburgh",
+                "addr:housenumber": "7227",
+                "addr:postcode": "15208",
+                "addr:state": "PA",
+                "addr:street": "Reynolds Street",
+                "building": "yes",
+                "ele": "299",
+                "fee": "no",
+                "gnis:feature_id": "2430035",
+                "museum": "art",
+                "name": "Frick Art and Historical Center",
+                "operator": "The Frick",
+                "source": "USGS Geonames",
+                "tourism": "museum",
+                "website": "https://www.thefrickpittsburgh.org/thefrickartmuseum"
+            }
+        },
+        {
+            "type": "way",
+            "id": 533490224,
+            "lat": 40.4485158,
+            "lon": -79.9013234,
+            "tags": {
+                "addr:housenumber": "7200",
+                "addr:street": "Penn Avenue",
+                "building": "residential",
+                "layer": "1",
+                "name": "Clayton Mansion",
+                "operator": "The Frick",
+                "tourism": "museum",
+                "website": "https://www.thefrickpittsburgh.org/Clayton"
+            }
+        },
+        {
+            "type": "way",
+            "id": 533502022,
+            "lat": 40.4579334,
+            "lon": -80.009745,
+            "tags": {
+                "addr:housenumber": "1501",
+                "addr:street": "Arch Street",
+                "building": "yes",
+                "name": "Randyland",
+                "name:en": "Randyland",
+                "opening_hours": "Mo-Su 13:00-17:30",
+                "tourism": "museum",
+                "website": "https://www.facebook.com/randylandpgh/",
+                "wikidata": "Q42417906"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Randyland.jpg/1280px-Randyland.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 547354659,
+            "lat": 40.4792799,
+            "lon": -79.9249655,
+            "tags": {
+                "addr:housenumber": "5501",
+                "addr:postcode": "15206",
+                "addr:state": "PA",
+                "addr:street": "Elgin Street",
+                "building": "yes",
+                "ele": "296",
+                "gnis:feature_id": "1178479",
+                "name": "King Museum",
+                "source": "USGS Geonames",
+                "tourism": "museum",
+                "wikidata": "Q6411545",
+                "wikipedia": "en:King Estate (Pittsburgh)"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Baywood%2C_2022-03-30%2C_01.jpg/1280px-Baywood%2C_2022-03-30%2C_01.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 585186281,
+            "lat": 40.465404,
+            "lon": -79.9446722,
+            "tags": {
+                "addr:city": "Pittsburgh",
+                "addr:housenumber": "4913",
+                "addr:postcode": "15224",
+                "addr:state": "PA",
+                "addr:street": "Penn Avenue",
+                "building": "yes",
+                "name": "Center for PostNatural History",
+                "tourism": "museum",
+                "website": "https://www.postnatural.org/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d8/VictoriaHallUrsulineAcademyLynchHouse.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 700780240,
+            "lat": 40.4475928,
+            "lon": -79.9013686,
+            "tags": {
+                "addr:housenumber": "7227",
+                "addr:postcode": "15208",
+                "addr:street": "Reynolds Street",
+                "bicycle": "no",
+                "fee": "no",
+                "heritage": "5",
+                "heritage:operator": "phlf",
+                "museum": "open_air",
+                "name": "The Frick Pittsburgh",
+                "old_name": "Frick Art & Historical Center",
+                "phone": "+1-412-371-0600",
+                "source": "mapbox",
+                "tourism": "museum",
+                "website": "https://www.thefrickpittsburgh.org/",
+                "wikidata": "Q3753155",
+                "wikipedia": "en:The Frick Pittsburgh"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5d/TheFrickArtMuseumatClayton.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 1286438003,
+            "lat": 40.4100746,
+            "lon": -80.0301017,
+            "tags": {
+                "hgv": "no",
+                "highway": "residential",
+                "incline": "34%",
+                "maxspeed": "25 mph",
+                "name": "Canton Avenue",
+                "note": "Steepest road in the US",
+                "oneway": "no",
+                "postal_code": "15216",
+                "smoothness": "bad",
+                "surface": "asphalt",
+                "tourism": "attraction",
+                "wikidata": "Q2936640",
+                "wikipedia": "en:Canton Avenue"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/54/CantonAve_Bottom.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 1286438004,
+            "lat": 40.4092344,
+            "lon": -80.0300459,
+            "tags": {
+                "hgv": "no",
+                "highway": "residential",
+                "incline": "34%",
+                "maxspeed": "25 mph",
+                "name": "Canton Avenue",
+                "note": "Steepest road in the US",
+                "oneway": "yes",
+                "postal_code": "15216",
+                "smoothness": "bad",
+                "surface": "concrete",
+                "tourism": "attraction",
+                "wikidata": "Q2936640",
+                "wikipedia": "en:Canton Avenue"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/54/CantonAve_Bottom.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 1286438005,
+            "lat": 40.4091313,
+            "lon": -80.0300209,
+            "tags": {
+                "hgv": "no",
+                "highway": "residential",
+                "incline": "34%",
+                "maxspeed": "25 mph",
+                "name": "Canton Avenue",
+                "note": "Steepest road in the US",
+                "oneway": "yes",
+                "postal_code": "15216",
+                "smoothness": "bad",
+                "surface": "asphalt",
+                "tourism": "attraction",
+                "wikidata": "Q2936640",
+                "wikipedia": "en:Canton Avenue"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/54/CantonAve_Bottom.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 1478475435,
+            "lat": 40.4483756,
+            "lon": -80.0025031,
+            "tags": {
+                "addr:city": "Pittsburgh",
+                "addr:housenumber": "117",
+                "addr:postcode": "15212",
+                "addr:state": "PA",
+                "addr:street": "Sandusky Street",
+                "building": "yes",
+                "fee": "yes",
+                "name": "The Andy Warhol Museum",
+                "tourism": "museum",
+                "website": "https://www.warhol.org/",
+                "wheelchair": "yes",
+                "wikidata": "Q751172",
+                "wikipedia": "en:The Andy Warhol Museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/The_Andy_Warhol_Museum.jpg/1280px-The_Andy_Warhol_Museum.jpg",
+            "image_source": "wikipedia_verified"
+        }
+    ]
+}

@@ -1,0 +1,3090 @@
+{
+    "city_metadata": {
+        "city_name": "Norfolk",
+        "state_code": "VA",
+        "state_full": "Virginia",
+        "city_summary": "Norfolk (locally   NOR-fək) is an independent city in the U.S. commonwealth of Virginia. It had a population of 238,005 at the 2020 census, making it the third-most populous city in Virginia and 100th-most populous city in the United States. The city holds a strategic position as the historical, urban, financial, and cultural center of the Hampton Roads metropolitan area (sometimes called \"Tidewater\"), which has more than 1.8 million inhabitants and is the 37th-largest metropolitan area in the U.S.\nNorfolk was established in 1682 as a colonial seaport.",
+        "city_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/The_Wisconsin_Battleship_in_Norfolk%2C_VA.jpg/1280px-The_Wisconsin_Battleship_in_Norfolk%2C_VA.jpg",
+        "city_lat": 36.84694444,
+        "city_lon": -76.28527778,
+        "source": "wikipedia_verified_engine"
+    },
+    "attractions": [
+        {
+            "type": "node",
+            "id": 248923456,
+            "lat": 52.8168884,
+            "lon": 1.3851095,
+            "tags": {
+                "addr:city": "North Walsham",
+                "addr:housenumber": "1-2",
+                "addr:postcode": "NR28 0DS",
+                "addr:street": "Norwich Road",
+                "museum": "history",
+                "name": "Norfolk Motorcycle Museum",
+                "note": "Closed Sundays: October - Easter",
+                "opening_hours": "Mo-Su 10:00-16:00",
+                "source": "survey",
+                "tourism": "museum",
+                "website": "https://norfolk-motorcycle-museum.business.site/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/North_Walsham_Railway_Station_12_Jan_2008_%281%29.JPG/1280px-North_Walsham_Railway_Station_12_Jan_2008_%281%29.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 262695754,
+            "lat": 52.9773885,
+            "lon": 0.7887908,
+            "tags": {
+                "name": "Holkham Naturist Beach",
+                "natural": "beach",
+                "nudism": "yes",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 283360904,
+            "lat": 52.767448,
+            "lon": 1.5164934,
+            "tags": {
+                "addr:city": "Stalham",
+                "addr:housename": "The Poors",
+                "addr:postcode": "NR12 9DA",
+                "addr:street": "Staithe Road",
+                "email": "info@museumofthebroads.org.uk",
+                "museum": "maritime",
+                "name": "Museum of the Broads",
+                "phone": "+44 16 9258 1681",
+                "toilets:wheelchair": "yes",
+                "tourism": "museum",
+                "website": "https://www.museumofthebroads.org.uk/",
+                "wheelchair": "yes",
+                "wikidata": "Q65091772"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Museum_of_the_Broads_-_racing_yacht_Maria_%28geograph_5901067%29.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 291954076,
+            "lat": 52.8951108,
+            "lon": 1.0940175,
+            "tags": {
+                "name": "Holt Country Park",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Holt_Lowes.jpg/1280px-Holt_Lowes.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 367998566,
+            "lat": 36.9505556,
+            "lon": -76.3127778,
+            "tags": {
+                "addr:state": "VA",
+                "ele": "3",
+                "gnis:feature_id": "2091785",
+                "name": "Hampton Roads Naval Museum",
+                "source": "USGS Geonames",
+                "tourism": "museum",
+                "website": "https://www.history.navy.mil/content/history/museums/hrnm.html"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/94/Jamestown_logo_1907.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 391989948,
+            "lat": 52.5844209,
+            "lon": 0.3439857,
+            "tags": {
+                "name": "Denver Sluice Complex",
+                "operator": "Environment Agency",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 392010987,
+            "lat": 52.5786462,
+            "lon": 0.4006538,
+            "tags": {
+                "name": "Kett's Oak",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 410833379,
+            "lat": 52.6057147,
+            "lon": 1.4625581,
+            "tags": {
+                "addr:city": "Norwich",
+                "addr:country": "GB",
+                "addr:housename": "Old Hall",
+                "addr:postcode": "NR13 4HR",
+                "addr:village": "Strumpshaw",
+                "charge": "£6 GBP",
+                "charge:conditional": "£2 GBP @ age < 16",
+                "check_date:opening_hours": "2023-08-30",
+                "dog": "leashed",
+                "email": "tomlaird13@gmail.com",
+                "fee": "yes",
+                "fee:conditional": "no @ age < 5",
+                "museum": "history",
+                "name": "Strumpshaw Steam Museum",
+                "opening_hours": "Mo-Sa closed; Su,PH 10:30-15:30",
+                "phone": "+44 1603 717936",
+                "start_date": "1964",
+                "tourism": "museum",
+                "website": "http://www.strumpshawsteammuseum.co.uk/",
+                "wikidata": "Q7625372",
+                "wikipedia": "en:Strumpshaw Hall Steam Museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Strumpshaw_Hall_Steam_Museum_-_geograph.org.uk_-_1066466.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 430705176,
+            "lat": 52.6221631,
+            "lon": 1.3245479,
+            "tags": {
+                "contact:phone": "+44 1603 632307",
+                "name": "Whitlingham Outdoor Education Centre",
+                "tourism": "attraction",
+                "website": "https://www.whitlinghamadventure.org.uk/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d8/The_Wensum_under_trees.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 442358848,
+            "lat": 52.7343126,
+            "lon": 1.4135776,
+            "tags": {
+                "addr:city": "Hoveton",
+                "addr:country": "GB",
+                "addr:postcode": "NR12 8QU",
+                "addr:street": "Tunstead Road",
+                "check_date:opening_hours": "2024-06-21",
+                "fee": "yes",
+                "name": "Wroxham Barns",
+                "opening_hours": "Mo-Su 10:00-17:00",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/31/Ashmanhaugh_St_Swithin%27s_Round_Tower_Church.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 573312234,
+            "lat": 52.8268541,
+            "lon": 1.0340372,
+            "tags": {
+                "name": "Hindolveston Disused Railway Station",
+                "tourism": "attraction",
+                "wikidata": "Q5766156",
+                "wikipedia": "en:Hindolvestone railway station"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/44/Hindolvestone_railway_station_-_geograph.org.uk_-_354371.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 573321411,
+            "lat": 52.822168,
+            "lon": 1.0213767,
+            "tags": {
+                "name": "Hindolveston Windmill (ruined)",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Hindolveston_village_sign_-_geograph.org.uk_-_6793728.jpg/1280px-Hindolveston_village_sign_-_geograph.org.uk_-_6793728.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 672977492,
+            "lat": 52.4129326,
+            "lon": 0.7505565,
+            "tags": {
+                "addr:city": "Thetford",
+                "addr:housename": "The Old Fire Station",
+                "addr:postcode": "IP24 2DS",
+                "addr:street": "Cage Lane",
+                "fhrs:id": "833006",
+                "name": "Dad's Army Museum",
+                "source:addr": "http://dadsarmythetford.org.uk/",
+                "tourism": "museum",
+                "website": "https://dadsarmythetford.org.uk/",
+                "wikidata": "Q20744023"
+            }
+        },
+        {
+            "type": "node",
+            "id": 746496816,
+            "lat": 52.590347,
+            "lon": 1.258407,
+            "tags": {
+                "name": "Keswick Hall",
+                "tourism": "attraction",
+                "wikidata": "Q26593123"
+            }
+        },
+        {
+            "type": "node",
+            "id": 833400200,
+            "lat": 52.8526636,
+            "lon": 1.3012502,
+            "tags": {
+                "addr:city": "Norwich",
+                "addr:postcode": "NR11 7HN",
+                "addr:street": "White Post Road",
+                "museum": "living_history",
+                "name": "Gunton Park Sawmill",
+                "tourism": "museum",
+                "website": "http://www.guntonparksawmill.co.uk/"
+            }
+        },
+        {
+            "type": "node",
+            "id": 846757923,
+            "lat": 52.9311332,
+            "lon": 1.3017807,
+            "tags": {
+                "addr:city": "Cromer",
+                "addr:postcode": "NR27 9HB",
+                "addr:street": "Tucker Street",
+                "fee": "yes",
+                "fhrs:id": "687361",
+                "name": "Cromer Museum",
+                "opening_hours": "Mar-Oct: Mo-Fr 10:00-16:00; Mar-Oct: Sa,Su 12:00-16:00",
+                "tourism": "museum",
+                "url": "https://www.museums.norfolk.gov.uk/cromer-museum",
+                "website": "https://www.museums.norfolk.gov.uk/cromer-museum",
+                "wikidata": "Q29014975"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Cromer%2C_Church_St.JPG/1280px-Cromer%2C_Church_St.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 889359443,
+            "lat": 52.6874287,
+            "lon": 1.5205047,
+            "tags": {
+                "historic": "ruins",
+                "man_made": "windpump",
+                "name": "Saint Benet's Abbey Drainage Mill",
+                "opening_hours": "24/7",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Norfolk%2C_River_Bure%2C_St_Benet%27s_Abbey%28RLH%29.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 895663047,
+            "lat": 52.710938,
+            "lon": 1.4503087,
+            "tags": {
+                "addr:city": "Hoveton",
+                "addr:country": "GB",
+                "addr:postcode": "NR12 8JW",
+                "addr:street": "Horning Road",
+                "email": "explore@BeWILDerwood.co.uk",
+                "name": "BeWILDerwood",
+                "phone": "+44 1692 633033",
+                "tourism": "theme_park",
+                "website": "https://www.bewilderwood.co.uk/",
+                "wikidata": "Q4899748"
+            }
+        },
+        {
+            "type": "node",
+            "id": 961885968,
+            "lat": 52.7176847,
+            "lon": 1.5076401,
+            "tags": {
+                "historic": "ship",
+                "name": "Wherry Hathor",
+                "operator": "Wherry Yacht Charitable Charter Trust",
+                "ship:type": "wherry",
+                "temporary": "yes @ (2018 May 03 - 2018 Aug 02)",
+                "tourism": "attraction",
+                "website": "https://www.wherryyachtcharter.org"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/2b/How_Hill_House_-_geograph.org.uk_-_472273.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 1311957110,
+            "lat": 52.7126815,
+            "lon": 1.1200744,
+            "tags": {
+                "addr:city": "Norwich",
+                "addr:country": "GB",
+                "addr:place": "Weston Park",
+                "addr:postcode": "NR9 5JE",
+                "addr:village": "Lenwade",
+                "dog": "guide_only",
+                "fax": "+44 1603 876315",
+                "fee:conditional": "no @ (height < 0.9)",
+                "name": "Roarr! Dinosaur Adventure",
+                "opening_hours": "Mar 29-Jul 18, Sep 8-Oct 23 09:30-17:00; Jul 19-Sep 7 09:30-18:00; Oct 24-Dec 31 09:30-16:00",
+                "phone": "+44 1603 876310",
+                "source": "bing",
+                "tourism": "theme_park",
+                "website": "https://www.roarrdinosauradventure.co.uk/",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1413650785,
+            "lat": 52.8627454,
+            "lon": 0.6134405,
+            "tags": {
+                "man_made": "windmill",
+                "name": "Great Bircham Windmill",
+                "source": "Bing/survey",
+                "tourism": "attraction",
+                "website": "https://www.birchamwindmill.co.uk/",
+                "wikidata": "Q5598776"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Bircham_Windmill%2C_Great_Bircham.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 1793702755,
+            "lat": 52.6228218,
+            "lon": 0.4044156,
+            "tags": {
+                "name": "Church Farm Rare Breeds Centre",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/30/Holy_Trinity_church_in_Stow_Bardolph_-_geograph.org.uk_-_1737301.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 2098166942,
+            "lat": 52.7082422,
+            "lon": 1.4090715,
+            "tags": {
+                "name": "Barton House Railway",
+                "tourism": "museum",
+                "website": "https://bhrw.org.uk/",
+                "wikidata": "Q4865648"
+            }
+        },
+        {
+            "type": "node",
+            "id": 2517998903,
+            "lat": 52.6852134,
+            "lon": 1.5487051,
+            "tags": {
+                "man_made": "windpump",
+                "name": "St Benet's Level Drainage Mill",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Thurne_Dyke_Wind_Pump.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 2571329653,
+            "lat": 52.9264867,
+            "lon": 1.1806551,
+            "tags": {
+                "leisure": "garden",
+                "name": "The Bower",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 2571329654,
+            "lat": 52.9313189,
+            "lon": 1.1817726,
+            "tags": {
+                "building": "yes",
+                "name": "The Temple",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Sheringham_Park_1.JPG/1280px-Sheringham_Park_1.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 2805930076,
+            "lat": 52.9355467,
+            "lon": 0.4832576,
+            "tags": {
+                "addr:city": "Hunstanton",
+                "addr:postcode": "PE36 5BH",
+                "addr:street": "Central Promenade",
+                "name": "Searles Sea Tours",
+                "operator": "Searles Sea Tours",
+                "tourism": "attraction",
+                "website": "https://www.seatours.co.uk/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Hunstanton_Railway_Station.jpg/1280px-Hunstanton_Railway_Station.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 3077985476,
+            "lat": 52.9345406,
+            "lon": 1.2429305,
+            "tags": {
+                "addr:city": "West Runtom",
+                "addr:country": "GB",
+                "addr:housename": "West Runton Stables",
+                "addr:postcode": "NR27 9QH",
+                "addr:street": "Sandy Lane",
+                "amenity": "animal_rescue",
+                "name": "Hillside Shire Horse Sanctuary",
+                "tourism": "attraction",
+                "website": "https://www.hillside.org.uk/shirehorsesanctuary.htm"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5c/View_to_West_Runton_Railway_Station_from_Station_Road_bridge_-_geograph.org.uk_-_540687.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 3283274184,
+            "lat": 36.8489192,
+            "lon": -76.2944388,
+            "tags": {
+                "addr:city": "Norfolk",
+                "addr:postcode": "23510",
+                "addr:state": "VA",
+                "artist_name": "United States Navy",
+                "name": "USS Norfolk Bell",
+                "note": "The work is a cast brass bell in a steel yoke, with the text “USS Norfolk’ in raised letters on the bell surface. The work is sited on the waterfront with views to the Navy ships.",
+                "tourism": "attraction",
+                "website": "http://www.norfolkva.gov/cultural_affairs/images/Downtown_Art/USS_Norfolk_Bell_LightBox.jpg",
+                "website_1": "http://www.norfolkva.gov/cultural_affairs/images/Downtown_Art/USS_Norfolk_Bell_Map.jpg",
+                "wikidata": "Q2507073",
+                "wikipedia": "en:USS Norfolk (DL-1)"
+            }
+        },
+        {
+            "type": "node",
+            "id": 3525938237,
+            "lat": 52.561088,
+            "lon": 1.3374725,
+            "tags": {
+                "addr:city": "Poringland",
+                "addr:postcode": "NR14 7LP",
+                "check_date:opening_hours": "2024-06-21",
+                "fee": "yes",
+                "name": "Playbarn",
+                "opening_hours": "Tu-Su 09:30-16:00; Mo off; SH Mo-Fr 09:30-16:00",
+                "source": "Survey",
+                "tourism": "theme_park",
+                "website": "https://www.theplaybarn.co.uk/"
+            }
+        },
+        {
+            "type": "node",
+            "id": 3550095077,
+            "lat": 52.9365603,
+            "lon": 0.967779,
+            "tags": {
+                "addr:postcode": "NR25 7BP",
+                "addr:street": "Cockthorpe Road",
+                "name": "Langham Dome",
+                "phone": "+44 1328 830169",
+                "tourism": "museum",
+                "website": "https://langhamdome.org/"
+            }
+        },
+        {
+            "type": "node",
+            "id": 3598499540,
+            "lat": 52.6790732,
+            "lon": 0.9475488,
+            "tags": {
+                "museum": "history",
+                "name": "Mid-Norfolk Railway Museum Room",
+                "operator": "Mid-Norfolk Railway",
+                "operator:type": "community",
+                "tourism": "museum",
+                "url": "http://www.mnr.org.uk/your-visit/museum/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Dereham_station_2021.jpg/1280px-Dereham_station_2021.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 3704770965,
+            "lat": 52.6467338,
+            "lon": 0.6883279,
+            "tags": {
+                "addr:city": "Swaffham",
+                "addr:housenumber": "4",
+                "addr:postcode": "PE37 7DQ",
+                "addr:street": "London Street",
+                "name": "Swaffham Heritage",
+                "tourism": "museum",
+                "website": "https://www.swaffhammuseum.co.uk/",
+                "wikidata": "Q113370025"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/87/Swaffham_Town_Hall.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 4326840305,
+            "lat": 36.8473578,
+            "lon": -76.2881613,
+            "tags": {
+                "name": "The MacArthur Memorial Museum",
+                "tourism": "museum",
+                "wikidata": "Q22073406"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/33/Norfolk_City_Hall_%26_Courthouse%2C_421_East_City_Hall_Avenue%2C_%28Norfolk_city%2C_Virginia%29.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 4625811923,
+            "lat": 52.8936817,
+            "lon": 0.875579,
+            "tags": {
+                "access": "permit",
+                "historic": "ruins",
+                "historic:civilization": "medieval",
+                "name": "Walsingham Priory (remains)",
+                "tourism": "attraction",
+                "wikidata": "Q7963862",
+                "wikipedia": "en:Walsingham Priory"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Walsingham_Abbey_-_geograph.org.uk_-_2833357.jpg/1280px-Walsingham_Abbey_-_geograph.org.uk_-_2833357.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 4713135807,
+            "lat": 52.8286752,
+            "lon": 0.4632632,
+            "tags": {
+                "addr:street": "Wolferton Road",
+                "name": "The Royal Station",
+                "tourism": "attraction",
+                "website": "http://www.wolfertonroyalstation.co.uk/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Wolferton_Station_in_2025.jpg/1280px-Wolferton_Station_in_2025.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 5593792783,
+            "lat": 52.5716912,
+            "lon": 0.8256493,
+            "tags": {
+                "addr:city": "Thetford",
+                "addr:housename": "Wayland Hall",
+                "addr:postcode": "IP25 6AG",
+                "addr:street": "Middle Street",
+                "addr:town": "Watton",
+                "email": "info@museumforwatton.org.uk",
+                "name": "Museum 4 Watton",
+                "note": "Free entry. Entrance is on the side of the building (Hall Alley). Museum is the front half of Wayland Hall.",
+                "opening_hours": "We-Sa 10:00-16:00",
+                "opening_hours:covid19": "off",
+                "phone": "+44 1953 797060",
+                "tourism": "museum",
+                "website": "https://www.museumforwatton.org.uk/",
+                "wikidata": "Q113370310"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Watton_Town_Hall_%28geograph_5393276%29_%28cropped%29.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 5923978162,
+            "lat": 52.9451438,
+            "lon": 1.1307673,
+            "tags": {
+                "addr:city": "Holt",
+                "addr:parentstreet": "The Street",
+                "addr:place": "Ashbourne Camp",
+                "addr:postcode": "NR25 7EH",
+                "addr:village": "Ashbourne",
+                "description": "Privately owned military museum with rides on army vehicles, plus over 25 tanks and military vehicles, small arms and uniforms.",
+                "museum": "military",
+                "name": "The Muckleburgh Military Collection",
+                "opening_hours": "Mo-Su 10:00-17:00",
+                "phone": "+44 1263 588210",
+                "tourism": "museum",
+                "website": "https://www.muckleburgh.co.uk/",
+                "wikidata": "Q6931190",
+                "wikipedia": "en:Muckleburgh Collection"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/BAe_Harrier_at_Mucklebough.jpg/1280px-BAe_Harrier_at_Mucklebough.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 6290878600,
+            "lat": 52.8920374,
+            "lon": 0.8720092,
+            "tags": {
+                "access": "private",
+                "historic": "ruins",
+                "historic:civilization": "medieval",
+                "name": "Walsingham Greyfriars (remains)",
+                "tourism": "attraction",
+                "wikidata": "Q7963860",
+                "wikipedia": "en:Walsingham Friary"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Little_Walsingham%2C_village_square_1.JPG/1280px-Little_Walsingham%2C_village_square_1.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 6457267242,
+            "lat": 52.7788174,
+            "lon": 1.0460454,
+            "tags": {
+                "addr:city": "Norwich",
+                "addr:country": "GB",
+                "addr:street": "Reepham Road",
+                "description": "Traditional sheep breed farming and sheep dog training. Plans to plant a traditional orchard. Footpaths around north and south fields. Red squirrel breeding enclosures.",
+                "name": "Mayfields Farm",
+                "operator": "Countryside Restoration Trust",
+                "tourism": "attraction",
+                "website": "https://www.countrysiderestorationtrust.com/properties/mayfields/"
+            }
+        },
+        {
+            "type": "node",
+            "id": 6606096211,
+            "lat": 52.9499988,
+            "lon": 0.805588,
+            "tags": {
+                "name": "Holkham Stories Experience",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Kent_Plan.gif",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 6632733285,
+            "lat": 52.9229201,
+            "lon": 0.7989667,
+            "tags": {
+                "name": "Traders Gate Holkham Hall",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "node",
+            "id": 6722116030,
+            "lat": 52.7516234,
+            "lon": 1.0975961,
+            "tags": {
+                "name": "Whitwell & Reepham Restored Railway Station",
+                "tourism": "attraction",
+                "wikidata": "Q7996956",
+                "wikipedia": "en:Whitwell & Reepham railway station"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Whitwell_%26_Reepham_station_and_steam_train.jpg/1280px-Whitwell_%26_Reepham_station_and_steam_train.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 7777725885,
+            "lat": 52.5887145,
+            "lon": 0.6049592,
+            "tags": {
+                "attraction": "gardens",
+                "name": "Gooderstone Water Gardens and Nature Trail",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c2/St_George%2C_Gooderstone%2C_Norfolk_-_geograph.org.uk_-_313566.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 7778222085,
+            "lat": 52.9751601,
+            "lon": 0.8447657,
+            "tags": {
+                "name": "Wells Next The Sea Beach",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Wells_Lifeboat_Station%2C_Wells-next-the-Sea_-_geograph.org.uk_-_7917955.jpg/1280px-Wells_Lifeboat_Station%2C_Wells-next-the-Sea_-_geograph.org.uk_-_7917955.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 7876900585,
+            "lat": 52.9350596,
+            "lon": 1.2420127,
+            "tags": {
+                "name": "Hillside Shire Horse Sanctuary",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5c/View_to_West_Runton_Railway_Station_from_Station_Road_bridge_-_geograph.org.uk_-_540687.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 7906506017,
+            "lat": 52.945079,
+            "lon": 1.2109582,
+            "tags": {
+                "addr:postcode": "NR26 8JT",
+                "addr:street": "West Cliff",
+                "entrance": "main",
+                "museum": "art",
+                "name": "Peter Coke Shell Gallery",
+                "operator": "Sheringham & District Society",
+                "operator:type": "charity",
+                "tourism": "museum",
+                "website": "https://sheringhamsociety.com/peter-coke-shell-gallery/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/df/The_Mo%2C_Sheringham_1825200.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 8009970990,
+            "lat": 52.6821087,
+            "lon": 0.4194871,
+            "tags": {
+                "name": "Watatunga Wildlife Reserve (Entrance)",
+                "tourism": "zoo",
+                "zoo": "wildlife_park"
+            }
+        },
+        {
+            "type": "node",
+            "id": 8633329694,
+            "lat": 52.6315709,
+            "lon": 1.3009022,
+            "tags": {
+                "name": "Labyrinth",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Diocese_of_Norwich_arms.svg/1280px-Diocese_of_Norwich_arms.svg.png",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 8955994955,
+            "lat": 52.7152467,
+            "lon": 0.4344359,
+            "tags": {
+                "air_conditioning": "no",
+                "booth": "K6",
+                "covered": "booth",
+                "disused:amenity": "telephone",
+                "fee": "no",
+                "man_made": "telephone_box",
+                "museum": "local",
+                "name": "North Runcton Art Gallery Museum",
+                "opening_hours": "24/7",
+                "operator:type": "community",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/54/North_Runcton_village_sign.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 9081789717,
+            "lat": 52.558552,
+            "lon": 1.5722042,
+            "tags": {
+                "name": "Reedham Swing Bridge Signal Box",
+                "opening_hours": "24/7",
+                "tourism": "attraction",
+                "wheelchair": "no"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Rail-reedhamswingbridge-amoswolfe.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 9160612437,
+            "lat": 52.6009843,
+            "lon": 1.7367397,
+            "tags": {
+                "addr:city": "Great Yarmouth",
+                "addr:street": "Marine Parade",
+                "attraction": "big_wheel",
+                "name": "Great Yarmouth Giant Wheel",
+                "tourism": "attraction",
+                "website": "https://www.greatyarmouthwheel.com/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Wellington_Pier_2026.jpg/1280px-Wellington_Pier_2026.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 9701183451,
+            "lat": 36.8467421,
+            "lon": -76.2943584,
+            "tags": {
+                "access": "yes",
+                "addr:city": "Norfolk",
+                "addr:housenumber": "1",
+                "addr:postcode": "23510",
+                "addr:state": "VA",
+                "addr:street": "Waterside Drive",
+                "artist_name": "United States Navy",
+                "historic": "monument",
+                "name": "Anchor;USS Antietam Anchor",
+                "note": "The work is a surplus battleship anchor of unknown alloy. It sits directly on a paved asphalt walkway leading into Town Point Park. A small plaque identified the object as a naval relic.",
+                "tourism": "attraction",
+                "website": "http://www.norfolkva.gov/cultural_affairs/images/Downtown_Art/Antietam_Anchor_LightBox.jpg",
+                "website_1": "http://www.norfolkva.gov/cultural_affairs/images/Downtown_Art/Antietam_Anchor_Map.jpg"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9817353235,
+            "lat": 52.6043963,
+            "lon": 1.7362006,
+            "tags": {
+                "addr:city": "Great Yarmouth",
+                "addr:street": "Marine Parade",
+                "contact:facebook": "https://www.facebook.com/jurassicjourney/",
+                "name": "Jurassic Journey",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Hippodrome_building_%28geograph_4218473%29.jpg/1280px-Hippodrome_building_%28geograph_4218473%29.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 9856120065,
+            "lat": 52.9451611,
+            "lon": 1.2111051,
+            "tags": {
+                "addr:city": "Sheringham",
+                "addr:postcode": "NR26 8JT",
+                "addr:street": "West Cliff",
+                "museum": "history",
+                "name": "Fishermen's Lifeboat Museum",
+                "operator": "Sheringham & District Society",
+                "operator:type": "charity",
+                "tourism": "museum",
+                "website": "https://sheringhamsociety.com/fishermens-lifeboat-museum/",
+                "wikidata": "Q113454709"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/df/The_Mo%2C_Sheringham_1825200.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 9991859094,
+            "lat": 36.9228459,
+            "lon": -76.304098,
+            "tags": {
+                "historic": "aircraft",
+                "name": "F/A-18",
+                "tourism": "attraction",
+                "wikidata": "Q46397",
+                "wikipedia": "en:McDonnell Douglas F/A-18 Hornet"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11308445087,
+            "lat": 36.8522629,
+            "lon": -76.2926088,
+            "tags": {
+                "addr:city": "Norfolk",
+                "addr:housenumber": "240",
+                "addr:postcode": "23510",
+                "addr:state": "VA",
+                "addr:street": "West Freemason Street",
+                "email": "hhvm1894@gmail.com",
+                "museum": "history",
+                "name": "Hunter House Victorian Museum",
+                "opening_hours": "We-Su 10:00-16:00",
+                "phone": "+1-757-623-9814",
+                "tourism": "museum",
+                "website": "https://www.hunterhousemuseum.org/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Hunter_House_Victorian_Museum.jpg/1280px-Hunter_House_Victorian_Museum.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 12396858328,
+            "lat": 52.9496698,
+            "lon": 0.8647043,
+            "tags": {
+                "addr:city": "Wells next the Sea",
+                "addr:housename": "Wells and Walsingham Light Railway",
+                "addr:postcode": "NR23 1QB",
+                "addr:street": "Stiffkey Road",
+                "name": "Wells and Walsingham Light Railway",
+                "start_date": "1982",
+                "tourism": "attraction",
+                "website": "https://www.wwlr.co.uk/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Wells-On-Sea_railway_station_2014.jpg/1280px-Wells-On-Sea_railway_station_2014.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 12542157927,
+            "lat": 52.8959771,
+            "lon": 0.8720666,
+            "tags": {
+                "fixme": "please check exact location",
+                "name": "St Seraphim's Icon and Railway Heritage Museum",
+                "tourism": "museum",
+                "website": "https://iconpainter.org.uk/our-work/icon-and-railway-heritage-museum/",
+                "wikidata": "Q125566128"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Walsingham3.jpg/1280px-Walsingham3.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 12564000852,
+            "lat": 52.7148979,
+            "lon": 0.9218243,
+            "tags": {
+                "addr:city": "Dereham",
+                "addr:country": "GB",
+                "addr:housename": "Gressenhall Farm & Workhouse",
+                "addr:postcode": "NR20 4DR",
+                "addr:street": "Litcham Road",
+                "check_date:opening_hours": "2023-11-09",
+                "fee": "yes",
+                "name": "Gressenhall Farm and Workhouse",
+                "opening_hours": "Mar Sa[2]-Nov Su[1] 10:00-17:00",
+                "opening_hours:url": "https://www.gressenhall.norfolk.gov.uk/article/30616/Gressenhall-Farm-and-Workhouse-opening-times",
+                "phone": "+44 1362 860563",
+                "seasonal": "yes",
+                "tourism": "museum",
+                "website": "https://www.gressenhall.norfolk.gov.uk/",
+                "wikidata": "Q113568276"
+            }
+        },
+        {
+            "type": "node",
+            "id": 12925431541,
+            "lat": 52.4160685,
+            "lon": 0.7475441,
+            "tags": {
+                "addr:city": "Thetford",
+                "addr:housename": "The Thomas Paine Hotel",
+                "addr:housenumber": "33",
+                "addr:postcode": "IP24 1AA",
+                "addr:street": "White Hart Street",
+                "name": "In the Footsteps of Thomas Paine",
+                "tourism": "museum",
+                "website": "https://inthefootstepsofthomaspaine.com/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Charles_Burrell_Museum.jpg/1280px-Charles_Burrell_Museum.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 27824994,
+            "lat": 52.7780578,
+            "lon": 1.6147922,
+            "tags": {
+                "name": "Waxham Great Barn",
+                "tourism": "museum",
+                "website": "https://nhbt.org.uk/our-properties/waxham-great-barn-grade-i/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/WaxhamBarn.jpg/1280px-WaxhamBarn.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 31968132,
+            "lat": 52.9416672,
+            "lon": 0.8061232,
+            "tags": {
+                "leisure": "park",
+                "name": "Holkham Park",
+                "source": "NPE",
+                "tourism": "attraction",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "way",
+            "id": 35582845,
+            "lat": 52.6500744,
+            "lon": 1.7195615,
+            "tags": {
+                "historic": "ruins",
+                "name": "Caister Roman Fort",
+                "ruins": "yes",
+                "tourism": "attraction",
+                "wikidata": "Q1735346",
+                "wikipedia": "en:Caister Roman Site"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/3b/CaisterRomanSite.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 37588977,
+            "lat": 52.6081903,
+            "lon": 1.7395634,
+            "tags": {
+                "access": "no",
+                "addr:city": "Great Yarmouth",
+                "addr:street": "Marine Parade",
+                "area": "yes",
+                "foot": "yes",
+                "layer": "1",
+                "man_made": "pier",
+                "name": "Britannia Pier",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Britannia_Pier_2026.jpg/1280px-Britannia_Pier_2026.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 37803020,
+            "lat": 52.6460663,
+            "lon": 1.7357305,
+            "tags": {
+                "addr:city": "Great Yarmouth",
+                "addr:postcode": "NR30 5DJ",
+                "addr:street": "Skippers Walk",
+                "addr:village": "Caister-on-Sea",
+                "building": "yes",
+                "fhrs:id": "860814",
+                "name": "Caister Lifeboat Visitors Centre",
+                "seamark:building:function": "lookout",
+                "seamark:name": "NCI Caister",
+                "seamark:radio_station:callsign": "Caister NCI",
+                "seamark:radio_station:channel": "65",
+                "seamark:type": "building",
+                "source:addr": "FHRS Open Data",
+                "tourism": "museum",
+                "url": "http://www.caisterlifeboat.org.uk/visitors-centre/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Caister_Lifeboat_Station.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 38329530,
+            "lat": 52.6286209,
+            "lon": 1.2964133,
+            "tags": {
+                "access": "customers",
+                "access:disabled": "two car park spaces for visitors who are Blue Badges holders. step-free access to the Castle Mound through the Castle Gardens, Farmers Avenue or Castle Mall",
+                "addr:city": "Norwich",
+                "addr:country": "GB",
+                "addr:postcode": "NR1 3JU",
+                "addr:street": "Castle Meadow",
+                "building": "castle",
+                "building:levels": "2",
+                "castle_type": "defensive",
+                "email": "museums@norfolk.gov.uk",
+                "historic:civilization": "medieval",
+                "name": "Norwich Castle Museum",
+                "opening_hours": "Jul 1-Sep 29 Mo-Sa 10:00-17:00, Su 13:00-17:00; Sep 30-Jun 30 Mo-Sa 10:00-16:30, Su 13:00-16:30",
+                "parking": "no",
+                "phone:booking": "+44 1603 495897",
+                "phone:booking:school": "+44 1603 493636",
+                "phone:general": "+44 1603 493625",
+                "phone:info": "+44 1603 493648",
+                "ref:GB:uprn": "200004354283",
+                "roof:shape": "many",
+                "start_date": "1067",
+                "tourism": "museum",
+                "website": "https://www.museums.norfolk.gov.uk/norwich-castle",
+                "wheelchair": "limited",
+                "wikidata": "Q1672292",
+                "wikipedia": "en:Norwich Castle"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/17/Norwich_Castle_keep%2C_2009.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 38773505,
+            "lat": 52.8298019,
+            "lon": 0.5136636,
+            "tags": {
+                "addr:city": "Sandringham",
+                "addr:housename": "Sandringham House",
+                "addr:postcode": "PE35 6EN",
+                "building": "residential",
+                "email": "enquiries@sandringhamestate.co.uk",
+                "historic": "manor",
+                "name": "Sandringham House",
+                "phone": "+44 1485 545408",
+                "toilets:wheelchair": "yes",
+                "tourism": "attraction",
+                "website": "https://www.sandringhamestate.co.uk/",
+                "wheelchair": "yes",
+                "wikidata": "Q935116",
+                "wikipedia": "en:Sandringham House"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Sandringham_House_in_Norfolk_-_aerial_image.jpg/1280px-Sandringham_House_in_Norfolk_-_aerial_image.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 40942963,
+            "lat": 52.6483262,
+            "lon": 1.1772759,
+            "tags": {
+                "barrier": "fence",
+                "name": "Norfolk Showground",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "way",
+            "id": 41668029,
+            "lat": 52.703159,
+            "lon": 0.6911903,
+            "tags": {
+                "fee": "no",
+                "historic": "ruins",
+                "name": "Castle Acre Castle",
+                "operator": "English Heritage",
+                "tourism": "attraction",
+                "website": "https://www.english-heritage.org.uk/visit/places/castle-acre-castle-and-bailey-gate/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Castle_Acre_Castle_%282%29.jpg/1280px-Castle_Acre_Castle_%282%29.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 89718005,
+            "lat": 52.8050818,
+            "lon": 1.5101593,
+            "tags": {
+                "dog": "no",
+                "email": "erovoffice@btconnect.com",
+                "fax": "+44 1692 651246",
+                "leisure": "garden",
+                "name": "East Ruston Old Vicarage Gardens",
+                "opening_hours": "We-Su,PH 13:00-17:00; 2014 Mar 30 off; 2014 Oct 25 off",
+                "phone": "+44 1692 650432",
+                "tourism": "attraction",
+                "website": "http://www.e-ruston-oldvicaragegardens.co.uk/",
+                "wikidata": "Q5329312",
+                "wikipedia": "en:East Ruston Old Vicarage"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/East_Ruston_Gardens_-_Norfolk_aerial_%2821430487211%29.jpg/1280px-East_Ruston_Gardens_-_Norfolk_aerial_%2821430487211%29.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 96924196,
+            "lat": 52.4149096,
+            "lon": 0.7453074,
+            "tags": {
+                "HE_ref": "1195908",
+                "addr:city": "Thetford",
+                "addr:postcode": "IP24 1BN",
+                "addr:street": "Minstergate",
+                "building": "yes",
+                "facebook": "https://www.facebook.com/Charles-Burrell-Museum-2237822812906787/",
+                "fee": "no",
+                "listed_status": "Grade II",
+                "museum": "industry",
+                "name": "Charles Burrell Museum",
+                "opening_hours": "Tu 10:00-14:00; Sa 10:00-15:00",
+                "source:addr": "FSA Food Hygiene Ratings Database",
+                "tourism": "museum",
+                "website": "https://www.charlesburrellmuseum.org.uk/",
+                "wikidata": "Q21716346",
+                "wikipedia": "en:Charles Burrell Museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Charles_Burrell_Museum.jpg/1280px-Charles_Burrell_Museum.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 103556434,
+            "lat": 52.6686538,
+            "lon": 1.4964372,
+            "tags": {
+                "email": "enquiries@fairhavengarden.co.uk",
+                "leisure": "garden",
+                "name": "Fairhaven Woodland and Water Garden",
+                "opening_hours": "Mo-Su 10:00-17:00",
+                "tourism": "attraction",
+                "website": "https://www.fairhavengarden.co.uk/",
+                "wheelchair": "yes",
+                "wikidata": "Q5430474"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Fairhaven_Water_Gardens_1_-_geograph.org.uk_-_251594.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 103571385,
+            "lat": 52.6827191,
+            "lon": 1.4872394,
+            "tags": {
+                "building": "yes",
+                "name": "Wildlife Centre",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Ranworth_Broad_-_geograph.org.uk_-_2392296.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 106675127,
+            "lat": 52.8711648,
+            "lon": 0.940236,
+            "tags": {
+                "building": "yes",
+                "name": "Thursford Collection",
+                "toilets:wheelchair": "yes",
+                "tourism": "attraction",
+                "wheelchair": "yes",
+                "wikidata": "Q7799419",
+                "wikipedia": "en:Thursford Collection"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Entrance_to_the_Thursford_Collection_from_carpark_-_geograph.org.uk_-_570056.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 110186792,
+            "lat": 52.4766866,
+            "lon": 0.6735378,
+            "tags": {
+                "addr:postcode": "IP26 5DE",
+                "addr:street": "Stanford Road",
+                "building": "yes",
+                "fhrs:id": "832247",
+                "name": "Grimes Grave's Visitor Centre",
+                "source:addr": "FSA Food Hygiene Ratings Database",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/df/Grimes_Graves_%2C_neolithic_flint_mine_-_geograph.org.uk_-_1007207.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 110187016,
+            "lat": 52.4765564,
+            "lon": 0.6740352,
+            "tags": {
+                "name": "Grime's Graves",
+                "natural": "heath",
+                "operator": "English Heritage",
+                "tourism": "attraction",
+                "url": "https://www.english-heritage.org.uk/visit/places/grimes-graves-prehistoric-flint-mine/",
+                "wikidata": "Q638485",
+                "wikipedia": "en:Grime's Graves"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/df/Grimes_Graves_%2C_neolithic_flint_mine_-_geograph.org.uk_-_1007207.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 112329367,
+            "lat": 52.4236501,
+            "lon": 0.7035491,
+            "tags": {
+                "HE_ref": "1297876",
+                "building": "yes",
+                "historic": "ruins",
+                "listed_status": "Grade II*",
+                "name": "Thetford Warren Lodge",
+                "operator": "English Heritage",
+                "tourism": "attraction",
+                "website": "https://www.english-heritage.org.uk/visit/places/thetford-warren-lodge/",
+                "wikidata": "Q17553759"
+            }
+        },
+        {
+            "type": "way",
+            "id": 112876654,
+            "lat": 52.9061633,
+            "lon": 1.065002,
+            "tags": {
+                "building": "yes",
+                "layer": "1",
+                "name": "Letheringsett Water Mill",
+                "tourism": "attraction",
+                "wikidata": "Q6533351",
+                "wikipedia": "en:Letheringsett Watermill"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Letheringsett_Watermill_west_elevation.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 115561171,
+            "lat": 52.9501354,
+            "lon": 0.8030442,
+            "tags": {
+                "addr:postcode": "NR23 1AB",
+                "building": "yes",
+                "check_date:opening_hours": "2024-04-05",
+                "fee": "yes",
+                "historic": "country_mansion",
+                "name": "Holkham Hall",
+                "opening_hours": "Mar 24-Oct 31 Mo,Th,Su 10:00-16:00",
+                "source": "Bing",
+                "tourism": "attraction",
+                "website": "https://www.holkham.co.uk/",
+                "wheelchair": "limited",
+                "wheelchair:description": "There is level access from the main entrance to: The Hall, Ticket Office, Stables Courtyard, Courtyard Café and Gift Shop, Lavatories, Holkham Stories Exhibition, Walled Garden.",
+                "wikidata": "Q1624722",
+                "wikipedia": "en:Holkham Hall"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Holkham-Hall-South-Facafe-543.jpg/1280px-Holkham-Hall-South-Facafe-543.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 115680137,
+            "lat": 52.6358852,
+            "lon": 1.2166222,
+            "tags": {
+                "building": "yes",
+                "name": "Crafts and Gifts",
+                "phone": "+44 1603 746106",
+                "ref:GB:uprn": "200004373390",
+                "source": "Bing",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/9d/St_Michael%27s_Church%2C_Bowthorpe_-_geograph.org.uk_-_28665.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 116306361,
+            "lat": 52.5274426,
+            "lon": 0.2793359,
+            "tags": {
+                "addr:city": "Ely",
+                "addr:housename": "Welney Wetland Centre",
+                "addr:postcode": "CB6 1UG",
+                "addr:street": "Hundred Foot Bank",
+                "addr:village": "Littleport",
+                "building": "yes",
+                "information": "office",
+                "layer": "1",
+                "name": "Wetland Trust Visitor Centre",
+                "operator": "WWT (Wildfowl and Wetlands Trust)",
+                "ref:GB:uprn": "10000057046",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "way",
+            "id": 116396205,
+            "lat": 52.3769082,
+            "lon": 1.1089941,
+            "tags": {
+                "addr:city": "Diss",
+                "addr:postcode": "IP22 4JT",
+                "addr:street": "Market Place",
+                "building": "yes",
+                "name": "Diss Museum",
+                "tourism": "museum",
+                "website": "https://www.dissmuseum.co.uk/",
+                "wikidata": "Q42852651"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Diss_Town_Council_Offices_-_geograph.org.uk_-_4485973.jpg/1280px-Diss_Town_Council_Offices_-_geograph.org.uk_-_4485973.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 116857176,
+            "lat": 52.5982387,
+            "lon": 1.7366011,
+            "tags": {
+                "addr:city": "Great Yarmouth",
+                "addr:postcode": "NR30 3JG",
+                "addr:street": "Marine Parade",
+                "area": "yes",
+                "fee": "yes",
+                "fee:conditional": "no @ (age < 3)",
+                "name": "Merrivale Model Village",
+                "opening_hours:url": "https://www.merrivalemodelvillage.co.uk/opening-times/",
+                "tourism": "attraction",
+                "website": "https://www.merrivalemodelvillage.co.uk/",
+                "wheelchair": "yes"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Wellington_Pier_2026.jpg/1280px-Wellington_Pier_2026.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 123228068,
+            "lat": 52.8532752,
+            "lon": 1.2734371,
+            "tags": {
+                "addr:city": "Norwich",
+                "addr:country": "GB",
+                "addr:postcode": "NR11 7HB",
+                "addr:street": "Church Lane",
+                "building": "yes",
+                "name": "Norfolk Children's Book Centre",
+                "phone": "+44 1263 761402",
+                "shop": "books",
+                "source": "Bing;survey",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "way",
+            "id": 123231243,
+            "lat": 52.8438053,
+            "lon": 1.2749684,
+            "tags": {
+                "addr:city": "Norwich",
+                "addr:country": "GB",
+                "addr:postcode": "NR11 7QE",
+                "addr:street": "Cromer Road",
+                "amenity": "cafe",
+                "building": "yes",
+                "email": "info@albycrafts.co.uk",
+                "name": "Alby Crafts",
+                "phone": "+44 1263 761590",
+                "source": "Bing;survey",
+                "tourism": "attraction",
+                "website": "https://www.albycrafts.co.uk/"
+            }
+        },
+        {
+            "type": "way",
+            "id": 138487803,
+            "lat": 52.9451403,
+            "lon": 1.2134799,
+            "tags": {
+                "addr:city": "Sheringham",
+                "addr:postcode": "NR26 8BG",
+                "addr:street": "Lifeboat Plain",
+                "building": "yes",
+                "email": "enquiries@sheringhammuseum.co.uk",
+                "museum": "local",
+                "name": "Sheringham Museum at The Mo",
+                "phone": "+441263 824482",
+                "source": "survey;Bing",
+                "tourism": "museum",
+                "website": "https://www.sheringhammuseum.co.uk/",
+                "wikidata": "Q7751827",
+                "wikipedia": "en:The Mo Sheringham Museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/df/The_Mo%2C_Sheringham_1825200.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 145657339,
+            "lat": 52.6144507,
+            "lon": 1.4386498,
+            "tags": {
+                "addr:postcode": "NR13 5PN",
+                "leisure": "marina",
+                "name": "Brundall Bay Marina",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Brundall_railway_station_-_signal_box_-_geograph.org.uk_-_1531804.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 159038725,
+            "lat": 52.7176014,
+            "lon": 1.5082922,
+            "tags": {
+                "building": "yes",
+                "fee": "no",
+                "name": "Toad Hole Cottage",
+                "tourism": "museum",
+                "wikidata": "Q26301907"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/2b/How_Hill_House_-_geograph.org.uk_-_472273.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 160588416,
+            "lat": 52.6357115,
+            "lon": 1.2166868,
+            "tags": {
+                "building": "yes",
+                "name": "Saint Michael's Cottage Crafts",
+                "source": "Bing",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/9d/St_Michael%27s_Church%2C_Bowthorpe_-_geograph.org.uk_-_28665.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 160941189,
+            "lat": 52.6300588,
+            "lon": 1.2953727,
+            "tags": {
+                "addr:city": "Norwich",
+                "addr:postcode": "NR2 1AQ",
+                "addr:street": "Bridewell Alley",
+                "building": "yes",
+                "fee": "yes",
+                "name": "Museum of Norwich at the Bridewell",
+                "ref:GB:uprn": "200004353874",
+                "tourism": "museum",
+                "website": "https://www.museums.norfolk.gov.uk/museum-of-norwich",
+                "wikidata": "Q17537374"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/78/Bridewell_Museum%2C_Norwich-geograph.org.uk-3824217.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 167055935,
+            "lat": 52.7538591,
+            "lon": 0.3990912,
+            "tags": {
+                "addr:city": "King's Lynn",
+                "addr:postcode": "PE30 1NL",
+                "addr:street": "Market Street",
+                "building": "yes",
+                "name": "The Lynn Museum",
+                "tourism": "museum",
+                "website": "https://www.museums.norfolk.gov.uk/lynn-museum",
+                "wikidata": "Q26662392"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/54/Collage_of_King%27s_Lynn_icons.png",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 170561249,
+            "lat": 52.6305844,
+            "lon": 1.2923419,
+            "tags": {
+                "addr:city": "Norwich",
+                "addr:country": "GB",
+                "addr:housename": "Strangers' Hall and 4 to 12",
+                "addr:housenumber": "4-12",
+                "addr:interpolation": "even",
+                "addr:postcode": "NR2 4AL",
+                "addr:street": "Charing Cross",
+                "building": "yes",
+                "check_date": "2023-11-20",
+                "fee": "yes",
+                "name": "Strangers' Hall",
+                "opening_hours": "We-Fr 10:00-16:00; Su 13:00-16:30",
+                "operator": "Norfolk Museums Service",
+                "source": "Bing",
+                "tourism": "museum",
+                "website": "https://www.museums.norfolk.gov.uk/strangers-hall",
+                "wikidata": "Q7621576"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Strangers%27_Hall_Museum_Norwich_4.JPG/1280px-Strangers%27_Hall_Museum_Norwich_4.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 175583118,
+            "lat": 52.6042801,
+            "lon": 1.7297233,
+            "tags": {
+                "addr:city": "Great Yarmouth",
+                "addr:street": "King Street",
+                "building": "yes",
+                "name": "David Howkin's Charity Museum",
+                "source": "Bing",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/50/The_Toll_House%2C_Tollhouse_Street_-_geograph.org.uk_-_525317.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 175585285,
+            "lat": 52.604344,
+            "lon": 1.7275592,
+            "tags": {
+                "addr:postcode": "NR30 2SH",
+                "addr:street": "Tolhouse Street",
+                "building": "yes",
+                "check_date:opening_hours": "2023-11-10",
+                "fee": "yes",
+                "fee:conditional": "no @ (age < 4)",
+                "name": "The Tolhouse Gaol",
+                "seasonal": "yes",
+                "tourism": "museum",
+                "url": "https://www.museums.norfolk.gov.uk/tolhouse-gaol",
+                "wheelchair": "limited",
+                "wikidata": "Q17536024",
+                "wikipedia": "en:The Tolhouse"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/50/The_Toll_House%2C_Tollhouse_Street_-_geograph.org.uk_-_525317.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 175587048,
+            "lat": 52.6053327,
+            "lon": 1.7254067,
+            "tags": {
+                "addr:postcode": "NR30 2QH",
+                "addr:street": "South Quay",
+                "building": "yes",
+                "name": "Elizabethan House",
+                "source": "Bing",
+                "tourism": "museum",
+                "url": "https://www.museums.norfolk.gov.uk/elizabethan-house",
+                "wikidata": "Q17536051"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/25/Steam_Drifter_Lydia_Eva.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 175589246,
+            "lat": 52.6033585,
+            "lon": 1.7269552,
+            "tags": {
+                "alt_name": "Old Merchant's House",
+                "building": "yes",
+                "name": "Merchant's House",
+                "tourism": "museum",
+                "wikidata": "Q17554502"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Merchant%27s_House_-_geograph.org.uk_-_1018601.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 175661751,
+            "lat": 52.5996511,
+            "lon": 1.7366833,
+            "tags": {
+                "addr:city": "Great Yarmouth",
+                "addr:street": "Marine Parade",
+                "building": "yes",
+                "name": "Winter Gardens",
+                "tourism": "attraction",
+                "wheelchair": "yes",
+                "wikidata": "Q17554545"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Wellington_Pier_2026.jpg/1280px-Wellington_Pier_2026.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 175852237,
+            "lat": 52.6057437,
+            "lon": 1.7373747,
+            "tags": {
+                "addr:city": "Great Yarmouth",
+                "addr:street": "Marine Parade",
+                "leisure": "miniature_golf",
+                "name": "Pirates Cove",
+                "tourism": "attraction",
+                "website": "https://www.pirates-cove.co.uk/"
+            }
+        },
+        {
+            "type": "way",
+            "id": 175853187,
+            "lat": 52.6078964,
+            "lon": 1.7376716,
+            "tags": {
+                "addr:city": "Great Yarmouth",
+                "addr:postcode": "NR30 2DL",
+                "addr:street": "Marine Parade",
+                "area": "yes",
+                "name": "Joyland",
+                "tourism": "attraction",
+                "website": "https://www.joyland.org.uk/",
+                "wikidata": "Q19874758",
+                "wikipedia": "en:Joyland (Great Yarmouth)"
+            }
+        },
+        {
+            "type": "way",
+            "id": 176721420,
+            "lat": 52.9339301,
+            "lon": 0.4825422,
+            "tags": {
+                "addr:city": "Hunstanton",
+                "addr:country": "GB",
+                "addr:postcode": "PE36 5BD",
+                "addr:province": "Norfolk",
+                "addr:street": "Seagate Road",
+                "fee": "yes",
+                "name": "Rainbow Park",
+                "tourism": "theme_park",
+                "website": "https://www.rainbow-park.co.uk/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/View_of_Hunstanton_Front_From_The_Beach.jpg/1280px-View_of_Hunstanton_Front_From_The_Beach.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 176989040,
+            "lat": 52.6017534,
+            "lon": 1.7316231,
+            "tags": {
+                "addr:postcode": "NR30 3BX",
+                "addr:street": "Blackfriars Road",
+                "building": "yes",
+                "name": "Time & Tide Museum",
+                "opening_hours": "2025 Mar 31-2025 Nov 02: 10:00-16:30; 2025 Nov 03-2026 Mar 31: Mo-Fr 10:00-16:00; 2025 Nov 03-2026 Mar 31: Sa,Su 12:00-16:00",
+                "tourism": "museum",
+                "url": "https://www.museums.norfolk.gov.uk/time-tide",
+                "wikidata": "Q7805263",
+                "wikipedia": "en:Time and Tide Museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d1/The_old_curing_works_at_Great_Yarmouth_-_geograph.org.uk_-_1067984.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 179320960,
+            "lat": 52.5964893,
+            "lon": 1.7363266,
+            "tags": {
+                "name": "Jurassic Gardens",
+                "sport": "karting",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "way",
+            "id": 179321094,
+            "lat": 52.5932523,
+            "lon": 1.735984,
+            "tags": {
+                "name": "Pleasure Beach",
+                "tourism": "theme_park",
+                "website": "https://pleasure-beach.co.uk/",
+                "wheelchair": "no",
+                "wikidata": "Q3115993"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Greatyarmouth_pleasurebeach_rollercoaster.jpg/1280px-Greatyarmouth_pleasurebeach_rollercoaster.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 179325327,
+            "lat": 52.5974873,
+            "lon": 1.7365,
+            "tags": {
+                "area": "yes",
+                "name": "Grand Pirx",
+                "sport": "karting",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Wellington_Pier_2026.jpg/1280px-Wellington_Pier_2026.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 182451482,
+            "lat": 52.7131011,
+            "lon": 1.4717505,
+            "tags": {
+                "addr:postcode": "NR12 8YB",
+                "name": "RAF Air Defence Radar Museum",
+                "tourism": "museum",
+                "website": "https://www.radarmuseum.co.uk/",
+                "wikidata": "Q12066774"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/32/RAF_Radar_Museum_-_geograph.org.uk_-_904207.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 193161365,
+            "lat": 52.4434127,
+            "lon": 1.0265538,
+            "tags": {
+                "addr:postcode": "NR16 2HE",
+                "addr:street": "Kenninghall Road",
+                "addr:village": "Banham",
+                "fhrs:id": "831873",
+                "name": "Banham Zoo",
+                "source:addr": "FSA Food Hygiene Ratings Database",
+                "tourism": "zoo",
+                "website": "https://www.banhamzoo.co.uk/",
+                "wikidata": "Q4855654",
+                "wikipedia": "en:Banham Zoo"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/9c/ZSEA_Banham_Zoological_Gardens_Green_Logo.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 207368239,
+            "lat": 52.6038236,
+            "lon": 1.7269406,
+            "tags": {
+                "building": "yes",
+                "name": "Row 111 House",
+                "source": "Bing",
+                "tourism": "museum",
+                "wikidata": "Q15222079",
+                "wikipedia": "en:Great Yarmouth Row Houses"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/-2012-04-09_Nelson_Museum%2C_South_Quay%2C_Great_Yarmouth.JPG/1280px--2012-04-09_Nelson_Museum%2C_South_Quay%2C_Great_Yarmouth.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 232408849,
+            "lat": 52.6106644,
+            "lon": 1.7271051,
+            "tags": {
+                "addr:city": "Great Yarmouth",
+                "addr:street": "Church Plain",
+                "building": "yes",
+                "name": "Anna Sewell House",
+                "source": "Bing",
+                "tourism": "museum",
+                "website": "https://www.redwings.org.uk/news-and-views/anna-sewell-house-opens-to-public"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Old_Fishermans_Retirement_Homes%2C_Gt_Yarmouth_-_geograph.org.uk_-_268426.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 235474011,
+            "lat": 52.8920513,
+            "lon": 1.2737852,
+            "tags": {
+                "dog": "no",
+                "name": "Wizard Maze & Play",
+                "tourism": "attraction",
+                "website": "https://www.northnorfolkwizardmaze.co.uk/"
+            }
+        },
+        {
+            "type": "way",
+            "id": 243074531,
+            "lat": 52.7592969,
+            "lon": 1.5493092,
+            "tags": {
+                "building": "yes",
+                "name": "Sutton Corn Mill",
+                "tourism": "museum"
+            }
+        },
+        {
+            "type": "way",
+            "id": 287465626,
+            "lat": 52.4719597,
+            "lon": 1.0735589,
+            "tags": {
+                "building": "yes",
+                "historic": "building",
+                "name": "Market Cross",
+                "operator": "The High Bailiff's Trust",
+                "tourism": "attraction",
+                "wikidata": "Q17553814"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Market_Cross_Building_-_geograph.org.uk_-_789499.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 297939622,
+            "lat": 52.9205496,
+            "lon": 0.7598104,
+            "tags": {
+                "historic": "ruins",
+                "name": "Creake Abbey",
+                "operator": "English Heritage",
+                "ruins": "abbey",
+                "tourism": "attraction",
+                "website": "https://www.english-heritage.org.uk/visit/places/creake-abbey/",
+                "wikidata": "Q5183328",
+                "wikipedia": "en:Creake Abbey"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Creake_Abbey_2.jpg/1280px-Creake_Abbey_2.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 303442412,
+            "lat": 52.9085731,
+            "lon": 0.505772,
+            "tags": {
+                "name": "Norfolk Lavender",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "way",
+            "id": 305551226,
+            "lat": 52.9513075,
+            "lon": 0.7921442,
+            "tags": {
+                "name": "Walled Garden",
+                "tourism": "attraction",
+                "website": "https://www.holkham.co.uk/visit/the-walled-garden/"
+            }
+        },
+        {
+            "type": "way",
+            "id": 310231175,
+            "lat": 52.635013,
+            "lon": 1.2024655,
+            "tags": {
+                "addr:city": "Norwich",
+                "addr:country": "GB",
+                "addr:postcode": "NR9 3LZ",
+                "addr:street": "New Road",
+                "building": "barn",
+                "name": "Lodge Farm Holiday Barns",
+                "phone": "+44 1603 742247",
+                "tourism": "attraction",
+                "website": "https://www.lodgefarmholidaybarns.co.uk/"
+            }
+        },
+        {
+            "type": "way",
+            "id": 319294993,
+            "lat": 52.7006995,
+            "lon": 0.6828945,
+            "tags": {
+                "abandoned:amenity": "place_of_worship",
+                "fee": "yes",
+                "heritage:website": "http://www.heritage.norfolk.gov.uk/record-details?MNF4096",
+                "historic": "ruins",
+                "listed_status": "Grade I",
+                "material": "stone",
+                "name": "Castle Acre Priory",
+                "note": "Priory church from 12th century",
+                "operator": "English Heritage",
+                "religion": "christian",
+                "ruins": "church",
+                "tourism": "attraction",
+                "website": "https://www.english-heritage.org.uk/visit/places/castle-acre-castle-acre-priory/",
+                "wikidata": "Q5049978",
+                "wikipedia": "en:Castle Acre Priory"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CastleAcrePriory.JPG/1280px-CastleAcrePriory.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 331881608,
+            "lat": 52.4018954,
+            "lon": 1.3009194,
+            "tags": {
+                "addr:city": "Harleston",
+                "addr:postcode": "IP20 9BE",
+                "addr:street": "Old Market Place",
+                "building": "yes",
+                "name": "King George's Hall & Museum",
+                "operator": "Harleston & District Historial Society",
+                "source": "Bing",
+                "source:addr:postcode": "code-point_open",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/St.John_the_Baptist_Church_-_geograph.org.uk_-_4396091.jpg/1280px-St.John_the_Baptist_Church_-_geograph.org.uk_-_4396091.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 345074921,
+            "lat": 52.826808,
+            "lon": 0.8474763,
+            "tags": {
+                "name": "Fakenham Museum of Gas and Local History",
+                "source": "Visited, bing and name from pen i brought there",
+                "tourism": "museum",
+                "website": "https://fakenhamgasmuseum.com/",
+                "wikidata": "Q113370024"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/98/Fakenham_West_Railway_Station_-_geograph.org.uk_-_1895740.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 345610510,
+            "lat": 52.8179272,
+            "lon": 1.1756469,
+            "tags": {
+                "addr:city": "Oulton",
+                "addr:postcode": "NR11 6NU",
+                "addr:street": "Hall Road",
+                "building": "yes",
+                "name": "Oulton Chapel",
+                "operator": "NHBT",
+                "tourism": "attraction",
+                "website": "https://www.nhbt.org.uk/properties/oulton-chapel/",
+                "wikidata": "Q17554158"
+            }
+        },
+        {
+            "type": "way",
+            "id": 345720723,
+            "lat": 52.9311335,
+            "lon": 1.3041029,
+            "tags": {
+                "addr:housename": "Rocket House",
+                "building": "yes",
+                "drinking_water": "yes",
+                "fee": "no",
+                "name": "Henry Blogg Lifeboat Museum",
+                "toilets": "yes",
+                "toilets:access": "permissive",
+                "toilets:wheelchair": "yes",
+                "tourism": "museum",
+                "website": "https://rnli.org/find-my-nearest/museums/henry-blogg-museum",
+                "wheelchair": "yes",
+                "wikidata": "Q113360701"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Cromer%2C_Church_St.JPG/1280px-Cromer%2C_Church_St.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 346310153,
+            "lat": 52.4932506,
+            "lon": 1.1962773,
+            "tags": {
+                "name": "Norfolk Tank Museum",
+                "tourism": "museum",
+                "url": "http://norfolktankmuseum.co.uk/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Forncett_station_%28remains%29_geograph-3524685-by-Ben-Brooksbank.jpg/1280px-Forncett_station_%28remains%29_geograph-3524685-by-Ben-Brooksbank.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 351942049,
+            "lat": 52.6871802,
+            "lon": 0.5832968,
+            "tags": {
+                "building": "yes",
+                "name": "Narborough Museum & Heritage Centre",
+                "note": "Phone for appointment to view.",
+                "opening_hours": "Jul-Sep Su 13:00-16:00",
+                "operator": "Narborough History Society",
+                "phone": "+44 1760 337768",
+                "tourism": "museum",
+                "website": "http://www.narboroughhistory.org.uk/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Narbourough_Watermill_22_04_2010.JPG/1280px-Narbourough_Watermill_22_04_2010.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 365644023,
+            "lat": 52.7373828,
+            "lon": 0.8370755,
+            "tags": {
+                "fee": "no",
+                "historic": "ruins",
+                "listed_status": "scheduled_monument",
+                "name": "Mileham Castle",
+                "opening_hours": "24/7",
+                "ref:GB:nhle": "1004018",
+                "surface": "grass",
+                "tourism": "attraction",
+                "url": "http://www.heritage.norfolk.gov.uk/record-details?mnf7230",
+                "wheelchair": "no"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Mileham_Village_Sign.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 374728388,
+            "lat": 52.680668,
+            "lon": 0.9385062,
+            "tags": {
+                "building": "yes",
+                "name": "Bishop Bonner's Cottage Museum",
+                "tourism": "museum",
+                "wikidata": "Q26343315"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Quebec_Street%2C_Dereham_-_geograph.org.uk_-_4464760.jpg/1280px-Quebec_Street%2C_Dereham_-_geograph.org.uk_-_4464760.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 375688013,
+            "lat": 52.914916,
+            "lon": 1.1133799,
+            "tags": {
+                "building": "yes",
+                "layer": "1",
+                "name": "William Marriott Museum",
+                "source": "OS_OpenData_VectorMapLocal",
+                "tourism": "museum",
+                "wikidata": "Q113370203"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Holt_railway_station_heritage_2022.jpg/1280px-Holt_railway_station_heritage_2022.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 375702415,
+            "lat": 52.9315632,
+            "lon": 1.0397681,
+            "tags": {
+                "building": "yes",
+                "name": "The Shell Museum",
+                "opening_hours": "Tu-Sa 10:00-15:00",
+                "source": "OS_OpenData_VectorMapLocal",
+                "tourism": "museum",
+                "website": "http://www.shellmuseum.org.uk/",
+                "wikidata": "Q21716368"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/69/Museum_of_shells_-_geograph.org.uk_-_242242.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 376242213,
+            "lat": 52.6530908,
+            "lon": 1.6384727,
+            "tags": {
+                "addr:city": "Great Yarmouth",
+                "addr:hamlet": "Thrigby",
+                "addr:postcode": "NR29 3DR",
+                "addr:street": "Filby Road",
+                "check_date:opening_hours": "2024-06-28",
+                "fee": "yes",
+                "name": "Thrigby Hall Wildlife Gardens",
+                "opening_hours": "Mo-Su 10:00-17:00",
+                "tourism": "zoo",
+                "website": "https://www.thrigbyhall.com/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/0b/St_Mary%2C_Thrigby%2C_Norfolk_-_geograph.org.uk_-_306891.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 382790370,
+            "lat": 52.9223362,
+            "lon": 1.298087,
+            "tags": {
+                "addr:city": "Cromer",
+                "addr:country": "GB",
+                "addr:postcode": "NR27 9JG",
+                "addr:street": "Hall Road",
+                "email": "imogen@amazonazoo.co.uk",
+                "name": "Amazona Zoo",
+                "opening_hours": "Mo-Su 10:00-17:00",
+                "operator": "Cabbell-Manners family",
+                "phone": "+44 1263 510741",
+                "tourism": "zoo",
+                "website": "https://amazonazoo.co.uk/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Cromer_High_School_12th_Jan_2008_%281%29.JPG/1280px-Cromer_High_School_12th_Jan_2008_%281%29.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 384957946,
+            "lat": 52.3867717,
+            "lon": 1.2123283,
+            "tags": {
+                "addr:city": "Diss",
+                "addr:country": "GB",
+                "addr:housename": "100th Bomb Group Memorial Museum",
+                "addr:postcode": "IP21 4PH",
+                "addr:street": "Common Road",
+                "addr:village": "Thorpe Abbots",
+                "disused:landuse": "military",
+                "inscription": "Thorpe Abbotts Airfield Station 139 USAAF",
+                "museum": "military",
+                "name": "The 100th Bomb Group Memorial Museum",
+                "note": "Memorabilia, housed in an original control tower, about American airmen who came to Norfolk in WWII.",
+                "opening_hours": "Mar-Oct Sa-Su 10:00-17:00; PH 10:00-17:00, May-Sep We 10:00-17:00",
+                "phone": "+44 1379 740708",
+                "tourism": "museum",
+                "website": "https://www.100bgmus.org.uk/",
+                "wheelchair": "limited",
+                "wikidata": "Q12052423"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Thorpe_Abbotts_Control_Tower.jpg/1280px-Thorpe_Abbotts_Control_Tower.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 387139320,
+            "lat": 52.6840138,
+            "lon": 1.4456844,
+            "tags": {
+                "addr:city": "Salhouse",
+                "addr:housename": "Woodbastwick Forge",
+                "addr:street": "Salhouse Road",
+                "building": "yes",
+                "name": "Woodbastwick Forge",
+                "source": "OS_OpenData_VectorMapLocal",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Woodbastwick_Village_Green_-_geograph.org.uk_-_126894.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 390517553,
+            "lat": 52.7410804,
+            "lon": 1.6390155,
+            "tags": {
+                "addr:postcode": "NR29 4EE",
+                "building": "yes",
+                "fee": "yes",
+                "man_made": "windpump",
+                "name": "Horsey Windpump",
+                "operator": "National Trust",
+                "tourism": "attraction",
+                "website": "https://www.nationaltrust.org.uk/visit/norfolk/horsey-windpump",
+                "wheelchair": "no",
+                "wikidata": "Q5906164"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Horsey_Windpump_01.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 394452951,
+            "lat": 52.6020649,
+            "lon": 0.3734764,
+            "tags": {
+                "addr:city": "Downham Market",
+                "addr:country": "GB",
+                "addr:housename": "The Old Fire Station",
+                "addr:housenumber": "30",
+                "addr:postcode": "PE38 9JS",
+                "addr:street": "Priory Road",
+                "building": "yes",
+                "fhrs:id": "853145",
+                "name": "Discover Downham Heritage",
+                "opening_hours": "Th,Fr 10:00-16:00; Sa 10:00-13:00",
+                "source": "OS_OpenData_VectorMapLocal",
+                "source:addr": "FHRS Open Data",
+                "tourism": "museum",
+                "was:amenity": "fire_station",
+                "website": "https://www.discoverdownham.org.uk/",
+                "wikidata": "Q113460535"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Downham_Market_-_Town_Hall_-_east_side_%28geograph_3995699%29.jpg/1280px-Downham_Market_-_Town_Hall_-_east_side_%28geograph_3995699%29.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 407401691,
+            "lat": 36.8483577,
+            "lon": -76.2952154,
+            "tags": {
+                "addr:city": "Norfolk",
+                "addr:housenumber": "1",
+                "addr:postcode": "23510",
+                "addr:state": "VA",
+                "addr:street": "Waterside Drive",
+                "alt_name": "Battleship Wisconsin",
+                "building": "yes",
+                "building:levels": "8",
+                "email": "info@nauticus.org",
+                "museum": "maritime",
+                "name": "USS Wisconsin BB-64",
+                "opening_hours": "Tu-Sa 10:00-17:00; Su 12:00-17:00",
+                "phone": "+1-757-664-1000",
+                "tourism": "museum",
+                "website": "https://nauticus.org/",
+                "wheelchair": "limited",
+                "wikidata": "Q1265287",
+                "wikipedia": "en:USS Wisconsin (BB-64)"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/USS_Wisconsin_%28BB-64%29_underway_at_sea%2C_circa_1988-1991_%28NH_97206-KN%29.jpg/1280px-USS_Wisconsin_%28BB-64%29_underway_at_sea%2C_circa_1988-1991_%28NH_97206-KN%29.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 407401697,
+            "lat": 36.8563882,
+            "lon": -76.2929951,
+            "tags": {
+                "addr:city": "Norfolk",
+                "addr:housenumber": "1",
+                "addr:postcode": "23510",
+                "addr:state": "VA",
+                "addr:street": "Memorial Place",
+                "building": "yes",
+                "email": "info@chrysler.org",
+                "name": "Chrysler Museum of Art",
+                "opening_hours": "Tu-Sa 10:00-17:00; Su 12:00-17:00",
+                "phone": "+1-757-664-6200",
+                "tourism": "museum",
+                "website": "http://www.chrysler.org/",
+                "wikidata": "Q5114675",
+                "wikipedia": "en:Chrysler Museum of Art"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Chryslermuseum.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 407402585,
+            "lat": 36.8553339,
+            "lon": -76.2923804,
+            "tags": {
+                "addr:city": "Norfolk",
+                "addr:housenumber": "745",
+                "addr:postcode": "23510",
+                "addr:street": "Duke Street",
+                "building": "commercial",
+                "museum": "art",
+                "name": "Chrysler Museum Glass Studio",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Chryslermuseum.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 407402666,
+            "lat": 36.8476408,
+            "lon": -76.2951283,
+            "tags": {
+                "addr:city": "Norfolk",
+                "addr:housenumber": "1",
+                "addr:postcode": "23510",
+                "addr:state": "VA",
+                "addr:street": "Waterside Drive",
+                "building": "yes",
+                "name": "Nauticus",
+                "opening_hours:freeform": "Memorial Day - Labor Day: Open Daily, 10 a.m. - 5 p.m. Rest of the year: Closed Mondays, Open Tuesday - Saturday, 10 a.m. - 5 p.m.;Sunday, Noon - 5 p.m.",
+                "phone": "+1-757-664-1000",
+                "tourism": "museum",
+                "website": "https://nauticus.org/",
+                "wheelchair": "yes",
+                "wikipedia": "en:Nauticus"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Nauticuscampus2.jpg/1280px-Nauticuscampus2.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 430817248,
+            "lat": 52.6253683,
+            "lon": 1.3015258,
+            "tags": {
+                "building": "yes",
+                "name": "Dragon Hall",
+                "tourism": "museum",
+                "wikidata": "Q5305211",
+                "wikipedia": "en:Dragon Hall, Norwich"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/The_Dragon_Hall_in_Norwich_-_geograph.org.uk_-_3893441.jpg/1280px-The_Dragon_Hall_in_Norwich_-_geograph.org.uk_-_3893441.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 493914423,
+            "lat": 52.755467,
+            "lon": 0.3933521,
+            "tags": {
+                "addr:city": "King's Lynn",
+                "addr:country": "GB",
+                "addr:postcode": "PE30 1HA",
+                "building": "yes",
+                "name": "St George's Guildhall",
+                "source": "OS OpenMap Local",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/St_George%27s_Guildhall.jpg/1280px-St_George%27s_Guildhall.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 503363120,
+            "lat": 52.3828436,
+            "lon": 1.0523388,
+            "tags": {
+                "name": "Bressingham Steam & Gardens",
+                "tourism": "attraction",
+                "website": "https://www.bressingham.co.uk/",
+                "wikidata": "Q4961884",
+                "wikipedia": "en:Bressingham Steam and Gardens"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/St_John_the_Baptist%2CBressingham_-_geograph.org.uk_-_1024930.jpg/1280px-St_John_the_Baptist%2CBressingham_-_geograph.org.uk_-_1024930.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 518229464,
+            "lat": 52.8702499,
+            "lon": 0.5132835,
+            "tags": {
+                "name": "Snettisham Park",
+                "tourism": "attraction",
+                "url": "http://www.snettishampark.co.uk/"
+            }
+        },
+        {
+            "type": "way",
+            "id": 518319840,
+            "lat": 52.7581699,
+            "lon": 0.3968185,
+            "tags": {
+                "building": "yes",
+                "name": "True's Yard Fisherfolk Museum",
+                "source": "OS VectorMap District",
+                "tourism": "museum",
+                "url": "https://truesyard.co.uk/",
+                "wikidata": "Q7847294"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/True%27s_Yard_King%27s_Lynn.JPG/1280px-True%27s_Yard_King%27s_Lynn.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 538965649,
+            "lat": 52.5037519,
+            "lon": 1.1911589,
+            "tags": {
+                "addr:city": "Norwich",
+                "addr:country": "GB",
+                "addr:housename": "Forncett Industrial Steam Museum",
+                "addr:postcode": "NR16 1JJ",
+                "addr:street": "Low Road",
+                "addr:village": "Forncett St Mary",
+                "building": "yes",
+                "email": "forncettsteammuseum@gmail.com",
+                "fhrs:id": "647559",
+                "name": "Forncett Steam Museum",
+                "phone": "+44 1508 488277",
+                "tourism": "museum",
+                "website": "https://www.forncettsteammuseum.co.uk/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/51/St_Mary%27s_Church%2C_Forncett_St_Mary%2C_Norfolk_-_geograph.org.uk_-_843366.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 545677006,
+            "lat": 52.8940047,
+            "lon": 0.8738042,
+            "tags": {
+                "addr:city": "Walsingham",
+                "addr:street": "High Street",
+                "building": "yes",
+                "material": "stone",
+                "name": "Abbey Gatehouse",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Little_Walsingham%2C_village_square_1.JPG/1280px-Little_Walsingham%2C_village_square_1.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 638488936,
+            "lat": 52.6081834,
+            "lon": 1.7407279,
+            "tags": {
+                "addr:city": "Great Yarmouth",
+                "addr:parentstreet": "Marine Parade",
+                "addr:street": "Britannia Pier",
+                "attraction": "amusement_ride",
+                "name": "Brittania Pier Fair",
+                "tourism": "attraction",
+                "website": "https://www.britannia-pier.co.uk/rides.php"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Britannia_Pier_2026.jpg/1280px-Britannia_Pier_2026.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 664423467,
+            "lat": 52.5704682,
+            "lon": 1.1164467,
+            "tags": {
+                "name": "Wymondham Heritage Museum",
+                "tourism": "museum",
+                "wikidata": "Q110521938"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Cmglee_Wymondham_Market_Place.jpg/1280px-Cmglee_Wymondham_Market_Place.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 666146431,
+            "lat": 36.883031,
+            "lon": -76.3018395,
+            "tags": {
+                "addr:city": "Norfolk",
+                "addr:housenumber": "1075",
+                "addr:postcode": "23508",
+                "addr:state": "VA",
+                "addr:street": "W 43rd St",
+                "building": "yes",
+                "fee": "no",
+                "museum": "art",
+                "name": "Barry Art Museum",
+                "tourism": "museum",
+                "wikidata": "Q92121304"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Ted_Constant_Center_retouched.jpg/1280px-Ted_Constant_Center_retouched.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 671793846,
+            "lat": 52.8942197,
+            "lon": 0.8742157,
+            "tags": {
+                "addr:city": "Walsingham",
+                "addr:street": "Common Place",
+                "building": "yes",
+                "museum": "local",
+                "name": "Shirehall Museum and Abbey Grounds",
+                "phone": "+44 1328 820510",
+                "tourism": "museum",
+                "website": "https://www.walsinghamabbey.com/",
+                "wikidata": "Q113369841"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Little_Walsingham%2C_village_square_1.JPG/1280px-Little_Walsingham%2C_village_square_1.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 671793853,
+            "lat": 52.8948779,
+            "lon": 0.8733653,
+            "tags": {
+                "access": "permit",
+                "addr:city": "Walsingham",
+                "addr:street": "Bridewell Street",
+                "alt_name": "The Bridewell",
+                "building": "yes",
+                "name": "The House of Correction",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Little_Walsingham%2C_village_square_1.JPG/1280px-Little_Walsingham%2C_village_square_1.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 674289163,
+            "lat": 52.6286322,
+            "lon": 1.2897338,
+            "tags": {
+                "building": "yes",
+                "fee": "no",
+                "name": "The South Asia Collection",
+                "shop": "furniture",
+                "tourism": "museum",
+                "website": "https://thesouthasiacollection.co.uk/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Properties_on_Bethel_Street%2C_Norwich_-_geograph.org.uk_-_4663773.jpg/1280px-Properties_on_Bethel_Street%2C_Norwich_-_geograph.org.uk_-_4663773.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 687356244,
+            "lat": 52.5646297,
+            "lon": 0.937077,
+            "tags": {
+                "addr:city": "Norwich",
+                "addr:country": "GB",
+                "addr:county": "Norfolk",
+                "addr:postcode": "NR9 4NT",
+                "addr:street": "Ellingham Road",
+                "addr:village": "Scoulton",
+                "fhrs:id": "832753",
+                "fixme": "Check extent of area",
+                "name": "Melsop Farm Park",
+                "opening_hours": "Tu-Su,SH 10:00-17:00",
+                "source:addr": "FSA Food Hygiene Ratings Database",
+                "tourism": "zoo",
+                "website": "https://www.melsopfarmpark.co.uk/",
+                "zoo": "farm_park"
+            }
+        },
+        {
+            "type": "way",
+            "id": 691596537,
+            "lat": 52.4152185,
+            "lon": 0.7469708,
+            "tags": {
+                "HE_ref": "1297789",
+                "addr:city": "Thetford",
+                "addr:housenumber": "21-23",
+                "addr:postcode": "IP24 1AA",
+                "addr:street": "White Hart Street",
+                "building": "yes",
+                "check_date:opening_hours": "2023-11-10",
+                "fee": "yes",
+                "fee:conditional": "no @ (age < 4)",
+                "listed_status": "Grade I",
+                "museum": "local",
+                "name": "Ancient House Museum of Thetford Life",
+                "not:addr:postcode": "IP24 1AD",
+                "opening_hours": "Apr 01-Sep 30 Tu-Sa 10:00-17:00; Jan 01-Mar 31 Tu-Sa 10:00-16:00; Dec 26 off",
+                "operator": "Norfolk County Council",
+                "source": "Bing",
+                "tourism": "museum",
+                "website": "https://www.ancienthouse.norfolk.gov.uk/",
+                "wheelchair": "yes",
+                "wikidata": "Q17535143"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Charles_Burrell_Museum.jpg/1280px-Charles_Burrell_Museum.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 692995805,
+            "lat": 52.7140833,
+            "lon": 1.4093505,
+            "tags": {
+                "building": "yes",
+                "name": "Mystleigh Model Railway",
+                "source": "Bing",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Hoveton_village_sign_-_geograph.org.uk_-_6704915.jpg/1280px-Hoveton_village_sign_-_geograph.org.uk_-_6704915.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 791069101,
+            "lat": 52.5074836,
+            "lon": 1.4142858,
+            "tags": {
+                "building": "yes",
+                "building:levels": "2",
+                "museum": "history",
+                "name": "USAAF Station 146 Seething",
+                "note": "Open first Sunday of months May to October 10am - 5pm",
+                "tourism": "museum",
+                "website": "http://station146seething.uk/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/19/Seethingairfield-16oct1945.png",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 824717262,
+            "lat": 36.9108576,
+            "lon": -76.3123136,
+            "tags": {
+                "addr:city": "Norfolk",
+                "addr:country": "US",
+                "addr:housenumber": "76737",
+                "addr:postcode": "23505",
+                "addr:state": "VA",
+                "addr:street": "North Shore Road",
+                "amenity": "social_centre",
+                "check_date:opening_hours": "2024-10-25",
+                "ele": "0",
+                "fee": "no",
+                "gnis:feature_id": "1780395",
+                "leisure": "garden",
+                "name": "The Hermitage Foundation",
+                "opening_hours": "Tu-Su 10:00-17:00",
+                "operator": "The Hermitage Foundation",
+                "source": "USGS Geonames",
+                "tourism": "museum",
+                "website": "https://thehermitagemuseum.org/",
+                "wheelchair": "limited",
+                "wheelchair:description": "Second floor requires the use of stairs to access."
+            }
+        },
+        {
+            "type": "way",
+            "id": 839702218,
+            "lat": 52.6727924,
+            "lon": 0.4100681,
+            "tags": {
+                "fee": "yes",
+                "name": "Watatunga Wildlife Reserve",
+                "tourism": "zoo",
+                "zoo": "wildlife_park"
+            }
+        },
+        {
+            "type": "way",
+            "id": 862506907,
+            "lat": 52.4965933,
+            "lon": 1.0525525,
+            "tags": {
+                "aeroway": "hangar",
+                "building": "hangar",
+                "museum": "military",
+                "name": "453rd Bomb Group Museum",
+                "tourism": "museum"
+            }
+        },
+        {
+            "type": "way",
+            "id": 867498709,
+            "lat": 52.7521854,
+            "lon": 0.394862,
+            "tags": {
+                "addr:city": "King's Lynn",
+                "addr:postcode": "PE30 5DQ",
+                "addr:street": "Saturday Market Place",
+                "building": "yes",
+                "fhrs:id": "84909",
+                "name": "Stories of Lynn",
+                "operator": "King's Lynn and West Norfolk Borough Council",
+                "source:addr:postcode": "FHRS Open Data",
+                "tourism": "museum",
+                "website": "https://www.storiesoflynn.co.uk/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Market_Bistro_%28geograph_5372096%29.jpg/1280px-Market_Bistro_%28geograph_5372096%29.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 872301127,
+            "lat": 52.9404923,
+            "lon": 0.4899113,
+            "tags": {
+                "addr:city": "Hunstanton",
+                "addr:street": "Northgate",
+                "building": "yes",
+                "name": "Hunstanton Heritage Centre",
+                "tourism": "museum",
+                "website": "http://www.hunstantoncivicsociety.org.uk/heritage%20centre/heritage%20centre.htm"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/57/Tourist_Information_Centre_-_geograph.org.uk_-_586296.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 892412278,
+            "lat": 42.0379433,
+            "lon": -97.4182564,
+            "tags": {
+                "addr:city": "Norfolk",
+                "addr:housenumber": "515",
+                "addr:postcode": "68701",
+                "addr:street": "Queen City Boulevard",
+                "building": "yes",
+                "ele": "466",
+                "fee": "yes",
+                "gnis:feature_id": "1880373",
+                "name": "Elkhorn Valley Museum and Research Center",
+                "opening_hours": "Tu-Sa 10:00-17:00",
+                "source": "USGS Geonames",
+                "tourism": "museum",
+                "website": "https://elkhornvalleymuseum.org/",
+                "wheelchair": "yes"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Stubbs-Ballah_house_from_SW_1.JPG/1280px-Stubbs-Ballah_house_from_SW_1.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 924110396,
+            "lat": 52.5400428,
+            "lon": 0.5144274,
+            "tags": {
+                "contact:facebook": "https://www.facebook.com/cherrytreefarmmethwold/",
+                "name": "Cherry Treee Farm",
+                "tourism": "zoo",
+                "zoo": "petting_zoo"
+            }
+        },
+        {
+            "type": "way",
+            "id": 938566127,
+            "lat": 52.5381327,
+            "lon": 1.6239725,
+            "tags": {
+                "area": "yes",
+                "name": "St Olave's Priory",
+                "operator": "English Heritage",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/be/St_Olave%27s_Priory_in_St_Olaves_-_geograph.org.uk_-_1801636.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 945251752,
+            "lat": 52.8717001,
+            "lon": 0.9419545,
+            "tags": {
+                "area": "yes",
+                "name": "Thursford Collection",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Entrance_to_the_Thursford_Collection_from_carpark_-_geograph.org.uk_-_570056.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 976819139,
+            "lat": 41.9883138,
+            "lon": -73.1990684,
+            "tags": {
+                "addr:city": "Norfolk",
+                "addr:housenumber": "13",
+                "addr:postcode": "06058",
+                "addr:state": "CT",
+                "addr:street": "Village Green",
+                "building": "yes",
+                "ele": "383",
+                "email": "info@norfolkhistoricalsociety.org",
+                "gnis:feature_id": "1932248",
+                "museum": "history",
+                "name": "Norfolk Historical Society Museum",
+                "phone": "+1 860 542 5761",
+                "source": "USGS Geonames",
+                "tourism": "museum",
+                "website": "https://norfolkhistoricalsociety.org/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c5/LOC_20216v.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 1041764957,
+            "lat": 52.685612,
+            "lon": 0.1972614,
+            "tags": {
+                "area": "yes",
+                "name": "Fenland And West Norfolk Aviation Museum",
+                "tourism": "museum",
+                "wikidata": "Q113370031"
+            }
+        },
+        {
+            "type": "way",
+            "id": 1082659997,
+            "lat": 52.9382166,
+            "lon": 1.2226297,
+            "tags": {
+                "attraction": "formal_garden",
+                "fee": "yes",
+                "name": "Priory Maze And Gardens",
+                "tourism": "attraction",
+                "website": "https://www.priorymazegardens.co.uk/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/8b/The_ruins_of_St_Mary%27s_Priory_-_geograph.org.uk_-_790316.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 1180514589,
+            "lat": 36.8549821,
+            "lon": -76.2923995,
+            "tags": {
+                "building": "yes",
+                "check_date": "2023-06-08",
+                "museum": "art",
+                "name": "Chrysler Museum Glass Studio",
+                "note": "Extention to the current exhibit.",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/York_Street_-_Freemason_Tide_Station.jpg/1280px-York_Street_-_Freemason_Tide_Station.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 1292662579,
+            "lat": 52.6877326,
+            "lon": 1.5504969,
+            "tags": {
+                "man_made": "windpump",
+                "name": "Thurne Dyke Windpump",
+                "note": "A wind powered drainage pump, not a windmill, this drains water from the dykes pumping it into the river. It has never milled anything, though it is sometimes referred to as a mill (Morse's Mill)",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Thurne_Dyke_Wind_Pump.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 1300793626,
+            "lat": 52.6806028,
+            "lon": 1.2746579,
+            "tags": {
+                "addr:city": "Norwich",
+                "addr:country": "GB",
+                "addr:housename": "City of Norwich Aviation Museum",
+                "addr:postcode": "NR10 3JF",
+                "addr:street": "Old Norwich Road",
+                "email": "admin@cnam.org.uk",
+                "fee": "yes",
+                "image": "https://live.staticflickr.com/4825/46195891262_46600964e1_b.jpg",
+                "museum": "aerospace",
+                "name": "City of Norwich Aviation Museum",
+                "opening_hours": "Apr 1-Oct 31: Tu-Sa 10:00-17:00, Su 12:00-17:00; Nov 1-Mar 31: We,Fr,Sa 10:00-16:00, Su 11:00-15:00",
+                "phone": "+44 1603 893080",
+                "tourism": "museum",
+                "website": "https://www.cnam.org.uk/",
+                "wikidata": "Q5123838"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/CNAM_Meteor_F8.jpg/1280px-CNAM_Meteor_F8.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 1300867815,
+            "lat": 52.7963216,
+            "lon": 1.2516149,
+            "tags": {
+                "addr:city": "Norwich",
+                "addr:country": "GB",
+                "addr:housename": "Aylsham Heritage Centre",
+                "addr:postcode": "NR11 6EH",
+                "addr:street": "Market Place",
+                "addr:town": "Aylsham",
+                "building": "museum",
+                "museum": "local",
+                "name": "Aylsham Heritage Centre",
+                "opening_hours": "Mar-Nov Mo 10:30-13:00; Tu-Fr 10:30-15:30; Sa[1] 10:30-13:00",
+                "ref:GB:uprn": "10014352000",
+                "tourism": "museum",
+                "website": "https://www.aylshamheritage.com/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/St.Michael%27s_Aylsham%2C_Norfolk.jpg/1280px-St.Michael%27s_Aylsham%2C_Norfolk.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 1338124695,
+            "lat": 52.6726733,
+            "lon": 1.2711358,
+            "tags": {
+                "area": "yes",
+                "name": "G-BMSD (PA28)",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "way",
+            "id": 1338124696,
+            "lat": 52.6725529,
+            "lon": 1.2712123,
+            "tags": {
+                "area": "yes",
+                "name": "G-EEGU (PA28-161 Warrior II)",
+                "operator": "Norwich Aviation Centre",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "way",
+            "id": 1338124697,
+            "lat": 52.6727863,
+            "lon": 1.2710782,
+            "tags": {
+                "area": "yes",
+                "name": "G-SEJW (PA28-161 Warrior II)",
+                "operator": "Norwich Aviation Centre",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "way",
+            "id": 1338124698,
+            "lat": 52.6727529,
+            "lon": 1.2715749,
+            "tags": {
+                "area": "yes",
+                "name": "G-JLCA (Piper Seneca II)",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "way",
+            "id": 1338125941,
+            "lat": 52.6718575,
+            "lon": 1.2846497,
+            "tags": {
+                "area": "yes",
+                "name": "Transavia Boeing 737-800",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/RAF_Horsham_St_Faith_-_16_April_1946.jpg/1280px-RAF_Horsham_St_Faith_-_16_April_1946.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 1356218026,
+            "lat": 52.9645534,
+            "lon": 0.6517146,
+            "tags": {
+                "name": "Branodunum Roman Fort",
+                "operator": "The National Trust",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Brancaster_Fort_%28Branodunum%29-_aerial_2018_%281%29_%28geograph_5773220%29.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 1366708204,
+            "lat": 52.7121352,
+            "lon": 1.1186865,
+            "tags": {
+                "addr:city": "Norwich",
+                "addr:country": "GB",
+                "addr:county": "Norfolk",
+                "addr:postcode": "NR9 5JE",
+                "addr:street": "Lenwade",
+                "name": "Roarr!",
+                "tourism": "theme_park",
+                "website": "https://roarr.co.uk/"
+            }
+        },
+        {
+            "type": "way",
+            "id": 1367203280,
+            "lat": 52.711188,
+            "lon": 1.4510897,
+            "tags": {
+                "addr:city": "Hoveton",
+                "addr:postcode": "NR12 8JW",
+                "addr:street": "Horning Road",
+                "name": "BeWilderwood Norwich",
+                "tourism": "theme_park",
+                "website": "https://bewilderwood.co.uk/"
+            }
+        },
+        {
+            "type": "way",
+            "id": 1459353310,
+            "lat": 52.6562737,
+            "lon": 0.9583992,
+            "tags": {
+                "addr:city": "Dereham",
+                "addr:housenumber": "Yaxham Waters Holiday Park",
+                "addr:postcode": "NR19 1RF",
+                "addr:street": "Dereham Road",
+                "email": "info@yaxhamwaters.co.uk",
+                "leisure": "resort",
+                "name": "Yaxham Waters Holiday Park",
+                "opening_hours": "24/7",
+                "phone": "+44 1362 696750",
+                "resort": "resort",
+                "tourism": "attraction",
+                "website": "https://www.yaxhamwaters.co.uk/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/14/Yaxham-g2.jpg",
+            "image_source": "wikipedia_verified"
+        }
+    ]
+}

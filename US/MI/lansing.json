@@ -1,0 +1,393 @@
+{
+    "city_metadata": {
+        "city_name": "Lansing",
+        "state_code": "MI",
+        "state_full": "Michigan",
+        "city_summary": "Lansing () is the capital city of the U.S. state of Michigan. The most populous city in Ingham County, parts of the city extend into Eaton County and north into Clinton County. It is the sixth-most populous city in Michigan with a population of 112,644 at the 2020 census.",
+        "city_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/State_Capital_and_Statue_-_panoramio.jpg/1280px-State_Capital_and_Statue_-_panoramio.jpg",
+        "city_lat": 42.71416667,
+        "city_lon": -84.56,
+        "source": "wikipedia_verified_engine"
+    },
+    "attractions": [
+        {
+            "type": "node",
+            "id": 281347595,
+            "lat": 42.7475449,
+            "lon": -84.5493402,
+            "tags": {
+                "name": "Old Town",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Dickens_Village_2008_019_%28Small%29.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 367089589,
+            "lat": 43.3621616,
+            "lon": -91.2165264,
+            "tags": {
+                "addr:state": "IA",
+                "ele": "206",
+                "gnis:feature_id": "1948845",
+                "name": "Museum of River History",
+                "source": "USGS Geonames",
+                "tourism": "museum"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Lansing_Iowa.jpg/1280px-Lansing_Iowa.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 2511515577,
+            "lat": 39.2498278,
+            "lon": -94.8983727,
+            "tags": {
+                "addr:state": "KS",
+                "ele": "256",
+                "gnis:feature_id": "2510269",
+                "name": "Lansing Historical Society and Museum",
+                "source": "USGS Geonames",
+                "tourism": "museum",
+                "website": "https://lansingkansashistory.com/"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Lansing_High_School_marching_band.JPG/1280px-Lansing_High_School_marching_band.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 11515034979,
+            "lat": 42.734795,
+            "lon": -84.5565107,
+            "tags": {
+                "addr:housenumber": "322",
+                "addr:postcode": "48933",
+                "addr:street": "West Ottawa Street",
+                "name": "White Capitol House",
+                "tourism": "attraction"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Emery_Houses%2C_Ottawa_Street_and_Walnut_Street%2C_Lansing%2C_MI_-_54383519810_%28cropped%29.jpg/1280px-Emery_Houses%2C_Ottawa_Street_and_Walnut_Street%2C_Lansing%2C_MI_-_54383519810_%28cropped%29.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "node",
+            "id": 12741982941,
+            "lat": 42.7320243,
+            "lon": -84.5630269,
+            "tags": {
+                "museum": "history",
+                "name": "Michigan History Museum",
+                "note": "Opening hours are inferred based on holidays off for the year listed on website. Holidays not able to be expressed in a way that applies for every year are listed only for 2025.",
+                "opening_hours": "Mo-Sa 10:00-16:00; Su 13:00-17:00; Jan Mo[3] off; Feb Mo[3] off; 2025 May 24-26 off; Jun 19 off; Jul 04:00-06:00 off; 2025 Aug 30-2025 Sep 01 off; Nov 11 off; 2025 Nov 27-30 off; Dec 24-25 off; Dec 31-Jan 01 off",
+                "tourism": "museum"
+            }
+        },
+        {
+            "type": "way",
+            "id": 26261543,
+            "lat": 42.7178052,
+            "lon": -84.5276482,
+            "tags": {
+                "name": "Potter Park Zoo",
+                "tourism": "zoo",
+                "wikidata": "Q7235282"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4c/Lansing_river_trail.jpg/1280px-Lansing_river_trail.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 39704561,
+            "lat": 42.7336054,
+            "lon": -84.5554585,
+            "tags": {
+                "addr:city": "Lansing",
+                "addr:housenumber": "100",
+                "addr:postcode": "48933",
+                "addr:state": "MI",
+                "addr:street": "North Capitol Avenue",
+                "building": "government",
+                "government": "legislative",
+                "name": "Michigan State Capitol",
+                "office": "government",
+                "start_date": "1872",
+                "tourism": "attraction",
+                "wikidata": "Q1579713",
+                "wikipedia": "en:Michigan State Capitol"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Michigan_State_Capitol_2024.jpg/1280px-Michigan_State_Capitol_2024.jpg",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 42505616,
+            "lat": 42.7321536,
+            "lon": -84.5483952,
+            "tags": {
+                "addr:housenumber": "200",
+                "addr:street": "Museum Drive",
+                "building": "yes",
+                "check_date": "2026-03-11",
+                "check_date:opening_hours": "2026-03-11",
+                "fee": "yes",
+                "name": "Impression 5 Science Center",
+                "opening_hours": "Tu-Fr 09:30-16:00; Sa 09:30-17:00; Su 11:30-17:00; Mo off",
+                "phone": "+1-517-485-8116",
+                "tourism": "museum",
+                "website": "https://impression5.org/",
+                "wikidata": "Q6007586",
+                "wikipedia": "en:Impression 5 Science Center"
+            }
+        },
+        {
+            "type": "way",
+            "id": 42505618,
+            "lat": 42.7311825,
+            "lon": -84.5480331,
+            "tags": {
+                "addr:housenumber": "240",
+                "addr:street": "Museum Drive",
+                "alt_name": "Ransom Eli Olds Transportation Museum",
+                "building": "yes",
+                "check_date": "2026-03-11",
+                "check_date:opening_hours": "2026-03-11",
+                "contact:facebook": "https://www.facebook.com/REOldsTransportationMuseum",
+                "contact:twitter": "https://twitter.com/REOldsTMuseum",
+                "fee": "yes",
+                "museum": "history",
+                "name": "R. E. Olds Transportation Museum",
+                "opening_hours": "Tu-Sa 10:00-17:00; Su 12:00-17:00; Mo off",
+                "operator:type": "private",
+                "phone": "+1-517-372-0529",
+                "tourism": "museum",
+                "website": "https://www.reoldsmuseum.org/",
+                "wikidata": "Q3928119",
+                "wikipedia": "en:R. E. Olds Transportation Museum"
+            }
+        },
+        {
+            "type": "way",
+            "id": 374888790,
+            "lat": 42.7510116,
+            "lon": -84.5520931,
+            "tags": {
+                "addr:housenumber": "100",
+                "addr:street": "East North Street",
+                "building": "house",
+                "building:colour": "red",
+                "building:levels": "2",
+                "name": "Turner-Dodge House",
+                "phone": "+1-517-483-4220",
+                "roof:colour": "black",
+                "roof:levels": "1",
+                "toilets": "yes",
+                "toilets:access": "customers",
+                "tourism": "museum",
+                "website": "https://www.lansingmi.gov/938/Turner-Dodge-House",
+                "wikidata": "Q5287872",
+                "wikipedia": "en:Turner-Dodge House"
+            },
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Turner-Dodge_House_Lansing.JPG/1280px-Turner-Dodge_House_Lansing.JPG",
+            "image_source": "wikipedia_verified"
+        },
+        {
+            "type": "way",
+            "id": 660199273,
+            "lat": 42.7212865,
+            "lon": -84.5264711,
+            "tags": {
+                "addr:city": "Lansing",
+                "addr:housenumber": "1136",
+                "addr:postcode": "48912",
+                "addr:state": "MI",
+                "addr:street": "Shepard Street",
+                "building": "yes",
+                "name": "African World Museum and Resource Center",
+                "tourism": "museum"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 4596913,
+            "lat": 42.734109,
+            "lon": -84.54797,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Lansing_Center.JPG",
+            "description": "Lansing Center, officially the Lansing Convention Center, is the primary and largest convention center in Lansing, Michigan, and the only convention center in Michigan's capital region.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Lansing Center",
+                "wikipedia": "en:Lansing Center",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 16378273,
+            "lat": 42.747427,
+            "lon": -84.549518,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Dickens_Village_2008_019_%28Small%29.jpg",
+            "description": "Located in the northern end of Lansing, Michigan, Old Town overlooks the Grand River and a winding bike trail.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Old Town, Lansing, Michigan",
+                "wikipedia": "en:Old Town, Lansing, Michigan",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 28252650,
+            "lat": 42.717,
+            "lon": -84.5537,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/64/REO_Town_District_Lansing%2C_Michigan_2.jpg",
+            "description": "REO Town is a district in Lansing, Michigan, United States, located south of downtown.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "REO Town",
+                "wikipedia": "en:REO Town",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 117994,
+            "lat": 45.88055556,
+            "lon": -84.62305556,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Mackinac_Island%27s_main_town%2C_looking_west._Transportation_on_the_island_is_by_horse%2C_bike%2C_or_foot..jpg/1280px-Mackinac_Island%27s_main_town%2C_looking_west._Transportation_on_the_island_is_by_horse%2C_bike%2C_or_foot..jpg",
+            "description": "Mackinac Island ( MAK-ə-naw, locally  MAK-ə-nə) is a city in Mackinac County in the U.S. state of Michigan.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Mackinac Island, Michigan",
+                "wikipedia": "en:Mackinac Island, Michigan",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 18859,
+            "lat": 44,
+            "lon": -85,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Flag_of_Michigan.svg/1280px-Flag_of_Michigan.svg.png",
+            "description": "Michigan (  MISH-ig-ən) is a peninsular state in the Great Lakes region of the Upper Midwestern United States.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Michigan",
+                "wikipedia": "en:Michigan",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 14344664,
+            "lat": 44.33916667,
+            "lon": -85.33888889,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Cadillac%2C_MI_downtown_%28July_2022%29.jpg/1280px-Cadillac%2C_MI_downtown_%28July_2022%29.jpg",
+            "description": "The Cadillac micropolitan area is a micropolitan statistical area (μSA) defined by the United States Census Bureau as an area encompassing two counties (Missaukee and Wexford) in the U.S. state of Michigan.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Cadillac micropolitan area",
+                "wikipedia": "en:Cadillac micropolitan area",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 2100151,
+            "lat": 26.2634,
+            "lon": 117.6389,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/SanMing.JPG/1280px-SanMing.JPG",
+            "description": "Sanming (Chinese: 三明; pinyin: Sānmíng, Foochow Romanized: Săng-mìng),  also known as Minzhong (simplified Chinese: 闽中; traditional Chinese: 閩中), is a prefecture-level city in western Fujian province, China.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Sanming",
+                "wikipedia": "en:Sanming",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 64646,
+            "lat": 43.6525,
+            "lon": -79.38166667,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Toronto_Skyline_from_Snake_Island%2C_February_28_2026_%2808%29.jpg/1280px-Toronto_Skyline_from_Snake_Island%2C_February_28_2026_%2808%29.jpg",
+            "description": "Toronto is the most populous city in Canada and the capital city of the Canadian province of Ontario.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Toronto",
+                "wikipedia": "en:Toronto",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 20321,
+            "lat": 45.817059,
+            "lon": -84.727822,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Mackinac_Bridge_2022.jpg/1280px-Mackinac_Bridge_2022.jpg",
+            "description": "The Mackinac Bridge ( MAK-ə-naw; also referred to as the Mighty Mac or Big Mac) is a suspension bridge that connects the Upper and Lower peninsulas of the U.S. state of Michigan.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Mackinac Bridge",
+                "wikipedia": "en:Mackinac Bridge",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 13665410,
+            "lat": 42.9511,
+            "lon": -85.6131,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Ramona_Park_Pavilion%2C_Grand_Rapids%2C_MI._Postcard_-_040_-_041.jpeg/1280px-Ramona_Park_Pavilion%2C_Grand_Rapids%2C_MI._Postcard_-_040_-_041.jpeg",
+            "description": "Ramona Park was an amusement park located in the city of East Grand Rapids, Michigan between 1881 and 1955.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Ramona Park",
+                "wikipedia": "en:Ramona Park",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 4147,
+            "lat": -8.335,
+            "lon": 115.08805556,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Bali_in_Indonesia_%28special_marker%29.svg/1280px-Bali_in_Indonesia_%28special_marker%29.svg.png",
+            "description": "Bali (English:  ; Indonesian: ['bali]; Balinese: ᬩᬮᬶ) is an Indonesian island and province and the westernmost of the Lesser Sunda Islands.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Bali",
+                "wikipedia": "en:Bali",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 105032,
+            "lat": 36.4,
+            "lon": 118.4,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/PenglaiPavilion.jpg/1280px-PenglaiPavilion.jpg",
+            "description": "Shandong is a coastal province in East China which has played a major role in the development of the Chinese civilization and culture as it has served as a pivotal cultural and religious center for Taoism, Chinese Buddhism and Confucianism.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Shandong",
+                "wikipedia": "en:Shandong",
+                "tourism": "attraction"
+            }
+        },
+        {
+            "type": "wikipedia_node",
+            "id": 117363,
+            "lat": 44.66305556,
+            "lon": -84.71083333,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Grayling%2C_Michigan_%28Michigan_Ave%292.jpg/1280px-Grayling%2C_Michigan_%28Michigan_Ave%292.jpg",
+            "description": "Grayling ( GRAY-ling) is a city in and the county seat of Crawford County in the U.S. state of Michigan.",
+            "source": "wikipedia_recovery",
+            "tags": {
+                "name": "Grayling, Michigan",
+                "wikipedia": "en:Grayling, Michigan",
+                "tourism": "attraction"
+            }
+        }
+    ]
+}
