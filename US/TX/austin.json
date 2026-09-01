@@ -10,74 +10,181 @@
         "source": "wikipedia_verified_engine"
     },
     "attractions": [
-          {
-    "type": "node", "id": 1, "lat": 30.2747, "lon": -97.7404,
+  
+  {
+      "type": "node",
+      "id": 10892392996,
+      "lat": 30.4023998,
+      "lon": -97.7262173,
+      "tags": {
+          "addr:city": "Austin",
+          "addr:housenumber": "11506",
+          "addr:postcode": "78758",
+          "addr:state": "TX",
+          "addr:street": "Century Oaks Terrace",
+          "name": "Museum of Ice Cream",
+          "tourism": "museum",
+          "website": "https://www.museumoficecream.com/austin/",
+          "category": "Unique & Offbeat",
+          "opening_hours": "10:00 AM-08:00 PM"
+      },
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Sign_Marking_The_Entrance_To_The_Domain_Jan_2023.jpg/250px-Sign_Marking_The_Entrance_To_The_Domain_Jan_2023.jpg",
+      "image_source": "wikipedia_verified"
+  },
+  {
+      "type": "node",
+      "id": 10892346079,
+      "lat": 30.396365,
+      "lon": -97.7271188,
+      "tags": {
+          "museum": "history",
+          "name": "Museum of Illusions",
+          "tourism": "museum",
+          "website": "https://moiaustin.com/",
+          "category": "Unique & Offbeat",
+          "opening_hours": "10:00 AM-08:00 PM"
+      },
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Illusion_in_the_Museum_of_Illusions_in_Montr%C3%A9al_%2854236296692%29.jpg/250px-Illusion_in_the_Museum_of_Illusions_in_Montr%C3%A9al_%2854236296692%29.jpg",
+      "image_source": "wikipedia_verified"
+  },
+  {
+    "type": "node", 
+    "id": 17, 
+    "lat": 30.2280, 
+    "lon": -97.7810,
+    "tags": {
+      "name": "Cathedral of Junk",
+      "category": "Unique & Offbeat",
+      "tourism": "attraction",
+      "addr:city": "Austin",
+      "description": "A three-story, ever-growing sculpture built almost entirely from scrap metal, bicycle parts, toys, and other found objects in the backyard of a private South Austin home. Visits are free but require calling or emailing ahead for an appointment, and a small donation is appreciated.",
+      "website": "https://cathedralofjunk.weebly.com/"
+    },
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Cathedral_of_junk_austin.jpg/250px-Cathedral_of_junk_austin.jpg",
+    "image_source": "wikipedia_verified"
+  },
+  {
+    "type": "node", 
+    "id": 24, 
+    "lat": 30.2280, 
+    "lon": -97.6890,
+    "tags": {
+      "name": "HOPE Outdoor Gallery",
+      "category": "Unique & Offbeat",
+      "tourism": "attraction",
+      "description": "A legal graffiti park where local and visiting artists are free to paint over each other's work, so the walls look completely different every time you visit. Since relocating to Carson Creek, it's more spread out and less crowded than its original downtown location.",
+      "opening_hours": "10:00 AM-09:00 PM",
+      "website": "https://www.hopeoutdoorgallery.com/"
+    },
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Hope_Outdoor_Gallery_Austin_Texas_2026.jpg/250px-Hope_Outdoor_Gallery_Austin_Texas_2026.jpg",
+    "image_source": "wikipedia_verified"
+  },
+  {
+    "type": "node", 
+    "id": 27, 
+    "lat": 30.2490, 
+    "lon": -97.7501,
+    "tags": {
+      "name": "\"I Love You So Much\" Mural",
+      "category": "Unique & Offbeat",
+      "tourism": "artwork",
+      "description": "A simple hand-painted message on the exterior wall of Jo's Coffee on South Congress that's become one of the most Instagrammed spots in the city. It's a quick stop, best combined with grabbing a coffee there and continuing your SoCo walk.",
+      "website": "https://www.ilovesouthcongress.com/murals/"
+    },
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/South_Congress_Austin_-_i_love_you_so_much.jpg/250px-South_Congress_Austin_-_i_love_you_so_much.jpg",
+    "image_source": "wikipedia_verified"
+  },
+  {
+    "type": "node", 
+    "id": 1, 
+    "lat": 30.2747, 
+    "lon": -97.7404,
     "tags": {
       "name": "Texas State Capitol",
       "category": "Landmarks & History",
       "tourism": "attraction",
       "addr:street": "1100 Congress Ave", "addr:city": "Austin", "addr:state": "TX", "addr:postcode": "78701",
       "description": "The largest state capitol building in the United States, taller than even the US Capitol in DC. It's free to enter and self-guided or docent tours are available; the pink granite dome, rotunda, and surrounding 22-acre grounds with monuments are all worth a slow walk-through.",
-      "opening_hours": "07:00 AM-10:00 PM"
+      "opening_hours": "07:00 AM-10:00 PM",
+      "website": "https://tspb.texas.gov/prop/tcvc/cvc/cvc.html"
     },
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Texas_state_capitol_1.jpg/250px-Texas_state_capitol_1.jpg",
     "image_source": "wikipedia_verified"
   },
   {
-    "type": "node", "id": 23, "lat": 30.2861, "lon": -97.7394,
+    "type": "node", 
+    "id": 23, 
+    "lat": 30.2861, 
+    "lon": -97.7394,
     "tags": {
       "name": "UT Austin Tower",
       "category": "Landmarks & History",
       "tourism": "attraction",
       "addr:city": "Austin",
       "description": "The 94-meter clock tower at the center of the UT Austin campus, lit orange after Longhorn sports wins and for special occasions. The observation deck at the top is open only via scheduled guided tours, which need to be booked in advance and sell out on game weekends.",
-      "opening_hours": "07:00 AM-07:00 PM"
+      "opening_hours": "07:00 AM-07:00 PM",
+      "website": "https://tower.utexas.edu/"
     },
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/UT_Tower_and_Shooting_Memorial_Austin.jpg/250px-UT_Tower_and_Shooting_Memorial_Austin.jpg",
     "image_source": "wikipedia_verified"
   },
   
   {
-    "type": "node", "id": 13, "lat": 30.2861, "lon": -97.7300,
+    "type": "node", 
+    "id": 13, 
+    "lat": 30.2861, 
+    "lon": -97.7300,
     "tags": {
       "name": "LBJ Presidential Library",
       "category": "Museums & Culture",
       "tourism": "museum",
       "addr:street": "2313 Red River St", "addr:city": "Austin", "addr:postcode": "78705",
       "description": "A free-to-enter museum covering the life and presidency of Lyndon B. Johnson, with exhibits on the Civil Rights Act, the Vietnam War, and the Great Society programs. There's also a replica of the Oval Office as it looked during his term.",
-      "opening_hours": "09:00 AM-05:00 PM"
+      "opening_hours": "09:00 AM-05:00 PM",
+      "website": "https://www.lbjlibrary.org/"
     },
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/LBJ_Presidential_Library_at_night_-_A_Hard_Day%27s_Night_-_Beatles-inspired_Halloween_Costume_Party_%282015-10-29_20.04.24_by_LBJ_Library%29.jpg/250px-LBJ_Presidential_Library_at_night_-_A_Hard_Day%27s_Night_-_Beatles-inspired_Halloween_Costume_Party_%282015-10-29_20.04.24_by_LBJ_Library%29.jpg",
     "image_source": "wikipedia_verified"
   },
   {
-    "type": "node", "id": 14, "lat": 30.2789, "lon": -97.7376,
+    "type": "node", 
+    "id": 14, 
+    "lat": 30.2789, 
+    "lon": -97.7376,
     "tags": {
       "name": "Blanton Museum of Art",
       "category": "Museums & Culture",
       "tourism": "museum",
       "addr:city": "Austin",
       "description": "The University of Texas's fine art museum, with one of the strongest collections of Latin American art in the US alongside European and contemporary works. Don't miss Ellsworth Kelly's 'Austin,' a standalone building of colored glass and stone right next to the museum.",
-      "opening_hours": "10:00 AM-05:00 PM"
+      "opening_hours": "10:00 AM-05:00 PM",
+      "website": "https://blantonmuseum.org/"
     },
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Exterior_grounds_and_plaza_designed_by_Sn%C3%B8hetta--Blanton_Museum_of_Art--Austin.jpg/250px-Exterior_grounds_and_plaza_designed_by_Sn%C3%B8hetta--Blanton_Museum_of_Art--Austin.jpg",
     "image_source": "wikipedia_verified"
   },
   {
-    "type": "node", "id": 15, "lat": 30.2812, "lon": -97.7402,
+    "type": "node", 
+    "id": 15, 
+    "lat": 30.2812, 
+    "lon": -97.7402,
     "tags": {
       "name": "Bullock Texas State History Museum",
       "category": "Museums & Culture",
       "tourism": "museum",
       "addr:street": "1800 Congress Ave", "addr:city": "Austin",
       "description": "Three floors of interactive exhibits tracing Texas history from indigenous peoples through the Republic era to today, plus a large-format IMAX theater and rotating special exhibits. A good rainy-day or family-friendly option near the Capitol.",
-      "opening_hours": "10:00 AM-05:00 PM"
+      "opening_hours": "10:00 AM-05:00 PM",
+      "website": "https://www.thestoryoftexas.com/"
     },
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Bullock_Museum_Capitol_Mall_Austin_Texas_2023.jpg/250px-Bullock_Museum_Capitol_Mall_Austin_Texas_2023.jpg",
     "image_source": "wikipedia_verified"
   },
   {
-    "type": "node", "id": 4668889549, "lat": 30.2848164, "lon": -97.7321947,
+    "type": "node", 
+    "id": 4668889549, 
+    "lat": 30.2848164, 
+    "lon": -97.7321947,
     "tags": {
       "name": "Stark Center for Physical Culture and Sports",
       "category": "Museums & Culture",
@@ -94,292 +201,438 @@
     "image_source": "wikipedia_verified"
   },
   {
-    "type": "node", "id": 22, "lat": 30.2696, "lon": -97.7415,
+      "type": "way",
+      "id": 172047175,
+      "lat": 30.284335,
+      "lon": -97.7412293,
+      "tags": {
+          "addr:city": "Austin",
+          "addr:housenumber": "300",
+          "addr:postcode": "78705",
+          "addr:state": "TX",
+          "addr:street": "West 21st Street",
+          "name": "Harry Ransom Center",
+          "tourism": "museum",
+          "category": "Museums & Culture",
+          "opening_hours": "10:00 AM-05:00 PM",
+          "website": "https://www.hrc.utexas.edu/"
+      },
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Harry_ransom_center_2012.jpg/250px-Harry_ransom_center_2012.jpg",
+      "image_source": "wikipedia_verified"
+  },
+  {
+      "type": "way",
+      "id": 379166081,
+      "lat": 30.2656777,
+      "lon": -97.7391272,
+      "tags": {
+          "addr:city": "Austin",
+          "addr:housenumber": "409",
+          "addr:postcode": "78701",
+          "addr:state": "TX",
+          "addr:street": "East 5th Street",
+          "name": "O. Henry Museum",
+          "opening_hours": "12:00-05:00 PM",
+          "tourism": "museum",
+          "category": "Museums & Culture",
+          "website": "https://www.austintexas.gov/o-henry"
+      },
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/O_henry_museum_2007.jpg/250px-O_henry_museum_2007.jpg",
+      "image_source": "wikipedia_verified"
+  },
+  {
+    "type": "node", 
+    "id": 22, 
+    "lat": 30.2696, 
+    "lon": -97.7415,
     "tags": {
       "name": "Paramount Theatre",
       "category": "Museums & Culture",
       "amenity": "theatre",
       "addr:street": "713 Congress Ave", "addr:city": "Austin",
-      "description": "A beautifully restored 1915 vaudeville-era theater on Congress Avenue that now runs a mixed program of classic film screenings, comedy specials, and touring Broadway-style shows. The building itself, with its ornate interior, is worth seeing even if you just walk in for a show."
+      "description": "A beautifully restored 1915 vaudeville-era theater on Congress Avenue that now runs a mixed program of classic film screenings, comedy specials, and touring Broadway-style shows. The building itself, with its ornate interior, is worth seeing even if you just walk in for a show.",
+      "website": "https://www.austintheatre.org/"
     },
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Paramount_Theatre_Austin_TribFest_2023.jpg/250px-Paramount_Theatre_Austin_TribFest_2023.jpg",
     "image_source": "wikipedia_verified"
   }, 
   {
-    "type": "node", "id": 2, "lat": 30.2626, "lon": -97.7444,
+    "type": "node", 
+    "id": 2, 
+    "lat": 30.2626, 
+    "lon": -97.7444,
     "tags": {
       "name": "Congress Avenue Bridge Bat Colony",
       "category": "Nature & Outdoors",
       "tourism": "attraction",
-      "description": "Home to roughly 1.5 million Mexican free-tailed bats, the largest urban bat colony in the world. From March through November they pour out from under the bridge right around sunset in a huge dark cloud — arrive 30-45 minutes early and watch either from the bridge itself or the grassy bank on the south side, or book a boat/kayak tour on Lady Bird Lake for a closer view."
+      "description": "Home to roughly 1.5 million Mexican free-tailed bats, the largest urban bat colony in the world. From March through November they pour out from under the bridge right around sunset in a huge dark cloud — arrive 30-45 minutes early and watch either from the bridge itself or the grassy bank on the south side, or book a boat/kayak tour on Lady Bird Lake for a closer view.",
+      "website": "https://www.austintexas.org/things-to-do/outdoors/bat-watching/"
     },
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Bat_Sunset.jpg/250px-Bat_Sunset.jpg",
     "image_source": "wikipedia_verified"
   },
   {
-    "type": "node", "id": 3, "lat": 30.2642, "lon": -97.7714,
+    "type": "node", 
+    "id": 3, 
+    "lat": 30.2642, 
+    "lon": -97.7714,
     "tags": {
       "name": "Barton Springs Pool",
       "category": "Nature & Outdoors",
       "leisure": "swimming_pool",
       "addr:street": "2201 Barton Springs Rd", "addr:city": "Austin", "addr:postcode": "78704",
       "description": "A three-acre natural spring-fed swimming pool that holds a steady 20°C (68°F) year-round, fed by the Edwards Aquifer. It's a local institution rather than a tourist trap — bring a towel, expect a grassy sunbathing area around it, and note there's a small entrance fee except during free early-morning/evening hours.",
-      "opening_hours": "05:00 AM-10:00 PM"
+      "opening_hours": "05:00 AM-10:00 PM",
+      "website": "https://www.austintexas.gov/parks/locations/about-barton-springs-pool"
     },
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Barton_Springs-_Austin%2C_Texas.jpg/250px-Barton_Springs-_Austin%2C_Texas.jpg",
     "image_source": "wikipedia_verified"
   },
   {
-    "type": "node", "id": 4, "lat": 30.2669, "lon": -97.7728,
+    "type": "node", 
+    "id": 4, 
+    "lat": 30.2669, 
+    "lon": -97.7728,
     "tags": {
       "name": "Zilker Metropolitan Park",
       "category": "Nature & Outdoors",
       "leisure": "park",
       "addr:city": "Austin",
       "description": "A 351-acre park that anchors most of Austin's outdoor life: it contains Barton Springs Pool, the Zilker Botanical Garden, a disc golf course, canoe/kayak rentals, and open lawns used for picnics and events. It also hosts the Austin City Limits Music Festival every fall and the Trail of Lights every December.",
-      "opening_hours": "05:00 AM-10:00 PM"
+      "opening_hours": "05:00 AM-10:00 PM",
+      "website": "https://www.austintexas.gov/parks/locations/zilker-metropolitan-park"
     },
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Austin-skyline.jpg/250px-Austin-skyline.jpg",
     "image_source": "wikipedia_verified"
   },
   {
-    "type": "node", "id": 5, "lat": 30.2610, "lon": -97.7615,
+    "type": "node", 
+    "id": 5, 
+    "lat": 30.2610, 
+    "lon": -97.7615,
     "tags": {
       "name": "Lady Bird Lake",
       "category": "Nature & Outdoors",
       "natural": "water",
-      "description": "A reservoir on the Colorado River right through downtown, ringed by the 16 km Ann and Roy Butler Hike-and-Bike Trail. No motorboats are allowed, so it's popular for kayaking, canoeing, and stand-up paddleboarding — rental spots like Congress Avenue Kayaks or Rowing Dock are right on the water."
+      "description": "A reservoir on the Colorado River right through downtown, ringed by the 16 km Ann and Roy Butler Hike-and-Bike Trail. No motorboats are allowed, so it's popular for kayaking, canoeing, and stand-up paddleboarding — rental spots like Congress Avenue Kayaks or Rowing Dock are right on the water.",
+      "website": "https://www.austintexas.gov/parks/locations/lady-bird-lake"
     },
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Lady_bird_lake_island.jpg/250px-Lady_bird_lake_island.jpg",
     "image_source": "wikipedia_verified"
   },
   {
-    "type": "node", "id": 12, "lat": 30.3199, "lon": -97.7735,
+    "type": "node", 
+    "id": 12, 
+    "lat": 30.3199, 
+    "lon": -97.7735,
     "tags": {
       "name": "Mount Bonnell",
       "category": "Nature & Outdoors",
       "tourism": "viewpoint",
-      "description": "One of the highest points in Austin, reached by a short but steep set of roughly 100 stone steps. At the top you get sweeping views over Lake Austin, the Colorado River, and the surrounding hill country — it's especially popular at sunset, so arrive early to grab a good spot."
+      "description": "One of the highest points in Austin, reached by a short but steep set of roughly 100 stone steps. At the top you get sweeping views over Lake Austin, the Colorado River, and the surrounding hill country — it's especially popular at sunset, so arrive early to grab a good spot.",
+      "website": "https://www.austintexas.org/austin-insider-blog/blog/post/mount-bonnell-for-beginners/"
     },
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Covert_Park_at_Mount_Bonnell_20160905131820.jpg/250px-Covert_Park_at_Mount_Bonnell_20160905131820.jpg",
     "image_source": "wikipedia_verified"
   },
   {
-    "type": "node", "id": 18, "lat": 30.3427, "lon": -98.1289,
+    "type": "node", 
+    "id": 18, 
+    "lat": 30.3427, 
+    "lon": -98.1289,
     "tags": {
       "name": "Hamilton Pool Preserve",
       "category": "Nature & Outdoors",
       "natural": "spring",
-      "description": "A jade-green natural swimming hole formed when the dome of an underground river collapsed, framed by a limestone grotto and a waterfall. It's roughly 45 minutes from downtown, and access is by timed reservation only since spots fill up fast in summer."
+      "description": "A jade-green natural swimming hole formed when the dome of an underground river collapsed, framed by a limestone grotto and a waterfall. It's roughly 45 minutes from downtown, and access is by timed reservation only since spots fill up fast in summer.",
+      "website": "https://www.austintexas.org/listings/hamilton-pool-preserve/3946/"
     },
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Hamilton_Pool_Preserve_Waterfall.jpg/250px-Hamilton_Pool_Preserve_Waterfall.jpg",
     "image_source": "wikipedia_verified"
   },
   {
-    "type": "node", "id": 19, "lat": 30.1783, "lon": -97.7089,
+    "type": "node", 
+    "id": 19, 
+    "lat": 30.1783, 
+    "lon": -97.7089,
     "tags": {
       "name": "McKinney Falls State Park",
       "category": "Nature & Outdoors",
       "leisure": "nature_reserve",
       "description": "A state park inside city limits with two sets of waterfalls over limestone shelves, plus hiking and biking trails and a historic homestead site. Easy to combine with a picnic and doesn't require the reservation hassle of Hamilton Pool.",
-      "opening_hours": "08:00 AM-10:00 PM"
+      "opening_hours": "08:00 AM-10:00 PM",
+      "website": "https://www.austintexas.org/austin-insider-blog/blog/post/mckinney-falls/"
     },
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/McKinney_Falls_-_Onion_Creek_%2850910463891%29.jpg/250px-McKinney_Falls_-_Onion_Creek_%2850910463891%29.jpg",
     "image_source": "wikipedia_verified"
   },
   {
-    "type": "node", "id": 25, "lat": 30.2660, "lon": -97.7688,
+    "type": "node", 
+    "id": 25, 
+    "lat": 30.2660, 
+    "lon": -97.7688,
     "tags": {
       "name": "Deep Eddy Pool",
       "category": "Nature & Outdoors",
       "leisure": "swimming_pool",
       "addr:city": "Austin",
       "description": "Believed to be the oldest man-made swimming pool in Texas, spring-fed and set in a quiet park along the Colorado River. It's smaller and far less crowded than Barton Springs, making it a good low-key alternative on a hot day.",
-      "opening_hours": "08:00 AM-08:00 PM"
+      "opening_hours": "08:00 AM-08:00 PM",
+      "website": "https://www.austintexas.gov/parks/locations/deep-eddy-pool"
     },
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/DeepEddyPoolBySteveHopson.jpg/250px-DeepEddyPoolBySteveHopson.jpg",
     "image_source": "wikipedia_verified"
   },
   {
-    "type": "node", "id": 26, "lat": 30.3106, "lon": -97.7699,
+    "type": "node", 
+    "id": 26, 
+    "lat": 30.3106, 
+    "lon": -97.7699,
     "tags": {
       "name": "Mayfield Park & Nature Preserve",
       "category": "Nature & Outdoors",
       "leisure": "park",
       "addr:city": "Austin",
       "description": "A small, free park built around a historic 1920s cottage and lily ponds, best known for the flock of peacocks that roam freely around the grounds. It connects to hiking trails along Lake Austin for a longer walk if you want one.",
-      "opening_hours": "05:00 AM-10:00 PM"
+      "opening_hours": "05:00 AM-10:00 PM",
+      "website": "https://www.austintexas.gov/parks/locations/mayfield-park"
     },
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/MayfieldPark-2008-a.JPG/250px-MayfieldPark-2008-a.JPG",
     "image_source": "wikipedia_verified"
   },
   {
-    "type": "node", "id": 7, "lat": 30.2669, "lon": -97.7405,
+    "type": "node", 
+    "id": 7, 
+    "lat": 30.2669, 
+    "lon": -97.7405,
     "tags": {
       "name": "Sixth Street (Dirty Sixth)",
       "category": "Live Music & Nightlife",
       "tourism": "attraction",
-      "description": "The historic core of Austin nightlife, a few blocks packed with bars, live music venues, and dive spots side by side. Weekend nights get loud and crowded, especially near the intersection with Congress Ave — go for the bar-hopping energy, but expect a very different, calmer vibe on a weekday afternoon."
+      "description": "The historic core of Austin nightlife, a few blocks packed with bars, live music venues, and dive spots side by side. Weekend nights get loud and crowded, especially near the intersection with Congress Ave — go for the bar-hopping energy, but expect a very different, calmer vibe on a weekday afternoon.",
+      "website": "https://6street.com/dirty-6th-street-famous-for-a-reason/"
     },
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Sixth_Street_Austin.jpg/250px-Sixth_Street_Austin.jpg",
     "image_source": "wikipedia_verified"
   },
   {
-    "type": "node", "id": 8, "lat": 30.2600, "lon": -97.7386,
+    "type": "node", 
+    "id": 8, 
+    "lat": 30.2600, 
+    "lon": -97.7386,
     "tags": {
       "name": "Rainey Street Historic District",
       "category": "Live Music & Nightlife",
       "tourism": "attraction",
-      "description": "A street of early-1900s bungalows converted into bars, each with its own backyard patio, string lights, and often a food truck parked out front. It's a mellower, more upscale alternative to Sixth Street, popular with both locals and tourists in the evening."
+      "description": "A street of early-1900s bungalows converted into bars, each with its own backyard patio, string lights, and often a food truck parked out front. It's a mellower, more upscale alternative to Sixth Street, popular with both locals and tourists in the evening.",
+      "website": "https://www.austintexas.org/explore/entertainment-districts/rainey-street/"
     },
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Bungalow_bar_rainey_street_2013.jpg/250px-Bungalow_bar_rainey_street_2013.jpg",
     "image_source": "wikipedia_verified"
   },
   {
-    "type": "node", "id": 20, "lat": 30.2830, "lon": -97.7328,
+    "type": "node", 
+    "id": 20, 
+    "lat": 30.2830, 
+    "lon": -97.7328,
     "tags": {
       "name": "Moody Center",
       "category": "Live Music & Nightlife",
       "amenity": "arena",
       "addr:street": "2001 Robert Dedman Dr", "addr:city": "Austin",
-      "description": "A 15,000-seat arena that opened in 2022 on the UT campus, now the city's main venue for major touring concerts, UT Longhorns basketball games, and large-scale events. Worth checking the schedule before your trip in case something big is playing."
+      "description": "A 15,000-seat arena that opened in 2022 on the UT campus, now the city's main venue for major touring concerts, UT Longhorns basketball games, and large-scale events. Worth checking the schedule before your trip in case something big is playing.",
+      "website": "https://moodycenteratx.com/"
     },
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Moody_Center_-_UT_Austin_%2854984998424%29.jpg/250px-Moody_Center_-_UT_Austin_%2854984998424%29.jpg",
     "image_source": "wikipedia_verified"
   },
   {
-    "type": "node", "id": 21, "lat": 30.2649, "lon": -97.7472,
+    "type": "node", 
+    "id": 21, 
+    "lat": 30.2649, 
+    "lon": -97.7472,
     "tags": {
       "name": "ACL Live at the Moody Theater",
       "category": "Live Music & Nightlife",
       "amenity": "music_venue",
       "addr:street": "310 Willie Nelson Blvd", "addr:city": "Austin",
-      "description": "The intimate venue where the long-running PBS show 'Austin City Limits' is taped, now also hosting regular ticketed concerts across genres. A statue of Willie Nelson stands just outside on the street named after him."
+      "description": "The intimate venue where the long-running PBS show 'Austin City Limits' is taped, now also hosting regular ticketed concerts across genres. A statue of Willie Nelson stands just outside on the street named after him.",
+      "website": "https://www.acllive.com/"
     },
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Austin_City_Limits_Live_at_the_Moody_Theater_August_2019_16_%28Emily_Herring_and_the_Farm_to_Market_Band%29.jpg/250px-Austin_City_Limits_Live_at_the_Moody_Theater_August_2019_16_%28Emily_Herring_and_the_Farm_to_Market_Band%29.jpg",
     "image_source": "wikipedia_verified"
   }, 
   {
-    "type": "node", "id": 29, "lat": 30.2660, "lon": -97.7420,
+    "type": "node", 
+    "id": 29, 
+    "lat": 30.2660, 
+    "lon": -97.7420,
     "tags": {
       "name": "Antone's Nightclub",
       "category": "Live Music & Nightlife",
       "amenity": "music_venue",
       "addr:city": "Austin",
       "description": "Known as 'Austin's Home of the Blues' since it opened in 1975, this club has hosted legends from Stevie Ray Vaughan to Bonnie Raitt over the decades. Still a solid pick for a proper blues/soul set on any given night.",
-      "opening_hours": "12:00 AM-00:00"
+      "opening_hours": "12:00 AM-00:00",
+      "website": "https://antonesnightclub.com/"
     },
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/The_Constellations_at_Antone%27s.jpg/250px-The_Constellations_at_Antone%27s.jpg",
     "image_source": "wikipedia_verified"
   },
   {
-    "type": "node", "id": 30, "lat": 30.2497, "lon": -97.7500,
+    "type": "node", 
+    "id": 30, 
+    "lat": 30.2497, 
+    "lon": -97.7500,
     "tags": {
       "name": "Continental Club",
       "category": "Live Music & Nightlife",
       "amenity": "music_venue",
       "addr:street": "1315 S Congress Ave", "addr:city": "Austin",
       "description": "A retro, red-neon-lit club running continuously since 1955, credited as a launching pad for the local rockabilly, honky-tonk, and roots-rock scenes. Cover charges are usually low, and it's a good pick if you want a smaller, more authentic room than the big Sixth Street venues.",
-      "opening_hours": "16:00 PM-02:00 AM"
+      "opening_hours": "16:00 PM-02:00 AM",
+      "website": "https://continentalclub.com/"
     },
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/The_Continental_Club_Door_Austin_2019.jpg/250px-The_Continental_Club_Door_Austin_2019.jpg",
     "image_source": "wikipedia_verified"
   },
   {
-    "type": "node", "id": 9, "lat": 30.2701, "lon": -97.7313,
+    "type": "node", 
+    "id": 9, 
+    "lat": 30.2701, 
+    "lon": -97.7313,
     "tags": {
       "name": "Franklin Barbecue",
       "category": "Food & Drink",
       "amenity": "restaurant",
       "addr:street": "900 E 11th St", "addr:city": "Austin", "addr:postcode": "78702",
       "description": "Widely regarded as the best brisket in Texas, if not the country — Aaron Franklin's smokehouse routinely sells out by early afternoon. People start lining up before opening (sometimes at dawn), so plan to arrive early or order ahead if pickup is offered; it's a rite of passage for BBQ fans.",
-      "opening_hours": "11:00 AM-03:00 PM"
+      "opening_hours": "11:00 AM-03:00 PM",
+      "website": "https://franklinbbq.com/"
     },
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Franklin_Barbecue_Austin_About_to_Open.jpg/250px-Franklin_Barbecue_Austin_About_to_Open.jpg",
     "image_source": "wikipedia_verified"
   },
   {
-    "type": "node", "id": 10, "lat": 30.2508, "lon": -97.7503,
+    "type": "node", 
+    "id": 10, 
+    "lat": 30.2508, 
+    "lon": -97.7503,
     "tags": {
       "name": "Terry Black's Barbecue",
       "category": "Food & Drink",
       "amenity": "restaurant",
       "addr:city": "Austin",
       "description": "A large, family-run BBQ hall on South Congress with a much more manageable line than Franklin's, while still serving excellent smoked brisket, ribs, and sausage. Good option if you want a proper Texas BBQ experience without the multi-hour wait.",
-      "opening_hours": "10:30 AM-09:30 PM"
+      "opening_hours": "10:30 AM-09:30 PM",
+      "website": "https://terryblacksbbq.com/"
     },
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Barbecue_from_Terry_Black%27s.jpg/250px-Barbecue_from_Terry_Black%27s.jpg",
     "image_source": "wikipedia_verified"
   },
   {
-    "type": "node", "id": 11, "lat": 30.0138, "lon": -98.0114,
+    "type": "node", 
+    "id": 11, 
+    "lat": 30.0138, 
+    "lon": -98.0114,
     "tags": {
       "name": "The Salt Lick BBQ",
       "category": "Food & Drink",
       "amenity": "restaurant",
       "addr:city": "Driftwood", "addr:state": "TX",
       "description": "A destination BBQ restaurant about 30-40 minutes outside Austin, cooked over an open limestone pit that's been running since the 1960s. It's often paired with a visit to the Texas Hill Country wineries nearby, and it's cash/BYOB-friendly (check current rules) rather than a quick city-center stop.",
-      "opening_hours": "11:00 AM-09:00 PM"
+      "opening_hours": "11:00 AM-09:00 PM",
+      "website": "https://www.saltlickbbq.com/"
     },
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Saltlickpit.jpg/250px-Saltlickpit.jpg",
     "image_source": "wikipedia_verified"
   },
   {
-    "type": "node", "id": 17, "lat": 30.2280, "lon": -97.7810,
-    "tags": {
-      "name": "Cathedral of Junk",
-      "category": "Unique & Offbeat",
-      "tourism": "attraction",
-      "addr:city": "Austin",
-      "description": "A three-story, ever-growing sculpture built almost entirely from scrap metal, bicycle parts, toys, and other found objects in the backyard of a private South Austin home. Visits are free but require calling or emailing ahead for an appointment, and a small donation is appreciated."
-    },
-    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Cathedral_of_junk_austin.jpg/250px-Cathedral_of_junk_austin.jpg",
-    "image_source": "wikipedia_verified"
-  },
-  {
-    "type": "node", "id": 24, "lat": 30.2280, "lon": -97.6890,
-    "tags": {
-      "name": "HOPE Outdoor Gallery",
-      "category": "Unique & Offbeat",
-      "tourism": "attraction",
-      "description": "A legal graffiti park where local and visiting artists are free to paint over each other's work, so the walls look completely different every time you visit. Since relocating to Carson Creek, it's more spread out and less crowded than its original downtown location.",
-      "opening_hours": "10:00 AM-09:00 PM"
-    },
-    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Hope_Outdoor_Gallery_Austin_Texas_2026.jpg/250px-Hope_Outdoor_Gallery_Austin_Texas_2026.jpg",
-    "image_source": "wikipedia_verified"
-  },
-  {
-    "type": "node", "id": 27, "lat": 30.2490, "lon": -97.7501,
-    "tags": {
-      "name": "\"I Love You So Much\" Mural",
-      "category": "Unique & Offbeat",
-      "tourism": "artwork",
-      "description": "A simple hand-painted message on the exterior wall of Jo's Coffee on South Congress that's become one of the most Instagrammed spots in the city. It's a quick stop, best combined with grabbing a coffee there and continuing your SoCo walk."
-    },
-    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/South_Congress_Austin_-_i_love_you_so_much.jpg/250px-South_Congress_Austin_-_i_love_you_so_much.jpg",
-    "image_source": "wikipedia_verified"
-  },
-  {
-    "type": "node", "id": 6, "lat": 30.2500, "lon": -97.7500,
+    "type": "node", 
+    "id": 6, 
+    "lat": 30.2500, 
+    "lon": -97.7500,
     "tags": {
       "name": "South Congress Avenue (SoCo)",
       "category": "Shopping & Neighborhoods",
       "shop": "district",
-      "description": "A walkable strip of independent boutiques, vintage clothing stores, art galleries, and food trailers just south of the river. It's also where you'll find the famous 'Hi, How Are You' frog mural (Jeremiah the Innocent) and great photo ops of the Capitol framed by the street looking north."
+      "description": "A walkable strip of independent boutiques, vintage clothing stores, art galleries, and food trailers just south of the river. It's also where you'll find the famous 'Hi, How Are You' frog mural (Jeremiah the Innocent) and great photo ops of the Capitol framed by the street looking north.",
+      "website": "https://www.austintexas.org/listings/south-congress-avenue-(soco)/4359/"
     },
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/SoCo.jpg/250px-SoCo.jpg",
     "image_source": "wikipedia_verified"
   },
   {
-    "type": "node", "id": 28, "lat": 30.4000, "lon": -97.9000,
+    "type": "node", 
+    "id": 28, 
+    "lat": 30.4000, 
+    "lon": -97.9000,
     "tags": {
       "name": "Lake Travis",
       "category": "Day Trips",
       "natural": "water",
-      "description": "A large reservoir west of the city lined with marinas, lakeside restaurants, and cliff-jumping spots. Popular activities include boat rentals, jet skiing, and the Lake Travis Zipline Adventures course that runs across the water — worth a half or full day out of downtown."
+      "description": "A large reservoir west of the city lined with marinas, lakeside restaurants, and cliff-jumping spots. Popular activities include boat rentals, jet skiing, and the Lake Travis Zipline Adventures course that runs across the water — worth a half or full day out of downtown.",
+      "website": "https://laketravis.com/"
     },
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Bob_Wentz_Park_at_Windy_Point_on_Lake_Travis_-_Austin%2C_Travis_County%2C_Texas_%2847550178722%29.jpg/250px-Bob_Wentz_Park_at_Windy_Point_on_Lake_Travis_-_Austin%2C_Travis_County%2C_Texas_%2847550178722%29.jpg",
     "image_source": "wikipedia_verified"
+  },
+  {
+      "type": "way",
+      "id": 379208448,
+      "lat": 30.2669905,
+      "lon": -97.7322,
+      "tags": {
+          "addr:city": "Austin",
+          "addr:housenumber": "802",
+          "addr:postcode": "78701",
+          "addr:state": "TX",
+          "addr:street": "San Marcos Street",
+          "museum": "history",
+          "name": "French Legation Museum",
+          "tourism": "museum",
+          "website": "https://www.thc.texas.gov/historic-sites/french-legation-state-historic-site",
+          "category": "Landmarks & History",
+          "opening_hours": "09:00 AM-05:00 PM"
+      },
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/French_legation_2011.jpg/250px-French_legation_2011.jpg",
+      "image_source": "wikipedia_verified"
+  },
+  {
+      "type": "way",
+      "id": 380916245,
+      "lat": 30.2874768,
+      "lon": -97.7482751,
+      "tags": {
+          "addr:city": "Austin",
+          "addr:housenumber": "2310",
+          "addr:postcode": "78705",
+          "addr:state": "TX",
+          "addr:street": "San Gabriel Street",
+          "name": "Neill-Cochran House Museum",
+          "tourism": "museum",
+          "category": "Landmarks & History",
+          "opening_hours": "11:00 AM-04:00 PM",
+          "website": "https://www.nchmuseum.org/"
+      },
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Neill_cochran_house_2007.jpg/250px-Neill_cochran_house_2007.jpg",
+      "image_source": "wikipedia_verified"
+  },
+  {
+      "type": "way",
+      "id": 1266596014,
+      "lat": 30.263044,
+      "lon": -97.7662416,
+      "tags": {
+          "museum": "art",
+          "name": "Umlauf Sculpture Garden & Museum;Umlauf Sculpture Garden and Museum",
+          "tourism": "museum",
+          "website": "https://www.umlaufsculpture.org/",
+          "category": "Museums & Culture",
+          "opening_hours": "10:00 AM-04:00 PM"
+      },
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Umlauf_garden1_2006.jpg/250px-Umlauf_garden1_2006.jpg",
+      "image_source": "wikipedia_verified"
   }
-    ]
+]
 }
